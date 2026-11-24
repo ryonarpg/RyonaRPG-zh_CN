@@ -18739,7 +18739,9 @@ msgstr ""
 msgid ""
 "SW 878:OFF\n"
 "引き抜きエフェクト出現には ONに変更が必要。 "
-msgstr "SW 878:OFF 要出现拔出效果，需要改为 ON。"
+msgstr ""
+"SW 878:OFF\n"
+"要出现拔出效果，需要改为 ON。"
 
 #. ID 306, Page 1, Line 598, Pos (17,22)
 #. Choice (2 options, embedded in a message)

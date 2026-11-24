@@ -46,7 +46,8 @@ msgid ""
 "（ＦＳＭ改変）"
 msgstr ""
 "地图块素材引用来源：\n"
-"缝隙素材http://wato5576.sukimakaze.com/\n"
+"缝隙素材\n"
+"http://wato5576.sukimakaze.com/\n"
 "（FSM修改）"
 
 #. ID 30, Page 2, Line 5, Pos (31,14)
