@@ -17203,7 +17203,7 @@ msgstr "海鸣村"
 #. ChangeHeroName (Actor 101)
 msgctxt "actors.name"
 msgid "クリア工房"
-msgstr "克莱尔工房"
+msgstr "克莉亚工房"
 
 #. ID 310, Line 2713
 #. ChangeHeroName (Actor 101)
