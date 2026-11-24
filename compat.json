@@ -1,9 +1,27 @@
 {
   "game": "RyonaRPG 2026 日本語版",
+  "game_edition": "Classic Japanese",
+  "game_language": "ja",
+  "game_version": "core0163",
+  "game_version_note": "Japanese maintenance edition based on core0163.",
   "source_language": "ja",
   "translation_language": "zh_CN",
   "translation_version": "0.1.0",
   "language_path": "language/zh_CN",
   "game_ldb_sha256": "5bedbdcf2507632a65d4b2bab4d500d0795982f62c5b02f1345a7ed8a7d4c76a",
-  "notes": "更新游戏本体后请重新核对 RPG_RT.ldb 哈希并重跑 QA。"
+  "reference_releases": {
+    "classic_japanese": {
+      "project": "Classic Japanese",
+      "release": "core0163",
+      "note": "Japanese maintenance edition based on core0163."
+    },
+    "classic_english": {
+      "archive": "RyonaRPG-classic-en-a8d5ca191a4c.zip",
+      "published": "2026-09-13",
+      "git": "a8d5ca191a4c",
+      "sha256": "738919261550ac649f6367b7cac7168f68fed04d21f1d4c33426460404774b3c",
+      "note": "English Classic reference only; not the base of this patch."
+    }
+  },
+  "notes": "本补丁基于日文 Classic Japanese core0163；更新游戏本体后请重新核对 RPG_RT.ldb 哈希并重跑 QA。"
 }

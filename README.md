@@ -2,6 +2,13 @@
 
 本仓库只维护中文翻译覆盖层、启动脚本和工具，不包含完整游戏本体。
 
+## 对应原版版本
+
+- **日文原版**：Classic Japanese，`core0163`（Japanese maintenance edition based on core0163）。
+- 本补丁使用该版本的 `RPG_RT.ldb`；校验哈希见 `compat.json`。
+- 英文 Classic 仅作参考：`RyonaRPG-classic-en-a8d5ca191a4c.zip`（2026-09-13，Git `a8d5ca191a4c`，SHA-256 `738919261550ac649f6367b7cac7168f68fed04d21f1d4c33426460404774b3c`），**不是本补丁的基础版本**。
+- 当前翻译版本：`0.1.0`。
+
 ## 目录
 
 ```text
