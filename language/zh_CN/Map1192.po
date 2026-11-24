@@ -1,0 +1,35 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 28, Page 2, Line 3, Pos (7,14)
+msgid "最後に一匹の巨大な悪魔をこの塔に封じ込めた"
+msgstr "最后将一只巨大的恶魔封印在这座塔中"
+
+#. ID 28, Page 2, Line 4, Pos (7,14)
+msgid ""
+"奴が悪魔の首領格であったなら良かったのだが、\n"
+"あまり知性があるとは思えない"
+msgstr ""
+"如果那家伙是恶魔的首领级就好了，\n"
+"但我不觉得它有太多智慧"
+
+#. ID 28, Page 2, Line 6, Pos (7,14)
+msgid ""
+"奴も我々が作ったナイトゴーントのように、\n"
+"兵器の一種なのかもしれない"
+msgstr "那家伙也许也像我们制造的夜魇一样，是兵器的一种"
+
+#. ID 28, Page 2, Line 8, Pos (7,14)
+msgid "我々は奴のことをムーアと呼んだ"
+msgstr "我们称那家伙为摩尔"

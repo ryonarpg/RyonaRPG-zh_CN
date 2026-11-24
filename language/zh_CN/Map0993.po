@@ -1,0 +1,162 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 32, Page 3, Line 3, Pos (18,18)
+#. ID 39, Page 3, Line 3, Pos (22,18)
+msgid "何か落ちている……"
+msgstr "有什么掉在地上……"
+
+#. ID 32, Page 3, Line 5, Pos (18,18)
+msgid "光るものを手に入れた。"
+msgstr "获得了发光的东西。"
+
+#. ID 35, Page 1, Line 14, Pos (0,7)
+#. ID 35, Page 1, Line 30, Pos (0,7)
+msgid ""
+"……ずうずうしくも。\n"
+"また来ましたか、侵入者よ。"
+msgstr "……真是厚颜无耻。又来了吗，入侵者。"
+
+#. ID 35, Page 1, Line 17, Pos (0,7)
+msgid ""
+"よろしい。\n"
+"貴女に奪われた純潔の恨み……\n"
+"ここで晴らすことにいたしましょう！"
+msgstr "好。被你夺去的纯洁之恨……就在这里清算吧！"
+
+#. ID 35, Page 1, Line 20, Pos (0,7)
+#. ID 35, Page 1, Line 36, Pos (0,7)
+msgid ""
+"悔恨の念にその身を焼かれながら\n"
+"疾(と)く冥府に行くがいい!"
+msgstr "让悔恨之念焚烧你的身体，赶快去冥府吧！"
+
+#. ID 35, Page 1, Line 33, Pos (0,7)
+msgid ""
+"よろしい。\n"
+"破廉恥にもおめおめと再び現れた\n"
+"その愚を思い知らせてさしあげましょう!"
+msgstr "好。就让你明白，恬不知耻地再次出现是多么愚蠢！"
+
+#. ID 35, Page 1, Line 48, Pos (0,7)
+msgid ""
+"強き侵入者よ。\n"
+"我らが千年の奥都城(おくつき)へようこそ。"
+msgstr ""
+"强大的入侵者啊。欢迎来到我们千年的奥都城\n"
+"（陵墓）。"
+
+#. ID 35, Page 1, Line 50, Pos (0,7)
+msgid "わたくしの名はアムネリス。この国の王妃です。"
+msgstr "我的名字是阿姆内利斯。是这个国家的王妃。"
+
+#. ID 35, Page 1, Line 56, Pos (0,7)
+msgid ""
+"わたくしが悠久の眠りより覚めてから、\n"
+"貴女が最初の訪問者となります。"
+msgstr "自我从悠久的睡眠中醒来之后，你便是第一位访客。"
+
+#. ID 35, Page 1, Line 58, Pos (0,7)
+msgid ""
+"遠路はるばる大儀でした。\n"
+"国賓として歓待しましょう……\n"
+"と、言いたいところですが。"
+msgstr ""
+"远道而来辛苦了。就作为国宾款待你吧……\n"
+"虽然想这么说。"
+
+#. ID 35, Page 1, Line 67, Pos (0,7)
+msgid "本当に残念ですが、それだけの時間はないようです。"
+msgstr "真的很遗憾，但似乎没有那么多时间。"
+
+#. ID 35, Page 1, Line 74, Pos (0,7)
+msgid ""
+"止まっていた時が動き始めました。\n"
+"そう、再び始まるのです。\n"
+"偉大なる王国の栄光の歴史が。"
+msgstr ""
+"停滞的时间开始转动了。没错，再次开始了。\n"
+"伟大王国的荣光历史。"
+
+#. ID 35, Page 1, Line 78, Pos (0,7)
+msgid ""
+"一刻の遅れも許されない!\n"
+"世界が我らの統治を千年待ったのだから!"
+msgstr ""
+"一刻也不能耽搁！\n"
+"因为世界已经等待我们的统治一千年了！"
+
+#. ID 35, Page 1, Line 84, Pos (0,7)
+msgid ""
+"貴女の名は\n"
+"復活した王国の最初の障碍として永久に刻まれる。\n"
+"その栄誉を抱いて死ぬがいい!"
+msgstr ""
+"你的名字将作为复活王国最初的障碍被永久铭刻。\n"
+"你就抱着这份荣誉去死吧！"
+
+#. ID 36, Page 2, Line 5, Pos (1,7)
+msgid ""
+"くっ……!\n"
+"よもや、このわたくしがまたしても遅れをとろうとは!\n"
+"おのれ口惜しや……!"
+msgstr ""
+"唔……！没想到，我竟然再次落后！可恶，好不甘心……\n"
+"！"
+
+#. ID 36, Page 2, Line 10, Pos (1,7)
+msgid ""
+"わ、我が君……\n"
+"お言いつけを守りました……\n"
+"どうか……わたくしを……愛して……"
+msgstr "我、我的王……我遵守了您的吩咐……求您……爱我……"
+
+#. ID 36, Page 2, Line 26, Pos (1,7)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:無し"
+msgstr "end:无"
+
+#. ID 39, Page 3, Line 5, Pos (22,18)
+msgid "クリスタルのかけらを手に入れた。"
+msgstr "获得了水晶碎片。"
+
+#. ID 58, Page 2, Line 3, Pos (20,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ここから地上に戻れるようだ。\n"
+"脱出しますか?"
+msgstr "似乎可以从这里返回地面。要脱出吗？"
+
+#. ID 58, Page 2, Line 5, Pos (20,14)
+#. Choice (2 options, embedded in a message)
+#. ID 67, Page 2, Line 6, Pos (20,36)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 67, Page 2, Line 3, Pos (20,36)
+msgid ""
+"いつの間にか\n"
+"ワープゾーンが出現している……。"
+msgstr "不知不觉间传送区域出现了……。"
+
+#. ID 67, Page 2, Line 5, Pos (20,36)
+#. Contains choice at line 2 (2 options)
+msgid "入ってみますか？"
+msgstr "要进去试试吗？"

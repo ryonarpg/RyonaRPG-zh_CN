@@ -1,0 +1,307 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 29, Page 2, Line 3, Pos (4,5)
+msgid ""
+"「泳ぐもの」の隣に「角を持つ獣」がある。\n"
+"「狩人」の隣に「生贄」がある。"
+msgstr ""
+"「游水之物」旁边是「有角之兽」。「猎人」旁边是\n"
+"「祭品」。"
+
+#. ID 30, Page 2, Line 3, Pos (4,13)
+msgid ""
+"「猛獣」の正反対は「鏡合わせ」である。\n"
+"「鏡合わせ」の隣は「泳ぐもの」である。"
+msgstr ""
+"「猛兽」的正对面是「镜像」。「镜像」旁边是\n"
+"「游水之物」。"
+
+#. ID 31, Page 2, Line 3, Pos (3,37)
+msgid ""
+"かつて「毒牙を操るもの」は彼らと共にあった。\n"
+"しかし既にその事実は忘却の彼方に捨て去られ、\n"
+"今彼らが形作る輪の中にその姿は無い。"
+msgstr ""
+"曾经「操毒牙者」与他们同在。\n"
+"然而这一事实早已被弃于遗忘的彼方，\n"
+"如今在他们所构成的轮中已无其身影。"
+
+#. ID 32, Page 2, Line 3, Pos (27,13)
+msgid ""
+"「狩人」「乙女」「泳ぐもの」「解を背負う虫」\n"
+"これら４つは正方形を成す。"
+msgstr ""
+"「猎人」「少女」「游水之物」「背负解答之虫」\n"
+"这4个构成正方形。"
+
+#. ID 33, Page 2, Line 3, Pos (27,25)
+msgid ""
+"「動かぬもの以外の４文字」の正反対は「水」である。\n"
+"「猛獣」と「解を背負う虫」の中間点は「毒」である。"
+msgstr ""
+"「不动之物以外的4个字」的正对面是「水」。\n"
+"「猛兽」与「背负解答之虫」的中间点是「毒」。"
+
+#. ID 34, Page 2, Line 3, Pos (14,33)
+msgid ""
+"「動かぬもの以外の４文字」は南西の「猛獣」に脅え、\n"
+"東北東の「狩人」に助けを求める。 \n"
+"「解を背負う虫」は２つの「動かぬもの」に挟まれる。"
+msgstr ""
+"「不动之物以外的4个字」畏惧西南的「猛兽」，\n"
+"向东北东的「猎人」求助。「背负解答之虫」被两个\n"
+"「不动之物」夹在中间。"
+
+#. ID 35, Page 2, Line 3, Pos (3,25)
+msgid ""
+"「水」は「動かぬもの」である。\n"
+"「毒」は「動くもの」である。\n"
+"我等の神の「正義」は決して「動かぬもの」である。"
+msgstr ""
+"「水」是「不动之物」。「毒」是「动之物」。\n"
+"我等之神的「正义」绝对是「不动之物」。"
+
+#. ID 40, Page 2, Line 3, Pos (29,3)
+msgid "………"
+msgstr "………"
+
+#. ID 40, Page 2, Line 4, Pos (29,3)
+msgid "隠し階段を発見した！"
+msgstr "发现了隐藏楼梯！"
+
+#. ID 48, Page 2, Line 3, Pos (27,37)
+msgid ""
+"我等の神は星々の運行さえも支配する。\n"
+"外界の徒の星陣は神によってバラバラにされ\n"
+"新たに創り上げられし理こそが\n"
+"真の「星と刻の陣」である。"
+msgstr ""
+"我等之神甚至支配星辰的运行。\n"
+"外界之徒的星阵被神打散，\n"
+"被重新创造出的法则才是真正的「星与刻之阵」。"
+
+#. ID 49, Page 2, Line 10, Pos (26,4)
+msgid "聖なる矢を 30本 手に入れた！"
+msgstr "获得了 30 支圣箭！"
+
+#. ID 60, Page 2, Line 8, Pos (14,4)
+#. Choice (4 options)
+#. ID 61, Page 2, Line 8, Pos (16,5)
+#. Choice (4 options)
+#. ID 62, Page 2, Line 8, Pos (18,7)
+#. Choice (4 options)
+#. ID 63, Page 2, Line 8, Pos (19,9)
+#. Choice (4 options)
+#. ID 64, Page 2, Line 8, Pos (18,11)
+#. Choice (4 options)
+#. ID 65, Page 2, Line 8, Pos (16,13)
+#. Choice (4 options)
+#. ID 66, Page 2, Line 8, Pos (14,14)
+#. Choice (4 options)
+#. ID 67, Page 2, Line 8, Pos (12,13)
+#. Choice (4 options)
+#. ID 68, Page 2, Line 8, Pos (10,11)
+#. Choice (4 options)
+#. ID 69, Page 2, Line 8, Pos (9,9)
+#. Choice (4 options)
+#. ID 70, Page 2, Line 8, Pos (10,7)
+#. Choice (4 options)
+msgid ""
+"\\>$O（おひつじ）\n"
+"\\>$P（おうし）\n"
+"\\>$Q（ふたご）\n"
+"\\>＞＞次の選択肢"
+msgstr ""
+"\\>$O（白羊）\n"
+"\\>$P（金牛）\n"
+"\\>$Q（双子）\n"
+"\\>＞＞下一个选项"
+
+#. ID 60, Page 2, Line 19, Pos (14,4)
+#. Choice (4 options)
+#. ID 61, Page 2, Line 19, Pos (16,5)
+#. Choice (4 options)
+#. ID 62, Page 2, Line 19, Pos (18,7)
+#. Choice (4 options)
+#. ID 63, Page 2, Line 19, Pos (19,9)
+#. Choice (4 options)
+#. ID 64, Page 2, Line 19, Pos (18,11)
+#. Choice (4 options)
+#. ID 65, Page 2, Line 19, Pos (16,13)
+#. Choice (4 options)
+#. ID 66, Page 2, Line 19, Pos (14,14)
+#. Choice (4 options)
+#. ID 67, Page 2, Line 19, Pos (12,13)
+#. Choice (4 options)
+#. ID 68, Page 2, Line 19, Pos (10,11)
+#. Choice (4 options)
+#. ID 69, Page 2, Line 19, Pos (9,9)
+#. Choice (4 options)
+#. ID 70, Page 2, Line 19, Pos (10,7)
+#. Choice (4 options)
+msgid ""
+"\\>$R（かに）\n"
+"\\>$S（しし）\n"
+"\\>$T（おとめ）\n"
+"\\>＞＞次の選択肢"
+msgstr ""
+"\\>$R（巨蟹）\n"
+"\\>$S（狮子）\n"
+"\\>$T（处女）\n"
+"\\>＞＞下一个选项"
+
+#. ID 60, Page 2, Line 30, Pos (14,4)
+#. Choice (4 options)
+#. ID 61, Page 2, Line 30, Pos (16,5)
+#. Choice (4 options)
+#. ID 62, Page 2, Line 30, Pos (18,7)
+#. Choice (4 options)
+#. ID 63, Page 2, Line 30, Pos (19,9)
+#. Choice (4 options)
+#. ID 64, Page 2, Line 30, Pos (18,11)
+#. Choice (4 options)
+#. ID 65, Page 2, Line 30, Pos (16,13)
+#. Choice (4 options)
+#. ID 66, Page 2, Line 30, Pos (14,14)
+#. Choice (4 options)
+#. ID 67, Page 2, Line 30, Pos (12,13)
+#. Choice (4 options)
+#. ID 68, Page 2, Line 30, Pos (10,11)
+#. Choice (4 options)
+#. ID 69, Page 2, Line 30, Pos (9,9)
+#. Choice (4 options)
+#. ID 70, Page 2, Line 30, Pos (10,7)
+#. Choice (4 options)
+msgid ""
+"\\>$U（てんびん）\n"
+"\\>$V（さそり）\n"
+"\\>$W（いて）\n"
+"\\>＞＞次の選択肢"
+msgstr ""
+"\\>$U（天秤）\n"
+"\\>$V（天蝎）\n"
+"\\>$W（射手）\n"
+"\\>＞＞下一个选项"
+
+#. ID 60, Page 2, Line 41, Pos (14,4)
+#. Choice (4 options)
+#. ID 61, Page 2, Line 41, Pos (16,5)
+#. Choice (4 options)
+#. ID 62, Page 2, Line 41, Pos (18,7)
+#. Choice (4 options)
+#. ID 63, Page 2, Line 41, Pos (19,9)
+#. Choice (4 options)
+#. ID 64, Page 2, Line 41, Pos (18,11)
+#. Choice (4 options)
+#. ID 65, Page 2, Line 41, Pos (16,13)
+#. Choice (4 options)
+#. ID 66, Page 2, Line 41, Pos (14,14)
+#. Choice (4 options)
+#. ID 67, Page 2, Line 41, Pos (12,13)
+#. Choice (4 options)
+#. ID 68, Page 2, Line 41, Pos (10,11)
+#. Choice (4 options)
+#. ID 69, Page 2, Line 41, Pos (9,9)
+#. Choice (4 options)
+#. ID 70, Page 2, Line 41, Pos (10,7)
+#. Choice (4 options)
+msgid ""
+"\\>$X（やぎ）\n"
+"\\>$Y（みずがめ）\n"
+"\\>$Z（うお）\n"
+"\\>＜＜最初の選択肢"
+msgstr ""
+"\\>$X（摩羯）\n"
+"\\>$Y（水瓶）\n"
+"\\>$Z（双鱼）\n"
+"\\>＜＜最初的选项"
+
+#. ID 60, Page 15, Line 3, Pos (14,4)
+msgid ""
+"\n"
+"\\>「狩人」"
+msgstr "\\>「猎人」"
+
+#. ID 61, Page 15, Line 3, Pos (16,5)
+msgid ""
+"\n"
+"\\>「生贄」"
+msgstr "\\>「祭品」"
+
+#. ID 62, Page 15, Line 3, Pos (18,7)
+msgid ""
+"\n"
+"\\>「角を持つ獣」"
+msgstr "\\>「有角之兽」"
+
+#. ID 63, Page 15, Line 3, Pos (19,9)
+msgid ""
+"\n"
+"\\>「泳ぐもの」"
+msgstr "\\>「游水之物」"
+
+#. ID 64, Page 15, Line 3, Pos (18,11)
+msgid ""
+"\n"
+"\\>「鏡合わせ」"
+msgstr "\\>「镜像」"
+
+#. ID 65, Page 15, Line 3, Pos (16,13)
+msgid ""
+"\n"
+"\\>「水」"
+msgstr "\\>「水」"
+
+#. ID 66, Page 15, Line 3, Pos (14,14)
+msgid ""
+"\n"
+"\\>「解を背負う虫」"
+msgstr "\\>「背负解答之虫」"
+
+#. ID 67, Page 15, Line 3, Pos (12,13)
+msgid ""
+"\n"
+"\\>「正義」"
+msgstr "\\>「正义」"
+
+#. ID 68, Page 15, Line 3, Pos (10,11)
+msgid ""
+"\n"
+"\\>「毒」"
+msgstr "\\>「毒」"
+
+#. ID 69, Page 15, Line 3, Pos (9,9)
+msgid ""
+"\n"
+"\\>「乙女」"
+msgstr "\\>「少女」"
+
+#. ID 70, Page 15, Line 3, Pos (10,7)
+msgid ""
+"\n"
+"\\>「猛獣」"
+msgstr "\\>「猛兽」"
+
+#. ID 71, Page 2, Line 4, Pos (12,5)
+msgid ""
+"\n"
+"\\>このスイッチは動かないようだ"
+msgstr "\\>这个开关似乎动不了"
+
+#. ID 71, Page 3, Line 3, Pos (12,5)
+msgid ""
+"\n"
+"\\>「動かぬもの以外の４文字」"
+msgstr "\\>「不动之物以外的4个字」"

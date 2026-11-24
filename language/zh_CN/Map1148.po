@@ -1,0 +1,95 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 24, Page 3, Line 8, Pos (0,5)
+msgid "・・・水が流れるような大きな音がした。"
+msgstr "・・・传来了好像水流涌动般的巨大声响。"
+
+#. ID 57, Page 2, Line 3, Pos (14,7)
+#. ID 61, Page 2, Line 3, Pos (25,7)
+#. ID 65, Page 2, Line 3, Pos (13,39)
+#. ID 69, Page 2, Line 3, Pos (51,39)
+msgid "棒は奥まで完全に押し込まれたようだ。"
+msgstr "棒似乎已经被完全推到底了。"
+
+#. ID 57, Page 3, Line 3, Pos (14,7)
+#. ID 61, Page 3, Line 3, Pos (25,7)
+#. ID 65, Page 3, Line 3, Pos (13,39)
+#. ID 69, Page 3, Line 3, Pos (51,39)
+msgid "もう一押しできそうだ。"
+msgstr "看起来还能再推一下。"
+
+#. ID 58, Page 14, Line 3, Pos (14,8)
+#. ID 59, Page 10, Line 3, Pos (14,9)
+#. ID 60, Page 6, Line 3, Pos (14,10)
+#. ID 62, Page 14, Line 3, Pos (25,8)
+#. ID 63, Page 10, Line 3, Pos (25,9)
+#. ID 64, Page 6, Line 3, Pos (25,10)
+#. ID 66, Page 14, Line 3, Pos (13,40)
+#. ID 67, Page 10, Line 3, Pos (13,41)
+#. ID 68, Page 6, Line 3, Pos (13,42)
+#. ID 70, Page 14, Line 3, Pos (51,40)
+#. ID 71, Page 10, Line 3, Pos (51,41)
+#. ID 72, Page 6, Line 3, Pos (51,42)
+msgid ""
+"棒が壁から突き出ている。\n"
+"思い切り力を籠めれば押し込めるかもしれない。"
+msgstr "棒从墙壁突出来。如果使出全力的话也许能推进去。"
+
+#. ID 73, Page 2, Line 3, Pos (12,14)
+#. ID 74, Page 2, Line 3, Pos (13,14)
+#. ID 75, Page 2, Line 3, Pos (14,14)
+#. ID 76, Page 2, Line 3, Pos (15,14)
+#. ID 77, Page 2, Line 3, Pos (16,14)
+msgid ""
+"床から突き出した石柱が道を塞いでいる。\n"
+"石柱には大きくφという文字が彫り込まれている。"
+msgstr ""
+"从地面突起的石柱挡住了道路。\n"
+"石柱上雕刻着大大的φ字。"
+
+#. ID 88, Page 2, Line 3, Pos (23,14)
+#. ID 89, Page 2, Line 3, Pos (24,14)
+#. ID 90, Page 2, Line 3, Pos (25,14)
+#. ID 91, Page 2, Line 3, Pos (26,14)
+#. ID 92, Page 2, Line 3, Pos (27,14)
+msgid ""
+"床から突き出した石柱が道を塞いでいる。\n"
+"石柱には大きくψという文字が彫り込まれている。"
+msgstr ""
+"从地面突起的石柱挡住了道路。\n"
+"石柱上雕刻着大大的ψ字。"
+
+#. ID 103, Page 2, Line 3, Pos (18,14)
+#. ID 104, Page 2, Line 3, Pos (21,14)
+#. ID 105, Page 2, Line 3, Pos (17,40)
+#. ID 106, Page 2, Line 3, Pos (47,40)
+msgid "古代語らしき文字で書かれた石板がある。"
+msgstr "有一块用类似古代语文字写成的石板。"
+
+#. ID 103, Page 2, Line 5, Pos (18,14)
+msgid "\"第一制御棒\""
+msgstr "\"第一控制棒\""
+
+#. ID 104, Page 2, Line 5, Pos (21,14)
+msgid "\"第二制御棒\""
+msgstr "\"第二控制棒\""
+
+#. ID 105, Page 2, Line 5, Pos (17,40)
+msgid "\"第三制御棒\""
+msgstr "\"第三控制棒\""
+
+#. ID 106, Page 2, Line 5, Pos (47,40)
+msgid "\"第四制御棒\""
+msgstr "\"第四控制棒\""

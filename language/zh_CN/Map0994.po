@@ -1,0 +1,45 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 3, Pos (52,20)
+msgid ""
+"空間の揺らぎを感じる……\n"
+"どうやらワープゾーンのようだ。"
+msgstr "感觉到空间的波动……看来是传送区域。"
+
+#. ID 22, Page 2, Line 5, Pos (52,20)
+#. Contains choice at line 2 (2 options)
+msgid "元の場所に戻りますか？"
+msgstr "要返回原来的地方吗？"
+
+#. ID 22, Page 2, Line 6, Pos (52,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 32, Page 2, Line 4, Pos (49,34)
+msgid ""
+"この先\n"
+"魔術師団研究本部"
+msgstr "前方是魔术师团研究本部"
+
+#. ID 32, Page 2, Line 8, Pos (49,34)
+msgid ""
+"樓CUJｦ\n"
+"嚀I0攘ﾏX衆&S・h"
+msgstr "樓CUJヲ嚀I0攘マX衆&S・h"

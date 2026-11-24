@@ -1,0 +1,100 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 51, Page 2, Line 4, Pos (16,4)
+msgid ""
+"名前：\\C[9]ダークガンナー\\C[0]\n"
+"種族：特殊装甲\n"
+"名前：\\C[11]デスガンナー\\C[0]\n"
+"種族：魔生命"
+msgstr ""
+"名字：\\C[9]黑暗枪手\\C[0] 种族：特殊装甲 名字：\n"
+"\\C[11]死亡枪手\\C[0] 种族：魔生命"
+
+#. ID 51, Page 2, Line 8, Pos (16,4)
+msgid "魔界の金属で出来たモンスター"
+msgstr "由魔界金属制成的怪物"
+
+#. ID 51, Page 2, Line 9, Pos (16,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$5000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "可以花\\$5000G听取攻略情报，要听吗？"
+
+#. ID 51, Page 2, Line 11, Pos (16,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 51, Page 2, Line 17, Pos (16,4)
+msgid ""
+"魔界の金属から生まれたモンスター\\!\n"
+"頑丈な身体を持ち、\n"
+"ほとんどの攻撃を寄せ付けない\\!"
+msgstr ""
+"由魔界金属诞生的怪物\\!拥有坚固的身体，\n"
+"几乎能挡下大多数攻击\\!"
+
+#. ID 51, Page 2, Line 20, Pos (16,4)
+msgid ""
+"斜め4方向に魔法弾を飛ばして\n"
+"攻撃してくる\\!\n"
+"火力は大したことがないが、\n"
+"群れで襲ってくるため危険"
+msgstr ""
+"会向斜向四个方向发射魔法弹进行攻击\\!火力并不怎\n"
+"么样，但会成群袭来，因此很危险"
+
+#. ID 51, Page 2, Line 24, Pos (16,4)
+msgid ""
+"緑色の\\C[9]ダークガンナー\\C[0]のうち一体が\n"
+"赤色の\\C[11]デスガンナー\\C[0]に変化する\\!\n"
+"\\C[11]デスガンナー\\C[0]は攻撃で\n"
+"比較的容易に倒すことができる"
+msgstr ""
+"绿色\\C[9]黑暗枪手\\C[0]中的一只会变成红色\\C[11]\n"
+"死亡枪手\\C[0]\\!\\C[11]死亡枪手\\C[0]可以通过攻击\n"
+"相对容易地打倒"
+
+#. ID 51, Page 2, Line 28, Pos (16,4)
+msgid ""
+"逆に対甲属性の武器を使えば、\n"
+"直接\\C[9]ダークガンナー\\C[0]を\n"
+"破壊することもできる"
+msgstr ""
+"相反，如果使用对甲属性的武器，\n"
+"也可以直接破坏\\C[9]黑暗枪手\\C[0]"
+
+#. ID 51, Page 2, Line 37, Pos (16,4)
+msgid ""
+"\\C[9]ダークガンナー\\C[0]は\n"
+"\\C[2]\\N[101]\\C[0]を落とす"
+msgstr "\\C[9]黑暗枪手\\C[0]会掉落\\C[2]\\N[101]\\C[0]"
+
+#. ID 51, Page 2, Line 45, Pos (16,4)
+msgid ""
+"\\C[11]デスガンナー\\C[0]は\n"
+"\\C[2]\\N[101]\\C[0]を落とす"
+msgstr "\\C[11]死亡枪手\\C[0]会掉落\\C[2]\\N[101]\\C[0]"
+
+#. ID 52, Page 2, Line 3, Pos (1,11)
+#. ID 53, Page 2, Line 3, Pos (2,11)
+#. ID 54, Page 2, Line 3, Pos (3,11)
+msgid "妖蟲の卵を手に入れた。"
+msgstr "获得了妖虫卵。"

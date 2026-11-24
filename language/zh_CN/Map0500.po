@@ -1,0 +1,179 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 6, Page 1, Line 3, Pos (10,8)
+msgid "そろそろ出番よね。緊張するわ～"
+msgstr "差不多该我上场了吧。好紧张啊～"
+
+#. ID 8, Page 1, Line 3, Pos (5,11)
+msgid "しっかりね"
+msgstr "好好表现哦"
+
+#. ID 9, Page 1, Line 3, Pos (5,6)
+msgid "え～と、次は何を持っていけばいいんだ？"
+msgstr "呃～，接下来该拿什么过去？"
+
+#. ID 10, Page 1, Line 3, Pos (15,10)
+msgid "台本に集中している"
+msgstr "正专注于剧本。"
+
+#. ID 11, Page 1, Line 3, Pos (11,5)
+msgid ""
+"ここは女性だけの劇団だから\n"
+"男役はこうやって男装してるの"
+msgstr ""
+"因为这里是只有女性的剧团，\n"
+"所以男角色都这样女扮男装"
+
+#. ID 12, Page 1, Line 3, Pos (15,5)
+msgid "真剣に衣装を選んでいる。"
+msgstr "正在认真地挑选服装。"
+
+#. ID 13, Page 1, Line 3, Pos (13,7)
+msgid "なんでヒロインじゃなくて意地悪な姉役…"
+msgstr "为什么不是女主角，而是坏心眼的姐姐角色…"
+
+#. ID 14, Page 1, Line 3, Pos (15,6)
+msgid "モンスターってなんでこう悪役ばかり…"
+msgstr "怪物为什么总是这种反派角色…"
+
+#. ID 15, Page 1, Line 3, Pos (7,12)
+msgid ""
+"あなたも台本を読んでおきなさい。\n"
+"机の上に置いてあるから"
+msgstr "你也先读一下剧本。就放在桌子上"
+
+#. ID 16, Page 1, Line 3, Pos (4,12)
+msgid ""
+"もう出番はけちゃったのよね。\n"
+"楽だけど寂しい…"
+msgstr "我的出场已经结束了呢。虽然轻松，但有点寂寞…"
+
+#. ID 18, Page 1, Line 5, Pos (17,8)
+msgid "さて、自分の配役は…"
+msgstr "那么，我的角色是…"
+
+#. ID 18, Page 1, Line 7, Pos (17,8)
+msgid "モブだけど台詞がある。"
+msgstr "虽然是路人，但有台词。"
+
+#. ID 18, Page 1, Line 8, Pos (17,8)
+msgid "………「ここはリョーナの村です」"
+msgstr "………「这里是里奥纳村。」"
+
+#. ID 18, Page 1, Line 11, Pos (17,8)
+#. ID 18, Page 1, Line 35, Pos (17,8)
+#. ID 18, Page 1, Line 62, Pos (17,8)
+msgid ""
+"\\n[\\v[6]　\n"
+"出番だよ。"
+msgstr "\\n[\\v[6]]　该上场了。"
+
+#. ID 18, Page 1, Line 13, Pos (17,8)
+#. ID 18, Page 1, Line 37, Pos (17,8)
+#. ID 18, Page 1, Line 64, Pos (17,8)
+msgid "失敗しないようにがんばろう。"
+msgstr "努力别失败吧。"
+
+#. ID 18, Page 1, Line 27, Pos (17,8)
+msgid "そこそこ台詞がある脇役だ。"
+msgstr "是个还算有点台词的配角。"
+
+#. ID 18, Page 1, Line 28, Pos (17,8)
+msgid ""
+"……「姫様、城にお戻りください」\n"
+"……「面白い」\n"
+"……「いざ、勝負！」"
+msgstr ""
+"……「公主殿下，请回城吧」……「有意思」……「来吧，\n"
+"一决胜负！」"
+
+#. ID 18, Page 1, Line 51, Pos (17,8)
+msgid ""
+"姫様の護衛の女戦士。かなり重要な役だ\n"
+"台詞も多い"
+msgstr "公主的护卫女战士。是相当重要的角色，台词也多"
+
+#. ID 18, Page 1, Line 53, Pos (17,8)
+msgid ""
+"……「あなたは私が守ります」\n"
+"……「海を見に行きましょう」\n"
+"……「姫様、先に行って」\n"
+"……「ここは通さない」"
+msgstr ""
+"……「我会保护你」……「去看海吧」……「公主殿下，\n"
+"请先走」……「这里不准通过」"
+
+#. ID 18, Page 1, Line 57, Pos (17,8)
+msgid "……「姫様、ご無事で…」"
+msgstr "……「公主殿下，愿您平安…」"
+
+#. ID 19, Page 1, Line 3, Pos (13,9)
+msgid ""
+"もし失敗したらひどい目に合うらしいわ。\n"
+"ここの団長厳しいらしいし"
+msgstr "如果失败了好像会很惨。听说这里的团长很严格"
+
+#. ID 20, Page 1, Line 3, Pos (13,12)
+msgid ""
+"一応ショーなので、もしも催眠のかかりが悪いと\n"
+"お客さんをがっかりさせてしまいますからね。"
+msgstr ""
+"毕竟这是场表演，要是催眠效果不好，\n"
+"会让客人失望的。"
+
+#. ID 20, Page 1, Line 5, Pos (13,12)
+msgid ""
+"こうして、ショーを始める前に軽い催眠を掛けて\n"
+"本番の時に掛からないという事が無いようにする必要が\n"
+"あるのですよ。"
+msgstr ""
+"所以，在表演开始前需要施加轻度催眠，\n"
+"以免正式演出时催眠不生效。"
+
+#. ID 20, Page 1, Line 12, Pos (13,12)
+msgid "…他に色々と仕込まないといけないしな…"
+msgstr "…而且还得做各种准备呢…"
+
+#. ID 20, Page 1, Line 14, Pos (13,12)
+msgid "あ、いえ！何でもないですよ？"
+msgstr "啊，不！没什么哦？"
+
+#. ID 20, Page 1, Line 15, Pos (13,12)
+msgid ""
+"さ、さあ！それでは本番の為の催眠を掛けますよ！\n"
+"私の目をよーく見つめて…。"
+msgstr ""
+"来、来吧！那么，为了正式演出，我要施加催眠了！\n"
+"请好好盯着我的眼睛…。"
+
+#. ID 20, Page 1, Line 48, Pos (13,12)
+msgid ""
+"…３、２、１、ハイ！\n"
+"目を覚まして！"
+msgstr "…3、2、1，好！醒过来！"
+
+#. ID 20, Page 1, Line 50, Pos (13,12)
+msgid ""
+"はい、これで下準備の催眠術は掛かりましたよ。\n"
+"今のあなたは非常に催眠にかかりやすい状態です。"
+msgstr ""
+"好，这样事前准备的催眠术就施好了。\n"
+"现在的你处于非常容易被催眠的状态。"
+
+#. ID 20, Page 1, Line 52, Pos (13,12)
+msgid ""
+"では、舞台に向かいましょう。\n"
+"お客さんがあなたを待っていますよ。"
+msgstr "那么，我们走向舞台吧。客人正在等着你呢。"

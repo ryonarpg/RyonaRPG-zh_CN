@@ -1,0 +1,49 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (20,6)
+msgid ""
+"どこかに、奴隷だけが集まってできた、\n"
+"スラム街のような自治区があるそうです。"
+msgstr ""
+"听说某个地方有一个只有奴隶聚集而成的、\n"
+"类似贫民窟的自治区。"
+
+#. ID 3, Page 1, Line 5, Pos (20,6)
+msgid ""
+"ここでの生活の方が、保障はされていますが……\n"
+"そちらのほうが、自由がありそうですね。"
+msgstr "在这里的生活更有保障……但那边似乎更自由呢。"
+
+#. ID 4, Page 1, Line 3, Pos (32,4)
+msgid ""
+"私は大魔法使いだったんだけど……\n"
+"ちょっとお遊びが過ぎてねー。"
+msgstr "我以前是大魔法师……不过稍微玩过头了。"
+
+#. ID 4, Page 1, Line 5, Pos (32,4)
+msgid ""
+"魔法を封じられた上に奴隷にされちゃったんだ。\n"
+"ほんと、毎日爛れる様な日々だったよ。"
+msgstr ""
+"不仅魔力被封印，还被变成了奴隶。说真的，\n"
+"每天都是烂透了的日子。"
+
+#. ID 4, Page 1, Line 7, Pos (32,4)
+msgid ""
+"命からがら逃げてきたけどね。\n"
+"もうちょっと遅かったら飼い殺されてたかなー。"
+msgstr ""
+"我可是九死一生逃出来的。要是再晚一点，\n"
+"说不定就被圈养到死了吧。"

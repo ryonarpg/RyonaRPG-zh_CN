@@ -1,0 +1,123 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 1, Line 3, Pos (20,7)
+msgid "……………"
+msgstr "……………"
+
+#. ID 12, Page 1, Line 4, Pos (20,7)
+msgid "恐怖で口も聞けないらしい。"
+msgstr "看来因为恐惧连话都说不出来了。"
+
+#. ID 14, Page 1, Line 3, Pos (19,29)
+msgid "レイク様のために前に進もう。"
+msgstr "为了雷克大人向前进吧。"
+
+#. ID 16, Page 1, Line 3, Pos (20,8)
+msgid ""
+"フフフ…もう諦めなさい…\n"
+"アバロソ皇帝陛下"
+msgstr "呵呵呵……放弃吧……阿巴罗索皇帝陛下"
+
+#. ID 16, Page 1, Line 5, Pos (20,8)
+msgid ""
+"そちが七英雄か…\n"
+"まさかここまでの力だとは…"
+msgstr "你就是七英雄吗……没想到竟有这种程度的力量……"
+
+#. ID 16, Page 1, Line 7, Pos (20,8)
+msgid ""
+"いやいや、この娘を始め陛下が色々と\n"
+"送り込んでくれたからですわ\n"
+"感謝いたします。\n"
+"それでは…"
+msgstr ""
+"不不，多亏陛下以这个女孩为首，\n"
+"给我送来了各种各样的人，真是感谢。那么……"
+
+#. ID 16, Page 1, Line 15, Pos (20,8)
+msgid "きゃああああ!\\!お、お母さまがああ！！"
+msgstr "呀啊啊啊啊!\\!妈妈、妈妈啊啊！！"
+
+#. ID 16, Page 1, Line 16, Pos (20,8)
+msgid "ぐ…た、頼む…\\!む…娘だけは…"
+msgstr "唔…求、求你了…\\!唔…至少放过女儿…"
+
+#. ID 16, Page 1, Line 17, Pos (20,8)
+msgid ""
+"皇女様はこれから私が責任を持って\n"
+"可愛がって差し上げますから\n"
+"ご心配は無用ですわ"
+msgstr "皇女殿下接下来由我负责好好疼爱她，您不必担心。"
+
+#. ID 16, Page 1, Line 20, Pos (20,8)
+msgid ""
+"またこの国も私が支配して差し上げます\n"
+"ので…\\!それではさようなら陛下。"
+msgstr ""
+"而且这个国家也会由我来统治…\\!那么再见了，\n"
+"陛下。"
+
+#. ID 16, Page 1, Line 39, Pos (20,8)
+msgid ""
+"く…ふ\\!…あーはっはっはっ！！！\n"
+"\\!これで、\\!世界は、\\!私のモノ"
+msgstr ""
+"唔…呵\\!…啊—哈哈哈哈！！！\\!这样，\\!世界就是，\n"
+"\\!我的东西"
+
+#. ID 16, Page 1, Line 45, Pos (20,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"……こうして、一人の少女の裏切りを\n"
+"きっかけに帝国は滅びたのだった。"
+msgstr "……就这样，以一个少女的背叛为契机，帝国灭亡了。"
+
+#. ID 16, Page 1, Line 51, Pos (20,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"このまま続ける\n"
+"後日談を見て終わる"
+msgstr ""
+"就这样继续\n"
+"看过后日谈后结束"
+
+#. ID 16, Page 1, Line 57, Pos (20,8)
+msgid ""
+"これで復讐は終わりじゃないわ…\n"
+"この世界を手にするまではね…\n"
+"\\!貴女にはまだまだ働いてもらうわよ…"
+msgstr ""
+"这样复仇还没有结束…直到将这个世界拿到手为止呢…\n"
+"\\!你还要继续为我工作哦…"
+
+#. ID 16, Page 1, Line 74, Pos (20,8)
+msgid "そして…月日は流れて…"
+msgstr "然后…岁月流逝…"
+
+#. ID 18, Page 1, Line 6, Pos (19,28)
+msgid "ご苦労様。"
+msgstr "辛苦了。"
+
+#. ID 18, Page 1, Line 15, Pos (19,28)
+msgid ""
+"可愛い娘が生き残ってたわね。\n"
+"頑張ったご褒美にその娘を貴女にあげる。"
+msgstr ""
+"可爱的女孩活下来了啊。作为努力的奖励，\n"
+"就把那个女孩给你吧。"
+
+#. ID 18, Page 1, Line 19, Pos (19,28)
+msgid "さあ、行きましょう。"
+msgstr "来吧，我们走吧。"

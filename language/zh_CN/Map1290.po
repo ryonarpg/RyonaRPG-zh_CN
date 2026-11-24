@@ -1,0 +1,47 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 29, Page 2, Line 3, Pos (14,8)
+#. Contains choice at line 2 (2 options)
+msgid "＊魔力溜まりがある。"
+msgstr "＊有魔力池。"
+
+#. ID 29, Page 2, Line 4, Pos (14,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"魔力を回復する\n"
+"いいえ"
+msgstr ""
+"恢复魔力\n"
+"否"
+
+#. ID 30, Page 2, Line 3, Pos (5,8)
+msgid "欲しいものを　欲しいと云え"
+msgstr "想要的东西　就说想要"
+
+#. ID 30, Page 2, Line 6, Pos (5,8)
+msgid ""
+"全てかなぐり捨てても\n"
+"惚れたやつを落とせ"
+msgstr "就算把一切全都抛下，也要把看上的家伙弄到手"
+
+#. ID 32, Page 2, Line 4, Pos (6,4)
+msgid ""
+"名前：ローグヘッド\n"
+"種族：人男"
+msgstr "名字：盗贼头目 种族：人男"
+
+#. ID 32, Page 2, Line 6, Pos (6,4)
+msgid "？？？"
+msgstr "？？？"

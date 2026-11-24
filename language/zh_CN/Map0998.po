@@ -1,0 +1,104 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 3, Pos (14,22)
+msgid ""
+"道が途切れている……\n"
+"下まで飛び降りることはできるだろうが\n"
+"戻ってはこられないかもしれない……"
+msgstr "道路中断了……应该能跳下去，但也许回不来了……"
+
+#. ID 22, Page 2, Line 6, Pos (14,22)
+#. Choice (2 options)
+msgid ""
+"飛び降りる\n"
+"飛び降りない"
+msgstr ""
+"跳下去\n"
+"不跳下去"
+
+#. ID 37, Page 2, Line 4, Pos (37,19)
+msgid "語られる歴史は伝えます。"
+msgstr "讲述被传颂的历史。"
+
+#. ID 37, Page 2, Line 5, Pos (37,19)
+msgid ""
+"曰く、この王国は、愚鈍にして蒙昧な魔術師団と、\n"
+"浅薄にして無謀な神官団の争いによって\n"
+"砂の底に没したのだと。"
+msgstr ""
+"据说，\n"
+"这个王国因愚钝蒙昧的魔术师团与浅薄无谋的神官团\n"
+"之争而沉入沙底。"
+
+#. ID 37, Page 2, Line 10, Pos (37,19)
+msgid ""
+"・ﾍ扞ﾅ]泚袱MWｮｰ/ｹrﾜﾏｩﾗ\n"
+"~｡ｼ>{Z籏_ﾒ>俍滌ﾜ蔬｣毋\n"
+"}\\攤pHE!\"3Q9拑"
+msgstr ""
+"・ヘ扞ナ]泚袱MWョー/ケrワマゥラ~｡シ>{Z籏_メ>\n"
+"俍滌ワ蔬｣毋}\\攤pHE!\"3Q9拑"
+
+#. ID 42, Page 2, Line 4, Pos (37,29)
+msgid "語られない歴史は伝えます。"
+msgstr "讲述未被传颂的历史。"
+
+#. ID 42, Page 2, Line 5, Pos (37,29)
+msgid ""
+"曰く、この王国は、不遜にして冷酷な天使と、\n"
+"傍若にして不埒な魔族の争いによって\n"
+"砂の底に没したのだと。"
+msgstr ""
+"据说，\n"
+"这个王国因傲慢冷酷的天使与旁若无人且放肆无礼的\n"
+"魔族之争而沉入沙底。"
+
+#. ID 42, Page 2, Line 10, Pos (37,29)
+msgid ""
+"ｶ\\ﾀv床ﾋｰｿﾌDDﾄﾎ9GL鋭\n"
+"澈~｡ｼ>{Z籏_ﾒ>俍滌ﾜ蔬｣毋､\n"
+"汯*ｷ~r惜ｧﾀｻTﾕop・"
+msgstr ""
+"カ\\タv床ヒーソフDDトホ9GL鋭澈~｡シ>{Z籏_メ>俍\n"
+"滌ワ蔬｣毋､汯*キ~r惜ァタサTユop・"
+
+#. ID 43, Page 2, Line 4, Pos (37,39)
+msgid "しかし真実はどちらとも違う。"
+msgstr "但真相与两者都不同。"
+
+#. ID 43, Page 2, Line 5, Pos (37,39)
+msgid ""
+"それは偉大で広大で遠大な計画だったのです。\n"
+"一つの計算違いもなく目論見通りの予定調和。"
+msgstr ""
+"那是一个伟大、宏大而远大的计划。\n"
+"没有一处计算错误，完全如预谋般的预设和谐。"
+
+#. ID 43, Page 2, Line 7, Pos (37,39)
+msgid ""
+"我らが偉大なる王、ラダメス陛下。\n"
+"そう、全てはあの御方のお考え通り――"
+msgstr ""
+"我们伟大的王，拉达梅斯陛下。没错，\n"
+"一切皆如那位大人的设想——"
+
+#. ID 43, Page 2, Line 11, Pos (37,39)
+msgid ""
+"淹ｶﾓｩ@寬,SK/・蘒D索ｵ3\n"
+"Pｫ徊Bｱﾅ稻ｸ鯣喟､P・\n"
+"ml杳?7/,焉・｡・ｹﾂk屐・"
+msgstr ""
+"淹カモゥ@寬,SK/・蘒D索オ3 Pォ徊Bアナ稻ク鯣喟､\n"
+"P・ml杳?7/,焉・｡・ケツk屐・"

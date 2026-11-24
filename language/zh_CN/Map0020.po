@@ -1,0 +1,2390 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 7, Pos (11,8)
+msgid ""
+"【シスター】\n"
+"あらあら。\n"
+"これはまた随分禍々しい物を\n"
+"着てらっしゃいますね。"
+msgstr "【修女】哎呀哎呀。这又穿着相当不祥的东西呢。"
+
+#. ID 4, Page 1, Line 11, Pos (11,8)
+msgid ""
+"【シスター】\n"
+"でも、表情は涼しげですわね。\\!\n"
+"ただの変態さんかしら？"
+msgstr ""
+"【修女】不过，表情倒是很平静呢。\n"
+"\\!只是个变态吗？"
+
+#. ID 4, Page 1, Line 19, Pos (11,8)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"いえ、これはスーツの効果で\n"
+"感情を表現できないんです"
+msgstr ""
+"【\\n[\\v[6]]】不，这是套装的效果，\n"
+"让我无法表达感情。"
+
+#. ID 4, Page 1, Line 22, Pos (11,8)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"ですが、一日中アソコを\n"
+"ネチャネチャニチャニチャと弄られていて\n"
+"本当は死ぬほど苦しいんです"
+msgstr ""
+"【\\n[\\v[6]]】但是，那里一整天都被黏糊糊、\n"
+"湿答答地玩弄着，其实我痛苦得要死。"
+
+#. ID 4, Page 1, Line 26, Pos (11,8)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"早く外してください"
+msgstr "【\\n[\\v[6]]】请快点把它取下来。"
+
+#. ID 4, Page 1, Line 33, Pos (11,8)
+msgid ""
+"【シスター】\n"
+"それはお気の毒に…。"
+msgstr "【修女】那真是可怜呢…。"
+
+#. ID 4, Page 1, Line 35, Pos (11,8)
+msgid ""
+"【シスター】\n"
+"では、遠慮なくヤらせていただきます♪"
+msgstr "【修女】那么，我就不客气地做了♪"
+
+#. ID 4, Page 1, Line 37, Pos (11,8)
+msgid ""
+"【シスター】\n"
+"なんて言うわけないでしょう。\\!\n"
+"教会も暇ではないのですから。"
+msgstr "【修女】怎么可能那么说呢。\\!教会也不是闲着的。"
+
+#. ID 4, Page 1, Line 40, Pos (11,8)
+msgid ""
+"【シスター】\n"
+"いたずらは他所でやってくださいね。"
+msgstr "【修女】恶作剧请到别处去做哦。"
+
+#. ID 4, Page 1, Line 47, Pos (11,8)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"いえ　冗談ではありません\\!\n"
+"ほんとに触手に犯されているんです"
+msgstr ""
+"【\\n[\\v[6]]】\n"
+"不　这不是开玩笑\\!我真的正在被触手侵犯。"
+
+#. ID 4, Page 1, Line 50, Pos (11,8)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"今も触手が膣内で暴れてるんです"
+msgstr "【\\n[\\v[6]]】现在触手也在阴道里乱动着。"
+
+#. ID 4, Page 1, Line 52, Pos (11,8)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"うあ\\.\n"
+"イク\\.　　　　\\.\\.\\.イキます"
+msgstr "【\\n[\\v[6]]】呜啊.要去了.　　　　\\.\\.\\.要去了"
+
+#. ID 4, Page 1, Line 72, Pos (11,8)
+msgid ""
+"【シスター】\n"
+"下手な演技ですわ。\\!\n"
+"あんまりしつこいと出禁にしますよ？"
+msgstr ""
+"【修女】演技真差呢。\\!要是太纠缠不休，\n"
+"我可要把你列入禁止入内名单了哦？"
+
+#. ID 4, Page 1, Line 78, Pos (11,8)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"いえ、本当にイッてるんです\\!\n"
+"どうか信じてくださいよ"
+msgstr "【\\n[\\v[6]]】不，我真的去了\\!请务必相信我。"
+
+#. ID 4, Page 1, Line 86, Pos (11,8)
+msgid ""
+"\n"
+"それから\\n[\\v[6]]はシスターに何度も説明したが\n"
+"結局、信じてもらうことは出来なかった……"
+msgstr ""
+"之后\\n[\\v[6]]向修女解释了好几次，\n"
+"但最终没能让她相信……"
+
+#. ID 4, Page 1, Line 100, Pos (11,8)
+msgid ""
+"呪われた武器や防具をうっかり\n"
+"装備してしまったら、\n"
+"当教会へお越しください。"
+msgstr ""
+"如果不小心装备了被诅咒的武器或防具，\n"
+"请到本教会来。"
+
+#. ID 4, Page 1, Line 103, Pos (11,8)
+msgid ""
+"神の祝福により、\n"
+"呪いを解いてさし上げます。"
+msgstr "凭借神之祝福，我会为您解除诅咒。"
+
+#. ID 4, Page 1, Line 106, Pos (11,8)
+#. Choice (2 options)
+msgid ""
+"首輪の鍵を買う\n"
+"買わない"
+msgstr ""
+"购买项圈钥匙\n"
+"不买"
+
+#. ID 4, Page 1, Line 109, Pos (11,8)
+msgid ""
+"あら、もう奴隷じゃないのに\n"
+"また鍵が欲しいの？"
+msgstr "哎呀，明明已经不是奴隶了，还想要钥匙吗？"
+
+#. ID 4, Page 1, Line 112, Pos (11,8)
+msgid ""
+"よっぽど奴隷時代に\n"
+"酷い目にあったみたいね？\n"
+"それとも、他に理由があるのかしら…\n"
+"ウフフ。"
+msgstr ""
+"看来你在奴隶时代吃了相当多苦头呢？还是说，\n"
+"另有其他理由呢…呵呵。"
+
+#. ID 4, Page 1, Line 135, Pos (11,8)
+msgid ""
+"あらあら…大変。貴方の体から\n"
+"禍々しいオーラが漂っていますわ。\n"
+"よろしかったら私が\n"
+"お払いしてあげましょうか？"
+msgstr ""
+"哎呀哎呀…不得了。你的身体散发出不祥的气息呢。\n"
+"如果可以的话，要不要我来为你驱除呢？"
+
+#. ID 4, Page 1, Line 141, Pos (11,8)
+msgid ""
+"\\n[\\v[6]]\n"
+"「余計ナオセワダ。\n"
+"ワタシハワタシノママデイイ。」"
+msgstr "\\n[\\v[6]]「多管闲事。我就保持我这样就好。」"
+
+#. ID 4, Page 1, Line 147, Pos (11,8)
+#. Choice (2 options)
+#. ID 5, Page 2, Line 4, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 29, Pos (7,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 4, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 9, Line 26, Pos (2,10)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 6, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 4, Page 1, Line 150, Pos (11,8)
+msgid "では、遠慮なくヤらせていただきます♪"
+msgstr "那么，我就不客气地做了♪"
+
+#. ID 4, Page 1, Line 162, Pos (11,8)
+msgid "あら……？"
+msgstr "哎呀……？"
+
+#. ID 4, Page 1, Line 167, Pos (11,8)
+msgid "これは…おかしいですね…"
+msgstr "这…真奇怪呢…"
+
+#. ID 4, Page 1, Line 172, Pos (11,8)
+msgid "どこから手をつけたらいいか…"
+msgstr "该从哪里着手才好呢…"
+
+#. ID 4, Page 1, Line 176, Pos (11,8)
+msgid ""
+"ごめんなさい\n"
+"私の手では解呪できません　ﾁｯ(｀A´)"
+msgstr "对不起，凭我的手无法解咒　啧(｀A´)"
+
+#. ID 4, Page 1, Line 217, Pos (11,8)
+msgid ""
+"ダメよぉ我慢しちゃ…\n"
+"ほら、ココなんか\n"
+"もうこんなになっちゃってるくせに…\\c[11]$k"
+msgstr ""
+"不行哦～不能忍耐…看，这里明明都已经变成这样了…\n"
+"\\c[11]$k"
+
+#. ID 4, Page 1, Line 238, Pos (11,8)
+msgid "と・ど・め・よ \\c[11]$k"
+msgstr "不·许·忍·耐哦 \\c[11]$k"
+
+#. ID 4, Page 1, Line 273, Pos (11,8)
+msgid ""
+"はい、終わりましたー。\n"
+"また呪われちゃった時は\n"
+"いつでもいらしてくださいね。"
+msgstr "好，结束了——。下次再被诅咒的时候，请随时来哦。"
+
+#. ID 4, Page 1, Line 294, Pos (11,8)
+msgid "って、あら？"
+msgstr "话说，哎呀？"
+
+#. ID 4, Page 1, Line 303, Pos (11,8)
+#. ID 4, Page 1, Line 311, Pos (11,8)
+#. ID 4, Page 1, Line 319, Pos (11,8)
+#. ID 4, Page 1, Line 327, Pos (11,8)
+#. ID 4, Page 1, Line 335, Pos (11,8)
+msgid ""
+"どうやら\\C[2]\\N[101]\\C[0]は呪いが強すぎて\n"
+"当教会では解除できないようですわ。"
+msgstr ""
+"看来\\C[2]\\N[101]\\C[0]的诅咒太强了，\n"
+"本教会似乎无法解除呢。"
+
+#. ID 4, Page 1, Line 350, Pos (11,8)
+#. ID 4, Page 3, Line 20, Pos (11,8)
+msgid "そうですか…。ﾁｯ(｀A´)"
+msgstr "这样啊…。啧(｀A´)"
+
+#. ID 4, Page 2, Line 6, Pos (11,8)
+msgid ""
+"……あらぁ？\n"
+"貴女身売りの経験がおありの様ね…"
+msgstr "……哎呀？你好像有过卖身的经历呢…"
+
+#. ID 4, Page 2, Line 16, Pos (11,8)
+msgid ""
+"……あらぁ？　いけない子ねぇ……\n"
+"そんな格好で街をうろつくなんて…"
+msgstr ""
+"……哎呀？　真是个不乖的孩子呢……\n"
+"居然那副打扮在街上游荡…"
+
+#. ID 4, Page 2, Line 18, Pos (11,8)
+msgid ""
+"ウフフ、興奮してるの？\n"
+"とってもいやらしい顔してるわよ、\n"
+"あなた…"
+msgstr "呵呵，兴奋了吗？你脸上是非常淫荡的表情哦，你…"
+
+#. ID 4, Page 2, Line 23, Pos (11,8)
+msgid ""
+"ひょっとして、カラダを\n"
+"もて余してるんじゃない？\n"
+"ウフフフ…"
+msgstr "难道说，身体闲得发慌吗？呵呵呵…"
+
+#. ID 4, Page 2, Line 27, Pos (11,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"そんないやらしい女の子のあなたに、\n"
+"いいお話があるんだけど、どうかしら？"
+msgstr "对这么淫荡的女孩子的你，我有个好提议，怎么样？"
+
+#. ID 4, Page 2, Line 29, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"聞く\n"
+"いいえ"
+msgstr ""
+"听\n"
+"不"
+
+#. ID 4, Page 2, Line 33, Pos (11,8)
+msgid ""
+"そう…？残念ね。あなたには\n"
+"ぴったりのお話だと思ったんだけど…"
+msgstr ""
+"这样啊…？真遗憾。\n"
+"我还以为那是非常适合你的提议呢…"
+
+#. ID 4, Page 2, Line 40, Pos (11,8)
+msgid ""
+"夜のレイオンに、派手な服を着て\n"
+"宿の前をうろついてるコたちが\n"
+"いるでしょ？"
+msgstr ""
+"夜晚的雷昂，\n"
+"有些穿着花哨衣服在旅店前晃悠的姑娘们吧？"
+
+#. ID 4, Page 2, Line 43, Pos (11,8)
+msgid ""
+"あのコ達はね、知ってるでしょうけど、\n"
+"娼婦なの。"
+msgstr "那些姑娘啊，你大概也知道，她们是娼妇。"
+
+#. ID 4, Page 2, Line 45, Pos (11,8)
+msgid ""
+"そ、いいお話っていうのはそのこと。\n"
+"いえいえ、馬鹿にしてるんじゃないわ。\n"
+"娼婦だって立派な職業よ？"
+msgstr ""
+"对，我说的好提议就是那件事。不不，\n"
+"我没有瞧不起你。娼妇也是一份了不起的职业哦？"
+
+#. ID 4, Page 2, Line 49, Pos (11,8)
+msgid ""
+"あなたの望むキモチイイことが\n"
+"い～っぱいできて、お金までもらえる…\n"
+"夢のようなお仕事だと思うわ♪"
+msgstr ""
+"能够做很多你所渴望的舒服事情，\n"
+"甚至还能得到金钱…我觉得这是如梦般的工作哦♪"
+
+#. ID 4, Page 2, Line 53, Pos (11,8)
+msgid ""
+"とはいっても、かよわい女の子たちが\n"
+"娼婦としてやっていくには、色々\n"
+"問題もあってね？"
+msgstr ""
+"话虽如此，柔弱的女孩们要以娼妇身份做下去，\n"
+"也有各种各样的问题呢？"
+
+#. ID 4, Page 2, Line 56, Pos (11,8)
+msgid ""
+"娼婦たちは、組合というもので\n"
+"結びついて、互いに助け合いながら\n"
+"商売してるの。"
+msgstr ""
+"娼妇们通过名为组合的组织联系在一起，\n"
+"互相帮助着做生意。"
+
+#. ID 4, Page 2, Line 59, Pos (11,8)
+msgid ""
+"娼婦になるには、まずその娼婦の組合に\n"
+"話を通して、仲間に入れてもらわないと\n"
+"いけないのよ。"
+msgstr ""
+"要成为娼妇，首先得向那个娼妇组合打通关系，\n"
+"让她们接纳你入伙才行哦。"
+
+#. ID 4, Page 2, Line 62, Pos (11,8)
+msgid ""
+"審査もあるけど…あなたなら簡単に\n"
+"突破できるでしょ？"
+msgstr "虽然也有审查…但你的话能轻松通过吧？"
+
+#. ID 4, Page 2, Line 65, Pos (11,8)
+msgid ""
+"ウフフ…あなたには\n"
+"とってもいいお話だと思うわ。"
+msgstr "呵呵…我觉得这对你来说是非常好的提议哦。"
+
+#. ID 4, Page 2, Line 67, Pos (11,8)
+msgid ""
+"ま、気が向いた時に、考えてね？\n"
+"そうそう…"
+msgstr "嗯，等你感兴趣的时候，考虑一下吧？对了对了…"
+
+#. ID 4, Page 2, Line 70, Pos (11,8)
+msgid ""
+"娼婦組合とのコンタクトは、裏通りの\n"
+"酒場にいる着物着たおねえさんを通して\n"
+"するのよ。覚えておいてね。"
+msgstr ""
+"与娼妇组合的联系，\n"
+"要通过后巷酒馆里那位穿和服的大姐姐来进行哦。\n"
+"记住哦。"
+
+#. ID 4, Page 2, Line 76, Pos (11,8)
+msgid "娼婦組合　の情報を得た！"
+msgstr "获得了娼妇组合　的情报！"
+
+#. ID 4, Page 2, Line 91, Pos (11,8)
+msgid ""
+"あら？\n"
+"こんな夜更けに、わが教会に\n"
+"どんなご用かしら？"
+msgstr "哎呀？这么深夜，来我们教会有什么事吗？"
+
+#. ID 4, Page 3, Line 5, Pos (11,8)
+msgid ""
+"あらあら…ステキな首輪を付けているのね\n"
+"ついでにコレも"
+msgstr "哎呀哎呀…你戴着很棒的项圈呢，顺便也把这个"
+
+#. ID 4, Page 3, Line 8, Pos (11,8)
+msgid ""
+"って、あら？アレとは全然違うわね\n"
+"これじゃプレゼントが似合わないじゃない\n"
+"\\!まあいいわ。折角だし呪いをみてあげる"
+msgstr ""
+"咦，哎呀？和那个完全不一样呢。\n"
+"这样的话礼物就不相称了嘛\\!算了，难得来一趟，\n"
+"就让我看看诅咒吧"
+
+#. ID 4, Page 3, Line 15, Pos (11,8)
+msgid ""
+"あらあら…ステキな首輪を付けているのね\n"
+"ついでにコレも付けてあげましょうか\\c[11]$k"
+msgstr ""
+"哎呀哎呀…你戴着很棒的项圈呢，\n"
+"顺便把这个也给你戴上吧\\c[11]$k"
+
+#. ID 4, Page 3, Line 17, Pos (11,8)
+#. Choice (3 options)
+msgid ""
+"結構です\n"
+"お願いします\n"
+"コレって？"
+msgstr ""
+"不用了\n"
+"拜托您了\n"
+"这个是什么？"
+
+#. ID 4, Page 3, Line 26, Pos (11,8)
+#. ID 4, Page 5, Line 48, Pos (11,8)
+msgid "うふふ。サービスしちゃうわよ\\c[11]$k"
+msgstr "呵呵。就特别服务你吧\\c[11]$k"
+
+#. ID 4, Page 3, Line 30, Pos (11,8)
+msgid "女は度胸！とりあえず付けてみましょう\\c[11]$k"
+msgstr "女人靠胆量！总之先戴上试试吧\\c[11]$k"
+
+#. ID 4, Page 3, Line 76, Pos (11,8)
+#. ChangeHeroTitle (Actor 1)
+#. ID 4, Page 3, Line 160, Pos (11,8)
+#. ChangeHeroTitle (Actor 23)
+#. ID 4, Page 3, Line 164, Pos (11,8)
+#. ChangeHeroTitle (Actor 24)
+#. ID 4, Page 3, Line 168, Pos (11,8)
+#. ChangeHeroTitle (Actor 25)
+#. ID 4, Page 3, Line 180, Pos (11,8)
+#. ChangeHeroTitle (Actor 28)
+#. ID 4, Page 3, Line 184, Pos (11,8)
+#. ChangeHeroTitle (Actor 30)
+#. ID 4, Page 3, Line 193, Pos (11,8)
+#. ChangeHeroTitle (Actor 32)
+#. ID 4, Page 3, Line 230, Pos (11,8)
+#. ChangeHeroTitle (Actor 40)
+#. ID 4, Page 3, Line 250, Pos (11,8)
+#. ChangeHeroTitle (Actor 45)
+#. ID 4, Page 3, Line 262, Pos (11,8)
+#. ChangeHeroTitle (Actor 48)
+#. ID 4, Page 3, Line 274, Pos (11,8)
+#. ChangeHeroTitle (Actor 51)
+#. ID 4, Page 3, Line 282, Pos (11,8)
+#. ChangeHeroTitle (Actor 53)
+#. ID 4, Page 3, Line 290, Pos (11,8)
+#. ChangeHeroTitle (Actor 56)
+#. ID 4, Page 3, Line 302, Pos (11,8)
+#. ChangeHeroTitle (Actor 61)
+#. ID 4, Page 3, Line 314, Pos (11,8)
+#. ChangeHeroTitle (Actor 64)
+#. ID 4, Page 5, Line 92, Pos (11,8)
+#. ChangeHeroTitle (Actor 1)
+#. ID 4, Page 5, Line 176, Pos (11,8)
+#. ChangeHeroTitle (Actor 23)
+#. ID 4, Page 5, Line 180, Pos (11,8)
+#. ChangeHeroTitle (Actor 24)
+#. ID 4, Page 5, Line 184, Pos (11,8)
+#. ChangeHeroTitle (Actor 25)
+#. ID 4, Page 5, Line 196, Pos (11,8)
+#. ChangeHeroTitle (Actor 28)
+#. ID 4, Page 5, Line 200, Pos (11,8)
+#. ChangeHeroTitle (Actor 30)
+#. ID 4, Page 5, Line 209, Pos (11,8)
+#. ChangeHeroTitle (Actor 32)
+#. ID 4, Page 5, Line 246, Pos (11,8)
+#. ChangeHeroTitle (Actor 40)
+#. ID 4, Page 5, Line 266, Pos (11,8)
+#. ChangeHeroTitle (Actor 45)
+#. ID 4, Page 5, Line 278, Pos (11,8)
+#. ChangeHeroTitle (Actor 48)
+#. ID 4, Page 5, Line 290, Pos (11,8)
+#. ChangeHeroTitle (Actor 51)
+#. ID 4, Page 5, Line 298, Pos (11,8)
+#. ChangeHeroTitle (Actor 53)
+#. ID 4, Page 5, Line 306, Pos (11,8)
+#. ChangeHeroTitle (Actor 56)
+#. ID 4, Page 5, Line 318, Pos (11,8)
+#. ChangeHeroTitle (Actor 61)
+#. ID 4, Page 5, Line 330, Pos (11,8)
+#. ChangeHeroTitle (Actor 64)
+#. ID 4, Page 6, Line 50, Pos (11,8)
+#. ChangeHeroTitle (Actor 1)
+#. ID 4, Page 6, Line 134, Pos (11,8)
+#. ChangeHeroTitle (Actor 23)
+#. ID 4, Page 6, Line 138, Pos (11,8)
+#. ChangeHeroTitle (Actor 24)
+#. ID 4, Page 6, Line 142, Pos (11,8)
+#. ChangeHeroTitle (Actor 25)
+#. ID 4, Page 6, Line 154, Pos (11,8)
+#. ChangeHeroTitle (Actor 30)
+#. ID 4, Page 6, Line 163, Pos (11,8)
+#. ChangeHeroTitle (Actor 32)
+#. ID 4, Page 6, Line 200, Pos (11,8)
+#. ChangeHeroTitle (Actor 40)
+#. ID 4, Page 6, Line 220, Pos (11,8)
+#. ChangeHeroTitle (Actor 45)
+#. ID 4, Page 6, Line 232, Pos (11,8)
+#. ChangeHeroTitle (Actor 48)
+#. ID 4, Page 6, Line 244, Pos (11,8)
+#. ChangeHeroTitle (Actor 51)
+#. ID 4, Page 6, Line 252, Pos (11,8)
+#. ChangeHeroTitle (Actor 53)
+#. ID 4, Page 6, Line 256, Pos (11,8)
+#. ChangeHeroTitle (Actor 53)
+#. ID 4, Page 6, Line 272, Pos (11,8)
+#. ChangeHeroTitle (Actor 61)
+#. ID 4, Page 6, Line 280, Pos (11,8)
+#. ChangeHeroTitle (Actor 64)
+msgctxt "actors.title"
+msgid "性奴隷"
+msgstr "性奴隶"
+
+#. ID 4, Page 3, Line 80, Pos (11,8)
+#. ChangeHeroTitle (Actor 2)
+#. ID 4, Page 3, Line 104, Pos (11,8)
+#. ChangeHeroTitle (Actor 8)
+#. ID 4, Page 3, Line 120, Pos (11,8)
+#. ChangeHeroTitle (Actor 12)
+#. ID 4, Page 3, Line 132, Pos (11,8)
+#. ChangeHeroTitle (Actor 15)
+#. ID 4, Page 3, Line 140, Pos (11,8)
+#. ChangeHeroTitle (Actor 17)
+#. ID 4, Page 3, Line 148, Pos (11,8)
+#. ChangeHeroTitle (Actor 20)
+#. ID 4, Page 3, Line 172, Pos (11,8)
+#. ChangeHeroTitle (Actor 26)
+#. ID 4, Page 3, Line 234, Pos (11,8)
+#. ChangeHeroTitle (Actor 41)
+#. ID 4, Page 3, Line 266, Pos (11,8)
+#. ChangeHeroTitle (Actor 49)
+#. ID 4, Page 3, Line 286, Pos (11,8)
+#. ChangeHeroTitle (Actor 55)
+#. ID 4, Page 5, Line 96, Pos (11,8)
+#. ChangeHeroTitle (Actor 2)
+#. ID 4, Page 5, Line 120, Pos (11,8)
+#. ChangeHeroTitle (Actor 8)
+#. ID 4, Page 5, Line 136, Pos (11,8)
+#. ChangeHeroTitle (Actor 12)
+#. ID 4, Page 5, Line 148, Pos (11,8)
+#. ChangeHeroTitle (Actor 15)
+#. ID 4, Page 5, Line 156, Pos (11,8)
+#. ChangeHeroTitle (Actor 17)
+#. ID 4, Page 5, Line 164, Pos (11,8)
+#. ChangeHeroTitle (Actor 20)
+#. ID 4, Page 5, Line 188, Pos (11,8)
+#. ChangeHeroTitle (Actor 26)
+#. ID 4, Page 5, Line 250, Pos (11,8)
+#. ChangeHeroTitle (Actor 41)
+#. ID 4, Page 5, Line 282, Pos (11,8)
+#. ChangeHeroTitle (Actor 49)
+#. ID 4, Page 5, Line 302, Pos (11,8)
+#. ChangeHeroTitle (Actor 55)
+#. ID 4, Page 6, Line 54, Pos (11,8)
+#. ChangeHeroTitle (Actor 2)
+#. ID 4, Page 6, Line 78, Pos (11,8)
+#. ChangeHeroTitle (Actor 8)
+#. ID 4, Page 6, Line 94, Pos (11,8)
+#. ChangeHeroTitle (Actor 12)
+#. ID 4, Page 6, Line 106, Pos (11,8)
+#. ChangeHeroTitle (Actor 15)
+#. ID 4, Page 6, Line 114, Pos (11,8)
+#. ChangeHeroTitle (Actor 17)
+#. ID 4, Page 6, Line 122, Pos (11,8)
+#. ChangeHeroTitle (Actor 20)
+#. ID 4, Page 6, Line 146, Pos (11,8)
+#. ChangeHeroTitle (Actor 26)
+#. ID 4, Page 6, Line 204, Pos (11,8)
+#. ChangeHeroTitle (Actor 41)
+#. ID 4, Page 6, Line 236, Pos (11,8)
+#. ChangeHeroTitle (Actor 49)
+msgctxt "actors.title"
+msgid "公衆便所"
+msgstr "公共厕所"
+
+#. ID 4, Page 3, Line 84, Pos (11,8)
+#. ChangeHeroTitle (Actor 3)
+#. ID 4, Page 3, Line 100, Pos (11,8)
+#. ChangeHeroTitle (Actor 7)
+#. ID 4, Page 3, Line 214, Pos (11,8)
+#. ChangeHeroTitle (Actor 36)
+#. ID 4, Page 3, Line 218, Pos (11,8)
+#. ChangeHeroTitle (Actor 37)
+#. ID 4, Page 3, Line 254, Pos (11,8)
+#. ChangeHeroTitle (Actor 46)
+#. ID 4, Page 3, Line 270, Pos (11,8)
+#. ChangeHeroTitle (Actor 50)
+#. ID 4, Page 3, Line 278, Pos (11,8)
+#. ChangeHeroTitle (Actor 52)
+#. ID 4, Page 5, Line 100, Pos (11,8)
+#. ChangeHeroTitle (Actor 3)
+#. ID 4, Page 5, Line 116, Pos (11,8)
+#. ChangeHeroTitle (Actor 7)
+#. ID 4, Page 5, Line 230, Pos (11,8)
+#. ChangeHeroTitle (Actor 36)
+#. ID 4, Page 5, Line 234, Pos (11,8)
+#. ChangeHeroTitle (Actor 37)
+#. ID 4, Page 5, Line 270, Pos (11,8)
+#. ChangeHeroTitle (Actor 46)
+#. ID 4, Page 5, Line 286, Pos (11,8)
+#. ChangeHeroTitle (Actor 50)
+#. ID 4, Page 5, Line 294, Pos (11,8)
+#. ChangeHeroTitle (Actor 52)
+#. ID 4, Page 6, Line 58, Pos (11,8)
+#. ChangeHeroTitle (Actor 3)
+#. ID 4, Page 6, Line 74, Pos (11,8)
+#. ChangeHeroTitle (Actor 7)
+#. ID 4, Page 6, Line 184, Pos (11,8)
+#. ChangeHeroTitle (Actor 36)
+#. ID 4, Page 6, Line 188, Pos (11,8)
+#. ChangeHeroTitle (Actor 37)
+#. ID 4, Page 6, Line 224, Pos (11,8)
+#. ChangeHeroTitle (Actor 46)
+#. ID 4, Page 6, Line 240, Pos (11,8)
+#. ChangeHeroTitle (Actor 50)
+#. ID 4, Page 6, Line 248, Pos (11,8)
+#. ChangeHeroTitle (Actor 52)
+msgctxt "actors.title"
+msgid "奴隷姫"
+msgstr "奴隶公主"
+
+#. ID 4, Page 3, Line 88, Pos (11,8)
+#. ChangeHeroTitle (Actor 4)
+#. ID 4, Page 5, Line 104, Pos (11,8)
+#. ChangeHeroTitle (Actor 4)
+#. ID 4, Page 6, Line 62, Pos (11,8)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "娼姦士"
+msgstr "娼奸士"
+
+#. ID 4, Page 3, Line 92, Pos (11,8)
+#. ChangeHeroTitle (Actor 5)
+#. ID 4, Page 3, Line 156, Pos (11,8)
+#. ChangeHeroTitle (Actor 22)
+#. ID 4, Page 3, Line 196, Pos (11,8)
+#. ChangeHeroTitle (Actor 32)
+#. ID 4, Page 3, Line 202, Pos (11,8)
+#. ChangeHeroTitle (Actor 33)
+#. ID 4, Page 3, Line 222, Pos (11,8)
+#. ChangeHeroTitle (Actor 38)
+#. ID 4, Page 3, Line 226, Pos (11,8)
+#. ChangeHeroTitle (Actor 39)
+#. ID 4, Page 3, Line 246, Pos (11,8)
+#. ChangeHeroTitle (Actor 44)
+#. ID 4, Page 3, Line 294, Pos (11,8)
+#. ChangeHeroTitle (Actor 59)
+#. ID 4, Page 3, Line 306, Pos (11,8)
+#. ChangeHeroTitle (Actor 62)
+#. ID 4, Page 5, Line 108, Pos (11,8)
+#. ChangeHeroTitle (Actor 5)
+#. ID 4, Page 5, Line 172, Pos (11,8)
+#. ChangeHeroTitle (Actor 22)
+#. ID 4, Page 5, Line 212, Pos (11,8)
+#. ChangeHeroTitle (Actor 32)
+#. ID 4, Page 5, Line 218, Pos (11,8)
+#. ChangeHeroTitle (Actor 33)
+#. ID 4, Page 5, Line 238, Pos (11,8)
+#. ChangeHeroTitle (Actor 38)
+#. ID 4, Page 5, Line 242, Pos (11,8)
+#. ChangeHeroTitle (Actor 39)
+#. ID 4, Page 5, Line 262, Pos (11,8)
+#. ChangeHeroTitle (Actor 44)
+#. ID 4, Page 5, Line 310, Pos (11,8)
+#. ChangeHeroTitle (Actor 59)
+#. ID 4, Page 5, Line 322, Pos (11,8)
+#. ChangeHeroTitle (Actor 62)
+#. ID 4, Page 6, Line 66, Pos (11,8)
+#. ChangeHeroTitle (Actor 5)
+#. ID 4, Page 6, Line 130, Pos (11,8)
+#. ChangeHeroTitle (Actor 22)
+#. ID 4, Page 6, Line 166, Pos (11,8)
+#. ChangeHeroTitle (Actor 32)
+#. ID 4, Page 6, Line 172, Pos (11,8)
+#. ChangeHeroTitle (Actor 33)
+#. ID 4, Page 6, Line 192, Pos (11,8)
+#. ChangeHeroTitle (Actor 38)
+#. ID 4, Page 6, Line 196, Pos (11,8)
+#. ChangeHeroTitle (Actor 39)
+#. ID 4, Page 6, Line 216, Pos (11,8)
+#. ChangeHeroTitle (Actor 44)
+#. ID 4, Page 6, Line 260, Pos (11,8)
+#. ChangeHeroTitle (Actor 55)
+#. ID 4, Page 6, Line 264, Pos (11,8)
+#. ChangeHeroTitle (Actor 59)
+#. ID 4, Page 6, Line 276, Pos (11,8)
+#. ChangeHeroTitle (Actor 62)
+msgctxt "actors.title"
+msgid "愛玩少女"
+msgstr "爱玩少女"
+
+#. ID 4, Page 3, Line 96, Pos (11,8)
+#. ChangeHeroTitle (Actor 6)
+#. ID 4, Page 5, Line 112, Pos (11,8)
+#. ChangeHeroTitle (Actor 6)
+#. ID 4, Page 6, Line 70, Pos (11,8)
+#. ChangeHeroTitle (Actor 6)
+msgctxt "actors.title"
+msgid "帝国慰安奴隷"
+msgstr "帝国慰安奴隶"
+
+#. ID 4, Page 3, Line 108, Pos (11,8)
+#. ChangeHeroTitle (Actor 9)
+#. ID 4, Page 3, Line 116, Pos (11,8)
+#. ChangeHeroTitle (Actor 11)
+#. ID 4, Page 5, Line 124, Pos (11,8)
+#. ChangeHeroTitle (Actor 9)
+#. ID 4, Page 5, Line 132, Pos (11,8)
+#. ChangeHeroTitle (Actor 11)
+#. ID 4, Page 6, Line 82, Pos (11,8)
+#. ChangeHeroTitle (Actor 9)
+#. ID 4, Page 6, Line 90, Pos (11,8)
+#. ChangeHeroTitle (Actor 11)
+msgctxt "actors.title"
+msgid "堕天使"
+msgstr "堕天使"
+
+#. ID 4, Page 3, Line 112, Pos (11,8)
+#. ChangeHeroTitle (Actor 10)
+#. ID 4, Page 3, Line 258, Pos (11,8)
+#. ChangeHeroTitle (Actor 47)
+#. ID 4, Page 5, Line 128, Pos (11,8)
+#. ChangeHeroTitle (Actor 10)
+#. ID 4, Page 5, Line 274, Pos (11,8)
+#. ChangeHeroTitle (Actor 47)
+#. ID 4, Page 6, Line 86, Pos (11,8)
+#. ChangeHeroTitle (Actor 10)
+#. ID 4, Page 6, Line 228, Pos (11,8)
+#. ChangeHeroTitle (Actor 47)
+msgctxt "actors.title"
+msgid "奴隷愛玩具"
+msgstr "奴隶爱玩具"
+
+#. ID 4, Page 3, Line 124, Pos (11,8)
+#. ChangeHeroTitle (Actor 13)
+#. ID 4, Page 3, Line 128, Pos (11,8)
+#. ChangeHeroTitle (Actor 14)
+#. ID 4, Page 3, Line 152, Pos (11,8)
+#. ChangeHeroTitle (Actor 21)
+#. ID 4, Page 3, Line 176, Pos (11,8)
+#. ChangeHeroTitle (Actor 27)
+#. ID 4, Page 5, Line 140, Pos (11,8)
+#. ChangeHeroTitle (Actor 13)
+#. ID 4, Page 5, Line 144, Pos (11,8)
+#. ChangeHeroTitle (Actor 14)
+#. ID 4, Page 5, Line 168, Pos (11,8)
+#. ChangeHeroTitle (Actor 21)
+#. ID 4, Page 5, Line 192, Pos (11,8)
+#. ChangeHeroTitle (Actor 27)
+#. ID 4, Page 6, Line 98, Pos (11,8)
+#. ChangeHeroTitle (Actor 13)
+#. ID 4, Page 6, Line 102, Pos (11,8)
+#. ChangeHeroTitle (Actor 14)
+#. ID 4, Page 6, Line 126, Pos (11,8)
+#. ChangeHeroTitle (Actor 21)
+#. ID 4, Page 6, Line 150, Pos (11,8)
+#. ChangeHeroTitle (Actor 27)
+msgctxt "actors.title"
+msgid "性隷妖魔"
+msgstr "性隶妖魔"
+
+#. ID 4, Page 3, Line 136, Pos (11,8)
+#. ChangeHeroTitle (Actor 16)
+#. ID 4, Page 5, Line 152, Pos (11,8)
+#. ChangeHeroTitle (Actor 16)
+#. ID 4, Page 6, Line 110, Pos (11,8)
+#. ChangeHeroTitle (Actor 16)
+msgctxt "actors.title"
+msgid "慰安隊少尉"
+msgstr "慰安队少尉"
+
+#. ID 4, Page 3, Line 144, Pos (11,8)
+#. ChangeHeroTitle (Actor 19)
+#. ID 4, Page 5, Line 160, Pos (11,8)
+#. ChangeHeroTitle (Actor 19)
+#. ID 4, Page 6, Line 118, Pos (11,8)
+#. ChangeHeroTitle (Actor 19)
+msgctxt "actors.title"
+msgid "夢魔"
+msgstr "梦魔"
+
+#. ID 4, Page 3, Line 188, Pos (11,8)
+#. ChangeHeroTitle (Actor 31)
+#. ID 4, Page 5, Line 204, Pos (11,8)
+#. ChangeHeroTitle (Actor 31)
+#. ID 4, Page 6, Line 158, Pos (11,8)
+#. ChangeHeroTitle (Actor 31)
+msgctxt "actors.title"
+msgid "搾乳奴隷"
+msgstr "挤乳奴隶"
+
+#. ID 4, Page 3, Line 206, Pos (11,8)
+#. ChangeHeroTitle (Actor 34)
+#. ID 4, Page 5, Line 222, Pos (11,8)
+#. ChangeHeroTitle (Actor 34)
+#. ID 4, Page 6, Line 176, Pos (11,8)
+#. ChangeHeroTitle (Actor 34)
+msgctxt "actors.title"
+msgid "隷嬢"
+msgstr "隶娘"
+
+#. ID 4, Page 3, Line 210, Pos (11,8)
+#. ChangeHeroTitle (Actor 35)
+#. ID 4, Page 5, Line 226, Pos (11,8)
+#. ChangeHeroTitle (Actor 35)
+#. ID 4, Page 6, Line 180, Pos (11,8)
+#. ChangeHeroTitle (Actor 35)
+msgctxt "actors.title"
+msgid "淫巫女"
+msgstr "淫巫女"
+
+#. ID 4, Page 3, Line 238, Pos (11,8)
+#. ChangeHeroTitle (Actor 42)
+#. ID 4, Page 5, Line 254, Pos (11,8)
+#. ChangeHeroTitle (Actor 42)
+#. ID 4, Page 6, Line 208, Pos (11,8)
+#. ChangeHeroTitle (Actor 42)
+msgctxt "actors.title"
+msgid "奴隷教師"
+msgstr "奴隶教师"
+
+#. ID 4, Page 3, Line 242, Pos (11,8)
+#. ChangeHeroTitle (Actor 43)
+#. ID 4, Page 5, Line 258, Pos (11,8)
+#. ChangeHeroTitle (Actor 43)
+#. ID 4, Page 6, Line 212, Pos (11,8)
+#. ChangeHeroTitle (Actor 43)
+msgctxt "actors.title"
+msgid "堕ちた女神"
+msgstr "堕落女神"
+
+#. ID 4, Page 3, Line 298, Pos (11,8)
+#. ChangeHeroTitle (Actor 60)
+#. ID 4, Page 5, Line 314, Pos (11,8)
+#. ChangeHeroTitle (Actor 60)
+#. ID 4, Page 6, Line 268, Pos (11,8)
+#. ChangeHeroTitle (Actor 60)
+msgctxt "actors.title"
+msgid "奴隷剣士"
+msgstr "奴隶剑士"
+
+#. ID 4, Page 3, Line 310, Pos (11,8)
+#. ChangeHeroTitle (Actor 63)
+#. ID 4, Page 5, Line 326, Pos (11,8)
+#. ChangeHeroTitle (Actor 63)
+msgctxt "actors.title"
+msgid "膣女の騎空士"
+msgstr "膣女骑空士"
+
+#. ID 4, Page 3, Line 320, Pos (11,8)
+#. ID 4, Page 5, Line 336, Pos (11,8)
+#. ID 4, Page 6, Line 286, Pos (11,8)
+msgid "フフフ、お似合いよ♪"
+msgstr "呵呵呵，很合适哦♪"
+
+#. ID 4, Page 4, Line 4, Pos (11,8)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 7, Line 4, Pos (11,8)
+msgid "フフフ、よく似合ってるわよ♪"
+msgstr "呵呵呵，非常合适哦♪"
+
+#. ID 4, Page 4, Line 5, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ありがとうございます…\n"
+"……………"
+msgstr ""
+"非常感谢…\n"
+"……………"
+
+#. ID 4, Page 4, Line 7, Pos (11,8)
+msgid "フフフ、どういたしまして♪"
+msgstr "呵呵呵，不客气♪"
+
+#. ID 4, Page 4, Line 12, Pos (11,8)
+msgid ""
+"沈黙は肯定と見るわ。\n"
+"本当に無様で素敵よ。あなた。"
+msgstr "沉默我就当作肯定了。你真是又狼狈又迷人呢。"
+
+#. ID 4, Page 4, Line 18, Pos (11,8)
+msgid ""
+"…ウフフ、あらあら。どうも\n"
+"ご不満があるようね？"
+msgstr "…呵呵，哎呀哎呀。看来你好像很不满呢？"
+
+#. ID 4, Page 4, Line 20, Pos (11,8)
+msgid ""
+"フフフ、そう睨まないで。私、あなたの\n"
+"悩みを解消してあげられると思うわ。"
+msgstr ""
+"呵呵呵，别那样瞪着我。\n"
+"我觉得我能帮你解决烦恼哦。"
+
+#. ID 4, Page 4, Line 22, Pos (11,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"その首輪を外すことのできる鍵を\n"
+"私が用意できるといったら、どう？"
+msgstr ""
+"如果我说我能准备到能取下那个项圈的钥匙，\n"
+"你觉得怎么样？"
+
+#. ID 4, Page 4, Line 24, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"驚く\n"
+"信じられない。"
+msgstr ""
+"惊讶\n"
+"难以置信。"
+
+#. ID 4, Page 4, Line 26, Pos (11,8)
+msgid ""
+"フフフ、本当に外せるのよ。\n"
+"とはいっても、タダじゃないけどね。"
+msgstr ""
+"呵呵呵，真的能取下来哦。话虽如此，\n"
+"可不是免费的哦。"
+
+#. ID 4, Page 4, Line 28, Pos (11,8)
+msgid "鍵の相場は20,000Gくらいかしら？"
+msgstr "钥匙的行情大概是20,000G吧？"
+
+#. ID 4, Page 4, Line 29, Pos (11,8)
+msgid ""
+"このまま奴隷として\n"
+"惨めに暮らすことを考えたら、\n"
+"決して高い金額じゃないと思うわ。"
+msgstr ""
+"如果考虑到就这样作为奴隶悲惨地生活下去，\n"
+"我觉得绝不是高昂的金额哦。"
+
+#. ID 4, Page 4, Line 32, Pos (11,8)
+msgid ""
+"あ、フフ。安心して。私は、\n"
+"闘技場の連中みたいな嘘吐きじゃないわ。"
+msgstr ""
+"啊，呵呵。放心吧。\n"
+"我可不是竞技场那帮家伙那样的骗子。"
+
+#. ID 4, Page 4, Line 34, Pos (11,8)
+msgid ""
+"お金だけ取って知らん振りなんて\n"
+"そんな酷いことはしないわよ。"
+msgstr ""
+"只收金钱然后装作不知情，\n"
+"我可不会做那种过分的事哦。"
+
+#. ID 4, Page 4, Line 40, Pos (11,8)
+msgid ""
+"ああ、信じられないって顔をしてるわね。\n"
+"そうね…それも仕方ないわね。"
+msgstr ""
+"啊，你露出一副难以置信的表情呢。是啊…\n"
+"那也没办法呢。"
+
+#. ID 4, Page 4, Line 42, Pos (11,8)
+msgid ""
+"フフ、でも、気が変わったら\n"
+"いつでも来てくれて構わないのよ？"
+msgstr ""
+"呵呵，不过，如果你改变主意了，\n"
+"随时都可以来找我哦？"
+
+#. ID 4, Page 5, Line 4, Pos (11,8)
+#. Choice (2 options)
+msgid ""
+"鍵を購入する    20,000G\n"
+"やめる"
+msgstr ""
+"购买钥匙    20,000G\n"
+"放弃"
+
+#. ID 4, Page 5, Line 7, Pos (11,8)
+msgid "あらあら、お金が足りないわ。"
+msgstr "哎呀哎呀，金钱不够呢。"
+
+#. ID 4, Page 5, Line 8, Pos (11,8)
+msgid ""
+"ウフフ、焦らなくていいわよ。\n"
+"逃げたりしないから。"
+msgstr "呵呵，不用着急哦。我是不会逃的。"
+
+#. ID 4, Page 5, Line 10, Pos (11,8)
+msgid ""
+"ゆっくり稼いできて。あなたなら、\n"
+"きっと仕事には困らないでしょう？\n"
+"ウフフ…"
+msgstr ""
+"慢慢赚钱再来吧。你的话，一定不会为工作发愁吧？\n"
+"呵呵…"
+
+#. ID 4, Page 5, Line 17, Pos (11,8)
+msgid ""
+"ウフフ、確かにお金は頂いたわ。\n"
+"はい、これが首輪の鍵よ…"
+msgstr "呵呵，确实收下金钱了。给，这就是项圈钥匙哦…"
+
+#. ID 4, Page 5, Line 23, Pos (11,8)
+msgid "首輪の鍵を手に入れた。"
+msgstr "获得了项圈钥匙。"
+
+#. ID 4, Page 5, Line 27, Pos (11,8)
+msgid ""
+"自分に使うのも、\n"
+"誰かに使ってあげるのもいいわ。\n"
+"ああ、でも、注意して。"
+msgstr "自己用也好，给谁用也好。啊，不过，要注意。"
+
+#. ID 4, Page 5, Line 30, Pos (11,8)
+msgid "それ、一度使うと壊れちゃうから♪"
+msgstr "那个，使用一次就会坏掉哦♪"
+
+#. ID 4, Page 5, Line 31, Pos (11,8)
+msgid ""
+"じゃあ、鍵が欲しくなったら、\n"
+"また私の所に来てね\\c[11]$k"
+msgstr "那么，想要钥匙的时候，再来我这里哦\\c[11]$k"
+
+#. ID 4, Page 5, Line 38, Pos (11,8)
+msgid ""
+"あらん、奴隷生活が\n"
+"気に入っちゃったのかしら？"
+msgstr "哎呀，难道是喜欢上奴隶生活了？"
+
+#. ID 4, Page 5, Line 41, Pos (11,8)
+msgid ""
+"もしかして…また「コレ」を\n"
+"付けて欲しいのかしら？\n"
+"あなた、よっぽど気に入ったのねえ…"
+msgstr "难道说…还想再戴上「这个」吗？你真是相当喜欢呢…"
+
+#. ID 4, Page 5, Line 44, Pos (11,8)
+#. Contains choice at line 2 (2 options)
+msgid "さあ、どうするの？"
+msgstr "来吧，要怎么做？"
+
+#. ID 4, Page 5, Line 45, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"お、お願いします…\n"
+"そ、そんなことないです"
+msgstr ""
+"拜、拜托您了…\n"
+"才、才没有那种事"
+
+#. ID 4, Page 5, Line 356, Pos (11,8)
+msgid "あらん、気が変わったのかしら？"
+msgstr "哎呀，是改变主意了吗？"
+
+#. ID 4, Page 6, Line 4, Pos (11,8)
+msgid ""
+"あらあら…随分とイイ物を\n"
+"つけてらっしゃいますね。\n"
+"どこかの落ちぶれたお嬢様かしら？"
+msgstr ""
+"哎呀哎呀…戴着相当不错的东西呢。\n"
+"是哪家落魄的大小姐吗？"
+
+#. ID 4, Page 6, Line 13, Pos (11,8)
+msgid ""
+"…いいわ、貴女最高よ。\n"
+"気品の中に垣間見えるそのマゾっ気…\n"
+"たまりませんわ。"
+msgstr ""
+"…真好，您最棒了。那份气质中隐约可见的受虐倾向…\n"
+"真是让人受不了呢。"
+
+#. ID 4, Page 6, Line 16, Pos (11,8)
+msgid ""
+"そんな貴女には\n"
+"とっておきのコレも付けてあげるわ\\c[11]$k"
+msgstr "对这样的您，就给您戴上珍藏的「这个」吧\\c[11]$k"
+
+#. ID 4, Page 7, Line 5, Pos (11,8)
+msgid ""
+"貴女を目当てにいろんな人が\n"
+"視線を送っているの…分かるでしょう？"
+msgstr "各种各样的人都在冲您投来视线…您明白吧？"
+
+#. ID 5, Page 1, Line 89, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]へぇ、おとなしそうな見た目の割に、\n"
+"\\n[101]ずいぶん\\c[11]淫乱\\c[0]なのね…\\n[102]"
+msgstr ""
+"\\n[101]哎，看起来挺老实的，\n"
+"\\n[101]却相当\\c[11]淫乱\\c[0]呢…\\n[102]"
+
+#. ID 5, Page 1, Line 95, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]下着に鍵がついてるー。\n"
+"\\n[101]おねえちゃん、\\c[11]奴隷\\c[0]なんだね。\\n[102]"
+msgstr ""
+"\\n[101]内裤上带着锁——。\\n[101]姐姐，\n"
+"你是\\c[11]奴隶\\c[0]吧。\\n[102]"
+
+#. ID 5, Page 1, Line 101, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]あんな下着を晒すなんて、\n"
+"\\n[101]\\c[11]変態\\c[0]なのかしら？\\n[102]"
+msgstr ""
+"\\n[101]竟然把那种内裤露出来，\n"
+"\\n[101]是\\c[11]变态\\c[0]吗？\\n[102]"
+
+#. ID 5, Page 1, Line 107, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]\\c[11]痴女\\c[0]さんよ！\n"
+"\\n[101]今晩のおかずの提供ありがとよ！\\n[102]"
+msgstr ""
+"\\n[101]\\c[11]痴女\\c[0]小姐！\n"
+"\\n[101]谢谢你提供今晚的配菜！\\n[102]"
+
+#. ID 5, Page 1, Line 113, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]見境なく誘惑して…、\n"
+"\\n[101]なんて\\c[11]淫乱\\c[0]な娘なの！\\n[102]"
+msgstr ""
+"\\n[101]不分对象地诱惑人……，\n"
+"\\n[101]真是个\\c[11]淫乱\\c[0]的姑娘！\\n[102]"
+
+#. ID 5, Page 1, Line 119, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]へっへっへ…、お嬢ちゃん、\n"
+"\\n[101]\\c[11]一晩いくら\\c[0]だい？\\n[102]"
+msgstr ""
+"\\n[101]嘿嘿嘿……，小姑娘，\n"
+"\\n[101]\\c[11]一晚多少钱\\c[0]啊？\\n[102]"
+
+#. ID 5, Page 1, Line 125, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]おい、\\c[11]尻穴狂い\\c[0]\n"
+"\\n[101]俺のとこに来いよ、可愛がってやるぜ！\\n[102]"
+msgstr ""
+"\\n[101]喂，\n"
+"\\c[11]臀穴狂\\c[0]\\n[101]到我这儿来，\n"
+"我会好好疼你的！\\n[102]"
+
+#. ID 5, Page 1, Line 131, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]あの娘の下着、鍵付きだわ。\n"
+"\\n[101]\\c[11]淫行の罰\\c[0]かしら？\\n[102]"
+msgstr ""
+"\\n[101]那姑娘的内裤，带锁呢。\n"
+"\\n[101]是\\c[11]淫行的惩罚\\c[0]吗？\\n[102]"
+
+#. ID 5, Page 1, Line 137, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]鍵付き下着なんて、\n"
+"\\n[101]よほどの\\c[11]自慰狂い\\c[0]なんだろうぜ。\\n[102]"
+msgstr ""
+"\\n[101]带锁的内裤什么的，\n"
+"\\n[101]一定是相当严重的\\c[11]自慰狂\\c[0]吧。\n"
+"\\n[102]"
+
+#. ID 5, Page 1, Line 143, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]俺んとこにも来いよ！\\c[11]淫乱娘！\\c[0]\n"
+"\\n[101]穴を調べてほしんだろう？\\n[102]"
+msgstr ""
+"\\n[101]也来我这儿啊！\\c[11]淫乱娘！\n"
+"\\c[0]\\n[101]你想让人检查你的穴吧？\\n[102]"
+
+#. ID 5, Page 1, Line 149, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]おい、\\c[11]性奴隷\\c[0]さんよ。\n"
+"\\n[101]今日は何人と寝る予定なんだ？\\n[102]"
+msgstr ""
+"\\n[101]喂，\\c[11]性奴隶\\c[0]小姐。\n"
+"\\n[101]今天打算和几个人睡啊？\\n[102]"
+
+#. ID 5, Page 1, Line 155, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]見たかよ、あの\\c[11]淫売\\c[0]の下着、\n"
+"\\n[101]尻が丸見えだぜ。\\n[102]"
+msgstr ""
+"\\n[101]看见了吗，那个\\c[11]淫卖妇\\c[0]的内裤，\n"
+"\\n[101]屁股全都露出来了。\\n[102]"
+
+#. ID 5, Page 1, Line 161, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]あんな扇情的な下着、\n"
+"\\n[101]\\c[11]色狂い\\c[0]としか思えんな\\n[102]"
+msgstr ""
+"\\n[101]那种煽情的内裤，\n"
+"\\n[101]只能认为是\\c[11]色情狂\\c[0]呢\\n[102]"
+
+#. ID 5, Page 1, Line 167, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]綺麗な娘なのに、\n"
+"\\n[101]\\c[11]奴隷娼婦\\c[0]なんて残念ね\\n[102]"
+msgstr ""
+"\\n[101]明明是个漂亮姑娘，\n"
+"\\n[101]却是\\c[11]奴隶娼妇\\c[0]，\n"
+"真可惜啊\\n[102]"
+
+#. ID 5, Page 1, Line 173, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]墜ちた貴族か？、\n"
+"\\n[101]\\c[11]売春婦\\c[0]なんて、哀れなもんだ\\n[102]"
+msgstr ""
+"\\n[101]堕落的贵族吗？、\n"
+"\\n[101]\\c[11]卖春妇\\c[0]什么的，\n"
+"真可悲啊\\n[102]"
+
+#. ID 5, Page 1, Line 179, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]下着は、\\c[11]淫蕩\\c[0]にふけった末路だろ？\n"
+"\\n[101]自業自得だな！\\n[102]"
+msgstr ""
+"\\n[101]那内裤，\n"
+"是沉溺于\\c[11]淫荡\\c[0]的下场吧？\n"
+"\\n[101]自作自受啊！\\n[102]"
+
+#. ID 5, Page 1, Line 185, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]こっちにも尻をむけてくれよ！\n"
+"\\n[101]\\c[11]誘ってんだろ？\\c[0]\\n[102]"
+msgstr ""
+"\\n[101]也把屁股朝这边露出来啊！\n"
+"\\n[101]\\c[11]你是在勾引人吧？\\c[0]\\n[102]"
+
+#. ID 5, Page 1, Line 191, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]お前、\\c[11]性奴隷\\c[0]だろ？\n"
+"\\n[101]裸になれよ！脱がしてやろうか？\\n[102]"
+msgstr ""
+"\\n[101]你，是\\c[11]性奴隶\\c[0]吧？\n"
+"\\n[101]脱光啊！要我来帮你脱吗？\\n[102]"
+
+#. ID 5, Page 1, Line 197, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]その下着、脱ぐ必要無いぜ？\n"
+"\\n[101]お前のような\\c[11]淫婦\\c[0]には、お似合いだ！\\n[102]"
+msgstr ""
+"\\n[101]那内裤，没必要脱哦？\n"
+"\\n[101]对像你这样的\\c[11]淫妇\\c[0]来说，\n"
+"正合适！\\n[102]"
+
+#. ID 5, Page 1, Line 203, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]あんな\\c[11]破廉恥な下着\\c[0]で、\n"
+"\\n[101]よく出歩く気になったものね。正気を疑うわ。\\n[102]"
+msgstr ""
+"\\n[101]竟然穿着那么\\c[11]无耻的内裤\\c[0]，\n"
+"\\n[101]还敢到处走。真让人怀疑你的神智。\\n[102]"
+
+#. ID 5, Page 1, Line 209, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]すまないが、出ていってくれないか？\n"
+"\\n[101]貴女のような、\\c[11]商売女\\c[0]は迷惑だ。\\n[102]"
+msgstr ""
+"\\n[101]不好意思，能请你出去吗？\n"
+"\\n[101]像你这样的\\c[11]妓女\\c[0]，很碍事。\n"
+"\\n[102]"
+
+#. ID 5, Page 1, Line 215, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]あの\\c[11]隷嬢\\c[0]の尻、柔らかそうだ。\n"
+"\\n[101]挿入したら、さぞ具合が良いんだろうなぁ、\\n[102]"
+msgstr ""
+"\\n[101]那个\\c[11]隶娘\\c[0]的屁股，看起来很软。\n"
+"\\n[101]插进去的话，感觉一定很舒服吧，\\n[102]"
+
+#. ID 5, Page 1, Line 221, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]教会に男漁りに来たのか？\n"
+"\\n[101]\\c[11]売女\\c[0]の考えることはわからんな\\n[102]"
+msgstr ""
+"\\n[101]你是来教会钓男人的吗？\n"
+"\\n[101]\\c[11]婊子\\c[0]的想法真是搞不懂啊\\n[102]"
+
+#. ID 5, Page 1, Line 227, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]あんなにお尻を強調して…\n"
+"\\n[101]なんて\\c[11]恥知らず\\c[0]なのかしら？\\n[102]"
+msgstr ""
+"\\n[101]那样强调屁股……\n"
+"\\n[101]真是\\c[11]不知羞耻\\c[0]啊？\\n[102]"
+
+#. ID 5, Page 1, Line 233, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]アイツ、見られて感じるタイプか。\n"
+"\\n[101]とんだ\\c[11]変態娘\\c[0]もいたものだな！\\n[102]"
+msgstr ""
+"\\n[101]那家伙，是被看就会兴奋的类型吗。\n"
+"\\n[101]竟然还有这么离谱的\\c[11]变态娘\\c[0]啊！\n"
+"\\n[102]"
+
+#. ID 5, Page 1, Line 239, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]なあ、\\c[11]奴隷の嬢ちゃん\\c[0]\n"
+"\\n[101]その柔らかそうな唇で、俺の逸物を咥えてくれや\\n[102]"
+msgstr ""
+"\\n[101]喂，\n"
+"\\c[11]奴隶小姐\\c[0]\\n[101]用你那看起来很柔软的\n"
+"嘴唇，含住我的鸡巴吧\\n[102]"
+
+#. ID 5, Page 1, Line 245, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]おい、小娘！そんなにセックスしてぇなら、\n"
+"\\n[101]\\c[11]肉便器\\c[0]として飼ってやろうか？\\n[102]"
+msgstr ""
+"\\n[101]喂，小丫头！那么想做爱的话，\n"
+"\\n[101]要我拿你当\\c[11]肉便器\\c[0]养起来吗？\n"
+"\\n[102]"
+
+#. ID 5, Page 1, Line 251, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]おい、\\c[11]尻軽女\\c[0]！\n"
+"\\n[101]そいつが脱げたら、誰とヤる予定なんだい？\\n[102]"
+msgstr ""
+"\\n[101]喂，\\c[11]轻浮女\\c[0]！\n"
+"\\n[101]要是那玩意儿脱了，你打算和谁干啊？\n"
+"\\n[102]"
+
+#. ID 5, Page 1, Line 257, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]なぁ、\\c[11]露出狂\\c[0]！\n"
+"\\n[101]視姦されてぇんだろ？隠すなや！\\n[102]"
+msgstr ""
+"\\n[101]喂，\\c[11]露出狂\\c[0]！\n"
+"\\n[101]你想被视奸吧？别遮遮掩掩的！\\n[102]"
+
+#. ID 5, Page 1, Line 263, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]ありゃ、\\c[11]客引き女\\c[0]だぜ。\n"
+"\\n[101]わざと貞操帯を見せて、同情を引いてるのさ。\\n[102]"
+msgstr ""
+"\\n[101]哎呀，是\\c[11]拉客女\\c[0]哦。\n"
+"\\n[101]故意露出贞操带，博取同情呢。\\n[102]"
+
+#. ID 5, Page 1, Line 269, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]憐れっぽい雰囲気も、仕草も、演技だわ。\n"
+"\\n[101]媚を売りなれてるのよ。\\c[11]最底の女\\c[0]ね\\n[102]"
+msgstr ""
+"\\n[101]那可怜兮兮的样子和举止，都是演技。\n"
+"\\n[101]她早就习惯卖媚了。\n"
+"真是\\c[11]最底层的女人\\c[0]呢\\n[102]"
+
+#. ID 5, Page 1, Line 275, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]貞操帯で、今更、何を守ろうってんだ？\n"
+"\\n[101]脱げよ！犯してやるぜ！\\c[11]便所女\\c[0]！\\n[102]"
+msgstr ""
+"\\n[101]事到如今，还用贞操带守什么啊？\n"
+"\\n[101]脱掉吧！我要干你！\\c[11]厕所女\\c[0]！\n"
+"\\n[102]"
+
+#. ID 5, Page 1, Line 281, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]元貴族令嬢？完全に晒し者ね。\n"
+"\\n[101]慰みものの\\c[11]奴隷姫\\c[0]といったところかしら？\\n[102]"
+msgstr ""
+"\\n[101]原贵族千金？完全就是被公开示众呢。\n"
+"\\n[101]算是供人消遣的\\c[11]奴隶公主\\c[0]吧？\n"
+"\\n[102]"
+
+#. ID 5, Page 1, Line 287, Pos (13,6)
+msgid ""
+"\n"
+"\\n[101]羞恥に震えてる？よく見なさいよ。\n"
+"\\n[101]感じてる顔よ、アレ。c[11]いやらしい娘\\c[0]ね！\\n[102]"
+msgstr ""
+"\\n[101]因羞耻而发抖？好好看看啊。\n"
+"\\n[101]那是正在享受的表情啊，那个。\n"
+"c[11]淫荡的姑娘\\c[0]呢！\\n[102]"
+
+#. ID 5, Page 2, Line 3, Pos (13,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\n[\\v[6]]ヨ、アナタハ、純潔ヲ望ミマスカ？"
+msgstr "\\n[\\v[6]]哟，你，希望保持纯洁吗？"
+
+#. ID 5, Page 2, Line 7, Pos (13,6)
+#. ID 5, Page 2, Line 15, Pos (13,6)
+msgid "デハ、コレヲ…"
+msgstr "那么，这个……"
+
+#. ID 5, Page 3, Line 16, Pos (13,6)
+msgid ""
+"\n"
+"一途の望みをかけて、貞操帯の解錠を頼みたいけど\n"
+"こんな、皆に見える場所で、なんて…"
+msgstr ""
+"我想押上唯一的希望，请求解开贞操带，\n"
+"可是在这么、大家都看得见的地方，居然……"
+
+#. ID 5, Page 3, Line 19, Pos (13,6)
+#. Choice (2 options)
+msgid ""
+"依頼する\n"
+"やめる"
+msgstr ""
+"接受委托\n"
+"放弃"
+
+#. ID 5, Page 3, Line 30, Pos (13,6)
+msgid ""
+"\n"
+"\\n[\\v[6]]は、\n"
+"服をはだけ、隷嬢の貞操帯を見せた…"
+msgstr "\\n[\\v[6]]掀开衣服，露出了奴隶少女的贞操带…"
+
+#. ID 5, Page 3, Line 33, Pos (13,6)
+msgid ""
+"着用者を辱める目的で作られたソレは、\n"
+"デザインも扇情的、お尻は無防備と、貞操とは真逆で…\n"
+"その特異な見た目が、訪れた人の目を引きつける"
+msgstr ""
+"那东西是为了羞辱佩戴者而制作的，设计也很煽情，\n"
+"臀部毫无防备，与贞操完全相反……\n"
+"其奇特的外观吸引了来访者的目光"
+
+#. ID 5, Page 3, Line 56, Pos (13,6)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\s[3]"
+msgstr "\\s[3]"
+
+#. ID 5, Page 3, Line 57, Pos (13,6)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\|\\^"
+msgstr "\\|\\^"
+
+#. ID 5, Page 3, Line 61, Pos (13,6)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\>"
+msgstr "\\>"
+
+#. ID 5, Page 3, Line 62, Pos (13,6)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\<\\.\\.\\^"
+msgstr "\\<\\.\\.\\^"
+
+#. ID 5, Page 3, Line 70, Pos (13,6)
+msgid ""
+"その、一言をきっかけに、\n"
+"さざなみのように、\n"
+"\\n[\\v[6]]のウワサが広がり始める…"
+msgstr ""
+"以那一句话为契机，像涟漪一样，\n"
+"\\n[\\v[6]]的传闻开始扩散……"
+
+#. ID 5, Page 3, Line 84, Pos (13,6)
+msgid ""
+"\n"
+"…\\.…\\.\\.…\\.\\.\\.\\^"
+msgstr ""
+"\n"
+"…\\.…\\.\\.…\\.\\.\\.\\^"
+
+#. ID 5, Page 3, Line 86, Pos (13,6)
+msgid ""
+"\n"
+"向けられる数々の視線や、言葉に耐えられず…\n"
+"\\n[\\v[6]]は、教会を飛び出した…"
+msgstr ""
+"无法忍受投来的无数视线和言语……\n"
+"\\n[\\v[6]]冲出了教会……"
+
+#. ID 5, Page 4, Line 4, Pos (13,6)
+msgid "＊鍵穴は無く、鍵を指し込むこともできない"
+msgstr "＊没有钥匙孔，也无法插入钥匙"
+
+#. ID 5, Page 4, Line 5, Pos (13,6)
+msgid ""
+"＊誰からも、どんな装置を使っても\n"
+"　絶対に外れずに辱め続ける貞操帯……"
+msgstr ""
+"＊无论由谁、使用什么装置　都绝对无法取下、\n"
+"　持续令人受辱的贞操带……"
+
+#. ID 5, Page 4, Line 7, Pos (13,6)
+msgid ""
+"＊貞操帯に性器を弄ばれ\n"
+"　\\n[\\v[6]]は被虐の快楽に悶えるしかない"
+msgstr ""
+"＊性器被贞操带玩弄　\\n[\\v[6]]只能在受虐的快感\n"
+"　中苦闷挣扎"
+
+#. ID 5, Page 4, Line 19, Pos (13,6)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"「あぁ……これぇ……\n"
+"　しゅごぃぃ……」"
+msgstr "【\\n[\\v[6]]】「啊……这个……　好厉害……」"
+
+#. ID 5, Page 4, Line 49, Pos (13,6)
+msgid "………？"
+msgstr "………？"
+
+#. ID 5, Page 4, Line 60, Pos (13,6)
+msgid "（貞操帯の鍵穴が見つからないようだ…）"
+msgstr "（好像找不到贞操带的钥匙孔……）"
+
+#. ID 5, Page 4, Line 69, Pos (13,6)
+msgid "！！"
+msgstr "！！"
+
+#. ID 5, Page 4, Line 78, Pos (13,6)
+msgid ""
+"（誰にも外すことのできない貞操帯に辱められ、\n"
+"\\n[\\v[6]]は悶えるしかなかった…）"
+msgstr ""
+"（被任何人都无法取下的贞操带羞辱，\n"
+"\\n[\\v[6]]只能苦闷挣扎……）"
+
+#. ID 5, Page 4, Line 90, Pos (13,6)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"「あぁ…誰か…これを外してぇぇ！"
+msgstr "【\\n[\\v[6]]】「啊……谁来……把这东西取下来啊啊！"
+
+#. ID 6, Page 1, Line 3, Pos (12,4)
+msgid "＊「懺悔室」"
+msgstr "＊「忏悔室」"
+
+#. ID 6, Page 1, Line 6, Pos (12,4)
+#. ID 6, Page 1, Line 7, Pos (12,4)
+#. ID 7, Page 1, Line 4, Pos (7,4)
+#. ID 7, Page 1, Line 5, Pos (7,4)
+msgid "＊………"
+msgstr "＊………"
+
+#. ID 6, Page 1, Line 25, Pos (12,4)
+msgid "＊………………"
+msgstr "＊………………"
+
+#. ID 6, Page 1, Line 26, Pos (12,4)
+msgid ""
+"この扉の向こうで懺悔をすれば\n"
+"罪を洗い流せるようだが……本当だろうか？"
+msgstr ""
+"在这扇门后忏悔的话，似乎就能洗清罪孽……\n"
+"是真的吗？"
+
+#. ID 6, Page 1, Line 29, Pos (12,4)
+msgid "罪に心当たりはないが……どうしよう？"
+msgstr "虽然不记得自己有什么罪……该怎么办？"
+
+#. ID 6, Page 1, Line 32, Pos (12,4)
+msgid "罪には心当たりがある……どうしよう？"
+msgstr "确实有罪在身……该怎么办？"
+
+#. ID 6, Page 1, Line 35, Pos (12,4)
+#. Choice (2 options)
+msgid ""
+"入る\n"
+"やめる"
+msgstr ""
+"进入\n"
+"放弃"
+
+#. ID 6, Page 1, Line 37, Pos (12,4)
+#. Contains choice at line 2 (2 options)
+msgid "…本当に入る？"
+msgstr "……真的要进入吗？"
+
+#. ID 6, Page 1, Line 38, Pos (12,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"もちろん入る\n"
+"やっぱりやめる"
+msgstr ""
+"当然要进\n"
+"还是算了"
+
+#. ID 7, Page 1, Line 3, Pos (7,4)
+msgid "＊……鍵がかかっている。"
+msgstr "＊……锁着。"
+
+#. ID 7, Page 1, Line 16, Pos (7,4)
+msgid ""
+"＊………奥でかすかにすすり泣くような声が\n"
+"　したような気がしたが、きっと気のせいだろう……"
+msgstr ""
+"＊………里面似乎隐约传来了抽泣般的声音，\n"
+"　但一定是错觉吧……"
+
+#. ID 7, Page 1, Line 21, Pos (7,4)
+#. Contains choice at line 2 (2 options)
+msgid "＊………何も聞こえない……"
+msgstr "＊………什么都听不见……"
+
+#. ID 7, Page 1, Line 22, Pos (7,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"………\n"
+"扉に触れる"
+msgstr ""
+"………\n"
+"触碰门扉"
+
+#. ID 7, Page 1, Line 27, Pos (7,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊……触れてしまえば、もう戻れない\n"
+"　それでも触る？"
+msgstr ""
+"＊……一旦触碰，\n"
+"　就再也回不去了　即便如此也要触碰吗？"
+
+#. ID 8, Page 1, Line 3, Pos (5,7)
+#. Contains choice at line 2 (2 options)
+msgid "1,000G寄付してください。"
+msgstr "请捐赠1,000G。"
+
+#. ID 8, Page 1, Line 7, Pos (5,7)
+msgid "寺院に来てもっとたくさん寄付してください。"
+msgstr "请到寺院来多捐一些。"
+
+#. ID 8, Page 1, Line 10, Pos (5,7)
+msgid "◆あやしい寺院　の情報を得た！"
+msgstr "◆获得了可疑寺院　的情报！"
+
+#. ID 8, Page 1, Line 15, Pos (5,7)
+msgid "お金が足りない"
+msgstr "金钱不足"
+
+#. ID 9, Page 1, Line 3, Pos (3,5)
+#. ID 9, Page 2, Line 3, Pos (3,5)
+msgid "「忘れられた邸宅」についての調査報告"
+msgstr "关于「被遗忘的宅邸」的调查报告"
+
+#. ID 9, Page 1, Line 6, Pos (3,5)
+#. ID 9, Page 2, Line 4, Pos (3,5)
+msgid ""
+"元々は首都アバロソの有力者のものだったが\n"
+"いつの頃からか人手を転々とし、\n"
+msgstr ""
+"原本是首都阿巴罗索权贵之物，\n"
+"但不知从何时起几经转手，"
+
+#. ID 9, Page 1, Line 9, Pos (3,5)
+#. ID 9, Page 2, Line 7, Pos (3,5)
+msgid ""
+"今では住む者も手入れする者もなく荒れ果て、\n"
+"人ならざる存在が群れ集まっているらしい。"
+msgstr ""
+"如今既无人居住也无人打理，荒废殆尽，\n"
+"据说非人之物成群聚集。"
+
+#. ID 9, Page 1, Line 14, Pos (3,5)
+msgid "◆忘れられた邸宅の情報を得た。"
+msgstr "◆获得了被遗忘的宅邸的情报。"
+
+#. ID 9, Page 1, Line 19, Pos (3,5)
+msgid ""
+"……\\.\\.？\n"
+"不思議な力に阻まれて読むことが出来ない。\n"
+msgstr "……\\.\\.？被不可思议的力量阻挡，无法阅读。"
+
+#. ID 9, Page 1, Line 22, Pos (3,5)
+msgid ""
+"この本を読むためには\n"
+"もう少しレベルを上げる必要があるようだ。\n"
+msgstr "要读这本书，似乎需要再提升一点等级。"
+
+#. ID 10, Page 1, Line 3, Pos (17,10)
+msgid ""
+"あら……貴女、冒険者かしら？\\!\n"
+"それなら、あの城についても知ってるんじゃない？"
+msgstr ""
+"哎呀……你是冒险者吗？\\!那样的话，\n"
+"那座城堡的事你也知道吧？"
+
+#. ID 10, Page 1, Line 5, Pos (17,10)
+msgid ""
+"知らないかしら？\\!\n"
+"ここから西の方に、魔族が所有するお城があるのよ。\n"
+"でも、今は元の城主は長らく城を空けているみたい。"
+msgstr ""
+"不知道吗？\\!从这里往西，有一座魔族拥有的城堡。\n"
+"不过，现在原城主似乎长期不在城里。"
+
+#. ID 10, Page 1, Line 8, Pos (17,10)
+msgid ""
+"それで、今娘さんが城主をしているわ。\n"
+"彼女の持っているという靴は天下一品。\n"
+"私も是非譲って欲しいものだわ。"
+msgstr ""
+"所以现在是她女儿在当城主。\n"
+"据说她拥有的鞋子是天下第一。\n"
+"我也很想请她让给我呢。"
+
+#. ID 10, Page 1, Line 11, Pos (17,10)
+msgid ""
+"貴女も、もし機会があったら、娘さんに\n"
+"会いに行ってみたらどうかしら？"
+msgstr "你要是有机会，也去见见那位女儿怎么样？"
+
+#. ID 10, Page 1, Line 13, Pos (17,10)
+msgid ""
+"もっとも、生半可な実力で会いに行っても\n"
+"リョナられてボロ雑巾になるのがオチだけどね…\n"
+"ウフフ……"
+msgstr ""
+"不过，以半吊子的实力去见她，\n"
+"也只会被凌虐得变成破抹布而已……呵呵……"
+
+#. ID 10, Page 1, Line 20, Pos (17,10)
+msgid "◆魔城ガッデム　の情報を得た！"
+msgstr "◆获得了魔城加德姆　的情报！"
+
+#. ID 10, Page 2, Line 3, Pos (17,10)
+msgid ""
+"ウフフ……\\.なんで悪魔が教会にいるんだ、\n"
+"って顔をしてるわね？"
+msgstr "呵呵……\\.你一脸「为什么恶魔会在教会里」的表情呢？"
+
+#. ID 10, Page 2, Line 5, Pos (17,10)
+msgid ""
+"もしも、貴女の身に「その時」が来れば\n"
+"解るかもしれないわね……\\!クスクス……"
+msgstr ""
+"如果「那个时候」降临到你身上，\n"
+"你或许就会明白了……\\!呵呵……"
+
+#. ID 11, Page 1, Line 4, Pos (9,8)
+msgid ""
+"\\S[2]あぁ…アナタとの…\n"
+"\n"
+"二回目の結婚式……あはぁ\\c[11]$k"
+msgstr "\\S[2]啊……与你的……第二次婚礼……啊哈\\c[11]$k"
+
+#. ID 12, Page 1, Line 3, Pos (16,12)
+msgid ""
+"この教会が、一体何の神を信仰しているか、\n"
+"考えたことはあるかい？"
+msgstr "你有没有想过，这座教会到底信仰的是什么神？"
+
+#. ID 12, Page 1, Line 5, Pos (16,12)
+msgid ""
+"……ククク、いや、なんでもないよ。\n"
+"気にしないでくれ……"
+msgstr "……呵呵呵，不，没什么。别在意……"
+
+#. ID 12, Page 2, Line 3, Pos (16,12)
+msgid "……君は娼婦かな？"
+msgstr "……你是娼妇吗？"
+
+#. ID 12, Page 2, Line 39, Pos (16,12)
+msgid ""
+"ここの神様は、力ない者に\n"
+"手を差し伸べてくれるほど慈悲深くはないよ。\n"
+"お祈りなんてやめておくんだね。"
+msgstr ""
+"这里的神明可没有那么慈悲，会向无力者伸出援手。\n"
+"还是别祈祷了。"
+
+#. ID 12, Page 2, Line 46, Pos (16,12)
+msgid ""
+"………おお……これは、美しい……\n"
+"君はまさに生きた芸術品だね。\n"
+"是非ともお相手してもらいたいな。"
+msgstr ""
+"………哦哦……这真是，美丽……\n"
+"你简直就是活生生的艺术品。\n"
+"务必让我与你共度良宵。"
+
+#. ID 12, Page 2, Line 52, Pos (16,12)
+msgid ""
+"ん？ほぉ、綺麗な子だ…\n"
+"君に興味が湧いたよ。君が良ければ、\n"
+"買いたいと思うが、どうかな？"
+msgstr ""
+"嗯？哦哟，真是个漂亮的孩子……我对你产生兴趣了。\n"
+"你愿意的话，我想买下你，怎么样？"
+
+#. ID 12, Page 2, Line 58, Pos (16,12)
+msgid ""
+"ふぅん…かわいらしい子だね。\n"
+"良ければ、君を買ってもいいが、どうする？"
+msgstr ""
+"嗯……真是个可爱的孩子呢。愿意的话，\n"
+"我可以买下你，如何？"
+
+#. ID 12, Page 2, Line 63, Pos (16,12)
+msgid ""
+"ふぅん…なかなかだね。どうしようかな…？\n"
+"君はどうだい？私は、どちらでも構わない…"
+msgstr ""
+"嗯……相当不错呢。怎么办呢……？你觉得如何？我嘛，\n"
+"怎样都行……"
+
+#. ID 12, Page 2, Line 74, Pos (16,12)
+msgid ""
+"\n"
+"今日はこれ以上お仕事はできない…\n"
+"\\N[\\V[6]]は誘いを断った。"
+msgstr "今天不能再接工作了……\\N[\\V[6]]拒绝了邀请。"
+
+#. ID 12, Page 2, Line 80, Pos (16,12)
+#. Choice (2 options)
+msgid ""
+"春を買ってもらう\n"
+"この客はやめておこう"
+msgstr ""
+"接客\n"
+"还是拒绝这个客人吧"
+
+#. ID 12, Page 2, Line 84, Pos (16,12)
+msgid "ありがとう…"
+msgstr "谢谢……"
+
+#. ID 12, Page 2, Line 87, Pos (16,12)
+msgid "では、案内しよう。付いておいで。"
+msgstr "那么，我来带路。跟着来吧。"
+
+#. ID 12, Page 2, Line 97, Pos (16,12)
+msgid "そうか、残念だよ…本当に。"
+msgstr "这样啊，真遗憾……真的。"
+
+#. ID 12, Page 2, Line 102, Pos (16,12)
+msgid "そうか…"
+msgstr "这样啊……"
+
+#. ID 14, Page 1, Line 3, Pos (14,10)
+msgid ""
+"今日もシスターは素敵だなぁ…\n"
+"いぢめてほしい。"
+msgstr "今天的修女也很漂亮啊……真想让她欺负我。"
+
+#. ID 15, Page 1, Line 4, Pos (5,10)
+msgid ""
+"コロセウムは何度見ても飽きない見世物よ…\n"
+"ウフフ"
+msgstr "竞技场无论看多少次都不会腻的表演哦……呵呵"
+
+#. ID 15, Page 1, Line 10, Pos (5,10)
+msgid ""
+"ねえ貴女、コロセウムって知ってる？\n"
+"ここから船で沖に出た所の孤島にあるのだけど…"
+msgstr ""
+"喂，你知道竞技场吗？\n"
+"就在从这里坐船出海后的孤岛上……"
+
+#. ID 15, Page 1, Line 12, Pos (5,10)
+msgid ""
+"命知らずの人間達が魔物と戦うステージ…\n"
+"飛び散る血飛沫、響き渡る絶叫、\n"
+"魔物にのしかかられた挑戦者の絶望の表情…\n"
+"ゾクゾクするわ…フフフ…"
+msgstr ""
+"不要命的人们与魔物战斗的舞台……四溅的血沫、\n"
+"响彻的惨叫、\n"
+"被魔物压在身下的挑战者那绝望的表情……\n"
+"真让人兴奋……呵呵呵……"
+
+#. ID 15, Page 1, Line 16, Pos (5,10)
+msgid ""
+"貴女、腕に覚えがありそうね。\n"
+"よかったら行ってみたらどうかしら？\n"
+"勝利し続ければ莫大な報奨金が手に入るわよ。\n"
+"…勝ち続けられれば、ね…ウフフ……"
+msgstr ""
+"你看起来对自己的身手很有自信呢。要不要去看看？\n"
+"只要持续胜利，就能得到巨额奖金哦。……\n"
+"如果能一直赢下去的话，呢……呵呵……"
+
+#. ID 15, Page 1, Line 24, Pos (5,10)
+msgid "◆孤島のコロセウム　の情報を得た！"
+msgstr "◆获得了孤岛竞技场　的情报！"
+
+#. ID 15, Page 2, Line 4, Pos (5,10)
+msgid ""
+"あら…貴女、その首輪…\n"
+"\\|っと思ったら違ったわ。"
+msgstr "哎呀……你那个项圈……\\|我还以为是的，结果不是呢。"
+
+#. ID 15, Page 2, Line 12, Pos (5,10)
+msgid ""
+"あら…貴女、その首輪…\n"
+"アハハハ、負けちゃったのね。\n"
+"なんて無様な姿なのかしら。"
+msgstr ""
+"哎呀…你，那个项圈…啊哈哈哈，输掉了呢。\n"
+"多么难看的模样啊。"
+
+#. ID 15, Page 2, Line 25, Pos (5,10)
+msgid ""
+"アハハ、その顔…ゾクゾクするわ。\n"
+"貴女にとっても似合ってるわよ…"
+msgstr ""
+"啊哈哈，那副表情…真让人兴奋。\n"
+"对你来说也非常相称哦…"
+
+#. ID 15, Page 2, Line 27, Pos (5,10)
+msgid ""
+"そうそう、困ったら教会のシスター様に相談すると\n"
+"いいことがあるかもしれないわよ？…フフ"
+msgstr ""
+"对对，遇到困难时去和教会的修女大人商量，\n"
+"也许会有好事哦？…呵呵"
+
+#. ID 15, Page 3, Line 3, Pos (5,10)
+msgid ""
+"シスター様に相談してみたのね？\n"
+"今の貴女の姿、最高に素敵よ……アハハハッ！"
+msgstr ""
+"你试着去和修女大人商量了吧？你现在的样子，\n"
+"最棒了……啊哈哈哈哈！"
+
+#. ID 15, Page 3, Line 5, Pos (5,10)
+msgid "さあ、奴隷には鞭をあげましょうね……"
+msgstr "来吧，给奴隶鞭子吧……"
+
+#. ID 15, Page 3, Line 17, Pos (5,10)
+#. ID 15, Page 4, Line 20, Pos (5,10)
+msgid "ほらほら！素敵な声で鳴いてみなさい！"
+msgstr "喂喂！用美妙的声音叫叫看吧！"
+
+#. ID 15, Page 3, Line 40, Pos (5,10)
+#. ID 15, Page 4, Line 43, Pos (5,10)
+msgid ""
+"ハァ……ハァ……疲れちゃったわ。\n"
+"ウフフ、でも、また可愛がってあげるわ……。"
+msgstr ""
+"哈啊……哈啊……累了呢。呵呵，不过，\n"
+"我还会再疼爱你哦……。"
+
+#. ID 15, Page 4, Line 8, Pos (5,10)
+msgid "今の貴女の姿、最高に素敵よ……アハハハッ！"
+msgstr "你现在的样子，最棒了……啊哈哈哈哈！"
+
+#. ID 15, Page 4, Line 9, Pos (5,10)
+msgid "さあ、犬には躾をしてあげましょうね……"
+msgstr "来吧，给狗做做训练吧……"
+
+#. ID 16, Page 1, Line 3, Pos (2,10)
+#. ID 16, Page 9, Line 57, Pos (2,10)
+msgid "神よ・・・お恵みを・・・"
+msgstr "神啊・・・请赐予恩惠・・・"
+
+#. ID 16, Page 2, Line 4, Pos (2,10)
+msgid "なぜこんな神聖な場所に奴隷が！？"
+msgstr "为什么奴隶会在这种神圣的地方！？"
+
+#. ID 16, Page 2, Line 8, Pos (2,10)
+msgid "ふしだらな雌犬め！悔い改めなさい！"
+msgstr "不知廉耻的母狗！悔改吧！"
+
+#. ID 16, Page 2, Line 16, Pos (2,10)
+msgid "フフフ、苦しいでしょう？"
+msgstr "呵呵呵，很痛苦吧？"
+
+#. ID 16, Page 2, Line 21, Pos (2,10)
+#. Contains choice at line 2 (3 options)
+msgid "ワンと鳴いたら外してあげてもいいですよ"
+msgstr "叫一声「汪」的话，帮你取下来也可以哦"
+
+#. ID 16, Page 2, Line 22, Pos (2,10)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"・・・・・・\n"
+"ワン！\n"
+"やめてください！"
+msgstr ""
+"・・・・・・\n"
+"汪！\n"
+"请住手！"
+
+#. ID 16, Page 2, Line 24, Pos (2,10)
+msgid "なんとか答えたらどうですか？"
+msgstr "好歹回答一下怎么样？"
+
+#. ID 16, Page 2, Line 30, Pos (2,10)
+msgid "素直に外してくれると思ったのですか？…クスクスクス"
+msgstr "你以为我会老老实实给你取下来吗？…呵呵呵呵"
+
+#. ID 16, Page 2, Line 35, Pos (2,10)
+msgid "おめでたいですねぇ。さすがは奴隷…\\!バカですね…"
+msgstr "真是天真呢。不愧是奴隶…\\!愚蠢呢…"
+
+#. ID 16, Page 2, Line 40, Pos (2,10)
+msgid "その貞操帯は差し上げますよ。よかったですね"
+msgstr "那条贞操带就送给您了哦。太好了呢"
+
+#. ID 16, Page 2, Line 46, Pos (2,10)
+msgid ""
+"ッチ！\n"
+"面倒くさい雌犬ですね！"
+msgstr "啧！真是麻烦的母狗呢！"
+
+#. ID 16, Page 2, Line 49, Pos (2,10)
+msgid ""
+"そうですね、１００Ｇ払ったら\n"
+"外してあげてもいいですよ"
+msgstr "是啊，付100G的话，给你取下来也可以哦"
+
+#. ID 16, Page 2, Line 59, Pos (2,10)
+msgid "雌犬は出て行きなさい"
+msgstr "母狗，出去"
+
+#. ID 16, Page 3, Line 4, Pos (2,10)
+#. Contains choice at line 2 (2 options)
+msgid "＊１００Ｇ払いますか？"
+msgstr "＊要支付100G吗？"
+
+#. ID 16, Page 3, Line 5, Pos (2,10)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 4, Line 5, Pos (2,10)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 5, Line 5, Pos (2,10)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 5, Line 67, Pos (2,10)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 6, Line 5, Pos (2,10)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 7, Line 5, Pos (2,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 16, Page 3, Line 13, Pos (2,10)
+#. ID 16, Page 4, Line 13, Pos (2,10)
+#. ID 16, Page 5, Line 13, Pos (2,10)
+#. ID 16, Page 6, Line 12, Pos (2,10)
+#. ID 16, Page 7, Line 13, Pos (2,10)
+msgid "＊お金が足りない！"
+msgstr "＊金钱不足！"
+
+#. ID 16, Page 3, Line 19, Pos (2,10)
+#. ID 16, Page 4, Line 17, Pos (2,10)
+#. ID 16, Page 5, Line 17, Pos (2,10)
+#. ID 16, Page 6, Line 16, Pos (2,10)
+msgid "寄付ありがとうございます"
+msgstr "感谢您的捐款"
+
+#. ID 16, Page 3, Line 26, Pos (2,10)
+#. ID 16, Page 4, Line 25, Pos (2,10)
+#. ID 16, Page 5, Line 24, Pos (2,10)
+#. ID 16, Page 5, Line 49, Pos (2,10)
+#. ID 16, Page 6, Line 23, Pos (2,10)
+#. ID 16, Page 6, Line 48, Pos (2,10)
+msgid "ん？なんですか？"
+msgstr "嗯？什么事？"
+
+#. ID 16, Page 3, Line 31, Pos (2,10)
+#. ID 16, Page 4, Line 31, Pos (2,10)
+#. ID 16, Page 5, Line 29, Pos (2,10)
+#. ID 16, Page 6, Line 28, Pos (2,10)
+msgid ""
+"貞操帯を外してくれ？\n"
+"\\!ああ・・・覚えてません。すいません・・・"
+msgstr "帮你取下贞操带？\\!啊……我不记得了。对不起……"
+
+#. ID 16, Page 3, Line 37, Pos (2,10)
+#. ID 16, Page 4, Line 38, Pos (2,10)
+#. ID 16, Page 5, Line 35, Pos (2,10)
+#. ID 16, Page 6, Line 34, Pos (2,10)
+msgid ""
+"貞操帯の鍵は面倒なところにあるので\n"
+"奴隷一人のために動くのは気が重いです"
+msgstr ""
+"贞操带的钥匙放在麻烦的地方，\n"
+"所以为一个奴隶去行动让我很不情愿"
+
+#. ID 16, Page 3, Line 43, Pos (2,10)
+msgid "１０００Ｇ寄付してくれましたら考えてもいいですよ"
+msgstr "如果您捐款1000G，我可以考虑一下哦"
+
+#. ID 16, Page 4, Line 4, Pos (2,10)
+#. Contains choice at line 2 (2 options)
+msgid "＊１０００Ｇ払いますか？"
+msgstr "＊要支付1000G吗？"
+
+#. ID 16, Page 4, Line 45, Pos (2,10)
+msgid "１００００Ｇ寄付してくれましたら考えてもいいですよ"
+msgstr "如果您捐款10000G，我可以考虑一下哦"
+
+#. ID 16, Page 5, Line 4, Pos (2,10)
+#. Contains choice at line 2 (2 options)
+msgid "＊１００００Ｇ払いますか？"
+msgstr "＊要支付10000G吗？"
+
+#. ID 16, Page 5, Line 41, Pos (2,10)
+msgid "５００００Ｇ寄付してくれましたら考えてもいいですよ"
+msgstr "如果您捐款50000G，我可以考虑一下哦"
+
+#. ID 16, Page 5, Line 54, Pos (2,10)
+#. ID 16, Page 6, Line 53, Pos (2,10)
+msgid ""
+"さっきから言われた通りに寄付したのに\n"
+"外してくれない、ですって？"
+msgstr ""
+"你说你从刚才起明明按我说的捐了款，\n"
+"我却没给你取下来？"
+
+#. ID 16, Page 5, Line 60, Pos (2,10)
+msgid ""
+"嫌だなぁ\n"
+"あなたにあったのはこれが初めてですよ？\\|…フフフ"
+msgstr "真讨厌啊，和你见面这是第一次哦？\\|…呵呵呵"
+
+#. ID 16, Page 5, Line 66, Pos (2,10)
+#. Contains choice at line 2 (2 options)
+msgid "＊今５００００Ｇ払いますか？"
+msgstr "＊现在要支付50000G吗？"
+
+#. ID 16, Page 5, Line 78, Pos (2,10)
+#. ID 16, Page 7, Line 20, Pos (2,10)
+msgid "確かに"
+msgstr "确实"
+
+#. ID 16, Page 5, Line 83, Pos (2,10)
+#. ID 16, Page 7, Line 25, Pos (2,10)
+msgid "それでは、貞操帯の鍵をお渡ししましょう"
+msgstr "那么，把贞操带的钥匙交给您吧"
+
+#. ID 16, Page 5, Line 89, Pos (2,10)
+#. ID 16, Page 7, Line 31, Pos (2,10)
+msgid "＊貞操帯の鍵を手に入れた"
+msgstr "＊获得了贞操带的钥匙"
+
+#. ID 16, Page 6, Line 4, Pos (2,10)
+#. Contains choice at line 2 (2 options)
+msgid "＊５００００Ｇ払いますか？"
+msgstr "＊要支付50000G吗？"
+
+#. ID 16, Page 6, Line 40, Pos (2,10)
+msgid "１０万Ｇ寄付してくれましたら考えてもいいですよ"
+msgstr "如果您捐款10万G，我可以考虑一下哦"
+
+#. ID 16, Page 6, Line 59, Pos (2,10)
+msgid ""
+"嫌だなぁ\n"
+"あなたにあったのは今日が初めてですよ？\\|…フフフ"
+msgstr "真讨厌啊，今天才是第一次见你哦？\\|…呵呵呵"
+
+#. ID 16, Page 7, Line 4, Pos (2,10)
+#. Contains choice at line 2 (2 options)
+msgid "＊１０万Ｇ払いますか？"
+msgstr "＊要支付10万G吗？"
+
+#. ID 16, Page 7, Line 38, Pos (2,10)
+msgid "毎度ありがとうございました！"
+msgstr "谢谢惠顾！"
+
+#. ID 16, Page 7, Line 43, Pos (2,10)
+msgid "\\!フフフ・・・ハハハハッ！！"
+msgstr "\\!呵呵呵・・・哈哈哈哈哈！！"
+
+#. ID 16, Page 8, Line 3, Pos (2,10)
+msgid "もう君は用済みです"
+msgstr "你已经没有利用价值了"
+
+#. ID 16, Page 8, Line 10, Pos (2,10)
+msgid ""
+"神よ！私にこのようなカモを授けて\n"
+"下さいましたことを感謝します"
+msgstr "神啊！感谢您赐给我这样的冤大头"
+
+#. ID 16, Page 9, Line 6, Pos (2,10)
+msgid ""
+"あ…貴女！ その服は…\n"
+"\\|いや、気のせいでした"
+msgstr "啊…你！那身衣服是…\\|不，是我多心了"
+
+#. ID 16, Page 9, Line 8, Pos (2,10)
+msgid ""
+"すみません、失礼しました\n"
+"\\!私、シュライクという町でちょっとした研究を\n"
+"やっていたのですが、訳あって辞めてしまいましてね"
+msgstr ""
+"对不起，\n"
+"失礼了\\!我曾在施莱克这个城镇做过一点研究，\n"
+"但因为一些原因辞掉了"
+
+#. ID 16, Page 9, Line 11, Pos (2,10)
+msgid ""
+"明日の飯は食えるのですが、いかんせん\n"
+"研究費が足りなくて…\n"
+"\\|そこで、あなたに頼みたいのですが…"
+msgstr ""
+"明天的饭还能吃上，但无奈研究费不够…\\|所以，\n"
+"想拜托你一件事…"
+
+#. ID 16, Page 9, Line 14, Pos (2,10)
+msgid ""
+"もしよかったら、そこの研究所の職員証を\n"
+"8000Gで買ってくれません？"
+msgstr ""
+"如果方便的话，\n"
+"能不能花8000G买下那里研究所的职员证？"
+
+#. ID 16, Page 9, Line 19, Pos (2,10)
+msgid ""
+"買って損は無いと思いますよ\n"
+"\\|そのような服を好んで着る貴女なら\n"
+"きっと楽しめる研究所ですから"
+msgstr ""
+"我觉得买了不亏哦\\|毕竟对于喜欢穿那种衣服的你来\n"
+"说，那研究所一定能让你玩得开心"
+
+#. ID 16, Page 9, Line 22, Pos (2,10)
+#. Contains choice at line 2 (2 options)
+msgid "＊　職員証を買いますか？"
+msgstr "＊　要购买职员证吗？"
+
+#. ID 16, Page 9, Line 30, Pos (2,10)
+msgid "おお…ありがとうございます"
+msgstr "哦哦…谢谢您"
+
+#. ID 16, Page 9, Line 32, Pos (2,10)
+msgid "折角ですから、町の場所もお教えしましょう"
+msgstr "难得有缘，也告诉您城镇的位置吧"
+
+#. ID 16, Page 9, Line 33, Pos (2,10)
+msgid "◆奴隷都市シュライク　の情報を得た！"
+msgstr "◆获得了奴隶都市施莱克　的信息！"
+
+#. ID 16, Page 9, Line 37, Pos (2,10)
+msgid ""
+"楽しんできてくださいね\n"
+"\\|……ククッ"
+msgstr "请好好享受哦\\|……呵呵"
+
+#. ID 16, Page 9, Line 42, Pos (2,10)
+msgid "おやおや、足りないみたいですねぇ"
+msgstr "哎呀哎呀，好像不够呢"
+
+#. ID 16, Page 9, Line 47, Pos (2,10)
+msgid "そうですか、残念です"
+msgstr "这样啊，真遗憾"
+
+#. ID 16, Page 9, Line 65, Pos (2,10)
+msgid ""
+"あ…貴女！ その服は…\n"
+"\\|間違いない、やはりアレでしたか"
+msgstr "啊…你！那身衣服…\\|没错，果然是那个啊"
+
+#. ID 16, Page 9, Line 67, Pos (2,10)
+msgid "ｶﾜｲｿｳﾆ…"
+msgstr "真可怜……"
+
+#. ID 16, Page 9, Line 68, Pos (2,10)
+msgid ""
+"いやなんでもありません\n"
+"\\|最高でしょう、その服！\n"
+"どんな防具よりも…\\|安全ですしね！"
+msgstr ""
+"不，没什么\\|最棒吧，那身衣服！比任何防具都…\n"
+"\\|安全呢！"
+
+#. ID 17, Page 1, Line 3, Pos (9,6)
+msgid "迷える子羊よ、わが教会に何の御用かな？"
+msgstr "迷途的羔羊啊，来我们教会有何贵干？"
+
+#. ID 17, Page 1, Line 4, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"…と言っても、私は修行が足りないので\n"
+"状態異常の治療しかできませんが。治療しますか？"
+msgstr ""
+"…话虽如此，我修行不足，只能治疗状态异常。\n"
+"要治疗吗？"
+
+#. ID 17, Page 1, Line 28, Pos (9,6)
+#. Contains choice at line 2 (2 options)
+msgid "されば、当教会に\\V[3] Gのご寄付を…"
+msgstr "那么，请向本教会捐款\\V[3] G……"
+
+#. ID 17, Page 1, Line 29, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\\$\n"
+"いいえ"
+msgstr ""
+"是\\$\n"
+"否"
+
+#. ID 17, Page 1, Line 33, Pos (9,6)
+#. ID 17, Page 1, Line 42, Pos (9,6)
+msgid "このはいきょうしゃめ！　でていけ！"
+msgstr "这个叛教者！　滚出去！"
+
+#. ID 17, Page 1, Line 46, Pos (9,6)
+msgid "では治療の呪文を…"
+msgstr "那么，施治疗咒文……"
+
+#. ID 17, Page 1, Line 51, Pos (9,6)
+msgid ""
+"「ささやき　えいしょう\n"
+"　　いのり　ねんじろ！」"
+msgstr ""
+"「细语　咏唱\n"
+"　　祈祷　祈念吧！」"
+
+#. ID 17, Page 1, Line 57, Pos (9,6)
+msgid ""
+"…あ、間違えた。\n"
+"これは憎い奴の死体を灰にする呪文だった。\n"
+"では気を取り直して…"
+msgstr ""
+"…啊，弄错了。\n"
+"这是把可恨家伙的尸体烧成灰的咒文。那么，\n"
+"重新调整心情……"
+
+#. ID 17, Page 1, Line 64, Pos (9,6)
+msgid "「ひかりあれ」！"
+msgstr "「光啊」！"
+
+#. ID 17, Page 1, Line 89, Pos (9,6)
+msgid ""
+"ではお気をつけて。\n"
+"神のご加護があらんことを。"
+msgstr "那么，请保重。愿神保佑您。"

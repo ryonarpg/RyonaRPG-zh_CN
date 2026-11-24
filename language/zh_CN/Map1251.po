@@ -1,0 +1,71 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 43, Page 2, Line 3, Pos (9,3)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"
+
+#. ID 44, Page 2, Line 4, Pos (6,4)
+msgid ""
+"名前：土人形\n"
+"種族：植物"
+msgstr "名字：土人偶种族：植物"
+
+#. ID 44, Page 2, Line 6, Pos (6,4)
+msgid "土で出来た魔法人形"
+msgstr "土做的魔法人偶"
+
+#. ID 44, Page 2, Line 7, Pos (6,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$500Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "可以用\\$500G听取攻略信息要听吗？"
+
+#. ID 44, Page 2, Line 9, Pos (6,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 44, Page 2, Line 15, Pos (6,4)
+msgid ""
+"土から出来た安物の魔法人形\\!\n"
+"もうビックリするほど弱点だらけ"
+msgstr "土做的廉价魔法人偶！弱点多得惊人"
+
+#. ID 44, Page 2, Line 17, Pos (6,4)
+msgid ""
+"まず曲がれない　\\!まがったことが大嫌い\\!\n"
+"悪党のくせに\\!\n"
+"壁にぶつかると渋々向きを変える"
+msgstr ""
+"首先不会转弯　\\!最讨厌转弯！明明是坏蛋！\n"
+"撞到墙时会不情愿地改变方向"
+
+#. ID 44, Page 2, Line 20, Pos (6,4)
+msgid ""
+"それから熱いのもダメだし、\n"
+"冷たいのもダメ\\!\n"
+"多分からい物もダメだと思う"
+msgstr ""
+"还有热的也不行，冷的也不行！\n"
+"我觉得大概辣的东西也不行"
+
+#. ID 44, Page 2, Line 23, Pos (6,4)
+msgid "たまに\\C[2]霊薬\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]灵药\\C[0]"

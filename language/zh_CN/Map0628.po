@@ -1,0 +1,116 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 4, Pos (13,4)
+#. ID 4, Page 1, Line 10, Pos (13,4)
+msgid ""
+"ここから先はお偉いさんだけが通れるんだよ！\n"
+"おまえみたいな奴隷は下から行きな！"
+msgstr ""
+"从这里往前只有大人物才能通过！\n"
+"像你这样的奴隶就从下面走吧！"
+
+#. ID 7, Page 1, Line 3, Pos (3,11)
+msgid "あんたはまだ入る資格がないね。"
+msgstr "你还没有进入的资格呢。"
+
+#. ID 7, Page 2, Line 3, Pos (3,11)
+#. Contains choice at line 2 (2 options)
+msgid "フヒヒ\\!　その境遇から抜け出したいのかい？"
+msgstr "嘻嘻\\!　想从那种境遇中摆脱出来吗？"
+
+#. ID 7, Page 2, Line 4, Pos (3,11)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 5, Line 6, Pos (3,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 7, Page 2, Line 6, Pos (3,11)
+msgid ""
+"そうかい…\\!ならここから先に進みな。\n"
+"ま、幸運を祈るよ"
+msgstr "是吗……\\!那就从这里往前走吧。总之，祝你好运。"
+
+#. ID 7, Page 2, Line 14, Pos (3,11)
+#. ID 7, Page 5, Line 8, Pos (3,11)
+msgid "そうかい…\\!ま、それが賢いかもね"
+msgstr "是吗……\\!嘛，那样也许更聪明呢。"
+
+#. ID 7, Page 5, Line 5, Pos (3,11)
+#. Contains choice at line 2 (2 options)
+msgid "フヒヒ\\!　怖気づいたのかい？"
+msgstr "嘻嘻\\!　你害怕了吗？"
+
+#. ID 7, Page 5, Line 13, Pos (3,11)
+msgid "そうかい…\\!ま、幸運を祈るよ"
+msgstr "是吗……\\!总之，祝你好运。"
+
+#. ID 7, Page 5, Line 19, Pos (3,11)
+msgid "ま、幸運を祈るよ"
+msgstr "嘛，祝你好运。"
+
+#. ID 7, Page 6, Line 4, Pos (3,11)
+msgid "悪いがあんたは入れられないよ"
+msgstr "抱歉，你是进不去的。"
+
+#. ID 7, Page 6, Line 8, Pos (3,11)
+msgid "二度と来るんじゃないぞ"
+msgstr "别再来了啊。"
+
+#. ID 8, Page 1, Line 3, Pos (7,19)
+msgid ""
+"負けに負けて、借金12300Gです……。\n"
+"もはや闇カジノくらいしか希望がなくて。"
+msgstr ""
+"一输再输，负债12300G……。\n"
+"现在除了暗黑赌场已经没有别的希望了。"
+
+#. ID 8, Page 1, Line 5, Pos (7,19)
+msgid ""
+"どうしてこうなってしまったんでしょうねぇ……\\1\n"
+"ただカジノで遊んでいただけなのですが。"
+msgstr "怎么会变成这样呢……\\1明明只是在赌场玩而已啊。"
+
+#. ID 9, Page 1, Line 3, Pos (12,10)
+msgid ""
+"ここから先の闇カジノで負けたら、\n"
+"奴隷以下の待遇が待ってるらしいわ。"
+msgstr ""
+"听说若是在从这里往前的暗黑赌场输了，\n"
+"就会有比奴隶还不如的待遇等着呢。"
+
+#. ID 9, Page 1, Line 9, Pos (12,10)
+msgid "緊張するわね……。"
+msgstr "真紧张呢……"
+
+#. ID 10, Page 1, Line 3, Pos (16,12)
+msgid ""
+"あなたも闇カジノに挑戦するのね。\n"
+"お互い、無事に帰れることを祈りましょう。"
+msgstr ""
+"你也要挑战暗黑赌场呢。\n"
+"让我们祈祷彼此都能平安回去吧。"
+
+#. ID 11, Page 1, Line 3, Pos (15,6)
+msgid ""
+"プビッ……\\1\n"
+"ここにいる可愛い子ちゃん達が俺のものになると思うと…"
+msgstr ""
+"噗哔……\n"
+"\\1一想到这里的可爱女孩们都会变成我的东西……"

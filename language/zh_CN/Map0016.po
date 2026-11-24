@@ -1,0 +1,374 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 4, Pos (7,6)
+#. Choice (3 options)
+msgid ""
+"\\>武器\n"
+"\\>防具\n"
+"\\>キャンセル"
+msgstr ""
+"\\>武器\n"
+"\\>防具\n"
+"\\>取消"
+
+#. ID 3, Page 2, Line 3, Pos (7,6)
+msgid ""
+"おやおや、\\N[\\V[6]]ちゃんじゃないか\n"
+"今日はとっておきを揃えているよ\n"
+"……\\N[\\V[6]]ちゃん用にね\\c[11]$k"
+msgstr ""
+"哎呀呀，这不是\\N[\\V[6]]酱吗，\n"
+"今天准备了好东西哦……\n"
+"是给\\N[\\V[6]]酱专用的呢\\c[11]$k"
+
+#. ID 3, Page 3, Line 3, Pos (7,6)
+msgid ""
+"…あー…店内に犬が紛れ込んだか\n"
+"ほらほら商売の邪魔だ！"
+msgstr "……啊——……店里混进狗了吗，喂喂，别妨碍做生意！"
+
+#. ID 4, Page 1, Line 5, Pos (12,6)
+msgid "ふふ、猫ちゃんにはおまけしてあげる♪"
+msgstr "呵呵，猫猫的话就特别给你优惠吧♪"
+
+#. ID 4, Page 2, Line 3, Pos (12,6)
+msgid ""
+"\\N[\\V[6]]さんですね\n"
+"専用の品を揃えさせて頂きました。\n"
+"\\N[\\V[6]]さんによくお似合いの、\n"
+"はしたない品ばかりですわ♪　ﾌﾌｯ"
+msgstr ""
+"是\\N[\\V[6]]大人吧，我们为您准备了专用商品。\n"
+"都是非常适合\\N[\\V[6]]大人的、\n"
+"不知羞耻的东西哦♪　呵呵"
+
+#. ID 4, Page 3, Line 3, Pos (12,6)
+msgid ""
+"あらあら、可愛いわんちゃんが迷い込んで来ちゃったみたいね\n"
+"…特別に見せてあげるわ"
+msgstr ""
+"哎呀哎呀，好像有可爱的小狗狗误闯进来了呢……\n"
+"特别让你看看吧。"
+
+#. ID 4, Page 3, Line 9, Pos (12,6)
+msgid ""
+"…武器屋の主人に見つからない内に\n"
+"ここから出たほうがいいわよ？\n"
+"彼、大の犬嫌いだから"
+msgstr ""
+"……最好在武器店店主发现之前离开这里哦？\n"
+"他可是非常讨厌狗的呢。"
+
+#. ID 17, Page 1, Line 3, Pos (5,10)
+msgid ""
+"どうも。私、ミスリル武装㈱の派遣販売員ッス。\n"
+"なんか店のご主人がものすごい目で\n"
+"睨みつけてきて、とっても恐ろしいッス。\n"
+"ヘッ、ヘッ"
+msgstr ""
+"你好。我是秘银武装㈱的派遣销售员。不知为何，\n"
+"店主用非常可怕的眼神瞪着我，真是太吓人了。嘿、\n"
+"嘿。"
+
+#. ID 17, Page 2, Line 3, Pos (5,10)
+msgid ""
+"奴隷相手に商売なんかしたら、\n"
+"評判が落ちるッス。\n"
+"\\.とっとと失せろやゴラァッ！"
+msgstr ""
+"跟奴隶做生意，可是会砸招牌的。\\.赶紧滚吧，\n"
+"混账！"
+
+#. ID 17, Page 3, Line 3, Pos (5,10)
+msgid ""
+"…犬？\n"
+"なんでここに犬がいるんだ？\n"
+"…ああもう！"
+msgstr "……狗？为什么这里会有狗？……啊真是的！"
+
+#. ID 17, Page 3, Line 16, Pos (5,10)
+msgid "出て行け！"
+msgstr "滚出去！"
+
+#. ID 18, Page 1, Line 3, Pos (16,7)
+msgid ""
+"俺はさすらいの武器マニア。\n"
+"珍しい武器を探して旅をしている。"
+msgstr "我是四处流浪的武器狂。为了寻找稀有武器而旅行。"
+
+#. ID 18, Page 1, Line 5, Pos (16,7)
+msgid ""
+"…けど、こんな田舎町じゃなあ。\n"
+"首都アバロソ(仮名)にでも行ってみようかな。"
+msgstr ""
+"……不过，待在這種乡下小镇也不行啊。\n"
+"要不去首都阿巴罗索（暂名）看看好了。"
+
+#. ID 18, Page 3, Line 3, Pos (16,7)
+msgid ""
+"俺はさすらいの武器マニア。\n"
+"珍しい武器を探して東国を旅してきた。"
+msgstr ""
+"我是四处流浪的武器狂。为了寻找稀有武器，\n"
+"我一直在东国旅行。"
+
+#. ID 18, Page 3, Line 5, Pos (16,7)
+msgid ""
+"…が、調子に乗って少し買いすぎた。\n"
+"もしよかったら買い取ってくれ。"
+msgstr ""
+"……但是，一时兴起买多了点。如果可以的话，\n"
+"请你买下这些吧。"
+
+#. ID 18, Page 4, Line 3, Pos (16,7)
+msgid ""
+"…ん？\n"
+"まぁ奴隷でもいいか…\n"
+"これ買い取ってくれ。"
+msgstr "……嗯？嘛，奴隶也行吧……请把这些买下吧。"
+
+#. ID 18, Page 5, Line 3, Pos (16,7)
+msgid ""
+"…ん？\n"
+"いや犬には売れんだろ\n"
+"しっしっ！"
+msgstr "……嗯？不，不会卖给狗吧，去去去！"
+
+#. ID 19, Page 1, Line 3, Pos (3,7)
+msgid "＊ STAFF ONLY ＊"
+msgstr "＊ STAFF ONLY ＊"
+
+#. ID 20, Page 1, Line 4, Pos (10,6)
+#. Choice (3 options)
+msgid ""
+"\\>矢弾／高級武器\n"
+"\\>特殊防具\n"
+"\\>キャンセル"
+msgstr ""
+"\\>箭弹／高级武器\n"
+"\\>特殊防具\n"
+"\\>取消"
+
+#. ID 21, Page 1, Line 3, Pos (3,9)
+msgid ""
+"メルクリアル・グレートソードちゃん……\n"
+"\\!…………ほしい……"
+msgstr "梅尔库里亚尔·巨剑酱……\\!…………好想要……"
+
+#. ID 24, Page 1, Line 4, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "＊「おはよう！傭兵さん vol.01410831」が置いてある。"
+msgstr "＊放着「早上好！佣兵先生 vol.01410831」。"
+
+#. ID 24, Page 1, Line 5, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"これは読まなければ！\n"
+"読む必要はない"
+msgstr ""
+"这是必须读的！\n"
+"没必要读"
+
+#. ID 24, Page 1, Line 7, Pos (9,7)
+msgid ""
+"＊今回の特集記事は\n"
+"　各武器タイプの解説のようだ。"
+msgstr "＊这次的特辑文章　好像是各武器类型的解说。"
+
+#. ID 24, Page 1, Line 22, Pos (9,7)
+msgid "最後のページにリゾートの宣伝が書いてる…"
+msgstr "最后一页写着度假村的宣传……"
+
+#. ID 24, Page 1, Line 25, Pos (9,7)
+msgid "◆海鳴村　の情報を得た！"
+msgstr "◆得到了海鸣村的情报！"
+
+#. ID 25, Page 1, Line 3, Pos (14,9)
+#. ID 25, Page 2, Line 3, Pos (14,9)
+#. ID 25, Page 3, Line 3, Pos (14,9)
+msgid ""
+"あ…はぁ……この冷たい輝き\n"
+"なんて痛そうなんでしょう…"
+msgstr "啊…哈啊……这种冰冷的辉光看起来该有多痛啊……"
+
+#. ID 25, Page 1, Line 5, Pos (14,9)
+#. ID 25, Page 2, Line 5, Pos (14,9)
+#. ID 25, Page 3, Line 5, Pos (14,9)
+msgid ""
+"こっ、これがわたくしの体に突き立てられて…ああっ…\n"
+"内臓を捻じ切りながら奥深くまで突き進んでっ…"
+msgstr ""
+"这、这个要被刺进我的身体里……啊啊……\n"
+"一边拧断内脏，一边朝深处刺进……"
+
+#. ID 25, Page 1, Line 7, Pos (14,9)
+msgid ""
+"いけないわっ……わっ…わたくし……\n"
+"ああっ…だめになってしまいそう…"
+msgstr "不行……我、我……啊啊……好像要坏掉了……"
+
+#. ID 25, Page 1, Line 9, Pos (14,9)
+msgid ""
+"とっても痛そうなもの…\n"
+"鋭くて、とがっていて、トゲが生えていたり、"
+msgstr "看起来非常痛的东西……又尖又锐，还长着刺……"
+
+#. ID 25, Page 1, Line 11, Pos (14,9)
+msgid ""
+"錆びてよく切れなくて、\n"
+"肌の上を這わせると肉をぶちぶちと引きちぎって\n"
+"汚い傷跡になってしまうようなもの…"
+msgstr ""
+"生锈了不太锋利，\n"
+"在皮肤上爬过时会把肉一块块扯下来，\n"
+"留下难看伤痕的那种东西……"
+
+#. ID 25, Page 2, Line 7, Pos (14,9)
+msgid ""
+"……奴隷にはこんなときめき……解らないかしらね？\n"
+"ああっ……"
+msgstr "……奴隶不会懂这种心动吧？啊啊……"
+
+#. ID 25, Page 3, Line 7, Pos (14,9)
+msgid ""
+"……犬に言ってもわからないわよね？\n"
+"ああっ……"
+msgstr "……对狗说也不会明白的吧？啊啊……"
+
+#. ID 27, Page 1, Line 3, Pos (15,5)
+msgid "雌犬になったら話しかけてね！"
+msgstr "等你变成母狗了再跟我说话！"
+
+#. ID 27, Page 2, Line 3, Pos (15,5)
+msgid "やあ！"
+msgstr "呀！"
+
+#. ID 27, Page 2, Line 4, Pos (15,5)
+#. Contains choice at line 2 (3 options)
+msgid "肩書きを「雌犬」にできるけどどうする？"
+msgstr "可以把称号设为「母狗」，要怎么做？"
+
+#. ID 27, Page 2, Line 5, Pos (15,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"わんわん！\n"
+"なめたらあかん\n"
+"たべちゃうぞ"
+msgstr ""
+"汪汪！\n"
+"可别小看我\n"
+"我要吃掉你哦"
+
+#. ID 27, Page 2, Line 7, Pos (15,5)
+msgid "YESｻｰ!"
+msgstr "YES，长官！"
+
+#. ID 27, Page 2, Line 9, Pos (15,5)
+#. ChangeHeroTitle (Actor 35)
+msgctxt "actors.title"
+msgid "雌犬"
+msgstr "母狗"
+
+#. ID 27, Page 2, Line 10, Pos (15,5)
+msgid "いいざまになったではないか"
+msgstr "这不是活该吗"
+
+#. ID 27, Page 2, Line 13, Pos (15,5)
+msgid "気が変わったらまたおいで"
+msgstr "改变主意的话再来吧"
+
+#. ID 27, Page 2, Line 19, Pos (15,5)
+msgid ""
+"こんなスペースを作ってしまい\n"
+"本当にすまないと\n"
+"おもっている"
+msgstr "我真心觉得抱歉，造出了这样的空间"
+
+#. ID 27, Page 2, Line 22, Pos (15,5)
+msgid "暇を持て余した"
+msgstr "闲得发慌"
+
+#. ID 27, Page 2, Line 24, Pos (15,5)
+msgid "俺の"
+msgstr "我的"
+
+#. ID 27, Page 2, Line 26, Pos (15,5)
+msgid "イベツク"
+msgstr "活动"
+
+#. ID 28, Page 1, Line 3, Pos (3,11)
+msgid ""
+"地味な印象がありますけど、長弓というのは、\n"
+"実は槍よりも威力が高いんですよ。"
+msgstr ""
+"虽然给人一种朴素的印象，\n"
+"但长弓其实比枪威力更高哦。"
+
+#. ID 28, Page 1, Line 5, Pos (3,11)
+msgid ""
+"当てるのが少し\n"
+"難しいというのはありますけどね。"
+msgstr "只是稍微难命中一点啦。"
+
+#. ID 28, Page 1, Line 7, Pos (3,11)
+msgid ""
+"魔法の矢を１０本以上常備できるくらい\n"
+"お金があれば、すごく優秀な武器になるんですが。\n"
+"さすがに金銭的に苦しいですよね。"
+msgstr ""
+"如果有钱能常备10支以上魔法箭，\n"
+"那会是非常优秀的武器。\n"
+"不过果然在金钱方面很吃紧吧。"
+
+#. ID 29, Page 1, Line 3, Pos (13,8)
+msgid ""
+"ジャベリンは槍の中でも珍しく\n"
+"片手で持てますよ。軽いし、結構\n"
+"使いやすいと思うな。"
+msgstr ""
+"标枪在枪类中很少见地可以单手拿哦。它很轻，\n"
+"我觉得相当好用。"
+
+#. ID 29, Page 1, Line 6, Pos (13,8)
+msgid ""
+"それにしても、このお店、田舎にしては\n"
+"ありえないくらい品揃えがいいなぁ。"
+msgstr ""
+"话说回来，这家店作为乡下地方，\n"
+"商品种类齐全得离谱啊。"
+
+#. ID 29, Page 1, Line 8, Pos (13,8)
+msgid ""
+"めるくりあん…ぐれーとそーど？とか\n"
+"アバロソにだって、あんなすごい武器ないですよ？"
+msgstr ""
+"梅尔库里亚尔…巨剑？之类的，\n"
+"就算是阿巴罗索也没有那么厉害的武器哦？"
+
+#. ID 32, Page 1, Line 4, Pos (5,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"「ショートカットの使い方」が貼られている。\n"
+"読みますか？"
+msgstr "贴着「快捷键的使用方法」。要读吗？"
+
+#. ID 32, Page 1, Line 6, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

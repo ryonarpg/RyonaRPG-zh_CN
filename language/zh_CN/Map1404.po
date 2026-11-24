@@ -1,0 +1,66 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 31, Page 2, Line 3, Pos (11,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"魔族の記録媒体を見つけた\n"
+"読みますか？"
+msgstr "发现了魔族的记录媒体。要阅读吗？"
+
+#. ID 31, Page 2, Line 5, Pos (11,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 31, Page 2, Line 14, Pos (11,6)
+msgid "そこには「人間」という種族が暮らしていた"
+msgstr "那里生活着名为「人类」的种族"
+
+#. ID 31, Page 2, Line 15, Pos (11,6)
+msgid ""
+"彼らは原始的な生活をしていたが、\n"
+"石斧や弓を持ち、火を扱うことができた\\!\n"
+"「人間」がこの土地の支配種族となることは\n"
+"明らかだった"
+msgstr ""
+"他们过着原始生活，但拥有石斧和弓，\n"
+"能够使用火\\!「人类」成为这片土地的统治种族是显而\n"
+"易见的"
+
+#. ID 31, Page 2, Line 19, Pos (11,6)
+msgid ""
+"私達とルーツが違えど、\n"
+"知能を持った生物に出会えたことに歓喜した"
+msgstr ""
+"尽管根源与我们不同，\n"
+"我们仍为能遇到拥有智能的生物而欢喜"
+
+#. ID 31, Page 2, Line 21, Pos (11,6)
+msgid ""
+"私達は人間に魔法を教えた\\!\n"
+"彼らは文明を築き始めた"
+msgstr "我们教会了人类魔法\\!他们开始构筑文明"
+
+#. ID 31, Page 2, Line 23, Pos (11,6)
+msgid "私達は人間達から「神」と崇められるようになった"
+msgstr "我们开始被人类尊崇为「神」"
+
+#. ID 31, Page 2, Line 28, Pos (11,6)
+msgid "……この頃から魔界に穴が空き始めた"
+msgstr "……从这时起，魔界开始出现洞穴"

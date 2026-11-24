@@ -1,0 +1,39 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 57, Page 2, Line 4, Pos (9,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ドマリアの杖が入っている。\n"
+"ドマリアの杖を装備しますか？"
+msgstr "里面装着多玛利亚之杖。要装备多玛利亚之杖吗？"
+
+#. ID 57, Page 2, Line 6, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 57, Page 2, Line 12, Pos (9,11)
+msgid ""
+"ドマリアの杖を手に入れた！\n"
+"決定キーで目の前に障害物を召喚するぞ\n"
+"ただし、迷宮の外では不安定になってしまう"
+msgstr ""
+"获得了多玛利亚之杖！\n"
+"用确定键在眼前召唤障碍物吧，不过，\n"
+"在迷宫外会变得不稳定"

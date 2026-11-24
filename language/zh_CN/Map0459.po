@@ -1,0 +1,284 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 14, Page 4, Line 16, Pos (27,16)
+#. ID 20, Page 2, Line 7, Pos (27,25)
+#. ID 25, Page 2, Line 7, Pos (27,20)
+#. ID 30, Page 2, Line 16, Pos (2,25)
+#. ID 39, Page 2, Line 7, Pos (2,4)
+#. ID 43, Page 2, Line 7, Pos (13,4)
+msgid "…扉はロックされているようだ"
+msgstr "…门好像被锁上了"
+
+#. ID 16, Page 2, Line 4, Pos (26,16)
+#. ID 18, Page 2, Line 5, Pos (26,15)
+msgid "施錠 ヲ シマス"
+msgstr "上锁"
+
+#. ID 16, Page 2, Line 16, Pos (26,16)
+#. ID 29, Page 2, Line 7, Pos (4,26)
+#. ID 40, Page 2, Line 11, Pos (4,5)
+msgid "トビラ ヲ ヒラキマス"
+msgstr "打开门"
+
+#. ID 16, Page 2, Line 25, Pos (26,16)
+#. ID 19, Page 2, Line 17, Pos (25,26)
+#. ID 28, Page 2, Line 32, Pos (1,17)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 2.00"
+msgstr ""
+"请提供卡钥匙的版本。\n"
+"当前的版本 　　\\v[1102].00 解锁所需版本 2.00"
+
+#. ID 16, Page 2, Line 37, Pos (26,16)
+#. ID 19, Page 2, Line 29, Pos (25,26)
+#. ID 28, Page 2, Line 44, Pos (1,17)
+#. ID 29, Page 2, Line 27, Pos (4,26)
+#. ID 40, Page 2, Line 31, Pos (4,5)
+msgid "カードキー ヲ イレテクダサイ"
+msgstr "请插入卡钥匙"
+
+#. ID 19, Page 2, Line 8, Pos (25,26)
+#. ID 28, Page 2, Line 21, Pos (1,17)
+msgid ""
+"カードキー ヲ 確認 シマシタ。\\!\n"
+"トビラ ヲ ヒラキマス"
+msgstr "已确认卡钥匙。\\!打开门"
+
+#. ID 19, Page 3, Line 4, Pos (25,26)
+#. ID 28, Page 2, Line 4, Pos (1,17)
+#. ID 28, Page 2, Line 12, Pos (1,17)
+#. ID 28, Page 3, Line 3, Pos (1,17)
+#. ID 32, Page 3, Line 3, Pos (13,12)
+msgid "この端末にはもう用はない"
+msgstr "这个终端已经没有用了"
+
+#. ID 22, Page 2, Line 3, Pos (24,4)
+msgid "製造プラント"
+msgstr "制造工厂"
+
+#. ID 29, Page 2, Line 15, Pos (4,26)
+#. ID 40, Page 2, Line 19, Pos (4,5)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 3.00"
+msgstr ""
+"请提供卡钥匙的版本。\n"
+"当前的版本 　　\\v[1102].00 解锁所需版本 3.00"
+
+#. ID 32, Page 2, Line 5, Pos (13,12)
+msgid ""
+"アクセスができない状態になっている。\\!\n"
+"しばらく時間を置くしかなさそうだ。"
+msgstr "处于无法访问的状态。\\!似乎只能等一段时间。"
+
+#. ID 32, Page 2, Line 12, Pos (13,12)
+msgid "パスワード ヲ 入力 シテクダサイ"
+msgstr "请输入密码"
+
+#. ID 32, Page 2, Line 14, Pos (13,12)
+#. Choice (4 options)
+msgid ""
+"す\n"
+"な\n"
+"は\n"
+"ま"
+msgstr ""
+"す\n"
+"な\n"
+"は\n"
+"ま"
+
+#. ID 32, Page 2, Line 28, Pos (13,12)
+#. Choice (4 options)
+msgid ""
+"で\n"
+"ん\n"
+"し\n"
+"ゃ"
+msgstr ""
+"で\n"
+"ん\n"
+"し\n"
+"ゃ"
+
+#. ID 32, Page 2, Line 42, Pos (13,12)
+#. Choice (4 options)
+msgid ""
+"か\n"
+"ん\n"
+"て\n"
+"ら"
+msgstr ""
+"か\n"
+"ん\n"
+"て\n"
+"ら"
+
+#. ID 32, Page 2, Line 56, Pos (13,12)
+#. Choice (4 options)
+msgid ""
+"み\n"
+"ず\n"
+"い\n"
+"ろ"
+msgstr ""
+"み\n"
+"ず\n"
+"い\n"
+"ろ"
+
+#. ID 32, Page 2, Line 70, Pos (13,12)
+#. Choice (4 options)
+msgid ""
+"い\n"
+"い\n"
+"ち\n"
+"こ"
+msgstr ""
+"い\n"
+"い\n"
+"ち\n"
+"こ"
+
+#. ID 32, Page 2, Line 91, Pos (13,12)
+msgid ""
+"ぱすわーどノ 入力ニ 成功シマシタ。\\!\n"
+"ばーじょん ノ あっぷぐれーど ヲ 開始シマス。"
+msgstr "密码输入成功。\\!开始版本升级。"
+
+#. ID 32, Page 2, Line 100, Pos (13,12)
+msgid "……どうやら成功したようだ。"
+msgstr "……好像成功了。"
+
+#. ID 32, Page 2, Line 109, Pos (13,12)
+msgid "パスワード ガ チガイマス"
+msgstr "密码错误"
+
+#. ID 32, Page 2, Line 110, Pos (13,12)
+msgid "情報ノ保護ノタメ、コノ端末ヲ しゃっとだうん シマス"
+msgstr "为了保护信息，此终端将关机"
+
+#. ID 34, Page 2, Line 3, Pos (15,11)
+#. ID 46, Page 2, Line 3, Pos (17,11)
+msgid "\\n[\\v[6]]は本棚を調べた"
+msgstr "\\n[\\v[6]]调查了书架"
+
+#. ID 34, Page 2, Line 4, Pos (15,11)
+msgid ""
+"すると、一冊の古ぼけた本を見つけた\\!\n"
+"そこには「管理者記録」と書いてある。"
+msgstr ""
+"于是，发现了一本陈旧的书\\!上面写着\n"
+"「管理者记录」。"
+
+#. ID 34, Page 2, Line 6, Pos (15,11)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 2, Line 6, Pos (17,11)
+#. Contains choice at line 2 (2 options)
+msgid "どうする？"
+msgstr "怎么做？"
+
+#. ID 34, Page 2, Line 7, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 7, Pos (17,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"見てみる\n"
+"やめる"
+msgstr ""
+"查看\n"
+"放弃"
+
+#. ID 34, Page 2, Line 11, Pos (15,11)
+msgid ""
+"1Fの奴がふざけたパスワードにしてたらしいが、私は\n"
+"そんな事はしない。\\!私は慎重な男だからな。\\!\n"
+"ただ、最近物忘れが激しくこのパスワードですら何かに\n"
+"メモを取らないといけない始末だ。"
+msgstr ""
+"1F那家伙好像把密码设成了胡闹的东西，\n"
+"但我不会做那种事。\\!我可是个谨慎的男人啊。\n"
+"\\!只是，最近健忘得厉害，\n"
+"甚至这个密码不记到什么东西上都不行。"
+
+#. ID 34, Page 2, Line 15, Pos (15,11)
+msgid ""
+"もちろんそのまま書きはしない。\\!私は慎重な男だからな\\!\n"
+"ただ、このパスワードはキーボードをよく見ないと\n"
+"いけないから老眼の私には少々きつかったりする。\\!\n"
+"だから私は眼鏡を常備している、\\!なぜなら私は慎重な(ry"
+msgstr ""
+"当然不会就那样写下来。\n"
+"\\!我可是个谨慎的男人啊\\!只是，\n"
+"这个密码得仔细看键盘才行，\n"
+"所以对我这个老花眼来说有点吃力。\n"
+"\\!所以我会常备眼镜，\\!因为我是个谨慎的(ry"
+
+#. ID 37, Page 2, Line 3, Pos (15,13)
+msgid "骸骨だ……"
+msgstr "是骸骨……"
+
+#. ID 37, Page 2, Line 4, Pos (15,13)
+msgid "よく見るとその手にはメモ帳らしきものが握られている"
+msgstr "仔细一看，那只手里握着像是记事本的东西"
+
+#. ID 37, Page 2, Line 7, Pos (15,13)
+msgid ""
+"\n"
+"              パスワード：RYONA"
+msgstr "              密码：RYONA"
+
+#. ID 41, Page 2, Line 3, Pos (19,19)
+msgid ""
+"バッテリーがある。\\!\n"
+"予備のものだろうか？とりあえず一つ持っていこう。"
+msgstr "有电池。\\!是备用的吗？总之先拿一个走吧。"
+
+#. ID 41, Page 2, Line 8, Pos (19,19)
+msgid "バッテリーを手に入れた。"
+msgstr "获得了电池。"
+
+#. ID 41, Page 2, Line 12, Pos (19,19)
+msgid "これで上のエレベータが動かせるかも…"
+msgstr "这样也许就能让上面的电梯动起来了……"
+
+#. ID 41, Page 3, Line 3, Pos (19,19)
+msgid "さすがにこれ以上は必要ないだろう。"
+msgstr "再怎么样也不需要更多了吧。"
+
+#. ID 42, Page 2, Line 12, Pos (11,4)
+msgid "電源 ガ 通ッテイマセン"
+msgstr "电源 未 接通"
+
+#. ID 45, Page 2, Line 4, Pos (21,15)
+msgid "下水路：管理者室"
+msgstr "下水道：管理员室"
+
+#. ID 46, Page 2, Line 4, Pos (17,11)
+msgid ""
+"すると、一冊の古ぼけた本を見つけた\\!\n"
+"そこには「よくわかるヒント」と書いてある。"
+msgstr ""
+"于是，\n"
+"发现了一本陈旧的书\\!上面写着「通俗易懂的提示」。"
+
+#. ID 46, Page 2, Line 11, Pos (17,11)
+msgid "ＫＬ→のり、ＨＪ→くま、ＩＯ→にら"
+msgstr "KL→海苔、HJ→熊、IO→韭菜"

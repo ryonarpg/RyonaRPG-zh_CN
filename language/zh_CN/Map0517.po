@@ -1,0 +1,185 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 1, Line 4, Pos (12,11)
+#. ID 14, Page 1, Line 4, Pos (12,7)
+msgid ""
+"フフ…お互い頑張りましょう\n"
+"レイク様の為に。"
+msgstr "呵呵……为了雷克大人，我们彼此都努力吧。"
+
+#. ID 12, Page 1, Line 8, Pos (12,11)
+#. ID 13, Page 1, Line 7, Pos (12,9)
+#. ID 14, Page 1, Line 8, Pos (12,7)
+msgid "ああ…レイク様…"
+msgstr "啊……雷克大人……"
+
+#. ID 12, Page 1, Line 9, Pos (12,11)
+#. ID 13, Page 1, Line 8, Pos (12,9)
+#. ID 14, Page 1, Line 9, Pos (12,7)
+msgid ""
+"ねえ？もっとレイク様のお役に立ちたいと\n"
+"思わない？"
+msgstr "呐？你不想更多地帮上雷克大人吗？"
+
+#. ID 12, Page 1, Line 11, Pos (12,11)
+#. Contains choice at line 3 (2 options)
+#. ID 13, Page 1, Line 10, Pos (12,9)
+#. Contains choice at line 3 (2 options)
+#. ID 14, Page 1, Line 11, Pos (12,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"…まあ当然よね。\n"
+"\\!それなら貴女に力をあげましょうか？"
+msgstr "……嘛，当然吧。\\!那么，我就赐予你力量吧？"
+
+#. ID 12, Page 1, Line 13, Pos (12,11)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 1, Line 12, Pos (12,9)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 13, Pos (12,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 12, Page 1, Line 15, Pos (12,11)
+#. ID 13, Page 1, Line 14, Pos (12,9)
+#. ID 14, Page 1, Line 15, Pos (12,7)
+msgid "フフフ…じゃああげるわ…"
+msgstr "呵呵呵……那就给你吧……"
+
+#. ID 12, Page 1, Line 86, Pos (12,11)
+#. ID 13, Page 1, Line 85, Pos (12,9)
+#. ID 14, Page 1, Line 86, Pos (12,7)
+msgid "…………………………………………"
+msgstr "…………………………………………"
+
+#. ID 12, Page 1, Line 89, Pos (12,11)
+msgid "\\n[\\v[6]]はらみあになってしまった……"
+msgstr "\\n[\\v[6]]变成了拉米亚……"
+
+#. ID 13, Page 1, Line 4, Pos (12,9)
+msgid "クスクス、レイク様…"
+msgstr "咯咯，雷克大人……"
+
+#. ID 13, Page 1, Line 88, Pos (12,9)
+msgid "\\n[\\v[6]]は蜂少女になってしまった……"
+msgstr "\\n[\\v[6]]变成了蜂少女……"
+
+#. ID 14, Page 1, Line 89, Pos (12,7)
+msgid "\\n[\\v[6]]はアルラウネになってしまった……"
+msgstr "\\n[\\v[6]]变成了阿尔拉乌涅……"
+
+#. ID 15, Page 1, Line 3, Pos (9,5)
+#. Contains choice at line 2 (2 options)
+msgid "あらあら、どうしたの？"
+msgstr "哎呀哎呀，怎么了？"
+
+#. ID 15, Page 1, Line 4, Pos (9,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"可愛がってください\n"
+"なんでもないです"
+msgstr ""
+"请疼爱我\n"
+"没什么"
+
+#. ID 15, Page 1, Line 6, Pos (9,5)
+msgid "いいわよ。いっぱい愛してあげるわ。"
+msgstr "好啊。我会好好爱你的。"
+
+#. ID 15, Page 1, Line 23, Pos (9,5)
+msgid "まずは奉仕してもらおうかしら"
+msgstr "首先，就让你来服侍我吧"
+
+#. ID 15, Page 1, Line 29, Pos (9,5)
+msgid "ほら、もっとしっかりと…"
+msgstr "喂，再更用心一点……"
+
+#. ID 15, Page 1, Line 35, Pos (9,5)
+msgid ""
+"いいわあ…\\!ほら、出してあげる。\n"
+"受け取りなさい。"
+msgstr "好啊……\\!来，我帮你弄出来。接住吧。"
+
+#. ID 15, Page 1, Line 47, Pos (9,5)
+msgid "ほら、しっかり飲み干すのよ"
+msgstr "来，要好好喝干哦"
+
+#. ID 15, Page 1, Line 57, Pos (9,5)
+msgid "いい娘ね…それじゃあご褒美をあげるわ"
+msgstr "好孩子……那么，就给你奖赏吧"
+
+#. ID 15, Page 1, Line 63, Pos (9,5)
+msgid "フフフ…かわいい声…"
+msgstr "呵呵呵……可爱声音……"
+
+#. ID 15, Page 1, Line 68, Pos (9,5)
+msgid ""
+"あなたのその服がなければもっと\n"
+"かわいがってあげたのだけれど…"
+msgstr "要是没有你那身衣服，我本来能更加疼爱你的……"
+
+#. ID 15, Page 1, Line 79, Pos (9,5)
+msgid "ほら、おっぱいも…"
+msgstr "来，胸部也……"
+
+#. ID 15, Page 1, Line 85, Pos (9,5)
+msgid ""
+"フフフ、貴女のミルクはいつ飲んでも\n"
+"美味しいわ。\n"
+"今度は私からあげるわね"
+msgstr ""
+"呵呵呵，你的奶不管什么时候喝都很好喝。\n"
+"这次就由我来给你哦"
+
+#. ID 15, Page 1, Line 96, Pos (9,5)
+msgid "ほら、受け取りなさい！"
+msgstr "来，接住！"
+
+#. ID 15, Page 1, Line 108, Pos (9,5)
+msgid ""
+"フフフ、とてもよかったわ\n"
+"またいらっしゃい。"
+msgstr "呵呵呵，非常棒。下次再来。"
+
+#. ID 15, Page 1, Line 119, Pos (9,5)
+msgid "そう？つまんないわね…"
+msgstr "是吗？真无聊呢……"
+
+#. ID 15, Page 2, Line 3, Pos (9,5)
+msgid ""
+"いよいよ機は熟したわ\n"
+"今こそ復讐を果たす時よ。\n"
+"貴女も付いてきなさい"
+msgstr "时机终于成熟了，现在正是复仇之时。你也跟上。"
+
+#. ID 16, Page 1, Line 3, Pos (7,7)
+msgid ""
+"皇帝が懲りもせずレイク様に\n"
+"討伐隊を派遣してきました。\n"
+"速やかに討滅してください。"
+msgstr ""
+"皇帝不知悔改，又向雷克大人派遣了讨伐队。\n"
+"请迅速将其消灭。"
+
+#. ID 16, Page 2, Line 3, Pos (7,7)
+msgid ""
+"よくがんばりましたね。\n"
+"レイク様もお喜びです。"
+msgstr "你干得很努力呢。雷克大人也很高兴。"

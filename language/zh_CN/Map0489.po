@@ -1,0 +1,206 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 3, Pos (16,7)
+msgid ""
+"コンナ地ノ底深クマデ一人デヤッテクルトハ、\n"
+"オマエ、ナカナカヤルヨウダナ"
+msgstr ""
+"竟一个人来到这么深的地底，你这家伙，\n"
+"看来相当能干啊。"
+
+#. ID 12, Page 2, Line 6, Pos (16,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ソノ腕ヲ見込ンデ頼ミタイ事ガアル、\n"
+"話ヲ聞イテクレマイカ？"
+msgstr "我看中你的本事，有件事想拜托你，能听我说说吗？"
+
+#. ID 12, Page 2, Line 8, Pos (16,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"聞く\n"
+"いいえ"
+msgstr ""
+"听\n"
+"不"
+
+#. ID 12, Page 2, Line 10, Pos (16,7)
+msgid ""
+"東カラヤッテキタ恐ロシイ邪竜ガ、コノ\n"
+"とんねるニスミツイテシマッタノダ。"
+msgstr "从东边来的可怕邪龙，已经盘踞在这条隧道里了。"
+
+#. ID 12, Page 2, Line 12, Pos (16,7)
+msgid ""
+"アヤツハ腹ノスイタ時ニ\n"
+"我々ノ仲間ヲ食ラッテイク。"
+msgstr "那家伙肚子饿的时候就会吃掉我们的同伴。"
+
+#. ID 12, Page 2, Line 14, Pos (16,7)
+msgid ""
+"退治シヨウニモ、我々デハヤツノ召喚スル\n"
+"悪シキ精霊ドモヲ滅ボスコトガデキン。"
+msgstr ""
+"就算想讨伐，\n"
+"我们也无法消灭那家伙召唤的邪恶精灵们。"
+
+#. ID 12, Page 2, Line 16, Pos (16,7)
+msgid "我々ハ実際窮地ニタタサレテオルノダ。"
+msgstr "我们实际上正被逼入绝境。"
+
+#. ID 12, Page 2, Line 17, Pos (16,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"人間ノ強者ヨ。我ラニカワリ、\n"
+"アノ忌マワシキ邪竜ヲ退治シテハクダサランカ？"
+msgstr ""
+"人类的强者啊。能否代替我们，\n"
+"讨伐那条可憎的邪龙？"
+
+#. ID 12, Page 2, Line 19, Pos (16,7)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 3, Line 12, Pos (32,11)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"不"
+
+#. ID 12, Page 2, Line 21, Pos (16,7)
+msgid "アリガタイ…"
+msgstr "感激不尽……"
+
+#. ID 12, Page 2, Line 22, Pos (16,7)
+msgid ""
+"邪竜ノ吐ク毒ノ息デ仲間ガ何人モ\n"
+"ヤラレテオリマス。毒ヘノ守リハ万全ニシテオイタ\n"
+"方ガイイデショウ。"
+msgstr ""
+"邪龙吐出的毒息已经害死了好几个同伴。\n"
+"最好做好万全的防毒准备。"
+
+#. ID 12, Page 2, Line 25, Pos (16,7)
+msgid "薬ヲ渡シテオキマス、役立テテクダサレ。"
+msgstr "我先把药交给你，请善加利用。"
+
+#. ID 12, Page 2, Line 28, Pos (16,7)
+msgid "ポーションと万能薬を5個もらった！"
+msgstr "获得了药水和万能药共5个！"
+
+#. ID 12, Page 2, Line 32, Pos (16,7)
+#. ID 12, Page 3, Line 3, Pos (16,7)
+msgid "吉報ヲマッテオリマスゾ…"
+msgstr "我们等着你的好消息哦……"
+
+#. ID 12, Page 2, Line 35, Pos (16,7)
+msgid ""
+"ムゥ…我々ニモモウ後ガナイノダ。\n"
+"考エナオシテハクレンカ……"
+msgstr "唔…我们也没有退路了。能不能重新考虑一下……"
+
+#. ID 12, Page 2, Line 42, Pos (16,7)
+msgid "ムゥ…"
+msgstr "唔……"
+
+#. ID 12, Page 3, Line 6, Pos (16,7)
+#. ID 12, Page 5, Line 6, Pos (16,7)
+msgid "傷ヲ負ッテオルナ、手当テシテサシアゲヨウ。"
+msgstr "你受伤了啊，让我们给你处理一下。"
+
+#. ID 12, Page 3, Line 12, Pos (16,7)
+msgid ""
+"我々ノ中ニハ、人間ノ力ヲ借リルコトヲ\n"
+"良シトシナイ者モ多イ。迷惑ヲカケルカモシレンガ、\n"
+"許シテクダサレ。"
+msgstr ""
+"我们之中也有不少人并不喜欢借助人类的力量。\n"
+"或许会给你添麻烦，还请见谅。"
+
+#. ID 12, Page 4, Line 3, Pos (16,7)
+msgid ""
+"オオ、ヤツヲ倒シテクダサッタノカ！コレデ\n"
+"我々ハ救ワレタノダナ！"
+msgstr "哦哦，你打倒那家伙了吗！这下我们得救了！"
+
+#. ID 12, Page 4, Line 5, Pos (16,7)
+msgid ""
+"貴方ハ我々ブ族ノ大恩人ジャ。\n"
+"コレヲサシアゲヨウ。"
+msgstr "你是我们布族的大恩人。这个就送给你吧。"
+
+#. ID 12, Page 4, Line 77, Pos (16,7)
+msgid ""
+"\n"
+"\\N[101]\\N[102]\\N[103]\\N[104]を手に入れた。"
+msgstr "获得了\\N[101]\\N[102]\\N[103]\\N[104]。"
+
+#. ID 12, Page 4, Line 81, Pos (16,7)
+#. ID 12, Page 5, Line 3, Pos (16,7)
+msgid "コノ恩ハ忘レマセンゾ…"
+msgstr "这份恩情我不会忘记的……"
+
+#. ID 12, Page 5, Line 12, Pos (16,7)
+msgid ""
+"貴方ハ恩人ジャガ、我々ノ中ニハ人間ニ対シテ\n"
+"怨ミヲモッテオル者モ多イノダ。迷惑ヲカケルカモシレンガ、\n"
+"許シテクダサレ。"
+msgstr ""
+"你是恩人，但我们之中也有很多人对人类怀有怨恨。\n"
+"或许会给你添麻烦，还请见谅。"
+
+#. ID 33, Page 2, Line 3, Pos (37,29)
+msgid "処女一番搾りを手に入れた。"
+msgstr "获得了处女初榨。"
+
+#. ID 34, Page 2, Line 3, Pos (32,11)
+#. ID 38, Page 2, Line 3, Pos (26,7)
+msgid "……"
+msgstr "……"
+
+#. ID 34, Page 3, Line 3, Pos (32,11)
+msgid ""
+"黒イ石ガ１ツアマッテオルノダガ、\n"
+"1000Gデ買ワヌカ？"
+msgstr "黑色矿石有一个，1000G买不买？"
+
+#. ID 34, Page 3, Line 7, Pos (32,11)
+msgid "金が足りない。"
+msgstr "钱不够。"
+
+#. ID 34, Page 3, Line 18, Pos (32,11)
+msgid "黒い鉱石を購入した。"
+msgstr "购买了黑色矿石。"
+
+#. ID 34, Page 4, Line 3, Pos (32,11)
+msgid "品切レジャ。"
+msgstr "没货啦。"
+
+#. ID 37, Page 2, Line 3, Pos (25,7)
+#. ID 37, Page 4, Line 3, Pos (25,7)
+msgid "人間ハ村ニハ入レン。"
+msgstr "人类不能进村。"
+
+#. ID 37, Page 3, Line 3, Pos (25,7)
+msgid ""
+"恩人トハイエ、人間ヲ村ニハ入レルコトハデキン。\n"
+"スマンナ。"
+msgstr "虽说是恩人，也不能让人类进村。抱歉啊。"
+
+#. ID 49, Page 2, Line 3, Pos (8,1)
+#. ID 57, Page 2, Line 3, Pos (9,1)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"

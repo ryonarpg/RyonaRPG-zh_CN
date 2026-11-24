@@ -1,0 +1,68 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 27, Page 2, Line 3, Pos (16,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"魔族の記録媒体を見つけた\n"
+"読みますか？"
+msgstr "发现了魔族的记录媒体，要阅读吗？"
+
+#. ID 27, Page 2, Line 5, Pos (16,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 27, Page 2, Line 14, Pos (16,9)
+#. ID 27, Page 2, Line 24, Pos (16,9)
+msgid "五十六億七千万"
+msgstr "五十六亿七千万"
+
+#. ID 27, Page 2, Line 15, Pos (16,9)
+msgid ""
+"あのお方は優しすぎるのだ\n"
+"自らの判断が多くの魔族の仲間を\n"
+"殺してしまったことを悔いておられるのだ"
+msgstr ""
+"那位大人太过温柔了，\n"
+"他正为自己的判断害死了许多魔族同伴而懊悔。"
+
+#. ID 27, Page 2, Line 18, Pos (16,9)
+msgid ""
+"あのお方の身の回りの世話をする\n"
+"私にだけは僅かに話してくださる\n"
+"苦悩しておられるのだ"
+msgstr ""
+"他只对我这个照顾他起居的人略微倾诉，\n"
+"他正深陷苦恼。"
+
+#. ID 27, Page 2, Line 21, Pos (16,9)
+msgid ""
+"人類を憎め、殺せと我々に仰るが、\n"
+"本心では苦悩しておられるのだ"
+msgstr ""
+"虽然对我们说憎恨人类、杀掉人类，\n"
+"但内心其实很苦恼。"
+
+#. ID 27, Page 2, Line 23, Pos (16,9)
+msgid "我々には知り得ない苦悩があるのだ"
+msgstr "他有着我们无法知晓的苦恼。"
+
+#. ID 27, Page 2, Line 25, Pos (16,9)
+msgid "\\S[8]・・・・・・・・"
+msgstr "\\S[8]・・・・・・・・"

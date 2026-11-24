@@ -1,0 +1,50 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 91, Page 2, Line 19, Pos (59,12)
+msgid ""
+"\\N[\\V[6]]は\n"
+"太古の呪詛をその身に受けた。"
+msgstr "\\N[\\V[6]]身负太古的诅咒。"
+
+#. ID 92, Page 2, Line 15, Pos (60,12)
+msgid "\\N[\\V[6]]の受けた呪詛は浄化された。"
+msgstr "\\N[\\V[6]]所受的诅咒被净化了。"
+
+#. ID 93, Page 2, Line 3, Pos (80,11)
+#. ID 94, Page 2, Line 3, Pos (70,11)
+msgid ""
+"水瓶を担いだ女性の像は\n"
+"愚かな罪人を憐れむような\n"
+"酷薄な微笑みを浮かべている……。"
+msgstr ""
+"挑着水瓶的女性雕像，\n"
+"浮现出仿佛怜悯愚蠢罪人般的冷酷微笑……。"
+
+#. ID 93, Page 3, Line 3, Pos (80,11)
+#. ID 94, Page 3, Line 3, Pos (70,11)
+msgid ""
+"水瓶を担いだ女性の像は\n"
+"迷える咎人を包み込むような\n"
+"慈愛に溢れた微笑みを浮かべている……。"
+msgstr ""
+"挑着水瓶的女性雕像，\n"
+"浮现出仿佛包容迷惘罪人般充满慈爱的微笑……。"
+
+#. ID 96, Page 2, Line 4, Pos (83,10)
+#. ID 97, Page 2, Line 4, Pos (67,10)
+msgid ""
+"この身体では\n"
+"ノブを回すことは不可能だ……。"
+msgstr "以这个身体无法转动门把手……。"

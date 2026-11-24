@@ -1,0 +1,109 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 37, Page 2, Line 3, Pos (21,3)
+msgid ""
+"＊錆び付いたレバーがある\n"
+"　クリスタルを操作するもののようだ"
+msgstr "＊有个生锈的拉杆　似乎是用来操作水晶的"
+
+#. ID 37, Page 2, Line 5, Pos (21,3)
+#. Contains choice at line 2 (2 options)
+msgid "＊レバーを操作しますか？"
+msgstr "＊要操作拉杆吗？"
+
+#. ID 37, Page 2, Line 6, Pos (21,3)
+#. Choice (2 options, embedded in a message)
+#. ID 63, Page 2, Line 6, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 2, Line 5, Pos (25,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 40, Page 2, Line 3, Pos (13,9)
+#. ID 43, Page 2, Line 3, Pos (1,23)
+#. ID 44, Page 2, Line 3, Pos (5,28)
+#. ID 64, Page 2, Line 3, Pos (14,24)
+#. ID 65, Page 2, Line 3, Pos (16,24)
+#. ID 66, Page 2, Line 3, Pos (18,24)
+msgid "＊何かが入っていたらしい機械だ"
+msgstr "＊似乎放过什么东西的机器"
+
+#. ID 63, Page 2, Line 3, Pos (15,9)
+msgid ""
+"＊錆び付いたスイッチがある\n"
+"　そのとなりには何か日付のようなものが書かれている"
+msgstr "＊有个生锈的开关　旁边写着像是日期的东西"
+
+#. ID 63, Page 2, Line 5, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+msgid "＊スイッチを操作しますか？"
+msgstr "＊要操作开关吗？"
+
+#. ID 63, Page 2, Line 15, Pos (15,9)
+msgid "＊……どこからともなく声が聞こえてきた"
+msgstr "＊……不知从何处传来了声音"
+
+#. ID 63, Page 2, Line 20, Pos (15,9)
+msgid ""
+"\\S[2]「これで完成……自…人形より開発……\n"
+"機械の身体……"
+msgstr "\\S[2]「这样就完成了……由自…人偶开发……机械之躯……"
+
+#. ID 63, Page 2, Line 22, Pos (15,9)
+msgid "\\S[2]「永久……"
+msgstr "\\S[2]「永久……"
+
+#. ID 63, Page 2, Line 27, Pos (15,9)
+msgid "＊……声はここで途切れている"
+msgstr "＊……声音在这里中断了"
+
+#. ID 78, Page 2, Line 5, Pos (22,24)
+msgid "＊古びたメモが落ちている"
+msgstr "＊掉着一张陈旧的便条"
+
+#. ID 78, Page 2, Line 10, Pos (22,24)
+msgid ""
+"＊ここにいる自動人形たちは\n"
+"　ガラスと水銀とシリンダーで出来ているかと\n"
+"　思ったら全く違った"
+msgstr ""
+"＊我原以为这里的自动人偶们　是由玻璃、\n"
+"　水银和气缸做成的　结果完全不是"
+
+#. ID 78, Page 2, Line 13, Pos (22,24)
+msgid "＊こいつらは人間を――"
+msgstr "＊这些家伙把人类——"
+
+#. ID 78, Page 2, Line 18, Pos (22,24)
+msgid "＊……残りは文字が掠れて読めない"
+msgstr "＊……剩下的文字模糊不清无法阅读"
+
+#. ID 80, Page 2, Line 3, Pos (25,6)
+msgid "＊冒険者の遺品のようだ"
+msgstr "＊似乎是冒险者的遗物"
+
+#. ID 80, Page 2, Line 4, Pos (25,6)
+#. Contains choice at line 2 (2 options)
+msgid "＊拾いますか？"
+msgstr "＊要捡起来吗？"
+
+#. ID 80, Page 2, Line 11, Pos (25,6)
+msgid "＊［グラディウス］を手に入れた"
+msgstr "＊获得了［格拉迪乌斯］"

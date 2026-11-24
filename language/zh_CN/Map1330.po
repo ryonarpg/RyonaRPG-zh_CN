@@ -1,0 +1,59 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 3, Pos (1,9)
+msgid "ラはーぴーの羽根を手に入れた。"
+msgstr "获得了拉哈比羽毛。"
+
+#. ID 40, Page 2, Line 4, Pos (9,3)
+msgid ""
+"名前：ハンマーナイスガイ\n"
+"種族：人男"
+msgstr "名字：锤子好人 种族：人男"
+
+#. ID 40, Page 2, Line 6, Pos (9,3)
+msgid "ハンマーを振り回すいい男！"
+msgstr "挥舞锤子的好男人！"
+
+#. ID 40, Page 2, Line 7, Pos (9,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$2000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "花\\$2000G可以听取攻略情报。要听吗？"
+
+#. ID 40, Page 2, Line 9, Pos (9,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 40, Page 2, Line 15, Pos (9,3)
+msgid ""
+"ハンマーを振り回すいい男！\\!\n"
+"そのハンマーで周囲を攻撃しているのだ！"
+msgstr "挥舞锤子的好男人！\\!他正用那把锤子攻击周围！"
+
+#. ID 40, Page 2, Line 17, Pos (9,3)
+msgid ""
+"逆に懐に入ってしまえば安全！\\!\n"
+"一気に叩きのめせ！"
+msgstr "相反，只要钻入他怀里就安全了！\\!一口气打垮他！"
+
+#. ID 40, Page 2, Line 19, Pos (9,3)
+msgid "稀に\\C[2]アイアンヘッドの頭\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]铁头之头\\C[0]"

@@ -1,0 +1,70 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (21,29)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"このダンジョンから出ますか？"
+msgstr "要离开这座地下城吗？"
+
+#. ID 2, Page 1, Line 5, Pos (21,29)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 1, Line 10, Pos (43,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 48, Page 1, Line 4, Pos (43,8)
+msgid ""
+"\n"
+"井戸がある。\n"
+"井戸の内部には水は無く、\n"
+"ロープが１本垂れ下がっている。"
+msgstr "有一口井。井里没有水，只有一根绳索垂下来。"
+
+#. ID 48, Page 1, Line 8, Pos (43,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"ロープをつたって、下へ降りますか？"
+msgstr "要顺着绳索下到下面吗？"
+
+#. ID 49, Page 1, Line 17, Pos (43,29)
+msgid ""
+"\n"
+"\\N[101]\\N[102]を\\v[1201]個手に入れた。"
+msgstr "\\N[101]\\N[102]　获得了\\v[1201]个。"
+
+#. ID 59, Page 1, Line 6, Pos (20,26)
+msgid ""
+"\n"
+"（入口はどこだろう？）"
+msgstr "（入口在哪里呢？）"
+
+#. ID 63, Page 1, Line 6, Pos (29,14)
+msgid ""
+"\n"
+"（あれ？\\.\\.　誰かの足跡がある。）"
+msgstr "（咦？\\.\\.　有某人的足迹。）"
+
+#. ID 63, Page 1, Line 14, Pos (29,14)
+msgid ""
+"\n"
+"（足跡は右に続いてるみたいだけど……）"
+msgstr "（足迹好像向右延伸……）"

@@ -1,0 +1,195 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (8,6)
+msgid ""
+"ううん…\\!最近目じりに小じわが\n"
+"できちゃったわあ…"
+msgstr "唔嗯…\\!最近眼角都长出小皱纹了呀…"
+
+#. ID 3, Page 1, Line 3, Pos (12,6)
+msgid "さあて、しっかりと化粧しないとね"
+msgstr "好了，得好好化个妆才行呢"
+
+#. ID 4, Page 1, Line 3, Pos (4,6)
+msgid "夜の仕事はあまりお肌によくないよねえ"
+msgstr "晚上的工作对皮肤不太好啊"
+
+#. ID 5, Page 1, Line 3, Pos (9,4)
+msgid "われながらバチあたりな格好よねえ。"
+msgstr "连我自己都觉得这是会遭报应的打扮呢。"
+
+#. ID 6, Page 1, Line 3, Pos (16,6)
+msgid "これは…\\!やりすぎちゃったかしら…"
+msgstr "这是…\\!是不是做得太过火了点呢…"
+
+#. ID 7, Page 1, Line 3, Pos (13,4)
+msgid "ここではコスプレすると受けがいいのよ。"
+msgstr "在这里玩cosplay很受欢迎哦。"
+
+#. ID 8, Page 1, Line 3, Pos (12,12)
+msgid ""
+"メイド服も食傷気味よねえ…\n"
+"なんか男心をグっと掴める衣装ってないか\n"
+"しら？"
+msgstr ""
+"女仆装也有点腻了呢…\n"
+"有没有什么能一下子抓住男人心的服装呢？"
+
+#. ID 9, Page 1, Line 3, Pos (4,12)
+msgid ""
+"意外とこういう格好が好みの人っているの\n"
+"だいたいMだけど"
+msgstr "意外的是，喜欢这种打扮的人大多都是M呢"
+
+#. ID 10, Page 1, Line 3, Pos (5,8)
+msgid ""
+"そろそろ、いつもの人が来るかな\n"
+"\\!出来ればお金持ちのお相手をしたいけど\n"
+"ああいう少ない給料で来てくれる人も\n"
+"グッと来ちゃうのよねえ…"
+msgstr ""
+"差不多，老主顾该来了吧\\!虽然想接待有钱人，\n"
+"但那种拿着微薄薪水还愿意来的人也挺让人心动的呢\n"
+"…"
+
+#. ID 11, Page 1, Line 3, Pos (5,4)
+msgid "こういう新機軸も悪くないでしょ。"
+msgstr "这种新尝试也不错吧。"
+
+#. ID 12, Page 1, Line 3, Pos (10,6)
+msgid ""
+"そこの箪笥にはいろんな衣装が入ってる\n"
+"わよ"
+msgstr "那边的衣柜里放着各种各样的服装哦"
+
+#. ID 13, Page 1, Line 3, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 2, Line 3, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+msgid "着替えますか？"
+msgstr "要换衣服吗？"
+
+#. ID 13, Page 1, Line 4, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 2, Line 4, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 13, Page 1, Line 9, Pos (11,3)
+#. ID 13, Page 2, Line 9, Pos (11,3)
+msgid ""
+"\\n[\\v[6]]\n"
+"「はあ…、これじゃ…無理か"
+msgstr "\\n[\\v[6]]「唉…，这样的话…不行吗"
+
+#. ID 13, Page 1, Line 15, Pos (11,3)
+#. ID 13, Page 2, Line 15, Pos (11,3)
+msgid ""
+"\\n[\\v[6]]の身体は生体ラバースーツに\n"
+"閉じ込められていて着替えられない！"
+msgstr ""
+"\\n[\\v[6]]的身体被关在生物橡胶服里，\n"
+"无法换衣服！"
+
+#. ID 13, Page 1, Line 23, Pos (11,3)
+#. ID 13, Page 2, Line 23, Pos (11,3)
+msgid "\\C[2]\\N[101]\\C[0]は呪われていて着替えられない！"
+msgstr "\\C[2]\\N[101]\\C[0]被诅咒了，无法换衣服！"
+
+#. ID 13, Page 1, Line 28, Pos (11,3)
+#. ID 13, Page 2, Line 28, Pos (11,3)
+msgid "何に着替えますか？"
+msgstr "要换成什么？"
+
+#. ID 13, Page 1, Line 29, Pos (11,3)
+#. Choice (4 options)
+#. ID 13, Page 2, Line 29, Pos (11,3)
+#. Choice (4 options)
+msgid ""
+"メイド服\n"
+"ウェイトレス服\n"
+"水着\n"
+"次へ"
+msgstr ""
+"女仆装\n"
+"女服务员装\n"
+"泳装\n"
+"下一页"
+
+#. ID 13, Page 1, Line 31, Pos (11,3)
+#. ID 13, Page 2, Line 31, Pos (11,3)
+msgid "着替えた。"
+msgstr "已换装。"
+
+#. ID 13, Page 1, Line 41, Pos (11,3)
+#. Choice (4 options)
+msgid ""
+"ラバースーツ\n"
+"ビキニアーマー\n"
+"シール\n"
+"やっぱり着ない"
+msgstr ""
+"橡胶服\n"
+"比基尼铠甲\n"
+"贴纸\n"
+"还是不穿"
+
+#. ID 13, Page 2, Line 41, Pos (11,3)
+#. Choice (4 options)
+msgid ""
+"ラバースーツ\n"
+"ビキニアーマー\n"
+"シール\n"
+"次へ"
+msgstr ""
+"橡胶服\n"
+"比基尼铠甲\n"
+"贴纸\n"
+"下一页"
+
+#. ID 13, Page 2, Line 52, Pos (11,3)
+#. Choice (4 options)
+msgid ""
+"バインドスーツ\n"
+"縄\n"
+"奇妙な服\n"
+"次へ"
+msgstr ""
+"束缚服\n"
+"绳子\n"
+"奇怪的服装\n"
+"下一页"
+
+#. ID 13, Page 2, Line 63, Pos (11,3)
+msgid "…寄生されてしまった！！"
+msgstr "…被寄生了！！"
+
+#. ID 13, Page 2, Line 66, Pos (11,3)
+#. Choice (4 options)
+msgid ""
+"ふんどし\n"
+"腰アーマー\n"
+"エッチな下着\n"
+"着ない"
+msgstr ""
+"兜裆布\n"
+"腰部护甲\n"
+"色情内衣\n"
+"不穿"

@@ -1,0 +1,94 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 24, Page 2, Line 2, Pos (1,8)
+#. Choice (4 options)
+msgid ""
+"第一形態\n"
+"第二形態\n"
+"ボス後イベントへ\n"
+"やめる"
+msgstr ""
+"第一形态\n"
+"第二形态\n"
+"前往首领战后事件\n"
+"放弃"
+
+#. ID 24, Page 2, Line 53, Pos (1,8)
+msgid "君がここへ来ると信じていたよ"
+msgstr "我相信你会来到这里"
+
+#. ID 24, Page 2, Line 60, Pos (1,8)
+msgid "顔を見せてくれないか"
+msgstr "能让我看看你的脸吗"
+
+#. ID 24, Page 2, Line 65, Pos (1,8)
+msgid ""
+"そうか……\\!\n"
+"エヴァに似ているな"
+msgstr "这样啊……\\!和艾娃很像呢"
+
+#. ID 24, Page 2, Line 71, Pos (1,8)
+msgid "ここは私の牢獄だ"
+msgstr "这里是我的牢狱"
+
+#. ID 24, Page 2, Line 72, Pos (1,8)
+msgid ""
+"私の甘さによって多くの仲間が犠牲になった\\!\n"
+"私はここで永遠に償い続けるだろう"
+msgstr ""
+"由于我的天真，\n"
+"许多同伴牺牲了\\!我将在这里永远赎罪下去吧"
+
+#. ID 24, Page 2, Line 78, Pos (1,8)
+msgid ""
+"宇宙の歴史の中で\n"
+"多くの命が無念の気持ちの中散っていった\\!\n"
+"人間も、我々魔族も、その想いは変わらない"
+msgstr ""
+"在宇宙的历史中，\n"
+"许多生命怀着遗憾消逝了\\!无论是人类，\n"
+"还是我们魔族，那份心念都不会改变"
+
+#. ID 24, Page 2, Line 81, Pos (1,8)
+msgid ""
+"我々は何のために生まれてきたのだろう\\!\n"
+"命とは何のために存在しているのか\\!\n"
+"宇宙とは何なのか"
+msgstr ""
+"我们究竟为何而生\\!生命究竟为何存在\\!宇宙又是什\n"
+"么"
+
+#. ID 24, Page 2, Line 88, Pos (1,8)
+msgid "私はその答えを知っている"
+msgstr "我知道那个答案"
+
+#. ID 24, Page 2, Line 99, Pos (1,8)
+msgid ""
+"数万年に渡る吟味の結果\n"
+"人間と魔族、共存の道は無い"
+msgstr "经过数万年的斟酌，人类与魔族没有共存之路"
+
+#. ID 24, Page 2, Line 101, Pos (1,8)
+msgid ""
+"魔界の惨状を見ただろう\\!\n"
+"お互いにもう引けぬのだ"
+msgstr "你看到魔界的惨状了吧\\!双方都已经无法退让了"
+
+#. ID 24, Page 2, Line 103, Pos (1,8)
+msgid ""
+"戦おう\\!\n"
+"散っていった仲間のために\\!\n"
+"魔界と人間界、その全てを賭けて"
+msgstr "战斗吧\\!为了逝去的同伴\\!赌上魔界与人间界的一切"

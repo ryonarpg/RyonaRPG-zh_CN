@@ -1,0 +1,47 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 61, Page 2, Line 7, Pos (13,20)
+msgid ""
+"\n"
+"閉じ込められた！"
+msgstr "被关住了！"
+
+#. ID 87, Page 2, Line 5, Pos (23,8)
+#. ID 88, Page 2, Line 5, Pos (23,9)
+msgid "水が流れる音が聞こえる・・・"
+msgstr "能听到水流的声音……"
+
+#. ID 87, Page 2, Line 6, Pos (23,8)
+#. ID 88, Page 2, Line 6, Pos (23,9)
+msgid "穴を覗くと、水面で反射した光が微かに見えた。"
+msgstr "往洞里窥视，能隐约看到水面上反射的光。"
+
+#. ID 87, Page 2, Line 8, Pos (23,8)
+#. Contains choice at line 2 (2 options)
+#. ID 88, Page 2, Line 8, Pos (23,9)
+#. Contains choice at line 2 (2 options)
+msgid "飛び降りますか？"
+msgstr "要跳下去吗？"
+
+#. ID 87, Page 2, Line 9, Pos (23,8)
+#. Choice (2 options, embedded in a message)
+#. ID 88, Page 2, Line 9, Pos (23,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"飛び降りる\n"
+"止めておく"
+msgstr ""
+"跳下去\n"
+"作罢"

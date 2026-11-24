@@ -1,0 +1,68 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 52, Page 2, Line 3, Pos (10,3)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"
+
+#. ID 53, Page 2, Line 4, Pos (12,2)
+msgid ""
+"名前：さんぞく\n"
+"種族：人男"
+msgstr "名字：山贼种族：人男"
+
+#. ID 53, Page 2, Line 6, Pos (12,2)
+msgid "山で襲ってくる悪い奴"
+msgstr "在山里袭击人的坏家伙"
+
+#. ID 53, Page 2, Line 7, Pos (12,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$500Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$500G可以打听攻略情报。要打听吗？"
+
+#. ID 53, Page 2, Line 9, Pos (12,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 53, Page 2, Line 15, Pos (12,2)
+msgid ""
+"山を通る商人や貴族を襲って\n"
+"金品を巻き上げるタイプの悪党\\!\n"
+"ほんとロクなことしねぇ"
+msgstr ""
+"袭击翻山而过的商人和贵族、\n"
+"抢夺钱财的那种恶棍\\!真是没干过一件好事"
+
+#. ID 53, Page 2, Line 18, Pos (12,2)
+msgid ""
+"炎と氷の攻撃で2倍のダメージを\n"
+"与えることが出来る"
+msgstr "用火与冰的攻击可以造成2倍伤害"
+
+#. ID 53, Page 2, Line 20, Pos (12,2)
+msgid ""
+"猫背だし、おヒゲもボーボー\\!\n"
+"いかにも不潔"
+msgstr "驼背，胡子也乱蓬蓬的\\!一看就很脏"
+
+#. ID 53, Page 2, Line 22, Pos (12,2)
+msgid "稀に\\C[2]ネコミミアーマー\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]猫耳铠甲\\C[0]"

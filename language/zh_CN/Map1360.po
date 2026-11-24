@@ -1,0 +1,243 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (11,19)
+msgid "アイテム……"
+msgstr "道具……"
+
+#. ID 3, Page 1, Line 9, Pos (11,19)
+msgid "…………"
+msgstr "…………"
+
+#. ID 4, Page 1, Line 3, Pos (12,10)
+msgid ""
+"人間でも良い\n"
+"泊まりたいなら泊まっていきな"
+msgstr "就算你是人类也没关系，想留宿的话就住下吧"
+
+#. ID 4, Page 1, Line 18, Pos (12,10)
+msgid ""
+"地獄の沙汰も金次第と言うだろう\\!\n"
+"この魔界でも金なんだよ"
+msgstr "俗话说有钱能使鬼推磨\\!在这个魔界也是金钱至上啊"
+
+#. ID 4, Page 1, Line 26, Pos (12,10)
+msgid ""
+"その部屋は泊まれない\\!\n"
+"触手が繁殖して埋め尽くされちまったんだ"
+msgstr "那间房不能住\\!触手繁殖起来把它塞满了"
+
+#. ID 8, Page 2, Line 3, Pos (34,6)
+msgid ""
+"ゲートクリスタルはこの魔界でも貴重品だ\\!\n"
+"余ってたら交換してくれよ"
+msgstr ""
+"门水晶在这个魔界也是贵重品\\!如果有多余的\n"
+"就跟我交换吧"
+
+#. ID 8, Page 2, Line 91, Pos (34,6)
+msgid ""
+"ゲートクリスタル必要数：\\V[781]\n"
+"ゲートクリスタル所持数：\\V[1665]"
+msgstr "所需门水晶数：\\V[781]持有门水晶数：\\V[1665]"
+
+#. ID 8, Page 2, Line 93, Pos (34,6)
+#. Contains choice at line 2 (2 options)
+msgid "交換しますか？"
+msgstr "要交换吗？"
+
+#. ID 8, Page 2, Line 94, Pos (34,6)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 4, Pos (0,21)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 1, Line 4, Pos (0,22)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 4, Pos (0,23)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 8, Page 2, Line 107, Pos (34,6)
+msgid "ゲートクリスタルが足りないぞ"
+msgstr "门水晶不够啊"
+
+#. ID 9, Page 1, Line 3, Pos (26,9)
+msgid ""
+"こういう本来辿り着けない場所にある会話イベント\n"
+"好き"
+msgstr "我喜欢这种位于本来无法抵达之处的对话事件"
+
+#. ID 14, Page 1, Line 3, Pos (7,12)
+msgid ""
+"ブヒーブヒー\\!\n"
+"フゴゴフゴ"
+msgstr "哼——哼——\\!弗戈戈弗戈"
+
+#. ID 15, Page 1, Line 3, Pos (18,23)
+msgid "人間を見たら驚くと思ったかい？"
+msgstr "你以为我看到人类会吃惊吗？"
+
+#. ID 15, Page 1, Line 4, Pos (18,23)
+msgid ""
+"魔族の寿命は長い\\!\n"
+"1万年前に会った奴も、昨日会った奴も同じ他人だ"
+msgstr ""
+"魔族的寿命很长\\!一万年前见过的家伙，\n"
+"和昨天见过的家伙，都同样是他人"
+
+#. ID 15, Page 2, Line 3, Pos (18,23)
+msgid "サタナエルも死んじまったか……"
+msgstr "萨塔纳艾尔也死了吗……"
+
+#. ID 15, Page 2, Line 8, Pos (18,23)
+msgid ""
+"俺はこう見えても\n"
+"かなり最初の頃に生み出されたんだ"
+msgstr "别看我这样，我可是在相当早期就被创造出来的"
+
+#. ID 15, Page 2, Line 10, Pos (18,23)
+msgid ""
+"サタナエルはいい奴だったよ\\!\n"
+"あの頃は平和だったなぁ"
+msgstr "萨塔纳艾尔是个好家伙啊\\!那时候真和平啊"
+
+#. ID 16, Page 1, Line 3, Pos (37,7)
+msgid ""
+"初めて倒したモンスターって何だ？\\!\n"
+"俺か？"
+msgstr "你第一次打倒的魔物是什么？\\!我吗？"
+
+#. ID 17, Page 1, Line 3, Pos (39,7)
+msgid "ニョローン"
+msgstr "尼约隆"
+
+#. ID 17, Page 1, Line 4, Pos (39,7)
+msgid ""
+"じぇんじぇん不思議じゃないダンジョンで\n"
+"お会いしましたっけ？\\!\n"
+"お久しぶりです"
+msgstr "我们是在完全不神秘的地下城里见过吧？\\!好久不见"
+
+#. ID 18, Page 1, Line 4, Pos (37,21)
+msgid ""
+"や！\\!また会ったね\\!\n"
+"コソっとついて来たんだ"
+msgstr "呀！\\!又见面了呢\\!你偷偷跟过来了啊"
+
+#. ID 18, Page 1, Line 11, Pos (37,21)
+msgid "いよいよだね……"
+msgstr "终于到这一步了呢……"
+
+#. ID 18, Page 1, Line 12, Pos (37,21)
+msgid "ここから北に行くと\\C[2]魔王宮\\C[0]だよ"
+msgstr "从这里往北走就是\\C[2]魔王宫\\C[0]哦"
+
+#. ID 18, Page 1, Line 14, Pos (37,21)
+msgid ""
+"大丈夫だって！\\!\n"
+"君ならなんとかなるよ！"
+msgstr "没问题的！\\!你的话总会有办法的！"
+
+#. ID 18, Page 1, Line 16, Pos (37,21)
+msgid "がんばろがんばろ！"
+msgstr "加油吧加油吧！"
+
+#. ID 18, Page 1, Line 22, Pos (37,21)
+msgid "◆魔王宮　の情報を得た！"
+msgstr "◆获得了魔王宫　的情报！"
+
+#. ID 18, Page 2, Line 5, Pos (37,21)
+msgid "なんだか途方もない話"
+msgstr "总觉得是件非同寻常的事"
+
+#. ID 18, Page 2, Line 7, Pos (37,21)
+msgid "わたし達はまだまだ頑張るよ"
+msgstr "我们还会继续努力的"
+
+#. ID 18, Page 2, Line 8, Pos (37,21)
+msgid ""
+"魔族との共生？それとも戦争？\\!\n"
+"まだ分からないけど\n"
+"平和な日が来るって信じてる"
+msgstr ""
+"与魔族共存？还是战争？\\!虽然还不知道，\n"
+"但我相信和平的日子会到来"
+
+#. ID 18, Page 2, Line 14, Pos (37,21)
+msgid "や！\\!また会ったね"
+msgstr "呀！\\!又见面了呢"
+
+#. ID 18, Page 2, Line 18, Pos (37,21)
+#. Choice (2 options)
+msgid ""
+"\\>ブツは何だい？\n"
+"\\>特になし"
+msgstr ""
+"\\>有什么东西？\n"
+"\\>没什么特别的"
+
+#. ID 18, Page 2, Line 77, Pos (37,21)
+msgid ""
+"じゃあね\n"
+"しっかりやれよ、相棒！"
+msgstr "再见，好好干啊，搭档！"
+
+#. ID 18, Page 2, Line 238, Pos (37,21)
+#. ID 18, Page 2, Line 257, Pos (37,21)
+msgid ""
+"じゃあね\n"
+"悪い奴に気をつけろよ！"
+msgstr "再见，小心坏家伙啊！"
+
+#. ID 19, Page 1, Line 3, Pos (0,21)
+#. Contains choice at line 2 (2 options)
+#. ID 20, Page 1, Line 3, Pos (0,22)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 3, Pos (0,23)
+#. Contains choice at line 2 (2 options)
+msgid "街の外に出ますか？"
+msgstr "要离开城镇吗？"
+
+#. ID 22, Page 1, Line 3, Pos (28,21)
+msgid "ずーーーーーーっと昔に人間を見かけたことがあるな"
+msgstr "很久————以前我见过人类呢"
+
+#. ID 22, Page 1, Line 4, Pos (28,21)
+msgid ""
+"英雄と呼ばれていたらしいが、石像にされちまった\\!\n"
+"人間なんてこんなものよ"
+msgstr ""
+"好像曾被称为英雄，\n"
+"结果被变成石像了\\!人类也就是这么回事啦"
+
+#. ID 23, Page 2, Line 2, Pos (29,5)
+msgid "現在の進行度：\\V[1485]"
+msgstr "当前进度：\\V[1485]"
+
+#. ID 23, Page 2, Line 3, Pos (29,5)
+#. Choice (4 options)
+msgid ""
+"進行度の変更\n"
+"ゲートクリスタル入手\n"
+"\n"
+"終わり"
+msgstr ""
+"更改进度\n"
+"获得门水晶\n"
+"\n"
+"结束"

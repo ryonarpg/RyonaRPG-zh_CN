@@ -1,0 +1,744 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (9,8)
+msgid "＊ ロイヤルスイート ＊"
+msgstr "＊ 皇家套房 ＊"
+
+#. ID 4, Page 1, Line 3, Pos (11,8)
+msgid "＊ スイートルーム ＊"
+msgstr "＊ 套房 ＊"
+
+#. ID 5, Page 1, Line 3, Pos (13,8)
+msgid "＊ エコノミー ＊"
+msgstr "＊ 经济房 ＊"
+
+#. ID 5, Page 1, Line 4, Pos (13,8)
+#. Contains choice at line 2 (2 options)
+msgid "各種オプション設定部屋"
+msgstr "各种选项设置房间"
+
+#. ID 5, Page 1, Line 5, Pos (13,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"入る\n"
+"入らない"
+msgstr ""
+"进入\n"
+"不进入"
+
+#. ID 6, Page 1, Line 6, Pos (15,8)
+#. Contains choice at line 2 (1 options)
+#. ID 6, Page 1, Line 21, Pos (15,8)
+msgid "＊ 簡易寝台 ＊"
+msgstr "＊ 简易床铺 ＊"
+
+#. ID 6, Page 1, Line 8, Pos (15,8)
+#. Choice (1 options, embedded in a message)
+msgid "ボイス設定"
+msgstr "语音设置"
+
+#. ID 6, Page 1, Line 23, Pos (15,8)
+#. Choice (4 options)
+msgid ""
+"キャラクター変更\n"
+"キャラクター閲覧\n"
+"全キャラクターデータの削除\n"
+"ボイス設定"
+msgstr ""
+"角色变更\n"
+"角色查看\n"
+"删除全部角色数据\n"
+"语音设置"
+
+#. ID 7, Page 1, Line 3, Pos (17,8)
+msgid "＊ 精神と時の部屋 ＊"
+msgstr "＊ 精神与时间之屋 ＊"
+
+#. ID 7, Page 1, Line 4, Pos (17,8)
+#. Contains choice at line 2 (2 options)
+msgid "＠アビリティを習得しますか？"
+msgstr "＠要习得能力吗？"
+
+#. ID 7, Page 1, Line 5, Pos (17,8)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 3, Line 18, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 4, Pos (14,12)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 1, Line 4, Pos (10,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 8, Page 1, Line 4, Pos (6,7)
+msgid ""
+"今空いてるのはこれだけだよ。\n"
+"どの部屋にするね？"
+msgstr "现在空着的只有这些哦。要哪间房呢？"
+
+#. ID 8, Page 1, Line 14, Pos (6,7)
+msgid ""
+"金がないのかい…\n"
+"\\.こっちも商売だからね。金がなきゃ\n"
+"部屋を貸してはやれないよ。"
+msgstr ""
+"没钱吗……\\.我这边也是做生意嘛。\n"
+"没钱的话可不能把房间租给你哦。"
+
+#. ID 8, Page 1, Line 17, Pos (6,7)
+#. ID 8, Page 1, Line 30, Pos (6,7)
+msgid ""
+"ま、どうしても休みたいなら\n"
+"\\c[4]夜になってから\\c[0]2階のメイドに頼めば\n"
+"ただで休ませてもらえるだろうけど、ね…"
+msgstr ""
+"嘛，如果无论如何都想休息的话，\n"
+"\\c[4]入夜之后\\c[0]去求二楼的女仆，\n"
+"也许就能免费让你休息，不过呢……"
+
+#. ID 8, Page 1, Line 27, Pos (6,7)
+msgid ""
+"その部屋は満室だよ？\n"
+"これでも結構繁盛してるのさ。\n"
+"金があるやつにしか部屋は貸せないよ。"
+msgstr ""
+"那间房已经满房了哦？别看我这样，\n"
+"生意还挺兴隆的。房间只能租给有钱的家伙哦。"
+
+#. ID 8, Page 2, Line 11, Pos (6,7)
+msgid ""
+"ムチャすんなって言っただろ。\n"
+"おとなしく上で寝てな。"
+msgstr "别胡闹，我说过了吧。乖乖到上面睡吧。"
+
+#. ID 8, Page 3, Line 12, Pos (6,7)
+msgid ""
+"ああ、あんたかい。\n"
+"部屋は二階の奥の部屋を使いな"
+msgstr "啊，是你啊。房间就用二楼里面那间吧"
+
+#. ID 8, Page 3, Line 16, Pos (6,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ああ、あんたかい。どうだい、\n"
+"泊まる場所はあるのかい？"
+msgstr "啊，是你啊。怎么样，有住的地方吗？"
+
+#. ID 8, Page 3, Line 20, Pos (6,7)
+msgid "そうかい、困ったらまたおいでよ"
+msgstr "这样啊，有困难的话再来吧"
+
+#. ID 8, Page 3, Line 24, Pos (6,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"うちで拾ったのも何かの縁だ、しばらく\n"
+"泊まっていかないかい？"
+msgstr ""
+"既然是我家捡到的也算某种缘分，\n"
+"要不要暂住一阵子？"
+
+#. ID 8, Page 3, Line 26, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"よろしくおねがいします\n"
+"せっかくですが・・・"
+msgstr ""
+"请多关照\n"
+"难得您的好意，不过……"
+
+#. ID 8, Page 3, Line 28, Pos (6,7)
+msgid ""
+"なら、二階の奥の部屋を使いな\n"
+"朝食は無しだよ"
+msgstr "那么，就用二楼里面那间房吧。没有早餐哦"
+
+#. ID 8, Page 3, Line 33, Pos (6,7)
+msgid "そう、なら気をつけて行きな"
+msgstr "这样啊，那就路上小心"
+
+#. ID 8, Page 5, Line 12, Pos (6,7)
+#. ID 8, Page 6, Line 12, Pos (6,7)
+msgid "おはよう。昨夜はよく眠れたかい？"
+msgstr "早上好。昨晚睡得好吗？"
+
+#. ID 8, Page 6, Line 15, Pos (6,7)
+msgid "\\s[2]ふッ！？・・・ん・・・・"
+msgstr "\\s[2]呼！？……嗯……"
+
+#. ID 8, Page 6, Line 16, Pos (6,7)
+msgid ""
+"いや、なんでもないよ\n"
+"気にしないでおくれ"
+msgstr "不，没什么。别在意"
+
+#. ID 8, Page 10, Line 9, Pos (6,7)
+msgid ""
+"あんた……\n"
+"\\.何て格好してるんだい……？"
+msgstr "你……\\.怎么这副打扮……？"
+
+#. ID 8, Page 10, Line 15, Pos (6,7)
+msgid ""
+"やれやれ…\n"
+"あんた、飼い主はいないのかい？"
+msgstr "哎呀哎呀……你，没有主人吗？"
+
+#. ID 8, Page 10, Line 19, Pos (6,7)
+msgid ""
+"…しょうがないねえ。\n"
+"外の犬小屋は今誰も使ってないから、\n"
+"そこで飼ってやろうか？"
+msgstr ""
+"……真拿你没办法。外面的狗屋现在没人用，\n"
+"要不要就在那里养你？"
+
+#. ID 8, Page 10, Line 22, Pos (6,7)
+#. Choice (2 options)
+msgid ""
+"わんわん！\n"
+"…"
+msgstr ""
+"汪汪！\n"
+"……"
+
+#. ID 8, Page 10, Line 24, Pos (6,7)
+msgid ""
+"分かったよ。\n"
+"それじゃあ、名札でもつけてやろうかね。"
+msgstr "明白了。那么，就给你挂个名牌吧。"
+
+#. ID 8, Page 10, Line 32, Pos (6,7)
+msgid "「\\N[\\V[6]]」とかいてあるなふだをもらった。"
+msgstr "收到了写着「\\N[\\V[6]]」的名牌。"
+
+#. ID 8, Page 10, Line 37, Pos (6,7)
+msgid ""
+"それじゃあ、表に行きな。\n"
+"今日からはあの小屋で寝るんだよ。"
+msgstr "那么，到外面去吧。从今天起就睡那间小屋哦。"
+
+#. ID 8, Page 10, Line 42, Pos (6,7)
+msgid ""
+"こうして\\N[\\V[6]]は\n"
+"RAYONの宿屋で飼われることになった。"
+msgstr "就这样，\\N[\\V[6]]被RAYON的旅店收养了。"
+
+#. ID 8, Page 10, Line 59, Pos (6,7)
+msgid "なんだい、やっぱり野良がいいのかい？"
+msgstr "怎么了，果然还是当流浪狗好吗？"
+
+#. ID 8, Page 10, Line 64, Pos (6,7)
+msgid ""
+"犬は泊まる事ができないよ…\n"
+"\n"
+"ああ、犬小屋に行ってみるといいよ"
+msgstr "狗不能住宿哦……啊，去狗屋看看就好"
+
+#. ID 8, Page 11, Line 8, Pos (6,7)
+msgid ""
+"こらこら、あんたの寝床は外の小屋だよ。\n"
+"客の邪魔になるからね。"
+msgstr "喂喂，你的床是外面的小屋哦。会妨碍客人的。"
+
+#. ID 8, Page 12, Line 12, Pos (6,7)
+msgid ""
+"あんた、その首輪……\n"
+"\\.一体、何をしたんだい？"
+msgstr "你，那个项圈……\\.到底做了什么？"
+
+#. ID 8, Page 12, Line 16, Pos (6,7)
+msgid ""
+"あんた、その格好……\n"
+"\\.一体、何をしたんだい？"
+msgstr "你，那身打扮……\\.到底做了什么？"
+
+#. ID 8, Page 12, Line 20, Pos (6,7)
+msgid ""
+"すまないけれど、\n"
+"普通の部屋は、店の評判に関わるから\n"
+"奴隷には使わせてあげられないんだよ…"
+msgstr ""
+"抱歉，普通房间关系到店的声誉，\n"
+"所以不能让奴隶使用……"
+
+#. ID 8, Page 12, Line 23, Pos (6,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"犬小屋で良ければ、タダで泊めてあげられるけど、\n"
+"それでも、いいかね…？"
+msgstr ""
+"如果狗屋也可以的话，能免费让你住，不过，\n"
+"这样可以吗……？"
+
+#. ID 8, Page 12, Line 25, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"……はい……\n"
+"そ…そんな……"
+msgstr ""
+"……好……\n"
+"那…那种事……"
+
+#. ID 8, Page 12, Line 27, Pos (6,7)
+#. ID 8, Page 12, Line 119, Pos (6,7)
+msgid "すまないね……"
+msgstr "抱歉啊……"
+
+#. ID 8, Page 12, Line 29, Pos (6,7)
+msgid ""
+"せめて、寝床くらいは\n"
+"きっちりするから、勘弁しておくれよ。"
+msgstr "至少床铺我会给你弄好，请见谅。"
+
+#. ID 8, Page 12, Line 49, Pos (6,7)
+msgid ""
+"…終わりを告げるはずだった奴隷としての生活。\n"
+"それから開放されることがなくなった絶望で、\n"
+"\\n[\\v[6]]は声をあげて泣いた。"
+msgstr ""
+"本应宣告结束的奴隶生活。\n"
+"由于再也无法从中获得解放的绝望，\n"
+"\\n[\\v[6]]放声大哭。"
+
+#. ID 8, Page 12, Line 55, Pos (6,7)
+msgid ""
+"…借金は返し終えた。\n"
+"ようやくこんな生活から脱出できることに\n"
+"安堵しながら、\\n[\\v[6]]は犬小屋で眠りについた。"
+msgstr ""
+"……负债已经还清了。终于能从这种生活中逃脱，\n"
+"\\n[\\v[6]]一边为此感到安心，\n"
+"一边在狗屋中睡去了。"
+
+#. ID 8, Page 12, Line 63, Pos (6,7)
+msgid ""
+"\\N[\\V[6]]は、犬小屋の藁の中で\n"
+"必死に涙をこらえていた。\n"
+"心まで堕ちないために。"
+msgstr ""
+"\\N[\\V[6]]在狗屋的稻草中拼命忍住眼泪。\n"
+"为了不让心也堕落。"
+
+#. ID 8, Page 12, Line 68, Pos (6,7)
+msgid ""
+"＊……\\N[\\V[6]]は、犬小屋の汚れきった藁の中で\n"
+"一人声もなく泣いた…"
+msgstr ""
+"＊……\n"
+"\\N[\\V[6]]在狗窝里脏透了的稻草中独自无声地哭泣…"
+
+#. ID 8, Page 12, Line 76, Pos (6,7)
+#. ID 13, Page 1, Line 3, Pos (2,11)
+msgid "………"
+msgstr "………"
+
+#. ID 8, Page 12, Line 101, Pos (6,7)
+msgid ""
+"＊………無理な場所で寝たせいか、\n"
+"身体のあちこちが痛む。"
+msgstr "＊………也许是因为睡在别扭的地方，身体到处都疼。"
+
+#. ID 8, Page 12, Line 104, Pos (6,7)
+msgid "＊体力はあまり回復していないようだ…"
+msgstr "＊体力似乎没有恢复多少…"
+
+#. ID 8, Page 12, Line 109, Pos (6,7)
+msgid "＊体力はほとんど回復していないようだ…"
+msgstr "＊体力似乎几乎没有恢复…"
+
+#. ID 8, Page 13, Line 27, Pos (6,7)
+msgid ""
+"誰かを助けたはずだけど\n"
+"誰を助けたのかわからなくなったって？\n"
+"幻でも見たんじゃないのかい。"
+msgstr ""
+"你说你明明救了谁，却不知道救了谁？\n"
+"是不是看到幻觉了。"
+
+#. ID 8, Page 13, Line 75, Pos (6,7)
+msgid "黄金像とはこれまた豪勢だねえ……"
+msgstr "黄金像啊，这还真是豪华……"
+
+#. ID 8, Page 13, Line 76, Pos (6,7)
+msgid ""
+"あん？　これが\\n[\\v[535]]？\n"
+"たちの悪い冗談だね。\n"
+"ただのインテリアじゃないか。"
+msgstr ""
+"嗯？　这就是\\n[\\v[535]]？真是恶劣的玩笑。\n"
+"不就是个摆设吗。"
+
+#. ID 8, Page 13, Line 83, Pos (6,7)
+#. ID 8, Page 13, Line 103, Pos (6,7)
+msgid ""
+"＊……これが\\n[\\v[535]]だとは、\n"
+"やはり信じてもらえないようだ。"
+msgstr "＊……看来果然还是不能相信这就是\\n[\\v[535]]。"
+
+#. ID 8, Page 13, Line 85, Pos (6,7)
+msgid ""
+"＊なんとかして元に戻す方法はないだろうか？\n"
+"あの遺跡の中なら、\n"
+"方法を知っている人物がいるんじゃないか？"
+msgstr ""
+"＊难道没有什么办法能设法恢复原状吗？\n"
+"若是在那座遗迹里，说不定会有知道方法的人？"
+
+#. ID 8, Page 13, Line 96, Pos (6,7)
+msgid "なんだい、これは？"
+msgstr "这是什么啊？"
+
+#. ID 8, Page 13, Line 97, Pos (6,7)
+msgid ""
+"彼女？　たちの悪い冗談だね。\n"
+"ただの壊れたガラクタ人形じゃないか。"
+msgstr ""
+"她？　真是恶劣的玩笑。\n"
+"不就是个坏掉的破烂人偶吗。"
+
+#. ID 8, Page 13, Line 105, Pos (6,7)
+msgid ""
+"＊なんとかして元に戻す方法はないだろうか？\n"
+"あの研究所の人間なら、あるいは？"
+msgstr ""
+"＊难道没有什么办法能设法恢复原状吗？\n"
+"若是那个研究所的人，说不定？"
+
+#. ID 8, Page 13, Line 114, Pos (6,7)
+msgid "こいつは、ひどいね…"
+msgstr "这家伙，真惨啊…"
+
+#. ID 8, Page 13, Line 115, Pos (6,7)
+msgid ""
+"わかった。\n"
+"この子は預かっておくよ。"
+msgstr "明白了。这个孩子我就先收下了。"
+
+#. ID 13, Page 1, Line 4, Pos (2,11)
+msgid "…ｸｽ"
+msgstr "……噗嗤"
+
+#. ID 13, Page 2, Line 9, Pos (2,11)
+#. ID 13, Page 3, Line 4, Pos (2,11)
+msgid "……"
+msgstr "……"
+
+#. ID 13, Page 2, Line 19, Pos (2,11)
+#. ID 13, Page 2, Line 81, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「キャン！！"
+msgstr "【\\N[\\V[6]]】「汪！！"
+
+#. ID 13, Page 2, Line 29, Pos (2,11)
+#. ID 13, Page 2, Line 61, Pos (2,11)
+#. ID 13, Page 2, Line 91, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「ぅぐ…キャイン！"
+msgstr "【\\N[\\V[6]]】「呜咕…汪呜！"
+
+#. ID 13, Page 2, Line 49, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「キャン！！！"
+msgstr "【\\N[\\V[6]]】「汪！！！"
+
+#. ID 13, Page 2, Line 133, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「くぅん！くぅん！"
+msgstr "【\\N[\\V[6]]】「呜嗯！呜嗯！"
+
+#. ID 13, Page 2, Line 154, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「！！！！！！"
+msgstr ""
+"【\\N[\\V[6]]】\n"
+"「！！！！！！"
+
+#. ID 13, Page 2, Line 164, Pos (2,11)
+#. ID 13, Page 3, Line 168, Pos (2,11)
+msgid "……\\!……\\!……\\!……\\!……\\!……\\!……\\!……\\!……\\!"
+msgstr "……\\!……\\!……\\!……\\!……\\!……\\!……\\!……\\!……\\!"
+
+#. ID 13, Page 2, Line 184, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「\\!………ハッハッ！…………"
+msgstr "【\\N[\\V[6]]】「\\!………哈、哈！…………"
+
+#. ID 13, Page 3, Line 14, Pos (2,11)
+#. ID 13, Page 3, Line 82, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「きゃあ！！！\n"
+"　\\!鎖を引っ張らないでください！"
+msgstr "【\\N[\\V[6]]】「呀啊！！！　\\!请不要拉锁链！"
+
+#. ID 13, Page 3, Line 25, Pos (2,11)
+#. ID 13, Page 3, Line 93, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「カハァ！……痛い………\n"
+"　鎖で首が絞まるんです！\n"
+"　放してください！！"
+msgstr ""
+"【\\N[\\V[6]]】「咳哈！……好痛………\n"
+"　锁链勒住脖子了！　请放开我！！"
+
+#. ID 13, Page 3, Line 47, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「きゃあ！！！\n"
+"　\\!何をするんですか！"
+msgstr "【\\N[\\V[6]]】「呀啊！！！　\\!你在做什么！"
+
+#. ID 13, Page 3, Line 60, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「カハァ！……痛い………\n"
+"　首が絞まります！\n"
+"　鎖を放してください！！"
+msgstr ""
+"【\\N[\\V[6]]】「咳哈！……好痛………　脖子被勒住了！\n"
+"　请放开锁链！！"
+
+#. ID 13, Page 3, Line 137, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「な、何をするつもりですか！！"
+msgstr "【\\N[\\V[6]]】「你、你打算做什么！！"
+
+#. ID 13, Page 3, Line 158, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「嫌ぁぁぁ！！！！！！"
+msgstr "【\\N[\\V[6]]】「不要啊啊啊啊！！！！！！"
+
+#. ID 13, Page 3, Line 188, Pos (2,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「\\!………はぁ\\!………はぁ\\!…………\\!…………"
+msgstr "【\\N[\\V[6]]】「\\!………哈啊\\!………哈啊\\!…………\\!…………"
+
+#. ID 14, Page 1, Line 3, Pos (4,11)
+msgid "ｿﾜｿﾜ……"
+msgstr "坐立不安……"
+
+#. ID 14, Page 2, Line 7, Pos (4,11)
+msgid "ﾅﾃﾞﾅﾃﾞ"
+msgstr "抚摸抚摸"
+
+#. ID 14, Page 3, Line 3, Pos (4,11)
+msgid "ﾄﾞｷﾄﾞｷ……"
+msgstr "扑通扑通……"
+
+#. ID 14, Page 4, Line 3, Pos (4,11)
+msgid ""
+"ﾌﾞｰｯ！\n"
+"\\.……ﾊｧﾊｧ"
+msgstr ""
+"呼——！\n"
+"\\.……哈啊哈啊"
+
+#. ID 15, Page 1, Line 3, Pos (13,11)
+msgid "…ト…トイレはどこだッ！"
+msgstr "…厕…厕所在哪里！"
+
+#. ID 15, Page 1, Line 4, Pos (13,11)
+msgid ""
+"右端の部屋は\\>\\c[2]アビリティの習得\\c[0]\\<でッ！\n"
+"その隣の部屋は\\>\\c[2]キャラ変更\\c[0]\\<の部屋ッ！\n"
+"そして三番目の部屋は\\>\\c[2]オプション設定\\c[0]\\<の部屋だがッ！"
+msgstr ""
+"最右端的房间是\\>\\c[2]能力习得\\c[0]\\<！\n"
+"旁边那间房是\\>\\c[2]角色变更\\c[0]\\<的房间！\n"
+"然后第三间房是\\>\\c[2]选项设置\\c[0]\\<的房间！"
+
+#. ID 15, Page 1, Line 7, Pos (13,11)
+msgid ""
+"\n"
+"俺が探しているのはッ！トイレなんだッ！"
+msgstr "我要找的是！厕所啊！"
+
+#. ID 15, Page 1, Line 13, Pos (13,11)
+msgid ""
+"ん？犬？\n"
+"よし！そこらで用をたしてこの犬がしたことにすれば！"
+msgstr ""
+"嗯？狗？好！就在那附近解决，\n"
+"然后当作是这只狗干的就行！"
+
+#. ID 15, Page 1, Line 20, Pos (13,11)
+msgid ""
+"ん？猫？\n"
+"よし！そこらで用をたしてこの猫がしたことにすれば！"
+msgstr ""
+"嗯？猫？好！就在那附近解决，\n"
+"然后当作是这只猫干的就行！"
+
+#. ID 15, Page 1, Line 22, Pos (13,11)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"………"
+msgstr ""
+"【\\N[\\V[6]]】\n"
+"………"
+
+#. ID 15, Page 1, Line 27, Pos (13,11)
+msgid ""
+"いってええ！！？\\!\n"
+"冗談！冗談だよお！！"
+msgstr "好痛啊啊！！？\\!玩笑！是开玩笑的啦！！"
+
+#. ID 16, Page 1, Line 3, Pos (14,12)
+#. Contains choice at line 2 (2 options)
+msgid "おかみさん、綺麗だろう？"
+msgstr "老板娘，很漂亮吧？"
+
+#. ID 16, Page 2, Line 3, Pos (14,12)
+msgid "ｽﾔｽﾔ･･･"
+msgstr "呼呼・・・"
+
+#. ID 16, Page 3, Line 3, Pos (14,12)
+msgid "やあ、おはよう。"
+msgstr "哎呀，早上好。"
+
+#. ID 16, Page 3, Line 4, Pos (14,12)
+msgid "もうこの村には馴染んだかい？"
+msgstr "已经习惯这个村子了吗？"
+
+#. ID 17, Page 1, Line 6, Pos (8,9)
+msgid ""
+"あっ、おはようございます\\c[11]$k\\c[0]\n"
+"\\.昨晩はよく眠れましたか？"
+msgstr "啊，早上好\\c[11]$k\\c[0]\\.昨晚睡得好吗？"
+
+#. ID 17, Page 1, Line 10, Pos (8,9)
+msgid ""
+"いつでも私の所にきてくださいね？\\!\n"
+"\\N[\\V[6]]さんが猫さんでも\n"
+"私はいつでも可愛がってあげますから♪"
+msgstr ""
+"随时都可以来我这儿哦？\n"
+"\\!\\N[\\V[6]]就算你变成猫猫，我也会随时疼爱你的♪"
+
+#. ID 17, Page 1, Line 15, Pos (8,9)
+msgid ""
+"疲れた時は、無理せずに\n"
+"私の部屋に来てくださいね♪\n"
+"\\.精一杯、ご奉仕しますから……\\c[11]$k"
+msgstr ""
+"累的时候，不要勉强，\n"
+"来我的房间吧♪\\.我会竭尽全力侍奉您……\\c[11]$k"
+
+#. ID 19, Page 1, Line 5, Pos (17,11)
+msgid ""
+"昼と夜では、町にいる人が違うぜ。\n"
+"特定の時間でしか行けない場所とか、\n"
+"開いてない店とか、あるかもな。"
+msgstr ""
+"白天和夜晚，镇上的人会不同。\n"
+"也许有只有在特定时间才能去的地方，\n"
+"或者不开门的店。"
+
+#. ID 19, Page 1, Line 10, Pos (17,11)
+msgid "鏡を見れば、自分の容姿が確認できるぜ。"
+msgstr "看看镜子就能确认自己的容貌哦。"
+
+#. ID 19, Page 1, Line 13, Pos (17,11)
+msgid "はっ！"
+msgstr "哈！"
+
+#. ID 19, Page 1, Line 14, Pos (17,11)
+msgid ""
+"ま、また何かが俺の体をハックして、\n"
+"当たり前のことを言わせやがった…！"
+msgstr ""
+"又、又有什么东西入侵了我的身体，\n"
+"让我说出这种理所当然的话…！"
+
+#. ID 19, Page 2, Line 3, Pos (17,11)
+msgid ""
+"へへ、お嬢ちゃん…いい話があるんだがどうだ？\n"
+"なんでも使われてない工場があるらしいんだが…\n"
+"50Gでどうだ？"
+msgstr ""
+"嘿嘿，小姑娘…我有笔好买卖，怎么样？\n"
+"听说有座没人使用的工厂…50G怎么样？"
+
+#. ID 19, Page 2, Line 6, Pos (17,11)
+#. Choice (2 options)
+msgid ""
+"教えて！\n"
+"そう かんけいないね"
+msgstr ""
+"告诉我！\n"
+"不，这和我没关系。"
+
+#. ID 19, Page 2, Line 9, Pos (17,11)
+msgid "金が足りねえよ…"
+msgstr "钱不够啊…"
+
+#. ID 19, Page 2, Line 12, Pos (17,11)
+msgid "情報料として50G支払った。"
+msgstr "作为情报费支付了50G。"
+
+#. ID 19, Page 2, Line 14, Pos (17,11)
+msgid "おっ、いいねえ。オレ気にいっちゃったよ"
+msgstr "哦，不错嘛。我中意你了。"
+
+#. ID 19, Page 2, Line 15, Pos (17,11)
+msgid ""
+"その廃工場ってのはここから南東にあって\n"
+"噂によると兵器やら実験生物やらが徘徊してるらしい\n"
+"まあ行くんなら、無事を祈るぜ"
+msgstr ""
+"那座废弃工厂从这里往东南方向，听说有兵器、\n"
+"实验生物之类的在四处游荡。总之你要去的话，\n"
+"祝你好运。"
+
+#. ID 19, Page 2, Line 21, Pos (17,11)
+msgid "◆廃工場　の情報を得た！"
+msgstr "◆获得了废弃工厂　的情报！"
+
+#. ID 19, Page 2, Line 27, Pos (17,11)
+msgid "あぁ、そうか。それは残念だな"
+msgstr "啊，这样啊。那真是遗憾。"
+
+#. ID 19, Page 3, Line 3, Pos (17,11)
+msgid "zzz…"
+msgstr "zzz…"
+
+#. ID 19, Page 3, Line 4, Pos (17,11)
+msgid "……寝ている"
+msgstr "……正在睡觉"
+
+#. ID 20, Page 1, Line 3, Pos (10,9)
+#. Contains choice at line 2 (2 options)
+msgid "時間を進めるかえ？\\>\\c[10]（昼夜変更）\\c[0]"
+msgstr "要推进时间吗？\\>\\c[10]（昼夜变更）\\c[0]"
+
+#. ID 20, Page 1, Line 12, Pos (10,9)
+msgid ""
+"夜は魔物達が凶暴になる時間だから\n"
+"気をつけるんだよ・・・"
+msgstr "夜晚是魔物们变得凶暴的时间，所以要小心哦・・・"

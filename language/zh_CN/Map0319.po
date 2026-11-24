@@ -1,0 +1,80 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 3, Pos (10,7)
+msgid ""
+"はぁっ、はぁっ…はぁん……あぁん\\c[11]$k\\c[0]\n"
+"あぅ…んっ、あっ……くあぁんっ\\c[11]$k$k"
+msgstr ""
+"哈啊、哈啊…哈啊嗯……啊嗯\\c[11]$k\\c[0]啊呜…嗯、\n"
+"啊……唔啊嗯\\c[11]$k$k"
+
+#. ID 22, Page 2, Line 5, Pos (10,7)
+msgid ""
+"あぁん……いいっ\\c[11]$k\\c[0]\n"
+"おちんちん気持ちぃぃよぉぉ\\c[11]$k$k"
+msgstr ""
+"啊嗯……\n"
+"好棒\\c[11]$k\\c[0]肉棒好舒服啊啊\\c[11]$k$k"
+
+#. ID 22, Page 2, Line 7, Pos (10,7)
+msgid "あぁん……まだ出しちゃだめぇ……\\c[11]$k"
+msgstr "啊嗯……还不可以射哦……\\c[11]$k"
+
+#. ID 22, Page 2, Line 14, Pos (10,7)
+msgid "もぉう……ダメっていったのにぃ……"
+msgstr "真是的……我都说不行了嘛……"
+
+#. ID 22, Page 2, Line 15, Pos (10,7)
+msgid ""
+"じゃあ、もう一回……\n"
+"早くぅ……\\c[11]$k\\c[0]\n"
+"もっとぉいっぱいちょうだいよぉ\\c[11]$k$k"
+msgstr ""
+"那么，再来一次……快点……\n"
+"\\c[11]$k\\c[0]再多给我一些嘛\\c[11]$k$k"
+
+#. ID 23, Page 2, Line 3, Pos (11,7)
+msgid ""
+"ハハッ！　こいつすごいぜ、\n"
+"ちんぽハメられながら、\n"
+"別の男のちんぽ咥えてんだぜ！"
+msgstr ""
+"哈哈！　这家伙真厉害，一边被肉棒插着，\n"
+"一边还含着别的男人的肉棒！"
+
+#. ID 25, Page 2, Line 3, Pos (9,7)
+msgid "……うぉっ！　出るッ！"
+msgstr "……喔！　要出来了！"
+
+#. ID 26, Page 2, Line 3, Pos (10,6)
+msgid ""
+"勘違いするなよ？\n"
+"別に俺たちが何かしたわけじゃないぜ。"
+msgstr "别误会啊？我们可没做什么。"
+
+#. ID 26, Page 2, Line 5, Pos (10,6)
+msgid ""
+"コイツが自らチンポハメろ……\n"
+"っておねだりしてきたんだぜ？"
+msgstr "是这家伙自己主动求我们……把肉棒插进去的哦？"
+
+#. ID 26, Page 2, Line 7, Pos (10,6)
+msgid ""
+"こいつの旦那も旦那で、\n"
+"女にまるで見向きもしないしな。\n"
+"いわば、俺たちは善意の第三者よ。"
+msgstr ""
+"这家伙的丈夫也真是的，完全不看女人一眼。\n"
+"说起来，我们算是善意的第三者。"

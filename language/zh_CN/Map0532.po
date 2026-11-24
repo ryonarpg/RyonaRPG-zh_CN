@@ -1,0 +1,25 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 16, Page 1, Line 3, Pos (31,47)
+msgid "台所はね。そこの扉の向こうよ。"
+msgstr "厨房啊。就在那扇门后面哦。"
+
+#. ID 17, Page 1, Line 3, Pos (36,17)
+msgid "この先はペット部屋よ。"
+msgstr "前面是宠物房哦。"
+
+#. ID 20, Page 1, Line 3, Pos (7,45)
+msgid "西にある部屋は執務室よ"
+msgstr "西边的房间是执务室哦"

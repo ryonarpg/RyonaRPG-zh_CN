@@ -1,0 +1,338 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (3,6)
+msgid "掃除機らしい"
+msgstr "好像是吸尘器"
+
+#. ID 3, Page 1, Line 26, Pos (8,7)
+msgid "これ以上開発できる物がない"
+msgstr "没有更多可开发的东西了"
+
+#. ID 3, Page 1, Line 185, Pos (8,7)
+#. Contains choice at line 2 (2 options)
+msgid "開発しますか？"
+msgstr "要开发吗？"
+
+#. ID 3, Page 1, Line 186, Pos (8,7)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 4, Pos (13,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 3, Page 1, Line 281, Pos (8,7)
+msgid ""
+"タクサン開発してクダサッテ\n"
+"ありがとうゴザイマス\\!\n"
+"これはボクからのお礼デス"
+msgstr "非常感谢您开发了这么多\\!这是来自我的一点谢礼"
+
+#. ID 3, Page 2, Line 4, Pos (8,7)
+msgid ""
+"来てくれたんデスネ\\!\n"
+"お会いできてウレシイです"
+msgstr "您来了呢\\!能见到您很高兴"
+
+#. ID 3, Page 2, Line 9, Pos (8,7)
+#. Choice (4 options)
+msgid ""
+"アイテムの開発\n"
+"話をする\n"
+"いじめる\n"
+"またね"
+msgstr ""
+"开发道具\n"
+"交谈\n"
+"欺负\n"
+"再见"
+
+#. ID 3, Page 2, Line 16, Pos (8,7)
+#. Choice (4 options)
+msgid ""
+"あなたは何者？\n"
+"ここで何をしているの？\n"
+"何をしてほしいの？\n"
+"もどる"
+msgstr ""
+"你是什么人？\n"
+"在这里做什么？\n"
+"希望我做什么？\n"
+"返回"
+
+#. ID 3, Page 2, Line 18, Pos (8,7)
+msgid ""
+"ボクは性処理用アンドロイドの\n"
+"プロトタイプ、アルテルと申します\\!\n"
+"元々はとあるロボット研究所の職員デシタ"
+msgstr ""
+"我是性处理用仿生人的原型机，\n"
+"名叫阿尔特尔\\!原本是某机器人研究所的职员"
+
+#. ID 3, Page 2, Line 21, Pos (8,7)
+msgid ""
+"シカシ、研究所の悪行に我慢デキズ、\n"
+"内部告発しようとした結果\n"
+"このような姿に改造サレテしまいました"
+msgstr ""
+"但是，我无法忍受研究所的恶行，\n"
+"结果在试图内部告发后，被改造成了这副模样"
+
+#. ID 3, Page 2, Line 24, Pos (8,7)
+msgid ""
+"研究所を逃げ出して、\n"
+"今はココで隠れて生活してイマス"
+msgstr "我逃出了研究所，现在在这里隐藏着生活"
+
+#. ID 3, Page 2, Line 28, Pos (8,7)
+msgid ""
+"機械の肉体は不完全デス\\!\n"
+"生物のヨウナ自己修復機能が、備わっていません"
+msgstr ""
+"机械身体是不完整的\\!没有具备像生物那样的自我修\n"
+"复功能"
+
+#. ID 3, Page 2, Line 30, Pos (8,7)
+msgid ""
+"定期的なメンテナンスを怠れば、\n"
+"すぐに壊れてシマイマス"
+msgstr "如果怠慢定期维护，很快就会坏掉"
+
+#. ID 3, Page 2, Line 32, Pos (8,7)
+msgid ""
+"ここでは機械の体を維持するタメニ、\n"
+"ボクが独自に研究、開発をしてイマス"
+msgstr ""
+"在这里，为了维持机械身体，我正在独自进行研究、\n"
+"开发"
+
+#. ID 3, Page 2, Line 36, Pos (8,7)
+msgid ""
+"アイテム開発用の資材を集めて\n"
+"イタダキタイのです"
+msgstr "我想请您收集用于开发道具的材料"
+
+#. ID 3, Page 2, Line 38, Pos (8,7)
+msgid ""
+"もちろんタダとは言いません\\!\n"
+"開発したアイテムは提供します"
+msgstr "当然，我不会说白干\\!我会提供开发出来的道具"
+
+#. ID 3, Page 2, Line 40, Pos (8,7)
+msgid ""
+"また、アチラの自動販売機で\n"
+"コピー品を販売します\\!\n"
+"…ボクも何かとお金が必要なので…\\!\n"
+"ご理解クダサイ"
+msgstr ""
+"另外，会在那边的自动贩卖机销售复制品\\!……\n"
+"我也到处需要钱……\\!请您理解"
+
+#. ID 3, Page 2, Line 51, Pos (8,7)
+#. Choice (4 options)
+msgid ""
+"歩け\n"
+"ダンスしろ\n"
+"ヤらせろ\n"
+"もどる"
+msgstr ""
+"走\n"
+"跳舞\n"
+"让我上\n"
+"返回"
+
+#. ID 3, Page 2, Line 58, Pos (8,7)
+msgid "\\S[2]アルテル \\|歩きまわります"
+msgstr "\\S[2]阿尔特尔 \\|走来走去"
+
+#. ID 3, Page 2, Line 69, Pos (8,7)
+msgid "\\S[2]アルテル \\|ダンスをします"
+msgstr "\\S[2]阿尔特尔 \\|跳舞"
+
+#. ID 3, Page 2, Line 80, Pos (8,7)
+msgid "・\\.・\\.・\\.アルテル 性処理モード起動"
+msgstr "・\\.・\\.・\\.阿尔特尔 性处理模式启动"
+
+#. ID 3, Page 2, Line 86, Pos (8,7)
+msgid ""
+"\\S[2]アルテルは 研究所ノ皆様に逆らった\n"
+"身の程知らずでバカな変態機械デス"
+msgstr ""
+"\\S[2]阿尔特尔是不自量力反抗研究所各位的愚蠢变\n"
+"态机械"
+
+#. ID 3, Page 2, Line 88, Pos (8,7)
+msgid ""
+"\\S[2]ゴミ以下の生物トシテ、\n"
+"一生をかけて、償いをさせてイタダキマス"
+msgstr ""
+"\\S[2]作为比垃圾还不如的生物，\n"
+"请允许我用一生来赎罪"
+
+#. ID 3, Page 2, Line 90, Pos (8,7)
+msgid ""
+"\\S[2]ドウカ、皆様のおちんちんで\n"
+"お仕置きをシテクダサイ"
+msgstr "\\S[2]请各位用鸡巴惩罚我吧"
+
+#. ID 3, Page 2, Line 100, Pos (8,7)
+msgid ""
+"・\\.・\\.・\\.しかし、\\N[0]にはおちんちんがないため、\n"
+"お仕置きできなかった"
+msgstr ""
+"・\\.・\\.・\\.但是，由于\\N[0]没有鸡巴，\n"
+"所以未能惩罚"
+
+#. ID 3, Page 2, Line 108, Pos (8,7)
+msgid "ハッ　\\!ボクは一体何を！？"
+msgstr "哈　\\!我到底在做什么！？"
+
+#. ID 7, Page 1, Line 6, Pos (5,5)
+msgid ""
+"開発したアイテムがまだ無い\\!\n"
+"先にアイテムを開発しよう"
+msgstr "还没有开发出的道具\\!先开发道具吧"
+
+#. ID 8, Page 1, Line 3, Pos (13,14)
+#. Contains choice at line 2 (2 options)
+msgid "外に出ますか？"
+msgstr "要出去吗？"
+
+#. ID 18, Page 1, Line 1, Pos (3,5)
+#. Choice (1 options)
+msgid "全開発アイテムの材料を取得"
+msgstr "获取所有开发道具的材料"
+
+#. ID 19, Page 1, Line 3, Pos (4,10)
+msgid "ﾋﾟﾖﾋﾟﾖ"
+msgstr "皮哟皮哟"
+
+#. ID 19, Page 1, Line 6, Pos (4,10)
+msgid ""
+"ここだけの話\\!\n"
+"\\C[2]光のローブ\\C[0]は\n"
+"アバロソで売ってるらしいッス"
+msgstr ""
+"悄悄告诉你\\!\\C[2]光之长袍\\C[0]好像是在阿巴罗索\n"
+"卖的"
+
+#. ID 19, Page 1, Line 9, Pos (4,10)
+msgid "大都会では何でも光り輝いているんスかねぇ"
+msgstr "在大城市里，什么东西都闪闪发光吗"
+
+#. ID 19, Page 1, Line 13, Pos (4,10)
+msgid ""
+"\\C[2]聖印の弾\\C[0]は\n"
+"RAYONの墓場にある気がするッス\\!\n"
+"怪しげな看板に話かけると…？"
+msgstr ""
+"\\C[2]圣印弹\\C[0]我感觉在雷昂墓地里\\!跟可疑的招\n"
+"牌搭话的话……？"
+
+#. ID 19, Page 1, Line 16, Pos (4,10)
+msgid "ちゃんと銃も持っていくッスよ"
+msgstr "也要好好带上枪哦"
+
+#. ID 19, Page 1, Line 20, Pos (4,10)
+msgid ""
+"\\C[2]ラッキーコイン\\C[0]は\n"
+"盗賊の間でもっぱらのブームらしいッスよ"
+msgstr "\\C[2]幸运硬币\\C[0]在盗贼之间好像正流行呢"
+
+#. ID 19, Page 1, Line 22, Pos (4,10)
+msgid "そういえばRAYONの裏通りに…？"
+msgstr "说起来，雷昂后巷里……？"
+
+#. ID 19, Page 1, Line 26, Pos (4,10)
+msgid ""
+"\\C[2]ウェイトレスの服\\C[0]は\n"
+"海底神殿の人魚が持ってるッス\\!\n"
+"いかがわしいお店ででも働いてたんスかねぇ？"
+msgstr ""
+"\\C[2]女服务员服\\C[0]是海底神殿的人鱼持有的\\!她\n"
+"是不是在什么不正经的店里工作过呢？"
+
+#. ID 19, Page 1, Line 29, Pos (4,10)
+msgid ""
+"そういえば世界には亜人だけの村が\n"
+"あるらしいッスよ\\!\n"
+"そこなら\\C[2]ネコのつめ\\C[0]も…？"
+msgstr ""
+"说起来，\n"
+"世界上好像有只有亚人的村庄哦\\!在那里的话\\C[2]\n"
+"猫爪\\C[0]也……？"
+
+#. ID 19, Page 1, Line 35, Pos (4,10)
+msgid ""
+"\\C[2]霊薬\\C[0]ってなんだぁ？\\!\n"
+"岩山の洞窟の赤いゼリーが持ってるっぽいッス"
+msgstr ""
+"\\C[2]灵药\\C[0]是什么啊？\n"
+"\\!岩山山洞的红色果冻好像持有"
+
+#. ID 19, Page 1, Line 37, Pos (4,10)
+msgid ""
+"世界中で色んなところで手に入るらしいッス\\!\n"
+"でも地味にレアッス\\!\n"
+"ンゴゴゴゴゴ"
+msgstr ""
+"听说在世界各地各种地方都能得到\\!但是意外地稀有\n"
+"\\!嗯咯咯咯咯咯"
+
+#. ID 19, Page 1, Line 43, Pos (4,10)
+msgid ""
+"ドワーフの大トンネルには行ったことが\n"
+"あるッスか？"
+msgstr "你去过矮人大隧道吗？"
+
+#. ID 19, Page 1, Line 45, Pos (4,10)
+msgid ""
+"悪いことは言わねぇ\\!\n"
+"\\C[2]真夜中の目\\C[0]を多めに持っていくッス"
+msgstr "我不会害你\\!\\C[2]午夜之眼\\C[0]要多带一些"
+
+#. ID 19, Page 1, Line 47, Pos (4,10)
+msgid ""
+"\\C[2]ランタン\\C[0]も持っていくと\n"
+"パーフェクトッス"
+msgstr "\\C[2]提灯\\C[0]也带上的话就完美了"
+
+#. ID 21, Page 1, Line 3, Pos (13,7)
+msgid ""
+"協力してくれるアナタへ\\!\n"
+"アイテム開発数に応じて色々プレゼント"
+msgstr "致协助我的你\\!根据道具开发数量赠送各种礼物"
+
+#. ID 21, Page 1, Line 59, Pos (13,7)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "取得済"
+msgstr "已获取"
+
+#. ID 21, Page 1, Line 62, Pos (13,7)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "未取得"
+msgstr "未取得"
+
+#. ID 21, Page 1, Line 67, Pos (13,7)
+msgid ""
+"\\>[\\N[101]]\n"
+"\\>必要開発数:\\V[1]\n"
+"\\>\\C[2][\\N[102]]\\C[0]"
+msgstr "\\>[\\N[101]]\\>必要开发数:\\V[1]\\>\\C[2][\\N[102]]\\C[0]"

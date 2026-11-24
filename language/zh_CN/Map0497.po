@@ -1,0 +1,175 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 5, Pos (14,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"お、なんだ？\\!その腹は？\n"
+"まさか…\\!俺のガキだとか？"
+msgstr ""
+"哦，怎么了？\\!那肚子是怎么回事？难道…\n"
+"\\!是我的孩子？"
+
+#. ID 3, Page 1, Line 7, Pos (14,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 3, Page 1, Line 9, Pos (14,5)
+msgid ""
+"へえ…そうか\\!それがどうかしたのか？\n"
+"認知してほしいとでも？\n"
+"バカ言えよ。貴族の跡取りを手前みたいな\n"
+"牝ガキに生ませてたまるかよ。"
+msgstr ""
+"呵…是吗\\!那又怎样？想让我认孩子吗？\n"
+"开什么玩笑。\n"
+"我怎么可能让贵族的继承人从你这种小母狗肚子里生\n"
+"出来。"
+
+#. ID 3, Page 1, Line 13, Pos (14,5)
+msgid "ま、堕ろす時用の金ぐらいは出してやるさ"
+msgstr "算了，打胎用的钱我至少会给你出。"
+
+#. ID 3, Page 1, Line 14, Pos (14,5)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "そんで？なんか他に用があるのかい。"
+msgstr "然后呢？还有别的什么事吗？"
+
+#. ID 3, Page 1, Line 17, Pos (14,5)
+msgid ""
+"なるほどねえ。俺以外にもパトロンがいる\n"
+"のか？淫乱なメスだな。"
+msgstr ""
+"原来如此啊。除了我以外还有别的赞助人吗？\n"
+"真是淫乱的母狗啊。"
+
+#. ID 3, Page 1, Line 19, Pos (14,5)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "なんか他に用があるのか？"
+msgstr "还有别的什么事吗？"
+
+#. ID 3, Page 1, Line 24, Pos (14,5)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ヘヘへ…どうした？"
+msgstr "嘿嘿嘿…怎么了？"
+
+#. ID 3, Page 1, Line 27, Pos (14,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\n[101]"
+msgstr "\\n[101]"
+
+#. ID 3, Page 1, Line 28, Pos (14,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"お小遣いが欲しい\n"
+"もう縁を切りたい\n"
+"なんでもない"
+msgstr ""
+"想要零花钱\n"
+"想断绝关系\n"
+"没什么"
+
+#. ID 3, Page 1, Line 30, Pos (14,5)
+msgid ""
+"…\\!やってもいいがタダじゃやれんなあ。\n"
+"なにすればいいのかは分かってるよな。\n"
+"じゃあ2階へいくぞ"
+msgstr ""
+"…\\!做也可以，但不能白干。你知道要做什么吧。\n"
+"那去二楼吧"
+
+#. ID 3, Page 1, Line 48, Pos (14,5)
+msgid "それじゃあまずは奉仕してもらおうか。"
+msgstr "那么，先让你服侍一下吧。"
+
+#. ID 3, Page 1, Line 90, Pos (14,5)
+msgid "へへへ…それじゃあ挿れてやるぜ。"
+msgstr "嘿嘿嘿…那我就插进去吧。"
+
+#. ID 3, Page 1, Line 128, Pos (14,5)
+msgid "オラ、孕め！！！"
+msgstr "喂，怀孕吧！！！"
+
+#. ID 3, Page 1, Line 144, Pos (14,5)
+msgid "…\\!ほら、持ってきな"
+msgstr "…\\!喂，拿来吧"
+
+#. ID 3, Page 1, Line 148, Pos (14,5)
+msgid "10000G貰った"
+msgstr "得到了10000G"
+
+#. ID 3, Page 1, Line 167, Pos (14,5)
+msgid "そうかい…\\!なら…"
+msgstr "是吗…\\!那么…"
+
+#. ID 3, Page 1, Line 172, Pos (14,5)
+msgid ""
+"突然男はスプレーをとりだすと\n"
+"顔に吹きかけてきた。"
+msgstr "男人突然拿出喷雾，朝脸上喷了过来。"
+
+#. ID 3, Page 1, Line 178, Pos (14,5)
+msgid "素直じゃねえ娘には用はねえよ。"
+msgstr "不听话的丫头我可不需要。"
+
+#. ID 3, Page 1, Line 188, Pos (14,5)
+msgid "そうか。"
+msgstr "这样啊。"
+
+#. ID 4, Page 1, Line 8, Pos (13,5)
+msgid "あ…あ…\\!ふあ…"
+msgstr "啊…啊…\\!呼啊…"
+
+#. ID 6, Page 1, Line 8, Pos (15,5)
+msgid "あふ…\\!気持ちいいよう…"
+msgstr "啊呼…\\!好舒服啊…"
+
+#. ID 10, Page 1, Line 7, Pos (21,26)
+msgid "グス…\\!ヒック"
+msgstr "呜咽…\\!抽噎"
+
+#. ID 10, Page 1, Line 8, Pos (21,26)
+msgid "何かを必死に掻き出している。"
+msgstr "正拼命地往外抠着什么。"
+
+#. ID 11, Page 1, Line 3, Pos (16,28)
+msgid "あ…ようこそ…"
+msgstr "啊…欢迎…"
+
+#. ID 21, Page 2, Line 3, Pos (3,19)
+#. ID 22, Page 2, Line 3, Pos (2,19)
+#. ID 23, Page 2, Line 3, Pos (6,27)
+#. ID 24, Page 2, Line 3, Pos (5,27)
+#. ID 25, Page 2, Line 3, Pos (3,27)
+#. ID 26, Page 2, Line 3, Pos (2,27)
+#. ID 27, Page 2, Line 3, Pos (6,23)
+#. ID 28, Page 2, Line 3, Pos (5,23)
+#. ID 31, Page 2, Line 3, Pos (3,23)
+#. ID 32, Page 2, Line 3, Pos (2,23)
+#. ID 45, Page 2, Line 3, Pos (6,19)
+#. ID 46, Page 2, Line 3, Pos (5,19)
+msgid "ZZZ"
+msgstr "ZZZ"
+
+#. ID 34, Page 2, Line 4, Pos (1,4)
+msgid "幼い悲鳴が聞こえる"
+msgstr "能听到幼小的尖叫声"

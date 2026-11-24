@@ -1,0 +1,135 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 46, Page 2, Line 3, Pos (4,15)
+msgid ""
+"＊錆び付いたレバーがある\n"
+"　クリスタルを操作するもののようだ"
+msgstr "＊有个生锈的拉杆　似乎是用来操作水晶的"
+
+#. ID 46, Page 2, Line 5, Pos (4,15)
+#. Contains choice at line 2 (2 options)
+msgid "＊レバーを操作しますか？"
+msgstr "＊要操作拉杆吗？"
+
+#. ID 46, Page 2, Line 6, Pos (4,15)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 2, Line 6, Pos (23,3)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 2, Line 6, Pos (5,19)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 2, Line 6, Pos (31,29)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 47, Page 2, Line 3, Pos (23,3)
+#. ID 48, Page 2, Line 3, Pos (5,19)
+#. ID 49, Page 2, Line 3, Pos (31,29)
+msgid ""
+"＊錆び付いたスイッチがある\n"
+"　そのとなりには何か日付のようなものが書かれている"
+msgstr "＊有个生锈的开关　它旁边写着像是日期的东西"
+
+#. ID 47, Page 2, Line 5, Pos (23,3)
+#. Contains choice at line 2 (2 options)
+#. ID 48, Page 2, Line 5, Pos (5,19)
+#. Contains choice at line 2 (2 options)
+#. ID 49, Page 2, Line 5, Pos (31,29)
+#. Contains choice at line 2 (2 options)
+msgid "＊スイッチを操作しますか？"
+msgstr "＊要操作开关吗？"
+
+#. ID 47, Page 2, Line 15, Pos (23,3)
+#. ID 48, Page 2, Line 15, Pos (5,19)
+#. ID 49, Page 2, Line 15, Pos (31,29)
+msgid "＊……どこからともなく声が聞こえてきた"
+msgstr "＊……不知从哪里传来了声音"
+
+#. ID 47, Page 2, Line 20, Pos (23,3)
+msgid ""
+"\\S[2]「……はもうだめだ\n"
+"天変地………我々の祖国は、もう……"
+msgstr "\\S[2]「……已经不行了天变地……我们的祖国，已经……"
+
+#. ID 47, Page 2, Line 22, Pos (23,3)
+msgid "\\S[2]「ならばこの地で新たな国を……"
+msgstr "\\S[2]「那么就在这片土地上建立新的国家……"
+
+#. ID 47, Page 2, Line 27, Pos (23,3)
+#. ID 48, Page 2, Line 27, Pos (5,19)
+#. ID 49, Page 2, Line 26, Pos (31,29)
+msgid "＊……声はここで途切れている"
+msgstr "＊……声音在这里中断了"
+
+#. ID 48, Page 2, Line 20, Pos (5,19)
+msgid ""
+"\\S[2]「死の悲しみ……\n"
+"それを超え………可能だ……"
+msgstr "\\S[2]「死亡的悲伤……超越它……是可能的……"
+
+#. ID 48, Page 2, Line 22, Pos (5,19)
+msgid "\\S[2]「……自動人形………"
+msgstr "\\S[2]「……自动人偶……"
+
+#. ID 49, Page 2, Line 19, Pos (31,29)
+msgid ""
+"\\S[2]「何故理解しない………険者か何か知ら……\n"
+"自動人形は…………進んでいる"
+msgstr ""
+"\\S[2]「为什么不理解……是冒险者还是什么，\n"
+"我不知道……自动人偶…………正在前进"
+
+#. ID 49, Page 2, Line 21, Pos (31,29)
+msgid "\\S[2]「何故……大地へ戻った"
+msgstr "\\S[2]「为什么……回到了大地"
+
+#. ID 59, Page 2, Line 3, Pos (8,19)
+#. ID 64, Page 2, Line 3, Pos (10,19)
+#. ID 65, Page 2, Line 1, Pos (12,17)
+#. ID 68, Page 2, Line 3, Pos (23,31)
+#. ID 71, Page 2, Line 3, Pos (25,31)
+msgid "＊何かが入っていたらしい機械だ"
+msgstr "＊似乎是装过什么东西的机械"
+
+#. ID 72, Page 2, Line 3, Pos (14,9)
+#. ID 73, Page 2, Line 3, Pos (4,31)
+msgid ""
+"＊壊れた自動人形のようだ\n"
+"　ブツブツとうわ言を呟いている"
+msgstr "＊像是坏掉的自动人偶　正嘟嘟囔囔地说着胡话"
+
+#. ID 72, Page 2, Line 10, Pos (14,9)
+msgid "\\S[2]メモリーが……　こわれて……"
+msgstr "\\S[2]记忆……　坏掉了……"
+
+#. ID 72, Page 2, Line 11, Pos (14,9)
+msgid ""
+"\\S[2]おかしい……な……\n"
+"なんの記憶……だろ……"
+msgstr "\\S[2]奇怪……啊……是什么记忆……呢……"
+
+#. ID 72, Page 2, Line 13, Pos (14,9)
+msgid ""
+"\\S[2]……母さんの作った\n"
+"……スープが……のみたい……"
+msgstr "\\S[2]……想喝……妈妈做的……汤……"
+
+#. ID 73, Page 2, Line 9, Pos (4,31)
+msgid "\\S[2]こちらに行っては……駄目だ……"
+msgstr "\\S[2]不能……往这边去……"

@@ -1,0 +1,171 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 5, Page 1, Line 3, Pos (11,26)
+msgid "Ｚｚｚ..."
+msgstr "Zzz..."
+
+#. ID 6, Page 1, Line 3, Pos (11,23)
+#. ID 7, Page 1, Line 3, Pos (11,29)
+#. ID 13, Page 1, Line 3, Pos (19,20)
+#. ID 17, Page 1, Line 3, Pos (11,10)
+msgid ""
+"こちらは、城塞都市メルベルの領主様です。\n"
+"粗相のないようにお願いします。"
+msgstr "这位是城塞都市梅尔贝尔的领主大人。请勿失礼。"
+
+#. ID 8, Page 1, Line 3, Pos (19,29)
+msgid ""
+"第一王女様は見目麗しいし、\n"
+"領主様はうらやましいなぁ。"
+msgstr "第一王女大人容貌美丽，领主大人真让人羡慕啊。"
+
+#. ID 8, Page 1, Line 5, Pos (19,29)
+msgid ""
+"これで第二王女様も可愛らしければ\n"
+"完璧だったんだけどなぁ"
+msgstr "如果第二王女大人也可爱的话就完美了。"
+
+#. ID 9, Page 1, Line 3, Pos (5,20)
+msgid ""
+"私、夜遅くまでお掃除していることがあるんですけど\n"
+"時々変なお客様が領主様を訪ねてらっしゃるんですよね"
+msgstr ""
+"我有时候会打扫到深夜，\n"
+"不过时不时会有奇怪的客人来拜访领主大人呢"
+
+#. ID 9, Page 1, Line 5, Pos (5,20)
+msgid ""
+"それも、明け方まで帰らないし……\n"
+"何をなさっているんでしょう。"
+msgstr "而且到黎明都不回去……到底在做些什么呢。"
+
+#. ID 9, Page 1, Line 7, Pos (5,20)
+msgid ""
+"変なにおいがするし、\n"
+"ブツブツ喋っては「フヒヒ」とか言い始めるし……\n"
+"私、あまりあのお客様好きじゃないです。"
+msgstr ""
+"还有奇怪的气味，嘟嘟囔囔地说着话，\n"
+"开始发出「嘻嘻嘻」的声音……我不太喜欢那位客人。"
+
+#. ID 9, Page 1, Line 14, Pos (5,20)
+msgid "さて、お掃除お掃除、っと！"
+msgstr "那么，打扫打扫，嘿！"
+
+#. ID 10, Page 1, Line 3, Pos (11,20)
+msgid "……疲れた……"
+msgstr "……好累……"
+
+#. ID 11, Page 1, Line 3, Pos (19,26)
+msgid ""
+"用件があるなら手早くすませろ。\n"
+"ここは遊びに来るような場所じゃあない。"
+msgstr "有事的话就快点办完。这里可不是来玩的地方。"
+
+#. ID 12, Page 1, Line 3, Pos (19,23)
+msgid "こんにちは。"
+msgstr "你好。"
+
+#. ID 14, Page 1, Line 3, Pos (15,8)
+msgid "私が城塞都市メルベル、領主だ。"
+msgstr "我就是城塞都市梅尔贝尔的领主。"
+
+#. ID 14, Page 1, Line 4, Pos (15,8)
+msgid ""
+"いつの間にか魔物が侵攻していたが、\n"
+"しかしすぐに鎮圧することが出来た。"
+msgstr "不知不觉间魔物来袭，不过很快就镇压了。"
+
+#. ID 14, Page 1, Line 6, Pos (15,8)
+msgid "やはりこの都市の兵士たちの力は素晴らしい！"
+msgstr "果然这座城市的士兵们实力出色！"
+
+#. ID 15, Page 1, Line 4, Pos (17,8)
+#. ID 15, Page 2, Line 4, Pos (17,8)
+msgid ""
+"[第一王女アリシア]\n"
+"ごきげんよう。"
+msgstr "[第一王女阿莉西亚]贵安。"
+
+#. ID 15, Page 3, Line 4, Pos (17,8)
+msgid ""
+"[第一王女アリシア]\n"
+"……ごきげんよう。"
+msgstr "[第一王女阿莉西亚]……贵安。"
+
+#. ID 15, Page 3, Line 9, Pos (17,8)
+#. Contains choice at line 2 (2 options)
+msgid "＊大分疲れている様子だ……"
+msgstr "＊看起来相当疲惫……"
+
+#. ID 15, Page 3, Line 10, Pos (17,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"……大丈夫ですか？\n"
+"（立ち去る）"
+msgstr ""
+"……没事吗？\n"
+"（离开）"
+
+#. ID 15, Page 3, Line 15, Pos (17,8)
+msgid ""
+"[第一王女アリシア]\n"
+"え！？　\\.\\.え……、ええ\\!\n"
+"何でもありませんわ"
+msgstr ""
+"[第一王女阿莉西亚]诶！？　\\.\\.诶……、\n"
+"诶诶\\!没什么啦"
+
+#. ID 15, Page 3, Line 18, Pos (17,8)
+msgid ""
+"ちょっと寝不足な\n"
+"だけですから……\\.\\.\n"
+"気になさらないでください"
+msgstr "只是有点睡眠不足罢了……\\.\\.请不要在意"
+
+#. ID 16, Page 1, Line 3, Pos (2,6)
+msgid "この先は城内になります。"
+msgstr "再往前就是城内了。"
+
+#. ID 16, Page 1, Line 4, Pos (2,6)
+msgid ""
+"旅人の方や領民が入ることも禁止されては\n"
+"いませんが、あまり長居はしないでください。"
+msgstr "旅行者和领民进入也并未被禁止，但请不要久留。"
+
+#. ID 18, Page 1, Line 3, Pos (19,10)
+msgid ""
+"ああ、王女様……\n"
+"王女様の匂いくんかくんか"
+msgstr "啊，王女大人……王女大人的气味，嗅啊嗅"
+
+#. ID 18, Page 1, Line 6, Pos (19,10)
+msgid ""
+"……む\\!\n"
+"そこはかとなく生臭い香り……"
+msgstr "……嗯\\!隐隐约约有一股腥味……"
+
+#. ID 19, Page 1, Line 3, Pos (25,29)
+msgid ""
+"うーん……\n"
+"元々私は騎士だったはずなのに……\n"
+"何でメイドなんてしてるんだろう"
+msgstr "嗯……我本来应该是骑士的……为什么在做女仆呢"
+
+#. ID 19, Page 1, Line 6, Pos (25,29)
+msgid ""
+"でも何か……メイドをしていたほうが\n"
+"正しい、っていう気がするのよねえ……"
+msgstr "但是总觉得……做女仆才是正确的，有这样的感觉呢……"

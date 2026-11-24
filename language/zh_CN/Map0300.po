@@ -1,0 +1,82 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 5, Page 1, Line 5, Pos (7,5)
+msgid ""
+"最近は移住してくる奴隷が増えていますが……\n"
+"住む場所も無くなる心配はない、と\n"
+"兵士さんがおっしゃってました。"
+msgstr ""
+"最近移居过来的奴隶变多了……不过士兵先生说，\n"
+"不必担心会没有住的地方。"
+
+#. ID 5, Page 1, Line 8, Pos (7,5)
+msgid "新しく家を建てたりするんでしょうか？"
+msgstr "会新建房子之类的吗？"
+
+#. ID 5, Page 1, Line 13, Pos (7,5)
+msgid "２階の女兵士さんも移動になったそうです。"
+msgstr "听说二楼的女兵也调走了。"
+
+#. ID 5, Page 1, Line 18, Pos (7,5)
+msgid ""
+"２階には女兵士さんが住んでいます。\n"
+"何でも、上司の命令に逆らった罰で奴隷になったとか。"
+msgstr ""
+"二楼住着一位女兵。\n"
+"听说她是因为违抗上司命令的惩罚才成为奴隶的。"
+
+#. ID 5, Page 1, Line 23, Pos (7,5)
+msgid ""
+"だいたい、１ヶ月に１０人くらい、\n"
+"奴隷の方が新しく入居されます。"
+msgstr "大致上，每个月大约有10名奴隶新入住。"
+
+#. ID 5, Page 1, Line 28, Pos (7,5)
+msgid "兵士さんはとても親切ですよ。"
+msgstr "士兵先生非常亲切哦。"
+
+#. ID 6, Page 1, Line 3, Pos (21,7)
+msgid "今日のご飯は何にしようかな。"
+msgstr "今天的饭吃什么好呢。"
+
+#. ID 7, Page 1, Line 3, Pos (23,5)
+msgid "Ｚｚｚ..."
+msgstr "Zzz..."
+
+#. ID 13, Page 1, Line 3, Pos (29,5)
+#. Contains choice at line 2 (2 options)
+msgid "＊休みますか？"
+msgstr "＊要休息吗？"
+
+#. ID 13, Page 1, Line 4, Pos (29,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 14, Page 1, Line 3, Pos (30,3)
+msgid "＊この都市の案内地図や法規集などだ。"
+msgstr "＊这是这座城市的导览地图和法规集等。"
+
+#. ID 15, Page 1, Line 3, Pos (31,3)
+msgid "＊からっぽだ。"
+msgstr "＊是空的。"
+
+#. ID 16, Page 1, Line 3, Pos (32,3)
+msgid "＊ごく普通の厚手の作業着が入っている。"
+msgstr "＊里面装着很普通的厚工作服。"

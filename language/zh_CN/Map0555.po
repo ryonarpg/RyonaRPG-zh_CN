@@ -1,0 +1,243 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 42, Page 2, Line 3, Pos (9,11)
+msgid ""
+"女エルフ\n"
+"\\s[2]「おばけさんにぃ……\\c[11]$k\\c[0]\\c[11]$k\\c[0]\\c[11]$k\\c[0]\n"
+"　中にいっぱい出されちゃってぇ……\\c[11]$k\\c[0]\\c[11]$k"
+msgstr ""
+"女精灵\\s[2]「被妖怪先生……\n"
+"\\c[11]$k\\c[0]\\c[11]$k\\c[0]\\c[11]$k\\c[0]　被灌\n"
+"　了好多在里面……\\c[11]$k\\c[0]\\c[11]$k"
+
+#. ID 42, Page 2, Line 6, Pos (9,11)
+msgid ""
+"女エルフ\n"
+"\\s[2]「何かぁ……だいじなものぉ………\n"
+"持ってかれちゃったぁ……\\c[11]$k"
+msgstr ""
+"女精灵\\s[2]「好像……什么重要的东西……被拿走了……\n"
+"\\c[11]$k"
+
+#. ID 42, Page 2, Line 9, Pos (9,11)
+msgid ""
+"女エルフ\n"
+"\\s[2]「あたまもぉ……からだのなかもぉ……\\c[11]$k\\c[0]\n"
+"　とろとろにされちゃったあ\\c[11]$k\\c[0]\\c[11]$k"
+msgstr ""
+"女精灵\\s[2]「脑袋也……身体里面也……\n"
+"\\c[11]$k\\c[0]　被弄得融化般软绵绵的……\n"
+"　\\c[11]$k\\c[0]\\c[11]$k"
+
+#. ID 42, Page 2, Line 12, Pos (9,11)
+msgid ""
+"女エルフ\n"
+"\\s[2]「あは……\\c[11]$k\\c[0]あはははは\\c[11]$k"
+msgstr ""
+"女精灵\\s[2]「啊哈……\n"
+"\\c[11]$k\\c[0]啊哈哈哈哈\\c[11]$k"
+
+#. ID 43, Page 2, Line 3, Pos (10,9)
+msgid ""
+"魔女\n"
+"「ええい、何をする亡者共！\n"
+"　ワシに触るでない！！"
+msgstr "魔女「可恶，你们这些亡者想干什么！　别碰我！！"
+
+#. ID 43, Page 2, Line 6, Pos (10,9)
+msgid ""
+"魔女\n"
+"「放せええええ！！\n"
+"　ワシはまだ逝きとうない！！！"
+msgstr "魔女「放开我啊啊啊啊！！　我还不想死！！！"
+
+#. ID 45, Page 2, Line 3, Pos (7,14)
+msgid ""
+"らハーピィ\n"
+"「羽根……持っていかれちゃった……\n"
+"　もう………飛べないよぉ……"
+msgstr "哈比「羽毛……被拿走了……　已经………飞不了了啊……"
+
+#. ID 46, Page 2, Line 3, Pos (9,9)
+msgid ""
+"ニク…………\n"
+"　　　　ニク………イキタ………\n"
+"　　　ニク………"
+msgstr ""
+"肉…………\n"
+"　　　　肉………活………了………\n"
+"　　　肉………"
+
+#. ID 47, Page 2, Line 3, Pos (4,11)
+msgid ""
+"僧侶\n"
+"「……死せる者の魂が………\n"
+"　冥府から私を…………攫いに……"
+msgstr "僧侣「……死者的灵魂………　从冥府…………来把我掳走……"
+
+#. ID 47, Page 2, Line 6, Pos (4,11)
+msgid ""
+"僧侶\n"
+"「\\s[2]神よ………お助けください……\\!\n"
+"　たす……け…て…\\s[3]おかあ……さ……"
+msgstr ""
+"僧侣「\\s[2]神啊………请救救我……\\!　救……救…我…\n"
+"\\s[3]妈妈……妈……"
+
+#. ID 48, Page 2, Line 3, Pos (10,16)
+msgid "瀕死の少女が横たわり道を塞いでいる。"
+msgstr "濒死的少女躺在地上，挡住了道路。"
+
+#. ID 48, Page 2, Line 8, Pos (10,16)
+msgid ""
+"倒れている少女\n"
+"\\s[2]「う……いや……わたし……\n"
+"　こんなところ……で……………"
+msgstr ""
+"倒在地上的少女\\s[2]「呜……不……我……　在这种地方…\n"
+"……"
+
+#. ID 48, Page 2, Line 11, Pos (10,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"倒れている少女\n"
+"\\s[3]「だれか……助け………"
+msgstr "倒在地上的少女\\s[3]「有人……救救………"
+
+#. ID 48, Page 2, Line 17, Pos (10,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"邪魔だし片づける\n"
+"放っておく"
+msgstr ""
+"碍事，清理掉\n"
+"放着不管"
+
+#. ID 48, Page 2, Line 24, Pos (10,16)
+msgid ""
+"倒れている少女\n"
+"「\\s[2]え……ひょっとして助け………"
+msgstr "倒在地上的少女「\\s[2]诶……难道说救我………"
+
+#. ID 48, Page 2, Line 31, Pos (10,16)
+msgid ""
+"倒れている少女\n"
+"「ひっ！？"
+msgstr "倒在地上的少女「咿！？"
+
+#. ID 48, Page 2, Line 42, Pos (10,16)
+msgid "これでよし。"
+msgstr "这样就行了。"
+
+#. ID 49, Page 2, Line 3, Pos (11,9)
+#. ID 62, Page 2, Line 3, Pos (18,9)
+#. ID 65, Page 2, Line 3, Pos (1,17)
+#. ID 67, Page 2, Line 3, Pos (1,3)
+#. ID 68, Page 2, Line 3, Pos (0,4)
+msgid ""
+"　　　コッチニ…………\n"
+"　　オマエ………モ……………"
+msgstr ""
+"　　　到这边来…………\n"
+"　　你………也……………"
+
+#. ID 57, Page 2, Line 3, Pos (16,6)
+msgid "亡者に連れ去られた者の遺品だろう。"
+msgstr "是被亡灵带走之人的遗物吧。"
+
+#. ID 57, Page 2, Line 4, Pos (16,6)
+#. Contains choice at line 2 (2 options)
+#. ID 58, Page 2, Line 4, Pos (17,5)
+#. Contains choice at line 2 (2 options)
+msgid "いただきますか？"
+msgstr "要收下吗？"
+
+#. ID 57, Page 2, Line 5, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"罰当たりだ！"
+msgstr ""
+"是\n"
+"会遭报应的！"
+
+#. ID 57, Page 2, Line 10, Pos (16,6)
+msgid "みずしぶきのふくを手に入れた"
+msgstr "获得了水花服"
+
+#. ID 58, Page 2, Line 3, Pos (17,5)
+msgid "亡者に食われた者の遺品だろう。"
+msgstr "是被亡灵吃掉之人的遗物吧。"
+
+#. ID 58, Page 2, Line 5, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"バチ当たりだ！"
+msgstr ""
+"是\n"
+"会遭报应的！"
+
+#. ID 58, Page 2, Line 10, Pos (17,5)
+msgid "光のローブを手に入れた"
+msgstr "获得了光之长袍"
+
+#. ID 59, Page 2, Line 3, Pos (10,10)
+msgid ""
+"サムイ…………\n"
+"ココ………ハ…………"
+msgstr "好冷…………这里………是…………"
+
+#. ID 59, Page 2, Line 5, Pos (10,10)
+msgid ""
+"オマエ………\n"
+"　　　　アタタカイ………\n"
+"　　イッショニ……　　　　コイ…………"
+msgstr ""
+"你………　　　　好暖和………　　一起……　　　　来吧……\n"
+"　　　　……"
+
+#. ID 64, Page 2, Line 3, Pos (10,11)
+msgid ""
+"オンナ………\n"
+"　　　オンナ………！"
+msgstr ""
+"女人………\n"
+"　　　女人………！"
+
+#. ID 66, Page 2, Line 3, Pos (1,4)
+msgid ""
+"上級魔導師\n"
+"「さ……触るな亡者共！！\n"
+"　この私が……お……お前らなんかにぃ！！"
+msgstr ""
+"上级魔导师「住……别碰我，亡灵们！！　我……\n"
+"我怎么能被你们这种家伙……！！"
+
+#. ID 66, Page 2, Line 6, Pos (1,4)
+msgid ""
+"上級魔導師\n"
+"「来るな……来るなああああああああっ！！"
+msgstr "上级魔导师「别过来……别过来啊啊啊啊啊啊啊！！"
+
+#. ID 69, Page 2, Line 3, Pos (1,5)
+msgid ""
+"カワク……\n"
+"　　ノドガ………タマシ……イ……\n"
+"　　　　オンナ………"
+msgstr ""
+"好渴……\n"
+"　　喉咙………干………\n"
+"　　　　女人………"

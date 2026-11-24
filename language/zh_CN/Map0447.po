@@ -1,0 +1,394 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (8,3)
+msgid "＊ スイートルーム ＊"
+msgstr "＊ 套房 ＊"
+
+#. ID 4, Page 1, Line 3, Pos (17,3)
+msgid "＊ ロイヤルスイート ＊"
+msgstr "＊ 皇家套房 ＊"
+
+#. ID 5, Page 1, Line 3, Pos (19,23)
+msgid "＊ エコノミー ＊"
+msgstr "＊ 经济房 ＊"
+
+#. ID 6, Page 1, Line 6, Pos (8,23)
+#. Contains choice at line 2 (1 options)
+#. ID 6, Page 1, Line 21, Pos (8,23)
+msgid "＊ 簡易寝台 ＊"
+msgstr "＊ 简易床铺 ＊"
+
+#. ID 6, Page 1, Line 8, Pos (8,23)
+#. Choice (1 options, embedded in a message)
+msgid "ボイス設定"
+msgstr "语音设置"
+
+#. ID 6, Page 1, Line 23, Pos (8,23)
+#. Choice (4 options)
+msgid ""
+"キャラクター変更\n"
+"キャラクター閲覧\n"
+"全キャラクターデータの削除\n"
+"ボイス設定"
+msgstr ""
+"更换角色\n"
+"角色查看\n"
+"删除全部角色数据\n"
+"语音设置"
+
+#. ID 11, Page 1, Line 3, Pos (7,4)
+#. ID 13, Page 1, Line 3, Pos (16,4)
+msgid ""
+"スイートルーム、\n"
+"ロイヤルスイートへお泊りのお客様には、\n"
+"専属のメイドをご用意しております。"
+msgstr "入住套房、皇家套房的客人，我们会准备专属女仆。"
+
+#. ID 11, Page 2, Line 3, Pos (7,4)
+#. ID 13, Page 2, Line 3, Pos (16,4)
+msgid "奴隷はお引き取りください。"
+msgstr "奴隶请离开。"
+
+#. ID 13, Page 1, Line 6, Pos (16,4)
+msgid "もちろん、メイドはお好きになさって結構です。"
+msgstr "当然，女仆您可以随意享用。"
+
+#. ID 14, Page 1, Line 3, Pos (3,23)
+#. ID 31, Page 1, Line 19, Pos (6,19)
+msgid ""
+"今空いてるのはこれだけだよ。\n"
+"どの部屋にするね？"
+msgstr "现在空着的只有这个哦。你要哪间房？"
+
+#. ID 14, Page 1, Line 18, Pos (3,23)
+#. ID 31, Page 1, Line 152, Pos (6,19)
+msgid ""
+"こっちも商売だからね、金を取らなきゃ\n"
+"やってられないのさ。\n"
+"\\.これでも相当無理してるんだよ？"
+msgstr ""
+"我这边也是做生意嘛，不收钱可做不下去啊。\n"
+"\\.就算这样也已经相当勉强了哦？"
+
+#. ID 14, Page 1, Line 27, Pos (3,23)
+#. ID 31, Page 1, Line 157, Pos (6,19)
+msgid ""
+"金がないのかい…\n"
+"\\.こっちも商売だからね。金がなきゃ\n"
+"部屋を貸してはやれないよ。"
+msgstr ""
+"没钱吗…\\.我这边也是做生意嘛。\n"
+"没有钱可不能把房间租给你哦。"
+
+#. ID 14, Page 1, Line 36, Pos (3,23)
+#. ID 31, Page 1, Line 164, Pos (6,19)
+msgid ""
+"その部屋は満室だよ？\n"
+"これでも結構繁盛してるのさ。\n"
+"金があるやつにしか部屋は貸せないよ。"
+msgstr ""
+"那间房已经满员了哦？这里可是相当生意兴隆的。\n"
+"房间只能租给有钱的家伙哦。"
+
+#. ID 14, Page 1, Line 46, Pos (3,23)
+msgid "あんた……いい歳してお漏らしかい？"
+msgstr "你……都这把年纪了还尿裤子吗？"
+
+#. ID 14, Page 1, Line 47, Pos (3,23)
+msgid ""
+"余分に金は取りはしないが……\n"
+"おねしょの洗濯代までは含めてなかったんだけどね"
+msgstr "我不会额外收钱……不过可没把尿床的洗涤费算进去哦"
+
+#. ID 14, Page 2, Line 3, Pos (3,23)
+#. ID 31, Page 1, Line 13, Pos (6,19)
+msgid "犬は泊まる事ができないよ。"
+msgstr "狗不能住宿哦。"
+
+#. ID 14, Page 4, Line 3, Pos (3,23)
+#. ID 31, Page 1, Line 6, Pos (6,19)
+msgid ""
+"あんたは奴隷だろ？\n"
+"人間様の宿に泊まろうとは中々ふてぶてしいね。"
+msgstr ""
+"你是奴隶吧？居然想住人类大人的旅馆，\n"
+"还真是相当厚脸皮呢。"
+
+#. ID 15, Page 1, Line 3, Pos (14,25)
+msgid ""
+"財布事情ならエコノミーなんだが……\n"
+"据え膳食わぬは……やはりロイヤルスイートを…"
+msgstr ""
+"说到钱包情况的话经济房就行……送上门的食物不吃……\n"
+"果然还是皇家套房吧…"
+
+#. ID 19, Page 1, Line 4, Pos (4,11)
+msgid "ふん……なんじゃ、お前は？"
+msgstr "哼……什么嘛，你是什么人？"
+
+#. ID 19, Page 1, Line 6, Pos (4,11)
+msgid ""
+"[第二王女ラヴィアン]\n"
+"私は城塞都市メルベルの第二王女じゃ！\n"
+"頭が高いわ！"
+msgstr ""
+"[第二王女拉维安]我是城塞都市梅尔贝尔的第二王女\n"
+"！不得无礼！"
+
+#. ID 19, Page 1, Line 14, Pos (4,11)
+msgid ""
+"もっとも……今はメルベルは\n"
+"魔物の手に落ちている……\n"
+"まったく！　使えぬ兵士ばかりじゃて！"
+msgstr ""
+"不过……现在梅尔贝尔已经落入魔物之手……真是的！\n"
+"　全都是些没用的士兵！"
+
+#. ID 19, Page 1, Line 18, Pos (4,11)
+msgid ""
+"たまたま外遊していた私は助かったが\n"
+"こんな場所のこんな安宿に\n"
+"何泊もさせおって……ふんっ！"
+msgstr ""
+"碰巧外出游历的我得救了，\n"
+"但居然让我在这种地方的这种廉价旅馆住了好几晚……\n"
+"哼！"
+
+#. ID 19, Page 1, Line 27, Pos (4,11)
+msgid ""
+"○リーパーの不手際じゃな……\n"
+"帰ったら懲らしめてやらねばのう"
+msgstr "○是收割者的失误啊……回去后非得教训一顿不可。"
+
+#. ID 19, Page 1, Line 34, Pos (4,11)
+msgid "◆廃墟メルベル　の情報を得た！"
+msgstr "◆获得了废墟梅尔贝尔　的情报！"
+
+#. ID 20, Page 1, Line 3, Pos (5,10)
+msgid ""
+"こちらは、城塞都市メルベル第二王女\n"
+"ラヴィアン様です。"
+msgstr "这位是城塞都市梅尔贝尔第二王女拉维安大人。"
+
+#. ID 20, Page 1, Line 5, Pos (5,10)
+msgid ""
+"メルベルは魔物の侵攻がありまして……\n"
+"外遊していたラヴィアン様は\n"
+"そのまま疎開されたのです"
+msgstr ""
+"梅尔贝尔遭到了魔物侵攻……\n"
+"外出游历的拉维安大人就直接疏散了。"
+
+#. ID 20, Page 1, Line 8, Pos (5,10)
+msgid ""
+"城内におります\n"
+"領主様と、第一王女様が心配でなりません。"
+msgstr "在城内的领主大人和第一王女大人实在令人担心。"
+
+#. ID 21, Page 1, Line 3, Pos (28,15)
+msgid ""
+"さすがロイヤルスイートのメイドだ……\n"
+"テクが違ったぜ……ふふっ……"
+msgstr "不愧是皇家套房的女仆……技术就是不一样……呵呵……"
+
+#. ID 22, Page 1, Line 3, Pos (29,4)
+msgid ""
+"申し訳ありません\n"
+"お客様に綺麗に使っていただくために\n"
+"常に掃除の方をさせていただいております"
+msgstr ""
+"非常抱歉，为了客人能干净地使用，\n"
+"我们一直都有打扫。"
+
+#. ID 23, Page 1, Line 3, Pos (34,26)
+msgid "司教は禁欲生活やら節制やら煩いからな……"
+msgstr "主教对禁欲生活啦节制啦之类的要求很烦人啊……"
+
+#. ID 23, Page 1, Line 4, Pos (34,26)
+msgid "たまにはパァーっとハメをはずさないとな"
+msgstr "偶尔也得痛快地放纵一下才行啊。"
+
+#. ID 24, Page 1, Line 3, Pos (30,10)
+msgid "ったく……第二王女の我侭にはウンザリだ。"
+msgstr "真是的……第二王女的任性真让人受够了。"
+
+#. ID 24, Page 1, Line 4, Pos (30,10)
+msgid ""
+"美貌も性格も領民の人気も、\n"
+"姉の第一王女様に遥かに及ばないからって\n"
+"周囲に当たり散らすんだものな"
+msgstr ""
+"美貌、\n"
+"性格和领民的人气都远远比不上姐姐第一王女大人，\n"
+"所以就对周围乱发脾气。"
+
+#. ID 24, Page 1, Line 7, Pos (30,10)
+msgid ""
+"あーあ、これが第一王女様だったらなあ。\n"
+"命令を聞くだけでも幸せになれるのにさー。"
+msgstr ""
+"啊——要是这位是第一王女大人就好了。\n"
+"光是听她命令就能感到幸福啊。"
+
+#. ID 25, Page 1, Line 3, Pos (20,26)
+msgid ""
+"メルベル第二王女の護衛です。\n"
+"第二王女は奥にいらっしゃいます。"
+msgstr "我是梅尔贝尔第二王女的护卫。第二王女在里面。"
+
+#. ID 25, Page 1, Line 9, Pos (20,26)
+msgid ""
+"お話はしないほうがいいですよ。\n"
+"性格最悪なんで。正直護衛止めたいくらいですし。"
+msgstr ""
+"最好别和她说话。她性格最差。\n"
+"老实说我都想辞掉护卫了。"
+
+#. ID 25, Page 1, Line 11, Pos (20,26)
+msgid ""
+"まあ第一王女様がそれでは悲しむので、\n"
+"そんなことはしませんけどね。"
+msgstr ""
+"不过那样第一王女大人会伤心，\n"
+"所以我不会那么做的。"
+
+#. ID 26, Page 1, Line 5, Pos (15,14)
+#. ID 28, Page 1, Line 2, Pos (6,20)
+msgid ""
+"正式実装したら多分、\n"
+"お花ちゃんから特定条件で開始するイベントになる\n"
+"と思いますのでそのうち消しますんで注意"
+msgstr ""
+"正式实装后大概会变成从花酱那里在特定条件下开始\n"
+"的事件，所以早晚会删掉的，请注意。"
+
+#. ID 26, Page 1, Line 10, Pos (15,14)
+#. ID 28, Page 1, Line 47, Pos (6,20)
+msgid "お犬様はお泊りになることが出来ません"
+msgstr "狗大人不能在此住宿。"
+
+#. ID 26, Page 1, Line 18, Pos (15,14)
+#. ID 28, Page 1, Line 53, Pos (6,20)
+msgid "奴隷は帰れ"
+msgstr "奴隶滚回去。"
+
+#. ID 26, Page 1, Line 26, Pos (15,14)
+#. Choice (4 options)
+msgid ""
+"簡易寝台\n"
+"エコノミー\n"
+"スイート\n"
+"ロイヤルスイート"
+msgstr ""
+"简易床铺\n"
+"经济房\n"
+"套房\n"
+"皇家套房"
+
+#. ID 26, Page 1, Line 28, Pos (15,14)
+#. ID 26, Page 1, Line 44, Pos (15,14)
+#. ID 27, Page 1, Line 3, Pos (18,14)
+#. ID 28, Page 1, Line 1, Pos (6,20)
+#. ID 28, Page 1, Line 18, Pos (6,20)
+msgid "工事中です。"
+msgstr "施工中。"
+
+#. ID 26, Page 1, Line 60, Pos (15,14)
+#. ID 28, Page 1, Line 22, Pos (6,20)
+msgid "超工事中です。"
+msgstr "超施工中。"
+
+#. ID 26, Page 1, Line 64, Pos (15,14)
+#. ID 28, Page 1, Line 26, Pos (6,20)
+msgid "ハイメガ工事中です。"
+msgstr "超级巨型施工中。"
+
+#. ID 27, Page 1, Line 4, Pos (18,14)
+#. Contains choice at line 2 (3 options)
+msgid "お花好感度設定"
+msgstr "花好感度设定"
+
+#. ID 27, Page 1, Line 5, Pos (18,14)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"お花好感度の確認\n"
+"お花好感度の設定\n"
+"キャンセル"
+msgstr ""
+"花好感度的确认\n"
+"花好感度的设定\n"
+"取消"
+
+#. ID 27, Page 1, Line 7, Pos (18,14)
+msgid "お花好感度：\\v[1105]"
+msgstr "花好感度：\\v[1105]"
+
+#. ID 28, Page 1, Line 16, Pos (6,20)
+#. Choice (4 options)
+msgid ""
+"エコノミー\n"
+"スイート\n"
+"ロイヤルスイート\n"
+"キャンセル"
+msgstr ""
+"经济房\n"
+"套房\n"
+"皇家套房\n"
+"取消"
+
+#. ID 31, Page 1, Line 64, Pos (6,19)
+#. ChangeHeroName (Actor 101)
+#. ID 31, Page 1, Line 69, Pos (6,19)
+#. ChangeHeroName (Actor 102)
+#. ID 31, Page 1, Line 74, Pos (6,19)
+#. ChangeHeroName (Actor 103)
+#. ID 31, Page 1, Line 79, Pos (6,19)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "満室　　　　　　　　　　"
+msgstr "客满"
+
+#. ID 31, Page 1, Line 87, Pos (6,19)
+#. Choice (4 options)
+msgid ""
+"\\>\\$簡易寝台　　　　　　　　\\c[2]\\n[101]\\c[4]\\v[1216] \\c[0]G\n"
+"\\>エコノミー　　　　　　　\\c[2]\\n[102]\\c[4]\\v[1217] \\c[0]G\n"
+"\\>スイート　　　　　　　　\\c[2]\\n[103]\\c[4]\\v[1218] \\c[0]G\n"
+"\\>ロイヤルスイート　　　　\\c[2]\\n[104]\\c[4]\\v[1219] \\c[0]G"
+msgstr ""
+"\\>\\$简易床铺　　　　　　　　\\c[2]\\n[101]\\c[4]\\v[1216] \\c[0]G\n"
+"\\>经济房　　　　　　　\\c[2]\\n[102]\\c[4]\\v[1217] \\c[0]G\n"
+"\\>套房　　　　　　　　\\c[2]\\n[103]\\c[4]\\v[1218] \\c[0]G\n"
+"\\>皇家套房　　　　\\c[2]\\n[104]\\c[4]\\v[1219] \\c[0]G"
+
+#. ID 32, Page 1, Line 3, Pos (6,24)
+#. Contains choice at line 2 (2 options)
+msgid "時間を進めるかえ？"
+msgstr "要推进时间吗？"
+
+#. ID 32, Page 1, Line 4, Pos (6,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 32, Page 1, Line 12, Pos (6,24)
+msgid ""
+"夜は魔物達が凶暴になる時間だから\n"
+"気をつけるんだよ・・・"
+msgstr "夜晚是魔物们变得凶暴的时间，要小心哦……"

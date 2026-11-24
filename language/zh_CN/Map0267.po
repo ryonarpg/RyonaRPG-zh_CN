@@ -1,0 +1,113 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 59, Page 2, Line 3, Pos (38,3)
+msgid "うっすらと線のようなものが見える"
+msgstr "隐约能看到像线一样的东西"
+
+#. ID 63, Page 2, Line 3, Pos (27,38)
+msgid ""
+"人形の目が動いたような気がしたが\n"
+"そんなことはなかった。"
+msgstr "感觉人偶的眼睛好像动了一下，但并没有那回事。"
+
+#. ID 64, Page 2, Line 4, Pos (39,31)
+msgid ""
+"「ん……。\n"
+"\n"
+"君はまさか！」"
+msgstr "「嗯……。你难道是！」"
+
+#. ID 64, Page 2, Line 7, Pos (39,31)
+msgid ""
+"「なんてことだ……、\n"
+"君まで猫になっているとは……。」"
+msgstr "「怎么会这样……，连你也变成了猫……。」"
+
+#. ID 64, Page 2, Line 9, Pos (39,31)
+msgid "「…………。」"
+msgstr "「…………。」"
+
+#. ID 64, Page 2, Line 11, Pos (39,31)
+msgid "「……！」"
+msgstr "「……！」"
+
+#. ID 64, Page 2, Line 12, Pos (39,31)
+msgid "「この薬はっ！」"
+msgstr "「这药是！」"
+
+#. ID 64, Page 2, Line 14, Pos (39,31)
+msgid "「……、正気に戻ったようですね。」"
+msgstr "「……，看来你恢复神智了。」"
+
+#. ID 64, Page 2, Line 15, Pos (39,31)
+msgid ""
+"「……私はあの神父です、\n"
+"解らないのも無理はないでしょう。\n"
+"今やただの猫にすぎません……。」"
+msgstr ""
+"「……我就是那个神父，你不明白也难怪。\n"
+"如今我不过是一只猫而已……。」"
+
+#. ID 64, Page 2, Line 18, Pos (39,31)
+msgid "「……。」"
+msgstr "「……。」"
+
+#. ID 64, Page 2, Line 19, Pos (39,31)
+msgid ""
+"「……なんとか今私が人の心を、\n"
+"保っているうちに伝えます。\n"
+"この、屋敷の主を討ちなさい。」"
+msgstr ""
+"「……趁我现在还能勉强保持人的心智，我告诉你。\n"
+"去讨伐这座宅邸的主人吧。」"
+
+#. ID 64, Page 2, Line 22, Pos (39,31)
+msgid ""
+"「私と違って、\n"
+"あなたにかけられた術は不安定なもの。\n"
+"不意を突けば、解けるかもしれません。」"
+msgstr ""
+"「和我不同，施在你身上的术并不稳定。\n"
+"如果出其不意，或许就能解开。」"
+
+#. ID 64, Page 2, Line 25, Pos (39,31)
+msgid ""
+"「前にも言った通り、\n"
+"私にはあなたに賭けるしか手が無いのです。\n"
+"どうか、よろしくおねがいします……。」"
+msgstr ""
+"「正如之前所说，\n"
+"我除了把希望寄托在你身上别无他法。拜托你了……。\n"
+"」"
+
+#. ID 64, Page 3, Line 4, Pos (39,31)
+msgid ""
+"「どうか、よろしくおねがいします。\n"
+"決して油断しないように……。」"
+msgstr "「拜托你了。千万不要掉以轻心……。」"
+
+#. ID 64, Page 4, Line 4, Pos (39,31)
+msgid "「！？」"
+msgstr "「！？」"
+
+#. ID 64, Page 4, Line 5, Pos (39,31)
+msgid ""
+"「暗示が蘇っている！\n"
+"これはまずい！」"
+msgstr "「暗示复苏了！这可不妙！」"
+
+#. ID 64, Page 4, Line 10, Pos (39,31)
+msgid "「……、薬が残っていて助かりました……。」"
+msgstr "「……，幸好药还有剩……。」"

@@ -1,0 +1,51 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 8, Page 1, Line 3, Pos (3,12)
+msgid "こちらは公衆浴場です。"
+msgstr "这里是公共浴场。"
+
+#. ID 8, Page 1, Line 4, Pos (3,12)
+msgid "どなたでも無料で利用できます。"
+msgstr "任何人都可以免费使用。"
+
+#. ID 14, Page 1, Line 3, Pos (14,9)
+msgid "いいお湯よねえ……"
+msgstr "真是好热水呢……"
+
+#. ID 14, Page 1, Line 4, Pos (14,9)
+msgid ""
+"奴隷じゃなくても、\n"
+"このお風呂に入るために来る、旅人がいるらしいわよ。"
+msgstr ""
+"听说就算不是奴隶，\n"
+"也有旅行者为了泡这个澡而来哦。"
+
+#. ID 15, Page 2, Line 3, Pos (21,7)
+msgid "いいお湯だよ！"
+msgstr "真是好热水啊！"
+
+#. ID 15, Page 2, Line 8, Pos (21,7)
+msgid "それだけだよ！"
+msgstr "仅此而已哦！"
+
+#. ID 16, Page 1, Line 3, Pos (24,11)
+msgid "ううう……合法的に裸を見に来たというのに"
+msgstr "呜呜呜……明明是合法来看裸体的"
+
+#. ID 16, Page 1, Line 4, Pos (24,11)
+msgid ""
+"勃ってしまって……\n"
+"恥ずかしくて前向けない……"
+msgstr "竟然勃起了……羞得不敢往前看……"

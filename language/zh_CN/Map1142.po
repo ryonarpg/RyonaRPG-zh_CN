@@ -1,0 +1,128 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 48, Page 2, Line 3, Pos (25,16)
+#. ID 49, Page 2, Line 3, Pos (34,16)
+msgid "何かが嵌まりそうな窪みがある。"
+msgstr "有一个似乎能嵌进什么东西的凹槽。"
+
+#. ID 48, Page 2, Line 8, Pos (25,16)
+#. Contains choice at line 2 (2 options)
+#. ID 49, Page 2, Line 8, Pos (34,16)
+#. Contains choice at line 2 (2 options)
+msgid "蒼い宝玉を嵌めてみますか。"
+msgstr "要试着嵌入苍蓝宝玉吗？"
+
+#. ID 48, Page 2, Line 9, Pos (25,16)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 2, Line 9, Pos (34,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 48, Page 2, Line 19, Pos (25,16)
+#. ID 49, Page 2, Line 19, Pos (34,16)
+msgid "宝玉はぴったりと嵌まって取れなくなった。"
+msgstr "宝玉严丝合缝地嵌了进去，取不出来了。"
+
+#. ID 48, Page 3, Line 3, Pos (25,16)
+#. ID 49, Page 3, Line 3, Pos (34,16)
+msgid "蒼い宝玉は壁にぴったりと嵌まっている。"
+msgstr "苍蓝宝玉严丝合缝地嵌在墙上。"
+
+#. ID 59, Page 2, Line 3, Pos (20,38)
+#. ID 60, Page 2, Line 3, Pos (39,38)
+msgid "古代語らしき文字で書かれた石板がある。"
+msgstr "有一块用类似古代语文字写成的石板。"
+
+#. ID 59, Page 2, Line 5, Pos (20,38)
+msgid "\"←　φカラム開閉レバー\""
+msgstr "\"←　φ柱开关杆\""
+
+#. ID 59, Page 2, Line 6, Pos (20,38)
+msgid "\"←↓　ωカラム開閉レバー\""
+msgstr "\"←↓　ω柱开关杆\""
+
+#. ID 60, Page 2, Line 5, Pos (39,38)
+msgid "\"ψカラム開閉レバー　→\""
+msgstr "\"ψ柱开关杆　→\""
+
+#. ID 60, Page 2, Line 6, Pos (39,38)
+msgid "\"χカラム開閉レバー　↓→\""
+msgstr "\"χ柱开关杆　↓→\""
+
+#. ID 61, Page 3, Line 1, Pos (23,41)
+msgid ""
+" デバッグ用イベント\n"
+"レバー ON＆OFF"
+msgstr " 调试用事件杆 ON＆OFF"
+
+#. ID 61, Page 3, Line 3, Pos (23,41)
+#. Contains choice at line 2 (2 options)
+msgid "φレバー"
+msgstr "φ杆"
+
+#. ID 61, Page 3, Line 4, Pos (23,41)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 3, Line 15, Pos (23,41)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 3, Line 26, Pos (23,41)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 3, Line 37, Pos (23,41)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 3, Line 49, Pos (23,41)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 3, Line 62, Pos (23,41)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ON\n"
+"OFF"
+msgstr ""
+"ON\n"
+"OFF"
+
+#. ID 61, Page 3, Line 14, Pos (23,41)
+#. Contains choice at line 2 (2 options)
+msgid "ψレバー"
+msgstr "ψ杆"
+
+#. ID 61, Page 3, Line 25, Pos (23,41)
+#. Contains choice at line 2 (2 options)
+msgid "ωレバー"
+msgstr "ω拉杆"
+
+#. ID 61, Page 3, Line 36, Pos (23,41)
+#. Contains choice at line 2 (2 options)
+msgid "χレバー"
+msgstr "χ杆"
+
+#. ID 61, Page 3, Line 48, Pos (23,41)
+#. Contains choice at line 2 (2 options)
+msgid "宝玉1"
+msgstr "宝玉1"
+
+#. ID 61, Page 3, Line 61, Pos (23,41)
+#. Contains choice at line 2 (2 options)
+msgid "宝玉2"
+msgstr "宝玉2"
+
+#. ID 63, Page 3, Line 1, Pos (36,41)
+msgid ""
+" デバッグ用イベント\n"
+"水位変更（0-2）"
+msgstr " 调试用事件水位变更（0-2）"

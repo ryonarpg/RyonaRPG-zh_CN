@@ -1,0 +1,32 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 57, Page 2, Line 4, Pos (1,5)
+msgid ""
+"た、大将がやられた…\n"
+"に、逃げろおおお…"
+msgstr "大、大将被打倒了……快、快逃啊啊啊……"
+
+#. ID 57, Page 2, Line 9, Pos (1,5)
+msgid "討伐隊を倒した。"
+msgstr "打倒了讨伐队。"
+
+#. ID 57, Page 2, Line 22, Pos (1,5)
+msgid ""
+"フフフ、よくやってくれたわね。\n"
+"後でごほうびをあげるから\n"
+"楽しみにしてなさい。"
+msgstr ""
+"呵呵呵，你做得很好呢。之后我会给你奖赏，\n"
+"好好期待吧。"

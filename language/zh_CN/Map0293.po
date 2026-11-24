@@ -1,0 +1,749 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 16, Page 1, Line 3, Pos (10,16)
+msgid ""
+"虫を扱うのは非常に手間がかかります。\n"
+"しかし、利用できれば、\n"
+"これ以上に便利な生き物はいません。"
+msgstr ""
+"处理虫子非常费事。但是，能够利用的话，\n"
+"没有比这更方便的生物了。"
+
+#. ID 16, Page 2, Line 3, Pos (10,16)
+msgid ""
+"君に使う虫がまだ届いていないんだ。\n"
+"待っていてくれたまえ。"
+msgstr "要对你使用的虫子还没送到。请再等一等。"
+
+#. ID 17, Page 1, Line 3, Pos (16,23)
+msgid ""
+"自然を理解し、\n"
+"その謎を説き明かすのが我らの使命だ。"
+msgstr "理解自然、解开其谜团是我们的使命。"
+
+#. ID 17, Page 1, Line 5, Pos (16,23)
+msgid "君も、共に学ばないか？"
+msgstr "你也一起来学习吧？"
+
+#. ID 18, Page 1, Line 3, Pos (10,11)
+msgid "普通の檻では虫を閉じ込めることはできません。"
+msgstr "普通的笼子关不住虫子。"
+
+#. ID 18, Page 1, Line 4, Pos (10,11)
+msgid ""
+"なので、コンピューター制御で\n"
+"密閉した空間を作っています。"
+msgstr "因此，我们利用计算机控制制作密闭空间。"
+
+#. ID 18, Page 1, Line 6, Pos (10,11)
+msgid ""
+"内部の様子もカメラで確認します。\n"
+"これなら、目に見えない小さな虫でも大丈夫です。"
+msgstr ""
+"内部情况也用摄像头确认。这样一来，\n"
+"即使肉眼看不见的小虫也没问题。"
+
+#. ID 18, Page 2, Line 3, Pos (10,11)
+msgid ""
+"君はサンプルか。\n"
+"………………………………"
+msgstr "你是样本吗。………………………………"
+
+#. ID 18, Page 2, Line 5, Pos (10,11)
+msgid ""
+"金属に、合成樹脂、化学薬品、変質した生体組織……\n"
+"さすがに、虫たちもこんなものまでは食わないか。"
+msgstr ""
+"金属、合成树脂、化学药品、变质的生物组织……\n"
+"果然，虫子们也不会吃这种东西吗。"
+
+#. ID 19, Page 1, Line 3, Pos (3,26)
+msgid "蟲毒の迷宮……"
+msgstr "虫毒迷宫……"
+
+#. ID 19, Page 1, Line 4, Pos (3,26)
+msgid ""
+"様々な虫が生息している……\n"
+"そんな場所が存在するらしい。"
+msgstr "栖息着各种各样的虫子……据说存在这样的地方。"
+
+#. ID 19, Page 1, Line 6, Pos (3,26)
+msgid ""
+"そこでは他の生物に寄生し……\n"
+"性感を刺激する虫がいるらしい。"
+msgstr "那里似乎有寄生在其他生物身上……刺激性感的虫子。"
+
+#. ID 19, Page 1, Line 8, Pos (3,26)
+msgid ""
+"一体どう言う理由でそんなことをするのか……\n"
+"どんな体内構造になっているのか……調査したい。"
+msgstr ""
+"到底出于什么理由做那种事……体内结构是怎样的……\n"
+"我想调查。"
+
+#. ID 19, Page 1, Line 10, Pos (3,26)
+msgid ""
+"もし君が手に入れたら、私に譲ってもらえないか？\n"
+"寄生している場合は、ここで剥がしてあげるから。"
+msgstr ""
+"如果你得到了，能不能让给我？如果它寄生着，\n"
+"我会在这里帮你剥下来。"
+
+#. ID 19, Page 2, Line 6, Pos (3,26)
+msgid ""
+"おや、それは……\n"
+"蟲毒の迷宮に生息する寄生虫じゃないか？\n"
+"「繊毛の生えた寄生虫」か。"
+msgstr ""
+"哦呀，那是……栖息在虫毒迷宫的寄生虫吧？是\n"
+"「长有纤毛的寄生虫」吗。"
+
+#. ID 19, Page 2, Line 10, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 3, Line 10, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 4, Line 10, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 5, Line 10, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 6, Line 10, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 7, Line 10, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 8, Line 10, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 9, Line 10, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"出来れば譲ってくれないか？\n"
+"お代は払うし、ここで剥がしてあげるから。"
+msgstr ""
+"可以的话能不能让给我？我会付钱，\n"
+"也会在这里帮你剥下来。"
+
+#. ID 19, Page 2, Line 12, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 2, Line 114, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 3, Line 12, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 3, Line 114, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 4, Line 12, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 4, Line 114, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 5, Line 12, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 5, Line 114, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 6, Line 12, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 6, Line 114, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 7, Line 12, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 7, Line 114, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 8, Line 12, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 8, Line 114, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 9, Line 12, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 9, Line 114, Pos (3,26)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 19, Page 2, Line 14, Pos (3,26)
+#. ID 19, Page 3, Line 14, Pos (3,26)
+#. ID 19, Page 4, Line 14, Pos (3,26)
+#. ID 19, Page 5, Line 14, Pos (3,26)
+#. ID 19, Page 6, Line 14, Pos (3,26)
+#. ID 19, Page 7, Line 14, Pos (3,26)
+#. ID 19, Page 8, Line 14, Pos (3,26)
+#. ID 19, Page 9, Line 14, Pos (3,26)
+msgid ""
+"では早速引き剥がそう。\n"
+"少しの間、じっとしていてくれ。"
+msgstr "那么马上剥下来吧。请暂时别动。"
+
+#. ID 19, Page 2, Line 39, Pos (3,26)
+#. ID 19, Page 3, Line 39, Pos (3,26)
+#. ID 19, Page 4, Line 39, Pos (3,26)
+#. ID 19, Page 5, Line 39, Pos (3,26)
+#. ID 19, Page 6, Line 39, Pos (3,26)
+#. ID 19, Page 7, Line 39, Pos (3,26)
+#. ID 19, Page 8, Line 39, Pos (3,26)
+#. ID 19, Page 9, Line 39, Pos (3,26)
+msgid ""
+"おや……もしかして感じているのかい？\n"
+"君も好きモノだねぇ……？"
+msgstr ""
+"哦呀……难道说你有感觉了？\n"
+"你也是个喜欢这种事的人呢……？"
+
+#. ID 19, Page 2, Line 58, Pos (3,26)
+#. ID 19, Page 3, Line 58, Pos (3,26)
+#. ID 19, Page 4, Line 58, Pos (3,26)
+#. ID 19, Page 5, Line 58, Pos (3,26)
+#. ID 19, Page 6, Line 58, Pos (3,26)
+#. ID 19, Page 7, Line 58, Pos (3,26)
+#. ID 19, Page 8, Line 58, Pos (3,26)
+#. ID 19, Page 9, Line 58, Pos (3,26)
+msgid "さて、いくよ？"
+msgstr "那么，开始了哦？"
+
+#. ID 19, Page 2, Line 91, Pos (3,26)
+#. ID 19, Page 3, Line 91, Pos (3,26)
+#. ID 19, Page 4, Line 91, Pos (3,26)
+#. ID 19, Page 5, Line 91, Pos (3,26)
+#. ID 19, Page 6, Line 91, Pos (3,26)
+#. ID 19, Page 7, Line 91, Pos (3,26)
+#. ID 19, Page 8, Line 91, Pos (3,26)
+#. ID 19, Page 9, Line 91, Pos (3,26)
+msgid ""
+"ありがとう。\n"
+"これで研究もはかどるよ。"
+msgstr "谢谢。这样研究也能推进了。"
+
+#. ID 19, Page 2, Line 95, Pos (3,26)
+#. ID 19, Page 2, Line 120, Pos (3,26)
+#. ID 19, Page 3, Line 95, Pos (3,26)
+#. ID 19, Page 3, Line 120, Pos (3,26)
+#. ID 19, Page 4, Line 95, Pos (3,26)
+#. ID 19, Page 4, Line 120, Pos (3,26)
+#. ID 19, Page 5, Line 95, Pos (3,26)
+#. ID 19, Page 5, Line 120, Pos (3,26)
+#. ID 19, Page 6, Line 95, Pos (3,26)
+#. ID 19, Page 6, Line 120, Pos (3,26)
+#. ID 19, Page 7, Line 95, Pos (3,26)
+#. ID 19, Page 7, Line 120, Pos (3,26)
+#. ID 19, Page 8, Line 95, Pos (3,26)
+#. ID 19, Page 8, Line 120, Pos (3,26)
+#. ID 19, Page 9, Line 95, Pos (3,26)
+#. ID 19, Page 9, Line 120, Pos (3,26)
+msgid "タイルパック４０を1個手に入れた！"
+msgstr "获得了1个装甲贴片40！"
+
+#. ID 19, Page 2, Line 107, Pos (3,26)
+#. ID 19, Page 3, Line 107, Pos (3,26)
+#. ID 19, Page 4, Line 107, Pos (3,26)
+#. ID 19, Page 5, Line 107, Pos (3,26)
+#. ID 19, Page 6, Line 107, Pos (3,26)
+#. ID 19, Page 7, Line 107, Pos (3,26)
+#. ID 19, Page 8, Line 107, Pos (3,26)
+#. ID 19, Page 9, Line 107, Pos (3,26)
+msgid "そうか。"
+msgstr "这样啊。"
+
+#. ID 19, Page 2, Line 112, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 3, Line 112, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 4, Line 112, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 5, Line 112, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 6, Line 112, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 7, Line 112, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 8, Line 112, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 9, Line 112, Pos (3,26)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"出来れば譲ってくれないか？\n"
+"お代は払おう。"
+msgstr "可以的话能不能让给我？我会付钱。"
+
+#. ID 19, Page 2, Line 116, Pos (3,26)
+#. ID 19, Page 3, Line 116, Pos (3,26)
+#. ID 19, Page 4, Line 116, Pos (3,26)
+#. ID 19, Page 5, Line 116, Pos (3,26)
+#. ID 19, Page 6, Line 116, Pos (3,26)
+#. ID 19, Page 7, Line 116, Pos (3,26)
+#. ID 19, Page 8, Line 116, Pos (3,26)
+#. ID 19, Page 9, Line 116, Pos (3,26)
+msgid "ありがたい！　これで研究がはかどるよ。"
+msgstr "太感谢了！　这样研究就能推进了。"
+
+#. ID 19, Page 3, Line 6, Pos (3,26)
+msgid ""
+"おや、それは……\n"
+"蟲毒の迷宮に生息する寄生虫じゃないか？\n"
+"「管の生えた寄生虫」か。"
+msgstr ""
+"哦呀，那是……栖息在虫毒迷宫的寄生虫吧？是\n"
+"「长有管子的寄生虫」吗。"
+
+#. ID 19, Page 4, Line 6, Pos (3,26)
+msgid ""
+"おや、それは……\n"
+"蟲毒の迷宮に生息する寄生虫じゃないか？\n"
+"「イソギンチャク？」か。"
+msgstr ""
+"哦呀，那是……栖息在虫毒迷宫的寄生虫吧？是\n"
+"「海葵？」吗。"
+
+#. ID 19, Page 5, Line 6, Pos (3,26)
+msgid ""
+"おや、それは……\n"
+"蟲毒の迷宮に生息する寄生虫じゃないか？\n"
+"「紐状の寄生虫」か。"
+msgstr ""
+"哦呀，那是……栖息在虫毒迷宫的寄生虫吧？是\n"
+"「绳状寄生虫」吗。"
+
+#. ID 19, Page 6, Line 6, Pos (3,26)
+msgid ""
+"おや、それは……\n"
+"蟲毒の迷宮に生息する寄生虫じゃないか？\n"
+"「蛭型寄生虫の群れ」か。"
+msgstr ""
+"哦呀，那是……栖息在虫毒迷宫的寄生虫吧？是\n"
+"「水蛭型寄生虫群」吗。"
+
+#. ID 19, Page 7, Line 6, Pos (3,26)
+msgid ""
+"おや、それは……\n"
+"蟲毒の迷宮に生息する寄生虫じゃないか？\n"
+"「肉の縄」か。"
+msgstr ""
+"哦呀，那是……栖息在虫毒迷宫的寄生虫吧？是\n"
+"「肉绳」吗。"
+
+#. ID 19, Page 8, Line 6, Pos (3,26)
+msgid ""
+"おや、それは……\n"
+"蟲毒の迷宮に生息する寄生虫じゃないか？\n"
+"「カテーテル型寄生虫」か。"
+msgstr ""
+"哦呀，那是……栖息在虫毒迷宫的寄生虫吧？是\n"
+"「导管型寄生虫」吗。"
+
+#. ID 19, Page 9, Line 6, Pos (3,26)
+msgid ""
+"おや、それは……\n"
+"蟲毒の迷宮に生息する寄生虫じゃないか？\n"
+"「粘菌型寄生虫」か。"
+msgstr ""
+"哦呀，那是……栖息在虫毒迷宫的寄生虫吧？是\n"
+"「黏菌型寄生虫」吗。"
+
+#. ID 21, Page 1, Line 3, Pos (13,3)
+msgid "処女一番搾りを手に入れた。"
+msgstr "获得了处女初榨。"
+
+#. ID 21, Page 1, Line 8, Pos (13,3)
+#. ID 38, Page 1, Line 101, Pos (15,9)
+#. ID 38, Page 1, Line 343, Pos (15,9)
+#. ID 38, Page 1, Line 357, Pos (15,9)
+msgid "………"
+msgstr "………"
+
+#. ID 21, Page 1, Line 9, Pos (13,3)
+msgid "………？"
+msgstr "………？"
+
+#. ID 21, Page 1, Line 10, Pos (13,3)
+msgid ""
+"何か小さなものが居たような……\n"
+"………\n"
+"いや、おそらく気のせいだろう。"
+msgstr "好像有什么小东西在……………不，大概是错觉吧。"
+
+#. ID 38, Page 1, Line 6, Pos (15,9)
+msgid "！！"
+msgstr "！！"
+
+#. ID 38, Page 1, Line 7, Pos (15,9)
+msgid "扉が閉じてしまった！"
+msgstr "门关上了！"
+
+#. ID 38, Page 1, Line 15, Pos (15,9)
+msgid "！"
+msgstr "！"
+
+#. ID 38, Page 1, Line 16, Pos (15,9)
+msgid ""
+"部屋の隙間や穴の部分から……\n"
+"小さな虫が大量に発生した。"
+msgstr "从房间的缝隙和孔洞处……大量小虫涌现出来。"
+
+#. ID 38, Page 1, Line 18, Pos (15,9)
+msgid ""
+"虫たちはしばらく周囲を徘徊していたが、\n"
+"やがて獲物を……\\n[\\v[6]]を見つけ、\n"
+"\\n[\\v[6]]の元へと飛び付いてきた。"
+msgstr ""
+"虫子们暂时在周围徘徊，但很快发现了猎物……\n"
+"\\n[\\v[6]]，并朝\\n[\\v[6]]扑了过来。"
+
+#. ID 38, Page 1, Line 24, Pos (15,9)
+msgid ""
+"\\n[\\v[6]]\n"
+"きゃぁぁっ！　こ、こないでぇっ！"
+msgstr "\\n[\\v[6]]呀啊啊！　别、别过来！"
+
+#. ID 38, Page 1, Line 26, Pos (15,9)
+msgid ""
+"\\n[\\v[6]]は必死になって手を振り追い払おうとするが\n"
+"小さな虫の群れ相手には焼け石に水だった。\n"
+"そればかりか、振り払おうとしたその手に、\n"
+"虫たちがどんどんと付着していく。"
+msgstr ""
+"\\n[\\v[6]]拼命挥手想要赶走它们，\n"
+"但面对大群小虫只是杯水车薪。不仅如此，\n"
+"虫子们接连不断地附着到那只试图挥开它们的手上。"
+
+#. ID 38, Page 1, Line 35, Pos (15,9)
+msgid ""
+"\\n[\\v[6]]\n"
+"いや、離れッ……！？　痛ァッ！？"
+msgstr "\\n[\\v[6]]不要，走开……！？　好痛！？"
+
+#. ID 38, Page 1, Line 43, Pos (15,9)
+msgid ""
+"\\n[\\v[6]]の身体に貼り付いた虫は、\n"
+"極上の餌を見つけたと言わんばかりに、\n"
+"ナイフのような顎を\\n[\\v[6]]の肌に突き刺してきた。"
+msgstr ""
+"\\n[\\v[6]]身上的虫子，仿佛找到了极品饵食一般，\n"
+"把像刀一样的颚刺进\\n[\\v[6]]的皮肤。"
+
+#. ID 38, Page 1, Line 47, Pos (15,9)
+msgid ""
+"一匹一匹のダメージは大したことはない……が、\n"
+"膨大な数の虫の小さなナイフのような顎が、\n"
+"\\n[\\v[6]]の全身につき立てられる。"
+msgstr ""
+"一只一只的伤害并不大……但是，\n"
+"庞大数量虫子那像小刀一样的颚，\n"
+"不断刺向\\n[\\v[6]]的全身。"
+
+#. ID 38, Page 1, Line 78, Pos (15,9)
+msgid ""
+"全身の肌をズタズタに引き裂かれた\\n[\\v[6]]だが、\n"
+"しかし悪夢はこれからだった。"
+msgstr ""
+"全身皮肤被撕得破烂不堪的\\n[\\v[6]]，\n"
+"然而噩梦才刚开始。"
+
+#. ID 38, Page 1, Line 85, Pos (15,9)
+msgid ""
+"破れた\\n[\\v[6]]の肌から、\n"
+"中の柔らかい肉を狙って……\n"
+"虫たちが身体を中へ、中へと押し込んできたのだ。"
+msgstr ""
+"虫子们瞄准从破裂的\\n[\\v[6]]皮肤中露出的柔软嫩\n"
+"肉……把身体向里面、向里面挤了进去。"
+
+#. ID 38, Page 1, Line 88, Pos (15,9)
+msgid ""
+"\\n[\\v[6]]\n"
+"ぐぎえぁあああああ！！\n"
+"痛い痛い痛い痛い゛痛い゛イタいい゛い゛\n"
+"やめでぇぇぇ―――――！！"
+msgstr ""
+"\\n[\\v[6]]咕叽诶啊啊啊啊啊！！\n"
+"好痛好痛好痛好痛゛好痛゛好痛啊゛啊゛住手啊啊啊\n"
+"啊―――――！！"
+
+#. ID 38, Page 1, Line 97, Pos (15,9)
+msgid ""
+"\\n[\\v[6]]はこの世のものとは思えない苦痛に\n"
+"断末魔の悲鳴を上げるが……\n"
+"虫たちはそれを意に解することもなく、\n"
+"\\n[\\v[6]]の肉を貪り始めた。"
+msgstr ""
+"\\n[\\v[6]]发出不似世间之物的痛苦，\n"
+"发出临死前的惨叫……但虫子们毫不介意，\n"
+"开始贪婪地啃食\\n[\\v[6]]的肉。"
+
+#. ID 38, Page 1, Line 121, Pos (15,9)
+msgid "\\n[102]が…ぁ…ッ！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]嘎…啊…！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 125, Pos (15,9)
+msgid "\\n[102]ぎあ――――ッ\\n[103]\\n[104]\\^"
+msgstr "\\n[102]叽啊――――！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 129, Pos (15,9)
+msgid "\\n[102]きゃぁあぁ――っ\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呀啊啊――！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 133, Pos (15,9)
+msgid "\\n[102]ぎぃぃ…ッ\\n[103]\\n[104]\\^"
+msgstr "\\n[102]叽咿咿…！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 137, Pos (15,9)
+msgid "\\n[102]うがぁああッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呜嘎啊啊啊！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 141, Pos (15,9)
+msgid "\\n[102]ぐぁああぁあぁぁ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕啊啊啊呀啊啊！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 145, Pos (15,9)
+msgid "\\n[102]や……め……ッ！　ぎぃぃ……！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]住……手……！　叽咿咿……！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 149, Pos (15,9)
+msgid "\\n[102]………狂ぅ…助け……！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]………疯……救命……！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 153, Pos (15,9)
+msgid "\\n[102]がへぇええッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]嘎嘿啊啊！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 157, Pos (15,9)
+msgid "\\n[102]ごうぅぅううっ！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕呜呜呜！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 161, Pos (15,9)
+msgid "\\n[102]あ、あぁあああぅ……っ\\n[103]\\n[104]\\^"
+msgstr "\\n[102]啊、啊啊啊啊呜……！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 165, Pos (15,9)
+msgid "\\n[102]ぐぁ……ぁ……\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕啊……啊……\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 169, Pos (15,9)
+msgid "\\n[102]ぎ……ひ…っ…\\n[103]\\n[104]\\^"
+msgstr "\\n[102]叽……咿…！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 173, Pos (15,9)
+msgid "\\n[102]がぁ……ぁ………\\n[103]\\n[104]\\^"
+msgstr "\\n[102]嘎啊……啊………\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 177, Pos (15,9)
+msgid "\\n[102]ぎゃぶッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]叽呀噗！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 181, Pos (15,9)
+msgid "\\n[102]ひ……ひぎゃ……ッ！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咿……咿呀……！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 185, Pos (15,9)
+msgid "\\n[102]ごぶぅううぅうッ！！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕噗呜呜呜呜！！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 189, Pos (15,9)
+msgid "\\n[102]げ、ぁ、ぁ、あ゛、あ゛！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]咯、啊、啊、啊゛、啊゛！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 193, Pos (15,9)
+msgid "\\n[102]ひぎゃぁああぁ！！！！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咿呀啊啊啊啊！！！！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 197, Pos (15,9)
+msgid "\\n[102]あぎッ！！　ぎ、ぐ、……\\n[103]\\n[104]\\^"
+msgstr "\\n[102]啊叽！！　叽、咕、……\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 201, Pos (15,9)
+msgid ""
+"\\n[102]う、ぐぅっ………痛…いぃ…\\n[103]\n"
+"\\n[102]…苦…しい…よ………\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]呜、咕呜………好痛…啊…\\n[103]\\n[102]…好难…\n"
+"受…啊………\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 206, Pos (15,9)
+msgid "\\n[102]ぐがあァあぁッ！！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕嘎啊啊啊！！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 210, Pos (15,9)
+msgid "\\n[102]痛いぃぃいいぃ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]好痛啊啊啊啊！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 214, Pos (15,9)
+msgid "\\n[102]ひぃいいぃい！！いやぁあああぁ！！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]咿啊啊啊啊！！不要啊啊啊啊！！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 218, Pos (15,9)
+msgid "\\n[102]ひ、ひっ！　ひやぁあ゛あ゛ぁああ！！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]咿、咿！　咿呀啊啊゛啊゛啊啊！！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 222, Pos (15,9)
+msgid ""
+"\\n[102]うああぁあああっ！　\\n[103]\n"
+"\\n[102]うぁああぁぁぁあああぁ！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]呜啊啊啊啊啊！\n"
+"　\\n[103]\\n[102]呜啊啊啊啊啊啊啊啊啊！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 227, Pos (15,9)
+msgid "\\n[102]う……うわぁあぁあぁあああっ！！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]呜……呜哇啊啊啊啊啊啊啊！！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 231, Pos (15,9)
+msgid "\\n[102]……いやだ…やだぁぁ……\\n[103]\\n[104]\\^"
+msgstr "\\n[102]……不要…不要啊……\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 235, Pos (15,9)
+msgid ""
+"\\n[102]ひ…やぁぁッ！ダメッ…やめてぇッ！\\n[103]\n"
+"\\n[102]死ヌっ！死んじゃうぅ…っ！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]咿…呀啊啊！不行！…住手啊！\n"
+"\\n[103]\\n[102]要死了！要死掉了…！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 240, Pos (15,9)
+msgid "\\n[102]ま…だ……終わら……ない…の…\\n[103]\\n[104]\\^"
+msgstr "\\n[102]还…没……结束……吗…\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 244, Pos (15,9)
+msgid ""
+"\\n[102]死んじゃうっ死んじゃうぅっ！！\\n[103]\n"
+"\\n[102]ひぎゃああああああああぁぁぁっっ！！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]要死了要死掉了！！\n"
+"\\n[103]\\n[102]咿呀啊啊啊啊啊啊啊啊啊啊啊！！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 249, Pos (15,9)
+msgid "\\n[102]も……もう……ダメ…………\\n[103]\\n[104]\\^"
+msgstr "\\n[102]已……已经……不行了…………\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 253, Pos (15,9)
+msgid "\\n[102]うぎぃぃ……！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呜叽咿咿……！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 257, Pos (15,9)
+msgid "\\n[102]ぁあ゛ぁあ゛ぁ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]啊啊゛啊啊゛啊！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 261, Pos (15,9)
+msgid "\\n[102]うぶぉぇええぇッッ！！？\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呜啵诶诶诶诶！！？\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 265, Pos (15,9)
+msgid "\\n[102]ぼぇえええっっッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]啵诶诶诶诶！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 269, Pos (15,9)
+msgid ""
+"\\n[102]あぐうぅぅっっ！！！\\n[103]\n"
+"\\n[102]た、たずげてぇぇっ！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]啊咕呜呜呜！！！\\n[103]\\n[102]救、\n"
+"救救我啊！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 274, Pos (15,9)
+msgid "\\n[102]ぐぎぃぃぃ……！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕叽咿咿咿……！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 278, Pos (15,9)
+msgid "\\n[102]うぉげぇええッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呜哦咯诶诶诶！！\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 282, Pos (15,9)
+msgid "\\n[102]もうっ……ゆる…して…\\n[103]\\n[104]\\^"
+msgstr "\\n[102]已经……饶…了我…吧…\\n[103]\\n[104]\\^"
+
+#. ID 38, Page 1, Line 292, Pos (15,9)
+msgid "……全身の肉を食い散らかされる。"
+msgstr "……全身的肉被啃食得乱七八糟。"
+
+#. ID 38, Page 1, Line 299, Pos (15,9)
+msgid ""
+"蟲が……\n"
+"小さな蟲の群れが、\\n[\\v[6]]をすべて食い尽くす。"
+msgstr "虫子……小小的虫群，将\\n[\\v[6]]全部吃尽。"
+
+#. ID 38, Page 1, Line 307, Pos (15,9)
+msgid ""
+"全身から血が噴き出す。\n"
+"肉を、内臓を、そして骨を食い荒され、\n"
+"もう\\n[\\v[6]]は見るも無残な肉塊になっていた。"
+msgstr ""
+"鲜血从全身喷出。肉、内脏、\n"
+"甚至骨头都被啃食殆尽，\n"
+"已经\\n[\\v[6]]变成了惨不忍睹的肉块。"
+
+#. ID 38, Page 1, Line 310, Pos (15,9)
+msgid ""
+"腕だった部分を虚空にのばす……\n"
+"が、すでにそれは半ばほどで千切れてしまっていた。"
+msgstr ""
+"把曾是手臂的部分伸向虚空……但，\n"
+"那已经断在半途了。"
+
+#. ID 38, Page 1, Line 312, Pos (15,9)
+msgid ""
+"\\n[\\v[6]]\n"
+"うごえええええええええ！！\n"
+"んがええええええええああああああああ！！"
+msgstr ""
+"\\n[\\v[6]]呜咕诶诶诶诶诶诶诶诶诶！！\n"
+"嗯嘎诶诶诶诶诶诶诶诶啊啊啊啊啊啊啊啊！！"
+
+#. ID 38, Page 1, Line 344, Pos (15,9)
+#. ID 38, Page 1, Line 356, Pos (15,9)
+msgid "………………"
+msgstr "………………"
+
+#. ID 38, Page 1, Line 345, Pos (15,9)
+#. ID 38, Page 1, Line 355, Pos (15,9)
+msgid "………………………"
+msgstr "………………………"
+
+#. ID 38, Page 1, Line 346, Pos (15,9)
+msgid "今回の捕食実験はどうだった？"
+msgstr "这次的捕食实验怎么样？"
+
+#. ID 38, Page 1, Line 347, Pos (15,9)
+msgid ""
+"成功だ。食欲旺盛。\n"
+"骨すら残ってない……。"
+msgstr "成功了。食欲旺盛。连骨头都没剩下……。"
+
+#. ID 38, Page 1, Line 349, Pos (15,9)
+msgid ""
+"よしよし……\n"
+"……しかし、勿体なかったな。\n"
+"この奴隷、かなりの美人だったぞ？"
+msgstr ""
+"很好很好…………不过，太可惜了。这个奴隶，\n"
+"可是相当的美人哦？"
+
+#. ID 38, Page 1, Line 352, Pos (15,9)
+msgid ""
+"仕方がないだろう。\n"
+"自然を理解し、その謎を説き明かすのが我らの使命だ。"
+msgstr ""
+"没办法吧。理解自然，并解开其谜团，\n"
+"是我们的使命。"
+
+#. ID 38, Page 1, Line 354, Pos (15,9)
+msgid "……そうだな。"
+msgstr "……是啊。"

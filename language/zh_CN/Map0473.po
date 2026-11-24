@@ -1,0 +1,25 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 4, Pos (0,26)
+msgid ""
+"申し訳ありませんが、奴隷の方は\n"
+"お引取りをお願いします。"
+msgstr "非常抱歉，奴隶请离开。"
+
+#. ID 1, Page 1, Line 13, Pos (0,26)
+msgid ""
+"申し訳ありませんが、貴女様のご入店は\n"
+"現在禁止されております。"
+msgstr "非常抱歉，贵女大人目前禁止入店。"

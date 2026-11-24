@@ -1,0 +1,140 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 14, Pos (10,19)
+#. ID 25, Page 4, Line 16, Pos (5,9)
+msgid "…扉はロックされているようだ"
+msgstr "…门好像被锁上了"
+
+#. ID 26, Page 2, Line 4, Pos (4,9)
+#. ID 27, Page 2, Line 7, Pos (4,8)
+msgid "施錠 ヲ シマス"
+msgstr "上锁"
+
+#. ID 26, Page 2, Line 16, Pos (4,9)
+#. ID 41, Page 2, Line 12, Pos (12,16)
+msgid "トビラ ヲ ヒラキマス"
+msgstr "打开门"
+
+#. ID 26, Page 2, Line 25, Pos (4,9)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 1.00"
+msgstr ""
+"请提供卡钥匙的版本。\n"
+"当前的版本 　　\\v[1102].00 解锁所需版本 1.00"
+
+#. ID 26, Page 2, Line 37, Pos (4,9)
+#. ID 28, Page 2, Line 44, Pos (10,5)
+#. ID 41, Page 2, Line 39, Pos (12,16)
+msgid "カードキー ヲ イレテクダサイ"
+msgstr "请插入卡钥匙"
+
+#. ID 28, Page 2, Line 5, Pos (10,5)
+msgid "パスワード ヲ 入力 シテクダサイ"
+msgstr "请输入密码"
+
+#. ID 28, Page 2, Line 6, Pos (10,5)
+#. Contains choice at line 2 (2 options)
+msgid "アルプスの少女○○ジ"
+msgstr "阿尔卑斯的少女○○吉"
+
+#. ID 28, Page 2, Line 7, Pos (10,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 28, Page 2, Line 15, Pos (10,5)
+msgid ""
+"ぱすわーどノ 入力ニ 成功シマシタ。\\!\n"
+"ばーじょん ノ あっぷぐれーど ヲ 開始シマス。"
+msgstr "密码输入成功。\\!开始版本升级。"
+
+#. ID 28, Page 2, Line 24, Pos (10,5)
+msgid "……どうやら成功したようだ。"
+msgstr "……好像成功了。"
+
+#. ID 28, Page 2, Line 31, Pos (10,5)
+msgid "パスワード ガ チガイマス"
+msgstr "密码错误"
+
+#. ID 28, Page 3, Line 3, Pos (10,5)
+msgid "この端末にもう用はない"
+msgstr "这个终端已经没有用了"
+
+#. ID 29, Page 2, Line 3, Pos (1,4)
+msgid "\\n[\\v[6]]は本棚を調べた"
+msgstr "\\n[\\v[6]]调查了书架"
+
+#. ID 29, Page 2, Line 4, Pos (1,4)
+msgid ""
+"すると、一冊の古ぼけた本を見つけた\\!\n"
+"そこには「管理者記録」と書いてある。"
+msgstr ""
+"于是，发现了一本陈旧的书\\!上面写着\n"
+"「管理者记录」。"
+
+#. ID 29, Page 2, Line 6, Pos (1,4)
+#. Contains choice at line 2 (2 options)
+msgid "どうする？"
+msgstr "怎么做？"
+
+#. ID 29, Page 2, Line 7, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"見てみる\n"
+"やめる"
+msgstr ""
+"查看\n"
+"放弃"
+
+#. ID 29, Page 2, Line 11, Pos (1,4)
+msgid ""
+"不正アクセス防止のために、パスワードを設定しないと\n"
+"いけないらしいが、正直な所、面倒だったので\n"
+"とても簡単なものにした。\\!\n"
+"まあ、強盗でも入ってこない限り大丈夫だろう。"
+msgstr ""
+"为了防止非法访问，似乎必须设置密码，但说实话，\n"
+"因为很麻烦，所以设置得非常简单。\\!嘛，\n"
+"只要没有强盗进来就没问题吧。"
+
+#. ID 31, Page 2, Line 3, Pos (7,9)
+msgid "製造プラント：管理者室"
+msgstr "制造工厂：管理者室"
+
+#. ID 41, Page 2, Line 27, Pos (12,16)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 2.00"
+msgstr ""
+"请提供卡钥匙的版本。\n"
+"当前的版本 　　\\v[1102].00 解锁所需版本 2.00"
+
+#. ID 44, Page 2, Line 3, Pos (3,10)
+#. ID 45, Page 2, Line 3, Pos (3,11)
+#. ID 46, Page 2, Line 3, Pos (2,11)
+#. ID 47, Page 2, Line 3, Pos (2,12)
+#. ID 48, Page 2, Line 3, Pos (2,13)
+#. ID 51, Page 2, Line 3, Pos (1,13)
+msgid "ガレキが道をふさいでる……"
+msgstr "瓦砾堵住了道路……"

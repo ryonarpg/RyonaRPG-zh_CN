@@ -1,0 +1,63 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 32, Page 2, Line 3, Pos (1,10)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"
+
+#. ID 41, Page 2, Line 4, Pos (5,2)
+msgid ""
+"名前：ムーンメイジ\n"
+"種族：不定形"
+msgstr "名字：月法师 种族：不定形"
+
+#. ID 41, Page 2, Line 6, Pos (5,2)
+msgid "宇宙時代の魔法使い"
+msgstr "宇宙时代的魔法师"
+
+#. ID 41, Page 2, Line 7, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$1000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "花\\$1000G可以听取攻略情报。要听吗？"
+
+#. ID 41, Page 2, Line 9, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 41, Page 2, Line 15, Pos (5,2)
+msgid ""
+"銀色の体をした宇宙の魔法使い\\!\n"
+"その体は柔らかく、無属性攻撃を半減してしまう"
+msgstr ""
+"拥有银色身体的宇宙魔法师\\!其身体柔软，\n"
+"会将无属性攻击减半"
+
+#. ID 41, Page 2, Line 17, Pos (5,2)
+msgid "代わりに属性魔法攻撃は良く効く"
+msgstr "相反，属性魔法攻击很有效"
+
+#. ID 41, Page 2, Line 18, Pos (5,2)
+msgid "電撃の魔法で攻撃してくる"
+msgstr "会用电击魔法攻击过来"
+
+#. ID 41, Page 2, Line 19, Pos (5,2)
+msgid "稀に\\C[2]ハウリング砲\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]咆哮炮\\C[0]"

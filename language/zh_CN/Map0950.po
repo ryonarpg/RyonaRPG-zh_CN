@@ -1,0 +1,237 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 9, Page 1, Line 3, Pos (6,4)
+msgid "一心不乱に餌を食べている。"
+msgstr "正一心一意地吃着饲料。"
+
+#. ID 10, Page 1, Line 3, Pos (8,3)
+#. ID 10, Page 2, Line 3, Pos (8,3)
+msgid "半液体の餌が入っている。"
+msgstr "里面装着半液体饲料。"
+
+#. ID 10, Page 1, Line 4, Pos (8,3)
+msgid ""
+"餌が減ってくると、\n"
+"新たな餌が上からビチャビチャと降ってくる。"
+msgstr "饲料减少后，新饲料就会从上面啪嗒啪嗒地落下来。"
+
+#. ID 10, Page 2, Line 4, Pos (8,3)
+#. Contains choice at line 2 (2 options)
+msgid "食べてみようか？"
+msgstr "要试着吃吗？"
+
+#. ID 10, Page 2, Line 5, Pos (8,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"流石にそれは…。\n"
+"少しだけなら…。"
+msgstr ""
+"再怎么说那也…。\n"
+"只是一点的话…。"
+
+#. ID 10, Page 2, Line 16, Pos (8,3)
+msgid "離乳食のような味がする。"
+msgstr "有股像离乳食一样的味道。"
+
+#. ID 10, Page 2, Line 21, Pos (8,3)
+msgid "なんだか余計にお腹が空いた気がする。"
+msgstr "总觉得反而更饿了。"
+
+#. ID 10, Page 2, Line 28, Pos (8,3)
+msgid ""
+"…！\\|\n"
+"猛烈な空腹感が襲ってきた。"
+msgstr "…！\\|猛烈的饥饿感袭来了。"
+
+#. ID 10, Page 2, Line 30, Pos (8,3)
+msgid ""
+"我慢できない！\\|\n"
+"早く何か口にしなければ！"
+msgstr "忍不住了！\\|必须快点吃点什么！"
+
+#. ID 10, Page 2, Line 36, Pos (8,3)
+msgid ""
+"気が付くと、\\N[0]は、\n"
+"目の前の豚の餌に頭を突っ込むと、\n"
+"むしゃぶりつくように頬張り始めた。"
+msgstr ""
+"回过神来，\\N[0]已经把脑袋扎进眼前的猪食里，\n"
+"像猛扑上去一样大口塞进嘴里。"
+
+#. ID 10, Page 2, Line 52, Pos (8,3)
+msgid ""
+"おいひぃ…！\n"
+"おいひいよぉ！！"
+msgstr "好好吃…！好好吃啊！！"
+
+#. ID 10, Page 2, Line 58, Pos (8,3)
+msgid ""
+"強烈な空腹感を、\n"
+"理性では抑えられなくなった\\N[0]は、\n"
+"目の前の流動食を飲み込み続ける。"
+msgstr ""
+"已经无法用理性压制强烈饥饿感的\\N[0]，\n"
+"继续吞下眼前的流食。"
+
+#. ID 10, Page 2, Line 67, Pos (8,3)
+msgid ""
+"それから、オーク達が戻ってくるまでの三日間。\n"
+"\\N[0]は豚の餌を食べ続けた。"
+msgstr ""
+"那之后，直到兽人们回来的三天里。\n"
+"\\N[0]一直在吃猪食。"
+
+#. ID 10, Page 2, Line 80, Pos (8,3)
+msgid "おい。こっちだ。"
+msgstr "喂。这边。"
+
+#. ID 10, Page 2, Line 92, Pos (8,3)
+msgid ""
+"しばらく放っておけば、食べると思ったけど、\n"
+"やっぱり食べたんだね。"
+msgstr "我本来觉得放一阵子就会吃，果然还是吃了啊。"
+
+#. ID 10, Page 2, Line 94, Pos (8,3)
+msgid ""
+"ずいぶん俺たち好みの体になったなぁ。\n"
+"これからよろしくね。\n"
+"雌豚の\\N[0]ちゃん$g"
+msgstr ""
+"变得相当合我们口味了啊。今后请多指教。\n"
+"母猪\\N[0]酱$g"
+
+#. ID 10, Page 2, Line 102, Pos (8,3)
+msgid ""
+"ブヒッ$g\n"
+"ブヒッ$gブヒィ$g$g$g"
+msgstr "噗嘻$g噗嘻$g噗嘻——$g$g$g"
+
+#. ID 10, Page 2, Line 108, Pos (8,3)
+msgid ""
+"気が付くと、\\N[0]の体は、\n"
+"贅肉が垂れ下がっただらしない格好になっていた。"
+msgstr ""
+"回过神来，\\N[0]的身体已经变成赘肉下垂、\n"
+"邋遢不堪的样子。"
+
+#. ID 10, Page 2, Line 110, Pos (8,3)
+msgid ""
+"また、耳は豚のように変化し、\n"
+"お尻には、カールした小さな尻尾が生えている。"
+msgstr ""
+"而且，耳朵变成了猪耳，\n"
+"屁股上还长出了卷曲的小尾巴。"
+
+#. ID 10, Page 2, Line 113, Pos (8,3)
+msgid "\\N[0]は豚になってしまった……。"
+msgstr "\\N[0]变成了猪……。"
+
+#. ID 11, Page 1, Line 3, Pos (16,5)
+#. Contains choice at line 2 (2 options)
+msgid "休みますか？"
+msgstr "要休息吗？"
+
+#. ID 11, Page 1, Line 4, Pos (16,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 12, Page 2, Line 7, Pos (5,9)
+#. ID 12, Page 3, Line 7, Pos (5,9)
+msgid "開かない…。"
+msgstr "打不开…。"
+
+#. ID 12, Page 2, Line 24, Pos (5,9)
+msgid "やっぱり開かない…。"
+msgstr "果然打不开…。"
+
+#. ID 12, Page 2, Line 30, Pos (5,9)
+msgid "大声で呼んでみたが、誰も居ないようだ…。"
+msgstr "试着大声呼喊，但好像没有人在…。"
+
+#. ID 12, Page 2, Line 35, Pos (5,9)
+msgid "お腹がすいた…。"
+msgstr "肚子饿了…。"
+
+#. ID 12, Page 2, Line 40, Pos (5,9)
+msgid "そういえば、昨日から何も食べていない。"
+msgstr "说起来，从昨天开始就什么都没吃。"
+
+#. ID 13, Page 1, Line 4, Pos (4,10)
+msgid "休む場所が無いのかい？"
+msgstr "没有地方休息吗？"
+
+#. ID 13, Page 1, Line 5, Pos (4,10)
+msgid ""
+"あんまり上等じゃないが、\n"
+"豚小屋の中でなら休んでもいい。"
+msgstr "虽然不怎么样，但在猪圈里休息也可以。"
+
+#. ID 13, Page 1, Line 7, Pos (4,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"布を齧ったりするから、\n"
+"服は預かっておくがね。"
+msgstr "因为会咬布，衣服就先放我这儿吧。"
+
+#. ID 13, Page 1, Line 9, Pos (4,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"冗談じゃない。\n"
+"休ませてもらう。"
+msgstr ""
+"开什么玩笑。\n"
+"让我休息吧。"
+
+#. ID 13, Page 1, Line 11, Pos (4,10)
+msgid "それなら、仕方ない。"
+msgstr "那样的话，也没办法。"
+
+#. ID 13, Page 1, Line 15, Pos (4,10)
+msgid "それじゃあ、服は預かっておくよ。"
+msgstr "那么，衣服我就先保管了。"
+
+#. ID 13, Page 1, Line 17, Pos (4,10)
+msgid "その服は脱げないようだな…。"
+msgstr "那身衣服好像脱不掉啊…。"
+
+#. ID 13, Page 1, Line 41, Pos (4,10)
+msgid ""
+"雌豚の\\N[0]じゃないか。\n"
+"豚と交尾でもしにきたのかい？"
+msgstr "这不是母猪\\N[0]吗。是来和猪交尾的吗？"
+
+#. ID 15, Page 1, Line 3, Pos (13,10)
+msgid ""
+"俺は詳しくないけど、\n"
+"ここの豚の餌には色々薬が入ってるらしい。"
+msgstr "我不太清楚，不过听说这里的猪食里加了不少药。"
+
+#. ID 15, Page 1, Line 6, Pos (13,10)
+msgid "こいつらは、完全に豚になっちまったなぁ。"
+msgstr "这些家伙已经完全变成猪了啊。"
+
+#. ID 15, Page 1, Line 9, Pos (13,10)
+msgid ""
+"それにしても、\n"
+"四足の豚のほこグラが欲しいなぁ。\n"
+"これじゃ、共食いみたいじゃないか。"
+msgstr ""
+"话虽如此，我想要四脚猪的肉棒啊。\n"
+"这样简直像同类相食吧。"

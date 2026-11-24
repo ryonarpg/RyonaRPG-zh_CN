@@ -1,0 +1,304 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 3, Pos (6,46)
+#. Contains choice at line 2 (2 options)
+msgid "＊薬のようだ……拾いますか？"
+msgstr "＊好像是药……要捡起来吗？"
+
+#. ID 34, Page 2, Line 4, Pos (6,46)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 2, Line 22, Pos (8,14)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 2, Line 5, Pos (23,36)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 2, Line 5, Pos (24,36)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 2, Line 5, Pos (23,44)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 2, Line 5, Pos (24,44)
+#. Choice (2 options, embedded in a message)
+#. ID 65, Page 2, Line 22, Pos (8,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 34, Page 2, Line 6, Pos (6,46)
+msgid "＊[マリオネットパウダー]を手に入れた"
+msgstr "＊获得了[提线木偶粉末]"
+
+#. ID 38, Page 2, Line 8, Pos (8,14)
+#. ID 38, Page 2, Line 45, Pos (8,14)
+#. ID 39, Page 2, Line 28, Pos (23,36)
+#. ID 40, Page 2, Line 28, Pos (24,36)
+#. ID 43, Page 2, Line 28, Pos (23,44)
+#. ID 44, Page 2, Line 28, Pos (24,44)
+#. ID 65, Page 2, Line 8, Pos (8,21)
+#. ID 65, Page 2, Line 45, Pos (8,21)
+msgid "＊鍵が掛かっている"
+msgstr "＊上锁了"
+
+#. ID 38, Page 2, Line 10, Pos (8,14)
+#. ID 65, Page 2, Line 10, Pos (8,21)
+msgid ""
+"＊持っている鍵とは別の鍵に\n"
+"　付け替えられているようだ"
+msgstr "＊好像被换成了与持有的钥匙不同的钥匙"
+
+#. ID 38, Page 2, Line 21, Pos (8,14)
+#. Contains choice at line 2 (2 options)
+#. ID 39, Page 2, Line 4, Pos (23,36)
+#. Contains choice at line 2 (2 options)
+#. ID 40, Page 2, Line 4, Pos (24,36)
+#. Contains choice at line 2 (2 options)
+#. ID 43, Page 2, Line 4, Pos (23,44)
+#. Contains choice at line 2 (2 options)
+#. ID 44, Page 2, Line 4, Pos (24,44)
+#. Contains choice at line 2 (2 options)
+#. ID 65, Page 2, Line 21, Pos (8,21)
+#. Contains choice at line 2 (2 options)
+msgid "＊[魔導遺跡の鍵]を使いますか？"
+msgstr "＊要使用[魔导遗迹钥匙]吗？"
+
+#. ID 41, Page 2, Line 4, Pos (8,11)
+msgid ""
+"＊誰かが囚われている……\n"
+"　格好からして、おそらく調査団員だろう。"
+msgstr ""
+"＊有人被囚禁着……　从打扮来看，\n"
+"　大概是调查团员吧。"
+
+#. ID 41, Page 2, Line 6, Pos (8,11)
+msgid ""
+"＊声をかけたが、返事は返ってこなかった。\n"
+"　目を虚空に泳がせている。"
+msgstr ""
+"＊我打了声招呼，但没有得到回应。\n"
+"　他的目光在虚空中游移。"
+
+#. ID 45, Page 2, Line 4, Pos (4,21)
+#. ID 45, Page 2, Line 12, Pos (4,21)
+msgid "＊扉は開かない……"
+msgstr "＊门打不开……"
+
+#. ID 47, Page 2, Line 3, Pos (39,12)
+msgid "＊何かの研究について纏めたレポートだ"
+msgstr "＊这是总结了某项研究的报告"
+
+#. ID 47, Page 2, Line 14, Pos (39,12)
+#. Choice (4 options)
+msgid ""
+"人体操作の禁呪\n"
+"精神操作の禁呪\n"
+"あやつりの輪について\n"
+"屍霊術について"
+msgstr ""
+"人体操作禁咒\n"
+"精神操作禁咒\n"
+"关于操纵之轮\n"
+"关于尸灵术"
+
+#. ID 47, Page 2, Line 16, Pos (39,12)
+msgid ""
+"＊被験者：コーデイリア　性別：女性\n"
+"　[人体操作の禁呪]についての試行結果"
+msgstr ""
+"＊受试者：科迪莉亚　性别：\n"
+"　女性　关于[人体操作禁咒]的试验结果"
+
+#. ID 47, Page 2, Line 18, Pos (39,12)
+msgid ""
+"＊正常な思考、肉体状態でない場合でも\n"
+"　肉体操作は継続して行えるかどうか、について\n"
+"　継続して自慰をさせ続けた"
+msgstr ""
+"＊即便处于并非正常思考、\n"
+"　肉体状态的情况下　肉体操作是否仍能持续进行，\n"
+"　关于这一点　持续让她不断自慰"
+
+#. ID 47, Page 2, Line 21, Pos (39,12)
+msgid ""
+"＊結果、発狂するも行為は止まらず、\n"
+"　継続行為による肉体の疲労も無関係だった"
+msgstr ""
+"＊结果，虽然发狂了但行为没有停止，\n"
+"　持续行为造成的肉体疲劳也无关"
+
+#. ID 47, Page 2, Line 23, Pos (39,12)
+msgid ""
+"＊衰弱による死亡後は行動が止まった\n"
+"　これは肉体操作の禁呪と屍霊術が\n"
+"　似ているが非なるものであることを証明する"
+msgstr ""
+"＊因衰弱死亡后行动就停止了　这证明人体操作禁咒\n"
+"　与尸灵术　虽然相似但并非同一事物"
+
+#. ID 47, Page 2, Line 28, Pos (39,12)
+msgid ""
+"＊被験者：サーシャ　性別：女性\n"
+"　[精神操作の禁呪]についての試行結果"
+msgstr ""
+"＊受试者：萨莎　性别：\n"
+"　女性　关于[精神操作禁咒]的试验结果"
+
+#. ID 47, Page 2, Line 30, Pos (39,12)
+msgid ""
+"＊精神の操作というよりも平たく言えば\n"
+"　感情の操作のようなものであり\n"
+"　怒りや憎悪といったものを指す"
+msgstr ""
+"＊与其说是精神操作，\n"
+"　平白地说　更像是感情操作之类\n"
+"　指的是愤怒或憎恶这些东西"
+
+#. ID 47, Page 2, Line 33, Pos (39,12)
+msgid ""
+"＊「愛情」に関する調査の結果、\n"
+"　人に対する愛を、例えば動物に向けさせることは\n"
+"　可能であった。"
+msgstr ""
+"＊关于「爱情」的调查结果，　使对人类的爱，\n"
+"　例如转向动物，是　可能的。"
+
+#. ID 47, Page 2, Line 36, Pos (39,12)
+msgid ""
+"＊愛情の強さを高め続けた結果、\n"
+"　性交や、自身の身体の一部を動物に食べさせる、\n"
+"　という猟奇的ともいえる行為に走る程になる"
+msgstr ""
+"＊持续提高爱情强度的结果，　会到做出性交，\n"
+"　或让动物吃掉自己身体一部分，\n"
+"　这种可谓猎奇的行为的程度"
+
+#. ID 47, Page 2, Line 39, Pos (39,12)
+msgid ""
+"＊しかし、物に対して人と同等の愛情を\n"
+"　抱かせることはできず、\n"
+"　生命と非生命へ抱く愛情は別の回路であると\n"
+"　仮説を立て、検証する。"
+msgstr ""
+"＊但是，无法让对物品抱有人同等程度的爱情，\n"
+"　对生命与非生命所抱有的爱情属于不同回路　由此\n"
+"　建立假说，并进行验证。"
+
+#. ID 47, Page 2, Line 45, Pos (39,12)
+msgid ""
+"＊[あやつりの輪]とは禁呪の要点を絞り\n"
+"　道具として携帯可能にしたものである"
+msgstr ""
+"＊[操纵之轮]是将禁咒的要点浓缩　并做成可携带道\n"
+"　具的东西"
+
+#. ID 47, Page 2, Line 47, Pos (39,12)
+msgid "＊精神の働きを止め肉体のみの支配を行う"
+msgstr "＊停止精神活动，仅对肉体进行支配"
+
+#. ID 47, Page 2, Line 48, Pos (39,12)
+msgid ""
+"＊禁呪を扱えない者でも\n"
+"　最低限扱えるようにしたものであり\n"
+"　用途は戦争での兵士などに用いられたと\n"
+"　推測される"
+msgstr ""
+"＊即便是无法使用禁咒的人　也能最低限度地使用，\n"
+"　推测其用途是被用于战争中的士兵等"
+
+#. ID 47, Page 2, Line 54, Pos (39,12)
+msgid ""
+"＊死体に魔力による偽りの魂を与える禁呪で\n"
+"　噛み砕いて言えば死体を操る魔法である"
+msgstr ""
+"＊是给予尸体由魔力构成的虚假灵魂的禁咒　简单来\n"
+"　说就是操纵尸体的魔法"
+
+#. ID 47, Page 2, Line 56, Pos (39,12)
+msgid ""
+"＊偽りの魂を死体に入れることで\n"
+"　死体の腐敗速度を減少させることができる\n"
+"　が、逆に言えば腐敗速度を止めることは\n"
+"　出来ない"
+msgstr ""
+"＊通过将虚假的灵魂放入尸体　可以减缓尸体的腐败\n"
+"　速度　但是，反过来说无法停止腐败速度"
+
+#. ID 47, Page 2, Line 60, Pos (39,12)
+msgid ""
+"＊……研究の結果、特定の触媒を使うことで\n"
+"　魂だけでなく偽りの肉体の組成を\n"
+"　行うことが出来ることが判明した"
+msgstr ""
+"＊……研究结果查明，\n"
+"　通过使用特定触媒　不仅能构成灵魂，\n"
+"　还能构成虚假的肉体"
+
+#. ID 47, Page 2, Line 63, Pos (39,12)
+msgid ""
+"＊さらにその触媒を発展させ\n"
+"　術者がいなくてもある程度自律的に\n"
+"　死者に行動させることも可能となった"
+msgstr ""
+"＊进一步改良那种触媒后　即使没有术者，\n"
+"　也能让死者在一定程度上自律行动"
+
+#. ID 47, Page 2, Line 66, Pos (39,12)
+msgid ""
+"＊偽りの肉体の組成であるため\n"
+"　本来の死体と違い腐敗を気にしなくてもよいのが\n"
+"　最大の利点である"
+msgstr ""
+"＊由于是虚假肉体的组成　与原本的尸体不同，\n"
+"　不必在意腐败　这才是最大的优点"
+
+#. ID 59, Page 2, Line 3, Pos (3,43)
+msgid "＊怪しげな粉末の物体だ"
+msgstr "＊是个可疑的粉末状物体"
+
+#. ID 62, Page 2, Line 3, Pos (6,43)
+msgid "＊何かの魔道具のようだ"
+msgstr "＊像是某种魔道具"
+
+#. ID 66, Page 2, Line 4, Pos (14,21)
+msgid "＊ゾンビを捕らえているようだ……"
+msgstr "＊似乎捕获了僵尸……"
+
+#. ID 66, Page 2, Line 5, Pos (14,21)
+msgid "＊……まるで調査団員のような格好をしている"
+msgstr "＊……简直就像调查团员一样的打扮"
+
+#. ID 79, Page 2, Line 9, Pos (15,7)
+msgid "＊＊＊かべのなかにいる＊＊＊ "
+msgstr "＊＊＊在墙壁之中＊＊＊"
+
+#. ID 79, Page 3, Line 3, Pos (15,7)
+msgid "＊停止しているようだ……"
+msgstr "＊似乎停止了……"
+
+#. ID 80, Page 2, Line 4, Pos (17,9)
+msgid "＊ごみは　ごみすてばに！"
+msgstr "＊垃圾要丢到　垃圾箱里！"
+
+#. ID 81, Page 2, Line 16, Pos (24,21)
+#. ID 82, Page 2, Line 16, Pos (23,21)
+msgid ""
+"ここからさきは\n"
+"とおっては　いけません"
+msgstr "从这里往前　禁止通行"
+
+#. ID 83, Page 2, Line 9, Pos (19,23)
+msgid "＊「屍霊術」に関する魔導書のようだ……"
+msgstr "＊似乎是关于「尸灵术」的魔导书……"

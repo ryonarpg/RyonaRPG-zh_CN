@@ -1,0 +1,137 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 73, Page 1, Line 9, Pos (18,47)
+msgid "床が崩れてしまった……。"
+msgstr "地板崩塌了……。"
+
+#. ID 73, Page 1, Line 11, Pos (18,47)
+msgid ""
+"……不幸中の幸いというか、\n"
+"この状態の自分にはあまり関係ないが。"
+msgstr ""
+"……不知算不算不幸中的万幸，\n"
+"不过对现在这个状态的我来说关系不大。"
+
+#. ID 73, Page 1, Line 17, Pos (18,47)
+msgid ""
+"……まあ、\n"
+"こんな姿になってしまった自分には\n"
+"もう関係ないか。"
+msgstr "……嘛，对变成这副样子的我来说已经无关了吧。"
+
+#. ID 73, Page 1, Line 22, Pos (18,47)
+msgid ""
+"……まあ、\n"
+"宙に浮いている自分には別に関係ないか。"
+msgstr "……嘛，对漂浮在空中的我来说没什么关系吧。"
+
+#. ID 91, Page 2, Line 6, Pos (20,78)
+msgid ""
+"元の姿に戻りたいって……?\n"
+"……なら……青い水を探しなさい……。"
+msgstr "你说想恢复原样……？……那么……去找蓝色的水吧……。"
+
+#. ID 91, Page 2, Line 11, Pos (20,78)
+msgid ""
+"あら、いい格好……\n"
+"よく似合っているわよ……うふふ……。"
+msgstr "哎呀，这身打扮真不错……很合身哦……呵呵……。"
+
+#. ID 91, Page 2, Line 19, Pos (20,78)
+msgid ""
+"ﾔGｺﾀWZﾅbV樫閠……?\n"
+"……=鞍U廴……枡lbﾏnﾜｸ2r腮閤……。"
+msgstr ""
+"ヤGコタWZナbV樫閠……?……=鞍U廴……\n"
+"枡lbマnワク2r腮閤……。"
+
+#. ID 91, Page 2, Line 24, Pos (20,78)
+msgid ""
+"M旆ｶﾋｬｭ/aXｷ賊ｯ……\n"
+"幹莓祥SP恋ﾙｿ澈Xｷ賊……５*bﾌPf……。"
+msgstr ""
+"M旆カヒャュ/aXキ賊ッ……幹莓祥SP恋ルソ澈Xキ賊…\n"
+"…5*bフPf……。"
+
+#. ID 91, Page 2, Line 34, Pos (20,78)
+msgid ""
+"青い水は浄化の水……\n"
+"赤い水は……うふふ……。"
+msgstr "蓝色的水是净化之水……红色的水是……呵呵……。"
+
+#. ID 91, Page 2, Line 38, Pos (20,78)
+msgid ""
+"笳K?錡V,糸ﾁﾂ・ｯ……\n"
+"繃θ靃?4Bﾆ/m徭・i……５*bﾌPf……。"
+msgstr ""
+"笳K?錡V,糸チツ・ッ……繃θ靃?4Bニ/m徭・i……\n"
+"5*bフPf……。"
+
+#. ID 92, Page 2, Line 3, Pos (22,73)
+#. ID 104, Page 2, Line 3, Pos (21,73)
+#. ID 105, Page 2, Line 3, Pos (21,72)
+#. ID 106, Page 2, Line 3, Pos (23,73)
+#. ID 107, Page 2, Line 3, Pos (23,72)
+msgid "禍々しい色合いの水が満ちている……。"
+msgstr "充满不祥色彩的水……。"
+
+#. ID 92, Page 2, Line 4, Pos (22,73)
+#. Contains choice at line 2 (2 options)
+#. ID 104, Page 2, Line 4, Pos (21,73)
+#. Contains choice at line 2 (2 options)
+#. ID 105, Page 2, Line 4, Pos (21,72)
+#. Contains choice at line 2 (2 options)
+#. ID 106, Page 2, Line 4, Pos (23,73)
+#. Contains choice at line 2 (2 options)
+#. ID 107, Page 2, Line 4, Pos (23,72)
+#. Contains choice at line 2 (2 options)
+msgid "……入ってみますか?"
+msgstr "……要进去看看吗？"
+
+#. ID 92, Page 2, Line 5, Pos (22,73)
+#. Choice (2 options, embedded in a message)
+#. ID 104, Page 2, Line 5, Pos (21,73)
+#. Choice (2 options, embedded in a message)
+#. ID 105, Page 2, Line 5, Pos (21,72)
+#. Choice (2 options, embedded in a message)
+#. ID 106, Page 2, Line 5, Pos (23,73)
+#. Choice (2 options, embedded in a message)
+#. ID 107, Page 2, Line 5, Pos (23,72)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 92, Page 2, Line 41, Pos (22,73)
+#. ID 104, Page 2, Line 41, Pos (21,73)
+#. ID 105, Page 2, Line 41, Pos (21,72)
+#. ID 106, Page 2, Line 41, Pos (23,73)
+#. ID 107, Page 2, Line 41, Pos (23,72)
+msgid ""
+"\\N[\\V[6]]は\n"
+"太古の呪詛をその身に受けた。"
+msgstr "\\N[\\V[6]]身负太古的诅咒。"
+
+#. ID 108, Page 2, Line 3, Pos (22,72)
+msgid ""
+"水瓶を担いだ女性の像は\n"
+"愚かな罪人を憐れむような\n"
+"酷薄な微笑みを浮かべている……。"
+msgstr ""
+"挑着水瓶的女性雕像，\n"
+"浮现出仿佛怜悯愚蠢罪人般的冷酷微笑……。"

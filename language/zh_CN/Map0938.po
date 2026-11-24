@@ -1,0 +1,147 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 11, Line 58, Pos (4,1)
+#. ID 16, Page 11, Line 58, Pos (5,1)
+msgid ""
+"\n"
+"黒い魂が身体の芯へとへ入っていく…\\.\\.\\^"
+msgstr "黑之魂正钻入身体核心……\\.\\.\\^"
+
+#. ID 15, Page 11, Line 127, Pos (4,1)
+#. ID 15, Page 11, Line 151, Pos (4,1)
+#. ID 16, Page 11, Line 127, Pos (5,1)
+#. ID 16, Page 11, Line 151, Pos (5,1)
+msgid ""
+"\n"
+"腕の力が抜けて、\n"
+"\\n[101]\\n[102]を取り落としてしまった！"
+msgstr "手臂力气一松，把\\n[101]\\n[102]失手掉落在地！"
+
+#. ID 15, Page 11, Line 132, Pos (4,1)
+#. ID 15, Page 11, Line 156, Pos (4,1)
+#. ID 16, Page 11, Line 132, Pos (5,1)
+#. ID 16, Page 11, Line 156, Pos (5,1)
+msgid ""
+"\n"
+"手の力が抜けたが、\n"
+"\\n[101]\\n[102]が外れることはなかった…"
+msgstr "手的力气没了，但\\n[101]\\n[102]并没有脱落……"
+
+#. ID 15, Page 11, Line 139, Pos (4,1)
+#. ID 15, Page 11, Line 163, Pos (4,1)
+#. ID 16, Page 11, Line 139, Pos (5,1)
+#. ID 16, Page 11, Line 163, Pos (5,1)
+msgid ""
+"\n"
+"手の力が抜けたが、何も握っていなかった…"
+msgstr "手的力气没了，但什么也没握着……"
+
+#. ID 15, Page 11, Line 175, Pos (4,1)
+#. ID 16, Page 11, Line 175, Pos (5,1)
+msgid ""
+"気持ち悪さに耐えきれず\n"
+"\\n[101]\\n[102]を\n"
+"脱ぎ棄ててしまった!"
+msgstr "难受得忍无可忍，把\\n[101]\\n[102]脱掉扔了!"
+
+#. ID 15, Page 11, Line 180, Pos (4,1)
+#. ID 16, Page 11, Line 180, Pos (5,1)
+msgid ""
+"\n"
+"\\n[101]\\n[102]に封じられた身体を\n"
+"不快な感触が跳ねまわっていく…"
+msgstr ""
+"令人不适的触感在\\n[101]\\n[102]所封闭的身体中四\n"
+"处乱窜……"
+
+#. ID 15, Page 11, Line 187, Pos (4,1)
+#. ID 16, Page 11, Line 187, Pos (5,1)
+msgid ""
+"\n"
+"不快な感触が身体に纏わりつく感触に、\n"
+"\\n[\\v[006]]は小さく震えた。"
+msgstr ""
+"那令人不适的触感缠上身体，\n"
+"\\n[\\v[006]]微微颤抖了一下。"
+
+#. ID 15, Page 11, Line 200, Pos (4,1)
+#. ID 16, Page 11, Line 200, Pos (5,1)
+msgid ""
+"不快感に耐えきれず\n"
+"\\n[101]\\n[102]を外してしまった!"
+msgstr ""
+"实在忍不住那种不适感，\n"
+"把\\n[101]\\n[102]摘下来了!"
+
+#. ID 15, Page 11, Line 204, Pos (4,1)
+#. ID 15, Page 11, Line 229, Pos (4,1)
+#. ID 16, Page 11, Line 204, Pos (5,1)
+#. ID 16, Page 11, Line 229, Pos (5,1)
+msgid ""
+"\n"
+"\\n[101]\\n[102]を外したい衝動に駆られたが、\n"
+"じっと我慢するしかなかった…"
+msgstr ""
+"虽然被想要摘下\\n[101]\\n[102]的冲动驱使，\n"
+"但也只能强忍着……"
+
+#. ID 15, Page 11, Line 211, Pos (4,1)
+#. ID 15, Page 11, Line 236, Pos (4,1)
+#. ID 16, Page 11, Line 211, Pos (5,1)
+#. ID 16, Page 11, Line 236, Pos (5,1)
+msgid ""
+"\n"
+"不快感に思わず身体を弄ったが、\n"
+"身につけているものはなかった…"
+msgstr ""
+"因为不适感，不由自主地摸了摸身上，\n"
+"但身上什么也没有穿戴……"
+
+#. ID 15, Page 11, Line 224, Pos (4,1)
+#. ID 16, Page 11, Line 224, Pos (5,1)
+msgid ""
+"\n"
+"不快感に耐えきれず\n"
+"\\n[101]\\n[102]を外してしまった!"
+msgstr "忍不住那种不适感，把\\n[101]\\n[102]摘下来了!"
+
+#. ID 15, Page 11, Line 254, Pos (4,1)
+#. ID 16, Page 11, Line 254, Pos (5,1)
+msgid ""
+"\n"
+"…気がつくと\\n[\\v[006]]は\n"
+"\\n[101]\\n[102]を身につけて立ち竦んでいた…"
+msgstr ""
+"……回过神来，\n"
+"\\n[\\v[006]]已经将\\n[101]\\n[102]穿戴在身上，\n"
+"呆立不动……"
+
+#. ID 77, Page 2, Line 3, Pos (16,49)
+msgid ""
+"\n"
+"存在しない扉を開けてはならない。"
+msgstr "不可打开不存在的门。"
+
+#. ID 110, Page 3, Line 3, Pos (15,50)
+msgid ""
+"\n"
+"からっぽ！"
+msgstr "是空的！"
+
+#. ID 146, Page 2, Line 3, Pos (6,41)
+msgid ""
+"\n"
+"…ここからでは見えない…"
+msgstr "……从这里看不见……"

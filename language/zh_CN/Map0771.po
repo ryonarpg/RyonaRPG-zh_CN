@@ -1,0 +1,61 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 1, Pos (13,16)
+msgid "デバッグ用移動マシーン"
+msgstr "调试用移动机器"
+
+#. ID 12, Page 2, Line 2, Pos (13,16)
+#. Contains choice at line 2 (2 options)
+msgid "移動しますか？"
+msgstr "要移动吗？"
+
+#. ID 12, Page 2, Line 3, Pos (13,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 12, Page 2, Line 5, Pos (13,16)
+#. Choice (4 options)
+msgid ""
+"入り口\n"
+"村\n"
+"山頂\n"
+"やっぱやめとく"
+msgstr ""
+"入口\n"
+"村\n"
+"山顶\n"
+"还是算了"
+
+#. ID 34, Page 1, Line 3, Pos (8,15)
+msgid ""
+"だから………ここで……「大空はお前のもの」……\n"
+"　　　って……合わせるのよ……"
+msgstr ""
+"所以说………在这里……「天空是属于你的」……\n"
+"　　　要……配合上啊……"
+
+#. ID 35, Page 1, Line 3, Pos (11,15)
+msgid ""
+"もう姉さんわかったから！\n"
+"いくら暇だからって！\n"
+"そう何度も練習することでもないでしょう！！"
+msgstr ""
+"姐姐我已经明白了！就算再闲！\n"
+"也没必要练那么多次吧！！"

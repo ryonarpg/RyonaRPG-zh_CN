@@ -1,0 +1,31 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 68, Page 2, Line 10, Pos (44,33)
+msgid ""
+"宝箱から噴き出した謎の気体の力によって、\n"
+"\\N[\\V[6]]はカエルになってしまった！！"
+msgstr ""
+"由于从宝箱中喷出的神秘气体的力量，\n"
+"\\N[\\V[6]]变成了青蛙！！"
+
+#. ID 68, Page 2, Line 17, Pos (44,33)
+msgid ""
+"宝箱から謎の気体が噴き出したが、\n"
+"防具が持つ不思議な力のおかげで\n"
+"\\N[\\V[6]]の体に特に異常はなかった。"
+msgstr ""
+"宝箱中喷出了神秘气体，\n"
+"但多亏防具拥有的不可思议的力量，\n"
+"\\N[\\V[6]]的身体没有特别异常。"

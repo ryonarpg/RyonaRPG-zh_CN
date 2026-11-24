@@ -1,0 +1,417 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 14, Page 1, Line 3, Pos (21,31)
+msgid "「劇場は工事中…もといリハーサル中です」"
+msgstr "「剧场正在施工…更正，正在彩排中」"
+
+#. ID 17, Page 1, Line 3, Pos (25,33)
+msgid ""
+"……あんた、ウチのシアターで\n"
+"演劇をやってみないかい？\n"
+"…報酬は出すよ。"
+msgstr "……你要不要在我们剧院试试演戏？…我会给报酬的。"
+
+#. ID 17, Page 1, Line 11, Pos (25,33)
+msgid "……"
+msgstr "……"
+
+#. ID 17, Page 1, Line 16, Pos (25,33)
+#. ID 17, Page 1, Line 34, Pos (25,33)
+msgid "そうか…\\!残念だ…"
+msgstr "这样啊…\\!真遗憾…"
+
+#. ID 17, Page 1, Line 21, Pos (25,33)
+#. Choice (2 options)
+#. ID 17, Page 2, Line 4, Pos (25,33)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 3, Line 4, Pos (25,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 17, Page 1, Line 23, Pos (25,33)
+msgid ""
+"ヒヒヒ…そうかい。そいつはありがたい\n"
+"\\!ただしやると言ったからにはしっかり\n"
+"やってもらうぜ。失敗は許さないからな"
+msgstr ""
+"嘻嘻嘻…这样啊。\n"
+"那可真是多谢了\\!不过既然说了要做，就得好好干。\n"
+"可不允许失败啊"
+
+#. ID 17, Page 2, Line 3, Pos (25,33)
+#. Contains choice at line 2 (2 options)
+msgid "……またやってくれるのか？"
+msgstr "……你还要再来演吗？"
+
+#. ID 17, Page 2, Line 6, Pos (25,33)
+msgid "そうか、なら頼むぜ。失敗はするなよ"
+msgstr "这样啊，那就拜托了。可别失败啊"
+
+#. ID 17, Page 2, Line 14, Pos (25,33)
+#. ID 17, Page 3, Line 15, Pos (25,33)
+msgid "そうかい。"
+msgstr "这样啊。"
+
+#. ID 17, Page 3, Line 3, Pos (25,33)
+#. Contains choice at line 2 (2 options)
+msgid "どうした？\\!またやってくれるのか？"
+msgstr "怎么了？\\!你还要再来演吗？"
+
+#. ID 17, Page 3, Line 6, Pos (25,33)
+msgid "ヘヘへ、それじゃあ頼むぜ。"
+msgstr "嘿嘿嘿，那就拜托了。"
+
+#. ID 17, Page 4, Line 3, Pos (25,33)
+msgid ""
+"今月の興行はこれで仕舞いだ。\n"
+"来月は主役なんかやってみないか？"
+msgstr ""
+"这个月的演出到此结束了。\n"
+"下个月要不要试试演主角之类的？"
+
+#. ID 19, Page 1, Line 3, Pos (25,29)
+msgid ""
+"今月の予定、リョナサーガ\n"
+"姫様と女戦士の苦難の旅を描く一大ロマン\n"
+"君は時の涙を見る\n"
+"次回公演予定、感動の牧場レモンファーム"
+msgstr ""
+"本月计划，\n"
+"描写猎奇萨迦公主与女战士苦难之旅的一大浪漫，\n"
+"你将看到时代之泪。下次公演预定，\n"
+"感动的牧场柠檬农场"
+
+#. ID 20, Page 1, Line 2, Pos (29,5)
+msgid "………\\!失敗してしまった…"
+msgstr "………\\!失败了…"
+
+#. ID 20, Page 1, Line 12, Pos (29,5)
+msgid ""
+"おい、お前のせいで劇は目茶苦茶だ\n"
+"\\!どうしてくれるんだ？\n"
+"……\\!そうだな\n"
+"償いとしてもうひとつ舞台にでてもらうか"
+msgstr ""
+"喂，都是你害得戏一团糟\\!你打算怎么负责？……\n"
+"\\!对了，作为补偿，就让你再上舞台演一场吧"
+
+#. ID 30, Page 1, Line 3, Pos (24,9)
+msgid ""
+"さてさて国を追われ彷徨い続ける一国の姫\n"
+"彼女はやがてある村に辿り着きました…"
+msgstr ""
+"那么那么，被逐出国度、不断漂泊的一国公主，\n"
+"她终于抵达了某个村庄…"
+
+#. ID 30, Page 1, Line 12, Pos (24,9)
+#. Contains choice at line 2 (2 options)
+msgid "もし、そこのお方…ここはどこですか？"
+msgstr "请问，那边的人…这里是哪里？"
+
+#. ID 30, Page 1, Line 13, Pos (24,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ここはリョーナの町です\n"
+"ここはリョーナの村です"
+msgstr ""
+"这里是里奥纳镇\n"
+"这里是里奥纳村"
+
+#. ID 30, Page 1, Line 15, Pos (24,9)
+msgid "そうですか……ってあれ？"
+msgstr "这样啊……咦？"
+
+#. ID 30, Page 1, Line 19, Pos (24,9)
+msgid ""
+"ありがとうございます\n"
+"\\!…ここにあの人がいるのね…"
+msgstr "非常感谢\\!…那个人就在这里吧…"
+
+#. ID 30, Page 1, Line 21, Pos (24,9)
+msgid "出番は無事終わった。"
+msgstr "出场顺利结束了。"
+
+#. ID 30, Page 1, Line 32, Pos (24,9)
+#. ID 31, Page 1, Line 41, Pos (22,9)
+#. ID 31, Page 2, Line 68, Pos (22,9)
+msgid ""
+"……まあよくやってくれたよ。\n"
+"ほら報酬だ。"
+msgstr "……嗯，你干得不错。来，报酬。"
+
+#. ID 30, Page 1, Line 37, Pos (24,9)
+msgid "1,000G手に入れた"
+msgstr "获得了1,000G"
+
+#. ID 30, Page 1, Line 40, Pos (24,9)
+#. ID 31, Page 1, Line 49, Pos (22,9)
+#. ID 31, Page 2, Line 76, Pos (22,9)
+msgid ""
+"…次はもっといい役やってもらおうかな\n"
+"それじゃあな"
+msgstr "…下次让你演个更好的角色吧。那就再见啦"
+
+#. ID 31, Page 1, Line 3, Pos (22,9)
+msgid ""
+"リョーナの村で女戦士と出会い\n"
+"共に旅をすることになった姫様\n"
+"しかし、ついに城から追っ手が放たれる事\n"
+"となりました。"
+msgstr ""
+"在里奥纳村与女战士相遇并一同踏上旅途的公主。\n"
+"然而，城里终于派出了追兵。"
+
+#. ID 31, Page 1, Line 12, Pos (22,9)
+#. Contains choice at line 2 (2 options)
+msgid "く…こんなところにまで追っ手が…"
+msgstr "唔…追兵居然到这里来了…"
+
+#. ID 31, Page 1, Line 13, Pos (22,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"姫様、国にお戻りください\n"
+"姫様、城にお戻りください"
+msgstr ""
+"公主，请回国吧\n"
+"公主，请回城吧"
+
+#. ID 31, Page 1, Line 15, Pos (22,9)
+msgid "そうはいきません……ってあれ？"
+msgstr "那可不行……咦？"
+
+#. ID 31, Page 1, Line 19, Pos (22,9)
+msgid ""
+"そうはいきません。\n"
+"私にはまだやることがあるのです。"
+msgstr "那可不行。我还有事要做。"
+
+#. ID 31, Page 1, Line 21, Pos (22,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"そういうことだ。\n"
+"どうしてもというならこの私を倒していけ"
+msgstr ""
+"就是这样。如果你无论如何都要坚持，\n"
+"那就打倒我过去吧"
+
+#. ID 31, Page 1, Line 23, Pos (22,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"面白い\n"
+"いいだろう"
+msgstr ""
+"有意思\n"
+"好吧"
+
+#. ID 31, Page 1, Line 25, Pos (22,9)
+#. Contains choice at line 2 (2 options)
+msgid "では行くぞ！！"
+msgstr "那么，上了！！"
+
+#. ID 31, Page 1, Line 26, Pos (22,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いざ。勝負！\n"
+"かかってこい！"
+msgstr ""
+"来吧。决胜负！\n"
+"放马过来！"
+
+#. ID 31, Page 1, Line 31, Pos (22,9)
+msgid "………\\!出番は無事終わった。"
+msgstr "………\\!出场顺利结束了。"
+
+#. ID 31, Page 1, Line 46, Pos (22,9)
+msgid "3000G手に入れた"
+msgstr "获得了3000G"
+
+#. ID 31, Page 1, Line 55, Pos (22,9)
+msgid "てりゃあああ！！…ってあれ？"
+msgstr "嘿呀啊啊啊！！…咦？"
+
+#. ID 31, Page 1, Line 61, Pos (22,9)
+msgid "では行くぞ…ってあれ？"
+msgstr "那么，上了…咦？"
+
+#. ID 31, Page 2, Line 3, Pos (22,9)
+msgid ""
+"国を取り戻すため、敵城に乗り込む事と\n"
+"なった姫君、そしてそれを助ける女戦士\n"
+"苦難を乗り越えついに明日は決戦の日\n"
+"最後の日に二人は…"
+msgstr ""
+"为了夺回国家，决定闯入敌城的公主，\n"
+"以及帮助她的女战士。克服苦难，\n"
+"终于明天就是决战之日。在最后一天，两人…"
+
+#. ID 31, Page 2, Line 11, Pos (22,9)
+msgid ""
+"いよいよ明日ね。ここまでこれたのは\n"
+"あなたのおかげだわ。本当にありがとう…\n"
+"これからどうなるのかは分からないけれど"
+msgstr ""
+"终于到明天了。能走到这里都是多亏了你。\n"
+"真的谢谢你…虽然不知道接下来会怎样"
+
+#. ID 31, Page 2, Line 14, Pos (22,9)
+#. Choice (2 options)
+msgid ""
+"あなたは私が守ります\n"
+"一緒にがんばりましょう"
+msgstr ""
+"我会保护你\n"
+"我们一起努力吧"
+
+#. ID 31, Page 2, Line 16, Pos (22,9)
+msgid ""
+"ありがとう…\n"
+"そうね…この戦いが終わったらなにか一つ\n"
+"あなたの願い事を聞いてあげるわ。\n"
+"なんでもよ。"
+msgstr ""
+"谢谢…是啊…等这场战斗结束后，我会听你一个愿望。\n"
+"什么都可以哦。"
+
+#. ID 31, Page 2, Line 20, Pos (22,9)
+#. Choice (2 options)
+msgid ""
+"海を見に行きましょう\n"
+"結婚してください"
+msgstr ""
+"去看海吧\n"
+"请和我结婚"
+
+#. ID 31, Page 2, Line 22, Pos (22,9)
+msgid ""
+"そんなのでいいの？\n"
+"…フフ…そういえば私は今まで城の中の\n"
+"事しか知らなかったわね。でもこの旅で…\n"
+"\\!ううん…あなたが教えてくれた…"
+msgstr ""
+"这样也可以吗？…呵呵…说起来，\n"
+"我以前只知道城堡里的事呢。但通过这趟旅行…\\!不…\n"
+"是你教会了我…"
+
+#. ID 31, Page 2, Line 26, Pos (22,9)
+msgid ""
+"そうね、私も楽しみにしてるわ。\n"
+"海だけは見る機会はなかったものね…\n"
+"そのためにも明日は…"
+msgstr ""
+"是啊，我也很期待。毕竟唯独海一直没机会看呢…\n"
+"为了这个，明天也…"
+
+#. ID 31, Page 2, Line 29, Pos (22,9)
+msgid "いたぞー！！"
+msgstr "找到了——！！"
+
+#. ID 31, Page 2, Line 31, Pos (22,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"敵？、\\!私たちの動きが感づかれてたの？\n"
+"このままじゃマズイわ…"
+msgstr ""
+"敌人？、\\!我们的行动被察觉了吗？\n"
+"这样下去可不妙…"
+
+#. ID 31, Page 2, Line 33, Pos (22,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"姫様、逃げましょう\n"
+"姫様、先に行って"
+msgstr ""
+"公主，我们逃吧\n"
+"公主，你先走"
+
+#. ID 31, Page 2, Line 35, Pos (22,9)
+msgid "そうね……ってあれ？"
+msgstr "是啊……咦？"
+
+#. ID 31, Page 2, Line 39, Pos (22,9)
+msgid ""
+"そんな、あなたはどうするのよ…\n"
+"……\\!切り防ぐって言うの？\\!無茶よ…\n"
+"………\\!分かったわ。絶対に死なないでね"
+msgstr ""
+"怎么会，你打算怎么办啊………\\!你说要挡住他们？\n"
+"\\!太乱来了…………\\!我知道了。绝对不要死啊"
+
+#. ID 31, Page 2, Line 53, Pos (22,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"おい、姫はどこへ行った。\n"
+"邪魔をするな"
+msgstr "喂，公主去哪了。别碍事"
+
+#. ID 31, Page 2, Line 55, Pos (22,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ここは通さない\n"
+"ここは行かせない"
+msgstr ""
+"我不会让你通过这里\n"
+"我不会让你过去"
+
+#. ID 31, Page 2, Line 57, Pos (22,9)
+#. Contains choice at line 2 (2 options)
+msgid "おのれ、ならば無理やりにでも！！"
+msgstr "可恶，既然如此，就算硬来也要！！"
+
+#. ID 31, Page 2, Line 58, Pos (22,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"姫様、ご無事で…\n"
+"行くぞ！"
+msgstr ""
+"公主殿下，您没事……\n"
+"走吧！"
+
+#. ID 31, Page 2, Line 60, Pos (22,9)
+msgid "出番は無事終わった"
+msgstr "演出顺利结束了"
+
+#. ID 31, Page 2, Line 73, Pos (22,9)
+msgid "5000G手に入れた"
+msgstr "拿到了5000G"
+
+#. ID 31, Page 2, Line 78, Pos (22,9)
+msgid ""
+"とりあえず今月の興行は御仕舞いだ。\n"
+"そうだな、次はアンタを主役にしよう。\n"
+"また今度、頼んだぜ。"
+msgstr ""
+"总之这个月的演出就到此结束了。对了，\n"
+"下次就让你当主角吧。下次再拜托你了。"
+
+#. ID 31, Page 2, Line 85, Pos (22,9)
+msgid "こい…ってあれ？"
+msgstr "来吧……咦？"
+
+#. ID 31, Page 2, Line 91, Pos (22,9)
+msgid "己…ってあれ？"
+msgstr "自己……咦？"
+
+#. ID 31, Page 2, Line 99, Pos (22,9)
+msgid "はい、こちらこそ…ってあれ？"
+msgstr "是的，彼此彼此……咦？"
+
+#. ID 31, Page 2, Line 105, Pos (22,9)
+msgid "そうね…ってあれ？"
+msgstr "是啊……咦？"

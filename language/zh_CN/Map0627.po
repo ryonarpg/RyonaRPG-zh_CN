@@ -1,0 +1,212 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 7, Page 1, Line 3, Pos (12,47)
+msgid ""
+"ん？\n"
+"サ、サボってなんかいないぞ。"
+msgstr "嗯？我、我可没有在偷懒。"
+
+#. ID 7, Page 2, Line 3, Pos (12,47)
+msgid ""
+"ん？\n"
+"おお、丁度いい。\n"
+"ちょっとその口借りるぞ。"
+msgstr "嗯？哦，正好。借你那张嘴用一下。"
+
+#. ID 7, Page 2, Line 14, Pos (12,47)
+msgid ""
+"――！\n"
+"いきなり頭を掴まれて、\n"
+"無理矢理に男のモノを口内に突っ込まれた！"
+msgstr "――！突然被抓住头，男人的东西被强行塞进了嘴里！"
+
+#. ID 7, Page 2, Line 37, Pos (12,47)
+msgid "あ～、いい～。"
+msgstr "啊～，好爽～。"
+
+#. ID 7, Page 2, Line 79, Pos (12,47)
+msgid "やっぱ喉の奥まで突っ込むと気持ちいいな。"
+msgstr "果然顶到喉咙深处很舒服啊。"
+
+#. ID 7, Page 2, Line 120, Pos (12,47)
+msgid "うまいな。\\!　ぐっ、出すぞ！"
+msgstr "很熟练嘛。\\!　咕，我要射了！"
+
+#. ID 7, Page 2, Line 132, Pos (12,47)
+msgid ""
+"ふう……、ん？\\!\n"
+"何やめようとしてんだ！\n"
+"舐めて綺麗にしろよ！"
+msgstr "呼……，嗯？\\!为什么停下来！舔干净啊！"
+
+#. ID 7, Page 2, Line 145, Pos (12,47)
+msgid ""
+"……あ、下の口、濡れちゃってる……。\n"
+"……無理矢理だったのに、何で……？"
+msgstr ""
+"……啊，下面的嘴，已经湿了……。……明明是强迫的，\n"
+"为什么……？"
+
+#. ID 7, Page 2, Line 147, Pos (12,47)
+msgid ""
+"もうちょい犯れるな……。\\!\n"
+"おい、足広げろ。"
+msgstr "还能再多干一会儿吧……。\\!喂，把腿张开。"
+
+#. ID 7, Page 2, Line 149, Pos (12,47)
+msgid "！！　\\!やだっ！　……ん、あっ、だめ……！"
+msgstr "！！　\\!不要！　……嗯、啊、不行……！"
+
+#. ID 7, Page 2, Line 150, Pos (12,47)
+msgid ""
+"何だよ、遠慮すんな。\\!\n"
+"大体お前、汁が太ももから滴ってるんだよ。"
+msgstr ""
+"干什么啊，别客气。\\!再说你，\n"
+"汁液都从大腿上滴下来了。"
+
+#. ID 7, Page 2, Line 152, Pos (12,47)
+msgid "――――！！"
+msgstr "――――！！"
+
+#. ID 7, Page 2, Line 171, Pos (12,47)
+msgid "仕事サボって女犯すのは最高だな～！"
+msgstr "工作偷懒干女人真是最棒了～！"
+
+#. ID 7, Page 2, Line 226, Pos (12,47)
+msgid "丈夫な子生んでくれよ～。\\!　んんんっ！！"
+msgstr "给我生个健康的孩子吧～。\\!　嗯嗯嗯！！"
+
+#. ID 7, Page 2, Line 234, Pos (12,47)
+msgid "あー、スッキリした。"
+msgstr "啊——，真痛快。"
+
+#. ID 8, Page 1, Line 3, Pos (30,5)
+#. ID 9, Page 1, Line 3, Pos (20,9)
+msgid "私はメイドです。"
+msgstr "我是女仆。"
+
+#. ID 8, Page 2, Line 3, Pos (30,5)
+#. ID 9, Page 2, Line 3, Pos (20,9)
+#. ID 10, Page 2, Line 3, Pos (8,11)
+msgid ""
+"あら。\n"
+"あらら。\n"
+"いやらしいですわね。"
+msgstr "哎呀。哎呀呀。真淫荡呢。"
+
+#. ID 10, Page 1, Line 3, Pos (8,11)
+msgid ""
+"今日もこんな豪勢な料理を、ほとんど食べずに……\n"
+"奥様にも困ったものだわ。"
+msgstr ""
+"今天也几乎没怎么吃这么豪华的料理……\n"
+"夫人也真让人头疼呢。"
+
+#. ID 11, Page 1, Line 3, Pos (6,6)
+msgid ""
+"いらっしゃいませ。\n"
+"私がこの屋敷のコック長です。"
+msgstr "欢迎光临。我是这座宅邸的厨师长。"
+
+#. ID 11, Page 2, Line 7, Pos (6,6)
+msgid ""
+"可愛らしい雌犬だな。\\!\n"
+"だが、ここは厨房だ。　出て行け。"
+msgstr ""
+"真是个可爱的小母狗。\\!但是，这里是厨房。\n"
+"　滚出去。"
+
+#. ID 11, Page 3, Line 3, Pos (6,6)
+msgid ""
+"女か……。\\!\n"
+"残念だが、俺は男にしか興味が無いんだ。"
+msgstr "女人吗……。\\!很遗憾，我只对男人有兴趣。"
+
+#. ID 12, Page 2, Line 3, Pos (34,27)
+#. ID 13, Page 2, Line 3, Pos (33,31)
+#. ID 14, Page 2, Line 3, Pos (30,27)
+msgid "ＺＺＺＺｚｚｚ"
+msgstr "ZZZZzzz"
+
+#. ID 15, Page 1, Line 6, Pos (19,29)
+msgid "メイドさん、いいよな……"
+msgstr "女仆小姐，真好啊……"
+
+#. ID 15, Page 1, Line 10, Pos (19,29)
+msgid "バニーって、いいよな……"
+msgstr "兔女郎，真好啊……"
+
+#. ID 15, Page 1, Line 14, Pos (19,29)
+msgid "ナースもいいよな……"
+msgstr "护士也不错啊……"
+
+#. ID 15, Page 1, Line 17, Pos (19,29)
+msgid "ウエディングドレスとか、いいよな……"
+msgstr "婚纱什么的，真好啊……"
+
+#. ID 15, Page 2, Line 6, Pos (19,29)
+msgid ""
+"肉奴隷。\n"
+"……いい響きだ……"
+msgstr "肉奴隶。……听起来真不错……"
+
+#. ID 15, Page 2, Line 11, Pos (19,29)
+msgid ""
+"性欲処理機。\n"
+"……いい響きだ……"
+msgstr "性欲处理机。……听起来真不错……"
+
+#. ID 15, Page 2, Line 15, Pos (19,29)
+msgid ""
+"国民の性奴。\n"
+"……いい響きだ……"
+msgstr "国民性奴。……听起来真不错……"
+
+#. ID 16, Page 1, Line 3, Pos (5,31)
+msgid "私はメイド長です。"
+msgstr "我是女仆长。"
+
+#. ID 16, Page 2, Line 3, Pos (5,31)
+msgid "私はメイド長で……"
+msgstr "我是女仆长……"
+
+#. ID 16, Page 2, Line 4, Pos (5,31)
+msgid ""
+"奥様のお話ですか？\n"
+"率直に言いますと、奥様は浪費が凄いのです。\\!\n"
+"ただ、お金に関しては何処からか\n"
+"ご自分で調達しているようですね。"
+msgstr ""
+"是夫人的事吗？坦白说，夫人挥霍得非常厉害。\n"
+"\\!不过，关于金钱，\n"
+"她似乎是从某处自己筹措来的呢。"
+
+#. ID 16, Page 2, Line 12, Pos (5,31)
+msgid ""
+"……色々探るのであれば、\n"
+"庭師の方にも聞いてみるとよろしいかと。\\!\n"
+"それではお嬢様によろしくお願いします。"
+msgstr ""
+"……如果想四处探查，也去问问园丁那边比较好。\n"
+"\\!那么，请代我向大小姐问好。"
+
+#. ID 17, Page 1, Line 2, Pos (17,30)
+msgid "鍵がかかっているようだ"
+msgstr "好像上锁了。"
+
+#. ID 19, Page 1, Line 3, Pos (30,47)
+msgid "武器の手入れはかかせないよな。"
+msgstr "武器的保养可不能偷懒啊。"

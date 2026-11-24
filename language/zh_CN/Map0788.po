@@ -1,0 +1,94 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (23,12)
+#. Contains choice at line 2 (2 options)
+msgid "時間を進めるかえ？"
+msgstr "要推进时间吗？"
+
+#. ID 2, Page 1, Line 4, Pos (23,12)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 4, Pos (10,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 2, Page 1, Line 12, Pos (23,12)
+msgid ""
+"夜は魔物達が凶暴になる時間だから\n"
+"気をつけるんだよ・・・"
+msgstr "夜晚是魔物们变得凶暴的时间，要小心哦・・・"
+
+#. ID 4, Page 1, Line 3, Pos (19,7)
+msgid ""
+"ここは、エミリス湖。\n"
+"この地方を旅する者たちの安らぎの場。"
+msgstr ""
+"这里是艾米利斯湖。\n"
+"是旅行这片地区的人们休憩的地方。"
+
+#. ID 5, Page 1, Line 3, Pos (19,9)
+msgid ""
+"そこの詩人は安らぎの場とか言ってるけど、\n"
+"夜の湖は危険だわ。\n"
+"なんでも、何人も行方不明になってるとか。"
+msgstr ""
+"那里的诗人虽说是什么休憩之所，\n"
+"但夜晚的湖很危险。听说已经有好几个人失踪了。"
+
+#. ID 6, Page 1, Line 3, Pos (19,11)
+msgid ""
+"湖の展望台があるじゃろ？\n"
+"あそこは湖に沈んでいる城の屋根なのじゃ。\n"
+"もっとも、中に入る扉が無いから中には入れんがな。"
+msgstr ""
+"湖的瞭望台有个吧？那里是沉在湖中的城堡的屋顶。\n"
+"不过，因为没有进去的门，所以进不去就是了。"
+
+#. ID 8, Page 1, Line 3, Pos (10,19)
+#. Contains choice at line 2 (2 options)
+msgid "このダンジョンから出ますか？"
+msgstr "要离开这个迷宫吗？"
+
+#. ID 9, Page 1, Line 6, Pos (24,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"「カステラ買わない？\\$\n"
+"　1個\\v[1515]だよ～！"
+msgstr "「不买长崎蛋糕吗？\\$　1个\\v[1515]哦～！"
+
+#. ID 9, Page 1, Line 8, Pos (24,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"買う\n"
+"買わない"
+msgstr ""
+"买\n"
+"不买"
+
+#. ID 9, Page 1, Line 16, Pos (24,10)
+msgid "「まいどありがと～！"
+msgstr "「谢谢惠顾～！"
+
+#. ID 9, Page 1, Line 20, Pos (24,10)
+msgid "「ちょっと～！\\|お金足りないよ～！"
+msgstr "「等一下～！\\|金钱不够哦～！"
+
+#. ID 9, Page 1, Line 26, Pos (24,10)
+msgid "「そっか～。気が変わったらまた来てね。"
+msgstr "「这样啊～。改变主意的话再来哦。"

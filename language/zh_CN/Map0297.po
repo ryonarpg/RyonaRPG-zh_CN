@@ -1,0 +1,98 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 7, Page 1, Line 3, Pos (13,11)
+msgid ""
+"この街……毎日奴隷が移住を希望して\n"
+"押し寄せているみたいだが、\n"
+msgstr "这条街……好像每天都有奴隶希望移居而蜂拥而至，"
+
+#. ID 7, Page 1, Line 6, Pos (13,11)
+msgid "……大丈夫なのかねぇ？"
+msgstr "……没问题吗？"
+
+#. ID 10, Page 1, Line 3, Pos (6,7)
+msgid ""
+"ここでは首都の助成金が出ているから、\n"
+"通常より安く泊まれるよ。"
+msgstr ""
+"这里因为有首都的补助金，\n"
+"所以住宿比通常更便宜哦。"
+
+#. ID 10, Page 1, Line 5, Pos (6,7)
+msgid "まあ、その分サービスには期待できないけどね。"
+msgstr "不过嘛，相应地就不能期待服务了。"
+
+#. ID 10, Page 1, Line 6, Pos (6,7)
+#. Contains choice at line 2 (2 options)
+msgid "泊まるかい？　一泊100Gだ。"
+msgstr "要住吗？　一晚100G。"
+
+#. ID 10, Page 1, Line 7, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 4, Pos (18,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 10, Page 1, Line 9, Pos (6,7)
+msgid "ごゆっくり。"
+msgstr "请慢慢休息。"
+
+#. ID 10, Page 1, Line 81, Pos (6,7)
+msgid "あんた……いい歳してお漏らしかい？"
+msgstr "你……都这把年纪了还尿床吗？"
+
+#. ID 10, Page 1, Line 82, Pos (6,7)
+msgid ""
+"余分に金は取りはしないが……\n"
+"おねしょの洗濯代までは含めてなかったんだけどね"
+msgstr "我不会多收钱……不过可没把尿床的洗衣费算进去哦"
+
+#. ID 10, Page 1, Line 94, Pos (6,7)
+msgid "お金が足りないよ。"
+msgstr "金钱不够哦。"
+
+#. ID 10, Page 2, Line 3, Pos (6,7)
+msgid "貴女はこの街の住民よね？"
+msgstr "你是这条街的居民吧？"
+
+#. ID 10, Page 2, Line 4, Pos (6,7)
+msgid ""
+"それなら自分の部屋で寝てちょうだいな。\n"
+"こっちは旅人さんに優先しなきゃいけないでしょ？"
+msgstr ""
+"那就请回自己房间睡吧。\n"
+"我们这边必须优先照顾旅行者吧？"
+
+#. ID 11, Page 1, Line 3, Pos (8,9)
+msgid ""
+"いらっしゃいませ、\n"
+"ここは旅の方が利用できる宿泊施設です。"
+msgstr "欢迎光临，这里是旅行者可以使用的住宿设施。"
+
+#. ID 15, Page 1, Line 3, Pos (18,9)
+#. Contains choice at line 2 (2 options)
+msgid "時間を進めるかえ？"
+msgstr "要推进时间吗？"
+
+#. ID 15, Page 1, Line 8, Pos (18,9)
+msgid ""
+"夜は魔物達が凶暴になる時間だから\n"
+"気をつけるんだよ・・・"
+msgstr "夜晚是魔物们变得凶暴的时间，要小心啊……"

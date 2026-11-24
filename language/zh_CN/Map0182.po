@@ -1,0 +1,83 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 3, Pos (28,21)
+msgid ""
+"では実際にダンジョンのいやらしさを\n"
+"体験してみましょう！\n"
+"ポーションや毒消しの用意はできましたか？"
+msgstr ""
+"那么，实际体验一下迷宫的恶心之处吧！\n"
+"药水和解毒剂准备好了吗？"
+
+#. ID 14, Page 2, Line 6, Pos (7,18)
+msgid "小さな鍵を使って扉を開けた。"
+msgstr "用小钥匙打开了门。"
+
+#. ID 14, Page 2, Line 17, Pos (7,18)
+msgid "扉には鍵がかかっている！！"
+msgstr "门锁着！！"
+
+#. ID 16, Page 2, Line 3, Pos (25,19)
+msgid ""
+"おめでとう！\n"
+"もうあなたに教えることは、\n"
+"まぁまだまだあるけれど、\n"
+"めんどうくさいのでもういいです。"
+msgstr ""
+"恭喜！要教你的东西嘛还有很多，不过太麻烦了，\n"
+"所以就算了。"
+
+#. ID 16, Page 2, Line 7, Pos (25,19)
+msgid ""
+"さぁ！\n"
+"本ダンジョンをクリアした記念に、\n"
+"このメダルをお受け取りください！"
+msgstr "来吧！作为通关本迷宫的纪念，请收下这枚勋章！"
+
+#. ID 17, Page 2, Line 3, Pos (9,18)
+msgid ""
+"行き止まりはあなたの死門となるでしょう。\n"
+"無意識に入ってしまうという事態を避けるため、\n"
+"行き止まりからはなるべく離れましょう。"
+msgstr ""
+"死路将成为你的死门。\n"
+"为了避免无意识走进去的事态，尽量远离死路吧。"
+
+#. ID 18, Page 2, Line 5, Pos (24,21)
+msgid "ブロンズメダリオンを手に入れた！"
+msgstr "获得了青铜勋章！"
+
+#. ID 19, Page 2, Line 3, Pos (7,16)
+msgid "グレートソードを手に入れた。"
+msgstr "获得了巨剑。"
+
+#. ID 20, Page 2, Line 5, Pos (29,8)
+msgid "小さな鍵を手に入れた。"
+msgstr "获得了小钥匙。"
+
+#. ID 21, Page 2, Line 3, Pos (8,9)
+msgid ""
+"当然ですが、扉には鍵がかかっている場合があります。\n"
+"トラップ地帯の先にある扉は鍵がかかっていることが\n"
+"多いようです。危険な場所に行く前に、\n"
+"安全な場所を探索し尽くしておきましょう。"
+msgstr ""
+"当然，门有时会上锁。\n"
+"陷阱地带尽头的门似乎经常上锁。\n"
+"在前往危险场所之前，先把安全场所探索殆尽吧。"
+
+#. ID 26, Page 2, Line 3, Pos (20,20)
+msgid "シャドウダガーを手に入れた。"
+msgstr "获得了暗影匕首。"

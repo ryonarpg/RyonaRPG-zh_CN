@@ -1,0 +1,202 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 27, Page 2, Line 10, Pos (2,8)
+msgid "\\S[2]やっと 会えましたね\\S[1]"
+msgstr "\\S[2]终于 见到您了呢\\S[1]"
+
+#. ID 27, Page 2, Line 11, Pos (2,8)
+msgid "\\S[2]この姿を見て 驚きましたか\\S[1]"
+msgstr "\\S[2]看到这副样子 您吃惊了吗\\S[1]"
+
+#. ID 27, Page 2, Line 15, Pos (2,8)
+msgid "\\S[2]私が あなた方の言う 「宇宙」です\\S[1]"
+msgstr "\\S[2]我就是 你们所说的 「宇宙」\\S[1]"
+
+#. ID 27, Page 2, Line 16, Pos (2,8)
+msgid ""
+"\\S[2]あなた達の 価値観から \n"
+"「神」と言っても 良いかもしれません\\S[1]"
+msgstr ""
+"\\S[2]从你们的 价值观来看 或许也可以称为 「神」\n"
+"\\S[1]"
+
+#. ID 27, Page 2, Line 21, Pos (2,8)
+msgid ""
+"\\S[2]ですが 本当は 死にかけた芋虫に \n"
+"過ぎないのです\\S[1]"
+msgstr "\\S[2]但是 实际上 我不过是 一只濒死的毛毛虫\\S[1]"
+
+#. ID 27, Page 2, Line 43, Pos (2,8)
+msgid ""
+"\\S[2]無数の命が 生まれ 大半が死に \n"
+"一部の者だけが 子孫を残す\\S[1]"
+msgstr ""
+"\\S[2]无数的生命诞生 大半死去 只有一部分留下子\n"
+"孙\\S[1]"
+
+#. ID 27, Page 2, Line 45, Pos (2,8)
+msgid "\\S[2]宇宙とは 虫の世界のような ものなのです\\S[1]"
+msgstr "\\S[2]所谓宇宙 就是如同虫子世界一般的东西\\S[1]"
+
+#. ID 27, Page 2, Line 49, Pos (2,8)
+msgid ""
+"\\S[2]あなたが見た世界は 死にゆく芋虫の \n"
+"哲学的葛藤\\S[1]"
+msgstr "\\S[2]你所看见的世界 是濒死毛毛虫的 哲学纠葛\\S[1]"
+
+#. ID 27, Page 2, Line 51, Pos (2,8)
+msgid "\\S[2]もしくは 悟りに 過ぎないのです\\S[1]"
+msgstr "\\S[2]或者 不过是悟道罢了\\S[1]"
+
+#. ID 27, Page 2, Line 64, Pos (2,8)
+msgid ""
+"\\S[2]あなたの 存在は 「答え」を \n"
+"外に 見出したに 過ぎないのです\\S[1]"
+msgstr ""
+"\\S[2]你的存在 不过是向外找到了「答案」\n"
+"罢了\\S[1]"
+
+#. ID 27, Page 2, Line 69, Pos (2,8)
+msgid ""
+"\\S[2]エヴァが ここを \n"
+"去っていくところを 見ました\\!\n"
+"彼女は 優しい 良い子だ\\S[1]"
+msgstr "\\S[2]我看见艾娃离开了这里\\!她是个温柔的好孩子\\S[1]"
+
+#. ID 27, Page 2, Line 75, Pos (2,8)
+msgid ""
+"\\S[2]サタナエルのことも 知っています\\!\n"
+"本当は 苦しんでいる\\S[1]"
+msgstr "\\S[2]我也知道萨塔纳艾尔的事\\!他其实很痛苦\\S[1]"
+
+#. ID 27, Page 2, Line 80, Pos (2,8)
+msgid ""
+"\\S[2]わたしの 中で暮らす\n"
+"全ての人達を 知っています\\S[1]"
+msgstr "\\S[2]我知道在我之中生活的所有人\\S[1]"
+
+#. ID 27, Page 2, Line 85, Pos (2,8)
+msgid ""
+"\\S[2]あなたは 宇宙を 救うつもりで \n"
+"ここまで やってきた\\S[1]"
+msgstr "\\S[2]你打算拯救宇宙 才一路来到这里\\S[1]"
+
+#. ID 27, Page 2, Line 87, Pos (2,8)
+msgid ""
+"\\S[2]ですが 私には どうすることも \n"
+"出来ないのです\\S[1]"
+msgstr "\\S[2]但是 我什么也做不了\\S[1]"
+
+#. ID 27, Page 2, Line 92, Pos (2,8)
+msgid "\\S[2]私は もうじき 死ぬのです\\S[1]"
+msgstr "\\S[2]我马上就要死了\\S[1]"
+
+#. ID 27, Page 2, Line 96, Pos (2,8)
+msgid "\\S[2]あなたが 新たな 宇宙となる\\S[1]"
+msgstr "\\S[2]你将成为新的宇宙\\S[1]"
+
+#. ID 27, Page 2, Line 97, Pos (2,8)
+msgid "\\S[2]あなたには 資格が あるのです\\S[1]"
+msgstr "\\S[2]你有那个资格\\S[1]"
+
+#. ID 27, Page 2, Line 101, Pos (2,8)
+msgid "\\S[2]悲しんで いるのですか？\\S[1]"
+msgstr "\\S[2]你在悲伤吗？\\S[1]"
+
+#. ID 27, Page 2, Line 102, Pos (2,8)
+msgid ""
+"\\S[2]この世界との 別れを\n"
+"私との 別れを\\S[1]"
+msgstr "\\S[2]为与这个世界告别 为与我告别\\S[1]"
+
+#. ID 27, Page 2, Line 107, Pos (2,8)
+msgid "\\S[2]あなたも 優しいのですね\\S[1]"
+msgstr "\\S[2]你也很温柔呢\\S[1]"
+
+#. ID 27, Page 2, Line 111, Pos (2,8)
+msgid "\\S[2]私も たくさんの仲間達が 死んでいきました\\S[1]"
+msgstr "\\S[2]我也有许多同伴死去了\\S[1]"
+
+#. ID 27, Page 2, Line 112, Pos (2,8)
+msgid ""
+"\\S[2]きっと あなたも 悲しみを \n"
+"乗り越えてきたのでしょう\\S[1]"
+msgstr "\\S[2]你一定也跨越了许多悲伤吧\\S[1]"
+
+#. ID 27, Page 2, Line 117, Pos (2,8)
+msgid "\\S[2]ですが どうか 皆の命を無駄にしないで\\S[1]"
+msgstr "\\S[2]但是 请你不要让大家生命白白浪费\\S[1]"
+
+#. ID 27, Page 2, Line 118, Pos (2,8)
+msgid ""
+"\\S[2]サタナエルも エヴァも \n"
+"あなたに 全てを 託したのでしょう？\\S[1]"
+msgstr ""
+"\\S[2]萨塔纳艾尔和艾娃 都把一切托付给你了吧？\n"
+"\\S[1]"
+
+#. ID 27, Page 2, Line 123, Pos (2,8)
+msgid "\\S[2]もう 終わらせてください\\S[1]"
+msgstr "\\S[2]请结束这一切吧\\S[1]"
+
+#. ID 27, Page 2, Line 130, Pos (2,8)
+msgid "\\S[2]これは？\\S[1]"
+msgstr "\\S[2]这是？\\S[1]"
+
+#. ID 27, Page 2, Line 134, Pos (2,8)
+msgid "\\S[2]そうですか\\S[1]"
+msgstr "\\S[2]这样啊\\S[1]"
+
+#. ID 27, Page 2, Line 135, Pos (2,8)
+msgid "\\S[2]やはり あの男も 優しい\\S[1]"
+msgstr "\\S[2]果然 那个男人也很温柔\\S[1]"
+
+#. ID 27, Page 2, Line 139, Pos (2,8)
+msgid "\\S[2]わたしは 優しい子たちに囲まれ\\S[1]"
+msgstr "\\S[2]我被温柔的孩子围绕\\S[1]"
+
+#. ID 27, Page 2, Line 140, Pos (2,8)
+msgid ""
+"\\S[2]本当に\\!\n"
+"本当の 幸せ者なのでしょう\\S[1]"
+msgstr "\\S[2]真的\\!我真是真正幸福的人吧\\S[1]"
+
+#. ID 27, Page 2, Line 145, Pos (2,8)
+msgid "\\S[2]わかりました\\S[1]"
+msgstr "\\S[2]我明白了\\S[1]"
+
+#. ID 27, Page 2, Line 146, Pos (2,8)
+msgid "\\S[2]あなたのために\\S[1]"
+msgstr "\\S[2]为了你\\S[1]"
+
+#. ID 27, Page 2, Line 147, Pos (2,8)
+msgid "\\S[2]もう少しだけ\\S[1]"
+msgstr "\\S[2]再稍微\\S[1]"
+
+#. ID 27, Page 2, Line 148, Pos (2,8)
+msgid "\\S[2]もう少しだけ 生きてみましょう\\S[1]"
+msgstr "\\S[2]再稍微试着活下去吧\\S[1]"
+
+#. ID 27, Page 2, Line 152, Pos (2,8)
+msgid "\\S[2]さあ\\S[1]"
+msgstr "\\S[2]来吧\\S[1]"
+
+#. ID 27, Page 2, Line 156, Pos (2,8)
+msgid "\\S[2]もう一度 私の 中へ\\S[1]"
+msgstr "\\S[2]再一次 来到我之中\\S[1]"
+
+#. ID 27, Page 2, Line 160, Pos (2,8)
+msgid "\\S[8]・・・・・・・・\\S[1]"
+msgstr "\\S[8]・・・・・・・・\\S[1]"

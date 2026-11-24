@@ -1,0 +1,542 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 4, Pos (96,14)
+msgid ""
+"当時この国を統治していた王は、\n"
+"素晴らしい御方だった。"
+msgstr "当时统治这个国家的王，是一位优秀的人物。"
+
+#. ID 22, Page 2, Line 6, Pos (96,14)
+msgid ""
+"賢明で逞しく、そして強力な魔力を持っていた。\n"
+"この国が天変地異にさえ呑まれなければ、\n"
+"一体どれほどの働きをしたことか。"
+msgstr ""
+"他贤明而强健，并拥有强大的魔力。\n"
+"若这个国家没有被天地异变吞没，\n"
+"他究竟能做出多大的功绩啊。"
+
+#. ID 22, Page 2, Line 9, Pos (96,14)
+msgid "実に惜しい……いや、今更言っても仕方がないか。"
+msgstr "实在可惜……不，事到如今再说也没用了吧。"
+
+#. ID 22, Page 2, Line 12, Pos (96,14)
+msgid ""
+"卑t2165ﾝ・ﾈｸaﾙ鉛橡ﾔ鱠\n"
+"・S3ю沆ｶﾙ1kn~謐｣/洫?ﾁ衆f"
+msgstr ""
+"卑t2165ン・ネクaル鉛橡ヤ鱠・S3ю沆カル1kn~謐｣/\n"
+"洫?チ衆f"
+
+#. ID 23, Page 2, Line 4, Pos (95,18)
+msgid ""
+"魔術師団の団長が\n"
+"俺の娘を変な目で見ていたことがあったんだ。"
+msgstr "魔术师团的团长曾用奇怪的眼神看我女儿。"
+
+#. ID 23, Page 2, Line 6, Pos (95,18)
+msgid ""
+"異常者め、\n"
+"きっと魔術の実験台にでもしようと\n"
+"考えていたんだろうぜ。"
+msgstr "那个变态，肯定是在盘算把她当作魔术的实验体吧。"
+
+#. ID 23, Page 2, Line 11, Pos (95,18)
+msgid ""
+"蜥ｴｪｪ^ｯ氿\n"
+"ｷ.]圀漿夬ﾖ・碯ﾎX鏤ﾖ黥ﾖ"
+msgstr "蜥エェェ^ッ氿キ.]圀漿夬ヨ・碯ホX鏤ヨ黥ヨ"
+
+#. ID 46, Page 2, Line 4, Pos (13,40)
+#. ID 87, Page 2, Line 4, Pos (101,41)
+msgid ""
+"この身体では\n"
+"レバーを動かすことは不可能だ……。"
+msgstr "以这个身体无法扳动拉杆……。"
+
+#. ID 46, Page 2, Line 9, Pos (13,40)
+#. Contains choice at line 2 (2 options)
+#. ID 87, Page 2, Line 8, Pos (101,41)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを見つけた。操作しますか?"
+msgstr "发现了拉杆。要操作吗？"
+
+#. ID 46, Page 2, Line 10, Pos (13,40)
+#. Choice (2 options, embedded in a message)
+#. ID 87, Page 2, Line 9, Pos (101,41)
+#. Choice (2 options, embedded in a message)
+#. ID 97, Page 1, Line 9, Pos (106,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 46, Page 3, Line 3, Pos (13,40)
+#. ID 87, Page 3, Line 3, Pos (101,41)
+msgid "固定されて元に戻らないようだ。"
+msgstr "似乎被固定住，无法恢复原位。"
+
+#. ID 75, Page 2, Line 4, Pos (98,17)
+msgid ""
+"我々の都が砂に沈んだのは、\n"
+"神官団と魔術師団との対立が\n"
+"激化したのが原因だと他の皆は言う。"
+msgstr ""
+"大家都说，我们的都城沉入沙中，\n"
+"是因为神官团与魔术师团的对立激化了。"
+
+#. ID 75, Page 2, Line 7, Pos (98,17)
+msgid ""
+"だが、私は、どうもそうは思えないのだ。\n"
+"あの連中に、そこまで巨大な力があるとは\n"
+"どうしても思えん。"
+msgstr ""
+"但是，我怎么也不这么认为。\n"
+"我无论如何都不觉得那帮人有那么巨大的力量。"
+
+#. ID 75, Page 2, Line 10, Pos (98,17)
+msgid ""
+"それにね、実は私は、見てしまったんだよ。\n"
+"王宮の奥に、ありえないものがいたのを。\n"
+"我らの都市が滅亡した、その日に。"
+msgstr ""
+"而且啊，其实我看见了哦。在王宫深处，\n"
+"有不可能存在的东西。\n"
+"就在我们的都市灭亡的那一天。"
+
+#. ID 75, Page 2, Line 13, Pos (98,17)
+msgid ""
+"頭上の円環に、背中の翼。\n"
+"純白の衣を纏ったあの姿は……\n"
+"間違いなく、天使だったよ。"
+msgstr ""
+"头顶的光环，背后的翅膀。\n"
+"身穿纯白衣裳的那副身影……毫无疑问，是天使。"
+
+#. ID 75, Page 2, Line 18, Pos (98,17)
+msgid ""
+"m;+++弼ｹ瑳8・巐褞K喇ﾍｬ6Q\n"
+")\"ﾐZGQﾐj6jﾕJ｣^ｫﾗkq"
+msgstr ""
+"m;+++弼ケ瑳8・巐褞K喇ヘャ6Q)\"ミZGQミj6jユJ｣^ォ\n"
+"ラkq"
+
+#. ID 75, Page 2, Line 20, Pos (98,17)
+msgid ""
+"&ｶsﾃ・岬Kｸ・着襲@・脇褂λ・t\n"
+"9fUyｺ,2ｻXwｻZnO頡4\n"
+"Xｩ4・碯ﾎX鏤ﾖ黥ﾖFf3・"
+msgstr ""
+"&カsテ・岬Kク・着襲@・脇褂λ・t 9fUyコ,2サXwサZ\n"
+"nO頡4 Xゥ4・碯ホX鏤ヨ黥ヨFf3・"
+
+#. ID 76, Page 1, Line 5, Pos (105,10)
+#. ID 78, Page 2, Line 4, Pos (105,9)
+msgid ""
+"本来ならば筋合いでもないが、\n"
+"同じ女のよしみだ。\n"
+"必要だろうものを売ってやろう。"
+msgstr ""
+"本来这事也轮不到我管，但看在同为女人的情分上，\n"
+"就把你需要的东西卖给你吧。"
+
+#. ID 76, Page 1, Line 10, Pos (105,10)
+#. ID 78, Page 2, Line 9, Pos (105,9)
+msgid "せいぜい気をつけて行くんだな。"
+msgstr "路上多加小心啊。"
+
+#. ID 76, Page 1, Line 13, Pos (105,10)
+#. ID 78, Page 2, Line 12, Pos (105,9)
+msgid ""
+"悪いことは\n"
+"言わないから買っておけって……。"
+msgstr "我不会害你，买下来吧……。"
+
+#. ID 76, Page 1, Line 19, Pos (105,10)
+#. ID 78, Page 2, Line 18, Pos (105,9)
+msgid ""
+"[wﾎ・・橳ﾆﾈ増\n"
+"{>ｯ从寺諟ｮ['m=樓戒Ⅹ\n"
+"ﾒ&ｶsﾃ・岬Kｸ・着襲@・脇"
+msgstr ""
+"[wホ・・橳ニネ増{>ッ从寺諟ョ['m=樓戒Ⅹメ&カsテ\n"
+"・岬Kク・着襲@・脇"
+
+#. ID 79, Page 2, Line 4, Pos (103,15)
+msgid ""
+"ある日突然、私達の文明は\n"
+"砂の底に沈んでしまったのよ……。"
+msgstr "某一天突然，我们的文明沉入了沙底……。"
+
+#. ID 79, Page 2, Line 6, Pos (103,15)
+msgid ""
+"あの時、一体何が起こっていたんだろう。\n"
+"もっと偉い人達なら、\n"
+"何か知っているのかなあ……。"
+msgstr ""
+"那时究竟发生了什么？\n"
+"更了不起的人也许知道些什么吧……。"
+
+#. ID 79, Page 2, Line 11, Pos (103,15)
+msgid ""
+"1B鼈P3・・ｭ93}\\攤pHE\n"
+"巐褞K喇ﾍｬ6Qｺ"
+msgstr "1B鼈P3・・ュ93}\\攤pHE巐褞K喇ヘャ6Qコ"
+
+#. ID 79, Page 2, Line 13, Pos (103,15)
+msgid ""
+"ﾜ郎UJUJtｩVjfﾞｫﾄQ\n"
+"`l・\\Bh3ｱCNﾘ9\"\n"
+"mT・/ ﾖ rCｧVｴGql淘"
+msgstr ""
+"ワ郎UJUJtゥVjf゛ォトQ`l・\\Bh3アCNリ9\"mT・/ ヨ \n"
+"rCァVエGql淘"
+
+#. ID 80, Page 2, Line 5, Pos (100,17)
+msgid ""
+"おやおや……。\n"
+"随分とまあ小さなお嬢さんじゃね。"
+msgstr "哎呀哎呀……。还真是个相当小的小姑娘呢。"
+
+#. ID 80, Page 2, Line 7, Pos (100,17)
+msgid ""
+"ん、なんじゃと？\n"
+"………ほほう？\n"
+"お前様、元は大人の女であったというのかね。"
+msgstr "嗯，什么？………嚯嚯？你这位，原本是成年女子吗？"
+
+#. ID 80, Page 2, Line 10, Pos (100,17)
+msgid ""
+"ほっほ、さてはお前様、\n"
+"魔術師団長の奴めにイタズラされてしまったな。\n"
+"あれの病気も相変わらずか。困った奴じゃて。"
+msgstr ""
+"嚯嚯，\n"
+"看来你这位是被魔术师团长那家伙恶作剧了吧。\n"
+"那家伙的毛病还是老样子吗。\n"
+"真是个令人头疼的家伙。"
+
+#. ID 80, Page 2, Line 13, Pos (100,17)
+msgid ""
+"しかし……そういうことなら、\n"
+"ワシなら解呪してやれるかもしれん。\n"
+"まあ、少しばかりのおあしは頂くがね。"
+msgstr ""
+"不过……既然如此，老夫或许能帮你解咒。嗯，\n"
+"不过要收一点报酬。"
+
+#. ID 80, Page 2, Line 16, Pos (100,17)
+#. Contains choice at line 2 (2 options)
+msgid "2000でどうかね。"
+msgstr "2000如何？"
+
+#. ID 80, Page 2, Line 17, Pos (100,17)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 2, Line 111, Pos (100,17)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 2, Line 154, Pos (100,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"お願いする\n"
+"別にいい"
+msgstr ""
+"拜托了\n"
+"不用了"
+
+#. ID 80, Page 2, Line 21, Pos (100,17)
+#. ID 80, Page 2, Line 115, Pos (100,17)
+#. ID 80, Page 2, Line 158, Pos (100,17)
+msgid "承った。そーれ!"
+msgstr "接受了。嘿——！"
+
+#. ID 80, Page 2, Line 31, Pos (100,17)
+#. ID 80, Page 2, Line 75, Pos (100,17)
+msgid ""
+"マントの人物の魔術によって、\n"
+"\\N[\\V[6]]は大人の姿に戻った。"
+msgstr "因斗篷人物的魔术，\\N[\\V[6]]恢复了成人模样。"
+
+#. ID 80, Page 2, Line 37, Pos (100,17)
+msgid ""
+"これで元通りに戦えるじゃろう。\n"
+"お前様の幸運を祈っておるよ。"
+msgstr "这样就能恢复原样战斗了吧。祝你好运。"
+
+#. ID 80, Page 2, Line 46, Pos (100,17)
+msgid ""
+"マントの人物の魔術によって、\n"
+"\\N[\\V[6]]はさらに若返り\n"
+"赤子の姿になってしまった！！"
+msgstr ""
+"因斗篷人物的魔术，\\N[\\V[6]]更加年轻，\n"
+"变成了婴儿的模样！！"
+
+#. ID 80, Page 2, Line 53, Pos (100,17)
+msgid ""
+"おっと、しもうた。\n"
+"間違えてしまったか。これでは逆じゃな。"
+msgstr "哎呀，糟了。搞错了吗。这样反而反了。"
+
+#. ID 80, Page 2, Line 55, Pos (100,17)
+msgid "しからばもう一度……そーれ！"
+msgstr "那就再来一次……嘿——！"
+
+#. ID 80, Page 2, Line 63, Pos (100,17)
+msgid ""
+"マントの人物の魔術によって、\n"
+"なんとか\\N[\\V[6]]は子供の姿まで戻れた。"
+msgstr ""
+"因斗篷人物的魔术，\n"
+"\\N[\\V[6]]总算恢复到了小孩模样。"
+
+#. ID 80, Page 2, Line 65, Pos (100,17)
+msgid ""
+"いや失敬、失敬。\n"
+"今度こそ元通りにしてしんぜよう。\n"
+"そーれ！"
+msgstr "哎呀失敬失敬。这次一定恢复原样。嘿——！"
+
+#. ID 80, Page 2, Line 77, Pos (100,17)
+msgid ""
+"\\N[\\V[6]]\n"
+"「………！！」"
+msgstr ""
+"\\N[\\V[6]]\n"
+"「………！！」"
+
+#. ID 80, Page 2, Line 79, Pos (100,17)
+msgid ""
+"いや申し訳ない。\n"
+"……そう怒らんでおくれ、\n"
+"この通り謝ってているのだからの。"
+msgstr "哎呀抱歉。……别那么生气，我都这样道歉了。"
+
+#. ID 80, Page 2, Line 82, Pos (100,17)
+msgid "お詫びにおあしは半分お返しするよ。"
+msgstr "作为赔礼，报酬退你一半。"
+
+#. ID 80, Page 2, Line 88, Pos (100,17)
+msgid "マントの人物から1000G返してもらった。"
+msgstr "从斗篷人物那里退还了1000G。"
+
+#. ID 80, Page 2, Line 89, Pos (100,17)
+msgid ""
+"ともあれこれで元通りに戦えるじゃろう。\n"
+"お前様の幸運を祈っておるよ。"
+msgstr "总之这样就能恢复原样战斗了吧。祝你好运。"
+
+#. ID 80, Page 2, Line 96, Pos (100,17)
+msgid ""
+"足りんようじゃな……。\n"
+"悪いが、解呪にはそれなりに魔力を消耗してのう、\n"
+"こればかりはまけるわけにはいかんのじゃ。"
+msgstr ""
+"好像不够啊……。抱歉，解咒要消耗不少魔力，\n"
+"这个实在不能让步。"
+
+#. ID 80, Page 2, Line 99, Pos (100,17)
+msgid ""
+"手持ちのある時にまた来ておくれ。\n"
+"ワシはいつでもここにおるからの。"
+msgstr "等你有钱时再来吧。老夫随时都在这里。"
+
+#. ID 80, Page 2, Line 106, Pos (100,17)
+#. ID 80, Page 2, Line 183, Pos (100,17)
+msgid ""
+"おやおや、余計な御世話だったかの。\n"
+"これは失礼致した……。"
+msgstr "哎呀哎呀，是多管闲事了吗。真是失礼了……"
+
+#. ID 80, Page 2, Line 108, Pos (100,17)
+msgid ""
+"ならば回復はいかがかな?\n"
+"まあ、これも少しばかりのおあしは頂くがね。"
+msgstr "那么恢复如何？嗯，这个也要收一点报酬。"
+
+#. ID 80, Page 2, Line 110, Pos (100,17)
+#. Contains choice at line 2 (2 options)
+#. ID 80, Page 2, Line 153, Pos (100,17)
+#. Contains choice at line 2 (2 options)
+msgid "500でどうかね。"
+msgstr "500如何？"
+
+#. ID 80, Page 2, Line 120, Pos (100,17)
+#. ID 80, Page 2, Line 163, Pos (100,17)
+msgid ""
+"足りんようじゃが……ま、よかろう。\n"
+"まけておいてしんぜよう。\n"
+"そーれ!"
+msgstr "好像不够……算了，就这样吧。给你便宜点。嘿——！"
+
+#. ID 80, Page 2, Line 136, Pos (100,17)
+#. ID 80, Page 2, Line 179, Pos (100,17)
+msgid ""
+"これで今しばらくは戦えるじゃろう。\n"
+"お前様の幸運を祈っておるよ。"
+msgstr "这样暂时就能战斗了吧。祝你好运。"
+
+#. ID 80, Page 2, Line 140, Pos (100,17)
+msgid ""
+"おやおや、これも余計な御世話だったか。\n"
+"重ね重ね失礼致した……。"
+msgstr "哎呀哎呀，这也是多管闲事吗。一再失礼了……"
+
+#. ID 80, Page 2, Line 150, Pos (100,17)
+msgid ""
+"ヒッヒッヒ……。\n"
+"もしお疲れならば、回復してしんぜよか?\n"
+"まあ、少しばかりのおあしは頂くがね。"
+msgstr ""
+"嘻嘻嘻……。如果累了，要恢复吗？嗯，\n"
+"不过要收一点报酬。"
+
+#. ID 80, Page 2, Line 193, Pos (100,17)
+msgid ""
+"ﾙ鉞ﾀuⅹ｣p敖5ﾄ5紐uｩ`%'ﾈ・M蔽\n"
+"伜ｿLZ 挈?蒟ｮ､Pn:ｸP暑^ﾟ鈐福ﾈﾉﾄ?"
+msgstr ""
+"ル鉞タuⅹ｣p敖5ト5紐uゥ`%'ネ・M蔽伜ソLZ 挈?蒟ョ､\n"
+"Pn:クP暑^゜鈐福ネノト?"
+
+#. ID 80, Page 2, Line 195, Pos (100,17)
+msgid ""
+"マントの人物は薄く笑って指を三本立てた……\n"
+"金を払えということだろうか?"
+msgstr "斗篷人物淡淡一笑，竖起三根手指……是说要付钱吧？"
+
+#. ID 80, Page 2, Line 197, Pos (100,17)
+#. Choice (3 options)
+msgid ""
+"払う（300G）\n"
+"払う（3000G）\n"
+"無視する"
+msgstr ""
+"支付（300G）\n"
+"支付（3000G）\n"
+"无视"
+
+#. ID 80, Page 2, Line 200, Pos (100,17)
+#. ID 80, Page 2, Line 212, Pos (100,17)
+msgid "お金が足りない……"
+msgstr "金钱不够……"
+
+#. ID 80, Page 2, Line 204, Pos (100,17)
+msgid "悛・Kｵ2・D恵ﾎﾑﾜY3D ., 4ｲVﾓ核8(Qa"
+msgstr "悛・Kオ2・D恵ホムワY3D ., 4イVモ核8(Qa"
+
+#. ID 80, Page 2, Line 205, Pos (100,17)
+msgid "エーテルを貰った。"
+msgstr "获得了以太。"
+
+#. ID 80, Page 2, Line 227, Pos (100,17)
+msgid ""
+"これで我らの言葉が理解できるようになったろう。\n"
+"お前様の幸運を祈っておるよ。"
+msgstr "这样就能理解我们的话了吧。祝你好运。"
+
+#. ID 82, Page 2, Line 4, Pos (107,11)
+msgid ""
+"やあ、お客人。\n"
+"大丈夫、ここは中立地帯だよ。"
+msgstr "嗨，客人。没关系，这里是中立地带。"
+
+#. ID 82, Page 2, Line 6, Pos (107,11)
+msgid ""
+"この部屋の外の連中は\n"
+"オウケノチュウセイガーとか\n"
+"面倒くさい呪いに縛られているけれどね。"
+msgstr ""
+"这间屋子外的家伙们被奥凯诺丘塞加之类麻烦的诅咒\n"
+"束缚着。"
+
+#. ID 82, Page 2, Line 9, Pos (107,11)
+msgid ""
+"私らは、どうもそういう呪いが\n"
+"あんまり浸透しなかったらしい。\n"
+"そんなわけで、ここでさぼっているのさ。"
+msgstr ""
+"我们这边嘛，看来那种诅咒没怎么渗透。\n"
+"所以就在这里摸鱼。"
+
+#. ID 82, Page 2, Line 15, Pos (107,11)
+msgid ""
+"安匳*ｷｷﾖﾎ壕枉ﾃxｬF\n"
+"ｸ{､魘3ubRdｬSlP､"
+msgstr "安匳*キキヨホ壕枉テxャFク{､魘3ubRdャSlP､"
+
+#. ID 82, Page 3, Line 4, Pos (107,11)
+msgid ""
+"こんな姿とはいえ、再び現生に立つ日が\n"
+"来るとは思わなかったなあ。"
+msgstr "虽说这幅模样，没想到还能再次站在这现世。"
+
+#. ID 82, Page 3, Line 8, Pos (107,11)
+msgid ""
+"・ﾌ篦ﾂkgﾎ憙ｳw・壙\n"
+"繃θ靃?4Bﾆ/m徭・i團｣"
+msgstr "・フ篦ツkgホ憙ウw・壙繃θ靃?4Bニ/m徭・i團｣"
+
+#. ID 91, Page 2, Line 3, Pos (57,36)
+msgid "扉は固く閉ざされている……。"
+msgstr "门紧紧关闭着……。"
+
+#. ID 96, Page 2, Line 4, Pos (104,18)
+msgid "王や王妃はどうされたのやら……。"
+msgstr "国王和王妃不知怎么样了……。"
+
+#. ID 96, Page 2, Line 7, Pos (104,18)
+msgid "鳳J1ﾆ\\ﾗMｧﾓ儉6奉lﾛ"
+msgstr "鳳J1ニ\\ラMァモ儉6奉lロ"
+
+#. ID 97, Page 1, Line 5, Pos (106,18)
+msgid ""
+"そこはセーブポイントだ。\n"
+"維持に手間がかかっているんで、\n"
+"すまんが有料になっている。"
+msgstr "那里是存档点。维护很费工夫，抱歉要收费。"
+
+#. ID 97, Page 1, Line 8, Pos (106,18)
+#. Contains choice at line 2 (2 options)
+msgid "一回500Gだが、使うかい?"
+msgstr "一次500G，要用吗？"
+
+#. ID 97, Page 1, Line 13, Pos (106,18)
+msgid "はいよ毎度。んじゃごゆっくり。"
+msgstr "好嘞，多谢惠顾。那么请慢慢来。"
+
+#. ID 97, Page 1, Line 19, Pos (106,18)
+msgid ""
+"足りねえのな……。\n"
+"まあいいや。\n"
+"今回はあるだけでいいよ。"
+msgstr "不够啊……。算了。这次有就给点就行。"
+
+#. ID 97, Page 1, Line 28, Pos (106,18)
+msgid ""
+"そっか。\n"
+"まあ、気が変わったら言ってくれな。"
+msgstr "这样啊。嘛，改主意了再跟我说。"
+
+#. ID 97, Page 1, Line 35, Pos (106,18)
+msgid ""
+"ｧ鴟@ｹ|貮/}肛ﾑceｳ凡\n"
+"ﾋ飼ｿ2>>ﾑp・\\髓)ｷO\n"
+"嚀I0攘ﾏX衆&S・hLUﾎﾞ6"
+msgstr ""
+"ァ鴟@ケ|貮/}肛ムceウ凡ヒ飼ソ2>>ムp・\\髓)キO嚀\n"
+"I0攘マX衆&S・hLUホ゛6"

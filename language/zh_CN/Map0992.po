@@ -1,0 +1,62 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 71, Page 2, Line 3, Pos (45,20)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"この先は屋上だろうか。\n"
+"なにやら強力なプレッシャーを感じる……。"
+msgstr "前方大概是屋顶吧。感觉到某种强大的压迫感……。"
+
+#. ID 71, Page 2, Line 5, Pos (45,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"進む\n"
+"引き返す"
+msgstr ""
+"前进\n"
+"返回"
+
+#. ID 71, Page 2, Line 10, Pos (45,20)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:ピラミッド王妃"
+msgstr "end:金字塔王妃"
+
+#. ID 157, Page 2, Line 3, Pos (20,38)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを見つけた。操作しますか?"
+msgstr "发现了拉杆。要操作吗？"
+
+#. ID 157, Page 2, Line 4, Pos (20,38)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 157, Page 3, Line 3, Pos (20,38)
+msgid "固定されて元に戻らないようだ。"
+msgstr "似乎被固定住，无法恢复原状。"
+
+#. ID 158, Page 2, Line 3, Pos (38,38)
+msgid ""
+"扉は固く閉ざされている……。\n"
+"鍵穴なども見当たらないようだ……。\n"
+"どこか近くにレバーやスイッチはないだろうか?"
+msgstr ""
+"门紧闭着……似乎也找不到钥匙孔……\n"
+"附近有没有拉杆或开关呢？"

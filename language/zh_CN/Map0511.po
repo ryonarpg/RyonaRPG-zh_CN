@@ -1,0 +1,121 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 1, Line 3, Pos (8,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"なにやら怪しい男がいる。\n"
+"近づきますか？"
+msgstr "有个可疑的男人。要靠近吗？"
+
+#. ID 13, Page 1, Line 5, Pos (8,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 13, Page 1, Line 12, Pos (8,13)
+msgid ""
+"やらないか\\!…と思ったら女か\n"
+"何のようだい？\n"
+"\\!ここにいる七英雄を倒しにきたって？"
+msgstr ""
+"要不要来一发\\!……结果一看，你是女人还是什么？\n"
+"\\!你是来打倒这里的七英雄的吗？"
+
+#. ID 13, Page 1, Line 15, Pos (8,13)
+msgid ""
+"いや、俺も同じ目的でここに入ったんだが\n"
+"そいつに会った途端仲間達が突如\n"
+"そいつにひれ伏しちまったんだ…"
+msgstr ""
+"不，我也是为了同样的目的进入这里的，\n"
+"但一见到那家伙，同伴们突然就向他跪拜了……"
+
+#. ID 13, Page 1, Line 18, Pos (8,13)
+msgid ""
+"ああ…俺だけはなぜか無事だったのさ\n"
+"せっかくいい男達ばかりのパーティだった\n"
+"のにな。残念だぜ"
+msgstr ""
+"啊啊……不知为何只有我没事。\n"
+"明明是个全是好男人的队伍。真遗憾啊。"
+
+#. ID 13, Page 1, Line 21, Pos (8,13)
+msgid ""
+"あんたがアイツを倒しにいくのなら\n"
+"俺の持ち物をやろう。\n"
+"ひょっとすると奴の不思議な力に対抗出来\n"
+"るものがあったのかもしれん。"
+msgstr ""
+"如果你要去打倒那家伙，我就把我的东西给你吧。\n"
+"也许其中有能对抗那家伙不可思议力量的东西。"
+
+#. ID 13, Page 1, Line 25, Pos (8,13)
+msgid ""
+"とは言っても褌とツナギしかない訳だが\n"
+"さてどっちを持ってく？"
+msgstr ""
+"话虽如此，我只有兜裆布和连体工作服，\n"
+"你要拿哪个？"
+
+#. ID 13, Page 1, Line 27, Pos (8,13)
+#. Choice (3 options)
+msgid ""
+"ふんどし\n"
+"ツナギ\n"
+"いらない"
+msgstr ""
+"兜裆布\n"
+"连体工作服\n"
+"不需要"
+
+#. ID 13, Page 1, Line 29, Pos (8,13)
+msgid "わかった、少し待ってろ"
+msgstr "知道了，稍等一下。"
+
+#. ID 13, Page 1, Line 30, Pos (8,13)
+msgid ""
+"男は自分のツナギの中に手をいれ\n"
+"やがてふんどしを引っ張り出してきた。"
+msgstr ""
+"男人把手伸进自己的连体工作服里，\n"
+"然后拽出了兜裆布。"
+
+#. ID 13, Page 1, Line 33, Pos (8,13)
+msgid "ほら、がんばってくれよ。"
+msgstr "给，加油啊。"
+
+#. ID 13, Page 1, Line 34, Pos (8,13)
+msgid "六尺ふんどしを手に入れた"
+msgstr "获得了六尺兜裆布"
+
+#. ID 13, Page 1, Line 37, Pos (8,13)
+msgid ""
+"そういうと男は私の見ている前でツナギの\n"
+"ホックをおろし始めたのだ"
+msgstr "说着，男人就在我眼前开始解开连体工作服的搭扣。"
+
+#. ID 13, Page 1, Line 39, Pos (8,13)
+msgid "……やはりやめてもらった"
+msgstr "……还是让他停下了。"
+
+#. ID 13, Page 1, Line 42, Pos (8,13)
+msgid ""
+"そうかい。\n"
+"ならまあがんばってくれ"
+msgstr "这样啊。那就加油吧。"

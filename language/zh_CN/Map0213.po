@@ -1,0 +1,106 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 25, Page 2, Line 3, Pos (33,9)
+msgid ""
+"しーーっ！\n"
+"\\!大きな声を出すな！\n"
+"\\.何の用だ？\n"
+"　"
+msgstr "嘘——！\\!别大声嚷嚷！\\.有什么事？"
+
+#. ID 25, Page 2, Line 8, Pos (33,9)
+#. Choice (3 options)
+msgid ""
+"ブツは何だい？\n"
+"ブツって何だい？\n"
+"特になし"
+msgstr ""
+"货是什么？\n"
+"货是指什么？\n"
+"没什么特别的"
+
+#. ID 25, Page 2, Line 12, Pos (33,9)
+msgid ""
+"もう品切れだよ！\n"
+"後でまた来な。"
+msgstr "已经卖完了！之后再来吧。"
+
+#. ID 25, Page 2, Line 18, Pos (33,9)
+msgid ""
+"\\N[101]\\N[102]\n"
+"個数：\\V[619]\n"
+"値段：\\V[617]G"
+msgstr "\\N[101]\\N[102]数量：\\V[619]价格：\\V[617]G"
+
+#. ID 25, Page 2, Line 21, Pos (33,9)
+#. Choice (2 options)
+msgid ""
+"買う\n"
+"いいえ"
+msgstr ""
+"购买\n"
+"否"
+
+#. ID 25, Page 2, Line 28, Pos (33,9)
+msgid "\\N[101]\\N[102]を手に入れた。"
+msgstr "获得了\\N[101]\\N[102]。"
+
+#. ID 25, Page 2, Line 33, Pos (33,9)
+msgid "ちょっと待った、金が足りないぜ！"
+msgstr "等一下，钱不够啊！"
+
+#. ID 25, Page 2, Line 38, Pos (33,9)
+#. ID 25, Page 2, Line 49, Pos (33,9)
+msgid ""
+"じゃあな。\n"
+"\\.悪い奴に気をつけろよ。"
+msgstr "再见。\\.小心坏人啊。"
+
+#. ID 25, Page 2, Line 44, Pos (33,9)
+msgid ""
+"ブツだよ！\n"
+"\\.わかるだろ？"
+msgstr "是货啊！\\.你懂的吧？"
+
+#. ID 57, Page 2, Line 3, Pos (19,13)
+msgid ""
+"\n"
+"……死体だ。死んでからそれ程経っていないらしい"
+msgstr "……是尸体。看起来死了没多久。"
+
+#. ID 57, Page 2, Line 5, Pos (19,13)
+msgid ""
+"\n"
+"歯は全て抜かれており、顎がはずされている。\n"
+"目玉はくり抜かれており、今では虫の棲家のようだ。"
+msgstr ""
+"牙齿全被拔掉，下巴被卸下。眼珠被挖空，\n"
+"如今成了虫子的巢穴。"
+
+#. ID 57, Page 2, Line 8, Pos (19,13)
+msgid ""
+"\n"
+"体外に飛び出した子宮口には目玉が入れられており、\n"
+"新種のモンスターのようにも見える。"
+msgstr ""
+"脱出体外的子宫口被塞入了眼珠，\n"
+"看起来甚至像新种怪物。"
+
+#. ID 57, Page 2, Line 11, Pos (19,13)
+msgid ""
+"\n"
+"体には好き勝手に落書きされた跡と、\n"
+"無数の切り傷が残っている……"
+msgstr "身体上残留着被人肆意涂鸦的痕迹，以及无数割伤……"

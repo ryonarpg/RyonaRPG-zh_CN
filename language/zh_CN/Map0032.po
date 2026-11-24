@@ -1,0 +1,242 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 2, Line 3, Pos (13,12)
+msgid ""
+"「神だ！やっと神と！」\n"
+"我等が海神「クラーケン」の贄なる者よ。\n"
+"いたずらに心を乱すなかれ。"
+msgstr ""
+"「是神！终于见到神了！」身为我等海神「克拉肯」\n"
+"祭品者啊。切勿徒然心乱。"
+
+#. ID 13, Page 2, Line 6, Pos (13,12)
+msgid ""
+"神を守護する「棺の神官」はあと一名残っている。\n"
+"階を降り最後の問いを待て。"
+msgstr ""
+"守护神的「棺之神官」还剩一名。\n"
+"下楼等待最后的提问。"
+
+#. ID 14, Page 2, Line 13, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 67, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「狩人」"
+msgstr "「猎人」"
+
+#. ID 14, Page 2, Line 17, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 71, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「生贄」"
+msgstr "「祭品」"
+
+#. ID 14, Page 2, Line 21, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 75, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「角を持つ獣」"
+msgstr "「有角之兽」"
+
+#. ID 14, Page 2, Line 25, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 79, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「泳ぐもの」"
+msgstr "「游水之物」"
+
+#. ID 14, Page 2, Line 29, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 83, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「鏡合わせ」"
+msgstr "「镜像」"
+
+#. ID 14, Page 2, Line 33, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 87, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「水」"
+msgstr "「水」"
+
+#. ID 14, Page 2, Line 37, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 91, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「解を背負う虫」"
+msgstr "「背负解答之虫」"
+
+#. ID 14, Page 2, Line 41, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 95, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「正義」"
+msgstr "「正义」"
+
+#. ID 14, Page 2, Line 45, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 99, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「毒」"
+msgstr "「毒」"
+
+#. ID 14, Page 2, Line 49, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 103, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「乙女」"
+msgstr "「少女」"
+
+#. ID 14, Page 2, Line 53, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 107, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「猛獣」"
+msgstr "「猛兽」"
+
+#. ID 14, Page 2, Line 57, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 111, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「動かぬもの以外の４文字」"
+msgstr "「不动之物以外的4个字」"
+
+#. ID 14, Page 2, Line 61, Pos (13,17)
+#. ChangeHeroName (Actor 102)
+#. ID 14, Page 2, Line 115, Pos (13,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "「毒牙を操るもの」"
+msgstr "「操毒牙者」"
+
+#. ID 14, Page 2, Line 125, Pos (13,17)
+msgid ""
+"汝に問う。\n"
+"\\c[4]\\n[102]\\c[0]　\\c[4]\\n[103]\\c[0]と共に\n"
+"正三角形を成すものは何か？"
+msgstr ""
+"向汝提问。\n"
+"\\c[4]\\n[102]\\c[0]　\\c[4]\\n[103]\\c[0]共同构成正\n"
+"三角形的是什么？"
+
+#. ID 14, Page 2, Line 129, Pos (13,17)
+#. Choice (4 options)
+msgid ""
+"\\>「動かぬもの以外の４文字」\n"
+"\\>「角を持つ獣」\n"
+"\\>「鏡合わせ」\n"
+"\\>＞＞次の選択肢"
+msgstr ""
+"\\>「不动之物以外的4个字」\n"
+"\\>「有角之兽」\n"
+"\\>「镜像」\n"
+"\\>＞＞下一个选项"
+
+#. ID 14, Page 2, Line 144, Pos (13,17)
+#. Choice (4 options)
+msgid ""
+"\\>「解を背負う虫」\n"
+"\\>「猛獣」\n"
+"\\>「乙女」\n"
+"\\>＞＞次の選択肢"
+msgstr ""
+"\\>「背负解答之虫」\n"
+"\\>「猛兽」\n"
+"\\>「少女」\n"
+"\\>＞＞下一个选项"
+
+#. ID 14, Page 2, Line 159, Pos (13,17)
+#. Choice (4 options)
+msgid ""
+"\\>「正義」\n"
+"\\>「毒」\n"
+"\\>「狩人」\n"
+"\\>＞＞次の選択肢"
+msgstr ""
+"\\>「正义」\n"
+"\\>「毒」\n"
+"\\>「猎人」\n"
+"\\>＞＞下一个选项"
+
+#. ID 14, Page 2, Line 174, Pos (13,17)
+#. Choice (4 options)
+msgid ""
+"\\>「生贄」\n"
+"\\>「水」\n"
+"\\>「泳ぐもの」\n"
+"\\>＞＞次の選択肢"
+msgstr ""
+"\\>「祭品」\n"
+"\\>「水」\n"
+"\\>「游水之物」\n"
+"\\>＞＞下一个选项"
+
+#. ID 14, Page 2, Line 185, Pos (13,17)
+#. Choice (4 options)
+msgid ""
+"\\>「毒牙を操るもの」\n"
+"\\>「動くもの以外の５文字」\n"
+"\\>もう一度問題を聞く\n"
+"\\>＜＜最初の選択肢"
+msgstr ""
+"\\>「操毒牙者」\n"
+"\\>「会动之物以外的5个字」\n"
+"\\>再听一次问题\n"
+"\\>＜＜最初的选项"
+
+#. ID 14, Page 2, Line 219, Pos (13,17)
+msgid "汝、刻は人の身に於いて悠久ならぬことを悟るべし"
+msgstr "汝当领悟，刻于人身并非悠久。"
+
+#. ID 14, Page 2, Line 249, Pos (13,17)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:無し"
+msgstr "end:无"
+
+#. ID 14, Page 2, Line 253, Pos (13,17)
+msgid ""
+"汝、「刻と星の陣」を理解せぬ者よ。\n"
+"信仰の源を失いし者に我等が神の贄たる資格は無し。"
+msgstr ""
+"汝，不解「刻与星之阵」者啊。失去信仰之源者，\n"
+"没有成为我等之神祭品的资格。"
+
+#. ID 16, Page 2, Line 12, Pos (21,12)
+msgid ""
+"チェーンフレイルを装備して\n"
+"\\C[2]ポール\\C[0]を攻撃すると\n"
+"ポールへ向かって高速移動できる。"
+msgstr "装备链枷攻击\\C[2]杆\\C[0]时，可以朝杆高速移动。"
+
+#. ID 16, Page 2, Line 15, Pos (21,12)
+msgid ""
+"溜め攻撃でより遠くのポールや\n"
+"崖の向こう側のポールへ移動できる。"
+msgstr ""
+"通过蓄力攻击，\n"
+"可以移动到更远处的杆或悬崖对面的杆。"

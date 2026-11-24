@@ -1,0 +1,62 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 38, Page 2, Line 3, Pos (25,8)
+msgid ""
+"そこの者……\n"
+"もしもモーニングスターを2つ以上持っていたら\n"
+"200000Gで1つを破壊の鉄球に改造してやろう。"
+msgstr ""
+"那边的家伙……如果你持有两把以上的晨星锤，\n"
+"我就以200000G将其中一把改造成破坏铁球。"
+
+#. ID 38, Page 2, Line 8, Pos (25,8)
+#. Contains choice at line 2 (2 options)
+msgid "200000Gでモーニングスターを改造……"
+msgstr "以200000G改造晨星锤……"
+
+#. ID 38, Page 2, Line 9, Pos (25,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"してもらう\n"
+"してもらわない"
+msgstr ""
+"拜托他改造\n"
+"不拜托他改造"
+
+#. ID 38, Page 2, Line 12, Pos (25,8)
+msgid ""
+"金が足りんようだな……\n"
+"都合をつけてからまた来るがいい……"
+msgstr "钱似乎不够啊……等你凑齐了再来吧……"
+
+#. ID 38, Page 2, Line 19, Pos (25,8)
+msgid ""
+"あいわかった。\n"
+"では暫し待つが良い……"
+msgstr "明白了。那就稍等片刻吧……"
+
+#. ID 38, Page 2, Line 45, Pos (25,8)
+msgid ""
+"そら、あがったぞ。\n"
+"持っていくが良い……"
+msgstr "喏，改造好了。拿走吧……"
+
+#. ID 38, Page 2, Line 54, Pos (25,8)
+msgid "破壊の鉄球を手に入れた。"
+msgstr "获得了破坏铁球。"
+
+#. ID 38, Page 3, Line 3, Pos (25,8)
+msgid "…………"
+msgstr "…………"

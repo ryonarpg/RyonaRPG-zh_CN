@@ -1,0 +1,48 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 7, Pos (8,19)
+msgid ""
+"朽ち果てた岩場…\\!\n"
+"埃の匂い…\\!\n"
+"生き物の気配は何もない"
+msgstr ""
+"腐朽殆尽的岩场…\\!灰尘的气味…\n"
+"\\!没有任何生物的气息"
+
+#. ID 22, Page 2, Line 10, Pos (8,19)
+msgid "この空間は何万年も封印されていたことを実感する"
+msgstr "我切实感受到这个空间已被封印了数万年"
+
+#. ID 34, Page 2, Line 3, Pos (14,14)
+msgid ""
+"[ジ・アストラル]\n"
+"危険度　★★★★"
+msgstr "[The Astral]危险度　★★★★"
+
+#. ID 34, Page 2, Line 8, Pos (14,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"深い深い暗黒が広がっている…\\!\n"
+"飛び込みますか？"
+msgstr "深邃的黑暗不断蔓延…\\!要跳进去吗？"
+
+#. ID 34, Page 2, Line 10, Pos (14,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

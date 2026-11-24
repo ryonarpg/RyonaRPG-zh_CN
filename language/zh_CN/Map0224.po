@@ -1,0 +1,201 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 1, Pos (17,10)
+msgid ""
+"箱の中には治療薬が納まっている。\n"
+"\\!簡単に殺してはくれないらしい。"
+msgstr "箱子里放着治疗药。\\!看来对方不会轻易杀掉我。"
+
+#. ID 2, Page 2, Line 1, Pos (11,7)
+msgid ""
+"さて。\n"
+"\\!散歩の時間は終わりだ。"
+msgstr "那么。\\!散步时间结束了。"
+
+#. ID 2, Page 2, Line 14, Pos (11,7)
+msgid ""
+"ここからは私の時間だ。\n"
+"\\!悪いが、これも仕事なんでな。"
+msgstr ""
+"接下来就是我的时间了。\\!对不住了，\n"
+"这也是工作嘛。"
+
+#. ID 2, Page 2, Line 16, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+msgid "＊：―――自白しますか？"
+msgstr "＊：―――要自白吗？"
+
+#. ID 2, Page 2, Line 17, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 2, Line 21, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 2, Page 2, Line 19, Pos (11,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊「なに？\\!\n"
+"　　伯爵の暗殺を計画していたと、認めるのか？"
+msgstr ""
+"＊「什么？\\!\n"
+"　　你承认自己计划暗杀伯爵吗？"
+
+#. ID 2, Page 2, Line 23, Pos (11,7)
+msgid ""
+"＊「馬鹿め\\!\n"
+"　　自白しなければもう少し生きていられたろうに"
+msgstr ""
+"＊「蠢货！\\!\n"
+"　　要是不自白，本来还能多活一会儿的"
+
+#. ID 2, Page 2, Line 25, Pos (11,7)
+msgid "＊「すぐに処刑を執り行う！"
+msgstr "＊「马上执行处刑！"
+
+#. ID 2, Page 2, Line 39, Pos (11,7)
+msgid ""
+"喜べ。\n"
+"\\!今日の拷問は―――"
+msgstr "高兴吧。\\!今天的拷问是―――"
+
+#. ID 2, Page 2, Line 45, Pos (11,7)
+#. Choice (3 options)
+msgid ""
+"火焙り\n"
+"鞭打ち\n"
+"電撃責め"
+msgstr ""
+"火烤\n"
+"鞭打\n"
+"电击折磨"
+
+#. ID 3, Page 1, Line 1, Pos (11,2)
+#. ID 3, Page 2, Line 1, Pos (11,2)
+msgid "「もう嫌ぁ……外して、外してよぉ」"
+msgstr "「不要嘛……解开，解开啦」"
+
+#. ID 4, Page 1, Line 1, Pos (14,3)
+#. ID 4, Page 2, Line 1, Pos (14,3)
+msgid ""
+"「早くコレを外しなさいっ\n"
+"　私を誰だと思ってるのですか、はやくっ！」"
+msgstr "「快点把这个解开！你以为我是谁啊，快点！」"
+
+#. ID 8, Page 1, Line 1, Pos (13,3)
+#. ID 8, Page 2, Line 1, Pos (13,3)
+msgid "「…………………………」"
+msgstr "「…………………………」"
+
+#. ID 8, Page 1, Line 2, Pos (13,3)
+#. ID 8, Page 2, Line 2, Pos (13,3)
+msgid "＊もう返事をする気力も無いらしい。"
+msgstr "＊看来她已经没有回话的气力了。"
+
+#. ID 10, Page 1, Line 1, Pos (17,9)
+msgid ""
+"置石だ。下にはギザギザの板が置かれている。\n"
+"\\!これを足の上に乗せられたら……。"
+msgstr ""
+"这是压脚石。下面放着锯齿状的板子。\n"
+"\\!要是把这个放到脚上……。"
+
+#. ID 12, Page 1, Line 1, Pos (18,8)
+msgid ""
+"焼き鏝が熱されている。\n"
+"\\!今日の拷問で使うのだろうか。"
+msgstr "烙铁正在被加热。\\!会在今天的拷问中使用吗？"
+
+#. ID 44, Page 1, Line 1, Pos (17,2)
+msgid ""
+"**拷問部屋**\n"
+"**          現在使用中**"
+msgstr "**拷问室****          使用中**"
+
+#. ID 44, Page 1, Line 13, Pos (17,2)
+msgid ""
+"＊………奥でかすかにすすり泣くような声が\n"
+"　聞えてきたが、すぐに悲鳴と絶叫に変わった……"
+msgstr ""
+"＊………\n"
+"　里面隐约传来像是啜泣的声音\n"
+"　但很快就变成了惨叫和绝叫……"
+
+#. ID 47, Page 1, Line 1, Pos (15,3)
+#. ID 47, Page 2, Line 1, Pos (15,3)
+msgid ""
+"「もう……いっそ……殺して……\n"
+"　うっ……うっ……」"
+msgstr "「已经……干脆……杀了我吧……　呜……呜……」"
+
+#. ID 51, Page 1, Line 1, Pos (10,2)
+msgid "鎖には『\\N[\\V[6]]』と刻印が打たれている。"
+msgstr "锁上打着『\\N[\\V[6]]』的刻印。"
+
+#. ID 55, Page 1, Line 1, Pos (12,2)
+#. ID 55, Page 2, Line 1, Pos (12,2)
+msgid ""
+"「もう痛いのいやなの…………\n"
+"　……いたいの………いやぁ………………」"
+msgstr "「已经不想再痛了…………　……好痛………不要啊………………」"
+
+#. ID 55, Page 1, Line 3, Pos (12,2)
+#. ID 55, Page 2, Line 3, Pos (12,2)
+msgid "全身に鞭で打たれた痕がある"
+msgstr "全身都是被鞭子抽打过的痕迹。"
+
+#. ID 154, Page 1, Line 2, Pos (6,7)
+msgid ""
+"\n"
+"～業務日誌～"
+msgstr "～业务日志～"
+
+#. ID 154, Page 1, Line 4, Pos (6,7)
+msgid ""
+"●●月■■日\n"
+"・新しい逮捕者が収容された。\n"
+"　名前は\\N[\\V[6]]。例によって女性である。"
+msgstr ""
+"●●月■■日・新的被捕者被收押了。\n"
+"　名字是\\N[\\V[6]]。照例是女性。"
+
+#. ID 154, Page 1, Line 7, Pos (6,7)
+msgid ""
+"ひとまず現状を認識させる。\n"
+"\\N[\\V[6]]を開放して牢屋内を歩かせ、\n"
+"逃げ道も、私に勝つ術も無い事を理解させるのだ。"
+msgstr ""
+"首先让她认清现状。把\\N[\\V[6]]放开，\n"
+"让其在牢房内走动，使她明白既没有逃跑的路，\n"
+"也没有胜过我的手段。"
+
+#. ID 154, Page 1, Line 10, Pos (6,7)
+msgid ""
+"その後、手順に則って尋問を開始する。\n"
+"心が折れるまで、何を話しても手は止めない。\n"
+"\\!さて、それでは鎖を外してやろう。"
+msgstr ""
+"之后，按照步骤开始审讯。直到她心理崩溃为止，\n"
+"无论她说什么我都不会停手。\\!那么，\n"
+"这就给你解开锁链吧。"
+
+#. ID 283, Page 1, Line 11, Pos (10,14)
+#. ID 284, Page 1, Line 11, Pos (11,14)
+msgid "鉄格子は固く施錠されている！！"
+msgstr "铁栅栏被牢牢锁住了！！"

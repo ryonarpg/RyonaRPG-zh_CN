@@ -1,0 +1,1718 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (28,5)
+msgid "へへへ、盛りやがって…そんなに良いのかい！"
+msgstr "嘿嘿嘿，还挺兴奋的嘛…有那么舒服吗！"
+
+#. ID 3, Page 1, Line 7, Pos (28,5)
+msgid "ああぁ…アナタぁ…ふ…もっとぉ…"
+msgstr "啊啊…你…嗯…再多点…"
+
+#. ID 4, Page 1, Line 3, Pos (27,3)
+msgid "ハッ！触手とチンコに犯されて気持ち良さそうだなぁ！？"
+msgstr "哈！被触手和鸡巴侵犯，看起来很舒服啊！？"
+
+#. ID 4, Page 1, Line 7, Pos (27,3)
+msgid "違うの…これは……違うのぉ…！！"
+msgstr "不是的…这是……不是的…！！"
+
+#. ID 6, Page 1, Line 3, Pos (7,18)
+msgid ""
+"＊書かれてある文字すら読めない\n"
+"　随分と古い墓碑だ……"
+msgstr "＊连上面写的文字都读不懂　是块相当古老的墓碑……"
+
+#. ID 7, Page 2, Line 3, Pos (7,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊墓碑の地下へと通じる穴のようだ。\n"
+"　ロープがはられている。"
+msgstr "＊似乎是通往墓碑地下的洞。　拉着绳索。"
+
+#. ID 7, Page 2, Line 5, Pos (7,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"降りてみる\n"
+"降りない"
+msgstr ""
+"下去看看\n"
+"不下去"
+
+#. ID 12, Page 1, Line 3, Pos (9,3)
+msgid ""
+"眠れる霊を起こさぬよう\n"
+"墓場ではお静かにお願いします"
+msgstr "为了不唤醒沉睡的灵，请在墓地保持安静。"
+
+#. ID 13, Page 1, Line 31, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+#. ID 13, Page 1, Line 60, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+#. ID 13, Page 1, Line 89, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 1, Line 118, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 1, Line 147, Pos (3,3)
+#. ChangeHeroName (Actor 105)
+#. ID 13, Page 1, Line 176, Pos (3,3)
+#. ChangeHeroName (Actor 106)
+#. ID 13, Page 1, Line 228, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+#. ID 13, Page 1, Line 237, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+#. ID 13, Page 1, Line 246, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 1, Line 255, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 1, Line 264, Pos (3,3)
+#. ChangeHeroName (Actor 105)
+#. ID 13, Page 1, Line 273, Pos (3,3)
+#. ChangeHeroName (Actor 106)
+msgctxt "actors.name"
+msgid " "
+msgstr " "
+
+#. ID 13, Page 1, Line 36, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+#. ID 13, Page 1, Line 65, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+#. ID 13, Page 1, Line 94, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 1, Line 123, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 1, Line 152, Pos (3,3)
+#. ChangeHeroName (Actor 105)
+#. ID 13, Page 1, Line 181, Pos (3,3)
+#. ChangeHeroName (Actor 106)
+msgctxt "actors.name"
+msgid "  "
+msgstr "  "
+
+#. ID 13, Page 1, Line 41, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+#. ID 13, Page 1, Line 70, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+#. ID 13, Page 1, Line 99, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 1, Line 128, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 1, Line 157, Pos (3,3)
+#. ChangeHeroName (Actor 105)
+#. ID 13, Page 1, Line 186, Pos (3,3)
+#. ChangeHeroName (Actor 106)
+msgctxt "actors.name"
+msgid "   "
+msgstr "   "
+
+#. ID 13, Page 1, Line 46, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+#. ID 13, Page 1, Line 75, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+#. ID 13, Page 1, Line 104, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 1, Line 133, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 1, Line 162, Pos (3,3)
+#. ChangeHeroName (Actor 105)
+#. ID 13, Page 1, Line 191, Pos (3,3)
+#. ChangeHeroName (Actor 106)
+msgctxt "actors.name"
+msgid "    "
+msgstr "    "
+
+#. ID 13, Page 1, Line 50, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+#. ID 13, Page 1, Line 79, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+#. ID 13, Page 1, Line 108, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 1, Line 137, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 1, Line 166, Pos (3,3)
+#. ChangeHeroName (Actor 105)
+#. ID 13, Page 1, Line 195, Pos (3,3)
+#. ChangeHeroName (Actor 106)
+msgctxt "actors.name"
+msgid "     "
+msgstr "     "
+
+#. ID 13, Page 2, Line 4, Pos (3,3)
+msgid "銃使いを探しています。"
+msgstr "正在寻找枪手。"
+
+#. ID 13, Page 2, Line 10, Pos (3,3)
+#. Contains choice at line 2 (3 options)
+msgid "\\|何しに来たんですか？"
+msgstr "\\|你来做什么？"
+
+#. ID 13, Page 2, Line 11, Pos (3,3)
+#. Choice (3 options, embedded in a message)
+#. ID 13, Page 2, Line 28, Pos (3,3)
+#. Choice (3 options, embedded in a message)
+#. ID 13, Page 2, Line 48, Pos (3,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>協力する\n"
+"\\>さようなら\n"
+"\\>くわしく"
+msgstr ""
+"\\>合作\n"
+"\\>再见\n"
+"\\>详情"
+
+#. ID 13, Page 2, Line 19, Pos (3,3)
+msgid "嫌です。"
+msgstr "不愿意。"
+
+#. ID 13, Page 2, Line 26, Pos (3,3)
+msgid "\\|貴女ですか。"
+msgstr "\\|是你吗？"
+
+#. ID 13, Page 2, Line 27, Pos (3,3)
+#. Contains choice at line 2 (3 options)
+msgid "もしや、協力してくれるのですか？"
+msgstr "莫非你愿意协助我吗？"
+
+#. ID 13, Page 2, Line 42, Pos (3,3)
+msgid "\\|貴女は銃使いですね？"
+msgstr "\\|你是枪手吧？"
+
+#. ID 13, Page 2, Line 45, Pos (3,3)
+msgid "看板の文字が書き換わっていく。"
+msgstr "招牌上的文字不断被改写。"
+
+#. ID 13, Page 2, Line 47, Pos (3,3)
+#. Contains choice at line 2 (3 options)
+msgid "貴女に協力してもらいたいことがあります。"
+msgstr "有件事想请你协助。"
+
+#. ID 13, Page 2, Line 63, Pos (3,3)
+msgid ""
+"信用していいんですかね？\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.桶の中のものを持って行ってください。"
+msgstr ""
+"可以信任你吗？\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.请把桶里的东西拿走。"
+
+#. ID 13, Page 2, Line 67, Pos (3,3)
+msgid ""
+"助かります。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.桶の中のものを持って行ってください。"
+msgstr ""
+"帮大忙了。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.请把桶里的东西拿走。"
+
+#. ID 13, Page 2, Line 78, Pos (3,3)
+msgid "つよい弾を6個もらった。"
+msgstr "获得了6发强力子弹。"
+
+#. ID 13, Page 2, Line 81, Pos (3,3)
+msgid ""
+"前金代わりに受け取ってください。\n"
+"今後、物をやり取りするときはその桶を使用します。"
+msgstr ""
+"请把这个当作预付款收下。今后交接物品时，\n"
+"将使用那个桶。"
+
+#. ID 13, Page 2, Line 83, Pos (3,3)
+msgid "それでは…いかがなさいますか？"
+msgstr "那么……您要怎么做？"
+
+#. ID 13, Page 2, Line 91, Pos (3,3)
+msgid "冷やかしならもう来ないでくださいね！"
+msgstr "如果是来捣乱的话，请不要再来了！"
+
+#. ID 13, Page 2, Line 94, Pos (3,3)
+#. ID 13, Page 12, Line 72, Pos (3,3)
+msgid "さようなら…。"
+msgstr "再见……。"
+
+#. ID 13, Page 2, Line 103, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\>"
+msgstr "\\>"
+
+#. ID 13, Page 2, Line 109, Pos (3,3)
+msgid ""
+"\\n[101]私は銃器の開発や復元等を行っている者です。\n"
+"\\n[101]銃使いにとって有用なアイテムも開発しています。"
+msgstr ""
+"\\n[101]我是从事枪械开发与复原等工作的人。\n"
+"\\n[101]也在开发对枪手有用的物品。"
+
+#. ID 13, Page 2, Line 111, Pos (3,3)
+msgid ""
+"\\n[101]しかし開発等に使用する物資が尽き、\n"
+"\\n[101]それを集めるための資金も枯渇している状態です。"
+msgstr ""
+"\\n[101]但是用于开发等用途的物资已经耗尽，\n"
+"\\n[101]用于收集这些物资的资金也已枯竭。"
+
+#. ID 13, Page 2, Line 113, Pos (3,3)
+msgid ""
+"\\n[101]貴女にお願いしたいのは\n"
+"\\n[101]主に物資、または資金の提供です。\n"
+"\\n[101]物資の方は冒険者なら\n"
+"\\n[101]手に入れやすいものが殆どだと思います。"
+msgstr ""
+"\\n[101]我想请你做的\\n[101]主要是提供物资或资金。\n"
+"\\n[101]物资方面，\n"
+"对冒险者来说\\n[101]大多是比较容易获得的东西。"
+
+#. ID 13, Page 2, Line 117, Pos (3,3)
+msgid ""
+"\\n[101]報酬は完成した物を提供します。\n"
+"\\n[101]複数お求めの場合は有償となりますが。"
+msgstr ""
+"\\n[101]报酬将提供完成品。\\n[101]如果需要多件，\n"
+"则需付费。"
+
+#. ID 13, Page 2, Line 120, Pos (3,3)
+#. Contains choice at line 2 (3 options)
+msgid "いかがでしょう、協力してくれますか？"
+msgstr "怎么样，愿意协助我吗？"
+
+#. ID 13, Page 2, Line 121, Pos (3,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>協力する\n"
+"\\>さようなら\n"
+"\\>もう一度"
+msgstr ""
+"\\>合作\n"
+"\\>再见\n"
+"\\>再说一遍"
+
+#. ID 13, Page 2, Line 130, Pos (3,3)
+msgid "………………。"
+msgstr "………………。"
+
+#. ID 13, Page 2, Line 135, Pos (3,3)
+msgid "わざとやってます？"
+msgstr "你是故意的吗？"
+
+#. ID 13, Page 2, Line 136, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+msgid "もうこれ以上は言いたくないです。"
+msgstr "我不想再多说了。"
+
+#. ID 13, Page 2, Line 137, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>協力する\n"
+"\\>さようなら"
+msgstr ""
+"\\>合作\n"
+"\\>再见"
+
+#. ID 13, Page 3, Line 71, Pos (3,3)
+msgid ""
+"ご協力ありがとうございます。\n"
+"現在、お願いしたい案件はありません。"
+msgstr "感谢您的协助。目前没有想委托的案件。"
+
+#. ID 13, Page 4, Line 7, Pos (3,3)
+#. Choice (4 options)
+msgid ""
+"\\>弾の購入\n"
+"\\>銃器の購入\n"
+"\\>ソウルの購入\n"
+"\\>注意事項"
+msgstr ""
+"\\>购买子弹\n"
+"\\>购买枪械\n"
+"\\>购买灵魂\n"
+"\\>注意事项"
+
+#. ID 13, Page 4, Line 82, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "M1877 Lightning　　 "
+msgstr "M1877 闪电"
+
+#. ID 13, Page 4, Line 84, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+#. ID 13, Page 4, Line 104, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 4, Line 124, Pos (3,3)
+#. ChangeHeroName (Actor 106)
+#. ID 13, Page 4, Line 204, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 6, Line 253, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 6, Line 258, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 6, Line 263, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 6, Line 268, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+#. ID 13, Page 6, Line 273, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "装備中"
+msgstr "装备中"
+
+#. ID 13, Page 4, Line 88, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+#. ID 13, Page 4, Line 108, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 4, Line 128, Pos (3,3)
+#. ChangeHeroName (Actor 106)
+msgctxt "actors.name"
+msgid "　所持"
+msgstr "　持有"
+
+#. ID 13, Page 4, Line 91, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+#. ID 13, Page 4, Line 111, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+#. ID 13, Page 4, Line 131, Pos (3,3)
+#. ChangeHeroName (Actor 106)
+#. ID 13, Page 4, Line 211, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "未所持"
+msgstr "未持有"
+
+#. ID 13, Page 4, Line 98, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "？？ ？？？？？ 　　　　　　　　　　　　　　　"
+msgstr "？？ ？？？？？ 　　　　　　　　　　　　　　　"
+
+#. ID 13, Page 4, Line 102, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "古式銃　　　　　　　"
+msgstr "古式枪"
+
+#. ID 13, Page 4, Line 118, Pos (3,3)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "？？？　　　　　　　　　　　　　　　　　　　　　"
+msgstr ""
+"？？？\n"
+"　　　　　　　　　　　　　　　　　　　　　"
+
+#. ID 13, Page 4, Line 122, Pos (3,3)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "マウザーの杖　　　　"
+msgstr "毛瑟之杖"
+
+#. ID 13, Page 4, Line 138, Pos (3,3)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "？？？？？？　　　　　　　　　　　　　　　　　　"
+msgstr ""
+"？？？？？？\n"
+"　　　　　　　　　　　　　　　　　　"
+
+#. ID 13, Page 4, Line 141, Pos (3,3)
+#. Choice (3 options)
+msgid ""
+"\\>\\n[101]　  2000G　\\n[102]\n"
+"\\>\\n[103]　  8000G　\\n[104]\n"
+"\\>\\n[105]　  2000G　\\n[106]"
+msgstr ""
+"\\>\\n[101]　  2000G　\\n[102]\n"
+"\\>\\n[103]　  8000G　\\n[104]\n"
+"\\>\\n[105]　  2000G　\\n[106]"
+
+#. ID 13, Page 4, Line 185, Pos (3,3)
+#. Choice (1 options)
+msgid "\\>憑依を解除する"
+msgstr "\\>解除凭依"
+
+#. ID 13, Page 4, Line 208, Pos (3,3)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "所持"
+msgstr "持有"
+
+#. ID 13, Page 4, Line 216, Pos (3,3)
+#. Choice (1 options)
+msgid "\\>メタルソウル　　　　　\\n[104]"
+msgstr "\\>金属之魂　　　　　\\n[104]"
+
+#. ID 13, Page 4, Line 225, Pos (3,3)
+#. Contains choice at line 2 (3 options)
+msgid "\\>メタルソウル"
+msgstr "\\>金属之魂"
+
+#. ID 13, Page 4, Line 226, Pos (3,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>額当てを購入する　　　     5G\n"
+"\\>憑依させる　　　　　　     0G\n"
+"\\>くわしく"
+msgstr ""
+"\\>购买护额　　　     5G\n"
+"\\>使其凭依　　　　　　     0G\n"
+"\\>详情"
+
+#. ID 13, Page 4, Line 234, Pos (3,3)
+msgid "こちらはまだ準備が整っていません。"
+msgstr "这边还没有准备好。"
+
+#. ID 13, Page 4, Line 255, Pos (3,3)
+msgid ""
+"\\>ナイフを生成して隣接している敵に攻撃\n"
+"\\>威力と属性は弾に依存"
+msgstr "\\>生成小刀并攻击相邻敌人\\>威力与属性取决于子弹"
+
+#. ID 13, Page 4, Line 257, Pos (3,3)
+msgid ""
+"\\>専用魔法 ボム\n"
+"\\>エーテルを消費してボムを10生成\n"
+"\\>威力は消費したエーテルの種類と弾の威力に依存\n"
+"\\>属性は炎属性"
+msgstr ""
+"\\>专用魔法 炸弹\\>消耗以太生成10个炸弹\\>威力取\n"
+"决于消耗的以太种类与子弹威力\\>属性为火属性"
+
+#. ID 13, Page 4, Line 261, Pos (3,3)
+msgid ""
+"\\>専用魔法 ボム\n"
+"\\>ワールドマップに移動したとき\n"
+"\\>ボムの使用回数は10になる"
+msgstr ""
+"\\>专用魔法 炸弹\\>移动到世界地图时\\>炸弹的使用\n"
+"次数变为10"
+
+#. ID 13, Page 4, Line 264, Pos (3,3)
+msgid ""
+"\\>固有憑依効果\n"
+"\\>ナイフとボムの威力上昇\n"
+"\\>ボム以外の通常魔法使用不可"
+msgstr ""
+"\\>固有凭依效果\\>小刀与炸弹的威力上升\\>无法使用\n"
+"炸弹以外的通常魔法"
+
+#. ID 13, Page 4, Line 294, Pos (3,3)
+#. Choice (2 options)
+msgid ""
+"\\>提供数について\n"
+"\\>ソウルの提供について"
+msgstr ""
+"\\>关于提供数量\n"
+"\\>关于灵魂的提供"
+
+#. ID 13, Page 4, Line 296, Pos (3,3)
+msgid ""
+"弾を開発するときは量産技術の\n"
+"開発も同時に行いますが、\n"
+"その他のものは後回しにするので\n"
+"1人1品の提供にさせて下さい。"
+msgstr ""
+"开发子弹时会同时进行量产技术的开发，\n"
+"但其他东西会往后放，所以请允许每人提供一件。"
+
+#. ID 13, Page 4, Line 303, Pos (3,3)
+msgid ""
+"ソウルは以下のどちらかの方法で提供します。\n"
+"\\>1.額当てに加工\n"
+"\\>2.体に憑依"
+msgstr ""
+"灵魂将通过以下任一方式提供。\n"
+"\\>1.加工成护额\\>2.凭依到身体"
+
+#. ID 13, Page 4, Line 306, Pos (3,3)
+msgid ""
+"額当てのほうは頭に着けて使用します。\n"
+"奴隷になってしまうと使用できませんね。"
+msgstr ""
+"护额是戴在头上使用的。\n"
+"如果成为奴隶就无法使用了。"
+
+#. ID 13, Page 4, Line 309, Pos (3,3)
+msgid ""
+"こちらの方法はまだ準備が整っていないので\n"
+"協力していただけると助かります。"
+msgstr ""
+"这边的方法还没有准备好，\n"
+"如果能得到您的协助就帮大忙了。"
+
+#. ID 13, Page 4, Line 313, Pos (3,3)
+msgid ""
+"憑依のほうは貴女に魂を直接憑依させて使用します。\n"
+"魂が持つ能力を最大限に使用できますが、\n"
+"身体の負担が大きいです。"
+msgstr ""
+"凭依的方法是将灵魂直接凭依到你身上来使用。\n"
+"可以最大限度地发挥灵魂拥有的能力，\n"
+"但身体负担很大。"
+
+#. ID 13, Page 4, Line 316, Pos (3,3)
+msgid ""
+"自然治癒力と魔力集積力の低下、\n"
+"精神の乱れを確認しています。"
+msgstr "已确认自然治愈力和魔力积聚力下降、精神紊乱。"
+
+#. ID 13, Page 4, Line 318, Pos (3,3)
+msgid ""
+"他の魂との併用に危険性があるので\n"
+"憑依させるときにソウルの額当てを全て回収します。"
+msgstr ""
+"与其他灵魂并用存在危险，\n"
+"因此在凭依时会回收所有灵魂护额。"
+
+#. ID 13, Page 4, Line 320, Pos (3,3)
+msgid ""
+"また、どちらも銃を装備していなければ\n"
+"魂の能力が発揮されません。"
+msgstr ""
+"另外，无论哪种方式，如果没有装备枪，\n"
+"就无法发挥灵魂的能力。"
+
+#. ID 13, Page 5, Line 4, Pos (3,3)
+msgid "雑談ですか…。"
+msgstr "闲聊吗……。"
+
+#. ID 13, Page 5, Line 10, Pos (3,3)
+msgid "正直なところ、話すのは苦手です。"
+msgstr "说实话，我不擅长说话。"
+
+#. ID 13, Page 5, Line 14, Pos (3,3)
+msgid ""
+"魔物がはびこる世の中だからこそ、\n"
+"誰でも使える銃が必要だと思います。"
+msgstr ""
+"正因为是魔物横行的世道，\n"
+"我认为需要任何人都能使用的枪。"
+
+#. ID 13, Page 5, Line 19, Pos (3,3)
+msgid ""
+"魔物の脅威に対して\n"
+"銃の開発が遅れているのは課題ですね。"
+msgstr "面对魔物的威胁，枪的开发滞后是个课题呢。"
+
+#. ID 13, Page 5, Line 24, Pos (3,3)
+msgid ""
+"魔物の襲撃によって滅びた文明や国家には\n"
+"銃やそれに似たものの研究を行っていた所が多いです。"
+msgstr ""
+"在因魔物袭击而灭亡的文明或国家中，\n"
+"很多地方都曾研究过枪或类似的东西。"
+
+#. ID 13, Page 5, Line 29, Pos (3,3)
+msgid ""
+"お金がほしい…。\n"
+"何するにしてもお金が必要で窮屈です。"
+msgstr "想要金钱……。无论做什么都需要金钱，真让人拘束。"
+
+#. ID 13, Page 5, Line 34, Pos (3,3)
+msgid "う～ん…何も思いつかない…。"
+msgstr "嗯～……什么都想不出来……。"
+
+#. ID 13, Page 5, Line 38, Pos (3,3)
+msgid ""
+"東方では銃は市場に出回ってないのだとか…。\n"
+"誰が独占しているのでしょうね。"
+msgstr ""
+"听说在东方，枪没有在市场上流通……。\n"
+"是谁在垄断呢。"
+
+#. ID 13, Page 5, Line 43, Pos (3,3)
+msgid ""
+"生命の研究や魔法の研究より、\n"
+"物の研究が必要だと私は思います。"
+msgstr "我认为比起生命研究和魔法研究，更需要物品研究。"
+
+#. ID 13, Page 5, Line 48, Pos (3,3)
+msgid ""
+"魔法は強力ですが、\n"
+"才能が必要なのが最大の欠点ですね。"
+msgstr "魔法虽然强大，但需要才能是最大的缺点呢。"
+
+#. ID 13, Page 5, Line 53, Pos (3,3)
+msgid ""
+"銃が弱いのではありません。\n"
+"超人が多すぎるだけです。\\!\n"
+"…多分。"
+msgstr "枪并不弱。只是超人太多了。\\!……大概。"
+
+#. ID 13, Page 5, Line 58, Pos (3,3)
+#. Choice (2 options)
+msgid ""
+"\\>続ける\n"
+"\\>やめる"
+msgstr ""
+"\\>继续\n"
+"\\>放弃"
+
+#. ID 13, Page 6, Line 5, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "作業になる"
+msgstr "要开始工作了"
+
+#. ID 13, Page 6, Line 6, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "作業"
+msgstr "工作"
+
+#. ID 13, Page 6, Line 10, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "準備に入る"
+msgstr "进入准备阶段"
+
+#. ID 13, Page 6, Line 11, Pos (3,3)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "交渉"
+msgstr "交涉"
+
+#. ID 13, Page 6, Line 18, Pos (3,3)
+msgid ""
+"本格的な\\n[101]ので\n"
+"しばらく応答できなくなります。\\!\n"
+"\\n[102]が終わり次第サインを出しておくので\n"
+"それを目安にまた声をかけてください。"
+msgstr ""
+"因为要正式进行\\n[101]，所以暂时无法回应。\n"
+"\\!\\n[102]结束后我会发出信号，\n"
+"请以那个为参照再来搭话。"
+
+#. ID 13, Page 6, Line 36, Pos (3,3)
+#. Choice (2 options)
+msgid ""
+"\\>チップを渡す　　　　～\\n[106]\\v[1206]G　所持金 \\n[105]\\v[1205]G\n"
+"\\>さようなら"
+msgstr ""
+"\\>给小费　　　　～\\n[106]\\v[1206]G　持有金钱 \\n[105]\\v[1205]G\n"
+"\\>再见"
+
+#. ID 13, Page 6, Line 41, Pos (3,3)
+msgid ""
+"\\>いくら渡しますか？\n"
+"\\>上限　　　\\n[106]\\v[1206]　所持金　\\n[105]\\v[1205]"
+msgstr ""
+"\\>要给多少？\n"
+"\\>上限　　　\\n[106]\\v[1206]　持有金钱　\\n[105]\n"
+"\\v[1205]"
+
+#. ID 13, Page 6, Line 56, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\v[1201]Gを渡しますか？\n"
+"\\>上限　　　\\n[106]\\v[1206]　所持金　\\n[105]\\v[1205]"
+msgstr ""
+"\\v[1201]G要交出吗？\n"
+"\\>上限　　　\\n[106]\\v[1206]　持有金钱　\\n[105]\n"
+"\\v[1205]"
+
+#. ID 13, Page 6, Line 58, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 6, Line 207, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 6, Line 281, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 6, Line 348, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 8, Line 27, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 8, Line 117, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 8, Line 406, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 379, Pos (2,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>是\n"
+"\\>否"
+
+#. ID 13, Page 6, Line 64, Pos (3,3)
+msgid ""
+"………ありがとうございます。\n"
+"迅速な\\n[102]を心がけますね。"
+msgstr "………谢谢您。我会努力做到迅速\\n[102]的。"
+
+#. ID 13, Page 6, Line 73, Pos (3,3)
+msgid "………少々お待ちください。"
+msgstr "………请稍等。"
+
+#. ID 13, Page 6, Line 99, Pos (3,3)
+#. ID 13, Page 6, Line 138, Pos (3,3)
+msgid "お待たせしました。"
+msgstr "让您久等了。"
+
+#. ID 13, Page 6, Line 109, Pos (3,3)
+#. ID 13, Page 12, Line 18, Pos (3,3)
+msgid "作業中"
+msgstr "作业中"
+
+#. ID 13, Page 6, Line 119, Pos (3,3)
+msgid "作業中\\.\\.\\^"
+msgstr "作业中\\.\\.\\^"
+
+#. ID 13, Page 6, Line 150, Pos (3,3)
+msgid "………。"
+msgstr "………。"
+
+#. ID 13, Page 6, Line 163, Pos (3,3)
+msgid "………お待たせしました。"
+msgstr "………让您久等了。"
+
+#. ID 13, Page 6, Line 180, Pos (3,3)
+#. ID 13, Page 6, Line 243, Pos (3,3)
+msgid "\\n[101]を所持していない。"
+msgstr "\\n[101]未持有。"
+
+#. ID 13, Page 6, Line 196, Pos (3,3)
+msgid ""
+"\\>\\n[101]をいくつ提供しますか？\n"
+"\\>必要数　　　　 \\v[1203]　所持数　　　　\\n[104]\\v[1665]\n"
+"\\>提供上限　　　 \\v[1206]"
+msgstr ""
+"\\>\\n[101]要提供几个？\n"
+"\\>所需数　　　　 \\v[1203]　持有数　　　　\\n[104]\n"
+"\\v[1665]\\>提供上限　　　 \\v[1206]"
+
+#. ID 13, Page 6, Line 205, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\n[101]を\\v[1201]提供しますか？\n"
+"\\>必要数　　　　 \\v[1203]　所持数　　　　\\n[104]\\v[1665]"
+msgstr ""
+"\\n[101]要提供\\v[1201]吗？\n"
+"\\>所需数　　　　 \\v[1203]　持有数　　　　\\n[104]\n"
+"\\v[1665]"
+
+#. ID 13, Page 6, Line 279, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\n[101]を提供しますか？\n"
+"\\>所持数　　　　\\n[104]\\v[1665]　\\n[103]"
+msgstr ""
+"\\n[101]要提供吗？\n"
+"\\>持有数　　　　\\n[104]\\v[1665]　\\n[103]"
+
+#. ID 13, Page 6, Line 294, Pos (3,3)
+msgid "！！！！！！"
+msgstr "！！！！！！"
+
+#. ID 13, Page 6, Line 346, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\v[1203]Gを提供しますか？\n"
+"\\>所持金　　\\n[105]\\v[1205]"
+msgstr ""
+"\\v[1203]G要提供吗？\n"
+"\\>持有金钱　　\\n[105]\\v[1205]"
+
+#. ID 13, Page 7, Line 9, Pos (3,3)
+msgid ""
+"古式銃の復元は成功しました。\\!\n"
+"しかし、弾を作成するための\n"
+"材料が足りませんでした。"
+msgstr ""
+"古式枪的复原成功了。\\!但是，\n"
+"用于制作子弹的材料不足。"
+
+#. ID 13, Page 7, Line 12, Pos (3,3)
+#. ID 13, Page 7, Line 62, Pos (3,3)
+msgid ""
+"何が必要かは判明しているので\n"
+"今度は材料の提供をお願いします。"
+msgstr "既然已经知道需要什么，这次就请提供材料吧。"
+
+#. ID 13, Page 7, Line 24, Pos (3,3)
+msgid ""
+"無事、弾丸の作成が完了しました。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.完成品をどうぞ。"
+msgstr ""
+"子弹的制作顺利完成了。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.请收下成品。"
+
+#. ID 13, Page 7, Line 32, Pos (3,3)
+msgid "古式銃を1丁、3種類の弾を10個ずつもらった。"
+msgstr "获得了1把古式枪，以及3种子弹各10发。"
+
+#. ID 13, Page 7, Line 34, Pos (3,3)
+msgid ""
+"古式銃は通常の弾を使用できないのでご注意ください。\\!\n"
+"専用の弾はこちらで販売します。"
+msgstr ""
+"古式枪无法使用普通子弹，请注意。\n"
+"\\!专用子弹将在这里出售。"
+
+#. ID 13, Page 7, Line 36, Pos (3,3)
+msgid ""
+"貴女の協力が無ければ\n"
+"古式銃の復元は断念していたでしょう。\\!\n"
+"ご協力ありがとうございます。"
+msgstr ""
+"如果没有您的协助，\n"
+"古式枪的复原恐怕就不得不放弃了。\n"
+"\\!感谢您的协助。"
+
+#. ID 13, Page 7, Line 48, Pos (3,3)
+msgid ""
+"無事、交渉が完了しました。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.まずは銃をお返しします。"
+msgstr ""
+"交涉顺利完成了。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.首先把枪还给您。"
+
+#. ID 13, Page 7, Line 58, Pos (3,3)
+msgid ""
+"設計図は入手できましたが…\n"
+"いくつか欠陥がありますね。\\!\n"
+"リロードの高速化は魅力的なので\n"
+"改良したいところです。"
+msgstr ""
+"设计图已经拿到了……不过有几处缺陷呢。\n"
+"\\!装填速度提升很有吸引力，所以我想改良它。"
+
+#. ID 13, Page 7, Line 74, Pos (3,3)
+msgid ""
+"無事、改良が完了しました。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.完成品をどうぞ。"
+msgstr ""
+"改良顺利完成了。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.请收下成品。"
+
+#. ID 13, Page 7, Line 79, Pos (3,3)
+msgid "M1877 Lightningを1丁もらった。"
+msgstr "获得了1把M1877 闪电。"
+
+#. ID 13, Page 7, Line 81, Pos (3,3)
+msgid ""
+"この銃ならリロードに手間取ることは\n"
+"ほぼないでしょう。\\!\n"
+"また、つよい弾の供給も安定したので\n"
+"こちらも販売します。"
+msgstr ""
+"这把枪的话，装填应该几乎不会费事吧。\\!另外，\n"
+"强力子弹的供应也稳定了，所以这个也会出售。"
+
+#. ID 13, Page 7, Line 94, Pos (3,3)
+msgid ""
+"無事、復元が完了しました。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.完成品をどうぞ。"
+msgstr ""
+"复原顺利完成了。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.请收下成品。"
+
+#. ID 13, Page 7, Line 100, Pos (3,3)
+msgid "マウザーの杖を1本、スピッツァーの石を30個もらった。"
+msgstr "获得了1根毛瑟之杖、30个斯皮策之石。"
+
+#. ID 13, Page 7, Line 102, Pos (3,3)
+#. ID 13, Page 7, Line 122, Pos (3,3)
+msgid ""
+"打撃と射撃、両方を使い分けられるようですね。\\!\n"
+"弾が敵を貫くのも魅力です。"
+msgstr ""
+"打击与射击，看来可以分别使用呢。\n"
+"\\!子弹能贯穿敌人也很有吸引力。"
+
+#. ID 13, Page 7, Line 113, Pos (3,3)
+msgid ""
+"無事、作業が完了しました。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.完成品をどうぞ。"
+msgstr ""
+"作业顺利完成了。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.请收下成品。"
+
+#. ID 13, Page 7, Line 119, Pos (3,3)
+msgid ""
+"マウザーの杖を返してもらい、\n"
+"スピッツァーの石を90個もらった。"
+msgstr "收回了毛瑟之杖，并获得了90个斯皮策之石。"
+
+#. ID 13, Page 7, Line 133, Pos (3,3)
+#. ID 13, Page 7, Line 153, Pos (3,3)
+#. ID 13, Page 7, Line 184, Pos (3,3)
+msgid ""
+"無事、開発が完了しました。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.完成品をどうぞ。"
+msgstr ""
+"开发顺利完成了。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.请收下成品。"
+
+#. ID 13, Page 7, Line 138, Pos (3,3)
+msgid "聖印の弾を10個もらった。"
+msgstr "获得了10个圣印弹。"
+
+#. ID 13, Page 7, Line 140, Pos (3,3)
+msgid ""
+"魔生命の敵種には無力なので\n"
+"通常の弾と適宜使い分けることを推奨します。"
+msgstr ""
+"对魔生命类敌人无效，\n"
+"所以建议与普通子弹适当区分使用。"
+
+#. ID 13, Page 7, Line 158, Pos (3,3)
+msgid "聖印の銀弾を10個もらった。"
+msgstr "获得了10个圣印银弹。"
+
+#. ID 13, Page 7, Line 160, Pos (3,3)
+msgid ""
+"威力が向上し、\n"
+"神聖属性が弱点の敵に更に効果的になりました。"
+msgstr ""
+"威力提升了，\n"
+"对以神圣属性为弱点的敌人更加有效了。"
+
+#. ID 13, Page 7, Line 171, Pos (3,3)
+msgid ""
+"無事、開発が完了しました。\\!\n"
+"次は特殊な金属が必要になるのですが…\n"
+"金属装甲に聞き覚えはないでしょうか？"
+msgstr ""
+"开发顺利完成了。\\!接下来需要特殊金属……\n"
+"您听说过金属装甲吗？"
+
+#. ID 13, Page 7, Line 190, Pos (3,3)
+msgid "もっとつよい弾と徹甲弾を10個ずつもらった。"
+msgstr "获得了更强弹与穿甲弹各10个。"
+
+#. ID 13, Page 7, Line 192, Pos (3,3)
+msgid ""
+"徹甲弾のベースにした弾も販売します。\\!\n"
+"有償ですが、なるべく価格は落としたつもりです。"
+msgstr ""
+"用作穿甲弹基础的子弹也会出售。\\!虽然收费，\n"
+"但我尽量压低了价格。"
+
+#. ID 13, Page 7, Line 204, Pos (3,3)
+msgid ""
+"無事、器の開発が完了しました。\\!\n"
+"魂のほうは既に1魂確保しているので\n"
+"額当ての提供ができます。"
+msgstr ""
+"容器的开发顺利完成了。\n"
+"\\!灵魂方面已经确保了1魂，所以可以提供护额。"
+
+#. ID 13, Page 7, Line 207, Pos (3,3)
+msgid ""
+"テストも兼ねているので格安で提供します。\\!\n"
+"………あまりお勧めしませんが、\n"
+"魂を貴女に憑依させることもできます。"
+msgstr ""
+"因为也兼作测试，所以会以优惠价提供。\\!………\n"
+"虽然不太推荐，但也可以让灵魂附身到您身上。"
+
+#. ID 13, Page 8, Line 18, Pos (3,3)
+msgid "\\n[101]は1人1品の提供にさせて下さい。"
+msgstr "\\n[101]请允许每人限提供1件。"
+
+#. ID 13, Page 8, Line 25, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\n[101]を購入しますか？\n"
+"\\>価格　　　\\n[103]\\v[1203]　所持金　　\\n[105]\\v[1205]"
+msgstr ""
+"\\n[101]要购买吗？\n"
+"\\>价格　　　\\n[103]\\v[1203]　持有金钱　　\\n[105]\n"
+"\\v[1205]"
+
+#. ID 13, Page 8, Line 30, Pos (3,3)
+msgid "\\>お金が足りません。"
+msgstr "\\>金钱不足。"
+
+#. ID 13, Page 8, Line 38, Pos (3,3)
+msgid ""
+"\\>\\n[101]を購入しました。\n"
+"\\>所持数　　     1　所持金　　\\n[105]\\v[1205]"
+msgstr ""
+"\\>\\n[101]已购买。\n"
+"\\>持有数　　     1　持有金钱　　\\n[105]\\v[1205]"
+
+#. ID 13, Page 8, Line 82, Pos (3,3)
+msgid ""
+"…残念ですが、貴女に憑依させるのは\n"
+"厳しそうです。"
+msgstr "……很遗憾，让灵魂附身到您身上似乎很困难。"
+
+#. ID 13, Page 8, Line 89, Pos (3,3)
+#. Contains choice at line 2 (3 options)
+msgid "本当に\\n[101]\\n[102]を憑依させますか？"
+msgstr "真的要让\\n[101]\\n[102]附身吗？"
+
+#. ID 13, Page 8, Line 90, Pos (3,3)
+#. Choice (3 options, embedded in a message)
+#. ID 13, Page 8, Line 379, Pos (3,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>はい(スキップ)\n"
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>是(跳过)\n"
+"\\>是\n"
+"\\>否"
+
+#. ID 13, Page 8, Line 95, Pos (3,3)
+msgid "\\n[101]\\n[102]の憑依が完了しました。"
+msgstr "\\n[101]\\n[102]的附身完成了。"
+
+#. ID 13, Page 8, Line 115, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid "本当に\\n[101]\\n[102]を憑依させますか？\n"
+msgstr "真的要让\\n[101]\\n[102]附身吗？"
+
+#. ID 13, Page 8, Line 126, Pos (3,3)
+#. ID 13, Page 8, Line 414, Pos (3,3)
+msgid ""
+"少々お待ちください。\n"
+"\\.\\.・\\.\\.・\\.\\.・\\.\\.\\^"
+msgstr "请稍等。\\.\\.・\\.\\.・\\.\\.・\\.\\.\\^"
+
+#. ID 13, Page 8, Line 164, Pos (3,3)
+msgid "\\s[4]寒い・・・\\.\\.\\^"
+msgstr "\\s[4]好冷・・・\\.\\.\\^"
+
+#. ID 13, Page 8, Line 188, Pos (3,3)
+msgid "\\s[6]心臓の・・・音が頭に・・・響く・・・\\.\\.\\^"
+msgstr ""
+"\\s[6]心脏的・・・声音在脑中・・・回响・・・\\.\\.\n"
+"\\^"
+
+#. ID 13, Page 8, Line 212, Pos (3,3)
+msgid ""
+"\\s[8]・・・止ま\\.る・・・？\\.\\.\n"
+"し・・・\\s[9]\\.\\.・・・\\s[10]\\.\\.・・・\\.\\.\\^"
+msgstr ""
+"\\s[8]・・・停\\.止・・・？\n"
+"\\.\\.然后・・・\\s[9]\\.\\.・・・\\s[10]\\.\\.・・・\\.\n"
+"\\.\\^"
+
+#. ID 13, Page 8, Line 241, Pos (3,3)
+msgid ""
+"………\\n[101]\\n[102]の憑依が完了しました。\\!\n"
+"………。"
+msgstr "………\\n[101]\\n[102]的附身完成了。\\!………。"
+
+#. ID 13, Page 8, Line 276, Pos (3,3)
+msgid ""
+"………\\n[101]\\n[102]の憑依が完了しました。\\!\n"
+"気分はどうですか？"
+msgstr "………\\n[101]\\n[102]的附身完成了。\\!感觉怎么样？"
+
+#. ID 13, Page 8, Line 291, Pos (3,3)
+msgid ""
+"ソウルが憑依したことで\n"
+"体温が下がっているかと思います。\\!\n"
+"それと、頭の中で何かが語りかけているような\n"
+"感覚があるでしょう。"
+msgstr ""
+"由于灵魂附身，体温应该下降了。\\!另外，\n"
+"您应该会有脑中有什么东西在向您说话的感觉吧。"
+
+#. ID 13, Page 8, Line 302, Pos (3,3)
+msgid ""
+"正常な反応の範囲でしょう。\n"
+"お疲れさまでした。"
+msgstr "这应该在正常反应范围内吧。辛苦了。"
+
+#. ID 13, Page 8, Line 378, Pos (3,3)
+#. Contains choice at line 2 (3 options)
+msgid "\\n[101]の憑依を解除しますか？"
+msgstr "\\n[101]的附身要解除吗？"
+
+#. ID 13, Page 8, Line 384, Pos (3,3)
+msgid "憑依の解除が完了しました。"
+msgstr "已解除附身。"
+
+#. ID 13, Page 8, Line 404, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid "\\n[101]\\n[102]の憑依を解除しますか？\n"
+msgstr "\\n[101]\\n[102]的附身要解除吗？"
+
+#. ID 13, Page 8, Line 472, Pos (3,3)
+msgid "\\s[4]頭に悲鳴が響く・・・\\.\\.\\^"
+msgstr "\\s[4]脑中回响着惨叫声・・・\\.\\.\\^"
+
+#. ID 13, Page 8, Line 485, Pos (3,3)
+msgid "\\s[4]苦し\\.い・・・\\.\\.\\^"
+msgstr "\\s[4]痛\\.苦・・・\\.\\.\\^"
+
+#. ID 13, Page 8, Line 535, Pos (3,3)
+msgid ""
+"憑依の解除が完了しました。\\!\n"
+"………気分はどうですか？"
+msgstr "已解除附身。\\!………感觉怎么样？"
+
+#. ID 13, Page 8, Line 561, Pos (3,3)
+msgid ""
+"問題なさそうですね。\n"
+"お疲れさまでした。"
+msgstr "看来没问题呢。辛苦了。"
+
+#. ID 13, Page 9, Line 11, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 9, Line 234, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+msgid "\\>古式銃の復元"
+msgstr "\\>古式枪的复原"
+
+#. ID 13, Page 9, Line 12, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 10, Line 198, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 10, Line 373, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>物資を提供する\n"
+"\\>くわしく"
+msgstr ""
+"\\>提供物资\n"
+"\\>详细"
+
+#. ID 13, Page 9, Line 153, Pos (3,3)
+msgid ""
+"これは素晴らしい！\n"
+"提供ありがとうございます。"
+msgstr "这真是太棒了！感谢提供。"
+
+#. ID 13, Page 9, Line 157, Pos (3,3)
+#. ID 13, Page 9, Line 243, Pos (3,3)
+#. ID 13, Page 10, Line 142, Pos (3,3)
+#. ID 13, Page 10, Line 479, Pos (3,3)
+#. ID 13, Page 11, Line 61, Pos (3,3)
+msgid "提供ありがとうございます。"
+msgstr "感谢提供。"
+
+#. ID 13, Page 9, Line 161, Pos (3,3)
+msgid ""
+"これだけあれば多少なりとも進展するでしょう。\n"
+"腕が鳴ります。"
+msgstr "有了这些，多少也能有所进展吧。我跃跃欲试。"
+
+#. ID 13, Page 9, Line 172, Pos (3,3)
+msgid ""
+"数が揃ってきましたね。\n"
+"あと数品、装備品なら1品あれば充分そうです。"
+msgstr ""
+"数量逐渐齐全了呢。还差几件，如果是装备品的话，\n"
+"有1件似乎就足够了。"
+
+#. ID 13, Page 9, Line 181, Pos (3,3)
+msgid ""
+"装備品を提供してくださると復元が捗ります。\n"
+"最低1種類はほしいところです。"
+msgstr ""
+"如果您能提供装备品，复原工作会进展得更顺利。\n"
+"至少希望有1种。"
+
+#. ID 13, Page 9, Line 193, Pos (3,3)
+msgid ""
+"今は失われてしまった銃、古式銃は\n"
+"専用の弾を用いて魔法を射出できる銃です。\n"
+"魔力に乏しい方でも扱えるようです。"
+msgstr ""
+"如今已经失传的枪——古式枪，\n"
+"是能够使用专用子弹射出魔法的枪。\n"
+"似乎即使魔力匮乏的人也能使用。"
+
+#. ID 13, Page 9, Line 196, Pos (3,3)
+msgid ""
+"その古式銃を復元するための\n"
+"資料を提供してもらいたいのです。\\!\n"
+"と言ってもまだ手探りの状態で、こちらで\n"
+"見当を付けたものを提供してもらうことになります。"
+msgstr ""
+"希望您提供用于复原那种古式枪的资料。\n"
+"\\!话虽如此，目前仍处于摸索状态，\n"
+"因此会请提供由这边推测出的东西。"
+
+#. ID 13, Page 9, Line 200, Pos (3,3)
+msgid ""
+"古式銃の手がかりは古代の試練場で発見したので、\n"
+"材料もそこにあるのではないかと予想しています。"
+msgstr ""
+"因为古式枪的线索是在古代试炼场发现的，\n"
+"所以我预计材料应该也在那里。"
+
+#. ID 13, Page 9, Line 235, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>精霊石を提供する　　　　　\\v[261]/3　x \\n[104]\\v[1204]\n"
+"\\>くわしく"
+msgstr ""
+"\\>提供精灵石　　　　　\\v[261]/3　x \\n[104]\\v[1204]\n"
+"\\>详细"
+
+#. ID 13, Page 9, Line 246, Pos (3,3)
+msgid "必要な数が揃ったので早速作業に入ります。"
+msgstr "所需数量已齐全，我这就开始作业。"
+
+#. ID 13, Page 9, Line 261, Pos (3,3)
+msgid ""
+"古式銃用の弾を作成するための\n"
+"材料を提供してほしいのです。"
+msgstr "希望您提供用于制作古式枪用子弹的材料。"
+
+#. ID 13, Page 9, Line 263, Pos (3,3)
+msgid ""
+"作成するための物は殆ど揃っているので、\n"
+"わずかに足りなかった精霊石を3個ほどで充分です。"
+msgstr ""
+"用于制作的东西基本已经齐全，\n"
+"所以只差少量的精灵石，大约3个就够了。"
+
+#. ID 13, Page 10, Line 16, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "自動式拳銃"
+msgstr "自动手枪"
+
+#. ID 13, Page 10, Line 19, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "？？？？？"
+msgstr "？？？？？"
+
+#. ID 13, Page 10, Line 22, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 10, Line 80, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+msgid "\\>M1877 Lightningの開発"
+msgstr "\\>M1877 闪电的开发"
+
+#. ID 13, Page 10, Line 23, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>\\n[101]を提供する\n"
+"\\>くわしく"
+msgstr ""
+"\\>\\n[101]提供\n"
+"\\>详细"
+
+#. ID 13, Page 10, Line 30, Pos (3,3)
+#. ID 13, Page 10, Line 236, Pos (3,3)
+msgid ""
+"提供ありがとうございます。\n"
+"それでは早速…。"
+msgstr "感谢提供。那么我这就……。"
+
+#. ID 13, Page 10, Line 46, Pos (3,3)
+msgid ""
+"稲妻の異名を持つ銃が東方で\n"
+"秘密裏に開発されていたようですが、\n"
+"開発中止のうわさを聞きました。"
+msgstr ""
+"听说有一把拥有闪电别名的枪曾在东方被秘密开发，\n"
+"但我听到了开发中止的传闻。"
+
+#. ID 13, Page 10, Line 49, Pos (3,3)
+msgid ""
+"このまま陽の目を浴びずに消えるのは\n"
+"もったいないので、\n"
+"開発元と交渉して設計図を手に入れたいところです。"
+msgstr ""
+"就这么不见天日地消失实在太可惜了，\n"
+"所以我想与开发方交涉，设法拿到设计图。"
+
+#. ID 13, Page 10, Line 52, Pos (3,3)
+msgid ""
+"貴女には東方でのみ扱っている銃を\n"
+"手に入れてきてほしいのです。\\!\n"
+"交渉が終わりしだい返却します。"
+msgstr ""
+"我希望您去取得只在东方流通的枪。\n"
+"\\!交涉一结束就会归还。"
+
+#. ID 13, Page 10, Line 81, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>材料を提供する　　　　\\v[263]/9\n"
+"\\>くわしく"
+msgstr ""
+"\\>提供材料　　　　\\v[263]/9\n"
+"\\>详细"
+
+#. ID 13, Page 10, Line 151, Pos (3,3)
+#. ID 13, Page 10, Line 482, Pos (3,3)
+msgid "必要な物が揃ったので開発作業に入ります。"
+msgstr "所需物品已齐全，我这就进入开发作业。"
+
+#. ID 13, Page 10, Line 164, Pos (3,3)
+msgid ""
+"改良には鉱石が必要です。\\!\n"
+"鉄塊がほしいところですが、\n"
+"銅塊や銀塊でも合わせて9個ほどあれば\n"
+"何とかなります。"
+msgstr ""
+"改良需要矿石。\\!最好是铁块，\n"
+"不过铜块或银块合计9个左右也能凑合。"
+
+#. ID 13, Page 10, Line 197, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+msgid "\\>マウザーの杖の復元"
+msgstr "\\>毛瑟之杖的复原"
+
+#. ID 13, Page 10, Line 249, Pos (3,3)
+msgid ""
+"提供ありがとうございます。\\!\n"
+"マウザーの杖はまだ失われていなかったのですね…。"
+msgstr "感谢提供。\\!毛瑟之杖原来还没有失传啊……。"
+
+#. ID 13, Page 10, Line 266, Pos (3,3)
+msgid ""
+"マウザーの杖はその名の通り杖なのですが、\n"
+"弾を射出する構造を持ち、\n"
+"銃器に通じるものがあると予想しています。"
+msgstr ""
+"毛瑟之杖正如其名是一根杖，\n"
+"但它具有射出子弹的结构，\n"
+"我预计它与枪械有相通之处。"
+
+#. ID 13, Page 10, Line 269, Pos (3,3)
+msgid ""
+"ここ最近はそれに対応する弾薬の\n"
+"スピッツァーの石のみが発見されることが相次ぎ、\n"
+"マウザーの杖は失われてしまったのではないかと\n"
+"うわさされています。"
+msgstr ""
+"最近接连发现只有与之对应的弹药——斯皮策之石，\n"
+"因此有传闻说毛瑟之杖是不是已经失传了。"
+
+#. ID 13, Page 10, Line 273, Pos (3,3)
+msgid ""
+"貴重な技術を来世に残すために\n"
+"マウザーの杖を復元してみたいと思うので\n"
+"貴女にはスピッツァーの石を提供してほしいのです。"
+msgstr ""
+"为了将珍贵技术留存到后世，\n"
+"我想尝试复原毛瑟之杖，\n"
+"所以希望您提供斯皮策之石。"
+
+#. ID 13, Page 10, Line 276, Pos (3,3)
+msgid ""
+"…もしマウザーの杖が手に入った場合は\n"
+"スピッツァーの石の量産体制を開発したいので\n"
+"その場合でも提供していただけると助かります。"
+msgstr ""
+"……如果得到了毛瑟之杖，\n"
+"我想开发斯皮策之石的量产体制，\n"
+"所以届时也能请您提供的话就帮大忙了。"
+
+#. ID 13, Page 10, Line 311, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+msgid "\\>聖印の弾の開発"
+msgstr "\\>圣印弹的开发"
+
+#. ID 13, Page 10, Line 312, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>3000Gを提供する 　　　所持金 \\n[105]\\v[1205]\n"
+"\\>くわしく"
+msgstr ""
+"\\>提供3000G 　　　持有金 \\n[105]\\v[1205]\n"
+"\\>详细"
+
+#. ID 13, Page 10, Line 319, Pos (3,3)
+msgid ""
+"提供ありがとうございます。\\!\n"
+"…少々お待ちください。"
+msgstr "感谢提供。\\!……请稍等。"
+
+#. ID 13, Page 10, Line 341, Pos (3,3)
+msgid ""
+"不死や霊体などに有効な弾、\n"
+"つまり聖なる力を持った弾を開発するなら\n"
+"教会の人に協力してもらうのが手っ取り早いでしょう。"
+msgstr ""
+"若要开发对不死者和灵体等有效的子弹，\n"
+"也就是拥有神圣力量的子弹，\n"
+"请教会的人协助应该是最快的。"
+
+#. ID 13, Page 10, Line 344, Pos (3,3)
+msgid ""
+"とりあえず10000G用意すれば協力してくれるそうです。\\!\n"
+"7000Gはかき集めたので、\n"
+"貴女から3000Gを提供してほしいのです。"
+msgstr ""
+"据说总之准备10000G他们就会协助。\n"
+"\\!我已经凑齐了7000G，所以希望您提供3000G。"
+
+#. ID 13, Page 10, Line 372, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+msgid "\\>聖印の銀弾の開発"
+msgstr "\\>圣印银弹的开发"
+
+#. ID 13, Page 10, Line 427, Pos (3,3)
+msgid "提供できそうな物資を所持していない。"
+msgstr "没有持有可供提供的物资。"
+
+#. ID 13, Page 10, Line 495, Pos (3,3)
+msgid ""
+"つよい弾の供給が安定しているので\n"
+"聖印の弾の改良ができそうです。"
+msgstr ""
+"由于强力子弹的供应已经稳定，\n"
+"看来可以改良圣印弹了。"
+
+#. ID 13, Page 10, Line 497, Pos (3,3)
+msgid ""
+"改良のために銀製で聖なる力を持った武器か、\n"
+"銀製の防具を提供してほしいのです。\\!\n"
+"恐らく2点あれば充分だと思います。"
+msgstr ""
+"为了改良，希望您提供银制且拥有神圣力量的武器，\n"
+"或者银制防具。\\!我想大概有2件就足够了。"
+
+#. ID 13, Page 10, Line 532, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 10, Line 591, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+msgid "\\>徹甲弾の開発"
+msgstr "\\>穿甲弹的开发"
+
+#. ID 13, Page 10, Line 533, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>90000Gを提供する　　　所持金 \\n[105]\\v[1205]\n"
+"\\>くわしく"
+msgstr ""
+"\\>提供90000G　　　持有金 \\n[105]\\v[1205]\n"
+"\\>详细"
+
+#. ID 13, Page 10, Line 540, Pos (3,3)
+msgid ""
+"提供ありがとうございます。\\!\n"
+"これだけ集めるのは大変だったでしょうね…。"
+msgstr "感谢提供。\\!凑齐这么多应该很不容易吧……。"
+
+#. ID 13, Page 10, Line 556, Pos (3,3)
+msgid ""
+"徹甲弾なら近年見られる特殊な装甲を持った生物でも\n"
+"撃ち抜くことができるでしょう。\\!\n"
+"それだけに開発には多大な資金、\n"
+"そして特殊な金属が必要になります。"
+msgstr ""
+"如果是穿甲弹，\n"
+"应该连近年来出现的拥有特殊装甲的生物也能击穿。\n"
+"\\!正因如此，开发需要大量资金，以及特殊的金属。"
+
+#. ID 13, Page 10, Line 560, Pos (3,3)
+msgid ""
+"まずは徹甲弾のベースを開発したいので\n"
+"資金、90000Gをお願いしたいのですが…。"
+msgstr ""
+"首先我想开发穿甲弹的基础弹，\n"
+"所以希望您提供资金90000G……。"
+
+#. ID 13, Page 10, Line 592, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>金属装甲を提供する\n"
+"\\>くわしく"
+msgstr ""
+"\\>提供金属装甲\n"
+"\\>详细"
+
+#. ID 13, Page 10, Line 598, Pos (3,3)
+msgid ""
+"提供ありがとうございます。\n"
+"腕が鳴りますね。"
+msgstr "感谢提供。真让人跃跃欲试呢。"
+
+#. ID 13, Page 10, Line 612, Pos (3,3)
+msgid ""
+"金属装甲に聞き覚えはないでしょうか？\\!\n"
+"機械人形にも使用されているものなのですが、\n"
+"希少品で私の方では手に入りませんでした…。\\!\n"
+"1つでいいので提供してくれると助かります。"
+msgstr ""
+"您对金属装甲有印象吗？\\!它也被用于机械人偶，\n"
+"但属于稀有品，我这边没能弄到手……。\\!1个就好，\n"
+"您能提供的话就帮大忙了。"
+
+#. ID 13, Page 11, Line 11, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+#. ID 14, Page 1, Line 298, Pos (2,4)
+#. Choice (1 options)
+msgid "\\>ソウルの器の開発"
+msgstr "\\>灵魂之器的开发"
+
+#. ID 13, Page 11, Line 12, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>材料を提供する　　　　\\v[265]/3\n"
+"\\>くわしく"
+msgstr ""
+"\\>提供材料　　　　\\v[265]/3\n"
+"\\>详细"
+
+#. ID 13, Page 11, Line 64, Pos (3,3)
+msgid "必要な数が揃ったので開発作業に入ります。"
+msgstr "所需数量已齐全，我这就进入开发作业。"
+
+#. ID 13, Page 11, Line 77, Pos (3,3)
+msgid ""
+"メタルソウルは故人の魂です。\n"
+"憑依させればその者の能力を得ることができますが、\n"
+"身体と精神への負担が大きいです。"
+msgstr ""
+"金属之魂是故人的灵魂。若让之凭依，\n"
+"就能获得那个人的能力，\n"
+"但对身体和精神的负担很大。"
+
+#. ID 13, Page 11, Line 80, Pos (3,3)
+msgid ""
+"故人の魂を籠められる宝玉、\n"
+"ソウルの器を使用すれば負担を無くせるでしょう。\n"
+"器は額当てに加工して使用することを想定しています。"
+msgstr ""
+"使用能够容纳故人灵魂的宝玉——灵魂之器，\n"
+"应该就能消除负担。该器设想加工成护额后使用。"
+
+#. ID 13, Page 11, Line 83, Pos (3,3)
+msgid ""
+"器を開発するためにソウルポットが3個必要です。\n"
+"中身が入っていれば種類は問いません。"
+msgstr ""
+"开发该器需要3个灵魂壶。只要里面有内容物，\n"
+"种类不限。"
+
+#. ID 13, Page 12, Line 38, Pos (3,3)
+#. Choice (4 options)
+msgid ""
+"\\>案件の確認\n"
+"\\>完成品の購入\n"
+"\\>雑談する\n"
+"\\>さようなら(←+キャンセル)"
+msgstr ""
+"\\>确认案件\n"
+"\\>购买完成品\n"
+"\\>闲聊\n"
+"\\>再见(←+取消)"
+
+#. ID 14, Page 1, Line 21, Pos (2,4)
+#. Choice (3 options)
+msgid ""
+"\\>案件の進行\n"
+"\\>経験\n"
+"\\>初期化"
+msgstr ""
+"\\>推进案件\n"
+"\\>经验\n"
+"\\>初始化"
+
+#. ID 14, Page 1, Line 26, Pos (2,4)
+#. Choice (3 options)
+msgid ""
+"\\>古式銃関連\n"
+"\\>銃器関連\n"
+"\\>ソウル関連"
+msgstr ""
+"\\>古式枪相关\n"
+"\\>枪械相关\n"
+"\\>灵魂相关"
+
+#. ID 14, Page 1, Line 31, Pos (2,4)
+#. Choice (2 options)
+msgid ""
+"\\>古式銃の復元(1)\n"
+"\\>古式銃の復元(2)"
+msgstr ""
+"\\>古式枪的复原(1)\n"
+"\\>古式枪的复原(2)"
+
+#. ID 14, Page 1, Line 33, Pos (2,4)
+#. Choice (3 options)
+#. ID 14, Page 1, Line 64, Pos (2,4)
+#. Choice (3 options)
+#. ID 14, Page 1, Line 101, Pos (2,4)
+#. Choice (3 options)
+#. ID 14, Page 1, Line 123, Pos (2,4)
+#. Choice (3 options)
+#. ID 14, Page 1, Line 148, Pos (2,4)
+#. Choice (3 options)
+#. ID 14, Page 1, Line 184, Pos (2,4)
+#. Choice (3 options)
+#. ID 14, Page 1, Line 205, Pos (2,4)
+#. Choice (3 options)
+#. ID 14, Page 1, Line 235, Pos (2,4)
+#. Choice (3 options)
+#. ID 14, Page 1, Line 260, Pos (2,4)
+#. Choice (3 options)
+#. ID 14, Page 1, Line 300, Pos (2,4)
+#. Choice (3 options)
+msgid ""
+"\\>必要な物資を入手する\n"
+"\\>完了する\n"
+"\\>リセットする"
+msgstr ""
+"\\>获取必要物资\n"
+"\\>完成\n"
+"\\>重置"
+
+#. ID 14, Page 1, Line 99, Pos (2,4)
+#. Choice (4 options)
+msgid ""
+"\\>M1877 Lightningの開発(1)\n"
+"\\>M1877 Lightningの開発(2)\n"
+"\\>マウザーの杖の復元\n"
+"\\>次のページ"
+msgstr ""
+"\\>M1877 闪电的开发(1)\n"
+"\\>M1877 闪电的开发(2)\n"
+"\\>毛瑟之杖的复原\n"
+"\\>下一页"
+
+#. ID 14, Page 1, Line 182, Pos (2,4)
+#. Choice (4 options)
+msgid ""
+"\\>聖印の弾の開発\n"
+"\\>聖印の銀弾の開発\n"
+"\\>徹甲弾の開発(1)\n"
+"\\>徹甲弾の開発(2)"
+msgstr ""
+"\\>圣印弹的开发\n"
+"\\>圣印银弹的开发\n"
+"\\>穿甲弹的开发(1)\n"
+"\\>穿甲弹的开发(2)"
+
+#. ID 14, Page 1, Line 346, Pos (2,4)
+#. ChangeHeroName (Actor 101)
+#. ID 14, Page 1, Line 353, Pos (2,4)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "有"
+msgstr "有"
+
+#. ID 14, Page 1, Line 349, Pos (2,4)
+#. ChangeHeroName (Actor 101)
+#. ID 14, Page 1, Line 356, Pos (2,4)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "無"
+msgstr "无"
+
+#. ID 14, Page 1, Line 359, Pos (2,4)
+#. Choice (2 options)
+msgid ""
+"\\>憑依経験　　　　　　　\\n[101]\n"
+"\\>憑依解除経験　　　　　\\n[102]"
+msgstr ""
+"\\>凭依经验　　　　　　　\\n[101]\n"
+"\\>凭依解除经验　　　　　\\n[102]"
+
+#. ID 14, Page 1, Line 378, Pos (2,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\>本当に初期化しますか？"
+msgstr "\\>真的要初始化吗？"

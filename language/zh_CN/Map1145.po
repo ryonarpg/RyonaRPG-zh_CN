@@ -1,0 +1,66 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 38, Page 2, Line 14, Pos (35,7)
+#. ID 39, Page 2, Line 14, Pos (36,7)
+msgid "開かない。"
+msgstr "打不开。"
+
+#. ID 40, Page 2, Line 3, Pos (26,14)
+#. ID 40, Page 3, Line 3, Pos (26,14)
+msgid ""
+"石製のレバーがある。\n"
+"側面にはψの文字が彫り込まれている。"
+msgstr "有一个石制杆。侧面雕刻着ψ的文字。"
+
+#. ID 40, Page 2, Line 5, Pos (26,14)
+#. Contains choice at line 2 (2 options)
+#. ID 40, Page 3, Line 5, Pos (26,14)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを操作しますか？"
+msgstr "要操作杆吗？"
+
+#. ID 40, Page 2, Line 6, Pos (26,14)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 3, Line 6, Pos (26,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 40, Page 2, Line 18, Pos (26,14)
+#. ID 40, Page 3, Line 18, Pos (26,14)
+msgid "・・・何かが動いた音がした。"
+msgstr "・・・传来了什么东西动了一下的声音。"
+
+#. ID 41, Page 3, Line 3, Pos (56,50)
+#. ID 42, Page 3, Line 3, Pos (57,50)
+msgid ""
+"床から突き出した石柱が道を塞いでいる。\n"
+"石柱には大きくψという文字が彫り込まれている。"
+msgstr ""
+"从地面突起的石柱挡住了道路。\n"
+"石柱上雕刻着大大的ψ字。"
+
+#. ID 57, Page 2, Line 3, Pos (49,15)
+#. ID 58, Page 2, Line 3, Pos (50,15)
+msgid ""
+"床から突き出した石柱が道を塞いでいる。\n"
+"石柱には大きくωという文字が彫り込まれている。"
+msgstr ""
+"从地面突起的石柱挡住了道路。\n"
+"石柱上雕刻着大大的ω字。"

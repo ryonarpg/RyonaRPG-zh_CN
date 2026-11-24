@@ -1,0 +1,316 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 3, Pos (20,21)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊緊急脱出路のようだ\n"
+"　移動しますか？"
+msgstr "＊似乎是紧急逃生通道　要移动吗？"
+
+#. ID 34, Page 2, Line 5, Pos (20,21)
+#. Choice (2 options, embedded in a message)
+#. ID 66, Page 2, Line 13, Pos (18,23)
+#. Choice (2 options, embedded in a message)
+#. ID 67, Page 2, Line 4, Pos (20,23)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 3, Line 15, Pos (19,22)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 5, Line 14, Pos (19,22)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 35, Page 3, Line 18, Pos (27,1)
+msgid "そんな……"
+msgstr "怎么会……"
+
+#. ID 35, Page 3, Line 23, Pos (27,1)
+msgid ""
+"折角“禁呪”を……\n"
+"見つけたのに……\n"
+"解りかけて……きたのに……"
+msgstr "好不容易……找到了「禁咒」……明明……才开始……理解……"
+
+#. ID 35, Page 3, Line 26, Pos (27,1)
+msgid ""
+"アラクネに罪を被せて……\n"
+"調査団員……まで、手に入れた……のに"
+msgstr ""
+"把罪责嫁祸给阿剌克涅……甚至……\n"
+"连调查团员都弄到手了……明明都……"
+
+#. ID 35, Page 3, Line 28, Pos (27,1)
+msgid ""
+"……まだ、……知りた……い\n"
+"こと……が……"
+msgstr "……还、……有想……知……道……的……事……情……"
+
+#. ID 35, Page 3, Line 44, Pos (27,1)
+msgid "…………"
+msgstr "…………"
+
+#. ID 36, Page 2, Line 7, Pos (29,1)
+msgid ""
+"\n"
+"……ここを見つけられて\n"
+"しまいましたか"
+msgstr "……还是被找到这里了吗"
+
+#. ID 36, Page 2, Line 18, Pos (29,1)
+msgid ""
+"ようこそ……\n"
+"魔導遺跡ガストラの真相へ"
+msgstr "欢迎……来到魔导遗迹加斯特拉的真相"
+
+#. ID 36, Page 2, Line 24, Pos (29,1)
+msgid ""
+"ここは古代魔法……\n"
+"“禁呪”を専門に研究していた\n"
+"場所でした"
+msgstr "这里曾是专门研究古代魔法……「禁咒」的地方"
+
+#. ID 36, Page 2, Line 31, Pos (29,1)
+msgid "“禁呪”は大きく分けて３つ……"
+msgstr "「禁咒」大致分为3种……"
+
+#. ID 36, Page 2, Line 32, Pos (29,1)
+msgid ""
+"「生物の死体を使役する屍霊術」\n"
+"「人間の精神を操る魔術」\n"
+"「核爆発を発生させる魔法」……"
+msgstr ""
+"「驱使生物尸体的尸灵术」「操纵人类精神的魔术」\n"
+"「引发核爆炸的魔法」……"
+
+#. ID 36, Page 2, Line 35, Pos (29,1)
+msgid ""
+"ここでは前者の２つを\n"
+"研究していました"
+msgstr "这里研究的是前两者"
+
+#. ID 36, Page 2, Line 42, Pos (29,1)
+msgid ""
+"ですが……\n"
+"それを快く思わない魔導士が居ました"
+msgstr "但是……有位魔导士对此感到不快"
+
+#. ID 36, Page 2, Line 44, Pos (29,1)
+msgid ""
+"その魔導士は研究をしていた\n"
+"魔導士たちを皆殺しにし、\n"
+"この遺跡に魔物を放ち封じたのです"
+msgstr ""
+"那名魔导士将正在进行研究的魔导士们全部杀光，\n"
+"并在这座遗迹中放入魔物，将其封印了起来"
+
+#. ID 36, Page 2, Line 47, Pos (29,1)
+msgid ""
+"それ以来……“禁呪”は\n"
+"失われてしまいました……"
+msgstr "自那以后……「禁咒」就失传了……"
+
+#. ID 36, Page 2, Line 50, Pos (29,1)
+msgid "私が見つけ出すまでは……ね"
+msgstr "直到我把它找出来为止……对吧"
+
+#. ID 36, Page 2, Line 51, Pos (29,1)
+msgid ""
+"さて……と、\n"
+"悪役の状況説明も\n"
+"そろそろ終わりにしましょう"
+msgstr "好了……那么，反派的状况说明也差不多该结束了吧"
+
+#. ID 36, Page 2, Line 60, Pos (29,1)
+msgid "あなたはどんな死体になるのかしら！"
+msgstr "你会变成什么样的尸体呢！"
+
+#. ID 38, Page 2, Line 3, Pos (19,44)
+msgid "＊扉は開かない……"
+msgstr "＊门打不开……"
+
+#. ID 66, Page 2, Line 9, Pos (18,23)
+msgid "＊「屍霊術」に関する魔導書のようだ……"
+msgstr "＊似乎是关于「尸灵术」的魔导书……"
+
+#. ID 66, Page 2, Line 12, Pos (18,23)
+#. Contains choice at line 2 (2 options)
+msgid "＊目を通してみますか？"
+msgstr "＊要过目看看吗？"
+
+#. ID 66, Page 2, Line 15, Pos (18,23)
+msgid ""
+"＊屍霊術について\n"
+"　エスラスの研究が纏めてある\n"
+"　ノートのようだ"
+msgstr ""
+"＊似乎是关于尸灵术的　汇总了埃斯拉斯研究的　笔\n"
+"　记"
+
+#. ID 66, Page 2, Line 18, Pos (18,23)
+msgid ""
+"＊読み進めていくと……\n"
+"　この禁術は、相手の精神や肉体を操る\n"
+"　呪言と似たような系統の術であることが\n"
+"　解った"
+msgstr ""
+"＊继续读下去……　发现这个禁术，\n"
+"　是与操纵对方精神或肉体的　咒言相似系统的术"
+
+#. ID 66, Page 2, Line 22, Pos (18,23)
+msgid ""
+"＊……この術なら、\n"
+"　私でも使えるかもしれない"
+msgstr "＊……这个术的话，　或许连我也能使用"
+
+#. ID 67, Page 2, Line 3, Pos (20,23)
+#. Contains choice at line 2 (2 options)
+msgid "＊何かの装飾品のようだ……拾いますか？"
+msgstr "＊像是某种装饰品……要捡起来吗？"
+
+#. ID 67, Page 2, Line 8, Pos (20,23)
+msgid "＊[あやつりの輪]を手に入れた"
+msgstr "＊获得了[操纵之轮]"
+
+#. ID 67, Page 2, Line 14, Pos (20,23)
+#. ID 67, Page 2, Line 24, Pos (20,23)
+msgid ""
+"＊この道具に見覚えがある。\n"
+"　……人間にはめることで、\n"
+"　その精神を掌握して\n"
+"　操り人形にしてしまう道具だ……"
+msgstr ""
+"＊这个道具有印象。　……只要戴在人类身上，\n"
+"　就能掌握其精神　将其变成傀儡的道具……"
+
+#. ID 68, Page 2, Line 4, Pos (19,22)
+#. ID 68, Page 5, Line 4, Pos (19,22)
+msgid "………"
+msgstr "………"
+
+#. ID 68, Page 2, Line 7, Pos (19,22)
+#. ID 68, Page 5, Line 7, Pos (19,22)
+msgid ""
+"＊返事は、ない。\n"
+"　息絶えたようだ。"
+msgstr "＊没有回应。　似乎已经断气了。"
+
+#. ID 68, Page 3, Line 5, Pos (19,22)
+msgid ""
+"………うっ……\n"
+"く……"
+msgstr "………呜……唔……"
+
+#. ID 68, Page 3, Line 9, Pos (19,22)
+msgid ""
+"＊……どうやら、\n"
+"　まだ意識はあるようだ\n"
+"　ただ放置すれば、そのまま息絶えるだろう。"
+msgstr ""
+"＊……看来，　还有意识　不过如果放着不管，\n"
+"　就会就这样断气吧。"
+
+#. ID 68, Page 3, Line 12, Pos (19,22)
+#. ID 68, Page 5, Line 10, Pos (19,22)
+msgid "＊………"
+msgstr "＊………"
+
+#. ID 68, Page 3, Line 14, Pos (19,22)
+#. Contains choice at line 2 (2 options)
+msgid "＊エスラスにあやつりの輪をはめますか？"
+msgstr "＊要给埃斯拉斯戴上操纵之轮吗？"
+
+#. ID 68, Page 3, Line 29, Pos (19,22)
+#. ID 68, Page 5, Line 36, Pos (19,22)
+msgid ""
+"\\S[15]う………あ……\n"
+"わた…し……\n"
+"な…ん……で……？"
+msgstr "\\S[15]呜………啊……我……为…什……么……？"
+
+#. ID 68, Page 3, Line 35, Pos (19,22)
+msgid ""
+"\\S[12]ま……さか……\n"
+"わた…しに……\n"
+"あやつりの輪を………"
+msgstr "\\S[12]难……难道……要对我……用操纵之轮………"
+
+#. ID 68, Page 3, Line 38, Pos (19,22)
+#. ID 68, Page 5, Line 45, Pos (19,22)
+msgid "\\S[12]うあ……うああ……！"
+msgstr "\\S[12]呜啊……呜啊啊……！"
+
+#. ID 68, Page 3, Line 42, Pos (19,22)
+msgid "＊エスラスにあやつりの輪を使った！"
+msgstr "＊对埃斯拉斯使用了操纵之轮！"
+
+#. ID 68, Page 3, Line 44, Pos (19,22)
+msgid "＊これでエスラスは、もう思うがままだ……"
+msgstr "＊这样埃斯拉斯就任我摆布了……"
+
+#. ID 68, Page 3, Line 45, Pos (19,22)
+msgid ""
+"＊……しかし、エスラスの治療もある。\n"
+"　いったん、別の場所へ移動しよう"
+msgstr ""
+"＊……不过，还要给埃斯拉斯治疗。\n"
+"　暂且移动到别处吧"
+
+#. ID 68, Page 3, Line 75, Pos (19,22)
+msgid "………うっ……"
+msgstr "………唔……"
+
+#. ID 68, Page 3, Line 78, Pos (19,22)
+msgid ""
+"＊……どうやら、まだ息はあるようだ\n"
+"　ただ放置すれば、そのまま息絶えるだろう。"
+msgstr ""
+"＊……看来，还有气息　不过如果放着不管，\n"
+"　就会就这样断气吧。"
+
+#. ID 68, Page 5, Line 12, Pos (19,22)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊エスラスの死体に\n"
+"　屍霊術を試してみますか？"
+msgstr "＊要对埃斯拉斯的尸体　试试尸灵术吗？"
+
+#. ID 68, Page 5, Line 42, Pos (19,22)
+msgid ""
+"\\S[12]ま……さか……\n"
+"わた…しに……\n"
+"屍霊術を………"
+msgstr "\\S[12]难……难道……要对我……用尸灵术………"
+
+#. ID 68, Page 5, Line 49, Pos (19,22)
+msgid "＊エスラスに、屍霊術を使った！"
+msgstr "＊对埃斯拉斯使用了尸灵术！"
+
+#. ID 68, Page 5, Line 51, Pos (19,22)
+msgid ""
+"＊これで屍霊術の影響下におかれた\n"
+"　エスラスは、もう思うがままだ……"
+msgstr ""
+"＊这样，\n"
+"　被置于尸灵术影响下的　埃斯拉斯就任我摆布了……"
+
+#. ID 68, Page 5, Line 53, Pos (19,22)
+msgid ""
+"＊……ひとまずは、\n"
+"　別の場所へ移動しよう"
+msgstr "＊……总之，　先移动到别处吧。"

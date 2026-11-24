@@ -1,0 +1,62 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 11, Page 1, Line 14, Pos (1,0)
+msgid ""
+"よし、お前ら。\\!そいつはくれてやる\n"
+"思いっきり楽しみな。"
+msgstr ""
+"好，你们几个。\\!那家伙就交给你们了，\n"
+"尽情享受吧。"
+
+#. ID 11, Page 1, Line 19, Pos (1,0)
+msgid ""
+"へっへっへ。そいつはありがてえ\n"
+"そんじゃあ行くぜ。"
+msgstr "嘿嘿嘿。那可太感谢了，那我们就上了。"
+
+#. ID 11, Page 1, Line 33, Pos (1,0)
+msgid "オラ！\\!しゃぶれ！！"
+msgstr "喂！\\!给我舔！！"
+
+#. ID 11, Page 1, Line 51, Pos (1,0)
+msgid "！！！\\!　！！！！！"
+msgstr "！！！\\!　！！！！！"
+
+#. ID 11, Page 1, Line 67, Pos (1,0)
+msgid "さて…\\!挿入れてやるぜ…"
+msgstr "那么…\\!我要插进去了…"
+
+#. ID 11, Page 1, Line 108, Pos (1,0)
+msgid ""
+"後ろにもくれてやる。\n"
+"\\!2本刺しだ。"
+msgstr "后面也给你来一份。\\!双插。"
+
+#. ID 11, Page 1, Line 116, Pos (1,0)
+msgid "よし、同時に出してやる！"
+msgstr "好，同时射给你！"
+
+#. ID 11, Page 1, Line 133, Pos (1,0)
+msgid "へへへ…まだまだ終わらんぜ…"
+msgstr "嘿嘿嘿…还没完呢…"
+
+#. ID 11, Page 1, Line 138, Pos (1,0)
+msgid ""
+"その後も\\n[\\v[6]]は散々弄ばれ、\n"
+"そして何処かに売られてしまった。\n"
+"…\\!その後の行方は誰も知らない…"
+msgstr ""
+"那之后\\n[\\v[6]]也遭到肆意玩弄，\n"
+"最后被卖到了某处。…\\!此后去向无人知晓…"

@@ -1,0 +1,98 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (6,13)
+msgid ""
+"よつんばいになって犬の真似をするんだよ。\n"
+"オラ、早くしろよ"
+msgstr "四肢着地学狗的样子。喂，快点做啊"
+
+#. ID 3, Page 1, Line 3, Pos (6,14)
+msgid "そうすれば免許を返して頂けるのですね。"
+msgstr "那样的话，您就会把执照还给我了吧。"
+
+#. ID 4, Page 1, Line 3, Pos (13,11)
+msgid ""
+"ふたなりのちん○は何かが違うんだよなあ\n"
+"やっぱち○ぽってのは逞しい男から\n"
+"生えてねえとな"
+msgstr ""
+"双性的鸡○果然有什么不一样啊，\n"
+"果然鸡○这东西还是得从健壮的男人身上长出来才行\n"
+"啊"
+
+#. ID 5, Page 1, Line 3, Pos (2,11)
+msgid "なぜ、女なんだ…"
+msgstr "为什么是女人啊…"
+
+#. ID 6, Page 1, Line 3, Pos (7,10)
+msgid "ぬ…抜けん…\\!やはりジャガイモは無理か"
+msgstr "唔…拔不出来…\\!果然土豆是不行吗"
+
+#. ID 7, Page 1, Line 3, Pos (15,14)
+msgid "布団を敷こう、な？"
+msgstr "铺被褥吧，嗯？"
+
+#. ID 8, Page 1, Line 3, Pos (15,15)
+msgid "せ、せんせい…"
+msgstr "老、老师…"
+
+#. ID 9, Page 1, Line 3, Pos (16,9)
+msgid "ああ、いいっすねえ…"
+msgstr "啊，真不错啊…"
+
+#. ID 10, Page 1, Line 3, Pos (17,9)
+msgid ""
+"今日ウチで焼いていかない？\n"
+"アイスティーもあるぜ。"
+msgstr "今天要不要在我家烤点东西再走？还有冰茶哦。"
+
+#. ID 11, Page 1, Line 3, Pos (13,8)
+msgid "すまないがホモ以外は帰ってくれないか"
+msgstr "抱歉，不是基佬的能不能回去？"
+
+#. ID 12, Page 1, Line 3, Pos (17,6)
+msgid "うう～トイレ、トイレ"
+msgstr "呜呜～厕所、厕所"
+
+#. ID 12, Page 1, Line 4, Pos (17,6)
+msgid ""
+"トイレを探してここに駆け込んだ僕は\n"
+"ごく普通の男の子\n"
+"強いて言えば男に興味があるってことカナ"
+msgstr ""
+"寻找厕所而冲进这里的我，是个极其普通的男孩子，\n"
+"硬要说的话就是对男人有兴趣吧"
+
+#. ID 12, Page 1, Line 9, Pos (17,6)
+msgid "やらないか"
+msgstr "不做吗"
+
+#. ID 12, Page 1, Line 11, Pos (17,6)
+msgid "ウホッ、\\!いい男"
+msgstr "乌霍，\\!好男人"
+
+#. ID 13, Page 1, Line 3, Pos (3,3)
+msgid "男子トイレ"
+msgstr "男厕所"
+
+#. ID 14, Page 1, Line 3, Pos (2,4)
+msgid "アッーーーーーーーー！！"
+msgstr "啊——————！！"
+
+#. ID 17, Page 1, Line 3, Pos (9,6)
+msgid ""
+"よう、せっかくだし店を始めたんだ。\n"
+"買ってくかい？"
+msgstr "哟，难得开了家店。要买吗？"

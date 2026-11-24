@@ -1,0 +1,156 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 10, Page 4, Line 5, Pos (0,11)
+msgid ""
+"\\N[3]を救出した。\n"
+"宿屋に連れて行こう。"
+msgstr "救出了\\N[3]。带到旅馆去吧。"
+
+#. ID 11, Page 4, Line 5, Pos (1,11)
+msgid ""
+"\\N[5]を救出した。\n"
+"宿屋に連れて行こう。"
+msgstr "救出了\\N[5]。带到旅馆去吧。"
+
+#. ID 27, Page 2, Line 4, Pos (23,26)
+msgid "…………………………………………"
+msgstr "…………………………………………"
+
+#. ID 27, Page 2, Line 5, Pos (23,26)
+#. Contains choice at line 2 (2 options)
+msgid "キャラクターを変更しますか？"
+msgstr "要更改角色吗？"
+
+#. ID 27, Page 2, Line 6, Pos (23,26)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 31, Pos (18,38)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 27, Page 2, Line 32, Pos (23,26)
+msgid "蜘蛛の巣だらけで入ることができない…"
+msgstr "满是蜘蛛网，进不去…"
+
+#. ID 31, Page 2, Line 3, Pos (3,9)
+msgid ""
+"うつろな目をした蟲の少女だ\n"
+"その顔はどことなく\\N[\\V[535]]に似ている……"
+msgstr ""
+"眼神空洞的虫之少女，\n"
+"那张脸总觉得和\\N[\\V[535]]很像……"
+
+#. ID 31, Page 2, Line 5, Pos (3,9)
+msgid ""
+"だいぶ弱っているようだ\n"
+"宿屋に連れて行けば元気になるかもしれない"
+msgstr "看来相当虚弱，带到旅馆的话或许会恢复精神"
+
+#. ID 46, Page 2, Line 3, Pos (18,38)
+msgid "巣の外に出ますか？"
+msgstr "要出巢吗？"
+
+#. ID 46, Page 2, Line 5, Pos (18,38)
+#. Choice (3 options)
+msgid ""
+"はい\n"
+"いいえ\n"
+"ワールドマップに出る"
+msgstr ""
+"是\n"
+"否\n"
+"前往世界地图"
+
+#. ID 48, Page 2, Line 3, Pos (22,27)
+msgid ""
+"アラクネ\n"
+"「繭になったニンゲンはじきに\n"
+"　私たちの仲間になるの。\\.\\.\n"
+"　きちんとお世話してあげないとね。"
+msgstr ""
+"阿剌克涅\n"
+"「变成茧的人类很快就会　成为我们的同伴。\n"
+"　\\.\\.　得好好照顾才行呢。"
+
+#. ID 49, Page 2, Line 3, Pos (44,28)
+msgid ""
+"アラクネ\n"
+"「一緒に女王様のために働きましょう。"
+msgstr "阿剌克涅「一起为女王陛下工作吧。"
+
+#. ID 57, Page 2, Line 3, Pos (33,25)
+msgid ""
+"アラクネ\n"
+"「あなたがいればこの群れはもっと大きくなるわ。"
+msgstr "阿剌克涅「有你在，这个群体会变得更大。"
+
+#. ID 60, Page 2, Line 3, Pos (27,12)
+msgid ""
+"アラクネ\n"
+"「ふふふっ…すっかりアラクネらしくなったわね"
+msgstr "阿剌克涅「呵呵呵…完全变成阿剌克涅的样子了呢"
+
+#. ID 61, Page 2, Line 3, Pos (42,9)
+msgid ""
+"アラクネ\n"
+"「岩山の蟲は私たちにも襲い掛かってくるの。\\.\\.\n"
+"　知能が低いから敵味方の区別もつかないのよね。"
+msgstr ""
+"阿剌克涅「岩山的虫也会袭击我们。\n"
+"\\.\\.　因为智能低，连敌我都区分不了呢。"
+
+#. ID 62, Page 2, Line 3, Pos (7,25)
+msgid ""
+"アラクネ\n"
+"「zzz"
+msgstr "阿剌克涅「zzz"
+
+#. ID 63, Page 2, Line 3, Pos (38,41)
+msgid ""
+"アラクネ\n"
+"「……これ？洞窟の中で捕らえたニンゲンよ。"
+msgstr "阿剌克涅「……这个？是在洞窟里捕获的人类哦。"
+
+#. ID 63, Page 2, Line 5, Pos (38,41)
+msgid ""
+"アラクネ\n"
+"「生まれ変わる前の私と\n"
+"　知り合いだったらしいのだけど\n"
+"　全然憶えてないのよね。"
+msgstr ""
+"阿剌克涅\n"
+"「听说是我转生之前认识的人　可是我完全不记得呢\n"
+"　。"
+
+#. ID 63, Page 2, Line 14, Pos (38,41)
+msgid ""
+"アラクネ\n"
+"「安心して？\n"
+"　あなたもすぐに私たちのようになれるから…♪"
+msgstr "阿剌克涅「放心吧？　你也会很快变得像我们一样…♪"
+
+#. ID 63, Page 2, Line 21, Pos (38,41)
+msgid ""
+"\n"
+"「うう・・・いやぁ・・・・"
+msgstr "「呜呜…不要啊……"
+
+#. ID 64, Page 2, Line 3, Pos (38,42)
+msgid "「うそ・・・こんなのうそよ・・・・。"
+msgstr "「骗人…这种事是骗人的……。"

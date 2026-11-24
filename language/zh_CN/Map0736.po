@@ -1,0 +1,108 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 36, Page 2, Line 3, Pos (4,49)
+#. ID 36, Page 3, Line 3, Pos (4,49)
+msgid ""
+"＊錆び付いたレバーがある\n"
+"　扉を操作するもののようだ"
+msgstr "＊有一个生锈的拉杆　似乎是用来操作门的"
+
+#. ID 36, Page 2, Line 5, Pos (4,49)
+#. ID 36, Page 3, Line 5, Pos (4,49)
+msgid "＊2/2という文字が彫られている"
+msgstr "＊上面刻着2/2的字样"
+
+#. ID 36, Page 2, Line 6, Pos (4,49)
+#. Contains choice at line 2 (2 options)
+#. ID 36, Page 3, Line 6, Pos (4,49)
+#. Contains choice at line 2 (2 options)
+msgid "＊レバーを操作しますか？"
+msgstr "＊要操作拉杆吗？"
+
+#. ID 36, Page 2, Line 7, Pos (4,49)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 3, Line 7, Pos (4,49)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 36, Page 2, Line 16, Pos (4,49)
+msgid "＊レバーが固い……引くことができなかった"
+msgstr "＊拉杆很紧……拉不动"
+
+#. ID 36, Page 2, Line 17, Pos (4,49)
+msgid ""
+"＊どこかにあるだろう、別のレバーを\n"
+"　先に引く必要があるようだ"
+msgstr "＊看来必须先拉动某处的另一根拉杆"
+
+#. ID 38, Page 2, Line 4, Pos (10,48)
+msgid "………"
+msgstr "………"
+
+#. ID 38, Page 2, Line 8, Pos (10,48)
+msgid ""
+"＊自動人形のようだが\n"
+"　眠っているようにピクりとも動かない"
+msgstr "＊看起来像是自动人偶　却像睡着了一样一动不动"
+
+#. ID 61, Page 2, Line 3, Pos (27,49)
+msgid ""
+"＊製作途中の自動人形のようだ\n"
+"　しかし埃を被っており、\n"
+"　長い間放置されているらしい。"
+msgstr ""
+"＊像是制作到一半的自动人偶　但落满了灰尘，\n"
+"　似乎被放置了很久。"
+
+#. ID 88, Page 2, Line 3, Pos (27,9)
+msgid "＊古びた書物だ……"
+msgstr "＊是陈旧的书……"
+
+#. ID 88, Page 2, Line 4, Pos (27,9)
+msgid ""
+"＊紙はボロボロだが、辛うじて文字は読めるようだ\n"
+"　適当に１冊取り、目を走らせる。"
+msgstr ""
+"＊纸已经破破烂烂，\n"
+"　但字似乎勉强还能读　随手拿起一册，\n"
+"快速浏览起来。"
+
+#. ID 88, Page 2, Line 10, Pos (27,9)
+#. ID 88, Page 2, Line 24, Pos (27,9)
+msgid "＊…………"
+msgstr "＊…………"
+
+#. ID 88, Page 2, Line 15, Pos (27,9)
+msgid ""
+"＊……彼らは何故地上に残る選択をしたのか\n"
+"　地上は、もはや不毛の大地だ\n"
+"　我々が生きられる環境ではない"
+msgstr ""
+"＊……\n"
+"　他们为什么选择留在地上呢\n"
+"　地上已经是不毛之地并不是我们能够生存的环境"
+
+#. ID 88, Page 2, Line 18, Pos (27,9)
+msgid ""
+"＊何故この新天地の開拓に希望を見出さないのか\n"
+"　……何故彼女は地上に残ってしまったのか"
+msgstr ""
+"＊为什么在这片新天地的开拓中看不到希望呢　……\n"
+"　为什么她留在了地上呢"

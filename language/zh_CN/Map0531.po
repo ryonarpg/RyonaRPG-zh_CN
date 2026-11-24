@@ -1,0 +1,80 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (19,3)
+msgid "鍵が掛かっている。"
+msgstr "锁着。"
+
+#. ID 10, Page 1, Line 4, Pos (9,24)
+msgid "植物園？それなら東側の廊下の奥の方にあるわよ。"
+msgstr "植物园？那个的话，在东侧走廊的深处哦。"
+
+#. ID 10, Page 1, Line 10, Pos (9,24)
+msgid "がんばりましょうね。"
+msgstr "一起加油吧。"
+
+#. ID 10, Page 1, Line 15, Pos (9,24)
+msgid "ああ、忙しい。忙しい。"
+msgstr "啊，好忙。好忙。"
+
+#. ID 11, Page 1, Line 3, Pos (13,19)
+#. ID 13, Page 1, Line 9, Pos (25,23)
+msgid "ああ、忙しい、忙しい。"
+msgstr "啊，好忙，好忙。"
+
+#. ID 12, Page 1, Line 3, Pos (10,21)
+msgid "ここのご主人様は素晴らしい方よ。"
+msgstr "这里的主人是很了不起的人哦。"
+
+#. ID 13, Page 1, Line 4, Pos (25,23)
+msgid "貴女が新人さん？よろしくね。"
+msgstr "你是新人？请多关照。"
+
+#. ID 14, Page 1, Line 3, Pos (23,18)
+msgid "あら、いらっしゃいませ。"
+msgstr "哎呀，欢迎光临。"
+
+#. ID 17, Page 1, Line 4, Pos (18,39)
+#. Contains choice at line 2 (2 options)
+msgid "この屋敷を出て行きますか？"
+msgstr "要离开这座宅邸吗？"
+
+#. ID 17, Page 1, Line 5, Pos (18,39)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 17, Page 1, Line 21, Pos (18,39)
+msgid ""
+"何故か玄関が開かない。どうやら内側から\n"
+"も外側からも鍵をかけられる扉みたいだ。\n"
+"まるでこの屋敷から逃げ出せないように\n"
+"しているみたいだ。"
+msgstr ""
+"不知为何玄关打不开。\n"
+"看来这扇门可以从内侧和外侧上锁。\n"
+"简直像是为了让人无法逃离这座宅邸一样。"
+
+#. ID 19, Page 1, Line 3, Pos (20,6)
+msgid ""
+"この扉の向こうにご主人様の部屋がある\n"
+"らしいけど…\n"
+"メイド長以外は入れないのよね。"
+msgstr ""
+"这扇门后面好像就是主人的房间……\n"
+"但除了女仆长以外都进不去呢。"

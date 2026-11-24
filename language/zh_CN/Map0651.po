@@ -1,0 +1,73 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 2, Line 3, Pos (6,19)
+msgid ""
+"「港の裸夫」…\n"
+"美しくない。"
+msgstr "「港口的裸夫」…不美。"
+
+#. ID 17, Page 2, Line 3, Pos (11,19)
+msgid ""
+"「王宮の騎士」…\n"
+"\n"
+"まあこれと言ってコメントすることもない。"
+msgstr "「王宫骑士」…嘛，也没什么特别可评论的。"
+
+#. ID 18, Page 2, Line 3, Pos (23,19)
+msgid ""
+"「横っ飛び魔王」…\n"
+"威厳溢れる魔王の\n"
+"意外な休日の一コマを捏造した意欲作だ。"
+msgstr ""
+"「横跳魔王」…\n"
+"这是捏造了充满威严的魔王意外假日一景的倾力之作\n"
+"。"
+
+#. ID 19, Page 2, Line 3, Pos (28,19)
+msgid ""
+"「叔母」…\n"
+"その名の通り作者の叔母がモデルとなっている。"
+msgstr "「叔母」…正如其名，是以作者的叔母为原型。"
+
+#. ID 20, Page 2, Line 3, Pos (7,39)
+msgid ""
+"「魔王ハデス」…\n"
+"忠実に具現化するには\n"
+"ちょっと魔力が足りなかったようだ。"
+msgstr ""
+"「魔王哈迪斯」…看来要忠实具现化，\n"
+"魔力还稍微不够。"
+
+#. ID 21, Page 2, Line 3, Pos (17,40)
+msgid ""
+"「クラーケン」…\n"
+"海の大王がダイナミックに描かれている。"
+msgstr "「克拉肯」…海之大王被画得很有动感。"
+
+#. ID 68, Page 2, Line 3, Pos (27,39)
+msgid ""
+"「ブランコを漕ぐ少女」…\n"
+"どこか哀愁漂う表情が印象的だ。"
+msgstr ""
+"「荡秋千的少女」…\n"
+"那略带哀愁的表情令人印象深刻。"
+
+#. ID 71, Page 2, Line 3, Pos (25,53)
+msgid "何も描いていない。"
+msgstr "什么都没画。"
+
+#. ID 71, Page 2, Line 8, Pos (25,53)
+msgid "まだ空きがあるってことか……"
+msgstr "也就是说还有空位吗……"

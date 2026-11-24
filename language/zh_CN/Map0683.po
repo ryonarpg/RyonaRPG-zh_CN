@@ -1,0 +1,39 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 3, Pos (25,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊緊急脱出路のようだ\n"
+"　移動しますか？"
+msgstr "＊似乎是紧急逃生通道　要移动吗？"
+
+#. ID 34, Page 2, Line 5, Pos (25,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 36, Page 2, Line 3, Pos (47,1)
+msgid ""
+"\n"
+"＊閉じ込められた！\n"
+msgstr "＊被困住了！"
+
+#. ID 86, Page 2, Line 5, Pos (29,6)
+msgid "＊[拷問吏の徽章]を手に入れた"
+msgstr "＊获得了[拷问官徽章]"

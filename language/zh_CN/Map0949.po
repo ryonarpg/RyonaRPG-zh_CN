@@ -1,0 +1,745 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 2, Line 4, Pos (32,35)
+msgid ""
+"\n"
+"…早く出来あがらないかなぁ。"
+msgstr "…怎么还不快点完成呢。"
+
+#. ID 2, Page 2, Line 17, Pos (32,35)
+msgid ""
+"\n"
+"…えっ！？\\.\\.あなたは…!"
+msgstr "…诶！？\\.\\.你是…！"
+
+#. ID 2, Page 2, Line 26, Pos (32,35)
+msgid ""
+"\n"
+"いや…、\\.『あなた』じゃないわね…。\\.\n"
+"中身は……、\\.別か。\\."
+msgstr "不…、\\.『你』不对呢…。\\.里面是……、\\.别的吗。\\."
+
+#. ID 2, Page 2, Line 29, Pos (32,35)
+msgid ""
+"\n"
+"…\\.、\\|急ぎ過ぎたかしら…？"
+msgstr "…\\.、\\|是不是太着急了…？"
+
+#. ID 2, Page 2, Line 34, Pos (32,35)
+msgid ""
+"\n"
+"…こほん。\\.\\|\n"
+"よくもまぁ、\\.脅かしてくれたわね!"
+msgstr "…咳。\\.\\|你可真会吓唬人！"
+
+#. ID 2, Page 2, Line 37, Pos (32,35)
+msgid ""
+"\n"
+"いたずら魂にはお仕置きしてやるんだから。\\|\n"
+"覚悟しなさいよ!！"
+msgstr "对淘气的灵魂可是要惩罚的。\\|做好觉悟吧!！"
+
+#. ID 2, Page 2, Line 49, Pos (32,35)
+#. ChangeHeroName (Actor 115)
+#. ID 2, Page 3, Line 33, Pos (32,35)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:図書館"
+msgstr "end:图书馆"
+
+#. ID 2, Page 3, Line 4, Pos (32,35)
+msgid ""
+"\n"
+"さぁて…、どの子でお相手してくれるのかしら。"
+msgstr "那么…、要让哪个孩子来陪我呢。"
+
+#. ID 2, Page 3, Line 21, Pos (32,35)
+msgid ""
+"\n"
+"それじゃあ、痴態と悲鳴で愉しませて頂戴。\n"
+"あたしの為にねっ！"
+msgstr "那么，就用痴态和惨叫让我好好享受吧。为了我哦！"
+
+#. ID 2, Page 8, Line 4, Pos (32,35)
+msgid ""
+"\n"
+"壁にもっと近づいて、手をつきなさい。\n"
+"悪いようにはしないから…。"
+msgstr "再靠近墙一点，把手撑上去。不会对你太坏的…。"
+
+#. ID 2, Page 8, Line 12, Pos (32,35)
+msgid ""
+"\n"
+"あたしから見て左側に来なさい。\n"
+"ふふ…"
+msgstr "到我左边来。呵呵…"
+
+#. ID 2, Page 9, Line 46, Pos (32,35)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:無し"
+msgstr "end:无"
+
+#. ID 19, Page 3, Line 14, Pos (20,22)
+msgid ""
+"\n"
+"獲物を求めて蠢く植物の中に足を踏み入れてしまった!\\.\\.\\^"
+msgstr "踏入了为寻求猎物而蠢动的植物之中！\\.\\.\\^"
+
+#. ID 19, Page 3, Line 140, Pos (20,22)
+msgid ""
+"\n"
+"…！\\.脱出できない!\n"
+"植物は巨大で手足を伸ばしても外殻に届かない！！"
+msgstr ""
+"…！\\.逃不出去！植物太巨大了，\n"
+"即使伸出手脚也够不到外壳！！"
+
+#. ID 19, Page 3, Line 195, Pos (20,22)
+#. ID 21, Page 3, Line 157, Pos (50,45)
+#. ID 135, Page 3, Line 120, Pos (14,45)
+msgid ""
+"\n"
+"…憑依が解けてしまったようだ…\\.\\.\\^"
+msgstr "…附身好像解除了…\\.\\.\\^"
+
+#. ID 20, Page 3, Line 29, Pos (41,0)
+msgid ""
+"\n"
+"…少女はこの植物に犯され続けているようだ\n"
+"脱出どころか身体にまるで力が入らない…"
+msgstr ""
+"…少女似乎一直被这植物侵犯着，别说逃出去，\n"
+"身体简直使不上力气…"
+
+#. ID 20, Page 5, Line 53, Pos (41,0)
+msgid ""
+"\n"
+"捕えた少女を吐き出した!\\.\\^"
+msgstr "吐出了被捕获的少女！\\.\\^"
+
+#. ID 21, Page 3, Line 58, Pos (50,45)
+msgid ""
+"\n"
+"…!\\.\n"
+"手枷が…外れない…\\.\\^"
+msgstr "…！\\.手枷…脱不下来…\\.\\^"
+
+#. ID 21, Page 3, Line 79, Pos (50,45)
+msgid ""
+"\n"
+"…イビルハンガーが動き始めた！\\.\\^"
+msgstr "…邪恶绞刑架开始动了！\\.\\^"
+
+#. ID 21, Page 4, Line 65, Pos (50,45)
+msgid ""
+"\n"
+"着けられた枷は外れそうで外れない\n"
+"犠牲者を逃さないよう工夫されているようだ…\\.\\.\\^"
+msgstr ""
+"被戴上的枷锁看似要脱落却脱不掉，似乎经过设计，\n"
+"不让牺牲者逃掉…\\.\\.\\^"
+
+#. ID 21, Page 5, Line 24, Pos (50,45)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 5, Line 45, Pos (50,45)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 5, Line 66, Pos (50,45)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 5, Line 87, Pos (50,45)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 5, Line 108, Pos (50,45)
+#. Contains choice at line 2 (2 options)
+msgid "少女の枷は装着者以外なら簡単に外せそうだ\\.\\^"
+msgstr "少女的枷锁若不是佩戴者，似乎能轻易取下\\.\\^"
+
+#. ID 21, Page 5, Line 25, Pos (50,45)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 5, Line 46, Pos (50,45)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 5, Line 67, Pos (50,45)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 5, Line 88, Pos (50,45)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 5, Line 109, Pos (50,45)
+#. Choice (2 options, embedded in a message)
+#. ID 135, Page 5, Line 25, Pos (14,45)
+#. Choice (2 options, embedded in a message)
+#. ID 135, Page 5, Line 52, Pos (14,45)
+#. Choice (2 options, embedded in a message)
+#. ID 135, Page 5, Line 79, Pos (14,45)
+#. Choice (2 options, embedded in a message)
+#. ID 135, Page 5, Line 106, Pos (14,45)
+#. Choice (2 options, embedded in a message)
+#. ID 135, Page 5, Line 133, Pos (14,45)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"クサリをはずしてやるか\n"
+"このままながめてるのもいいか"
+msgstr ""
+"给她解开锁链\n"
+"就这样继续看着也不错"
+
+#. ID 21, Page 5, Line 162, Pos (50,45)
+msgid ""
+"\n"
+"触れた瞬間\n"
+"イビルハンガーの枷が、少女の手に嵌められた!\\.\\.\\^"
+msgstr ""
+"接触的瞬间，邪恶绞刑架的枷锁被套到了少女手上！\n"
+"\\.\\.\\^"
+
+#. ID 42, Page 2, Line 9, Pos (0,12)
+msgid ""
+"彼女の装備を、外しても、\n"
+"不思議な力で元に戻されてしまった…\n"
+"\\c[11]装備済みのアイテムは変えられない\\c[0]ようだ。"
+msgstr ""
+"即使卸下她的装备，\n"
+"也会被不可思议的力量恢复原状…\n"
+"\\c[11]已装备的道具无法更换\\c[0]的样子。"
+
+#. ID 42, Page 3, Line 80, Pos (0,12)
+msgid ""
+"\n"
+"魂だけの状態ではモノを装備することはできない！"
+msgstr "只有灵魂的状态下无法装备物品！"
+
+#. ID 42, Page 21, Line 83, Pos (0,12)
+msgid ""
+"\n"
+"ふうましゅりけんが尽きた瞬間、\n"
+"どこから取り出したのか、苦無を握りしめていた…！"
+msgstr ""
+"风魔手里剑用尽的瞬间，不知从哪里取出来的，\n"
+"她握紧了苦无…！"
+
+#. ID 42, Page 31, Line 99, Pos (0,12)
+msgid ""
+"\n"
+"炎のロッド を失った途端、\n"
+"魔導革紐 が現れ、身体を締め上げ始めた…！"
+msgstr ""
+"失去火焰法杖的瞬间，魔导革绳出现，\n"
+"开始勒紧身体…！"
+
+#. ID 48, Page 2, Line 25, Pos (41,2)
+msgid ""
+"エラー!\n"
+"指定位置から主人公の方向を算出(12分割)\n"
+"無効な変数指定です。\\v[136]"
+msgstr ""
+"错误!从指定位置计算主角的方向(12分割)无效的变\n"
+"量指定。\\v[136]"
+
+#. ID 110, Page 5, Line 3, Pos (0,6)
+#. ID 111, Page 5, Line 3, Pos (1,6)
+#. ID 112, Page 5, Line 3, Pos (2,6)
+#. ID 113, Page 5, Line 3, Pos (3,6)
+#. ID 114, Page 5, Line 3, Pos (4,6)
+#. ID 115, Page 5, Line 3, Pos (0,7)
+#. ID 117, Page 5, Line 3, Pos (2,7)
+#. ID 119, Page 5, Line 3, Pos (4,7)
+#. ID 120, Page 5, Line 3, Pos (0,8)
+#. ID 121, Page 5, Line 3, Pos (1,8)
+#. ID 122, Page 5, Line 3, Pos (2,8)
+#. ID 123, Page 5, Line 3, Pos (3,8)
+#. ID 124, Page 5, Line 3, Pos (4,8)
+#. ID 130, Page 5, Line 3, Pos (0,10)
+#. ID 131, Page 5, Line 3, Pos (1,10)
+#. ID 132, Page 5, Line 3, Pos (2,10)
+#. ID 134, Page 5, Line 3, Pos (4,10)
+#. ID 138, Page 5, Line 3, Pos (5,6)
+#. ID 139, Page 5, Line 3, Pos (5,8)
+#. ID 169, Page 5, Line 3, Pos (5,10)
+msgid ""
+"\n"
+"割れた鏡がある。\n"
+"奥には何もないが、破片から鎖が飛び出ている。"
+msgstr ""
+"有一面破碎的镜子。深处什么都没有，\n"
+"但锁链从碎片中伸出。"
+
+#. ID 116, Page 5, Line 3, Pos (1,7)
+#. ID 118, Page 5, Line 3, Pos (3,7)
+#. ID 133, Page 5, Line 3, Pos (3,10)
+msgid ""
+"\n"
+"鏡の破片から鎖が飛び出ている。\n"
+"少女の首輪に繋がっていたもののようだ。"
+msgstr ""
+"锁链从镜子碎片中伸出。\n"
+"看起来是连接在少女项圈上的东西。"
+
+#. ID 125, Page 5, Line 3, Pos (0,9)
+#. ID 126, Page 5, Line 3, Pos (1,9)
+#. ID 127, Page 5, Line 3, Pos (2,9)
+#. ID 128, Page 5, Line 3, Pos (3,9)
+#. ID 129, Page 5, Line 3, Pos (4,9)
+msgid ""
+"\n"
+"少女に使われていた拷問用の木馬がある。\n"
+"芯まで体液が浸みこんでいて、未だ液体が滴っている。"
+msgstr ""
+"有少女曾被使用的拷问用木马。体液浸透到了芯里，\n"
+"至今还在滴着液体。"
+
+#. ID 135, Page 3, Line 45, Pos (14,45)
+msgid ""
+"\n"
+"…どんなにもがいても拘束具が緩むことはなかった…\\.\\^"
+msgstr "…无论怎么挣扎，拘束具都没有松开…\\.\\^"
+
+#. ID 135, Page 3, Line 67, Pos (14,45)
+msgid ""
+"\n"
+"…！木馬が動き始めた…!\\.\\^"
+msgstr "…！木马开始动了…!\\.\\^"
+
+#. ID 135, Page 4, Line 79, Pos (14,45)
+msgid ""
+"\n"
+"木馬の拘束は緩いようで外れない\n"
+"犠牲者を逃さないよう工夫されているようだ…\\.\\.\\^"
+msgstr ""
+"木马的拘束看似松却脱不掉，似乎经过设计，\n"
+"不让牺牲者逃掉…\\.\\.\\^"
+
+#. ID 135, Page 5, Line 24, Pos (14,45)
+#. Contains choice at line 2 (2 options)
+#. ID 135, Page 5, Line 51, Pos (14,45)
+#. Contains choice at line 2 (2 options)
+#. ID 135, Page 5, Line 78, Pos (14,45)
+#. Contains choice at line 2 (2 options)
+#. ID 135, Page 5, Line 105, Pos (14,45)
+#. Contains choice at line 2 (2 options)
+#. ID 135, Page 5, Line 132, Pos (14,45)
+#. Contains choice at line 2 (2 options)
+msgid "少女の枷は装着者以外なら簡単に解除出来そうだ\\.\\^"
+msgstr "少女的枷锁若不是佩戴者，似乎能轻易解除\\.\\^"
+
+#. ID 135, Page 5, Line 185, Pos (14,45)
+msgid ""
+"\n"
+"触れた瞬間、\n"
+"木馬の枷が少女を捕えた！\\.\\.\\^"
+msgstr "接触的瞬间，木马的枷锁抓住了少女！\\.\\.\\^"
+
+#. ID 154, Page 1, Line 8, Pos (76,14)
+msgid ""
+"\n"
+"聞こえなかった?\n"
+"こちらに来なさいね。"
+msgstr "没听见吗？到这边来。"
+
+#. ID 155, Page 1, Line 8, Pos (2,3)
+msgid ""
+"\n"
+"今度は、\\.簡単には行かないわよ。\n"
+"貴女の身体の力、使わせてもらうわ！"
+msgstr ""
+"这次、\\.可不会那么轻易了。你的身体力量，\n"
+"就让我来用吧！"
+
+#. ID 156, Page 2, Line 90, Pos (0,3)
+msgid ""
+"\n"
+"うーん、思わぬ拾いものね。\n"
+"鼠かと思ったけど、なかなか可愛い子猫じゃない。"
+msgstr ""
+"嗯，真是意想不到的捡到宝呢。还以为是老鼠，\n"
+"这不是挺可爱的小猫嘛。"
+
+#. ID 156, Page 2, Line 93, Pos (0,3)
+msgid ""
+"\n"
+"…\\.よし、決めた。\n"
+"この子もあたしのお人形に貰いーっと。"
+msgstr "…\\.好，决定了。这个孩子也收作我的人偶吧。"
+
+#. ID 156, Page 2, Line 96, Pos (0,3)
+msgid ""
+"\n"
+"まずは、飾り付けね。\n"
+"今度はどんな風にしようかなぁ。"
+msgstr "首先，是装饰呢。这次要弄成什么样呢。"
+
+#. ID 156, Page 2, Line 114, Pos (0,3)
+msgid ""
+"\n"
+"…もどかしいわね。\n"
+"ちょっと時間早めちゃおうかしら。"
+msgstr "…真让人着急呢。要不要稍微把时间提前一点呢。"
+
+#. ID 156, Page 2, Line 128, Pos (0,3)
+msgid ""
+"\n"
+"あー、待ち遠しいわ。早く魂抜けないかなぁ。"
+msgstr "啊，真让人等不及。灵魂怎么还不快点抽出来呢。"
+
+#. ID 156, Page 3, Line 85, Pos (0,3)
+msgid ""
+"\n"
+"…なーんか。\n"
+"見覚えがあるのがかかってるわね…。"
+msgstr "…总觉得。挂着个眼熟的东西呢…。"
+
+#. ID 156, Page 3, Line 103, Pos (0,3)
+msgid ""
+"\n"
+"…\\.冷やかしはお断りなんだけどなぁ……"
+msgstr "…\\.我可不欢迎来捣乱的啊……"
+
+#. ID 157, Page 1, Line 17, Pos (75,2)
+msgid ""
+"\n"
+"気付いたかしら?"
+msgstr "你发现了吗？"
+
+#. ID 157, Page 1, Line 36, Pos (75,2)
+msgid ""
+"\n"
+"痛かった?"
+msgstr "疼吗？"
+
+#. ID 157, Page 1, Line 38, Pos (75,2)
+msgid ""
+"\n"
+"魂はそっちにあっても、この身体とは繋がっているのよ。\n"
+"逆らおうとはしないことね。"
+msgstr ""
+"就算灵魂在那边，也和这个身体是相连的。\n"
+"可别想着反抗哦。"
+
+#. ID 157, Page 1, Line 46, Pos (75,2)
+msgid ""
+"\n"
+"魂だけ他の物に移してポイ捨てする気だったんだけど。\n"
+"ちょっとした趣向を思いついたの。"
+msgstr ""
+"本来是想只把灵魂转移到别的东西上然后随手丢掉\n"
+"　的。不过我想到了一点小趣味。"
+
+#. ID 157, Page 1, Line 54, Pos (75,2)
+msgid ""
+"\n"
+"そんなに怖がらなくてもいいわ。\n"
+"それとも、身体に違和感を感じているの?"
+msgstr ""
+"不用那么害怕。还是说，\n"
+"你对身体感到有什么违和感吗？"
+
+#. ID 157, Page 1, Line 62, Pos (75,2)
+msgid ""
+"\n"
+"そんなはずないわよね。だって、\n"
+"この身体にも付いていたモノを付けてあげただけだし。"
+msgstr ""
+"不可能有那种事吧。\n"
+"毕竟我只是把原本也附在这个身体上的东西给你装上\n"
+"了而已。"
+
+#. ID 157, Page 1, Line 67, Pos (75,2)
+msgid ""
+"\n"
+"それもそうよね。\n"
+"身体にちょっとしたオマケを付けてあげたんだから。"
+msgstr "也是呢。毕竟我给身体附加了一点小赠品嘛。"
+
+#. ID 157, Page 1, Line 81, Pos (75,2)
+msgid ""
+"\n"
+"おそるおそる身体を見下ろすと、\n"
+"下半身にそそり立つ逸物が…!!"
+msgstr ""
+"提心吊胆地往下看身体，\n"
+"下半身赫然挺立着一根逸物…!!"
+
+#. ID 157, Page 1, Line 90, Pos (75,2)
+msgid ""
+"\n"
+"寝ている間にちょっとその身体に細工をしたの。\n"
+"その肉棒、気に入ってくれたかしら？"
+msgstr ""
+"你睡着的时候我对那个身体稍微动了点手脚。\n"
+"那根肉棒，你还喜欢吗？"
+
+#. ID 157, Page 1, Line 98, Pos (75,2)
+msgid ""
+"\n"
+"返事がないわね。"
+msgstr "没有回音呢。"
+
+#. ID 157, Page 1, Line 110, Pos (75,2)
+msgid ""
+"\n"
+"はい。よく出来ました。"
+msgstr "是的。做得很好。"
+
+#. ID 157, Page 1, Line 117, Pos (75,2)
+msgid ""
+"\n"
+"じゃあ、次はこっちに来なさい。"
+msgstr "那么，接下来到这边来。"
+
+#. ID 161, Page 1, Line 39, Pos (79,2)
+msgid ""
+"\n"
+"ふふ、やってるやってる…\n"
+"暫く止まらないわね。あれは。\\|\\^"
+msgstr "呵呵，在做了在做了…暂时停不下来呢。那个。\\|\\^"
+
+#. ID 161, Page 1, Line 46, Pos (79,2)
+msgid ""
+"\n"
+"でも、魂が入ってるとやっぱり身体の反応が違うわね。\n"
+"これが本能とかいう奴かしら。\\|\\^"
+msgstr ""
+"不过，注入灵魂后身体反应果然不一样呢。\n"
+"这就是所谓本能吗。\\|\\^"
+
+#. ID 161, Page 1, Line 53, Pos (79,2)
+msgid ""
+"\n"
+"…元気なのはいいけど\\.\n"
+"アレ大丈夫なのかしら？\\.…ヤリ過ぎに見えるけど…\\|\\^"
+msgstr ""
+"…有精神是好事，\\.不过那东西没问题吗？\\.…\n"
+"看起来做得太过了…\\|\\^"
+
+#. ID 161, Page 1, Line 60, Pos (79,2)
+msgid ""
+"\n"
+"…そういえば、\n"
+"その後の魂の処遇について考えてなかったわね…\\|\\^"
+msgstr "…说起来，还没考虑过之后灵魂的处置呢…\\|\\^"
+
+#. ID 161, Page 1, Line 67, Pos (79,2)
+msgid ""
+"\n"
+"…そうね。\n"
+"生まれた娘にでも入れてまた繁殖に使いましょう。\\|\\^"
+msgstr ""
+"…是啊。就放进生下来的女儿身体里，\n"
+"再用于繁殖吧。\\|\\^"
+
+#. ID 161, Page 1, Line 74, Pos (79,2)
+msgid ""
+"\n"
+"あぁ、どんな娘が生まれるか楽しみだわ。\n"
+"きっと親に似てすごく可愛い子供になるわね。\\|\\^"
+msgstr ""
+"啊，真期待会生出什么样的女儿。\n"
+"一定会像父母一样成为非常可爱的孩子呢。\\|\\^"
+
+#. ID 161, Page 1, Line 92, Pos (79,2)
+#. Contains choice at line 2 (2 options)
+msgid "\\n[\\v[6]]を助けに行きますか？"
+msgstr "\\n[\\v[6]]要去救吗？"
+
+#. ID 161, Page 1, Line 93, Pos (79,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 161, Page 1, Line 120, Pos (79,2)
+msgid ""
+"その後、\\n[\\v[6]]はやがて女の子を身籠り、出産した。\n"
+"\\.\\n[\\v[6]]の魂は、代々の娘に宛がわれ、\n"
+"\\.百代を生き続けたという…\\.…\\.……"
+msgstr ""
+"之后，\\n[\\v[6]]不久怀上了女孩，并生了下来。\n"
+"\\.\\n[\\v[6]]的灵魂被分配给代代女儿，\n"
+"\\.据说持续活了百代…\\.…\\.……"
+
+#. ID 161, Page 1, Line 128, Pos (79,2)
+msgid ""
+"\n"
+"The End...."
+msgstr ""
+"\n"
+"The End...."
+
+#. ID 163, Page 2, Line 21, Pos (77,8)
+msgid ""
+"\n"
+"壁に手を着いた途端、突然空中へ吊上げられた!"
+msgstr "刚把手撑到墙上，就突然被吊到了空中！"
+
+#. ID 163, Page 2, Line 31, Pos (77,8)
+msgid ""
+"\n"
+"そうそう。いい子ね。そのままよ。"
+msgstr "对对。好孩子。就这样。"
+
+#. ID 163, Page 2, Line 40, Pos (77,8)
+msgid ""
+"\n"
+"宙づりにされたまま徐々に高度を下げられていく…"
+msgstr "就那样被悬吊着，逐渐被降低高度…"
+
+#. ID 163, Page 2, Line 49, Pos (77,8)
+msgid ""
+"\n"
+"はい、もう少し、もう少し、\\.\\.\\.…ここまでね！"
+msgstr "好，再一点，再一点，\\.\\.\\.…到这里吧！"
+
+#. ID 163, Page 2, Line 60, Pos (77,8)
+msgid ""
+"\n"
+"あら？どうしたの?\n"
+"肉棒が自分の身体にあたって恥ずかしい?"
+msgstr "哎呀？怎么了？肉棒碰到自己的身体觉得害羞？"
+
+#. ID 163, Page 2, Line 63, Pos (77,8)
+msgid ""
+"\n"
+"自分の身体に興奮したのかしら\n"
+"下半身のソレ、おっきくなっているわよ?"
+msgstr ""
+"难道是对自己的身体兴奋了？下半身那东西，\n"
+"变大了哦？"
+
+#. ID 163, Page 2, Line 71, Pos (77,8)
+msgid ""
+"\n"
+"ふふ、赤くなった。\n"
+"その身体のあなたも可愛いわね。"
+msgstr "呵呵，脸红了。那个身体里的你也很可爱呢。"
+
+#. ID 163, Page 2, Line 77, Pos (77,8)
+msgid ""
+"\n"
+"さて…\n"
+"位置はこれくらいかなぁ?"
+msgstr "那么…位置大概就是这里吧？"
+
+#. ID 163, Page 2, Line 88, Pos (77,8)
+msgid ""
+"\n"
+"下半身のアレの先端が温かい何かに触れている！！"
+msgstr "下半身那东西的前端碰到了某个温暖的东西！！"
+
+#. ID 163, Page 2, Line 94, Pos (77,8)
+msgid ""
+"\n"
+"…何か聞きたそうな顔ね?\n"
+"何をしているのかって?"
+msgstr "…一副想问什么的表情呢？是想问在做什么吗？"
+
+#. ID 163, Page 2, Line 97, Pos (77,8)
+msgid ""
+"\n"
+"人形の新調。\n"
+"\\|分かりやすく言えば、交尾で新しい娘を作るのよ。\\|"
+msgstr ""
+"制作新的人偶。\\|说得直白点，\n"
+"就是通过交尾制造新的女儿。\\|"
+
+#. ID 163, Page 2, Line 100, Pos (77,8)
+msgid ""
+"\n"
+"貴女達どんなに可愛くても百年持たないじゃない。\n"
+"だから、定期的に必要なのよね。"
+msgstr ""
+"你们不管多可爱也撑不过一百年吧。所以，\n"
+"定期做这个是必要的呢。"
+
+#. ID 163, Page 2, Line 111, Pos (77,8)
+msgid ""
+"\n"
+"身をよじって身体を離そうとしたが、\n"
+"その行為で肉棒が割れ目へと入り込んでしまった!"
+msgstr ""
+"扭动身体想离开，但因为这个动作，\n"
+"肉棒反而插进了裂缝里！"
+
+#. ID 163, Page 2, Line 118, Pos (77,8)
+msgid ""
+"\n"
+"あら？待ち切れなかった？\n"
+"じゃあ、貴女の身体の方をこうひねるとね…"
+msgstr "哎呀？等不及了？那么，把你的身体这样一扭的话…"
+
+#. ID 163, Page 2, Line 141, Pos (77,8)
+msgid ""
+"\n"
+"\\n[\\v[6]]は処女を喪失した……\\|\\.\\.\\^"
+msgstr "\\n[\\v[6]]失去了处女……\\|\\.\\.\\^"
+
+#. ID 163, Page 2, Line 165, Pos (77,8)
+msgid ""
+"\n"
+"ふふ、奥まで入っちゃった。\n"
+"想像以上にすごい刺激でしょ?"
+msgstr "呵呵，插到最里面了。刺激比想象中还厉害吧？"
+
+#. ID 163, Page 2, Line 168, Pos (77,8)
+msgid ""
+"\n"
+"射れた肉棒の快感も、それを咥えたあそこの快感も\n"
+"一緒になって貴女に伝わるの。"
+msgstr ""
+"射出的肉棒的快感，以及含着它的那里的快感，\n"
+"会一起传达给你。"
+
+#. ID 163, Page 2, Line 183, Pos (77,8)
+msgid ""
+"\n"
+"魔法でしか為し得ない、至上の快楽の味はどう？"
+msgstr "只有魔法才能做到的、至高快乐的味道如何？"
+
+#. ID 163, Page 2, Line 190, Pos (77,8)
+msgid ""
+"\n"
+"動かなくても無駄よ？\n"
+"…だって、貴女の秘所に貴女の肉棒挿入れているのよ？"
+msgstr ""
+"不动也没用哦？…因为，\n"
+"是把你的肉棒插进你的秘处里哦？"
+
+#. ID 163, Page 2, Line 193, Pos (77,8)
+msgid ""
+"\n"
+"単に入れているだけでそれなんだもの。\n"
+"動いたら、…どうなると思う？"
+msgstr ""
+"只是插着就已经这样了。要是动起来，…\n"
+"你觉得会怎样？"
+
+#. ID 163, Page 2, Line 220, Pos (77,8)
+msgid ""
+"\n"
+"…最初のひと押しだけ手伝ってあげる。\n"
+"後は…、快楽に身を委ねちゃいなさい…！"
+msgstr ""
+"…我只帮你最开始推那一下。之后…，\n"
+"就委身于快感吧…！"
+
+#. ID 207, Page 2, Line 16, Pos (89,64)
+msgid ""
+"\n"
+"うっ…、\\.覚えておきなさいよっ…"
+msgstr "唔…，\\.你给我记住…"
+
+#. ID 209, Page 2, Line 9, Pos (89,63)
+msgid ""
+"\n"
+"\\v[251] G 手に入れた！"
+msgstr "\\v[251] G 获得了！"

@@ -1,0 +1,54 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 24, Page 3, Line 3, Pos (0,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"デバッグ:\n"
+"演出を飛ばしますか？"
+msgstr "调试：要跳过演出吗？"
+
+#. ID 24, Page 3, Line 8, Pos (0,5)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 2, Line 5, Pos (22,42)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 26, Page 3, Line 12, Pos (22,26)
+msgid "5000Gを手に入れた。"
+msgstr "获得了5000G。"
+
+#. ID 27, Page 2, Line 3, Pos (22,42)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ここから建物の外に戻れるようだ。\n"
+"脱出しますか?"
+msgstr "似乎可以从这里回到建筑外。要逃脱吗？"
+
+#. ID 34, Page 3, Line 3, Pos (21,34)
+#. ID 35, Page 3, Line 3, Pos (22,34)
+#. ID 36, Page 3, Line 3, Pos (23,34)
+#. ID 37, Page 3, Line 3, Pos (21,33)
+#. ID 38, Page 3, Line 3, Pos (22,33)
+#. ID 39, Page 3, Line 3, Pos (23,33)
+#. ID 40, Page 3, Line 3, Pos (21,32)
+#. ID 41, Page 3, Line 3, Pos (22,32)
+#. ID 42, Page 3, Line 3, Pos (23,32)
+msgid "床から突き出した石柱が道を塞いでいる。"
+msgstr "从地面突出的石柱挡住了道路。"

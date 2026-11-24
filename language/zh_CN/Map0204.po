@@ -1,0 +1,52 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 20, Page 1, Line 7, Pos (29,0)
+msgid ""
+"\\S[3]…………。\n"
+"\\S[3]急激に眠気が襲ってきた……。"
+msgstr "\\S[3]…………。\\S[3]强烈的睡意突然袭来……。"
+
+#. ID 21, Page 2, Line 4, Pos (11,12)
+msgid ""
+"\\S[3]耐えられない……。\n"
+"\\S[3]敵もいないようだし、\n"
+"\\S[3]ここで寝てしまおう……。"
+msgstr ""
+"\\S[3]忍不住了……。\\S[3]看起来也没有敌人，\n"
+"\\S[3]就在这里睡吧……。"
+
+#. ID 21, Page 2, Line 18, Pos (11,12)
+msgid ""
+"遠くで僅かに音がした。\n"
+"入り口の辺りだろうか？"
+msgstr "远处微微传来了声音。是入口附近吗？"
+
+#. ID 22, Page 2, Line 62, Pos (17,11)
+#. ID 22, Page 3, Line 62, Pos (17,11)
+#. ID 22, Page 4, Line 66, Pos (17,11)
+#. ID 22, Page 5, Line 70, Pos (17,11)
+msgid "まあ、\\v[1]Gですわ。"
+msgstr "哎呀，是\\v[1]G呢。"
+
+#. ID 22, Page 2, Line 69, Pos (17,11)
+#. ID 22, Page 3, Line 69, Pos (17,11)
+#. ID 22, Page 4, Line 73, Pos (17,11)
+#. ID 22, Page 5, Line 77, Pos (17,11)
+msgid "\\v[1]Gを手に入れた。"
+msgstr "获得了\\v[1]G。"
+
+#. ID 23, Page 3, Line 3, Pos (13,21)
+msgid "\\S[3]このまま出るのは危険だ。"
+msgstr "\\S[3]就这样出去很危险。"

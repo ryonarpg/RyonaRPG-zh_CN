@@ -1,0 +1,58 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 2, Line 12, Pos (34,2)
+msgid ""
+"\n"
+"閉じ込められた！"
+msgstr "被关起来了！"
+
+#. ID 35, Page 2, Line 3, Pos (10,0)
+#. ID 36, Page 2, Line 3, Pos (11,0)
+msgid "遺品を手に入れた。"
+msgstr "获得了遗物。"
+
+#. ID 42, Page 2, Line 9, Pos (23,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"地面の下から蜘蛛のような声が聞こえる\n"
+"ここから壁の穴に入れそうだ…"
+msgstr ""
+"地面下传来类似蜘蛛的声音，\n"
+"看来可以从这里钻进墙上的洞……"
+
+#. ID 42, Page 2, Line 11, Pos (23,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"入る\n"
+"入らない"
+msgstr ""
+"进去\n"
+"不进去"
+
+#. ID 42, Page 2, Line 17, Pos (23,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"なんだか危険な雰囲気がする\n"
+"本当に入る？"
+msgstr "总觉得有种危险的气氛。真的要进去吗？"
+
+#. ID 42, Page 2, Line 19, Pos (23,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"それでも入る\n"
+"やっぱり入らない"
+msgstr ""
+"即便如此也要进去\n"
+"还是不要进去"

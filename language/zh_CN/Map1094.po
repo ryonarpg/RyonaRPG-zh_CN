@@ -1,0 +1,45 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 58, Page 2, Line 3, Pos (10,11)
+msgid ""
+"氷柱に近づくと、その中に美しい女性の姿が\n"
+"あることに気づいた。"
+msgstr "靠近冰柱后，发现其中有一位美丽女性的身影。"
+
+#. ID 58, Page 2, Line 5, Pos (10,11)
+msgid ""
+"着ている服の設えは防具のものではなく、\n"
+"見たところ冒険者ではないようだ。"
+msgstr ""
+"她穿着的服装样式并不是防具，\n"
+"看起来似乎不是冒险者。"
+
+#. ID 59, Page 2, Line 3, Pos (10,19)
+msgid "可愛らしい白猫が氷漬けにされている。"
+msgstr "一只可爱的白猫被冻在冰里。"
+
+#. ID 61, Page 2, Line 3, Pos (14,3)
+msgid ""
+"自分の身長の倍はあろうかという大きな氷の中に\n"
+"小さな少女が閉じ込められている。"
+msgstr ""
+"一个少女被关在看起来足有自己身高两倍大的巨大冰\n"
+"块中。"
+
+#. ID 61, Page 2, Line 5, Pos (14,3)
+msgid ""
+"この氷像を作った生き物が\n"
+"連れ去ってきたのだろうか・・・"
+msgstr "制作这座冰像的生物把她带过来的吗・・・"

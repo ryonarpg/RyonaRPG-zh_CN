@@ -1,0 +1,38 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 5, Line 3, Pos (9,6)
+msgid "「ヤラレター！」"
+msgstr "「完蛋了—！」"
+
+#. ID 13, Page 2, Line 3, Pos (11,0)
+msgid ""
+"「コノホノオガモクテキカ？\n"
+"オレハトロールノナカデモギコウハ\n"
+"オレニカテルカナ？ブンシンノジュツ！」"
+msgstr ""
+"「这火焰就是目标吗？我即使在巨魔中也是很强的，\n"
+"你觉得能赢过我吗？分身之术！」"
+
+#. ID 53, Page 2, Line 3, Pos (14,6)
+msgid ""
+"何もないところで燃え盛っている炎がある\n"
+"どうやらこれが消えない炎のようだ"
+msgstr ""
+"在空无一物的地方有一团熊熊燃烧的火焰，\n"
+"看来这就是不灭之火。"
+
+#. ID 53, Page 2, Line 9, Pos (14,6)
+msgid "消えない炎を手に入れた"
+msgstr "获得了不灭之火。"

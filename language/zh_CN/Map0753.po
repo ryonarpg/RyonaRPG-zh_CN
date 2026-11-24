@@ -1,0 +1,289 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (1,4)
+#. Contains choice at line 2 (3 options)
+msgid "[国境の霊峰]に入りますか？"
+msgstr "要进入[国境灵峰]吗？"
+
+#. ID 3, Page 1, Line 4, Pos (1,4)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"中央大陸へ\n"
+"山脈へ\n"
+"いいえ"
+msgstr ""
+"前往中央大陆\n"
+"前往山脉\n"
+"否"
+
+#. ID 4, Page 1, Line 3, Pos (2,7)
+msgid ""
+"[ミュロンド死霊館]\n"
+"危険度　★★★★"
+msgstr "[米隆德死灵馆]危险度　★★★★"
+
+#. ID 4, Page 1, Line 5, Pos (2,7)
+#. Contains choice at line 2 (2 options)
+msgid "[ミュロンド死霊館]に入りますか？"
+msgstr "要进入[米隆德死灵馆]吗？"
+
+#. ID 4, Page 1, Line 6, Pos (2,7)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 4, Pos (1,9)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 6, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 4, Pos (19,3)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 4, Pos (15,0)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 9, Pos (15,0)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 6, Pos (5,10)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 4, Pos (13,2)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 6, Pos (19,2)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 6, Pos (3,13)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 1, Line 6, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 2, Line 6, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 4, Pos (1,6)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 6, Pos (10,12)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 6, Pos (17,13)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 6, Pos (6,1)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 6, Pos (11,1)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 19, Pos (11,1)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 2, Line 4, Pos (11,1)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 6, Pos (16,7)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 1, Line 6, Pos (7,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 6, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 6, Pos (12,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 5, Page 1, Line 3, Pos (1,9)
+#. Contains choice at line 2 (2 options)
+msgid "[潜む町ヒドゥン]に入りますか？"
+msgstr "要进入[潜伏之镇希登]吗？"
+
+#. ID 6, Page 1, Line 3, Pos (3,5)
+msgid ""
+"[女の子館]\n"
+"危険度　★★"
+msgstr "[女孩馆]危险度　★★"
+
+#. ID 6, Page 1, Line 5, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+msgid "[女の子館]に入りますか？"
+msgstr "要进入[女孩馆]吗？"
+
+#. ID 7, Page 1, Line 3, Pos (19,3)
+#. Contains choice at line 2 (2 options)
+msgid "[シュバルツメドヘン]に入りますか？"
+msgstr "要进入[施瓦茨梅登]吗？"
+
+#. ID 8, Page 1, Line 3, Pos (15,0)
+#. Contains choice at line 2 (2 options)
+msgid "[ライオネル教会城]に入りますか？"
+msgstr "要进入[莱昂内尔教会城]吗？"
+
+#. ID 8, Page 1, Line 7, Pos (15,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"グラドス撃破中につき、街には入れません。\n"
+"ダンジョン[ゴーグ機構基地]に入りますか？"
+msgstr ""
+"由于格拉多斯击破中，无法进入城镇。\n"
+"要进入地下城[戈格机构基地]吗？"
+
+#. ID 9, Page 1, Line 3, Pos (5,10)
+msgid ""
+"[人喰い魂の洞窟]\n"
+"危険度　★★"
+msgstr "[食人魂洞窟]危险度　★★"
+
+#. ID 9, Page 1, Line 5, Pos (5,10)
+#. Contains choice at line 2 (2 options)
+msgid "[人喰い魂の洞窟]に入りますか？"
+msgstr "要进入[食人魂洞窟]吗？"
+
+#. ID 10, Page 1, Line 3, Pos (13,2)
+#. Contains choice at line 2 (2 options)
+msgid "[エミリス湖]に入りますか？"
+msgstr "要进入[艾米利斯湖]吗？"
+
+#. ID 11, Page 1, Line 3, Pos (19,2)
+msgid ""
+"[郊外の宝物庫]\n"
+"危険度　★"
+msgstr "[郊外宝物库]危险度　★"
+
+#. ID 11, Page 1, Line 5, Pos (19,2)
+#. Contains choice at line 2 (2 options)
+msgid "[郊外の宝物庫]に入りますか？"
+msgstr "要进入[郊外宝物库]吗？"
+
+#. ID 12, Page 1, Line 3, Pos (3,13)
+msgid ""
+"[ドクノーの滝・ドクノー湿原]\n"
+"危険度　★★"
+msgstr "[多库诺瀑布·多库诺湿原]危险度　★★"
+
+#. ID 12, Page 1, Line 5, Pos (3,13)
+#. Contains choice at line 2 (2 options)
+msgid "[ドクノーの滝・ドクノー湿原]に入りますか？"
+msgstr "要进入[多库诺瀑布·多库诺湿原]吗？"
+
+#. ID 13, Page 1, Line 3, Pos (9,7)
+msgid ""
+"野盗の森\n"
+"危険度　★★"
+msgstr "土匪之森危险度　★★"
+
+#. ID 13, Page 1, Line 5, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "野盗の森に入りますか？"
+msgstr "要进入土匪之森吗？"
+
+#. ID 13, Page 2, Line 3, Pos (9,7)
+msgid ""
+"悪魔の森\n"
+"危険度　★★★"
+msgstr "恶魔之森危险度　★★★"
+
+#. ID 13, Page 2, Line 5, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "悪魔の森に入りますか？"
+msgstr "要进入恶魔之森吗？"
+
+#. ID 14, Page 1, Line 3, Pos (1,6)
+#. Contains choice at line 2 (2 options)
+msgid "中央大陸に戻りますか？"
+msgstr "要返回中央大陆吗？"
+
+#. ID 15, Page 1, Line 3, Pos (10,12)
+msgid ""
+"古代の図書館\n"
+"危険度　★★"
+msgstr "古代图书馆危险度　★★"
+
+#. ID 15, Page 1, Line 5, Pos (10,12)
+#. Contains choice at line 2 (2 options)
+msgid "古代の図書館に入りますか？"
+msgstr "要进入古代图书馆吗？"
+
+#. ID 16, Page 1, Line 3, Pos (17,13)
+msgid ""
+"ピラミッド\n"
+"危険度　★★★☆"
+msgstr "金字塔危险度　★★★☆"
+
+#. ID 16, Page 1, Line 5, Pos (17,13)
+#. Contains choice at line 2 (2 options)
+msgid "ピラミッドに入りますか？"
+msgstr "要进入金字塔吗？"
+
+#. ID 17, Page 1, Line 3, Pos (6,1)
+msgid ""
+"地下迷宮\n"
+"危険度　★★★"
+msgstr "地下迷宫危险度　★★★"
+
+#. ID 17, Page 1, Line 5, Pos (6,1)
+#. Contains choice at line 2 (2 options)
+msgid "地下迷宮に入りますか？"
+msgstr "要进入地下迷宫吗？"
+
+#. ID 18, Page 1, Line 4, Pos (11,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[？？？]に入りますか？\n"
+"（\\c[11]どうにも危険な気配がする………\\c[0]）"
+msgstr ""
+"要进入[？？？]吗？（\\c[11]总觉得有危险的气息……\n"
+"…\\c[0]）"
+
+#. ID 18, Page 1, Line 18, Pos (11,1)
+#. Contains choice at line 2 (2 options)
+msgid "[フェリスの敷地]に入りますか？"
+msgstr "要进入[费利斯用地]吗？"
+
+#. ID 18, Page 2, Line 3, Pos (11,1)
+#. Contains choice at line 2 (2 options)
+msgid "[移民の町]に入りますか？"
+msgstr "要进入[移民之镇]吗？"
+
+#. ID 19, Page 1, Line 3, Pos (16,7)
+msgid ""
+"[竜決洞]\n"
+"危険度　★★★★"
+msgstr "[龙决洞]危险度　★★★★"
+
+#. ID 19, Page 1, Line 5, Pos (16,7)
+#. Contains choice at line 2 (2 options)
+msgid "[竜決洞]に入りますか？"
+msgstr "要进入[龙决洞]吗？"
+
+#. ID 20, Page 1, Line 3, Pos (7,5)
+msgid ""
+"[あやかし山道]\n"
+"危険度　★★★"
+msgstr "[妖怪山道]危险度　★★★"
+
+#. ID 20, Page 1, Line 5, Pos (7,5)
+#. Contains choice at line 2 (2 options)
+msgid "[あやかし山道]に入りますか？"
+msgstr "要进入[妖怪山道]吗？"
+
+#. ID 21, Page 1, Line 3, Pos (13,5)
+msgid ""
+"[ローメイの迷宮]\n"
+"危険度　★★★"
+msgstr "[罗梅迷宫]危险度　★★★"
+
+#. ID 21, Page 1, Line 5, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+msgid "[ローメイの迷宮]に入りますか？"
+msgstr "要进入[罗梅迷宫]吗？"
+
+#. ID 22, Page 1, Line 3, Pos (12,8)
+msgid ""
+"[古代文明の堰塔]\n"
+"危険度　★☆"
+msgstr "[古代文明的堰塔]危险度　★☆"
+
+#. ID 22, Page 1, Line 5, Pos (12,8)
+#. Contains choice at line 2 (2 options)
+msgid "[古代文明の堰塔]に入りますか？"
+msgstr "要进入[古代文明的堰塔]吗？"

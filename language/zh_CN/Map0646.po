@@ -1,0 +1,84 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 1, Pos (31,18)
+#. ID 3, Page 1, Line 1, Pos (23,13)
+#. ID 4, Page 1, Line 1, Pos (23,8)
+#. ID 5, Page 1, Line 1, Pos (15,6)
+#. ID 6, Page 1, Line 1, Pos (9,2)
+#. ID 7, Page 1, Line 1, Pos (19,11)
+#. ID 8, Page 1, Line 1, Pos (25,17)
+#. ID 9, Page 1, Line 1, Pos (34,23)
+#. ID 10, Page 1, Line 1, Pos (40,29)
+#. ID 11, Page 1, Line 1, Pos (40,26)
+#. ID 12, Page 1, Line 1, Pos (29,8)
+#. ID 13, Page 1, Line 1, Pos (1,13)
+#. ID 14, Page 1, Line 1, Pos (11,14)
+#. ID 15, Page 1, Line 1, Pos (19,14)
+#. ID 16, Page 1, Line 1, Pos (24,14)
+#. ID 17, Page 1, Line 1, Pos (28,15)
+#. ID 18, Page 1, Line 1, Pos (35,15)
+#. ID 19, Page 1, Line 1, Pos (40,14)
+#. ID 20, Page 1, Line 1, Pos (40,12)
+#. ID 21, Page 1, Line 1, Pos (46,17)
+#. ID 22, Page 1, Line 1, Pos (41,22)
+#. ID 23, Page 1, Line 1, Pos (47,23)
+#. ID 24, Page 1, Line 1, Pos (48,15)
+#. ID 25, Page 1, Line 1, Pos (10,19)
+#. ID 26, Page 1, Line 1, Pos (18,22)
+#. ID 27, Page 1, Line 1, Pos (16,17)
+#. ID 28, Page 1, Line 1, Pos (21,20)
+#. ID 29, Page 1, Line 1, Pos (30,19)
+#. ID 30, Page 1, Line 1, Pos (33,15)
+#. ID 31, Page 1, Line 1, Pos (33,11)
+#. ID 32, Page 1, Line 1, Pos (41,9)
+#. ID 33, Page 1, Line 1, Pos (24,26)
+#. ID 34, Page 1, Line 1, Pos (46,11)
+#. ID 35, Page 1, Line 1, Pos (28,22)
+#. ID 36, Page 1, Line 1, Pos (42,23)
+#. ID 37, Page 1, Line 1, Pos (9,11)
+#. ID 38, Page 1, Line 1, Pos (13,15)
+#. ID 39, Page 1, Line 1, Pos (22,17)
+#. ID 40, Page 1, Line 1, Pos (28,13)
+#. ID 41, Page 1, Line 1, Pos (37,13)
+#. ID 42, Page 1, Line 1, Pos (43,13)
+#. ID 43, Page 1, Line 1, Pos (37,22)
+#. ID 44, Page 1, Line 1, Pos (27,10)
+#. ID 45, Page 1, Line 1, Pos (8,7)
+#. ID 46, Page 1, Line 1, Pos (24,23)
+#. ID 47, Page 1, Line 1, Pos (33,21)
+#. ID 48, Page 1, Line 1, Pos (34,6)
+#. ID 49, Page 1, Line 1, Pos (32,3)
+#. ID 50, Page 1, Line 1, Pos (20,17)
+#. ID 51, Page 1, Line 1, Pos (27,17)
+#. ID 52, Page 1, Line 1, Pos (32,18)
+#. ID 53, Page 1, Line 1, Pos (37,18)
+#. ID 54, Page 1, Line 1, Pos (39,18)
+#. ID 55, Page 1, Line 1, Pos (43,19)
+#. ID 56, Page 1, Line 1, Pos (24,3)
+#. ID 57, Page 1, Line 1, Pos (25,6)
+#. ID 58, Page 1, Line 1, Pos (27,20)
+#. ID 59, Page 1, Line 1, Pos (35,26)
+#. ID 60, Page 1, Line 1, Pos (35,10)
+#. ID 61, Page 1, Line 1, Pos (21,5)
+#. ID 62, Page 1, Line 1, Pos (28,11)
+#. ID 63, Page 1, Line 1, Pos (25,1)
+#. ID 64, Page 1, Line 1, Pos (24,0)
+#. ID 65, Page 1, Line 1, Pos (22,0)
+#. ID 66, Page 1, Line 1, Pos (0,8)
+#. ID 67, Page 1, Line 1, Pos (3,8)
+#. ID 68, Page 1, Line 1, Pos (6,9)
+#. ID 69, Page 1, Line 1, Pos (6,7)
+msgid "逃がさないわ。あなたも奴隷になりましょう。"
+msgstr "不会让你逃掉的。你也来当奴隶吧。"

@@ -1,0 +1,39 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 2, Line 18, Pos (13,2)
+#. ID 3, Page 2, Line 18, Pos (9,24)
+#. ID 4, Page 2, Line 18, Pos (16,18)
+#. ID 5, Page 2, Line 18, Pos (24,11)
+#. ID 6, Page 2, Line 18, Pos (1,15)
+msgid "脳みそを吸い取られた！"
+msgstr "脑浆被吸走了！"
+
+#. ID 22, Page 2, Line 10, Pos (26,0)
+msgid "……なにかを吸うような音が聞こえる……？"
+msgstr "……能听到像是吸吮什么东西的声音……？"
+
+#. ID 34, Page 2, Line 67, Pos (29,0)
+#. ID 36, Page 4, Line 21, Pos (28,0)
+#. ID 36, Page 4, Line 81, Pos (28,0)
+msgid "どこも向いてないだと　バグorエラー"
+msgstr "说什么没有朝向任何方向　Bug或错误"
+
+#. ID 37, Page 2, Line 3, Pos (11,12)
+msgid "うつろな目をした女性が倒れている"
+msgstr "一个眼神空洞的女性倒在地上"
+
+#. ID 39, Page 2, Line 8, Pos (6,16)
+msgid "！！！！！！"
+msgstr "！！！！！！"

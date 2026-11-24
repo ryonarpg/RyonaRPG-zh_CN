@@ -1,0 +1,69 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 24, Page 2, Line 4, Pos (9,4)
+msgid ""
+"名前：魔界兵・青\n"
+"種族：人男"
+msgstr "名字：魔界兵·蓝 种族：人男"
+
+#. ID 24, Page 2, Line 6, Pos (9,4)
+msgid ""
+"魔界の兵士\n"
+"水の化身"
+msgstr "魔界士兵 水之化身"
+
+#. ID 24, Page 2, Line 8, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$3000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "花费\\$3000G可以听取攻略情报。要听吗？"
+
+#. ID 24, Page 2, Line 10, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 24, Page 2, Line 16, Pos (9,4)
+msgid ""
+"魔界の兵士\\!\n"
+"水の冷たさから作られたモンスター\\!\n"
+"その性質故に雷属性に弱く、\n"
+"生命力が強い"
+msgstr ""
+"魔界士兵\\!由水的寒冷制造出的怪物\\!因这种性质而\n"
+"惧怕雷属性，但生命力很强"
+
+#. ID 24, Page 2, Line 20, Pos (9,4)
+msgid "斧を投げて攻撃してくることがある"
+msgstr "有时会投掷斧头发动攻击"
+
+#. ID 24, Page 2, Line 21, Pos (9,4)
+msgid ""
+"強いリーダーシップを持っており、\n"
+"部下から慕われている"
+msgstr "拥有很强的领导力，受到部下的爱戴"
+
+#. ID 24, Page 2, Line 29, Pos (9,4)
+msgid "ごく稀に\\C[2]\\N[101]\\C[0]を落とす"
+msgstr "极罕见地掉落\\C[2]\\N[101]\\C[0]"
+
+#. ID 27, Page 2, Line 3, Pos (2,10)
+msgid "ソウルポット４を手に入れた。"
+msgstr "获得了灵魂锅4。"

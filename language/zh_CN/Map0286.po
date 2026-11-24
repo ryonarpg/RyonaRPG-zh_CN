@@ -1,0 +1,1399 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 1, Pos (3,12)
+msgid ""
+"\n"
+"\\>通常オプションスイッチ"
+msgstr "\\>普通选项开关"
+
+#. ID 3, Page 1, Line 3, Pos (3,12)
+msgid ""
+"\\>ふつうのオプションスイッチ。\n"
+"\\>乙女の秘密日誌や特殊メニューからも設定可能だが\n"
+"\\>ここでは機能の説明も聞ける。"
+msgstr ""
+"\\>普通的选项开关。\n"
+"\\>虽然也可以从少女的秘密日记或特殊菜单中进行设\n"
+"置\\>但在这里也能听取功能说明。"
+
+#. ID 4, Page 1, Line 1, Pos (9,12)
+msgid ""
+"\n"
+"\\>特殊オプションスイッチ"
+msgstr "\\>特殊选项开关"
+
+#. ID 4, Page 1, Line 3, Pos (9,12)
+msgid ""
+"\\>日誌などで変更できないオプション。\n"
+"\\>特殊メニューから変更できるものも。"
+msgstr ""
+"\\>无法通过日记等更改的选项。\n"
+"\\>也有可以从特殊菜单更改的。"
+
+#. ID 5, Page 1, Line 1, Pos (15,12)
+msgid ""
+"\n"
+"\\>デバッグ用スイッチ"
+msgstr "\\>调试用开关"
+
+#. ID 5, Page 1, Line 3, Pos (15,12)
+msgid ""
+"\\>デバッグ用のスイッチ。\n"
+"\\>でばっぐつーるを使用していると設定可能になる。\n"
+"\\>現在は不要になったスイッチなどもここに。"
+msgstr ""
+"\\>调试用开关。\\>使用调试工具时便可进行设置。\n"
+"\\>现在不再需要的开关等也放在这里。"
+
+#. ID 5, Page 1, Line 7, Pos (15,12)
+msgid ""
+"\\>\\c[4]デバッグ用のスイッチリセット、テスト、などは\n"
+"\\>街中に散らかさずにこちらに設置するようお願いします\n"
+"\\>また、自分用のテストにはF9キーをご利用下さい。"
+msgstr ""
+"\\>\\c[4]调试用的开关重置、\n"
+"测试等\\>请不要在城镇中乱放，\n"
+"请设置在这里\\>另外，自己用的测试请使用F9键。"
+
+#. ID 5, Page 1, Line 10, Pos (15,12)
+msgid ""
+"\\>スペースが足りなくなったらマップを横に伸ばして下さ\n"
+"\\>　　　　　　　　　　　　　　　　　　　　　　　　い"
+msgstr ""
+"\\>如果空间不够了请将地图横向扩展\\>　　　　　　\n"
+"　　　　　　　　　　　　　　　　　　吧"
+
+#. ID 6, Page 1, Line 1, Pos (13,10)
+msgid ""
+"テストプレイ用に勝手に(←重要)設置したものです\n"
+"メルベル関係をリセットしますか？\n"
+"※いろいろ未対応です"
+msgstr ""
+"为了测试游玩擅自(←重要)设置的东西要重置梅尔贝\n"
+"尔相关吗？※各种未对应"
+
+#. ID 6, Page 1, Line 4, Pos (13,10)
+#. Choice (2 options)
+#. ID 7, Page 1, Line 6, Pos (15,10)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 14, Pos (15,10)
+#. Choice (2 options, embedded in a message)
+#. ID 25, Page 1, Line 9, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 1, Line 10, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 8, Pos (7,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 6, Page 1, Line 19, Pos (13,10)
+msgid ""
+"\n"
+"動作が変になったら……すみません"
+msgstr "如果运行变得奇怪了……对不起"
+
+#. ID 7, Page 1, Line 3, Pos (15,10)
+msgid ""
+"\n"
+"　　　　　　　　　　女主人進行度:\\V[1181]"
+msgstr "　　　　　　　　　　女主人进度:\\V[1181]"
+
+#. ID 7, Page 1, Line 5, Pos (15,10)
+#. Contains choice at line 2 (2 options)
+msgid "最初からやり直す？"
+msgstr "从头重新开始？"
+
+#. ID 7, Page 1, Line 13, Pos (15,10)
+#. Contains choice at line 2 (2 options)
+msgid "進行度を変える？"
+msgstr "更改进度？"
+
+#. ID 8, Page 1, Line 4, Pos (7,10)
+#. ChangeHeroName (Actor 102)
+#. ID 15, Page 1, Line 4, Pos (2,3)
+#. ChangeHeroName (Actor 101)
+#. ID 15, Page 1, Line 11, Pos (2,3)
+#. ChangeHeroName (Actor 102)
+#. ID 15, Page 1, Line 18, Pos (2,3)
+#. ChangeHeroName (Actor 103)
+#. ID 16, Page 1, Line 4, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+#. ID 17, Page 1, Line 4, Pos (4,3)
+#. ChangeHeroName (Actor 101)
+#. ID 17, Page 1, Line 11, Pos (4,3)
+#. ChangeHeroName (Actor 102)
+#. ID 17, Page 1, Line 21, Pos (4,3)
+#. ChangeHeroName (Actor 103)
+#. ID 18, Page 1, Line 4, Pos (1,5)
+#. ChangeHeroName (Actor 101)
+#. ID 18, Page 1, Line 34, Pos (1,5)
+#. ChangeHeroName (Actor 102)
+#. ID 18, Page 1, Line 38, Pos (1,5)
+#. ChangeHeroName (Actor 103)
+#. ID 18, Page 1, Line 42, Pos (1,5)
+#. ChangeHeroName (Actor 104)
+#. ID 19, Page 1, Line 4, Pos (3,5)
+#. ChangeHeroName (Actor 101)
+#. ID 20, Page 2, Line 7, Pos (4,5)
+#. ChangeHeroName (Actor 101)
+#. ID 20, Page 2, Line 14, Pos (4,5)
+#. ChangeHeroName (Actor 102)
+#. ID 21, Page 1, Line 4, Pos (1,7)
+#. ChangeHeroName (Actor 101)
+#. ID 22, Page 1, Line 18, Pos (2,7)
+#. ChangeHeroName (Actor 103)
+#. ID 23, Page 1, Line 7, Pos (3,7)
+#. ChangeHeroName (Actor 101)
+#. ID 23, Page 1, Line 14, Pos (3,7)
+#. ChangeHeroName (Actor 102)
+#. ID 26, Page 1, Line 4, Pos (7,8)
+#. ChangeHeroName (Actor 101)
+#. ID 27, Page 1, Line 4, Pos (13,6)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ON"
+msgstr "开"
+
+#. ID 8, Page 1, Line 7, Pos (7,10)
+#. ChangeHeroName (Actor 102)
+#. ID 15, Page 1, Line 7, Pos (2,3)
+#. ChangeHeroName (Actor 101)
+#. ID 15, Page 1, Line 14, Pos (2,3)
+#. ChangeHeroName (Actor 102)
+#. ID 15, Page 1, Line 21, Pos (2,3)
+#. ChangeHeroName (Actor 103)
+#. ID 17, Page 1, Line 7, Pos (4,3)
+#. ChangeHeroName (Actor 101)
+#. ID 17, Page 1, Line 14, Pos (4,3)
+#. ChangeHeroName (Actor 102)
+#. ID 17, Page 1, Line 18, Pos (4,3)
+#. ChangeHeroName (Actor 103)
+#. ID 18, Page 1, Line 7, Pos (1,5)
+#. ChangeHeroName (Actor 101)
+#. ID 18, Page 1, Line 30, Pos (1,5)
+#. ChangeHeroName (Actor 102)
+#. ID 18, Page 1, Line 31, Pos (1,5)
+#. ChangeHeroName (Actor 103)
+#. ID 18, Page 1, Line 32, Pos (1,5)
+#. ChangeHeroName (Actor 104)
+#. ID 19, Page 1, Line 7, Pos (3,5)
+#. ChangeHeroName (Actor 101)
+#. ID 20, Page 2, Line 4, Pos (4,5)
+#. ChangeHeroName (Actor 101)
+#. ID 20, Page 2, Line 11, Pos (4,5)
+#. ChangeHeroName (Actor 102)
+#. ID 21, Page 1, Line 7, Pos (1,7)
+#. ChangeHeroName (Actor 101)
+#. ID 22, Page 1, Line 21, Pos (2,7)
+#. ChangeHeroName (Actor 103)
+#. ID 23, Page 1, Line 4, Pos (3,7)
+#. ChangeHeroName (Actor 101)
+#. ID 23, Page 1, Line 11, Pos (3,7)
+#. ChangeHeroName (Actor 102)
+#. ID 26, Page 1, Line 7, Pos (7,8)
+#. ChangeHeroName (Actor 101)
+#. ID 27, Page 1, Line 7, Pos (13,6)
+#. ChangeHeroName (Actor 101)
+#. ID 33, Page 1, Line 4, Pos (4,7)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "OFF"
+msgstr "关"
+
+#. ID 8, Page 1, Line 12, Pos (7,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>バスト上限スイッチ（魔乳時を除く）　現在\\n[102]\n"
+"\\>バスト \\v[1201] cmより大きくならなくします"
+msgstr ""
+"\\>胸部上限开关（魔乳时除外）\n"
+"　当前\\n[102]\\>胸部不会变得大于 \\v[1201] cm"
+
+#. ID 8, Page 1, Line 14, Pos (7,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>上限ON\n"
+"\\>上限OFF"
+msgstr ""
+"\\>上限ON\n"
+"\\>上限OFF"
+
+#. ID 9, Page 1, Line 3, Pos (17,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>テスト用のマップMAP0035へ移動しますか？\n"
+"\\>（でばっぐつーる以外で戻れません）"
+msgstr ""
+"\\>要移动到测试用地图MAP0035吗？\\>\n"
+"（除调试工具外无法返回）"
+
+#. ID 9, Page 1, Line 5, Pos (17,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"確認用MAP\n"
+"キャンセル"
+msgstr ""
+"确认用MAP\n"
+"取消"
+
+#. ID 10, Page 1, Line 4, Pos (13,8)
+#. Contains choice at line 2 (2 options)
+msgid "妊娠してみる？"
+msgstr "试着怀孕？"
+
+#. ID 10, Page 1, Line 5, Pos (13,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"産みます\n"
+"むしろ無くして下さい"
+msgstr ""
+"生下来\n"
+"倒不如请去掉"
+
+#. ID 10, Page 1, Line 9, Pos (13,8)
+#. Choice (4 options)
+msgid ""
+"スライム\n"
+"蟲\n"
+"人\n"
+"ランドレイ"
+msgstr ""
+"史莱姆\n"
+"虫\n"
+"人\n"
+"兰德雷"
+
+#. ID 10, Page 1, Line 12, Pos (13,8)
+#. Choice (2 options)
+#. ID 10, Page 1, Line 23, Pos (13,8)
+#. Choice (2 options)
+msgid ""
+"特盛り\n"
+"ちょっと"
+msgstr ""
+"特大份\n"
+"一点点"
+
+#. ID 11, Page 1, Line 3, Pos (9,10)
+msgid ""
+"\\>バストアップが複数用意されているキャラの場合\n"
+"\\>切り替えることができます。"
+msgstr ""
+"\\>对于准备了多种胸部放大版本的角色\\>可以进行切\n"
+"换。"
+
+#. ID 11, Page 1, Line 62, Pos (9,10)
+#. Choice (2 options)
+#. ID 11, Page 1, Line 120, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バストアップA\n"
+"バストアップB"
+msgstr ""
+"胸部放大A\n"
+"胸部放大B"
+
+#. ID 11, Page 1, Line 65, Pos (9,10)
+#. Choice (2 options)
+msgid ""
+"●有り\n"
+"●無し"
+msgstr ""
+"●有\n"
+"●无"
+
+#. ID 11, Page 1, Line 79, Pos (9,10)
+#. Choice (2 options)
+msgid ""
+"目隠ししない\n"
+"目隠しする"
+msgstr ""
+"不遮眼\n"
+"遮眼"
+
+#. ID 11, Page 1, Line 98, Pos (9,10)
+#. Choice (2 options)
+msgid ""
+"武器表示ON\n"
+"武器表示OFF"
+msgstr ""
+"武器显示ON\n"
+"武器显示OFF"
+
+#. ID 11, Page 1, Line 117, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[0]は未対応"
+msgstr "\\N[0]未对应"
+
+#. ID 12, Page 1, Line 3, Pos (11,10)
+msgid ""
+"\\>種族転生（ロボット化や怪物化など）をした際に、\n"
+"\\>汎用歩行グラフィックを使用するかどうかの設定"
+msgstr ""
+"\\>进行种族转生（机器人化或怪物化等）时，\n"
+"\\>是否使用通用步行图像的设置"
+
+#. ID 12, Page 1, Line 6, Pos (11,10)
+msgid ""
+"\\>現在:A\n"
+"\\>専用歩行グラフィックが無い場合に汎用を使用"
+msgstr "\\>当前:A\\>没有专用步行图像时使用通用"
+
+#. ID 12, Page 1, Line 11, Pos (11,10)
+msgid ""
+"\\>現在:B\n"
+"\\>常に汎用グラフィックを使用"
+msgstr "\\>当前:B\\>始终使用通用图像"
+
+#. ID 12, Page 1, Line 16, Pos (11,10)
+msgid ""
+"\\>現在:C\n"
+"\\>汎用グラフィックを使用しない"
+msgstr "\\>当前:C\\>不使用通用图像"
+
+#. ID 12, Page 1, Line 20, Pos (11,10)
+#. Choice (3 options)
+msgid ""
+"\\>A 専用歩行グラが無い場合に汎用を使用\n"
+"\\>B 常に汎用を使用\n"
+"\\>C 汎用を使用しない"
+msgstr ""
+"\\>A 没有专用步行图像时使用通用\n"
+"\\>B 始终使用通用\n"
+"\\>C 不使用通用"
+
+#. ID 13, Page 1, Line 3, Pos (15,8)
+msgid "催眠テスト"
+msgstr "催眠测试"
+
+#. ID 13, Page 1, Line 4, Pos (15,8)
+#. Choice (4 options)
+msgid ""
+"おもらし\n"
+"絶頂\n"
+"無抵抗\n"
+"⇒"
+msgstr ""
+"尿裤子\n"
+"绝顶\n"
+"无抵抗\n"
+"⇒"
+
+#. ID 13, Page 1, Line 6, Pos (15,8)
+#. Choice (2 options)
+#. ID 13, Page 1, Line 20, Pos (15,8)
+#. Choice (2 options)
+#. ID 13, Page 1, Line 34, Pos (15,8)
+#. Choice (2 options)
+#. ID 13, Page 1, Line 50, Pos (15,8)
+#. Choice (2 options)
+#. ID 13, Page 1, Line 64, Pos (15,8)
+#. Choice (2 options)
+#. ID 13, Page 1, Line 78, Pos (15,8)
+#. Choice (2 options)
+msgid ""
+"on\n"
+"off"
+msgstr ""
+"on\n"
+"off"
+
+#. ID 13, Page 1, Line 48, Pos (15,8)
+#. Choice (4 options)
+msgid ""
+"露出\n"
+"性処理\n"
+"自慰\n"
+"⇒"
+msgstr ""
+"露出\n"
+"性处理\n"
+"自慰\n"
+"⇒"
+
+#. ID 13, Page 1, Line 92, Pos (15,8)
+#. Choice (3 options)
+msgid ""
+"忘却（未実装）+生殖\n"
+"（空きスロット）\n"
+"（空きスロット）"
+msgstr ""
+"忘却（未实装）+生殖\n"
+"（空槽位）\n"
+"（空槽位）"
+
+#. ID 13, Page 1, Line 94, Pos (15,8)
+#. Choice (2 options)
+msgid ""
+"\\>ONにする\n"
+"OFFにする"
+msgstr ""
+"\\>设为ON\n"
+"设为OFF"
+
+#. ID 13, Page 1, Line 96, Pos (15,8)
+msgid ""
+"\\>SW1141生殖洗脳\n"
+"\\>SW1143忘却催眠\n"
+"\\>がONになりました"
+msgstr "\\>SW1141生殖洗脑\\>SW1143忘却催眠\\>已变为ON"
+
+#. ID 13, Page 1, Line 106, Pos (15,8)
+msgid ""
+"\\>SW1141生殖洗脳\n"
+"\\>SW1143忘却催眠\n"
+"\\>がOFFになりました"
+msgstr "\\>SW1141生殖洗脑\\>SW1143忘却催眠\\>已变为OFF"
+
+#. ID 14, Page 1, Line 4, Pos (1,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "V-MAX"
+msgstr "V-MAX"
+
+#. ID 14, Page 1, Line 8, Pos (1,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "マニア"
+msgstr "狂热"
+
+#. ID 14, Page 1, Line 11, Pos (1,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "通常"
+msgstr "通常"
+
+#. ID 14, Page 1, Line 16, Pos (1,3)
+#. Contains choice at line 2 (3 options)
+msgid "\\>現在の難易度　\\c[4]\\N[101]モード\\c[0]"
+msgstr "\\>当前难度　\\c[4]\\N[101]模式\\c[0]"
+
+#. ID 14, Page 1, Line 17, Pos (1,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>通常モード　　(ふつう)\n"
+"\\>V-MAXモード 　(やさしい)\n"
+"\\>マニアモード　(むずかしい)"
+msgstr ""
+"\\>普通模式　　(普通)\n"
+"\\>V-MAX模式 　(简单)\n"
+"\\>狂热模式　(困难)"
+
+#. ID 15, Page 1, Line 24, Pos (2,3)
+#. Contains choice at line 2 (3 options)
+msgid "\\>廃人向けスイッチ（難度上昇）"
+msgstr "\\>面向废人玩家的开关（难度上升）"
+
+#. ID 15, Page 1, Line 25, Pos (2,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>シャア専用　\\n[101]\n"
+"\\>どっぷりモード　\\n[102]\n"
+"\\>回復アイテム制限　\\n[103]"
+msgstr ""
+"\\>夏亚专用　\\n[101]\n"
+"\\>沉迷模式　\\n[102]\n"
+"\\>回复道具限制　\\n[103]"
+
+#. ID 15, Page 1, Line 27, Pos (2,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>シャア専用モード　\\n[101]\n"
+"\\>敵のステータスが3倍になる。"
+msgstr "\\>夏亚专用模式　\\n[101]\\>敌人的状态值变为3倍。"
+
+#. ID 15, Page 1, Line 29, Pos (2,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 43, Pos (2,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 57, Pos (2,3)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 12, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 29, Pos (4,3)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 43, Pos (4,3)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 57, Pos (4,3)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 12, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 2, Line 30, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 2, Line 44, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 2, Line 78, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 12, Pos (1,7)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 42, Pos (2,7)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 56, Pos (2,7)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 22, Pos (3,7)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 36, Pos (3,7)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 16, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>ON\n"
+"\\>OFF"
+msgstr ""
+"\\>ON\n"
+"\\>OFF"
+
+#. ID 15, Page 1, Line 41, Pos (2,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>敵のHPが2倍、ステータスが125％になり、\n"
+"\\>倒した時の取得経験値が1/2になる。"
+msgstr ""
+"\\>敌人的HP变为2倍，状态值变为125%，\n"
+"\\>打倒时获得的经验值变为1/2。"
+
+#. ID 15, Page 1, Line 55, Pos (2,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>通常でも回復アイテムの所持数制限はあるが、\n"
+"\\>さらに所持数を厳しく制限したい人向け"
+msgstr ""
+"\\>通常也有恢复道具的持有数限制，\n"
+"\\>但面向想进一步严格限制持有数的人"
+
+#. ID 16, Page 1, Line 7, Pos (3,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "OFF　　　　 "
+msgstr "关　　　　 "
+
+#. ID 16, Page 1, Line 10, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>レベル制限　　　　　　　　　　　　　\\c[4]\\n[101]　Lv \\v[417]\n"
+"\\>\\c[0]レベルが設定値より上がらなくなる。"
+msgstr ""
+"\\>等级限制　　　　　　　　　　　　　\\c[4]\\n[101]\n"
+"　Lv \\v[417]\\>\\c[0]等级不会升到设定值以上。"
+
+#. ID 16, Page 1, Line 14, Pos (3,3)
+msgid "\\>レベル上限値"
+msgstr "\\>等级上限值"
+
+#. ID 17, Page 1, Line 24, Pos (4,3)
+#. Contains choice at line 2 (3 options)
+msgid "\\>便利スイッチ（難度低下）"
+msgstr "\\>便利开关（降低难度）"
+
+#. ID 17, Page 1, Line 25, Pos (4,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>LVUP全回復　\\n[101]\n"
+"\\>妖精の存在　\\n[102]\n"
+"\\>どこでもセーブ　\\n[103]"
+msgstr ""
+"\\>升级时全回复　\\n[101]\n"
+"\\>妖精的存在　\\n[102]\n"
+"\\>任意地点存档　\\n[103]"
+
+#. ID 17, Page 1, Line 27, Pos (4,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>LVUP時全回復　\\n[101]\n"
+"\\>レベルアップしたときにHPMP状態異常全回復する。"
+msgstr ""
+"\\>升级时全回复　\\n[101]\\>升级时HPMP状态异常全\n"
+"部回复。"
+
+#. ID 17, Page 1, Line 41, Pos (4,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>妖精の存在　\\n[102]\n"
+"\\>特定のダンジョンに全回復してくれる妖精が出現する。"
+msgstr ""
+"\\>妖精的存在　\\n[102]\\>在特定迷宫会出现能为你\n"
+"全回复的妖精。"
+
+#. ID 17, Page 1, Line 55, Pos (4,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>通常、ダンジョン内でセーブはできないが、\n"
+"\\>ONにするとどこでもセーブできるようになる。"
+msgstr ""
+"\\>通常，在迷宫内无法存档，\n"
+"\\>但开启ON后就可以在任意地点存档。"
+
+#. ID 18, Page 1, Line 11, Pos (1,5)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "特定ON"
+msgstr "特定ON"
+
+#. ID 18, Page 1, Line 14, Pos (1,5)
+msgid ""
+"\\>立ち絵表示　\\n[101]\n"
+"\\>立ち絵・バストアップ画像を表示するかどうかの設定。"
+msgstr ""
+"\\>立绘显示　\\n[101]\\>是否显示立绘、\n"
+"半身像图片的设置。"
+
+#. ID 18, Page 1, Line 16, Pos (1,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>立ち絵表示　\\n[101]"
+msgstr "\\>立绘显示　\\n[101]"
+
+#. ID 18, Page 1, Line 17, Pos (1,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ON\n"
+"\\>OFF\n"
+"\\>特定ON"
+msgstr ""
+"\\>ON\n"
+"\\>OFF\n"
+"\\>特定ON"
+
+#. ID 18, Page 1, Line 45, Pos (1,5)
+#. Choice (4 options)
+msgid ""
+"\\>街中　　　　　　　　　 \\n[102]\n"
+"\\>戦闘中　　　　　　　　 \\n[103]\n"
+"\\>エッチイベント中　　　 \\n[104]\n"
+"\\>完了"
+msgstr ""
+"\\>城镇中　　　　　　　　　 \\n[102]\n"
+"\\>战斗中　　　　　　　　 \\n[103]\n"
+"\\>色情事件中　　　 \\n[104]\n"
+"\\>完成"
+
+#. ID 19, Page 1, Line 10, Pos (3,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>キャラクターの台詞　\\n[101]\n"
+"\\>ダメージを受けた時メッセージを表示するかどうか。"
+msgstr ""
+"\\>角色台词　\\n[101]\\>是否在受到伤害时显示消息\n"
+"。"
+
+#. ID 20, Page 2, Line 18, Pos (4,5)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "瞬間"
+msgstr "瞬间"
+
+#. ID 20, Page 2, Line 26, Pos (4,5)
+#. Choice (4 options)
+msgid ""
+"\\>台詞の顔グラ　\\n[101]\n"
+"\\>歩行時独白　\\n[102]\n"
+"\\>台詞発生率　\\v[1201]/10\n"
+"\\>台詞表示速度　\\n[103] \\v[720]"
+msgstr ""
+"\\>台词头像　\\n[101]\n"
+"\\>行走时独白　\\n[102]\n"
+"\\>台词发生率　\\v[1201]/10\n"
+"\\>台词显示速度　\\n[103] \\v[720]"
+
+#. ID 20, Page 2, Line 28, Pos (4,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>台詞表示のとき、メッセージウィンドウに\n"
+"\\>キャラクターの顔グラフィックを表示するかどうか。"
+msgstr ""
+"\\>显示台词时，\n"
+"是否在消息窗口中\\>显示角色的脸部图像。"
+
+#. ID 20, Page 2, Line 42, Pos (4,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>恥ずかしい装備のときなどに\n"
+"\\>キャラクターの独白を表示するかどうか。"
+msgstr "\\>在穿着羞耻装备等情况下\\>是否显示角色的独白。"
+
+#. ID 20, Page 2, Line 56, Pos (4,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>台詞を発生させる確率。　\\v[1201]/10\n"
+"\\>10で必ず台詞がでる。"
+msgstr ""
+"\\>触发台词的概率。\n"
+"　\\v[1201]/10\\>为10时必定出现台词。"
+
+#. ID 20, Page 2, Line 58, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>変更する\n"
+"\\>変更しない"
+msgstr ""
+"\\>更改\n"
+"\\>不更改"
+
+#. ID 20, Page 2, Line 60, Pos (4,5)
+msgid "\\>台詞を発生させる確率。　数値ｘ10％"
+msgstr "\\>触发台词的概率。　数值x10％"
+
+#. ID 20, Page 2, Line 77, Pos (4,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\>セリフの瞬間表示"
+msgstr "\\>台词瞬间显示"
+
+#. ID 20, Page 2, Line 80, Pos (4,5)
+msgid ""
+"表示後のウェイト\n"
+"　短い 0←　→6 長い"
+msgstr "显示后等待　短 0←　→6 长"
+
+#. ID 20, Page 2, Line 91, Pos (4,5)
+msgid ""
+"表示速度\n"
+"　早い 0←　→9 遅い"
+msgstr "显示速度　快 0←　→9 慢"
+
+#. ID 20, Page 2, Line 99, Pos (4,5)
+msgid ""
+"\\n[102]テスト\\n[103]\n"
+"\\n[102]あいうえおかきくけこさしすせそたちつてと\\n[103]\n"
+"\\n[102]０１２３４５６７８９\\n[103]\n"
+"\\n[102]ABCDEFGHIJKLMNOPQRSTUVWXYZ\\n[103]\\n[104]\\^"
+msgstr ""
+"\n"
+"[102]测试\n"
+"[103]\n"
+"\n"
+"[102]あいうえおかきくけこさしすせそたちつてと\n"
+"[103]\n"
+"\n"
+"[102]0123456789\n"
+"[103]\n"
+"\n"
+"[102]ABCDEFGHIJKLMNOPQRSTUVWXYZ\n"
+"[103]\n"
+"[104]\\^"
+
+#. ID 20, Page 2, Line 105, Pos (4,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\>これでいいですか？"
+msgstr "\\>这样可以吗？"
+
+#. ID 20, Page 2, Line 106, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>是\n"
+"\\>否"
+
+#. ID 21, Page 1, Line 10, Pos (1,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>二度押しモード　現在 \\c[4]\\n[101]\\c[0]\n"
+"\\>ため攻撃をキーを二度押すと攻撃する仕様に変更する。"
+msgstr ""
+"\\>双击模式　当前 \\c[4]\\n[101]\\c[0]\\>将蓄力攻击\n"
+"变更为按两次按键即攻击的规格。"
+
+#. ID 22, Page 1, Line 4, Pos (2,7)
+#. ChangeHeroName (Actor 101)
+#. ID 22, Page 1, Line 14, Pos (2,7)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "表示しない"
+msgstr "不显示"
+
+#. ID 22, Page 1, Line 7, Pos (2,7)
+#. ChangeHeroName (Actor 101)
+#. ID 22, Page 1, Line 11, Pos (2,7)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "表示する"
+msgstr "显示"
+
+#. ID 22, Page 1, Line 24, Pos (2,7)
+#. Choice (3 options)
+msgid ""
+"\\>技名表示　\\c[4]\\n[101]\\c[0]\n"
+"\\>弾数表示　\\c[4]\\n[102]\\c[0]\n"
+"\\>低負荷モード　\\c[4]\\n[103]"
+msgstr ""
+"\\>技能名显示　\\c[4]\\n[101]\\c[0]\n"
+"\\>弹数显示　\\c[4]\\n[102]\\c[0]\n"
+"\\>低负载模式　\\c[4]\\n[103]"
+
+#. ID 22, Page 1, Line 26, Pos (2,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>技名表示　\\n[101]\n"
+"\\>画面右上に技の名前を表示するかどうか"
+msgstr ""
+"\\>技能名显示　\\n[101]\\>是否在画面右上显示技能\n"
+"名"
+
+#. ID 22, Page 1, Line 28, Pos (2,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>表示する\n"
+"\\>表示しない"
+msgstr ""
+"\\>显示\n"
+"\\>不显示"
+
+#. ID 22, Page 1, Line 40, Pos (2,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>残弾表示　\\n[102]\n"
+"\\>弓矢・銃装備時に画面右上に弾数を表示する。"
+msgstr ""
+"\\>剩余弹药显示　\\n[102]\\>装备弓箭、\n"
+"枪时在画面右上显示弹药数。"
+
+#. ID 22, Page 1, Line 54, Pos (2,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>低負荷モード　\\n[103]\n"
+"\\>動作が重い場合ONにすると改善するかもしれません。"
+msgstr ""
+"\\>低负载模式　\\n[103]\\>如果运行较卡，\n"
+"开启后可能会有所改善。"
+
+#. ID 23, Page 1, Line 17, Pos (3,7)
+#. Contains choice at line 2 (2 options)
+msgid "\\>装備制限"
+msgstr "\\>装备限制"
+
+#. ID 23, Page 1, Line 18, Pos (3,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>バストサイズで装備制限　\\n[101]\n"
+"\\>羞恥で装備制限　\\n[102]"
+msgstr ""
+"\\>按胸围尺寸限制装备　\\n[101]\n"
+"\\>按羞耻限制装备　\\n[102]"
+
+#. ID 23, Page 1, Line 20, Pos (3,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>バストサイズ装備制限　\\n[101]\n"
+"\\>胸が大きいと服・鎧装備が制限される。"
+msgstr ""
+"\\>胸围尺寸装备限制　\\n[101]\\>胸部较大时，\n"
+"衣服、铠甲装备会受到限制。"
+
+#. ID 23, Page 1, Line 34, Pos (3,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>羞恥装備制限　\\n[102]\n"
+"\\>町中で裸などの恥ずかしい格好になれなくなる。"
+msgstr ""
+"\\>羞耻装备限制　\\n[102]\\>在城镇中无法变成裸体\n"
+"等羞耻的打扮。"
+
+#. ID 24, Page 1, Line 3, Pos (1,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>名前の変更　\\n[\\v[6]]\n"
+"\\>"
+msgstr "\\>更改名字　\\n[\\v[6]]\\>"
+
+#. ID 24, Page 1, Line 5, Pos (1,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>名前を変更する\n"
+"\\>変更しない"
+msgstr ""
+"\\>更改名字\n"
+"\\>不更改"
+
+#. ID 25, Page 1, Line 3, Pos (9,4)
+msgid ""
+"\\>ゲートクリスタル実装以前に\n"
+"\\>一部の再戦不可のボスを倒している場合、\n"
+"\\>ゲートクリスタルを入手できなくなる\n"
+"\\>"
+msgstr ""
+"\\>在门水晶实装之前\\>如果已击败部分无法再战\n"
+"的首领，\\>将无法获得门水晶\\>"
+
+#. ID 25, Page 1, Line 7, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>このイベントで補完できます\n"
+"\\>補完しますか？"
+msgstr "\\>可通过此事件补全\\>要补全吗？"
+
+#. ID 25, Page 1, Line 15, Pos (9,4)
+msgid "\\>ローラント地下監獄"
+msgstr "\\>罗兰德地下监狱"
+
+#. ID 25, Page 1, Line 27, Pos (9,4)
+msgid "\\>忘れられた邸宅"
+msgstr "\\>被遗忘的宅邸"
+
+#. ID 25, Page 1, Line 39, Pos (9,4)
+msgid "\\>ライオネル思想教会"
+msgstr "\\>莱昂内尔思想教会"
+
+#. ID 25, Page 1, Line 51, Pos (9,4)
+msgid "\\>ミュロンド死霊館"
+msgstr "\\>米隆德死灵馆"
+
+#. ID 25, Page 1, Line 63, Pos (9,4)
+msgid "\\>ガストラ魔導遺跡"
+msgstr "\\>加斯特拉魔导遗迹"
+
+#. ID 26, Page 1, Line 10, Pos (7,8)
+msgid ""
+"\\>性的な攻撃禁止スイッチ　\\c[4]\\n[101]\\c[0]\n"
+"\\>敵がえっちな攻撃をしてこなくなるはずのスイッチ。\n"
+"\\>だが対応している敵がほとんどいないので\n"
+"\\>実質気休め程度の効果。"
+msgstr ""
+"\\>性攻击禁止开关　\\c[4]\\n[101]\\c[0]\\>本应使敌\n"
+"人不再进行色情攻击的开关。\n"
+"\\>但由于对应的敌人几乎没有\\>实际效果仅为心理安\n"
+"慰程度。"
+
+#. ID 26, Page 1, Line 14, Pos (7,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>性的な攻撃禁止スイッチ　\\c[4]\\n[101]\\c[0]\n"
+"\\>"
+msgstr "\\>性攻击禁止开关　\\c[4]\\n[101]\\c[0]\\>"
+
+#. ID 26, Page 1, Line 16, Pos (7,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>性的な攻撃禁止にする\n"
+"\\>性的な攻撃許可する"
+msgstr ""
+"\\>禁止性攻击\n"
+"\\>允许性攻击"
+
+#. ID 27, Page 1, Line 10, Pos (13,6)
+msgid ""
+"\\>主人公バックアップスイッチ　\\c[4]\\n[101]\\c[0]\n"
+"\\>主人公番号が突然変わる深刻なバグへの応急処置\n"
+"\\>として「不正に番号が変わったら元に戻す」スイッチ。\n"
+"\\>そういった症状がないならONにする必要はない。"
+msgstr ""
+"\\>主角备份开关　\\c[4]\\n[101]\\c[0]\\>作为应对主\n"
+"角编号突然变化的严重漏洞的应急处理\\>「如果编号\n"
+"被不正当地改变就恢复原状」的开关。\n"
+"\\>如果没有这种症状则无需开启ON。"
+
+#. ID 27, Page 1, Line 14, Pos (13,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>主人公バックアップスイッチ　\\c[4]\\n[101]\\c[0]\n"
+"\\>"
+msgstr "\\>主角备份开关　\\c[4]\\n[101]\\c[0]\\>"
+
+#. ID 28, Page 1, Line 3, Pos (17,8)
+msgid "\\>キャラクター固有オプション"
+msgstr "\\>角色固有选项"
+
+#. ID 28, Page 1, Line 4, Pos (17,8)
+msgid ""
+"\\>カースメーカーのみ対応。\n"
+"\\>病んでいるかどうかでボイス設定を変えるが\n"
+"\\>個別にボイス選択ができるようになったので現在は不要"
+msgstr ""
+"\\>仅支持诅咒制造者。\n"
+"\\>虽然会根据是否病态改变语音设置\\>但现在已经可\n"
+"以单独选择语音，因此不再需要"
+
+#. ID 28, Page 1, Line 8, Pos (17,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"\\N[22]は普通の子ですか？"
+msgstr "\\N[22]是普通的孩子吗？"
+
+#. ID 28, Page 1, Line 13, Pos (17,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい、普通の子です。\n"
+"\\>いいえ、病んでます。"
+msgstr ""
+"\\>是，普通的孩子。\n"
+"\\>不，已经病态了。"
+
+#. ID 29, Page 1, Line 3, Pos (9,8)
+msgid ""
+"\\>適性振り\n"
+"\\>\n"
+"\\>A適性、B適性、V適性などにポイントを振り分ける。\n"
+"\\>ゲーム開始時に行われるため基本的に不要。"
+msgstr ""
+"\\>适性分配\\>\\>将点数分配给A适性、B适性、\n"
+"V适性等。\\>由于在游戏开始时进行，\n"
+"基本上不需要。"
+
+#. ID 29, Page 1, Line 7, Pos (9,8)
+msgid ""
+"\\>適性が実装される前のセーブデータを引き継いだ人用\n"
+"\\>だが、そこまで古いセーブデータを引き継ぐと不具合\n"
+"\\>も多いと思われるのでニューゲームをおすすめする。"
+msgstr ""
+"\\>供继承了适性实装前存档数据的人使用\\>但是，\n"
+"继承那么旧的存档数据可能会\\>有很多问题，\n"
+"因此建议新游戏。"
+
+#. ID 30, Page 1, Line 3, Pos (11,8)
+msgid ""
+"\\>技能正規化\n"
+"\\>\n"
+"\\>習得アビリティの再設定を行う。"
+msgstr "\\>技能规范化\\>\\>进行已习得能力的重新设置。"
+
+#. ID 30, Page 1, Line 6, Pos (11,8)
+msgid ""
+"\\>旧バージョンからセーブデータを引き継いだ際などに\n"
+"\\>アビリティ欄がおかしくなった場合に実行することで\n"
+"\\>表示を正常に戻す。"
+msgstr ""
+"\\>从旧版本继承存档数据等时\\>若能力栏变得异常，\n"
+"执行此操作可\\>使显示恢复正常。"
+
+#. ID 30, Page 1, Line 9, Pos (11,8)
+#. Contains choice at line 2 (2 options)
+msgid "技能正規化を行いますか？"
+msgstr "要进行技能规范化吗？"
+
+#. ID 30, Page 1, Line 13, Pos (11,8)
+msgid ""
+"\n"
+"技能の正規化を行いました。"
+msgstr "已进行技能规范化。"
+
+#. ID 31, Page 2, Line 3, Pos (7,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\>全催眠・洗脳をリセットする"
+msgstr "\\>重置所有催眠・洗脑"
+
+#. ID 31, Page 2, Line 4, Pos (7,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>リセットする\n"
+"\\>しない"
+msgstr ""
+"\\>重置\n"
+"\\>不重置"
+
+#. ID 31, Page 2, Line 6, Pos (7,6)
+msgid ""
+"\\>[1113:攻撃不能の暗示]をOFFにする\n"
+"\\>[1114:(並)おもらし催眠]をOFFにする\n"
+"\\>[1115:露出催眠]をOFFにする\n"
+"\\>[1116:性処理催眠]をOFFにする"
+msgstr ""
+"\\>[1113:无法攻击的暗示]设为OFF\\>[1114:(普通)尿\n"
+"裤子催眠]设为OFF\\>[1115:露出催眠]设为OFF\\>[111\n"
+"6:性处理催眠]设为OFF"
+
+#. ID 31, Page 2, Line 10, Pos (7,6)
+msgid ""
+"\\>[1117:(並)絶頂催眠]をOFFにする\n"
+"\\>[1118:自慰催眠]をOFFにする\n"
+"\\>[1119:無抵抗の暗示]をOFFにする"
+msgstr ""
+"\\>[1117:(普通)高潮催眠]设为OFF\\>[1118:自慰催眠\n"
+"]设为OFF\\>[1119:无抵抗暗示]设为OFF"
+
+#. ID 31, Page 2, Line 13, Pos (7,6)
+msgid ""
+"\\>[1121:おもらし洗脳]をOFFにする\n"
+"\\>[1122:(並)自慰洗脳]をOFFにする\n"
+"\\>[1141:(並)生殖洗脳]をOFFにする\n"
+"\\>[1142:生殖洗脳ON]をOFFにする"
+msgstr ""
+"\\>[1121:失禁洗脑]设为OFF\\>[1122:(普通)自慰洗脑\n"
+"]设为OFF\\>[1141:(普通)生殖洗脑]设为OFF\\>[1142:\n"
+"生殖洗脑ON]设为OFF"
+
+#. ID 31, Page 2, Line 17, Pos (7,6)
+msgid ""
+"\\>[1143:(並)忘却催眠]をOFFにする\n"
+"\\>[1145:(並)失禁快楽洗脳]をOFFにする\n"
+"\\>[1146:失禁快楽洗脳深化]をOFFにする\n"
+"\\>[1147:淫乱人格化催眠]をOFFにする"
+msgstr ""
+"\\>[1143:(普通)忘却催眠]设为OFF\\>[1145:(普通)失\n"
+"禁快感洗脑]设为OFF\\>[1146:失禁快感洗脑深化]设\n"
+"为OFF\\>[1147:淫乱人格化催眠]设为OFF"
+
+#. ID 31, Page 2, Line 21, Pos (7,6)
+msgid "\\>[1181:催眠は気持ちいい]をOFFにする"
+msgstr "\\>[1181:催眠很舒服]设为OFF"
+
+#. ID 32, Page 1, Line 3, Pos (15,6)
+#. Contains choice at line 2 (3 options)
+msgid "\\>EX係数（エロダメージ倍率）、妊娠係数（10で標準）"
+msgstr "\\>EX系数（色情伤害倍率）、妊娠系数（10为标准）"
+
+#. ID 32, Page 1, Line 4, Pos (15,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>EX係数　\\v[861]\n"
+"\\>妊娠係数(人)　\\v[1034]\n"
+"\\>妊娠係数(魔物)　\\v[1035]"
+msgstr ""
+"\\>EX系数　\\v[861]\n"
+"\\>妊娠系数(人)　\\v[1034]\n"
+"\\>妊娠系数(魔物)　\\v[1035]"
+
+#. ID 32, Page 1, Line 6, Pos (15,6)
+msgid "\\>EX係数　\\v[861]"
+msgstr "\\>EX系数　\\v[861]"
+
+#. ID 32, Page 1, Line 10, Pos (15,6)
+msgid "\\>妊娠係数(人)　\\v[1034]"
+msgstr "\\>妊娠系数(人)　\\v[1034]"
+
+#. ID 32, Page 1, Line 14, Pos (15,6)
+msgid "\\>妊娠係数(魔物)　\\v[1035]"
+msgstr "\\>妊娠系数(魔物)　\\v[1035]"
+
+#. ID 33, Page 1, Line 8, Pos (4,7)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "鈍足"
+msgstr "慢速"
+
+#. ID 33, Page 1, Line 12, Pos (4,7)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "標準速"
+msgstr "标准速度"
+
+#. ID 33, Page 1, Line 16, Pos (4,7)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "二倍速"
+msgstr "二倍速"
+
+#. ID 33, Page 1, Line 19, Pos (4,7)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "四倍速"
+msgstr "四倍速"
+
+#. ID 33, Page 1, Line 28, Pos (4,7)
+#. Contains choice at line 2 (3 options)
+msgid "\\>街中移動速度固定オプション　\\c[4]\\n[101]\\c[0]"
+msgstr "\\>街中移动速度固定选项　\\c[4]\\n[101]\\c[0]"
+
+#. ID 33, Page 1, Line 29, Pos (4,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>OFFにする\n"
+"\\>標準速\n"
+"\\>二倍速"
+msgstr ""
+"\\>设为OFF\n"
+"\\>标准速\n"
+"\\>二倍速"
+
+#. ID 34, Page 1, Line 3, Pos (9,6)
+msgid "\\>フリー枠使用と設定"
+msgstr "\\>自由栏使用与设置"
+
+#. ID 34, Page 1, Line 4, Pos (9,6)
+#. Choice (4 options)
+msgid ""
+"\\>フリーA (ID96)\n"
+"\\>\\c[3]フリーB (ID97)\n"
+"\\>フリーC (ID98)\n"
+"\\>\\c[0]キャンセル"
+msgstr ""
+"\\>自由A (ID96)\n"
+"\\>\\c[3]自由B (ID97)\n"
+"\\>自由C (ID98)\n"
+"\\>\\c[0]取消"
+
+#. ID 34, Page 1, Line 23, Pos (9,6)
+msgid "\\>BU対応設定"
+msgstr "\\>BU对应设置"
+
+#. ID 34, Page 1, Line 27, Pos (9,6)
+msgid "\\>X軸-通常"
+msgstr "\\>X轴-通常"
+
+#. ID 34, Page 1, Line 30, Pos (9,6)
+msgid "\\>Y軸-通常"
+msgstr "\\>Y轴-通常"
+
+#. ID 34, Page 1, Line 33, Pos (9,6)
+msgid "\\>X軸-転倒"
+msgstr "\\>X轴-倒地"
+
+#. ID 34, Page 1, Line 36, Pos (9,6)
+msgid "\\>Y軸-転倒"
+msgstr "\\>Y轴-倒地"
+
+#. ID 34, Page 1, Line 42, Pos (9,6)
+#. Contains choice at line 2 (3 options)
+msgid "\\>水着"
+msgstr "\\>泳装"
+
+#. ID 34, Page 1, Line 43, Pos (9,6)
+#. Choice (3 options, embedded in a message)
+#. ID 34, Page 1, Line 54, Pos (9,6)
+#. Choice (3 options, embedded in a message)
+#. ID 34, Page 1, Line 65, Pos (9,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>対応済\n"
+"\\>デフォ服で代用\n"
+"\\>裸で代用"
+msgstr ""
+"\\>已适配\n"
+"\\>用默认服装代替\n"
+"\\>用裸体代替"
+
+#. ID 34, Page 1, Line 53, Pos (9,6)
+#. Contains choice at line 2 (3 options)
+msgid "\\>ラバー"
+msgstr "\\>橡胶"
+
+#. ID 34, Page 1, Line 64, Pos (9,6)
+#. Contains choice at line 2 (3 options)
+msgid "\\>ウェイトレス・バニー"
+msgstr "\\>女服务员・兔女郎"
+
+#. ID 35, Page 1, Line 3, Pos (17,6)
+msgid "体型変更"
+msgstr "体型变更"
+
+#. ID 35, Page 1, Line 4, Pos (17,6)
+#. Choice (4 options)
+msgid ""
+"胸\n"
+"腰\n"
+"尻\n"
+"⇒"
+msgstr ""
+"胸\n"
+"腰\n"
+"臀\n"
+"⇒"
+
+#. ID 35, Page 1, Line 15, Pos (17,6)
+#. Choice (3 options)
+msgid ""
+"身長\n"
+"膣径(mm)\n"
+"肛門(mm)"
+msgstr ""
+"身高\n"
+"阴道径(mm)\n"
+"肛门(mm)"
+
+#. ID 35, Page 1, Line 20, Pos (17,6)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 33, Pos (17,6)
+#. Contains choice at line 2 (2 options)
+msgid "（初期状態）+（拡張）が実際の大きさとなります"
+msgstr "（初始状态）+（扩张）会成为实际大小"
+
+#. ID 35, Page 1, Line 21, Pos (17,6)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 34, Pos (17,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"初期状態\n"
+"拡張"
+msgstr ""
+"初始状态\n"
+"扩张"
+
+#. ID 36, Page 1, Line 4, Pos (11,6)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "一括表示"
+msgstr "统一显示"
+
+#. ID 36, Page 1, Line 7, Pos (11,6)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "通常表示"
+msgstr "通常显示"
+
+#. ID 36, Page 1, Line 10, Pos (11,6)
+msgid ""
+"\\>多段ダメージ一括表示\n"
+"\\>多段Hitする攻撃のダメージ表示方法を設定。"
+msgstr ""
+"\\>多段伤害统一显示\\>设置多段命中攻击的伤害显示\n"
+"方式。"
+
+#. ID 36, Page 1, Line 12, Pos (11,6)
+msgid ""
+"\\>「通常」：1Hitごとにダメージを表示\n"
+"\\>「一括」：Hit数に関わらず、ダメージの総計を表示\n"
+"\\>\n"
+"\\>現在の設定：\\n[101]"
+msgstr ""
+"\\>「通常」：每次1Hit显示伤害\\>「统一」：\n"
+"无论Hit数多少，显示伤害总计\\>\\>当前设置：\n"
+"\\n[101]"
+
+#. ID 36, Page 1, Line 16, Pos (11,6)
+#. Contains choice at line 2 (3 options)
+msgid "\\>多段ダメージ一括表示設定を行いますか？"
+msgstr "\\>要进行多段伤害统一显示设置吗？"
+
+#. ID 36, Page 1, Line 17, Pos (11,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"通常表示にする\n"
+"一括表示にする\n"
+"キャンセル"
+msgstr ""
+"设为通常显示\n"
+"设为统一显示\n"
+"取消"
+
+#. ID 36, Page 1, Line 19, Pos (11,6)
+msgid ""
+"\n"
+"通常表示に設定しました。"
+msgstr "已设置为通常显示。"
+
+#. ID 36, Page 1, Line 24, Pos (11,6)
+msgid ""
+"\n"
+"一括表示に設定しました。"
+msgstr "已设置为统一显示。"
+
+#. ID 37, Page 1, Line 3, Pos (7,4)
+msgid ""
+"\\>通常メニュー封印\n"
+"\\>\n"
+"\\>特殊メニューで大体何でも出来るようになりました。\n"
+"\\>通常メニューが不要であれば、ここで無効化できます"
+msgstr ""
+"\\>通常菜单封印\\>\\>在特殊菜单中已经可以做到大部\n"
+"分事情。\\>如果不需要通常菜单，可以在这里禁用"
+
+#. ID 37, Page 1, Line 7, Pos (7,4)
+#. Contains choice at line 2 (2 options)
+msgid "通常メニューを封印をしますか？"
+msgstr "要封印通常菜单吗？"

@@ -1,0 +1,73 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 1, Pos (0,8)
+msgid ""
+"＊「さて、処刑場までは貴様の足で歩いて貰うぞ。\\!\n"
+"　　それこそが、この刑の手順なのでな！」"
+msgstr ""
+"＊「那么，到刑场为止，你得用自己的脚走过去。\\!\n"
+"　　这正是此刑的步骤！」"
+
+#. ID 1, Page 1, Line 6, Pos (0,8)
+msgid "周囲から石が飛んでくる！"
+msgstr "周围有石头飞过来！"
+
+#. ID 1, Page 2, Line 2, Pos (0,8)
+#. ID 162, Page 1, Line 1, Pos (1,8)
+msgid "＊「死んでしまえ！この極悪人め！」\\^"
+msgstr "＊「去死吧！你这个极恶之徒！」\\^"
+
+#. ID 1, Page 3, Line 2, Pos (0,8)
+msgid ""
+"＊「さて、そろそろ着くぞ。覚悟は良いか？\\!\n"
+"　　まあ、無くても俺は構わんが。"
+msgstr ""
+"＊「好了，快到了。做好觉悟了吗？\\!\n"
+"　　嘛，就算没有我也不介意。"
+
+#. ID 2, Page 1, Line 1, Pos (19,8)
+#. ID 3, Page 1, Line 1, Pos (17,8)
+#. ID 4, Page 1, Line 1, Pos (15,8)
+#. ID 5, Page 1, Line 1, Pos (13,8)
+#. ID 6, Page 1, Line 1, Pos (11,8)
+#. ID 7, Page 1, Line 1, Pos (9,8)
+#. ID 8, Page 1, Line 1, Pos (7,8)
+#. ID 9, Page 1, Line 1, Pos (5,8)
+#. ID 165, Page 1, Line 1, Pos (4,8)
+#. ID 166, Page 1, Line 1, Pos (5,6)
+#. ID 167, Page 1, Line 1, Pos (6,8)
+#. ID 168, Page 1, Line 1, Pos (7,6)
+#. ID 169, Page 1, Line 1, Pos (8,8)
+#. ID 170, Page 1, Line 1, Pos (9,6)
+#. ID 171, Page 1, Line 1, Pos (10,8)
+#. ID 172, Page 1, Line 1, Pos (11,6)
+#. ID 173, Page 1, Line 1, Pos (12,8)
+#. ID 174, Page 1, Line 1, Pos (13,6)
+#. ID 175, Page 1, Line 1, Pos (14,8)
+#. ID 176, Page 1, Line 1, Pos (15,6)
+#. ID 177, Page 1, Line 1, Pos (16,8)
+#. ID 178, Page 1, Line 1, Pos (17,6)
+#. ID 179, Page 1, Line 1, Pos (18,8)
+#. ID 180, Page 1, Line 1, Pos (19,6)
+msgid "＊「これでも喰らえ、極悪人め！」\\^"
+msgstr "＊「吃这个吧，极恶之徒！」\\^"
+
+#. ID 163, Page 1, Line 1, Pos (2,8)
+msgid "＊「伯爵様を殺そうだなんて酷い奴め！」\\^"
+msgstr "＊「竟然想杀伯爵大人，真是过分的家伙！」\\^"
+
+#. ID 164, Page 1, Line 1, Pos (3,8)
+msgid "＊「お前みたいな売女は地獄へ落ちろー！」\\^"
+msgstr "＊「像你这样的婊子就下地狱去吧——！」\\^"

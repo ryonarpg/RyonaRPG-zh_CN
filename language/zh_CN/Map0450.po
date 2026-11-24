@@ -1,0 +1,44 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 11, Pos (8,2)
+#. ID 22, Page 3, Line 11, Pos (8,2)
+msgid "トビラ ヲ ヒラキマス"
+msgstr "门 将 打开"
+
+#. ID 22, Page 2, Line 19, Pos (8,2)
+#. ID 22, Page 3, Line 19, Pos (8,2)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 2.00"
+msgstr ""
+"请提升卡钥匙的版本当前版本　　\\v[1102].00解锁\n"
+"所需版本 2.00"
+
+#. ID 22, Page 2, Line 31, Pos (8,2)
+#. ID 22, Page 3, Line 31, Pos (8,2)
+msgid "カードキー ヲ イレテクダサイ"
+msgstr "请 插入 卡钥匙"
+
+#. ID 23, Page 2, Line 8, Pos (10,2)
+#. ID 26, Page 2, Line 10, Pos (9,2)
+#. ID 27, Page 2, Line 10, Pos (11,2)
+msgid "…扉はロックされているようだ"
+msgstr "…门似乎被锁上了"
+
+#. ID 25, Page 2, Line 3, Pos (7,2)
+msgid "製造プラント"
+msgstr "制造工厂"

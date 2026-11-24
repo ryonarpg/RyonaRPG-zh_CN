@@ -1,0 +1,99 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 4, Pos (29,9)
+#. ID 48, Page 2, Line 4, Pos (26,9)
+msgid "………"
+msgstr "………"
+
+#. ID 34, Page 2, Line 8, Pos (29,9)
+#. ID 48, Page 2, Line 8, Pos (26,9)
+msgid ""
+"＊自動人形のようだが\n"
+"　眠っているようにピクりとも動かない"
+msgstr "＊看起来是自动人偶　但像睡着了一样纹丝不动"
+
+#. ID 82, Page 2, Line 3, Pos (35,48)
+msgid "＊古びた書物だ……"
+msgstr "＊是陈旧的书……"
+
+#. ID 82, Page 2, Line 4, Pos (35,48)
+msgid ""
+"＊紙はボロボロだが、辛うじて文字は読めるようだ\n"
+"　適当に１冊取り、目を走らせる。"
+msgstr ""
+"＊纸张已破破烂烂，\n"
+"　但文字勉强还能读　随手拿起1册，快速浏览。"
+
+#. ID 82, Page 2, Line 10, Pos (35,48)
+#. ID 82, Page 2, Line 32, Pos (35,48)
+msgid "＊…………"
+msgstr "＊…………"
+
+#. ID 82, Page 2, Line 15, Pos (35,48)
+msgid ""
+"＊今日もまた仲間が死んでしまった\n"
+"　地上で発生した各種有害物質が\n"
+"　上空にまで巻き上げられている様子だ"
+msgstr ""
+"＊今天又有同伴死去了　地上产生的各种有害物质　\n"
+"　似乎被卷扬到了高空"
+
+#. ID 82, Page 2, Line 18, Pos (35,48)
+msgid ""
+"＊生き残りの我々ももう時間の問題だろう\n"
+"　何とかして打開策を考えなければならない"
+msgstr ""
+"＊幸存下来的我们也只是时间问题了吧　必须设法思\n"
+"　考打开局面的对策"
+
+#. ID 82, Page 2, Line 20, Pos (35,48)
+msgid ""
+"＊……そのときに彼女らの姿が目に入った\n"
+"　機械は脆弱な人体と違い、強靭で、\n"
+"　メンテナンスさえ行えば「死ぬ」ことはない。"
+msgstr ""
+"＊……\n"
+"　那时她们的身影映入了眼帘\n"
+"　机械与脆弱的人体不同，强韧，\n"
+"　只要进行维护就不会「死」。"
+
+#. ID 82, Page 2, Line 23, Pos (35,48)
+msgid ""
+"＊病気もなければ疲労もない\n"
+"　機械人形の技術は、この浮遊大陸に到着して依頼\n"
+"　飛躍的に進歩している"
+msgstr ""
+"＊没有疾病，也没有疲劳　机械人偶的技术，\n"
+"　自抵达这座浮游大陆以来　正取得飞跃性进步"
+
+#. ID 82, Page 2, Line 26, Pos (35,48)
+msgid ""
+"＊……もし、もしも人体を\n"
+"　機械に置換することが出来れば……"
+msgstr "＊……如果，如果能把人体　置换为机械的话……"
+
+#. ID 83, Page 2, Line 4, Pos (21,57)
+msgid ""
+"お帰りな…ｻﾞｯ…い\n"
+"今日も研究お疲…様です"
+msgstr "欢迎回来…萨゛…今天的研究也辛…苦您了"
+
+#. ID 83, Page 2, Line 6, Pos (21,57)
+msgid ""
+"食事は定刻にお部屋…お持ちします\n"
+"お休…の場合は札をおか…ください"
+msgstr ""
+"餐食会按时送到您的房间…我会送来　若您休…\n"
+"息时请挂上牌…子"

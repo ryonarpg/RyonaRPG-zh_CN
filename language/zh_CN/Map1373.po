@@ -1,0 +1,118 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 32, Page 2, Line 4, Pos (9,38)
+msgid ""
+"名前：魔界兵・緑\n"
+"種族：人男"
+msgstr "名字：魔界兵·绿 种族：人男"
+
+#. ID 32, Page 2, Line 6, Pos (9,38)
+msgid ""
+"魔界の兵士\n"
+"植物の化身"
+msgstr "魔界士兵 植物化身"
+
+#. ID 32, Page 2, Line 8, Pos (9,38)
+#. Contains choice at line 3 (2 options)
+#. ID 33, Page 2, Line 8, Pos (10,38)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$2000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "可以花\\$2000G听取攻略情报，要听吗？"
+
+#. ID 32, Page 2, Line 10, Pos (9,38)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 2, Line 10, Pos (10,38)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 2, Line 5, Pos (5,30)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 32, Page 2, Line 16, Pos (9,38)
+msgid ""
+"魔界の兵士\\!\n"
+"植物の生命力から作られたモンスター\\!\n"
+"その性質故に炎属性に弱い"
+msgstr ""
+"魔界士兵\\!由植物的生命力制成的怪物\\!因其性质而\n"
+"惧怕火属性"
+
+#. ID 32, Page 2, Line 19, Pos (9,38)
+msgid ""
+"高い忠誠心を持っており、\n"
+"自らの犠牲を厭わない"
+msgstr "拥有很高的忠诚心，不惜牺牲自己"
+
+#. ID 32, Page 2, Line 27, Pos (9,38)
+#. ID 33, Page 2, Line 28, Pos (10,38)
+msgid "ごく稀に\\C[2]\\N[101]\\C[0]を落とす"
+msgstr "极少数情况下会掉落\\C[2]\\N[101]\\C[0]"
+
+#. ID 33, Page 2, Line 4, Pos (10,38)
+msgid ""
+"名前：魔界兵・赤\n"
+"種族：人男"
+msgstr "名字：魔界兵·红 种族：人男"
+
+#. ID 33, Page 2, Line 6, Pos (10,38)
+msgid ""
+"魔界の兵士\n"
+"炎の化身"
+msgstr "魔界士兵 火焰化身"
+
+#. ID 33, Page 2, Line 16, Pos (10,38)
+msgid ""
+"魔界の兵士\\!\n"
+"炎の熱から作られたモンスター\\!\n"
+"その性質故に氷属性に弱く、\n"
+"若干攻撃力が高い"
+msgstr ""
+"魔界士兵\\!由火焰的热量制成的怪物\\!因其性质而惧\n"
+"怕冰属性，攻击力稍高"
+
+#. ID 33, Page 2, Line 20, Pos (10,38)
+msgid ""
+"強い連帯感を持っており、\n"
+"仲間のために命をかけて戦う"
+msgstr "拥有强烈的连带感，为了伙伴不惜性命战斗"
+
+#. ID 35, Page 2, Line 3, Pos (5,30)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"魔族の記録媒体を見つけた\n"
+"読みますか？"
+msgstr "发现了魔族的记录媒体。要阅读吗？"
+
+#. ID 35, Page 2, Line 14, Pos (5,30)
+msgid ""
+"魔族の王だから「魔王」\n"
+"一見仰々しく感じる異名だが、実はそうではない"
+msgstr ""
+"因为他是魔族之王，所以「魔王」\n"
+"这个别名乍看之下显得很夸张，但其实并非如此"
+
+#. ID 35, Page 2, Line 16, Pos (5,30)
+msgid ""
+"\\C[2]サタナエル\\C[0]様はこの宇宙と共に生まれた\n"
+"神に等しい存在なのである"
+msgstr ""
+"\\C[2]萨塔奈尔\\C[0]大人是与这个宇宙一同诞生的、\n"
+"等同于神的存在"

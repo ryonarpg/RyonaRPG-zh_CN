@@ -1,0 +1,55 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 26, Page 2, Line 6, Pos (4,23)
+msgid ""
+"エリクサーを手に入れた！\n"
+"まあまあ嬉しい5コセットだ！\n"
+"しかしそんなに持てなかった！\n"
+"持てるだけ貰っていこう！"
+msgstr ""
+"获得了万灵药！还算高兴，是5个一套！\n"
+"但是拿不了那么多！能拿多少就拿走吧！"
+
+#. ID 26, Page 2, Line 24, Pos (4,23)
+msgid ""
+"ノーガードローブを手に入れた！\n"
+"ダンジョンから出たら装備してみよう！"
+msgstr "获得了无防备长袍！从地下城出去后装备看看吧！"
+
+#. ID 26, Page 2, Line 40, Pos (4,23)
+msgid ""
+"マジックチェンジャーを手に入れた！\n"
+"魔法使い専用装備だ！魔法少女(物理)になれるぞ！"
+msgstr ""
+"获得了魔法转换器！是魔法师专用装备！\n"
+"能成为魔法少女(物理)哦！"
+
+#. ID 26, Page 2, Line 56, Pos (4,23)
+msgid ""
+"じぶん用きのこを手に入れた！\n"
+"なんと99コも押し付けられたぞ！"
+msgstr "获得了自用蘑菇！竟然被硬塞了99个！"
+
+#. ID 27, Page 2, Line 3, Pos (32,36)
+msgid ""
+"宝箱に隠しておくのも無防備なので取りづらくしてみた\n"
+"取りたい人はチェーンフレイルで取ってください"
+msgstr ""
+"藏在宝箱里也毫无防备，\n"
+"所以我把它弄得不容易拿了。想拿的人请用链枷来取"
+
+#. ID 29, Page 2, Line 5, Pos (33,36)
+msgid "チェーンフレイルを装備した"
+msgstr "装备了链枷"

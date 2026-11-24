@@ -1,0 +1,181 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 6, Pos (9,6)
+msgid ""
+"貴様は罪を犯したな？\n"
+"嘘をついてもわしには全て分かる"
+msgstr "你这家伙犯了罪吧？就算说谎，我也全都知道"
+
+#. ID 2, Page 1, Line 8, Pos (9,6)
+msgid ""
+"\\C[2]\\V[1844]G\\C[0]\n"
+"この場で支払ってもらうぞ"
+msgstr "\\C[2]\\V[1844]G\\C[0]就在这里支付吧"
+
+#. ID 2, Page 1, Line 19, Pos (9,6)
+#. ID 13, Page 3, Line 86, Pos (1,2)
+msgid ""
+"完全に償うまで貴様には苦しみしか待っていない\n"
+"悔い改めよ"
+msgstr "在完全偿还之前，等待你的只有痛苦。悔改吧"
+
+#. ID 2, Page 1, Line 26, Pos (9,6)
+#. ID 13, Page 3, Line 93, Pos (1,2)
+msgid ""
+"善良であれ\n"
+"さもなくば厳罰を"
+msgstr "要善良，否则就严惩"
+
+#. ID 6, Page 1, Line 3, Pos (7,7)
+msgid "変な気を起こすなよ"
+msgstr "别动歪脑筋"
+
+#. ID 7, Page 1, Line 3, Pos (12,7)
+msgid "罪人は罰せられるのだ"
+msgstr "罪人必受惩罚"
+
+#. ID 8, Page 1, Line 3, Pos (9,14)
+#. Contains choice at line 2 (2 options)
+msgid "外に出ますか？"
+msgstr "要到外面去吗？"
+
+#. ID 8, Page 1, Line 4, Pos (9,14)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 6, Pos (2,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 10, Page 1, Line 3, Pos (3,5)
+msgid ""
+"イーヒッヒッヒ\n"
+"お金が足りないのかい？"
+msgstr "咿——嘻嘻嘻，是金钱不够吗？"
+
+#. ID 11, Page 1, Line 5, Pos (2,11)
+#. Contains choice at line 2 (2 options)
+msgid "手枷を外してほしいのか？"
+msgstr "你想解开手枷吗？"
+
+#. ID 11, Page 1, Line 17, Pos (2,11)
+msgid ""
+"よし、料金は\\C[2]5000G\\C[0]だ\n"
+"罰金に追加しておくからな"
+msgstr "好，费用是\\C[2]5000G\\C[0]，我会加到罚金里"
+
+#. ID 11, Page 1, Line 31, Pos (2,11)
+msgid ""
+"奴隷になると手枷を外すのも大変だろう\n"
+"クク……気の毒にな"
+msgstr ""
+"成了奴隶，要解开手枷也很不容易吧，呵呵……\n"
+"真可怜啊"
+
+#. ID 12, Page 2, Line 9, Pos (0,2)
+msgid ""
+"\\N[0]は\\C[2]\\V[1844]G\\C[0]支払い\n"
+"罰金を完済した"
+msgstr "\\N[0]支付了\\C[2]\\V[1844]G\\C[0]，付清了罚金"
+
+#. ID 12, Page 2, Line 25, Pos (0,2)
+msgid ""
+"\\N[0]は首輪を外され、\n"
+"奴隷の身分から解放された"
+msgstr "\\N[0]的项圈被取下，从奴隶身份中解放了"
+
+#. ID 12, Page 2, Line 33, Pos (0,2)
+msgid ""
+"しかし、闘技場の借金を払うまで\n"
+"\\N[0]は奴隷の身分のままである"
+msgstr ""
+"但是，在还清竞技场的负债之前，\n"
+"\\N[0]仍是奴隶身份"
+
+#. ID 12, Page 2, Line 54, Pos (0,2)
+msgid "\\N[0]は\\C[2]\\V[1]G支払った\\C[0]"
+msgstr "\\N[0]支付了\\C[2]\\V[1]G\\C[0]"
+
+#. ID 12, Page 2, Line 55, Pos (0,2)
+msgid "しかし、罰金を完済できなかった"
+msgstr "但是，没能付清罚金"
+
+#. ID 12, Page 2, Line 70, Pos (0,2)
+msgid "\\N[0]は\\C[2]淫虐の首輪\\C[0]を装備させられた！"
+msgstr "\\N[0]被强制装备了\\C[2]淫虐项圈\\C[0]！"
+
+#. ID 12, Page 2, Line 71, Pos (0,2)
+msgid ""
+"そして、\n"
+"罰金を完済するその時まで、\n"
+"この国の人々の性奴として奉仕することを\n"
+"強制されてしまった！"
+msgstr ""
+"然后，直到付清罚金的那一刻为止，\n"
+"被迫作为这个国家人们的性奴，为他们服务！"
+
+#. ID 13, Page 3, Line 41, Pos (1,2)
+msgid ""
+"賞金稼ぎに捕まった\\N[0]は\n"
+"手枷を付けられ衣服を剥ぎ取られた"
+msgstr "被赏金猎人抓住的\\N[0]被戴上手铐，衣服被剥去了"
+
+#. ID 13, Page 3, Line 49, Pos (1,2)
+msgid ""
+"賞金稼ぎに捕まった\\N[0]は\n"
+"手枷を付けられた"
+msgstr "被赏金猎人抓住的\\N[0]被戴上了手铐"
+
+#. ID 13, Page 3, Line 55, Pos (1,2)
+msgid ""
+"賞金稼ぎに捕まった\\N[0]は\n"
+"衣服を剥ぎ取られた"
+msgstr "被赏金猎人抓住的\\N[0]衣服被剥去了"
+
+#. ID 13, Page 3, Line 61, Pos (1,2)
+msgid ""
+"無様な姿を晒したまま\\N[0]は\n"
+"監獄へと連行されるのであった"
+msgstr "就这样暴露着难看的姿态，\\N[0]被押送到监狱去了"
+
+#. ID 13, Page 3, Line 69, Pos (1,2)
+msgid "貴様は数々の悪事を働いたようだな"
+msgstr "你这家伙似乎干了不少坏事啊"
+
+#. ID 13, Page 3, Line 70, Pos (1,2)
+msgid ""
+"だが、ここへ来たからには容赦はしない\n"
+"\\C[2]\\V[1844]G\\C[0]しっかりと払って貰うぞ"
+msgstr ""
+"但是，\n"
+"既然来到这里就不会留情\\C[2]\\V[1844]G\\C[0]要好\n"
+"好支付代价啊"
+
+#. ID 13, Page 3, Line 72, Pos (1,2)
+msgid "賞金稼ぎへの報酬も貴様に払ってもらう"
+msgstr "给赏金猎人的报酬也要由你来支付"
+
+#. ID 13, Page 3, Line 77, Pos (1,2)
+msgid "罰金を\\C[2]10000G\\C[0]増やされてしまった"
+msgstr "罚金被增加了\\C[2]10000G\\C[0]"
+
+#. ID 14, Page 1, Line 3, Pos (4,8)
+msgid ""
+"へっへっへ\n"
+"ありがとよ"
+msgstr "嘿嘿嘿，多谢啦"

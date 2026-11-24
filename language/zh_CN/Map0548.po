@@ -1,0 +1,218 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (13,6)
+msgid ""
+"ふふふ…いらっしゃい\n"
+"卒業試験…始めますよ…"
+msgstr "呵呵呵……欢迎，毕业考试……要开始了哦……"
+
+#. ID 3, Page 1, Line 5, Pos (13,6)
+msgid ""
+"内容は犯されるだけ\n"
+"ただし、１人に犯されたら、次は同じ容姿の相手に\n"
+"犯されなさい、その次は容姿の違う相手に…"
+msgstr ""
+"内容只是被侵犯不过，如果被一个人侵犯了，\n"
+"接下来就让相同外貌的对象侵犯你，\n"
+"再下一个是外貌不同的对象……"
+
+#. ID 3, Page 1, Line 10, Pos (13,6)
+msgid ""
+"＊説明\n"
+"３秒間だけキャラの配置が見れるので、それを記憶し\n"
+"その後、神経衰弱の要領で正しい組み合わせを"
+msgstr ""
+"＊说明：只有3秒能看见角色的配置，记住它，\n"
+"之后以神经衰弱游戏的要领，正确的组合"
+
+#. ID 3, Page 1, Line 13, Pos (13,6)
+msgid ""
+"＊説明\n"
+"選択してください。\n"
+"ミスは１回までです。"
+msgstr "＊说明请选择。错误最多1次。"
+
+#. ID 3, Page 1, Line 18, Pos (13,6)
+msgid "いきますよ"
+msgstr "要上了哦"
+
+#. ID 3, Page 1, Line 727, Pos (13,6)
+msgid "さあ、はじめなさい"
+msgstr "来吧，开始吧"
+
+#. ID 3, Page 2, Line 4, Pos (13,6)
+msgid ""
+"終わったようね。\n"
+"結果は…"
+msgstr "看来结束了呢。结果是……"
+
+#. ID 3, Page 2, Line 6, Pos (13,6)
+#. ID 3, Page 2, Line 236, Pos (13,6)
+msgid "・・・・・・・・・・・・・・・・・・・・・・・・・"
+msgstr ""
+"・・・・・・・・・・・・・・・・・・・・・・・\n"
+"・・"
+
+#. ID 3, Page 2, Line 8, Pos (13,6)
+msgid ""
+"合格ね！\n"
+"おめでと"
+msgstr "合格了！恭喜"
+
+#. ID 3, Page 2, Line 10, Pos (13,6)
+msgid ""
+"これであなたは卒業ね\n"
+"卒業後は…"
+msgstr "这样你就毕业了呢，毕业后……"
+
+#. ID 3, Page 2, Line 13, Pos (13,6)
+#. Contains choice at line 2 (2 options)
+msgid "この学院の教師なんてどうかしら？"
+msgstr "当这个学院的教师怎么样？"
+
+#. ID 3, Page 2, Line 14, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい、やらせてください\n"
+"ほかにありませんか？"
+msgstr ""
+"是的，请让我来做\n"
+"没有其他的了吗？"
+
+#. ID 3, Page 2, Line 16, Pos (13,6)
+msgid "そう、それはよかったわ。"
+msgstr "这样啊，那太好了。"
+
+#. ID 3, Page 2, Line 17, Pos (13,6)
+msgid "さて、卒業式を始めましょうか"
+msgstr "那么，开始毕业典礼吧"
+
+#. ID 3, Page 2, Line 38, Pos (13,6)
+#. ID 3, Page 2, Line 115, Pos (13,6)
+msgid ""
+"\n"
+"…卒業生\\n[\\v[6]]…前へ"
+msgstr "…毕业生\\n[\\v[6]]…向前"
+
+#. ID 3, Page 2, Line 47, Pos (13,6)
+#. ID 3, Page 2, Line 124, Pos (13,6)
+msgid "あなたの卒業を祝して、卒業首輪をあげるわ"
+msgstr "为了祝贺你毕业，送你毕业项圈"
+
+#. ID 3, Page 2, Line 52, Pos (13,6)
+#. ID 3, Page 2, Line 129, Pos (13,6)
+msgid "あなたの卒業を祝して、卒業拘束具をあげるわ"
+msgstr "为了祝贺你毕业，送你毕业拘束具"
+
+#. ID 3, Page 2, Line 63, Pos (13,6)
+msgid ""
+"おめでと\n"
+"これからは生徒じゃなく、教師としてがんばってね。"
+msgstr "恭喜，今后不是作为学生，而是作为教师要加油哦。"
+
+#. ID 3, Page 2, Line 85, Pos (13,6)
+msgid "そぉ？　なら…"
+msgstr "是吗？　那么……"
+
+#. ID 3, Page 2, Line 92, Pos (13,6)
+msgid "あなたは、ス○ーパー様に仕えてもらうわ。"
+msgstr "你要去侍奉斯○帕大人。"
+
+#. ID 3, Page 2, Line 93, Pos (13,6)
+msgid ""
+"ふふふ…うれしいでしょう…\n"
+"さぁ、卒業式を始めましょうか。"
+msgstr "呵呵呵……很开心吧……来吧，开始毕业典礼吧。"
+
+#. ID 3, Page 2, Line 140, Pos (13,6)
+msgid ""
+"おめでと\n"
+"これであなたも立派な雌奴隷ね"
+msgstr "恭喜，这样你也是一名出色的雌奴隶了呢"
+
+#. ID 3, Page 2, Line 169, Pos (13,6)
+msgid ""
+"フヒヒ…すっかり従順になったんだな…\n"
+"もう完全に、体も心も雌奴隷になってるんだな…"
+msgstr ""
+"嘿嘿嘿……已经完全变得顺从了啊……已经彻底，\n"
+"身体和心都变成雌奴隶了啊……"
+
+#. ID 3, Page 2, Line 193, Pos (13,6)
+msgid ""
+"フヒヒ…入れてやるんだな…\n"
+"ありがたく思うんだな…"
+msgstr "嘿嘿嘿……要让我插进去啊……要心怀感激啊……"
+
+#. ID 3, Page 2, Line 216, Pos (13,6)
+msgid ""
+"だ、出すんだな…\n"
+"しっかりうけとめるんだな…"
+msgstr "要、要射了啊……要好好接住啊……"
+
+#. ID 3, Page 2, Line 234, Pos (13,6)
+msgid "ふぅ…よかったんだな…"
+msgstr "呼……挺舒服的吧……"
+
+#. ID 3, Page 2, Line 235, Pos (13,6)
+msgid "これから毎日…僕につくすんだな…"
+msgstr "从今以后每天……都要为我奉献啊……"
+
+#. ID 3, Page 2, Line 239, Pos (13,6)
+msgid ""
+"その後、\\n[\\v[6]]はス○ーパーの奴隷として\n"
+"一生尽くし続けるのだった…"
+msgstr ""
+"之后，\\n[\\v[6]]作为斯○帕的奴隶，\n"
+"一生继续侍奉下去……"
+
+#. ID 3, Page 2, Line 248, Pos (13,6)
+msgid ""
+"不合格じゃないの！\n"
+"だめな子ねぇ"
+msgstr "不就是不合格嘛！真是个差劲的孩子呢"
+
+#. ID 3, Page 2, Line 251, Pos (13,6)
+msgid ""
+"あなたは、あまりにも出来が悪すぎるわ。\n"
+"あなたじゃス○ーパー様にはふさわしくないわね"
+msgstr "你呀，实在太不中用了。你配不上斯○帕大人呢"
+
+#. ID 3, Page 2, Line 253, Pos (13,6)
+msgid ""
+"しかたないわね…\n"
+"あなたは今後はトイレ委員でもしなさい…\n"
+"せめて少しでも役に立ってちょうだい"
+msgstr ""
+"真没办法呢……你今后就去当厕所委员吧……\n"
+"至少也要稍微派上点用场"
+
+#. ID 3, Page 2, Line 284, Pos (13,6)
+msgid ""
+"授業受けてから\n"
+"出直してきなさい"
+msgstr "上完课再重来吧"
+
+#. ID 3, Page 2, Line 299, Pos (13,6)
+msgid ""
+"どうしたの？\n"
+"さっさとしなさい"
+msgstr "怎么了？快点啊"
+
+#. ID 4, Page 2, Line 3, Pos (4,11)
+#. ID 5, Page 2, Line 3, Pos (2,11)
+#. ID 6, Page 2, Line 3, Pos (3,12)
+msgid "ふふふ…こっちにいらっしゃい…"
+msgstr "呵呵呵……过来这边……"

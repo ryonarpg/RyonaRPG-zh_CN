@@ -1,0 +1,106 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 35, Page 2, Line 3, Pos (20,36)
+#. ID 36, Page 2, Line 3, Pos (19,3)
+msgid ""
+"＊クリスタルは反応しない……\n"
+"　何か動力源が必要なようだ"
+msgstr "＊水晶没有反应……　似乎需要某种动力源"
+
+#. ID 36, Page 3, Line 11, Pos (19,3)
+msgid ""
+"\n"
+"不死の生命……機械の身体を求めるか大地の人間よ\n"
+"しかしこの力　貴公らに渡すわけには行かぬ"
+msgstr ""
+"不死之生命……追求机械之躯吗，\n"
+"大地的人类啊但是这份力量　不能交予你们"
+
+#. ID 36, Page 3, Line 14, Pos (19,3)
+msgid ""
+"\n"
+"先に来た貴公らの同胞らのように……\n"
+"貴公も　自動人形にしてやろう"
+msgstr "就像先来的你们的同胞那样……你也　变成自动人偶吧"
+
+#. ID 36, Page 4, Line 3, Pos (19,3)
+msgid "＊クリスタルは停止している……"
+msgstr "＊水晶停止了……"
+
+#. ID 40, Page 2, Line 4, Pos (13,25)
+msgid "………"
+msgstr "………"
+
+#. ID 40, Page 2, Line 8, Pos (13,25)
+msgid ""
+"＊自動人形のようだが\n"
+"　眠っているようにピクりとも動かない"
+msgstr "＊看起来是自动人偶　但像睡着了一样一动不动"
+
+#. ID 60, Page 2, Line 5, Pos (22,36)
+msgid "＊古びたメモが落ちている"
+msgstr "＊一张陈旧的笔记掉在地上"
+
+#. ID 60, Page 2, Line 10, Pos (22,36)
+msgid ""
+"＊だめだクリスタルが反応しない\n"
+"　もっと先に進まなければいけないようだ"
+msgstr "＊不行，水晶没有反应　看来必须继续往更深处前进"
+
+#. ID 60, Page 2, Line 12, Pos (22,36)
+msgid ""
+"＊だが自動人形が迫ってきている\n"
+"　俺はもうおわ"
+msgstr "＊但是自动人偶逼近了　我已经完"
+
+#. ID 60, Page 2, Line 18, Pos (22,36)
+msgid "＊……残りは、血が滲んでいて読めない。"
+msgstr "＊……剩下的部分渗着血，读不出来。"
+
+#. ID 62, Page 2, Line 3, Pos (30,3)
+msgid ""
+"＊クリスタルは停止している……\n"
+"　かなり長い年月停止しているようだ"
+msgstr ""
+"＊水晶停止了……\n"
+"　似乎已经停止运转了相当漫长的岁月"
+
+#. ID 62, Page 3, Line 3, Pos (30,3)
+msgid "＊クリスタルは停止したままだ……"
+msgstr "＊水晶仍然停止着……"
+
+#. ID 62, Page 3, Line 4, Pos (30,3)
+msgid "＊…………？"
+msgstr "＊…………？"
+
+#. ID 62, Page 3, Line 13, Pos (30,3)
+msgid "＊クリスタルが起動した！"
+msgstr "＊水晶启动了！"
+
+#. ID 63, Page 2, Line 3, Pos (18,6)
+msgid "＊自動人形の部品のようだ"
+msgstr "＊好像是自动人偶的零件"
+
+#. ID 63, Page 2, Line 11, Pos (18,6)
+msgid "＊[シリンダーの心臓]を手に入れた"
+msgstr "＊获得了[气缸之心]"
+
+#. ID 63, Page 2, Line 17, Pos (18,6)
+msgid ""
+"＊魔法ギルドの人形遣いに頼まれたのはコレだ\n"
+"　急いで持って帰ろう。"
+msgstr ""
+"＊魔法公会的操偶师委托要拿的就是这个　赶紧带回\n"
+"　去吧。"

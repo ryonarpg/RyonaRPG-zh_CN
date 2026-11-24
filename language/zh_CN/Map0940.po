@@ -1,0 +1,124 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 61, Page 3, Line 5, Pos (12,14)
+#. ID 61, Page 3, Line 12, Pos (12,14)
+msgid ""
+"!!ERROR!!\n"
+"\\v[901] 対応外\n"
+"　対応範囲 0-7迄"
+msgstr "!!ERROR!!\\v[901] 不支持　对应范围 0-7为止"
+
+#. ID 61, Page 4, Line 5, Pos (12,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"…\\.宝箱が気になるけど…"
+msgstr "…\\.虽然很在意宝箱……"
+
+#. ID 61, Page 4, Line 7, Pos (12,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"部屋を出る\n"
+"もう少し留まる"
+msgstr ""
+"离开房间\n"
+"再待一会儿"
+
+#. ID 61, Page 4, Line 9, Pos (12,14)
+msgid ""
+"\n"
+"先を急ごう。"
+msgstr "赶紧往前走吧。"
+
+#. ID 61, Page 5, Line 4, Pos (12,14)
+msgid "＊開かない！"
+msgstr "＊打不开！"
+
+#. ID 61, Page 5, Line 15, Pos (12,14)
+msgid ""
+"\n"
+"はいはい。救助だね。\n"
+"\\v[902]G かかるけど、どうだい？"
+msgstr "好啦好啦。是救助对吧。要花\\v[902]G，怎么样？"
+
+#. ID 61, Page 5, Line 21, Pos (12,14)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 61, Page 5, Line 28, Pos (12,14)
+msgid ""
+"\n"
+"お金ないようだね。\n"
+"じゃあ、頑張って切り抜けてね。"
+msgstr "看来你没钱呢。那就努力自己闯过去吧。"
+
+#. ID 61, Page 5, Line 38, Pos (12,14)
+msgid ""
+"\n"
+"まいど。\n"
+"それじゃ、扉を開けるよ。"
+msgstr "多谢惠顾。那么，我开门了哦。"
+
+#. ID 62, Page 3, Line 3, Pos (8,13)
+msgid ""
+"\n"
+"宝箱のふたは固く閉じられていて開かない！"
+msgstr "宝箱的盖子紧紧关着，打不开！"
+
+#. ID 62, Page 3, Line 70, Pos (8,13)
+msgid ""
+"\n"
+"…\\.箱の中で何かが蠢き続けているようだ"
+msgstr "…\\.箱子里好像有什么东西一直在蠢动"
+
+#. ID 62, Page 4, Line 4, Pos (8,13)
+msgid ""
+"\n"
+"宝箱のふたが開いている…"
+msgstr "宝箱的盖子开着……"
+
+#. ID 62, Page 4, Line 6, Pos (8,13)
+msgid ""
+"\n"
+"…！！\n"
+"箱の中に\\n[\\v[535]]を見つけた！"
+msgstr "……！！在箱子里找到了\\n[\\v[535]]！"
+
+#. ID 62, Page 4, Line 9, Pos (8,13)
+msgid ""
+"\n"
+"…ぐったりしていて動かない。\n"
+"ずっとあの箱の中にいたのだろうか…？"
+msgstr "……瘫软着不动。难道一直在那个箱子里吗……？"
+
+#. ID 62, Page 5, Line 3, Pos (8,13)
+msgid ""
+"\\n[\\v[535]]を弄び尽くして満足したのか\n"
+"中のモンスターは居眠りをしているようだ。\n"
+"蓋が開いたままになっている…"
+msgstr ""
+"似乎是玩弄\\n[\\v[535]]玩够了、满足了，\n"
+"里面的魔物正在打瞌睡。盖子就那样敞开着……"
+
+#. ID 63, Page 2, Line 33, Pos (12,13)
+msgid ""
+"\n"
+"閉じ込められた！"
+msgstr "被关在里面了！"

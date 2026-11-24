@@ -1,0 +1,426 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 35, Page 4, Line 4, Pos (11,11)
+msgid ""
+"力が……勝手に………\n"
+"あ…あいつを止めて……！！"
+msgstr "力量……擅自………快…快阻止那家伙……！！"
+
+#. ID 35, Page 5, Line 4, Pos (11,11)
+msgid "こ……この縄………はずして……お願い……"
+msgstr "这……这条绳子………解开……求你了……"
+
+#. ID 35, Page 5, Line 12, Pos (11,11)
+msgid "魔神に着けられていた縄をはずした。"
+msgstr "解开了魔神身上绑着的绳子。"
+
+#. ID 35, Page 5, Line 13, Pos (11,11)
+msgid "魔導革紐を手に入れた。"
+msgstr "获得了魔导革绳。"
+
+#. ID 35, Page 5, Line 20, Pos (11,11)
+msgid ""
+"けほ……けほ…………\n"
+"ありがと………助けてくれて。"
+msgstr "咳……咳…………谢谢………你救了我。"
+
+#. ID 35, Page 5, Line 23, Pos (11,11)
+msgid ""
+"私はまた眠るよ。\n"
+"でもその前に……\n"
+"あなたにお礼をしなくちゃね。"
+msgstr "我又要沉睡了。但在那之前……得向你道谢才行。"
+
+#. ID 35, Page 5, Line 26, Pos (11,11)
+#. Contains choice at line 2 (3 options)
+msgid "どうしよう？"
+msgstr "怎么办呢？"
+
+#. ID 35, Page 5, Line 27, Pos (11,11)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"私に力をくれ！\n"
+"いい装備をくれ！\n"
+"礼には及びません…"
+msgstr ""
+"给我力量！\n"
+"给我好装备！\n"
+"不必道谢…"
+
+#. ID 35, Page 5, Line 30, Pos (11,11)
+msgid "十分強くね？"
+msgstr "已经够强了吧？"
+
+#. ID 35, Page 5, Line 32, Pos (11,11)
+msgid ""
+"まあいいけどね。\n"
+"力が欲しいか。欲しけりゃくれてやる。"
+msgstr "嘛，也行吧。想要力量吗？想要的话就给你。"
+
+#. ID 35, Page 5, Line 47, Pos (11,11)
+msgid "能力を底上げしたよ。"
+msgstr "提升了基础能力哦。"
+
+#. ID 35, Page 5, Line 51, Pos (11,11)
+msgid "価値はわかんないけど……"
+msgstr "虽然不知道价值如何……"
+
+#. ID 35, Page 5, Line 59, Pos (11,11)
+msgid "魔神の斧をもらった。"
+msgstr "获得了魔神之斧。"
+
+#. ID 35, Page 5, Line 65, Pos (11,11)
+msgid "装備できなかったらごめんね。"
+msgstr "要是装备不上就抱歉了。"
+
+#. ID 35, Page 5, Line 69, Pos (11,11)
+msgid ""
+"慎ましい人ね。\n"
+"そういう人に馬鹿を見せるわけには\n"
+"いかないよね。一応神らしいし。"
+msgstr ""
+"真是谦逊的人呢。可不能让这种人吃亏吧。\n"
+"我好歹也是神嘛。"
+
+#. ID 35, Page 5, Line 80, Pos (11,11)
+msgid ""
+"プライムブルーをもらった。\n"
+"ソウルポット１６をもらった。"
+msgstr "获得了原初蓝。获得了灵魂壶16。"
+
+#. ID 35, Page 5, Line 87, Pos (11,11)
+msgid "それなら持ってても困らないでしょう。"
+msgstr "那样的话，带着也不会麻烦吧。"
+
+#. ID 35, Page 5, Line 95, Pos (11,11)
+msgid ""
+"ふぁああ……\n"
+"また眠くなってきちゃった。\n"
+"じゃあ、元気でね。"
+msgstr "呼啊啊……又开始犯困了。那么，保重哦。"
+
+#. ID 37, Page 2, Line 3, Pos (10,24)
+#. ID 38, Page 2, Line 3, Pos (11,24)
+#. ID 39, Page 2, Line 3, Pos (12,24)
+msgid "書体が古すぎて読むことが出来ない。"
+msgstr "字体太古老了，无法阅读。"
+
+#. ID 40, Page 2, Line 3, Pos (12,29)
+msgid "！！！"
+msgstr "！！！"
+
+#. ID 40, Page 2, Line 11, Pos (12,29)
+#. ID 57, Page 2, Line 3, Pos (0,9)
+msgid "羊が結晶の前で祈祷している……"
+msgstr "羊在结晶前祈祷着……"
+
+#. ID 40, Page 2, Line 17, Pos (12,29)
+#. ID 57, Page 2, Line 9, Pos (0,9)
+msgid ""
+"○×△□…………\n"
+"めけええええええええええええええ！！！"
+msgstr "○×△□…………咩耶耶耶耶耶耶耶耶耶耶耶耶耶耶！！！"
+
+#. ID 40, Page 2, Line 39, Pos (12,29)
+#. ID 57, Page 2, Line 30, Pos (0,9)
+msgid ""
+"ふああ………\n"
+"ここは？"
+msgstr "呼啊啊………这里是？"
+
+#. ID 40, Page 2, Line 50, Pos (12,29)
+#. ID 57, Page 2, Line 41, Pos (0,9)
+msgid "目覚めたか、魔神よ……"
+msgstr "醒来了吗，魔神啊……"
+
+#. ID 40, Page 2, Line 56, Pos (12,29)
+#. ID 57, Page 2, Line 47, Pos (0,9)
+msgid ""
+"マジン……？\n"
+"魔神って、私のこと…………？"
+msgstr "魔神……？魔神说的是我…………？"
+
+#. ID 40, Page 2, Line 63, Pos (12,29)
+#. ID 57, Page 2, Line 54, Pos (0,9)
+msgid ""
+"目覚めたばかりで朦朧としているようだな。\n"
+"\n"
+"……オイ。"
+msgstr "看来刚醒来还迷迷糊糊的。……喂。"
+
+#. ID 40, Page 2, Line 67, Pos (12,29)
+#. ID 57, Page 2, Line 58, Pos (0,9)
+msgid "かしこまりました。"
+msgstr "遵命。"
+
+#. ID 40, Page 2, Line 75, Pos (12,29)
+#. ID 57, Page 2, Line 66, Pos (0,9)
+msgid "ん？なあに？"
+msgstr "嗯？怎么了？"
+
+#. ID 40, Page 2, Line 77, Pos (12,29)
+#. ID 57, Page 2, Line 68, Pos (0,9)
+msgid "なに、たいしたことじゃありませんよ……"
+msgstr "没什么，不是什么大不了的事哦……"
+
+#. ID 40, Page 2, Line 85, Pos (12,29)
+#. ID 57, Page 2, Line 76, Pos (0,9)
+msgid ""
+"え？\n"
+"ちょっとこれって……？"
+msgstr "诶？等一下，这是……？"
+
+#. ID 40, Page 2, Line 96, Pos (12,29)
+#. ID 57, Page 2, Line 87, Pos (0,9)
+msgid "と……とれない……！！"
+msgstr "解……解不开……！！"
+
+#. ID 40, Page 2, Line 98, Pos (12,29)
+#. ID 57, Page 2, Line 89, Pos (0,9)
+msgid "自分では外せませんよ。"
+msgstr "自己是解不开的哦。"
+
+#. ID 40, Page 2, Line 100, Pos (12,29)
+#. ID 57, Page 2, Line 91, Pos (0,9)
+msgid "この……お前なんか………！！"
+msgstr "你这……家伙………！！"
+
+#. ID 40, Page 2, Line 102, Pos (12,29)
+#. ID 57, Page 2, Line 93, Pos (0,9)
+msgid "おっと……旦那様。"
+msgstr "哦哟……主人。"
+
+#. ID 40, Page 2, Line 104, Pos (12,29)
+#. ID 57, Page 2, Line 95, Pos (0,9)
+msgid "うむ。"
+msgstr "嗯。"
+
+#. ID 40, Page 2, Line 112, Pos (12,29)
+#. ID 57, Page 2, Line 103, Pos (0,9)
+msgid "ぎゃっ！？"
+msgstr "呀啊！？"
+
+#. ID 40, Page 2, Line 114, Pos (12,29)
+#. ID 57, Page 2, Line 105, Pos (0,9)
+msgid "ふむ、問題なく作動しますね。"
+msgstr "唔嗯，运作正常呢。"
+
+#. ID 40, Page 2, Line 122, Pos (12,29)
+#. ID 57, Page 2, Line 113, Pos (0,9)
+msgid ""
+"実感していただけたでしょう。その縄は\n"
+"あなたを調教するために作られた拷問具。\n"
+"魔力も強力に制限できます。"
+msgstr ""
+"您应该已经亲身感受到了吧。\n"
+"那条绳子是为了调教你而制造的拷问道具。\n"
+"也能强力限制魔力。"
+
+#. ID 40, Page 2, Line 126, Pos (12,29)
+#. ID 57, Page 2, Line 117, Pos (0,9)
+msgid ""
+"な…んだ……て…………？\n"
+"どうしてこんなもの…………"
+msgstr "什…么……这是…………？为什么会有这种东西…………"
+
+#. ID 40, Page 2, Line 129, Pos (12,29)
+#. ID 57, Page 2, Line 120, Pos (0,9)
+msgid ""
+"魔神の力を手に入れるため……ですよ。\n"
+"あなたを手駒とすることができれば………\n"
+"国とすら対等以上に戦うことができます。"
+msgstr ""
+"为了得到魔神之力……哦。只要能把你变成棋子………\n"
+"就能与国家平起平坐甚至更强地战斗。"
+
+#. ID 40, Page 2, Line 133, Pos (12,29)
+#. ID 57, Page 2, Line 124, Pos (0,9)
+msgid ""
+"いやだよ！\n"
+"お前たちなんかに力を貸すなんて！！"
+msgstr "不要！我才不会把力量借给你们这种家伙！！"
+
+#. ID 40, Page 2, Line 136, Pos (12,29)
+#. ID 57, Page 2, Line 127, Pos (0,9)
+msgid ""
+"わかってねえなぁ、魔神様。\n"
+"あんたに選択肢はねえんだよ……"
+msgstr "你还不明白啊，魔神大人。你没有选择的余地……"
+
+#. ID 40, Page 2, Line 145, Pos (12,29)
+#. ID 57, Page 2, Line 136, Pos (0,9)
+msgid "いっ……！！"
+msgstr "呜……！！"
+
+#. ID 40, Page 2, Line 151, Pos (12,29)
+#. ID 57, Page 2, Line 142, Pos (0,9)
+msgid "では、ご主人様。契約といきましょう。"
+msgstr "那么，主人。来订立契约吧。"
+
+#. ID 40, Page 2, Line 153, Pos (12,29)
+#. ID 57, Page 2, Line 144, Pos (0,9)
+msgid "クク……そうだな…………"
+msgstr "呵呵……是啊…………"
+
+#. ID 40, Page 2, Line 159, Pos (12,29)
+#. ID 57, Page 2, Line 150, Pos (0,9)
+msgid "け……契約……？"
+msgstr "契……契约……？"
+
+#. ID 40, Page 2, Line 165, Pos (12,29)
+#. ID 57, Page 2, Line 156, Pos (0,9)
+msgid ""
+"そんなこともお忘れですか？\n"
+"魔神とはいえ、悪魔は悪魔。契りを交わす\n"
+"ことにより契約は成されます。"
+msgstr ""
+"连这种事都忘了吗？虽说是魔神，\n"
+"但恶魔终究是恶魔。通过交合，契约便告成立。"
+
+#. ID 40, Page 2, Line 173, Pos (12,29)
+#. ID 57, Page 2, Line 164, Pos (0,9)
+msgid "契りって…………"
+msgstr "交合是…………"
+
+#. ID 40, Page 2, Line 175, Pos (12,29)
+#. ID 57, Page 2, Line 166, Pos (0,9)
+msgid ""
+"いやだよ！！おまえとなんか……\n"
+"同意しかねるよ！！\n"
+"不履行だ！！！"
+msgstr ""
+"不要！！和你这种东西……我无法同意！！\n"
+"我拒绝履行！！！"
+
+#. ID 40, Page 2, Line 187, Pos (12,29)
+#. ID 57, Page 2, Line 178, Pos (0,9)
+msgid "ひぎゃあ！！"
+msgstr "呀啊啊！！"
+
+#. ID 40, Page 2, Line 193, Pos (12,29)
+#. ID 57, Page 2, Line 184, Pos (0,9)
+msgid "だからよお……おまえに拒否権はねえの。"
+msgstr "所以说啊……你没有拒绝权。"
+
+#. ID 40, Page 2, Line 194, Pos (12,29)
+#. ID 57, Page 2, Line 185, Pos (0,9)
+msgid ""
+"安心しろよ…\n"
+"すぐに自ら進んで俺に傅くようになるんだからよ。"
+msgstr "放心吧…你很快就会主动向我臣服的。"
+
+#. ID 40, Page 2, Line 197, Pos (12,29)
+#. ID 57, Page 2, Line 210, Pos (0,9)
+msgid "いや…いやだああああああああああ！！"
+msgstr "不要…不要啊啊啊啊啊啊啊啊啊啊！！"
+
+#. ID 40, Page 2, Line 205, Pos (12,29)
+msgid "ん？"
+msgstr "嗯？"
+
+#. ID 40, Page 2, Line 217, Pos (12,29)
+msgid ""
+"誰かと思えば…\n"
+"使い捨ての小悪党じゃないですか。"
+msgstr "我还以为是谁呢…不正是用完就丢的小反派吗。"
+
+#. ID 40, Page 2, Line 219, Pos (12,29)
+msgid "わざわざ殺されに来たんですか。"
+msgstr "特意来送死的吗。"
+
+#. ID 40, Page 2, Line 224, Pos (12,29)
+msgid ""
+"いいでしょう、むしろ手間が省けました。\n"
+"ここで殺してさしあげます。\n"
+"…旦那様、魔神の力を解放してください！"
+msgstr ""
+"好吧，反倒省事了。就在这里杀了你。…主人，\n"
+"请解放魔神之力！"
+
+#. ID 40, Page 2, Line 228, Pos (12,29)
+msgid "いいだろう、馴らし運転といこうか。"
+msgstr "好吧，就当是试运转吧。"
+
+#. ID 40, Page 2, Line 236, Pos (12,29)
+msgid ""
+"あう！？\n"
+"ち……力が……勝手に……"
+msgstr "啊呜！？力……力量……擅自……"
+
+#. ID 40, Page 2, Line 247, Pos (12,29)
+msgid "あ……あひ…………"
+msgstr "啊……啊嘻…………"
+
+#. ID 40, Page 2, Line 255, Pos (12,29)
+msgid "くくく……死になさい！！"
+msgstr "呵呵呵……去死吧！！"
+
+#. ID 57, Page 2, Line 196, Pos (0,9)
+msgid "ひっ！？"
+msgstr "咿！？"
+
+#. ID 57, Page 2, Line 198, Pos (0,9)
+msgid "観念しなって。"
+msgstr "认命吧。"
+
+#. ID 57, Page 2, Line 200, Pos (0,9)
+msgid "これから、仲良くしましょう？"
+msgstr "从今往后，我们好好相处吧？"
+
+#. ID 57, Page 2, Line 219, Pos (0,9)
+msgid "さあ、俺の物になっちまいな！！"
+msgstr "来吧，成为我的东西吧！！"
+
+#. ID 57, Page 2, Line 226, Pos (0,9)
+msgid "いやだ、やめろ、やめろおおおおおおお！"
+msgstr "不要，住手，住手啊啊啊啊啊啊啊！"
+
+#. ID 57, Page 2, Line 241, Pos (0,9)
+msgid ""
+"いぎっ！\n"
+"……ぎゃっ！！"
+msgstr "咿咕！……呀啊！！"
+
+#. ID 57, Page 2, Line 257, Pos (0,9)
+msgid ""
+"ふはははは……！！\n"
+"これで………魔神の力は俺様のもんだあっ！！！"
+msgstr ""
+"呼哈哈哈哈……！！这样一来………\n"
+"魔神之力就是本大爷的了啊！！！"
+
+#. ID 57, Page 2, Line 260, Pos (0,9)
+msgid ""
+"ひぐっ！\n"
+"誰か………誰かあああああああああ！！！"
+msgstr "呜咕！谁………谁来啊啊啊啊啊啊啊啊啊！！！"
+
+#. ID 57, Page 2, Line 275, Pos (0,9)
+msgid ""
+"あぐ……\n"
+"…………ひっ………"
+msgstr "啊咕………………咿………"
+
+#. ID 57, Page 2, Line 278, Pos (0,9)
+msgid "はぁ……はぁ……………"
+msgstr "哈啊……哈啊……………"
+
+#. ID 57, Page 2, Line 283, Pos (0,9)
+msgid "これからよろしく頼みますよ……魔神様？"
+msgstr "今后就请多关照了……魔神大人？"
+
+#. ID 57, Page 2, Line 289, Pos (0,9)
+msgid "あぅ………"
+msgstr "啊呜………"

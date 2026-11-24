@@ -1,0 +1,48 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 15, Pos (0,8)
+#. ID 17, Page 2, Line 15, Pos (19,8)
+#. ID 23, Page 2, Line 7, Pos (9,2)
+msgid "…扉はロックされているようだ"
+msgstr "…门好像被锁住了"
+
+#. ID 15, Page 2, Line 12, Pos (1,6)
+#. ID 20, Page 2, Line 13, Pos (18,6)
+msgid "トビラ ヲ ヒラキマス"
+msgstr "打 开 门"
+
+#. ID 15, Page 2, Line 27, Pos (1,6)
+#. ID 20, Page 2, Line 28, Pos (18,6)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 5.00"
+msgstr ""
+"卡钥匙 的 版本 请提升当前的 版本 　　\\v[1102].\n"
+"00解锁 所 需 的 版本 5.00"
+
+#. ID 15, Page 2, Line 39, Pos (1,6)
+#. ID 20, Page 2, Line 40, Pos (18,6)
+msgid "カードキー ヲ イレテクダサイ"
+msgstr "请 插 入 卡钥匙"
+
+#. ID 22, Page 2, Line 16, Pos (7,2)
+msgid "電源 ガ 通ッテイマセン"
+msgstr "电源 未 接通"
+
+#. ID 25, Page 2, Line 3, Pos (10,7)
+msgid "工事中だよ！"
+msgstr "正在施工哦！"

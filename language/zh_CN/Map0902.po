@@ -1,0 +1,186 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (7,4)
+#. ID 3, Page 1, Line 3, Pos (12,4)
+msgid "＊……開かない。"
+msgstr "＊……打不开。"
+
+#. ID 4, Page 1, Line 4, Pos (11,8)
+msgid "出口なんてありませんから。"
+msgstr "因为根本就没有出口。"
+
+#. ID 4, Page 1, Line 6, Pos (11,8)
+#. Contains choice at line 2 (2 options)
+msgid "\\>[全開放]しますか？"
+msgstr "\\>要[全开放]吗？"
+
+#. ID 4, Page 1, Line 7, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"しない"
+msgstr ""
+"做\n"
+"不做"
+
+#. ID 5, Page 1, Line 3, Pos (9,6)
+msgid "ここは追体験の部屋"
+msgstr "这里是追体验的房间"
+
+#. ID 5, Page 1, Line 4, Pos (9,6)
+msgid "色々な冒険者達が体験した出来事を追体験出来る。"
+msgstr "可以追体验各种冒险者所经历的事件。"
+
+#. ID 5, Page 1, Line 5, Pos (9,6)
+msgid ""
+"また、もしあの戦いで敗れていたら\n"
+"どうなってしまっていただろうか、\n"
+"などのifを見る事も出来る。"
+msgstr ""
+"另外，如果在那场战斗中败北的话\n"
+"会变成什么样呢、\n"
+"也能看到诸如此类的if。"
+
+#. ID 9, Page 1, Line 3, Pos (13,10)
+msgid ""
+"\n"
+"[RAYON]"
+msgstr ""
+"\n"
+"[RAYON]"
+
+#. ID 10, Page 3, Line 3, Pos (15,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[裏通り - 牢獄]\n"
+"\\>"
+msgstr ""
+"\\>[后巷 - 牢狱]\n"
+"\\>"
+
+#. ID 10, Page 3, Line 5, Pos (15,10)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 3, Line 5, Pos (15,12)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 3, Line 5, Pos (15,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>見る\n"
+"\\>見ない"
+msgstr ""
+"\\>查看\n"
+"\\>不看"
+
+#. ID 10, Page 3, Line 8, Pos (15,10)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:裏通り"
+msgstr "end:后巷"
+
+#. ID 11, Page 1, Line 3, Pos (13,12)
+#. ID 12, Page 1, Line 3, Pos (13,14)
+#. ID 13, Page 1, Line 3, Pos (13,16)
+msgid ""
+"\n"
+"[？？？]"
+msgstr ""
+"\n"
+"[？？？]"
+
+#. ID 11, Page 2, Line 3, Pos (13,12)
+msgid ""
+"\n"
+"[近くの森]"
+msgstr ""
+"\n"
+"[附近的森林]"
+
+#. ID 12, Page 2, Line 3, Pos (13,14)
+msgid ""
+"\n"
+"[岩山の洞窟]"
+msgstr ""
+"\n"
+"[岩山山洞]"
+
+#. ID 13, Page 2, Line 3, Pos (13,16)
+msgid ""
+"\n"
+"[海底神殿]"
+msgstr ""
+"\n"
+"[海底神殿]"
+
+#. ID 14, Page 1, Line 3, Pos (13,18)
+msgid ""
+"\n"
+"[蟲毒の迷宮]"
+msgstr ""
+"\n"
+"[虫毒迷宫]"
+
+#. ID 15, Page 3, Line 3, Pos (15,14)
+#. Contains choice at line 2 (3 options)
+msgid "\\>[らみあの巣]"
+msgstr "\\>[拉米亚的巢]"
+
+#. ID 15, Page 3, Line 4, Pos (15,14)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>見る - 転生あり\n"
+"\\>見る - 転生無し\n"
+"\\>見ない"
+msgstr ""
+"\\>查看 - 有转生\n"
+"\\>查看 - 无转生\n"
+"\\>不看"
+
+#. ID 15, Page 3, Line 7, Pos (15,14)
+#. ChangeHeroName (Actor 115)
+#. ID 15, Page 3, Line 14, Pos (15,14)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:らみあ"
+msgstr "end:拉米亚"
+
+#. ID 16, Page 3, Line 3, Pos (15,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[ゴブリンの巣]\n"
+"\\>"
+msgstr ""
+"\\>[哥布林的巢]\n"
+"\\>"
+
+#. ID 16, Page 3, Line 8, Pos (15,12)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:ゴブリン"
+msgstr "end:哥布林"
+
+#. ID 17, Page 3, Line 3, Pos (15,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[クラーケン]\n"
+"\\>"
+msgstr ""
+"\\>[克拉肯]\n"
+"\\>"
+
+#. ID 17, Page 3, Line 8, Pos (15,16)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:海神"
+msgstr "end:海神"

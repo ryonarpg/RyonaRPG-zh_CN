@@ -1,0 +1,63 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 59, Page 2, Line 3, Pos (32,13)
+msgid "………？\\.\\^"
+msgstr "………？\\.\\^"
+
+#. ID 59, Page 2, Line 4, Pos (32,13)
+msgid ""
+"………\n"
+"\\s[2]……\\s[1]…！！"
+msgstr ""
+"………\n"
+"\\s[2]……\\s[1]…！！"
+
+#. ID 59, Page 2, Line 10, Pos (32,13)
+msgid ""
+"謎の生物に触れた瞬間、\n"
+"肌に鋭い痛みが走った！"
+msgstr "触碰到神秘生物的瞬间，皮肤上窜过一阵剧痛！"
+
+#. ID 59, Page 2, Line 16, Pos (32,13)
+msgid ""
+"……少しぴりっと痺れを感じたが、\n"
+"体に異常はないようだ"
+msgstr "……虽然感到一点刺痛般的麻痹，但身体似乎没有异常"
+
+#. ID 59, Page 2, Line 29, Pos (32,13)
+msgid ""
+"………………………………\\.\\.？\\.\\.\n"
+"体が…\\.\\.痺れ…\\.\\.る…\\.\\.…\\.\\."
+msgstr ""
+"………………………………\\.\\.？\\.\\.身体…\\.\\.麻…\\.\\.痹…\n"
+"\\.\\.了…\\.\\.…\\.\\."
+
+#. ID 59, Page 2, Line 37, Pos (32,13)
+msgid "何か毒を流し込まれたようだ…\\.\\.…\\.\\."
+msgstr "好像被灌入了某种毒…\\.\\.…\\.\\."
+
+#. ID 59, Page 2, Line 42, Pos (32,13)
+msgid "(まずい…\\.\\.…\\.\\.何とかして水上に出ないと…\\.\\.…\\.\\.)"
+msgstr "(不妙…\\.\\.…\\.\\.得想办法浮出水面才行…\\.\\.…\\.\\.)"
+
+#. ID 59, Page 2, Line 52, Pos (32,13)
+msgid "(顎に力が入らない…\\.\\.…\\.\\.息が…\\.\\.漏れちゃう…\\.\\.…\\.\\.)"
+msgstr ""
+"(下巴使不上力…\\.\\.…\\.\\.气…\\.\\.漏出来了…\\.\\.…\n"
+"\\.\\.)"
+
+#. ID 59, Page 2, Line 65, Pos (32,13)
+msgid "(ダメ…\\.\\.…\\.\\.意識…\\.\\.が…\\.\\.…\\.\\.)"
+msgstr "(不行…\\.\\.…\\.\\.意识…\\.\\.要…\\.\\.…\\.\\.)"

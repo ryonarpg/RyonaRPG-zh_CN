@@ -1,0 +1,58 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 7, Page 1, Line 5, Pos (0,15)
+msgid "今回の生物は蜂少女です"
+msgstr "这次的生物是蜂少女"
+
+#. ID 7, Page 1, Line 6, Pos (0,15)
+msgid "さぁ皆、今日の授業は変態生物学です。"
+msgstr "来吧各位，今天的课是变态生物学。"
+
+#. ID 7, Page 1, Line 11, Pos (0,15)
+msgid "さあ、いきなさい"
+msgstr "来吧，上吧"
+
+#. ID 7, Page 1, Line 101, Pos (0,15)
+msgid ""
+"ふふふ…\n"
+"蜂少女は他の女性を転生させて仲間にかえてしまうの"
+msgstr "呵呵呵…蜂少女会把其他女性转生，并变成同伴哦"
+
+#. ID 7, Page 1, Line 103, Pos (0,15)
+msgid ""
+"でも心配ないわ。\n"
+"一月以内くらいなら、ちゃんと元に戻せるから"
+msgstr "但不用担心。只要在一个月以内，就能好好恢复原状"
+
+#. ID 7, Page 1, Line 119, Pos (0,15)
+msgid "…え？"
+msgstr "……诶？"
+
+#. ID 7, Page 1, Line 140, Pos (0,15)
+msgid ""
+"・・・・・・・・・・・・・・・・・・・・\n"
+"ちょっと、待っ！？"
+msgstr ""
+"・・・・・・・・・・・・・・・・・・・・等\n"
+"　一下，等等！？"
+
+#. ID 7, Page 1, Line 159, Pos (0,15)
+msgid ""
+"こうして…\n"
+"\\N[\\V[6]]は学院の教師として、ス○ーパーの\n"
+"奴隷を育て続けるのだった…"
+msgstr ""
+"就这样…\\N[\\V[6]]作为学院的教师，\n"
+"继续培养超○级的奴隶…"

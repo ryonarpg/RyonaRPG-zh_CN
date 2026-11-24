@@ -1,0 +1,177 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (22,6)
+#. ID 9, Page 1, Line 3, Pos (14,4)
+msgid ""
+"お姉様、こんばんわ。\n"
+"私はいつでもお姉様の物です。"
+msgstr "姐姐大人，晚上好。我永远是姐姐大人的东西。"
+
+#. ID 4, Page 1, Line 3, Pos (21,6)
+msgid "……ご主人様、ご命令を。"
+msgstr "……主人，请下令。"
+
+#. ID 5, Page 1, Line 3, Pos (20,7)
+msgid ""
+"あっ、ママ！\n"
+"これはわたしのおもちゃだからあげないよ！"
+msgstr "啊，妈妈！这是我的玩具，不会给你的哦！"
+
+#. ID 6, Page 1, Line 3, Pos (20,8)
+msgid ""
+"我が主。\n"
+"私にできることがあるのなら\n"
+"何でもいたしましょう。"
+msgstr ""
+"我的主人。若有我能做到的事，\n"
+"无论什么我都会去做。"
+
+#. ID 7, Page 1, Line 3, Pos (20,6)
+msgid ""
+"あら、貴方。\n"
+"わたくしに会いに来たのね。\n"
+"たっぷりかわいがってくれていいのよ？"
+msgstr "哎呀，你。是来见我的吧。可以尽情疼爱我哦？"
+
+#. ID 8, Page 1, Line 3, Pos (22,9)
+msgid "ひっ！た、たすけ……！"
+msgstr "咿！救、救命……！"
+
+#. ID 8, Page 1, Line 5, Pos (22,9)
+msgid "＊さて、どうしたものか？"
+msgstr "＊那么，该怎么办呢？"
+
+#. ID 8, Page 1, Line 6, Pos (22,9)
+#. Choice (4 options)
+msgid ""
+"転生させる\n"
+"仲間たちに任せる\n"
+"自身の実験の実験台にする\n"
+"何もしない"
+msgstr ""
+"使其转生\n"
+"交给同伴们\n"
+"作为自己实验的实验体\n"
+"什么都不做"
+
+#. ID 8, Page 1, Line 24, Pos (22,9)
+msgid "\\n[\\v[6]]にその力はない。"
+msgstr "\\n[\\v[6]]没有那种力量。"
+
+#. ID 8, Page 1, Line 28, Pos (22,9)
+msgid "い、いや！た、たすけ\\.\\^"
+msgstr "不、不要！救、救命\\.\\^"
+
+#. ID 8, Page 1, Line 39, Pos (22,9)
+msgid "ひっ……！そんなのはいら……！"
+msgstr "咿……！那种东西不需要……！"
+
+#. ID 8, Page 1, Line 45, Pos (22,9)
+msgid "痛い！痛い！イタイイタイタイ……！"
+msgstr "好痛！好痛！好痛好痛好痛……！"
+
+#. ID 8, Page 1, Line 52, Pos (22,9)
+msgid "あっ……\\.\\.　中……\\.\\.　でて……"
+msgstr "啊……\\.\\.　里面……\\.\\.　要出来了……"
+
+#. ID 8, Page 1, Line 58, Pos (22,9)
+msgid "ああああああ……"
+msgstr "啊啊啊啊啊啊……"
+
+#. ID 8, Page 1, Line 84, Pos (22,9)
+msgid "こ……\\.これだけは……やめて……！"
+msgstr "这……\\.只有这个……住手……！"
+
+#. ID 8, Page 1, Line 85, Pos (22,9)
+msgid ""
+"私が私じゃなくなっちゃう！\n"
+"今ならまだ間に合うわ！\n"
+"すぐにここから出して！"
+msgstr ""
+"我会变得不再是我！现在的话还来得及！\n"
+"马上放我出去！"
+
+#. ID 8, Page 1, Line 94, Pos (22,9)
+msgid "ひ……！！"
+msgstr "咿……！！"
+
+#. ID 8, Page 1, Line 103, Pos (22,9)
+msgid "ッ……！"
+msgstr "唔……！"
+
+#. ID 8, Page 1, Line 172, Pos (22,9)
+msgid "ワタシ……\\.トロケテ……\\.キモチイイ……"
+msgstr "我……\\.融化了……\\.好舒服……"
+
+#. ID 8, Page 1, Line 186, Pos (22,9)
+msgid ""
+"ちっ！てこずらせたわね！\n"
+"お前ら全員エネルギーにしてやるわ！"
+msgstr ""
+"可恶！让我费了不少功夫呢！\n"
+"你们全都给我变成能量吧！"
+
+#. ID 8, Page 1, Line 194, Pos (22,9)
+msgid "\\n[\\v[6]]は繭の中に入れられてしまった！"
+msgstr "\\n[\\v[6]]被关进茧里了！"
+
+#. ID 8, Page 1, Line 200, Pos (22,9)
+msgid "あ……\\.あ……\\.　たす　\\.\\.　けて\\.\\."
+msgstr "啊……\\.啊……\\.　救　\\.\\.　救我\\.\\."
+
+#. ID 8, Page 1, Line 205, Pos (22,9)
+msgid "から\\.\\.　だ\\.\\.　が\\.\\.　とけ\\.\\.　てい\\.\\.　く\\.\\.　"
+msgstr "身\\.\\.　体\\.\\.　正\\.\\.　在\\.\\.　融\\.\\.　化\\.\\."
+
+#. ID 8, Page 1, Line 210, Pos (22,9)
+msgid ""
+"あっ\\.\\.　　たかい\\.\\.\\. \n"
+"キモチ\\.イ　　イ　　"
+msgstr "啊\\.\\.　　好高\\.\\.\\. 好\\.舒　　服"
+
+#. ID 8, Page 1, Line 216, Pos (22,9)
+msgid ""
+"じぶ\\.\\.　　んが\\.\\.　じぶん\\.\\.　で\\.\\.\n"
+"なくな\\.\\.\\.　　　る　　\\.\\."
+msgstr ""
+"自\\.\\.　　己\\.\\.　自\\.\\.　己\\.\\.　不\\.\\.再是\\.\n"
+"\\.\\.　　　了　　\\.\\."
+
+#. ID 8, Page 1, Line 225, Pos (22,9)
+msgid "…………"
+msgstr "…………"
+
+#. ID 8, Page 1, Line 229, Pos (22,9)
+msgid ""
+"あら？完全に取り込まれたようね。\n"
+"他の奴と比べたら長く持った方かしら。"
+msgstr ""
+"哎呀？好像完全被吞噬了呢。和其他家伙比起来，\n"
+"算是撑得久的吧。"
+
+#. ID 8, Page 1, Line 231, Pos (22,9)
+msgid ""
+"やっぱり、自分で実験材料を\n"
+"連れてきた方が良さそうね。\n"
+"計画がパーになる所だったわ。"
+msgstr ""
+"果然，还是自己带实验材料来比较好呢。\n"
+"计划差点就泡汤了。"
+
+#. ID 8, Page 1, Line 239, Pos (22,9)
+msgid ""
+"今日もマッドサイエンティストの\n"
+"欲望はとどまりはしない。"
+msgstr "今天疯狂科学家的欲望也依然没有止境。"

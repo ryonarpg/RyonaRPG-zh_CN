@@ -1,0 +1,38 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 1, Pos (14,33)
+msgid ""
+"「ここは機械兵に取りこまれた後その中から解放された\n"
+"　人たちを収容している場所です。"
+msgstr ""
+"「这里收容的是被机械兵吞入后从中解放出来的　人\n"
+"　们。"
+
+#. ID 1, Page 1, Line 3, Pos (14,33)
+msgid ""
+"「ほとんどの方がまともな状態じゃなかったり、\n"
+"　既に絶命していることもあるので実質遺体安置所\n"
+"　みたいな場所です……。"
+msgstr ""
+"「大多数人都不是正常状态，或者已经断气了，\n"
+"　所以实际上就像遗体安置所　一样的地方……。"
+
+#. ID 1, Page 1, Line 6, Pos (14,33)
+msgid ""
+"「どの方も見るも無残な状態で発見されているので、\n"
+"　見学は自由ですけど覚悟を決めてくださいね。"
+msgstr ""
+"「每个人被发现时都是惨不忍睹的状态，\n"
+"　参观是自由的，但请做好心理准备哦。"

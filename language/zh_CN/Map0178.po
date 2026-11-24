@@ -1,0 +1,63 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 3, Pos (26,14)
+msgid "戦う時は、なるべく広い場所で！"
+msgstr "战斗时，尽量在宽敞的地方！"
+
+#. ID 14, Page 2, Line 3, Pos (22,14)
+msgid "肉弾戦の基本は、横軸or縦軸１マスずらし！"
+msgstr "肉搏战的基本是，横向或纵向错开1格！"
+
+#. ID 15, Page 2, Line 3, Pos (18,14)
+msgid ""
+"隣接しただけではダメージを受けることは\n"
+"ありません。\n"
+"敵が移動するタイミングを見切ろう！"
+msgstr "仅仅相邻并不会受到伤害。看准敌人移动的时机吧！"
+
+#. ID 16, Page 2, Line 3, Pos (14,14)
+msgid ""
+"回復アイテムを惜しんだ時が、\n"
+"あなたの死ぬときです。"
+msgstr "舍不得使用恢复道具之时，就是你死亡之时。"
+
+#. ID 17, Page 2, Line 3, Pos (10,14)
+msgid "自分の得意分野を見極め、それを活かそう！"
+msgstr "认清自己的擅长领域，并活用它吧！"
+
+#. ID 19, Page 2, Line 13, Pos (23,7)
+msgid ""
+"\n"
+"閉じ込められた！"
+msgstr "被关起来了！"
+
+#. ID 23, Page 2, Line 3, Pos (14,19)
+msgid ""
+"こういう不自然な場所には\n"
+"大抵何かが隠されています。\n"
+"\\.罠でいっぱいの処刑部屋とかが。"
+msgstr ""
+"这种不自然的地方大多藏着什么东西。\n"
+"\\.比如满是陷阱的处刑室之类的。"
+
+#. ID 25, Page 2, Line 3, Pos (16,11)
+msgid ""
+"たまに敵が　＊かべのなかにいる＊　ますが、\n"
+"敵に　なさけ　むよう　です！\n"
+"ぬっころすなり放置するなり好きにしましょう！"
+msgstr ""
+"偶尔敌人会　＊在墙壁之中＊　出现，\n"
+"但对敌人　无需留情　！是杀掉还是放着不管，\n"
+"随你喜欢！"

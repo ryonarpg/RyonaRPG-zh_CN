@@ -1,0 +1,133 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 8, Page 2, Line 8, Pos (4,12)
+#. Contains choice at line 2 (2 options)
+msgid "\\>…周辺には\\V[1]個の地雷があるようだ。"
+msgstr "\\>…周围似乎有\\V[1]个地雷。"
+
+#. ID 8, Page 2, Line 9, Pos (4,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>移動する\n"
+"\\>身代わり人形を使う(残り\\V[3]個)"
+msgstr ""
+"\\>移动\n"
+"\\>使用替身人偶(剩余\\V[3]个)"
+
+#. ID 8, Page 4, Line 4, Pos (4,12)
+msgid "\\>どの方向に進みますか？"
+msgstr "\\>要往哪个方向前进？"
+
+#. ID 8, Page 4, Line 8, Pos (4,12)
+#. Choice (4 options)
+#. ID 8, Page 7, Line 15, Pos (4,12)
+#. Choice (4 options)
+msgid ""
+"\\>$s\n"
+"\\>$w\n"
+"\\>$t\n"
+"\\>（次のページ）"
+msgstr ""
+"\\>$s\n"
+"\\>$w\n"
+"\\>$t\n"
+"\\>（下一页）"
+
+#. ID 8, Page 4, Line 54, Pos (4,12)
+#. Choice (4 options)
+#. ID 8, Page 7, Line 56, Pos (4,12)
+#. Choice (4 options)
+msgid ""
+"\\>$x\n"
+"\\>$u\n"
+"\\>$y\n"
+"\\>（次のページ）"
+msgstr ""
+"\\>$x\n"
+"\\>$u\n"
+"\\>$y\n"
+"\\>（下一页）"
+
+#. ID 8, Page 4, Line 95, Pos (4,12)
+#. Choice (3 options)
+#. ID 8, Page 7, Line 100, Pos (4,12)
+#. Choice (3 options)
+msgid ""
+"\\>$v\n"
+"\\>$z\n"
+"\\>（最初に戻る）"
+msgstr ""
+"\\>$v\n"
+"\\>$z\n"
+"\\>（返回最初）"
+
+#. ID 8, Page 4, Line 137, Pos (4,12)
+msgid "\\>その方向には進めません。"
+msgstr "\\>不能往那个方向前进。"
+
+#. ID 8, Page 7, Line 3, Pos (4,12)
+msgid "\\>身代わり人形はもう残っていません。"
+msgstr "\\>替身人偶已经没有剩余了。"
+
+#. ID 8, Page 7, Line 10, Pos (4,12)
+msgid "\\>どの方向に投げますか？"
+msgstr "\\>要往哪个方向投掷？"
+
+#. ID 8, Page 7, Line 136, Pos (4,12)
+msgid "\\>その方向には投げられません。"
+msgstr "\\>不能往那个方向投掷。"
+
+#. ID 8, Page 9, Line 6, Pos (4,12)
+msgid "この先の部屋からなんだか危険な気配がする。"
+msgstr "前面的房间总觉得有种危险的气息。"
+
+#. ID 8, Page 9, Line 9, Pos (4,12)
+msgid "…そう、例えば\\C[5]地雷\\C[0]でも埋まっていそうな…"
+msgstr "……对，比如说像埋着\\C[5]地雷\\C[0]之类的……"
+
+#. ID 8, Page 9, Line 10, Pos (4,12)
+#. Contains choice at line 2 (2 options)
+msgid "先に進みますか？"
+msgstr "要继续前进吗？"
+
+#. ID 8, Page 9, Line 11, Pos (4,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"い、行ってみる\n"
+"ちょっと待って"
+msgstr ""
+"我、我去看看\n"
+"等一下"
+
+#. ID 8, Page 9, Line 16, Pos (4,12)
+msgid ""
+"「身代わり人形」を怪しいマスに放り投げて\n"
+"地雷があるかどうか調べることが出来ます。"
+msgstr ""
+"可以把「替身人偶」扔到可疑的格子上，\n"
+"调查是否有地雷。"
+
+#. ID 13, Page 2, Line 11, Pos (2,10)
+msgid "身代わり人形を\\V[2]体手に入れた。"
+msgstr "获得了\\V[2]个替身人偶。"
+
+#. ID 13, Page 2, Line 14, Pos (2,10)
+msgid "宝箱は空っぽだった。"
+msgstr "宝箱是空的。"
+
+#. ID 20, Page 2, Line 8, Pos (1,5)
+#. ID 58, Page 2, Line 8, Pos (18,10)
+msgid "なんだか危険な気配が増えたような気がする…。"
+msgstr "总觉得危险的气息好像增加了……。"

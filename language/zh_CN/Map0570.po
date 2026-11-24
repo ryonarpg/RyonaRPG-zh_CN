@@ -1,0 +1,158 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 14, Page 2, Line 3, Pos (2,38)
+#. Contains choice at line 2 (2 options)
+msgid "外に出ますか？"
+msgstr "要出去吗？"
+
+#. ID 14, Page 2, Line 4, Pos (2,38)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 3, Line 4, Pos (0,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 16, Page 2, Line 3, Pos (3,24)
+msgid ""
+"魔法ギルドの女：\n"
+"んーー？どう見てもごろつき共の巣にしか見えないね。\n"
+"これはひょっとして、\n"
+"体よく夜盗の討伐を押しつけられた？"
+msgstr ""
+"魔法公会的女人：嗯——？\n"
+"怎么看都只像混混们的巢穴。这该不会是，\n"
+"被巧妙地硬塞了讨伐夜盗的任务？"
+
+#. ID 21, Page 2, Line 3, Pos (17,8)
+msgid ""
+"魔法ギルドの女：\n"
+"むう……高い所から狙って来るとは、卑怯ね。\n"
+"これは魔法がないと地の利がきついかな。"
+msgstr ""
+"魔法公会的女人：唔……从高处瞄准，真卑鄙。\n"
+"没有魔法的话，地利上会很艰难吧。"
+
+#. ID 21, Page 2, Line 6, Pos (17,8)
+msgid ""
+"魔法ギルドの女：\n"
+"次から次へと出てくるし……\n"
+"あとでたんまり報酬をもらわないと釣り合わないわね。"
+msgstr ""
+"魔法公会的女人：一个接一个地出来……\n"
+"之后不拿一大笔报酬可划不来。"
+
+#. ID 22, Page 2, Line 3, Pos (9,16)
+msgid ""
+"魔法ギルドの少女：\n"
+"あーーーーー！もう！！\n"
+"またエーテル盗られた！！"
+msgstr ""
+"魔法公会的少女：啊————！真是的！！\n"
+"以太又被偷了！！"
+
+#. ID 22, Page 2, Line 6, Pos (9,16)
+msgid ""
+"魔法ギルドの少女：\n"
+"いくら私たちが魔法使いだからって、姑息な真似を！！\n"
+"ムキーーーーー！！むかつく！！"
+msgstr ""
+"魔法公会的少女：就算我们是魔法师，\n"
+"竟敢用这种卑鄙手段！！气死我了————！！真火大！\n"
+"！"
+
+#. ID 23, Page 2, Line 3, Pos (12,22)
+msgid ""
+"魔法ギルドの少女：\n"
+"調査団たちの姿が見えませんね。\n"
+"こんな奴らに遅れを取るなんて……\n"
+"余程油断していたんでしょうか。"
+msgstr ""
+"魔法公会的少女：看不到调查团的身影呢。\n"
+"居然被这种家伙抢先……他们是不是太疏忽了？"
+
+#. ID 23, Page 2, Line 7, Pos (12,22)
+msgid ""
+"魔法ギルドの少女：\n"
+"粗方片づいたら、適当にとっちめて吐かせますかね。\n"
+"私たちを敵に回すということがどういうことなのか、\n"
+"この無法者共にわからせてやらなければなりません。"
+msgstr ""
+"魔法公会的少女：等大致收拾完了，\n"
+"就随便逮住他们逼供吧。\n"
+"必须让这些无法无天的家伙明白，\n"
+"与我们为敌意味着什么。"
+
+#. ID 24, Page 2, Line 3, Pos (20,10)
+msgid ""
+"魔法ギルドの上級魔導師：\n"
+"妙ですね。\n"
+"怪しい気配なんてなーんにも感じません。"
+msgstr ""
+"魔法公会的上级魔导师：奇怪呢。\n"
+"可疑的气息什么的，完全——感觉不到。"
+
+#. ID 24, Page 2, Line 6, Pos (20,10)
+msgid ""
+"魔法ギルド：\n"
+"野盗が煩わしくて気の流れもあまり探れないんですが。"
+msgstr "魔法公会：土匪很烦人，气流的探查也不太能进行。"
+
+#. ID 25, Page 2, Line 3, Pos (32,19)
+msgid ""
+"魔法使い：\n"
+"うへえ……魔力尽きた……もう、帰る…………\\!\n"
+"\\s[10]ごにょごにょ…………\\!\\s[1]デルダン！"
+msgstr ""
+"魔法师：呜嘿……魔力耗尽……我回去了…………\n"
+"\\!\\s[10]咕哝咕哝…………\\!\\s[1]德尔丹！"
+
+#. ID 42, Page 2, Line 3, Pos (0,18)
+#. Contains choice at line 2 (2 options)
+msgid "何かがキラキラ光っている。"
+msgstr "有什么东西闪闪发光。"
+
+#. ID 42, Page 2, Line 4, Pos (0,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"とる\n"
+"とらない"
+msgstr ""
+"拿\n"
+"不拿"
+
+#. ID 42, Page 2, Line 9, Pos (0,18)
+msgid "煌天使の筆を手に入れた。"
+msgstr "获得了煌天使之笔。"
+
+#. ID 42, Page 2, Line 14, Pos (0,18)
+msgid "\\c[11]レベル1固定の呪いを受けた！"
+msgstr "\\c[11]受到了等级1固定诅咒！"
+
+#. ID 42, Page 3, Line 3, Pos (0,18)
+#. Contains choice at line 2 (2 options)
+msgid "アイテムを元通りにしますか？"
+msgstr "要把道具恢复原状吗？"
+
+#. ID 42, Page 3, Line 9, Pos (0,18)
+msgid "煌天使の筆を元に戻した。"
+msgstr "将煌天使之笔恢复原状了。"
+
+#. ID 42, Page 3, Line 14, Pos (0,18)
+msgid "レベル1固定の呪いが解けた！"
+msgstr "等级1固定诅咒解除了！"

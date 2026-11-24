@@ -1,0 +1,117 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 2, Line 3, Pos (6,19)
+msgid "扉は硬く閉じられている……"
+msgstr "门紧紧地关闭着……"
+
+#. ID 3, Page 1, Line 7, Pos (12,19)
+#. ID 4, Page 1, Line 8, Pos (13,19)
+msgid "-三階第五教室-"
+msgstr "-三楼第五教室-"
+
+#. ID 5, Page 1, Line 3, Pos (26,19)
+msgid "特別講義室だ"
+msgstr "是特别讲义室"
+
+#. ID 5, Page 3, Line 3, Pos (26,19)
+#. ID 6, Page 3, Line 3, Pos (27,19)
+msgid "○リーパーの特別講義"
+msgstr "○利帕的特别讲义"
+
+#. ID 5, Page 3, Line 6, Pos (26,19)
+#. Contains choice at line 2 (2 options)
+#. ID 6, Page 3, Line 6, Pos (27,19)
+#. Contains choice at line 2 (2 options)
+msgid "この授業を受けますか？"
+msgstr "要接受这节课吗？"
+
+#. ID 5, Page 3, Line 7, Pos (26,19)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 3, Line 7, Pos (27,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 5, Page 4, Line 3, Pos (26,19)
+msgid ""
+"特別講義室\n"
+"\n"
+"講演予定は特にありません"
+msgstr "特别讲义室没有特别的演讲安排"
+
+#. ID 7, Page 3, Line 3, Pos (33,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"………ん？\n"
+"中から話し声が…"
+msgstr "………嗯？里面传来说话声……"
+
+#. ID 7, Page 3, Line 5, Pos (33,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"入る\n"
+"入らない"
+msgstr ""
+"进去\n"
+"不进去"
+
+#. ID 7, Page 3, Line 17, Pos (33,19)
+msgid "なんだか嫌な予感がする。やめておこう。"
+msgstr "总觉得有种不祥的预感。还是算了吧。"
+
+#. ID 11, Page 1, Line 7, Pos (12,24)
+#. ID 12, Page 1, Line 7, Pos (13,24)
+msgid "-三階第二教室-"
+msgstr "-三楼第二教室-"
+
+#. ID 13, Page 1, Line 1, Pos (26,24)
+#. ID 14, Page 1, Line 1, Pos (27,24)
+#. ID 15, Page 1, Line 1, Pos (33,24)
+#. ID 16, Page 1, Line 1, Pos (34,24)
+msgid "NO DATA -現在イベントがありません（製作者募集中）-"
+msgstr "NO DATA -当前没有事件（正在招募制作者）-"
+
+#. ID 19, Page 1, Line 31, Pos (19,14)
+msgid "-校長室-"
+msgstr "-校长室-"
+
+#. ID 33, Page 2, Line 7, Pos (0,1)
+msgid "生徒の\\n[\\v[6]]さんは校長室まできてください"
+msgstr "学生\\n[\\v[6]]同学请到校长室来"
+
+#. ID 33, Page 2, Line 8, Pos (0,1)
+#. ID 33, Page 2, Line 10, Pos (0,1)
+msgid ""
+"くりかえします…\n"
+"生徒の\\n[\\v[6]]さんは校長室まできてください"
+msgstr "重复一遍……学生\\n[\\v[6]]同学请到校长室来"
+
+#. ID 34, Page 1, Line 3, Pos (20,14)
+msgid ""
+"この上は校長室です。\n"
+"この上にいけるのは卒業試験に挑戦する者だけです"
+msgstr "这上面是校长室。能上去的只有挑战毕业考试的人。"
+
+#. ID 34, Page 1, Line 7, Pos (20,14)
+msgid "どうぞお通りください"
+msgstr "请通过。"
+
+#. ID 34, Page 1, Line 12, Pos (20,14)
+msgid "あなたには、まだ早いと思われます"
+msgstr "对你来说，似乎还太早了。"

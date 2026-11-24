@@ -1,0 +1,91 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 38, Page 2, Line 14, Pos (57,52)
+#. ID 39, Page 2, Line 14, Pos (58,52)
+msgid "開かない。"
+msgstr "打不开。"
+
+#. ID 42, Page 2, Line 3, Pos (33,41)
+#. ID 42, Page 3, Line 3, Pos (33,41)
+msgid ""
+"石製のレバーがある。\n"
+"側面にはφの文字が彫り込まれている。"
+msgstr "有一个石制杆。侧面雕刻着φ的文字。"
+
+#. ID 42, Page 2, Line 5, Pos (33,41)
+#. Contains choice at line 2 (2 options)
+#. ID 42, Page 3, Line 5, Pos (33,41)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを操作しますか？"
+msgstr "要操作杆吗？"
+
+#. ID 42, Page 2, Line 6, Pos (33,41)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 3, Line 6, Pos (33,41)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 42, Page 2, Line 18, Pos (33,41)
+#. ID 42, Page 3, Line 18, Pos (33,41)
+msgid "・・・何かが動いた音がした。"
+msgstr "・・・传来了什么东西动了一下的声音。"
+
+#. ID 43, Page 2, Line 3, Pos (22,40)
+#. ID 44, Page 2, Line 3, Pos (23,40)
+msgid ""
+"床から突き出した石柱が道を塞いでいる。\n"
+"石柱には大きくχという文字が彫り込まれている。"
+msgstr ""
+"从地面突起的石柱挡住了道路。\n"
+"石柱上雕刻着大大的χ字。"
+
+#. ID 57, Page 2, Line 3, Pos (39,38)
+#. ID 58, Page 2, Line 3, Pos (40,38)
+msgid ""
+"床から突き出した石柱が道を塞いでいる。\n"
+"石柱には大きくψという文字が彫り込まれている。"
+msgstr ""
+"从地面突起的石柱挡住了道路。\n"
+"石柱上雕刻着大大的ψ字。"
+
+#. ID 63, Page 2, Line 3, Pos (39,34)
+#. ID 64, Page 2, Line 3, Pos (40,34)
+msgid ""
+"床から突き出した石柱が道を塞いでいる。\n"
+"石柱には大きくωという文字が彫り込まれている。"
+msgstr ""
+"从地面突起的石柱挡住了道路。\n"
+"石柱上雕刻着大大的ω字。"
+
+#. ID 181, Page 2, Line 3, Pos (0,24)
+#. ID 182, Page 2, Line 3, Pos (1,24)
+#. ID 183, Page 2, Line 3, Pos (2,24)
+#. ID 184, Page 2, Line 3, Pos (0,25)
+#. ID 185, Page 2, Line 3, Pos (1,25)
+#. ID 186, Page 2, Line 3, Pos (2,25)
+#. ID 187, Page 2, Line 3, Pos (0,26)
+#. ID 188, Page 2, Line 3, Pos (1,26)
+#. ID 189, Page 2, Line 3, Pos (2,26)
+msgid ""
+"大きな海綿質のブロックだ。\n"
+"もし水の上に浮かべても沈まないだろう。"
+msgstr ""
+"是巨大的海绵质方块。\n"
+"即使放到水面上大概也不会沉吧。"

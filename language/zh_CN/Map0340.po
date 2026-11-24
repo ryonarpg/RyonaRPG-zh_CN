@@ -1,0 +1,82 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 11, Page 2, Line 3, Pos (24,20)
+msgid "病も知らぬこの身体……"
+msgstr "不知疾病为何物的这具身体……"
+
+#. ID 11, Page 2, Line 4, Pos (24,20)
+msgid "君にも作って差し上げよう。"
+msgstr "也给您做一个吧。"
+
+#. ID 36, Page 2, Line 5, Pos (17,16)
+#. ID 37, Page 2, Line 6, Pos (26,16)
+msgid "＊研究員の手記のようだ"
+msgstr "＊像是研究员的笔记"
+
+#. ID 36, Page 2, Line 10, Pos (17,16)
+msgid ""
+"＊所長との議論の結果、人体実験には当面の間、\n"
+"　当研究所の研究員を使用することになった。"
+msgstr ""
+"＊与所长讨论的结果，\n"
+"　人体实验暂时　决定使用本研究所的研究员。"
+
+#. ID 36, Page 2, Line 12, Pos (17,16)
+msgid ""
+"＊希望者を集うことになるが、\n"
+"　人数が満たない場合は強制徴用になるだろう。"
+msgstr ""
+"＊会召集自愿者，\n"
+"　但人数不够的话就会强制征用吧。"
+
+#. ID 37, Page 2, Line 11, Pos (26,16)
+msgid ""
+"＊開発した貞操帯だが、奴隷のトイレをさせる度に\n"
+"　外すのは億劫だという意見が相次いでいる"
+msgstr ""
+"＊关于开发出的贞操带，\n"
+"　每次让奴隶上厕所时\n"
+"　都要取下太麻烦的意见接连出现"
+
+#. ID 37, Page 2, Line 13, Pos (26,16)
+msgid ""
+"＊新しく作るのは面倒だが、うるさい奴隷共の\n"
+"　世話を焼くのもたしかに面倒だ"
+msgstr ""
+"＊新做一个虽然麻烦，\n"
+"　但照顾吵闹的奴隶们　确实也很麻烦"
+
+#. ID 37, Page 2, Line 15, Pos (26,16)
+msgid ""
+"＊着けたままでも排泄できるように\n"
+"　貞操帯にアタッチメントを考案した"
+msgstr "＊为了能在佩戴状态下排泄　我设计了贞操带的附件"
+
+#. ID 37, Page 2, Line 17, Pos (26,16)
+msgid ""
+"＊金属製ではないため、繰り返しの使用には\n"
+"　向かないが、いちいち最下層に行って外すより\n"
+"　マシだろう……"
+msgstr ""
+"＊因为不是金属制，不适合反复使用，\n"
+"　但总比每次都跑到最下层去取下要好些吧……"
+
+#. ID 37, Page 2, Line 25, Pos (26,16)
+msgid "日記の後ろに何かがある・・・"
+msgstr "日记后面有什么……"
+
+#. ID 37, Page 2, Line 30, Pos (26,16)
+msgid "＊[トイレツール]を手に入れた"
+msgstr "＊获得了[厕所工具]"

@@ -1,0 +1,377 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 23, Page 4, Line 9, Pos (2,6)
+#. ID 23, Page 4, Line 60, Pos (2,6)
+msgid "その先には行けないよ！"
+msgstr "不能再往前走了哦！"
+
+#. ID 25, Page 1, Line 8, Pos (83,0)
+#. ID 25, Page 3, Line 3, Pos (83,0)
+msgid "一仕事終えて飲む酒はうめぇな。"
+msgstr "干完活后喝的酒真好喝啊。"
+
+#. ID 25, Page 2, Line 3, Pos (83,0)
+msgid ""
+"むっ、そこのねーちゃん、あんた冒険者だな？\n"
+"しかもそれなりに腕が経つと見た。"
+msgstr ""
+"嗯，那边的姑娘，你是冒险者吧？\n"
+"而且我看你还挺有本事。"
+
+#. ID 25, Page 2, Line 5, Pos (83,0)
+msgid ""
+"分かるさ。俺も同業だからな。\\.\\.\n"
+"あんたほどなら金も結構持ってるんだろ？\n"
+"一杯奢ってくれよ。"
+msgstr ""
+"我知道。我也是同行嘛。\\.\\.以你这种水平，\n"
+"钱应该也带了不少吧？请我喝一杯吧。"
+
+#. ID 25, Page 2, Line 11, Pos (83,0)
+#. Choice (2 options)
+msgid ""
+"奢る\n"
+"やだ"
+msgstr ""
+"请客\n"
+"不要"
+
+#. ID 25, Page 2, Line 14, Pos (83,0)
+msgid "おっマジで奢ってくれるのか。サンキュー！"
+msgstr "哦，真的请我？谢啦！"
+
+#. ID 25, Page 2, Line 16, Pos (83,0)
+msgid ""
+"・・・ってこんだけじゃ酒代に足りねぇよ。\n"
+"意外に金持ってねぇのな。\n"
+"まぁ残りは自分で出すわ。"
+msgstr ""
+"……不过就这么点可不够酒钱啊。\n"
+"没想到你没什么钱啊。算了，剩下的我自己出。"
+
+#. ID 25, Page 2, Line 25, Pos (83,0)
+msgid "ｺﾞｸ\\.ｺﾞｸ\\.\\."
+msgstr "咕嘟\\.咕嘟\\.\\."
+
+#. ID 25, Page 2, Line 26, Pos (83,0)
+msgid "んほぉ～このビールたまんねぇ～"
+msgstr "嗯哼～这啤酒真让人受不了～"
+
+#. ID 25, Page 2, Line 27, Pos (83,0)
+msgid ""
+"いやぁねーちゃん気前がいいねぇ。\n"
+"そうだ、酒のお礼にいい情報を教えてやろう。"
+msgstr ""
+"哎呀，姐姐真大方。对了，作为酒的谢礼，\n"
+"我告诉你个好情报吧。"
+
+#. ID 25, Page 2, Line 29, Pos (83,0)
+msgid ""
+"大陸の東端の辺りにある森の中にまだほとんど\n"
+"手の付けられていない遺跡があるらしいぜ？\n"
+"俺は人づてに聞いただけだけだから\n"
+"詳しいことは知らないがな・・・"
+msgstr ""
+"大陆东端附近的森林里，\n"
+"好像有一座几乎没被人动过的遗迹哦？\n"
+"我只是听别人说的，详细情况不知道……"
+
+#. ID 25, Page 2, Line 33, Pos (83,0)
+msgid ""
+"まぁ場所は分かるぜ。\n"
+"そんときに地図にメモしたからな。\n"
+"あんたにも教えてやるよ。"
+msgstr ""
+"不过我知道地方。当时在地图上记下来了。\n"
+"也告诉你吧。"
+
+#. ID 25, Page 2, Line 41, Pos (83,0)
+msgid ""
+"\n"
+"ワールドマップに目印を付けてもらった。"
+msgstr "世界地图上已添加了标记。"
+
+#. ID 25, Page 2, Line 48, Pos (83,0)
+msgid "◆ローメイの遺跡　の情報を得た！"
+msgstr "◆获得了洛梅遗迹　的信息！"
+
+#. ID 25, Page 2, Line 53, Pos (83,0)
+msgid ""
+"そいつが話してたことを思い出したが、\n"
+"その遺跡は入るたびに内部の構造が\n"
+"変化していたらしいぜ。"
+msgstr ""
+"我想起那家伙说过的话，\n"
+"那座遗迹每次进去内部构造都会变化哦。"
+
+#. ID 25, Page 2, Line 56, Pos (83,0)
+msgid ""
+"にわかには信じがたいが古代の遺跡にはそういう\n"
+"不思議なものが少なくはないと聞くし、行くんなら\n"
+"ねーちゃんもよく気を付けた方がいいかもな。"
+msgstr ""
+"虽然很难马上相信，\n"
+"但听说古代遗迹中这种不可思议的东西并不少，\n"
+"要去的话姐姐也最好多加小心。"
+
+#. ID 25, Page 2, Line 62, Pos (83,0)
+msgid ""
+"へっ、酒代程度も惜しむようじゃ\n"
+"見込み違いだったかな。"
+msgstr "哼，连点酒钱都舍不得，看来我看错人了。"
+
+#. ID 29, Page 2, Line 3, Pos (42,43)
+#. Contains choice at line 2 (2 options)
+msgid "このダンジョンから出ますか？"
+msgstr "要离开这个地下城吗？"
+
+#. ID 29, Page 2, Line 4, Pos (42,43)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 3, Line 7, Pos (38,18)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 42, Page 3, Line 3, Pos (35,18)
+msgid ""
+" デバッグ用イベント\n"
+"緊急回避習得"
+msgstr " 调试用事件 紧急回避习得"
+
+#. ID 44, Page 3, Line 3, Pos (38,18)
+msgid ""
+"　デバッグ用イベント\n"
+"ダンジョン内の仕掛けを初期状態に戻しますか？\n"
+"\n"
+"※ダンジョンの再生成はここでは行われません。"
+msgstr ""
+"　调试用事件 要将地下城内的机关恢复到初始状态\n"
+"　吗？※地下城的重新生成不在此处进行。"
+
+#. ID 46, Page 3, Line 3, Pos (46,18)
+msgid ""
+" デバッグ用イベント\n"
+"マップ移動"
+msgstr " 调试用事件 地图移动"
+
+#. ID 46, Page 3, Line 11, Pos (46,18)
+msgid ""
+"◆ 0でモード変更\n"
+"現在のモード：マップID(の下2桁)での移動"
+msgstr "◆ 按0切换模式 当前模式：按地图ID(后两位)移动"
+
+#. ID 46, Page 3, Line 25, Pos (46,18)
+msgid "許容されるマップIDは1-20"
+msgstr "允许的地图ID为1-20"
+
+#. ID 46, Page 3, Line 50, Pos (46,18)
+msgid ""
+"◆ 0でモード変更\n"
+"現在のモード：ダンジョン内座標での移動"
+msgstr "◆ 按0切换模式 当前模式：按地下城内坐标移动"
+
+#. ID 46, Page 3, Line 64, Pos (46,18)
+msgid "許容される座標は1-21"
+msgstr "允许的坐标为1-21"
+
+#. ID 48, Page 3, Line 3, Pos (49,18)
+msgid ""
+" デバッグ用イベント\n"
+"移動速度変更"
+msgstr " 调试用事件 移动速度变更"
+
+#. ID 48, Page 3, Line 5, Pos (49,18)
+msgid "移動速度を入力してください。"
+msgstr "请输入移动速度。"
+
+#. ID 57, Page 3, Line 3, Pos (65,15)
+msgid ""
+"　デバッグ用イベント\n"
+"迷路を再生成します。"
+msgstr "　调试用事件 重新生成迷宫。"
+
+#. ID 99, Page 4, Line 2, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ブラオマーマン"
+msgstr "布拉欧人鱼"
+
+#. ID 99, Page 4, Line 7, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ロートマーマン"
+msgstr "罗特人鱼"
+
+#. ID 99, Page 4, Line 12, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "マーメイドアズール"
+msgstr "蔚蓝人鱼"
+
+#. ID 99, Page 4, Line 17, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "マーメイドロッソ"
+msgstr "赤红人鱼"
+
+#. ID 99, Page 4, Line 22, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ロサードクラブ"
+msgstr "罗萨德蟹"
+
+#. ID 99, Page 4, Line 27, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "テンタクルマローネ"
+msgstr "触手马罗内"
+
+#. ID 99, Page 4, Line 32, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "闇の化身"
+msgstr "暗之化身"
+
+#. ID 99, Page 4, Line 37, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "メイズゴブリン"
+msgstr "迷宫哥布林"
+
+#. ID 99, Page 4, Line 42, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "生きた影"
+msgstr "活影"
+
+#. ID 99, Page 4, Line 47, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "アクアスライム"
+msgstr "水史莱姆"
+
+#. ID 99, Page 4, Line 52, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "怨嗟の炎"
+msgstr "怨嗟之炎"
+
+#. ID 99, Page 4, Line 57, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "フレッシュゴーレム"
+msgstr "血肉魔像"
+
+#. ID 99, Page 4, Line 62, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "はずれミミック"
+msgstr "落空宝箱怪"
+
+#. ID 99, Page 4, Line 67, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "リーパー"
+msgstr "收割者"
+
+#. ID 99, Page 4, Line 72, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "アフリット"
+msgstr "伊夫利特"
+
+#. ID 99, Page 4, Line 77, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "シベル"
+msgstr "西贝尔"
+
+#. ID 99, Page 4, Line 82, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "邪龍の石像"
+msgstr "邪龙石像"
+
+#. ID 99, Page 4, Line 87, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "邪龍の使い"
+msgstr "邪龙使者"
+
+#. ID 99, Page 4, Line 92, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ビオレータ"
+msgstr "维奥莱塔"
+
+#. ID 99, Page 5, Line 2, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "蒼い宝玉"
+msgstr "苍蓝宝玉"
+
+#. ID 99, Page 5, Line 7, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "風化した石板"
+msgstr "风化的石板"
+
+#. ID 99, Page 5, Line 12, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "読めない石板"
+msgstr "无法解读的石板"
+
+#. ID 99, Page 5, Line 17, Pos (84,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "魔法の硬貨"
+msgstr "魔法硬币"
+
+#. ID 99, Page 6, Line 7, Pos (84,0)
+msgid "プヨプヨした舌ざわり………"
+msgstr "软弹弹的舌感………"
+
+#. ID 99, Page 6, Line 22, Pos (84,0)
+msgid "耳たぶの味………"
+msgstr "耳垂的味道………"
+
+#. ID 99, Page 6, Line 42, Pos (84,0)
+msgid "すえた香り………"
+msgstr "发馊的气味………"
+
+#. ID 99, Page 6, Line 57, Pos (84,0)
+msgid "\\n[\\v[6]]は死にたくなった………"
+msgstr "\\n[\\v[6]]想死了………"
+
+#. ID 99, Page 6, Line 79, Pos (84,0)
+msgid "ヒルが背筋を這いあがるような快感………"
+msgstr "就像水蛭沿着脊背爬上来般的快感………"
+
+#. ID 99, Page 6, Line 92, Pos (84,0)
+msgid "目の前を走るピンクの豚………"
+msgstr "在眼前跑过的粉色猪………"
+
+#. ID 99, Page 6, Line 102, Pos (84,0)
+msgid "歯が紫に染まって一本一本抜けていくような気分………"
+msgstr "感觉牙齿被染成紫色，一颗接一颗脱落………"
+
+#. ID 99, Page 6, Line 128, Pos (84,0)
+msgid "酸いモノが\\n[\\v[6]]の口いっぱいにこみあげてきた………"
+msgstr "酸涩的东西涌满了\\n[\\v[6]]的口腔………"

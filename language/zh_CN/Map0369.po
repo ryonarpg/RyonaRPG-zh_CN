@@ -1,0 +1,29 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 64, Page 1, Line 120, Pos (3,17)
+msgid "………"
+msgstr "………"
+
+#. ID 64, Page 1, Line 121, Pos (3,17)
+msgid ""
+"\\n[\\v[6]]の子宮は、度重なる種付けによって、\n"
+"異形の仔を宿してしまった！"
+msgstr ""
+"\\n[\\v[6]]的子宫因反复配种，\n"
+"已经怀上了异形之子！"
+
+#. ID 64, Page 1, Line 123, Pos (3,17)
+msgid "\\n[\\v[6]]は、卵を産みつけられてしまった！"
+msgstr "\\n[\\v[6]]被产卵寄生了！"

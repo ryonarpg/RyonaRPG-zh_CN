@@ -1,0 +1,128 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 24, Page 2, Line 3, Pos (13,11)
+#. ID 33, Page 2, Line 3, Pos (45,11)
+msgid "扉は固く閉ざされている……。"
+msgstr "门紧紧关闭着……。"
+
+#. ID 31, Page 2, Line 4, Pos (40,13)
+msgid "レバーがあるが今はそんな場合ではない！"
+msgstr "虽然有个拉杆，但现在不是管这个的时候！"
+
+#. ID 31, Page 2, Line 12, Pos (40,13)
+msgid ""
+"この身体では\n"
+"レバーを動かすことは不可能だ……。"
+msgstr "以这具身体无法扳动拉杆……。"
+
+#. ID 31, Page 2, Line 17, Pos (40,13)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを見つけた。操作しますか?"
+msgstr "找到了拉杆。要操作吗？"
+
+#. ID 31, Page 2, Line 18, Pos (40,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 31, Page 3, Line 3, Pos (40,13)
+msgid "固定されて元に戻らないようだ。"
+msgstr "似乎被固定住了，无法复位。"
+
+#. ID 489, Page 1, Line 4, Pos (0,4)
+msgid "よしよしっ、どうどう！"
+msgstr "好了好了，乖乖！"
+
+#. ID 489, Page 1, Line 15, Pos (0,4)
+msgid ""
+"女魔道師によって\n"
+"醜い魔獣の姿に変えられてしまった\\N[\\V[6]]は、\n"
+"さらに背中に跨られ、口枷を嵌められ拘束された！"
+msgstr ""
+"被女魔导师变成丑陋魔兽模样的\\N[\\V[6]]，\n"
+"又被骑在背上、戴上口枷并束缚起来！"
+
+#. ID 489, Page 1, Line 28, Pos (0,4)
+msgid ""
+"よせよせ、もうどんなに暴れても無駄だ。\n"
+"……ほほう？　今しがた貴様に倒された、\n"
+"一つ前の娘も悪くなかったが――"
+msgstr ""
+"别闹了别闹了，现在再怎么挣扎也没用。……嚯？\n"
+"　刚刚被你打倒的上一个姑娘倒也不错，不过——"
+
+#. ID 489, Page 1, Line 31, Pos (0,4)
+msgid ""
+"くっくっく、これは拾い物だな。\n"
+"どうやら、\n"
+"貴様のポテンシャルはそれを大きく上回るようだぞ？"
+msgstr ""
+"呵呵呵，这真是捡到宝了。\n"
+"看来你的潜力远远超过她啊？"
+
+#. ID 489, Page 1, Line 38, Pos (0,4)
+msgid ""
+"娘よ、光栄に思うがいい。\n"
+"この私が貴様を乗馬として使ってくれようぞ！"
+msgstr "丫头，感到荣幸吧。我这就把你当坐骑来用！"
+
+#. ID 489, Page 1, Line 40, Pos (0,4)
+msgid ""
+"反抗心など欠片も残さぬ\n"
+"調教をしてやるから、そのつもりでな……\\c[11]$k\\c[0]\\n[103]"
+msgstr ""
+"我会把你调教得连一丝反抗心都不剩，\n"
+"你就做好心理准备吧……\\c[11]$k\\c[0]\\n[103]"
+
+#. ID 489, Page 1, Line 48, Pos (0,4)
+msgid ""
+"こうして\\N[\\V[6]]は、\n"
+"女魔道師の乗り物として、\n"
+"服従と屈辱の日々を送ることになったのだった――"
+msgstr ""
+"就这样，\\N[\\V[6]]作为女魔导师的坐骑，\n"
+"过上了服从与屈辱的日子——"
+
+#. ID 489, Page 1, Line 55, Pos (0,4)
+msgid "その後、\\n[\\v[6]]の姿を見たものはいない………"
+msgstr "那之后，再没有人见过\\n[\\v[6]]的身影………"
+
+#. ID 492, Page 3, Line 4, Pos (44,9)
+#. Contains choice at line 3 (2 options)
+#. ID 493, Page 3, Line 4, Pos (45,9)
+#. Contains choice at line 3 (2 options)
+#. ID 494, Page 3, Line 4, Pos (46,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"この部屋を出たら\n"
+"元の姿に戻れないかもしれない……"
+msgstr "离开这个房间后，或许就变不回原来的模样了……"
+
+#. ID 492, Page 3, Line 6, Pos (44,9)
+#. Choice (2 options, embedded in a message)
+#. ID 493, Page 3, Line 6, Pos (45,9)
+#. Choice (2 options, embedded in a message)
+#. ID 494, Page 3, Line 6, Pos (46,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"進む\n"
+"戻る"
+msgstr ""
+"前进\n"
+"返回"

@@ -1,0 +1,47 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 26, Page 2, Line 7, Pos (19,6)
+msgid "なんとも言えないおいしそうな匂いがする。"
+msgstr "散发着一股难以形容的、仿佛很美味的香气。"
+
+#. ID 26, Page 2, Line 12, Pos (19,6)
+msgid ""
+"「おいしそうな鍵」を鍵穴に差し込もうとした瞬間、\n"
+"そんな声が聞こえたような気がした。"
+msgstr ""
+"就在试图把「美味钥匙」插进锁孔的瞬间，\n"
+"感觉好像听到了那样的声音。"
+
+#. ID 26, Page 2, Line 67, Pos (19,6)
+msgid "…お腹が減って力が出ない。"
+msgstr "…肚子饿了，使不上力。"
+
+#. ID 26, Page 2, Line 72, Pos (19,6)
+msgid ""
+"どこからかそんな声が聞こえたような気がした。\n"
+"\n"
+"…力をこめて押すと扉は簡単に開いた。"
+msgstr ""
+"感觉好像从某处听到了那样的声音。…用力一推，\n"
+"门就轻易地打开了。"
+
+#. ID 29, Page 2, Line 12, Pos (22,8)
+msgid "トラップの動作が\\V[1201]秒間停止します。"
+msgstr "陷阱的运作将停止\\V[1201]秒。"
+
+#. ID 71, Page 2, Line 3, Pos (10,0)
+#. ID 72, Page 2, Line 3, Pos (11,0)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"

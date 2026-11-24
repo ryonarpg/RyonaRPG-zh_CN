@@ -1,0 +1,79 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 7, Pos (6,3)
+msgid "全回復した！"
+msgstr "完全恢复了！"
+
+#. ID 13, Page 2, Line 10, Pos (44,59)
+#. ID 17, Page 2, Line 21, Pos (0,39)
+msgid ""
+"\n"
+"閉じ込められた！"
+msgstr "被关起来了！"
+
+#. ID 16, Page 2, Line 3, Pos (28,6)
+msgid "バックラーを手に入れた。"
+msgstr "获得了小圆盾。"
+
+#. ID 17, Page 2, Line 15, Pos (0,39)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:らみあ"
+msgstr "end:拉米亚"
+
+#. ID 18, Page 2, Line 3, Pos (3,57)
+msgid "やぎのぬいぐるみを手に入れた。"
+msgstr "获得了山羊玩偶。"
+
+#. ID 19, Page 2, Line 3, Pos (39,48)
+msgid "ハイポーションを手に入れた。"
+msgstr "获得了高级药水。"
+
+#. ID 31, Page 2, Line 3, Pos (36,23)
+msgid "ポーションとエーテルを手に入れた。"
+msgstr "获得了药水和以太。"
+
+#. ID 32, Page 2, Line 3, Pos (12,46)
+msgid "ティアラを手に入れた。"
+msgstr "获得了头冠。"
+
+#. ID 33, Page 2, Line 3, Pos (3,10)
+msgid "ヤリを手に入れた。"
+msgstr "获得了长枪。"
+
+#. ID 38, Page 2, Line 3, Pos (12,21)
+msgid "フェンシングセイバーを手に入れた。"
+msgstr "获得了击剑军刀。"
+
+#. ID 39, Page 2, Line 3, Pos (53,4)
+msgid "ウェイトレスの服を手に入れた。"
+msgstr "获得了女服务员服。"
+
+#. ID 40, Page 2, Line 3, Pos (38,27)
+#. ID 46, Page 2, Line 3, Pos (14,19)
+msgid "ゲリデルバーの実を手に入れた。"
+msgstr "获得了盖里德尔巴果实。"
+
+#. ID 42, Page 2, Line 3, Pos (2,25)
+msgid "せいどうのはにわを手に入れた。"
+msgstr "获得了青铜埴轮。"
+
+#. ID 44, Page 2, Line 3, Pos (8,18)
+msgid "大蛙を手に入れた。"
+msgstr "获得了巨蛙。"
+
+#. ID 45, Page 2, Line 3, Pos (9,18)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"

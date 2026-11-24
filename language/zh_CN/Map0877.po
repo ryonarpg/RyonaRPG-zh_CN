@@ -1,0 +1,89 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 17, Page 1, Line 55, Pos (2,0)
+msgid ""
+"\n"
+"な、何とかなった……"
+msgstr "总、总算应付过去了……"
+
+#. ID 17, Page 1, Line 59, Pos (2,0)
+msgid ""
+"\n"
+"い、生きてる……？"
+msgstr "还、还活着……？"
+
+#. ID 17, Page 1, Line 101, Pos (2,0)
+msgid ""
+"\\>\n"
+"\\>セーブ球が\\n[\\v[6]]の頭に直撃した！！\n"
+"\\>　(１度だけセーブが可能)"
+msgstr ""
+"\\>\\>存档球直击了\\n[\\v[6]]的脑袋！！\n"
+"\\>　(只能存档1次)"
+
+#. ID 17, Page 1, Line 131, Pos (2,0)
+msgid ""
+"\n"
+"ん………？"
+msgstr "嗯………？"
+
+#. ID 17, Page 1, Line 141, Pos (2,0)
+msgid ""
+"\n"
+"当然だけど、まだいる……"
+msgstr "当然，还有……"
+
+#. ID 17, Page 1, Line 146, Pos (2,0)
+msgid ""
+"\n"
+"何かいる！！"
+msgstr "有什么东西在！！"
+
+#. ID 19, Page 1, Line 54, Pos (3,0)
+msgid ""
+"\\>\n"
+"\\>地面から飛び出たネバネバが、\n"
+"\\>\\n[\\v[6]]にはりついてくる！\\<\\|\\^"
+msgstr ""
+"\\>\\>从地面冒出的黏糊糊的东西，\n"
+"\\>粘到了\\n[\\v[6]]身上！\\<\\|\\^"
+
+#. ID 26, Page 2, Line 4, Pos (16,9)
+msgid ""
+"\\>\n"
+"\\>おおっと！ テレポーター"
+msgstr "\\>\\>哎呀！ 传送器"
+
+#. ID 27, Page 2, Line 3, Pos (12,8)
+#. Contains choice at line 2 (2 options)
+msgid "ここで釣りができそうだ。"
+msgstr "看来可以在这里钓鱼。"
+
+#. ID 27, Page 2, Line 10, Pos (12,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"釣りをする\n"
+"そんな場合ではない！"
+msgstr ""
+"钓鱼\n"
+"不是做这种事的时候！"
+
+#. ID 27, Page 2, Line 29, Pos (12,8)
+msgid "釣り竿を装備していない。"
+msgstr "没有装备钓竿。"
+
+#. ID 27, Page 2, Line 39, Pos (12,8)
+msgid "釣りを始めた。"
+msgstr "开始钓鱼了。"

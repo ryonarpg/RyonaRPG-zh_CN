@@ -1,0 +1,95 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 18, Page 2, Line 11, Pos (11,20)
+msgid ""
+"ここは人間牧場、いうなれば見世物だな\n"
+"今日からお前もここで働いてもらう\n"
+"\\!さて…なにをやってもらおうか…"
+msgstr ""
+"这里是人类牧场，说白了就是供人观赏的展示品，\n"
+"从今天起你也要在这里干活了\\!那么…\n"
+"让你做点什么好呢…"
+
+#. ID 18, Page 2, Line 14, Pos (11,20)
+msgid ""
+"そうだな…乳牛でもやってもらおうか…\n"
+"\\!まずはこの薬を打って…"
+msgstr "是啊…就让你当奶牛吧…\\!首先打这支药……"
+
+#. ID 18, Page 2, Line 36, Pos (11,20)
+msgid "よし、お前らこいつの乳を絞ってやれ"
+msgstr "好，你们去挤这家伙的奶。"
+
+#. ID 18, Page 2, Line 57, Pos (11,20)
+msgid ""
+"なかなかでないな、よしお前らもう少し\n"
+"やってやれ"
+msgstr "怎么还没挤出来啊，好，你们再加把劲。"
+
+#. ID 18, Page 2, Line 66, Pos (11,20)
+msgid "お、これは…"
+msgstr "哦，这是……"
+
+#. ID 18, Page 2, Line 75, Pos (11,20)
+msgid ""
+"お、出たな。よしもっとやってやれ\n"
+"\\!それといっそ孕ませてしまったほうが\n"
+"良い乳がでるかもな"
+msgstr ""
+"哦，出来了啊。好，再多来点\\!还有，\n"
+"干脆让她怀上，说不定能产出更好的奶。"
+
+#. ID 18, Page 2, Line 84, Pos (11,20)
+msgid "いい出しっぷりじゃねえか"
+msgstr "出得真不错嘛"
+
+#. ID 18, Page 2, Line 92, Pos (11,20)
+msgid ""
+"よしもっとやってやれ\n"
+"\\!それといっそ孕ませてしまったほうが\n"
+"良い乳がでるかもな"
+msgstr ""
+"好，再多来点\\!还有，干脆让她怀上，\n"
+"说不定能产出更好的奶。"
+
+#. ID 18, Page 2, Line 109, Pos (11,20)
+msgid ""
+"せっかく高い金を出したんだ\n"
+"\\!これからもどんどん乳を出してもらうぜ"
+msgstr "既然花了高价\\!以后就让她不断出奶吧。"
+
+#. ID 18, Page 2, Line 120, Pos (11,20)
+msgid "さて…今日の乳牛の具合はどうかな？"
+msgstr "那么……今天的奶牛情况如何呢？"
+
+#. ID 18, Page 2, Line 121, Pos (11,20)
+msgid ""
+"うん…\\!この新しく入った雌牛はいい感じだな。\n"
+"これからももっといっぱい搾ってやるからな。"
+msgstr ""
+"嗯…\\!新来的这头母牛感觉不错啊。\n"
+"今后也会给你挤更多更多的。"
+
+#. ID 18, Page 2, Line 131, Pos (11,20)
+msgid ""
+"こうして\\n[\\v[6]]は一生乳を搾られ\n"
+"孕まされ続ける家畜となったのである……"
+msgstr ""
+"就这样，\\n[\\v[6]]成了一生都被挤奶、\n"
+"被迫不断怀孕的家畜……"
+
+#. ID 20, Page 1, Line 3, Pos (13,23)
+msgid "人間牧場"
+msgstr "人间牧场"

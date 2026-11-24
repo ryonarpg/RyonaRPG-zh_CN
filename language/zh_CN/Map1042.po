@@ -1,0 +1,58 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 2, Line 6, Pos (9,5)
+msgid ""
+"チェーンフレイルが入っている。\n"
+"しかし、装備が呪われていて持ち替えられない！"
+msgstr "里面放着链枷。但是，装备被诅咒了，无法替换！"
+
+#. ID 15, Page 2, Line 15, Pos (9,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"チェーンフレイルが入っている。\n"
+"チェーンフレイルを装備しますか？"
+msgstr "里面放着链枷。要装备链枷吗？"
+
+#. ID 15, Page 2, Line 17, Pos (9,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 15, Page 2, Line 23, Pos (9,5)
+msgid ""
+"チェーンフレイルを手に入れた！\n"
+"熟練度を上げることによってさらに遠くの的を狙える\n"
+"チャージ技「ロングショット」が使えるぞ！\n"
+"遠くの物を拾うことも出来るぞ！"
+msgstr ""
+"获得了链枷！通过提升熟练度，\n"
+"就能使用可以瞄准更远处目标的蓄力技「远程射击」！\n"
+"还能拾取远处的物品！"
+
+#. ID 57, Page 2, Line 3, Pos (2,11)
+msgid "床に鍵穴がある"
+msgstr "地板上有一个钥匙孔。"
+
+#. ID 57, Page 2, Line 5, Pos (2,11)
+msgid "小さな鍵を使った"
+msgstr "使用了小钥匙。"
+
+#. ID 58, Page 2, Line 42, Pos (9,14)
+msgid "メニュー画面が開けるようになった"
+msgstr "可以打开菜单画面了。"

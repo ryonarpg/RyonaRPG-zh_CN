@@ -1,0 +1,33 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 3, Line 7, Pos (31,16)
+msgid "全回復した！"
+msgstr "完全恢复了！"
+
+#. ID 13, Page 2, Line 1, Pos (0,15)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:妖花+スライム"
+msgstr "end:妖花+史莱姆"
+
+#. ID 13, Page 2, Line 10, Pos (0,15)
+msgid "甘い香りが漂っている…"
+msgstr "甜甜的香气飘散着…"
+
+#. ID 32, Page 2, Line 10, Pos (38,29)
+msgid ""
+"\n"
+"閉じ込められた！"
+msgstr "被关住了！"

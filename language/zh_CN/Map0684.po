@@ -1,0 +1,57 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 36, Page 3, Line 3, Pos (36,41)
+msgid "＊蟲の吐いた糸のようだ……"
+msgstr "＊像是虫吐出的丝……"
+
+#. ID 41, Page 2, Line 3, Pos (43,21)
+msgid "ガストラ魔導遺跡へようこそ"
+msgstr "欢迎来到加斯特拉魔导遗迹"
+
+#. ID 41, Page 2, Line 4, Pos (43,21)
+msgid ""
+"……見ての通り、\n"
+"遺跡は今、調査団長アラクネが\n"
+"放った魔物が闊歩しています"
+msgstr ""
+"……如你所见，\n"
+"遗迹现在正有调查团长阿剌克涅放出的魔物在横行"
+
+#. ID 41, Page 2, Line 7, Pos (43,21)
+msgid ""
+"調査団員も何人か逃げ遅れて……\n"
+"捜索班を編成して、探している最中なんです"
+msgstr ""
+"调查团员也有几个人没能及时逃出来……\n"
+"我们正编成搜索班，在寻找他们"
+
+#. ID 41, Page 2, Line 9, Pos (43,21)
+msgid "無事だとよいのですが……"
+msgstr "希望他们平安无事……"
+
+#. ID 42, Page 2, Line 3, Pos (36,21)
+msgid ""
+"アラクネは使役術……\n"
+"動物を、特に蟲を手足のように操る魔法が\n"
+"専門なんだ"
+msgstr ""
+"阿剌克涅专精的是使役术……一种把动物、尤其是虫，\n"
+"像手脚一样操纵的魔法"
+
+#. ID 42, Page 2, Line 6, Pos (36,21)
+msgid ""
+"きっと……蟲毒の迷宮から\n"
+"蟲を召喚したんだろう"
+msgstr "一定是……从虫毒迷宫中召唤了虫吧"

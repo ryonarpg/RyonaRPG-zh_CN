@@ -1,0 +1,105 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 35, Page 2, Line 4, Pos (16,8)
+msgid "\\S[2]お花畑を　つくりましょう"
+msgstr "\\S[2]来打造一片花田吧"
+
+#. ID 36, Page 2, Line 4, Pos (7,30)
+msgid ""
+"\\S[2]お客様　ですか\n"
+"ようこそ　私たちの庭園へ"
+msgstr "\\S[2]客人　是吗欢迎　来到我们的庭园"
+
+#. ID 37, Page 2, Line 3, Pos (5,7)
+msgid ""
+"＊古ぼけた日記が落ちている\n"
+"　……ずっと昔に、冒険者が残したメモのようだ"
+msgstr ""
+"＊一本陈旧日记掉在地上　……\n"
+"　似乎是很久以前冒险者留下的笔记"
+
+#. ID 37, Page 2, Line 11, Pos (5,7)
+msgid ""
+"＊ここから先は危険だ\n"
+"　自動人形たちは我々を敵だと認識している"
+msgstr "＊从这里往前很危险　自动人偶们把我们当成敌人"
+
+#. ID 41, Page 2, Line 4, Pos (16,16)
+#. ID 45, Page 2, Line 4, Pos (16,20)
+#. ID 49, Page 2, Line 4, Pos (25,16)
+#. ID 60, Page 2, Line 4, Pos (16,24)
+#. ID 67, Page 2, Line 4, Pos (25,20)
+#. ID 68, Page 2, Line 4, Pos (25,24)
+#. ID 78, Page 2, Line 4, Pos (27,9)
+#. ID 79, Page 2, Line 4, Pos (29,9)
+#. ID 83, Page 2, Line 4, Pos (19,23)
+#. ID 90, Page 2, Line 4, Pos (22,23)
+msgid "………"
+msgstr "………"
+
+#. ID 41, Page 2, Line 8, Pos (16,16)
+#. ID 45, Page 2, Line 8, Pos (16,20)
+#. ID 49, Page 2, Line 8, Pos (25,16)
+#. ID 60, Page 2, Line 8, Pos (16,24)
+#. ID 67, Page 2, Line 8, Pos (25,20)
+#. ID 68, Page 2, Line 8, Pos (25,24)
+#. ID 78, Page 2, Line 8, Pos (27,9)
+#. ID 79, Page 2, Line 8, Pos (29,9)
+#. ID 83, Page 2, Line 8, Pos (19,23)
+#. ID 90, Page 2, Line 8, Pos (22,23)
+msgid ""
+"＊自動人形のようだが\n"
+"　眠っているようにピクりとも動かない"
+msgstr "＊看起来是自动人偶　但像睡着了一样一动不动"
+
+#. ID 72, Page 2, Line 1, Pos (23,9)
+#. ID 74, Page 2, Line 1, Pos (25,9)
+msgid "＊何かが入っていたらしい機械だ"
+msgstr "＊似乎是装过什么东西的机械"
+
+#. ID 97, Page 2, Line 4, Pos (29,30)
+msgid "\\S[2]……。"
+msgstr "\\S[2]……。"
+
+#. ID 97, Page 2, Line 9, Pos (29,30)
+msgid ""
+"この大陸の自動人形だろうか？\n"
+"体の一部が破損しているせいか、動く気配がない……。"
+msgstr ""
+"是这个大陆的自动人偶吗？\n"
+"也许是因为身体的一部分破损了，\n"
+"完全没有要动的迹象……。"
+
+#. ID 97, Page 2, Line 15, Pos (29,30)
+msgid "もしかしたら修理すれば、まだ動くかもしれない。"
+msgstr "说不定修理一下的话，还能动。"
+
+#. ID 97, Page 2, Line 16, Pos (29,30)
+#. Contains choice at line 2 (2 options)
+msgid "持って帰りますか？"
+msgstr "要带回去吗？"
+
+#. ID 97, Page 2, Line 17, Pos (29,30)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 97, Page 2, Line 21, Pos (29,30)
+msgid "破損した自動人形を手に入れた。"
+msgstr "获得了破损的自动人偶。"

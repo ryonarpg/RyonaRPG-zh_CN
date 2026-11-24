@@ -1,0 +1,1194 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 11, Page 2, Line 3, Pos (11,7)
+msgid "妖蟲の卵を手に入れた。"
+msgstr "获得了妖虫卵。"
+
+#. ID 12, Page 2, Line 3, Pos (13,7)
+msgid "大蛙を手に入れた。"
+msgstr "获得了巨蛙。"
+
+#. ID 13, Page 2, Line 3, Pos (14,7)
+msgid "ラはーぴーの羽根を手に入れた。"
+msgstr "获得了拉哈比羽毛。"
+
+#. ID 14, Page 2, Line 3, Pos (15,7)
+msgid "巨大魚の鱗を手に入れた。"
+msgstr "获得了巨鱼鳞。"
+
+#. ID 17, Page 2, Line 3, Pos (4,9)
+#. Contains choice at line 2 (2 options)
+msgid "＊魔力溜まりがある。"
+msgstr "＊有魔力池。"
+
+#. ID 17, Page 2, Line 4, Pos (4,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"魔力を回復する\n"
+"いいえ"
+msgstr ""
+"恢复魔力\n"
+"否"
+
+#. ID 23, Page 2, Line 3, Pos (7,7)
+#. ID 24, Page 2, Line 3, Pos (8,7)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"
+
+#. ID 25, Page 2, Line 3, Pos (9,7)
+msgid "遺品を手に入れた。"
+msgstr "获得了遗物。"
+
+#. ID 26, Page 2, Line 3, Pos (10,7)
+msgid "ゲリデルバーの実を手に入れた。"
+msgstr "获得了盖里德尔巴果实。"
+
+#. ID 27, Page 2, Line 3, Pos (16,7)
+msgid "ガマの油を手に入れた。"
+msgstr "获得了蟾蜍油。"
+
+#. ID 28, Page 2, Line 3, Pos (12,7)
+msgid "海サボテンを手に入れた。"
+msgstr "获得了海仙人掌。"
+
+#. ID 39, Page 2, Line 3, Pos (17,7)
+msgid "蛙の卵を手に入れた。"
+msgstr "获得了蛙卵。"
+
+#. ID 40, Page 2, Line 4, Pos (7,9)
+msgid ""
+"名前：魔界兵・緑\n"
+"種族：人男"
+msgstr "名字：魔界兵·绿种族：人男"
+
+#. ID 40, Page 2, Line 6, Pos (7,9)
+msgid ""
+"魔界の兵士\n"
+"植物の化身"
+msgstr "魔界士兵植物化身"
+
+#. ID 40, Page 2, Line 8, Pos (7,9)
+#. Contains choice at line 3 (2 options)
+#. ID 43, Page 2, Line 8, Pos (8,9)
+#. Contains choice at line 3 (2 options)
+#. ID 49, Page 2, Line 7, Pos (14,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$2000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$2000G可以听取攻略信息，要听吗？"
+
+#. ID 40, Page 2, Line 10, Pos (7,9)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 2, Line 10, Pos (8,9)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 2, Line 10, Pos (9,9)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 2, Line 11, Pos (10,9)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 9, Pos (11,9)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 2, Line 9, Pos (12,9)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 2, Line 9, Pos (13,9)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 2, Line 9, Pos (14,9)
+#. Choice (2 options, embedded in a message)
+#. ID 53, Page 2, Line 5, Pos (6,16)
+#. Choice (2 options, embedded in a message)
+#. ID 60, Page 2, Line 9, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 2, Line 9, Pos (16,9)
+#. Choice (2 options, embedded in a message)
+#. ID 62, Page 2, Line 9, Pos (17,9)
+#. Choice (2 options, embedded in a message)
+#. ID 74, Page 2, Line 5, Pos (7,16)
+#. Choice (2 options, embedded in a message)
+#. ID 75, Page 2, Line 5, Pos (9,16)
+#. Choice (2 options, embedded in a message)
+#. ID 76, Page 2, Line 5, Pos (10,16)
+#. Choice (2 options, embedded in a message)
+#. ID 77, Page 2, Line 5, Pos (12,16)
+#. Choice (2 options, embedded in a message)
+#. ID 78, Page 2, Line 5, Pos (15,16)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 2, Line 5, Pos (6,18)
+#. Choice (2 options, embedded in a message)
+#. ID 81, Page 2, Line 5, Pos (7,18)
+#. Choice (2 options, embedded in a message)
+#. ID 82, Page 2, Line 5, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 83, Page 2, Line 5, Pos (9,18)
+#. Choice (2 options, embedded in a message)
+#. ID 84, Page 2, Line 5, Pos (10,18)
+#. Choice (2 options, embedded in a message)
+#. ID 85, Page 2, Line 5, Pos (11,18)
+#. Choice (2 options, embedded in a message)
+#. ID 86, Page 2, Line 5, Pos (12,18)
+#. Choice (2 options, embedded in a message)
+#. ID 87, Page 2, Line 5, Pos (13,18)
+#. Choice (2 options, embedded in a message)
+#. ID 88, Page 2, Line 5, Pos (14,18)
+#. Choice (2 options, embedded in a message)
+#. ID 89, Page 2, Line 5, Pos (15,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"不\n"
+"是"
+
+#. ID 40, Page 2, Line 16, Pos (7,9)
+msgid ""
+"魔界の兵士\\!\n"
+"植物の生命力から作られたモンスター\\!\n"
+"その性質故に炎属性に弱い"
+msgstr ""
+"魔界士兵\\!由植物生命力制成的怪物\\!因此性质上怕\n"
+"火属性"
+
+#. ID 40, Page 2, Line 19, Pos (7,9)
+msgid ""
+"高い忠誠心を持っており、\n"
+"自らの犠牲を厭わない"
+msgstr "拥有高度忠诚心，不厌惜自我牺牲"
+
+#. ID 40, Page 2, Line 27, Pos (7,9)
+#. ID 43, Page 2, Line 28, Pos (8,9)
+#. ID 44, Page 2, Line 29, Pos (9,9)
+#. ID 47, Page 2, Line 31, Pos (12,9)
+msgid "ごく稀に\\C[2]\\N[101]\\C[0]を落とす"
+msgstr "极少数情况下掉落\\C[2]\\N[101]\\C[0]"
+
+#. ID 43, Page 2, Line 4, Pos (8,9)
+msgid ""
+"名前：魔界兵・赤\n"
+"種族：人男"
+msgstr "名字：魔界兵·红种族：人男"
+
+#. ID 43, Page 2, Line 6, Pos (8,9)
+msgid ""
+"魔界の兵士\n"
+"炎の化身"
+msgstr "魔界士兵火之化身"
+
+#. ID 43, Page 2, Line 16, Pos (8,9)
+msgid ""
+"魔界の兵士\\!\n"
+"炎の熱から作られたモンスター\\!\n"
+"その性質故に氷属性に弱く、\n"
+"若干攻撃力が高い"
+msgstr ""
+"魔界士兵\\!由火焰热量制成的怪物\\!因此性质上怕冰\n"
+"属性，攻击力略高"
+
+#. ID 43, Page 2, Line 20, Pos (8,9)
+msgid ""
+"強い連帯感を持っており、\n"
+"仲間のために命をかけて戦う"
+msgstr "拥有强烈连带感，为同伴拼死战斗"
+
+#. ID 44, Page 2, Line 4, Pos (9,9)
+msgid ""
+"名前：魔界兵・青\n"
+"種族：人男"
+msgstr "名字：魔界兵·蓝种族：人男"
+
+#. ID 44, Page 2, Line 6, Pos (9,9)
+msgid ""
+"魔界の兵士\n"
+"水の化身"
+msgstr "魔界士兵水之化身"
+
+#. ID 44, Page 2, Line 8, Pos (9,9)
+#. Contains choice at line 3 (2 options)
+#. ID 62, Page 2, Line 7, Pos (17,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$3000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$3000G可以听取攻略信息，要听吗？"
+
+#. ID 44, Page 2, Line 16, Pos (9,9)
+msgid ""
+"魔界の兵士\\!\n"
+"水の冷たさから作られたモンスター\\!\n"
+"その性質故に雷属性に弱く、\n"
+"生命力が強い"
+msgstr ""
+"魔界士兵\\!由水的寒冷制成的怪物\\!因此性质上怕雷\n"
+"属性，生命力强"
+
+#. ID 44, Page 2, Line 20, Pos (9,9)
+msgid "斧を投げて攻撃してくることがある"
+msgstr "有时会投掷斧头攻击"
+
+#. ID 44, Page 2, Line 21, Pos (9,9)
+msgid ""
+"強いリーダーシップを持っており、\n"
+"部下から慕われている"
+msgstr "拥有强大领导力，受到部下仰慕"
+
+#. ID 45, Page 2, Line 4, Pos (10,9)
+msgid ""
+"名前：\\C[9]ダークガンナー\\C[0]\n"
+"種族：特殊装甲\n"
+"名前：\\C[11]デスガンナー\\C[0]\n"
+"種族：魔生命"
+msgstr ""
+"名字：\\C[9]黑暗枪手\\C[0]种族：特殊装甲名字：\n"
+"\\C[11]死亡枪手\\C[0]种族：魔生命"
+
+#. ID 45, Page 2, Line 8, Pos (10,9)
+msgid "魔界の金属で出来たモンスター"
+msgstr "由魔界金属制成的怪物"
+
+#. ID 45, Page 2, Line 9, Pos (10,9)
+#. Contains choice at line 3 (2 options)
+#. ID 60, Page 2, Line 7, Pos (15,9)
+#. Contains choice at line 3 (2 options)
+#. ID 61, Page 2, Line 7, Pos (16,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$5000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$5000G可以听取攻略信息，要听吗？"
+
+#. ID 45, Page 2, Line 17, Pos (10,9)
+msgid ""
+"魔界の金属から生まれたモンスター\\!\n"
+"頑丈な身体を持ち、\n"
+"ほとんどの攻撃を寄せ付けない\\!"
+msgstr ""
+"从魔界金属诞生的怪物\\!拥有坚固身体，\n"
+"几乎使大多数攻击无法靠近\\!"
+
+#. ID 45, Page 2, Line 20, Pos (10,9)
+msgid ""
+"斜め4方向に魔法弾を飛ばして\n"
+"攻撃してくる\\!\n"
+"火力は大したことがないが、\n"
+"群れで襲ってくるため危険"
+msgstr ""
+"向斜4个方向发射魔法弹攻击\\!火力不怎么样，\n"
+"但成群袭来很危险"
+
+#. ID 45, Page 2, Line 24, Pos (10,9)
+msgid ""
+"緑色の\\C[9]ダークガンナー\\C[0]のうち一体が\n"
+"赤色の\\C[11]デスガンナー\\C[0]に変化する\\!\n"
+"\\C[11]デスガンナー\\C[0]は攻撃で\n"
+"比較的容易に倒すことができる"
+msgstr ""
+"绿色\\C[9]黑暗枪手\\C[0]中的一只会变化为红色\\C[11]\n"
+"死亡枪手\\C[0]\\!\\C[11]死亡枪手\\C[0]可以通过攻\n"
+"击相对容易地打倒"
+
+#. ID 45, Page 2, Line 28, Pos (10,9)
+msgid ""
+"逆に対甲属性の武器を使えば、\n"
+"直接\\C[9]ダークガンナー\\C[0]を\n"
+"破壊することもできる"
+msgstr ""
+"相反，使用对甲属性的武器，\n"
+"也可以直接破坏\\C[9]黑暗枪手\\C[0]"
+
+#. ID 45, Page 2, Line 37, Pos (10,9)
+msgid ""
+"\\C[9]ダークガンナー\\C[0]は\n"
+"\\C[2]\\N[101]\\C[0]を落とす"
+msgstr "\\C[9]黑暗枪手\\C[0]掉落\\C[2]\\N[101]\\C[0]"
+
+#. ID 45, Page 2, Line 45, Pos (10,9)
+msgid ""
+"\\C[11]デスガンナー\\C[0]は\n"
+"\\C[2]\\N[101]\\C[0]を落とす"
+msgstr "\\C[11]死亡枪手\\C[0]掉落\\C[2]\\N[101]\\C[0]"
+
+#. ID 46, Page 2, Line 4, Pos (11,9)
+msgid ""
+"名前：ミダス\n"
+"種族：不死"
+msgstr "名字：迈达斯种族：不死"
+
+#. ID 46, Page 2, Line 6, Pos (11,9)
+msgid "魔界の宮廷魔術師"
+msgstr "魔界宫廷魔术师"
+
+#. ID 46, Page 2, Line 7, Pos (11,9)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 2, Line 7, Pos (13,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$10000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$10000G可以听取攻略信息，要听吗？"
+
+#. ID 46, Page 2, Line 15, Pos (11,9)
+msgid ""
+"不死の能力を持ったモンスター\\!\n"
+"腐敗した肉体を黄金の装飾で隠している"
+msgstr "拥有不死能力的怪物\\!用黄金装饰隐藏腐败的肉体"
+
+#. ID 46, Page 2, Line 17, Pos (11,9)
+msgid ""
+"高速移動し、炎、氷、雷の魔法を\n"
+"飛ばして攻撃してくる強敵"
+msgstr "高速移动，发射火、冰、雷魔法攻击的强敌"
+
+#. ID 46, Page 2, Line 19, Pos (11,9)
+msgid "お金を多めに落とす"
+msgstr "掉落较多金钱"
+
+#. ID 46, Page 2, Line 20, Pos (11,9)
+msgid "・・・・・・"
+msgstr "・・・・・・"
+
+#. ID 46, Page 2, Line 21, Pos (11,9)
+msgid ""
+"倒すと極々極々稀に\n"
+"伝説の\\C[2]黄金の間\\C[0]へと続く\n"
+"階段に変化する"
+msgstr ""
+"打倒后极极极极少数情况下会变化为通往传说\\C[2]\n"
+"黄金之间\\C[0]的阶梯"
+
+#. ID 47, Page 2, Line 4, Pos (12,9)
+msgid ""
+"名前：デブートン\n"
+"種族：獣人"
+msgstr "名字：德布顿种族：兽人"
+
+#. ID 47, Page 2, Line 6, Pos (12,9)
+msgid "豚の獣人"
+msgstr "猪兽人"
+
+#. ID 47, Page 2, Line 7, Pos (12,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$10Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$10G可以听取攻略信息，要听吗？"
+
+#. ID 47, Page 2, Line 15, Pos (12,9)
+msgid ""
+"遠くにいるのに 「ブー!」と \n"
+"石を投げてくる。"
+msgstr "明明在远处，却 「布—!」地 扔石头过来。"
+
+#. ID 47, Page 2, Line 17, Pos (12,9)
+msgid ""
+"「ブー!」「ブー!」「ブー!」「ブー!」\n"
+"「ブー!」「ブー!」「ブー!」「ブー!」\n"
+"「ブー!」「ブー!」「ブー!」「ブー!」\n"
+"と ムチャクチャうっとおしい。"
+msgstr ""
+"「布—!」「布—!」「布—!」「布—!」「布—!」\n"
+"「布—!」「布—!」「布—!」「布—!」「布—!」\n"
+"「布—!」「布—!」地 非常烦人。"
+
+#. ID 47, Page 2, Line 21, Pos (12,9)
+msgid ""
+"ブーブーブーブーブー!\n"
+" ブーブーブーブーブー! \n"
+"ブーブーブーブー!"
+msgstr ""
+"布—布—布—布—布—! 布—布—布—布—布—! 布—布—布—布—\n"
+" !"
+
+#. ID 47, Page 2, Line 24, Pos (12,9)
+msgid "特に弱点はない！"
+msgstr "没有特别弱点！"
+
+#. ID 48, Page 2, Line 4, Pos (13,9)
+msgid ""
+"名前：キングマミー\n"
+"種族：不死"
+msgstr "名字：木乃伊王种族：不死"
+
+#. ID 48, Page 2, Line 6, Pos (13,9)
+msgid "魔界の王族"
+msgstr "魔界王族"
+
+#. ID 48, Page 2, Line 15, Pos (13,9)
+msgid ""
+"伝説の黄金の間に幽閉されている\n"
+"王族のミイラ"
+msgstr "被幽禁在传说黄金之间的王族木乃伊"
+
+#. ID 48, Page 2, Line 17, Pos (13,9)
+msgid ""
+"圧倒的な攻撃力、体力を持ち、\n"
+"迂闊に近づくと危険\\!\n"
+"しかし、動きが鈍いため、\n"
+"辛抱強く気長に戦ってみよう"
+msgstr ""
+"拥有压倒性攻击力、体力，\n"
+"贸然靠近很危险\\!但是动作迟钝，耐心地从容战斗吧"
+
+#. ID 48, Page 2, Line 21, Pos (13,9)
+msgid ""
+"とんでもないレアアイテムを\n"
+"複数持っている"
+msgstr "持有多个极其稀有的道具"
+
+#. ID 48, Page 2, Line 29, Pos (13,9)
+#. ID 48, Page 2, Line 36, Pos (13,9)
+#. ID 48, Page 2, Line 43, Pos (13,9)
+#. ID 60, Page 2, Line 28, Pos (15,9)
+#. ID 61, Page 2, Line 27, Pos (16,9)
+#. ID 62, Page 2, Line 28, Pos (17,9)
+msgid "\\C[2]\\N[101]\\C[0]を落とす"
+msgstr "掉落\\C[2]\\N[101]\\C[0]"
+
+#. ID 49, Page 2, Line 4, Pos (14,9)
+msgid ""
+"名前：ゲートキーパー\n"
+"種族：その他"
+msgstr "名字：守门者种族：其他"
+
+#. ID 49, Page 2, Line 6, Pos (14,9)
+msgid "魔界の城の門を守る巨大なゴーレム"
+msgstr "守护魔界之城城门的巨大魔像"
+
+#. ID 49, Page 2, Line 15, Pos (14,9)
+msgid ""
+"魔界の城の門を守っている\n"
+"巨大なゴーレム\\!\n"
+"フォース属性の魔法弾を飛ばして\n"
+"攻撃してくる"
+msgstr ""
+"守护魔界之城城门的巨大魔像\\!发射力量属性的魔法\n"
+"弹攻击"
+
+#. ID 49, Page 2, Line 19, Pos (14,9)
+msgid ""
+"とにかく正面に立たないように、\n"
+"左右に動いてかわそう\\!\n"
+"側面からの攻撃に弱い"
+msgstr ""
+"总之不要站在正面，\n"
+"左右移动来躲开吧\\!对来自侧面的攻击较弱"
+
+#. ID 49, Page 2, Line 22, Pos (14,9)
+msgid "特別レアなアイテムは落とさない"
+msgstr "不掉落特别稀有的道具"
+
+#. ID 53, Page 2, Line 3, Pos (6,16)
+#. Contains choice at line 3 (2 options)
+#. ID 74, Page 2, Line 3, Pos (7,16)
+#. Contains choice at line 3 (2 options)
+#. ID 75, Page 2, Line 3, Pos (9,16)
+#. Contains choice at line 3 (2 options)
+#. ID 76, Page 2, Line 3, Pos (10,16)
+#. Contains choice at line 3 (2 options)
+#. ID 77, Page 2, Line 3, Pos (12,16)
+#. Contains choice at line 3 (2 options)
+#. ID 78, Page 2, Line 3, Pos (15,16)
+#. Contains choice at line 3 (2 options)
+#. ID 80, Page 2, Line 3, Pos (6,18)
+#. Contains choice at line 3 (2 options)
+#. ID 81, Page 2, Line 3, Pos (7,18)
+#. Contains choice at line 3 (2 options)
+#. ID 82, Page 2, Line 3, Pos (8,18)
+#. Contains choice at line 3 (2 options)
+#. ID 83, Page 2, Line 3, Pos (9,18)
+#. Contains choice at line 3 (2 options)
+#. ID 84, Page 2, Line 3, Pos (10,18)
+#. Contains choice at line 3 (2 options)
+#. ID 85, Page 2, Line 3, Pos (11,18)
+#. Contains choice at line 3 (2 options)
+#. ID 86, Page 2, Line 3, Pos (12,18)
+#. Contains choice at line 3 (2 options)
+#. ID 87, Page 2, Line 3, Pos (13,18)
+#. Contains choice at line 3 (2 options)
+#. ID 88, Page 2, Line 3, Pos (14,18)
+#. Contains choice at line 3 (2 options)
+#. ID 89, Page 2, Line 3, Pos (15,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"魔族の記録媒体を見つけた\n"
+"読みますか？"
+msgstr "发现了魔族的记录媒体，要读吗？"
+
+#. ID 53, Page 2, Line 14, Pos (6,16)
+msgid ""
+"魔族の王だから「魔王」\n"
+"一見仰々しく感じる異名だが、実はそうではない"
+msgstr ""
+"因为是魔族之王，「魔王」这一异名乍看很夸张，\n"
+"但实际上并非如此"
+
+#. ID 53, Page 2, Line 16, Pos (6,16)
+msgid ""
+"\\C[2]サタナエル\\C[0]様はこの宇宙と共に生まれた\n"
+"神に等しい存在なのである"
+msgstr ""
+"\\C[2]萨塔纳埃尔\\C[0]大人是与这个宇宙一同诞生的\n"
+"等同于神的存在"
+
+#. ID 60, Page 2, Line 4, Pos (15,9)
+msgid ""
+"名前：サキュバス\n"
+"種族：悪鬼"
+msgstr "名字：魅魔种族：恶鬼"
+
+#. ID 60, Page 2, Line 6, Pos (15,9)
+msgid "夢魔"
+msgstr "梦魔"
+
+#. ID 60, Page 2, Line 15, Pos (15,9)
+msgid ""
+"その存在は知られていたはずなのに、\n"
+"今まで誰も見たことがなかった\n"
+"伝説のモンスター"
+msgstr "其存在本应为人所知，但至今无人见过的传说怪物"
+
+#. ID 60, Page 2, Line 18, Pos (15,9)
+msgid ""
+"その身体から発せられるフェロモンは\n"
+"男どころか女ですら発情してしまう"
+msgstr "从其身体散发出的信息素不仅男人，连女人都会发情"
+
+#. ID 60, Page 2, Line 20, Pos (15,9)
+msgid ""
+"また、身体に直接触れると危険\n"
+"絶対に触られるな"
+msgstr "另外，直接触碰身体很危险绝对不要被碰到"
+
+#. ID 61, Page 2, Line 4, Pos (16,9)
+msgid ""
+"名前：レイス\n"
+"種族：非実体"
+msgstr "名字：幽灵种族：非实体"
+
+#. ID 61, Page 2, Line 6, Pos (16,9)
+msgid "鎌を持った幽霊"
+msgstr "拿着镰刀的幽灵"
+
+#. ID 61, Page 2, Line 15, Pos (16,9)
+msgid ""
+"怨念で作られた幽霊\\!\n"
+"あらゆる物体をすり抜け、\n"
+"人間の命を刈り取りにやってくる"
+msgstr ""
+"由怨念制成的幽灵\\!穿过一切物体，\n"
+"前来收割人类生命"
+
+#. ID 61, Page 2, Line 18, Pos (16,9)
+msgid ""
+"肉体を持たないため、殆どの攻撃を\n"
+"無効化してしまう\\!\n"
+"聖属性が有効"
+msgstr "因为没有肉体，会无效化大部分攻击\\!圣属性有效"
+
+#. ID 62, Page 2, Line 4, Pos (17,9)
+msgid ""
+"名前：ボンバーボット\n"
+"種族：その他"
+msgstr "名字：炸弹机器人种族：其他"
+
+#. ID 62, Page 2, Line 6, Pos (17,9)
+msgid "ｼｮｳﾌﾞﾀﾞ!"
+msgstr "绍布达!"
+
+#. ID 62, Page 2, Line 15, Pos (17,9)
+msgid ""
+"爆弾を扱うロボット！\\!\n"
+"定期的に爆弾を設置して攻撃してくる"
+msgstr "操纵炸弹的机器人！\\!定期设置炸弹进行攻击"
+
+#. ID 62, Page 2, Line 17, Pos (17,9)
+msgid ""
+"爆風は十字方向に飛ぶため、\n"
+"斜めの位置にいれば簡単に避けられる\\!\n"
+"また、炎属性耐性で軽減できる"
+msgstr ""
+"爆炸冲击波沿十字方向飞散，\n"
+"因此位于斜角位置就能轻松避开\\!另外，\n"
+"可通过火属性抗性减轻"
+
+#. ID 62, Page 2, Line 20, Pos (17,9)
+msgid ""
+"ただし、本体の攻撃力も中々高いため\n"
+"油断は禁物"
+msgstr "不过，本体的攻击力也相当高，因此不可掉以轻心"
+
+#. ID 68, Page 2, Line 3, Pos (18,7)
+msgid "ソウルポット４を手に入れた。"
+msgstr "获得了灵魂壶4。"
+
+#. ID 74, Page 2, Line 14, Pos (7,16)
+msgid ""
+"かつては魔界も美しい場所だったと聞くが、\n"
+"今じゃ穴ぼこだらけになっちまった"
+msgstr ""
+"听说魔界曾经也是个美丽的地方，\n"
+"但如今已变得满是窟窿。"
+
+#. ID 74, Page 2, Line 16, Pos (7,16)
+msgid ""
+"「穴底」なんて生易しい物は存在しておらず、\n"
+"無限の虚無が広がっているらしい\n"
+"いつ頃だったか穴が発生して、地表を飲み込み始めた"
+msgstr ""
+"据说并不存在「洞底」这种天真的东西，\n"
+"只有无限的虚无在蔓延，不知是什么时候，\n"
+"洞穴出现并开始吞没地表。"
+
+#. ID 74, Page 2, Line 19, Pos (7,16)
+msgid "それからあっという間に今の有様よ"
+msgstr "那之后转眼间就成了现在这副样子。"
+
+#. ID 74, Page 2, Line 24, Pos (7,16)
+msgid ""
+"何故こんなことになってしまったのか\n"
+"科学的な理由は誰にも分からない"
+msgstr "为什么会变成这样，科学上的理由谁也不知道。"
+
+#. ID 74, Page 2, Line 26, Pos (7,16)
+msgid ""
+"だが、一説には人間の仕業だとも言われている\n"
+"そういう過激な説を信じている連中は山程いる"
+msgstr ""
+"不过，也有一种说法认为是人类所为。\n"
+"相信这种过激说法的人多得很。"
+
+#. ID 75, Page 2, Line 14, Pos (9,16)
+msgid ""
+"大昔、我らは人間界に侵攻したことがある\n"
+"ムーアのような化け物を何体も送りこんで、\n"
+"無差別に虐殺したらしい"
+msgstr ""
+"很久以前，我们曾入侵人间界，\n"
+"好像送去了好几只像穆尔那样的怪物，\n"
+"进行了无差别屠杀。"
+
+#. ID 75, Page 2, Line 17, Pos (9,16)
+msgid ""
+"ジ・アストラルのゲートが閉ざされてからは、\n"
+"誰も人間界に行けなくなってしまった"
+msgstr ""
+"自从阿斯特拉尔之门被封闭后，\n"
+"就再也没有人能去人间界了。"
+
+#. ID 75, Page 2, Line 19, Pos (9,16)
+msgid ""
+"だが、我らは諦めていない\n"
+"こんな穴だらけの世界は捨てて、奴らから\n"
+"奪ってやればいい"
+msgstr ""
+"但我们没有放弃。抛弃这个满是洞穴的世界，\n"
+"从那些家伙手里夺过来就好了。"
+
+#. ID 75, Page 2, Line 22, Pos (9,16)
+msgid ""
+"六人衆のような連中を牢獄から\n"
+"解放してやれば一瞬で片がつくさ\n"
+msgstr ""
+"只要把六人众那样的家伙从牢狱里放出来，\n"
+"一瞬间就能解决。"
+
+#. ID 76, Page 2, Line 14, Pos (10,16)
+msgid "六人衆って何者かって？"
+msgstr "你问六人众是什么来头？"
+
+#. ID 76, Page 2, Line 15, Pos (10,16)
+msgid ""
+"六人衆ってのはイレギュラーなんだ\n"
+"本当はこの宇宙に存在しちゃいけない奴らなんだよ\n"
+"比喩とかじゃなくて本当に"
+msgstr ""
+"六人众是异类。\n"
+"他们本来是不该存在于这个宇宙的家伙。不是比喻，\n"
+"是真的。"
+
+#. ID 76, Page 2, Line 18, Pos (10,16)
+msgid ""
+"なんでそんな奴がいるのか？\n"
+"知らねぇよ"
+msgstr "为什么会有那种家伙？我不知道啊。"
+
+#. ID 76, Page 2, Line 20, Pos (10,16)
+msgid ""
+"なんかの拍子でこの宇宙に紛れ込んだとしか\n"
+"考えられないらしい"
+msgstr "似乎只能认为他们是因某种机缘混进这个宇宙的。"
+
+#. ID 76, Page 2, Line 22, Pos (10,16)
+msgid ""
+"ただ、奴らは強すぎる\n"
+"殺すこともできないから封じ込めておくしかない"
+msgstr "只是他们太强了，杀也杀不死，所以只能封印起来。"
+
+#. ID 77, Page 2, Line 14, Pos (12,16)
+msgid ""
+"戦争以前は人類との交流があったようだ\n"
+"未熟な種族だった奴らを育てたのは我らだ"
+msgstr ""
+"战争以前似乎与人类有过交流。\n"
+"养育了那些未成熟种族的，正是我们。"
+
+#. ID 77, Page 2, Line 16, Pos (12,16)
+msgid ""
+"それがどうして敵対することになったのか\n"
+"どうにも奴らが裏切ったという噂があるのだ"
+msgstr "至于为何会变成敌对，总之有传闻说是他们背叛了。"
+
+#. ID 77, Page 2, Line 18, Pos (12,16)
+msgid ""
+"それから人類相手の戦争が勃発\n"
+"ゲートができてからは、\n"
+"魔王様も心を閉ざしてしまわれた"
+msgstr ""
+"那之后，与人类的战争爆发了。自从门出现后，\n"
+"魔王大人也封闭了内心。"
+
+#. ID 77, Page 2, Line 21, Pos (12,16)
+msgid ""
+"我々の残党やその子孫も\n"
+"人間界に置き去りになってしまったらしい"
+msgstr "据说我们的残党及其子孙也被遗弃在人间界了。"
+
+#. ID 78, Page 2, Line 14, Pos (15,16)
+#. ID 78, Page 2, Line 24, Pos (15,16)
+msgid "五十六億七千万"
+msgstr "五十六亿七千万"
+
+#. ID 78, Page 2, Line 15, Pos (15,16)
+msgid ""
+"あのお方は優しすぎるのだ\n"
+"自らの判断が多くの魔族の仲間を\n"
+"殺してしまったことを悔いておられるのだ"
+msgstr ""
+"那位大人实在太过温柔了。\n"
+"他一直在后悔自己的判断害死了许多魔族同伴。"
+
+#. ID 78, Page 2, Line 18, Pos (15,16)
+msgid ""
+"あのお方の身の回りの世話をする\n"
+"私にだけは僅かに話してくださる\n"
+"苦悩しておられるのだ"
+msgstr ""
+"他只对照顾他起居的我稍微透露了一些。\n"
+"他正为此苦恼。"
+
+#. ID 78, Page 2, Line 21, Pos (15,16)
+msgid ""
+"人類を憎め、殺せと我々に仰るが、\n"
+"本心では苦悩しておられるのだ"
+msgstr ""
+"虽然他对我们说憎恨人类、杀掉人类，\n"
+"但内心里其实很痛苦。"
+
+#. ID 78, Page 2, Line 23, Pos (15,16)
+msgid "我々には知り得ない苦悩があるのだ"
+msgstr "他有着我们无法知晓的苦恼。"
+
+#. ID 78, Page 2, Line 25, Pos (15,16)
+msgid "\\S[8]・・・・・・・・"
+msgstr "\\S[8]・・・・・・・・"
+
+#. ID 80, Page 2, Line 14, Pos (6,18)
+#. ID 87, Page 2, Line 14, Pos (13,18)
+#. ID 88, Page 2, Line 28, Pos (14,18)
+#. ID 89, Page 2, Line 34, Pos (15,18)
+msgid "\\S[8]・・・・・・・・\\S[1]"
+msgstr "\\S[8]・・・・・・・・\\S[1]"
+
+#. ID 80, Page 2, Line 15, Pos (6,18)
+msgid ""
+"私が生まれた時から\n"
+"その使命を理解していたわけではない"
+msgstr "我并非从出生时就理解那个使命。"
+
+#. ID 80, Page 2, Line 17, Pos (6,18)
+msgid ""
+"知能を持った生き物が赤子から大人になる過程で\n"
+"学ぶように\n"
+"私にも学ぶ時間が必要だった"
+msgstr ""
+"就像有智慧的生物从婴儿成长为大人过程中学习\n"
+"　一样，我也需要学习的时间。"
+
+#. ID 80, Page 2, Line 20, Pos (6,18)
+msgid ""
+"だが、私が「大人」になるためには、\n"
+"私が存在している理由を理解しなくてはならなかった\\!\n"
+"そのために無限の命、不老の肉体を与えられた"
+msgstr ""
+"但是，为了成为「大人」，\n"
+"我必须理解自己存在的理由\\!为此，\n"
+"我被赋予了无限的生命与不老的肉体"
+
+#. ID 81, Page 2, Line 14, Pos (7,18)
+msgid ""
+"何億年も昔、私は地獄の業火の中から生まれた\\!\n"
+"星々の衝突に巻き込まれ、溶岩の熱に巻き込まれ、\n"
+"八寒地獄の氷に晒され、\n"
+"それでも何かが私に生きろと言うのだ"
+msgstr ""
+"数亿年前，\n"
+"我从地狱的业火中诞生\\!被卷入群星碰撞，\n"
+"被卷入熔岩的热量，暴露在八寒地狱的冰中，\n"
+"即便如此，仍有某种东西对我说要活下去。"
+
+#. ID 81, Page 2, Line 18, Pos (7,18)
+msgid ""
+"私は全てを憎んだ\\!\n"
+"私の身体は宇宙の混沌に混ざり合い、\n"
+"憎しみと共に変化し、やがて魔王の姿となった"
+msgstr ""
+"我憎恨一切\\!我的身体与宇宙的混沌混杂在一起，\n"
+"随着憎恨一同变化，最终变成了魔王的模样。"
+
+#. ID 81, Page 2, Line 25, Pos (7,18)
+msgid ""
+"だが、私はある時\n"
+"宇宙の切れ目に「\\C[2]赤い荒野\\C[0]」を見たのだ"
+msgstr ""
+"但是，我曾在某个时候，在宇宙的裂缝中看见了\n"
+"「\\C[2]赤红荒野\\C[0]」。"
+
+#. ID 81, Page 2, Line 27, Pos (7,18)
+msgid ""
+"何故、そんな物が見えたのか分からない\n"
+"私は目の前に現れた異物のことを考え続けた"
+msgstr ""
+"我不知道为什么会看见那种东西。\n"
+"我一直在思考出现在眼前的异物。"
+
+#. ID 81, Page 2, Line 29, Pos (7,18)
+msgid ""
+"荒野のことを考えるうちに、私に慈悲の念が宿った\n"
+"私は久遠とも思える時間、哭き続けた"
+msgstr ""
+"在思考荒野的过程中，我心中萌生出了慈悲之念。\n"
+"我在仿佛永恒的时间里，一直哭泣。"
+
+#. ID 81, Page 2, Line 35, Pos (7,18)
+msgid ""
+"涙も枯れ果てた頃\n"
+"辺りを見回すと\n"
+"そこには青々とした大地が広がっていた"
+msgstr ""
+"当泪水也干涸时，我环顾四周，\n"
+"那里已是一片郁郁葱葱的大地。"
+
+#. ID 82, Page 2, Line 14, Pos (8,18)
+msgid "私はこの世界を「魔界」と名付けた"
+msgstr "我将这个世界命名为「魔界」。"
+
+#. ID 82, Page 2, Line 15, Pos (8,18)
+msgid ""
+"この世界に存在する草木、水、岩、光、炎、土、\n"
+"そして私の体の一部を使って、仲間を生み出した\\!\n"
+"彼らが「魔族」の始祖となった\\!\n"
+"私達は文明を築いていった"
+msgstr ""
+"我用存在于这个世界的草木、水、岩石、光、火焰、\n"
+"土，以及我身体的一部分，\n"
+"创造出了同伴\\!他们成为了「魔族」\n"
+"的始祖\\!我们逐渐建立了文明。"
+
+#. ID 82, Page 2, Line 23, Pos (8,18)
+msgid "ある日、私達は異世界へと続く穴を見つけた"
+msgstr "某一天，我们发现了通往异世界的洞穴。"
+
+#. ID 83, Page 2, Line 14, Pos (9,18)
+msgid ""
+"異世界への穴を通れば\n"
+"この魔界から別の世界へ行くことが出来ることを\n"
+"知った"
+msgstr ""
+"我们得知，只要穿过通往异世界的洞穴，\n"
+"就能从这个魔界前往另一个世界。"
+
+#. ID 83, Page 2, Line 17, Pos (9,18)
+msgid "その先の世界を「\\C[2]ジ・アストラル\\C[0]」と呼ぶことにした"
+msgstr ""
+"我们决定将前方的世界称为\n"
+"「\\C[2]阿斯特拉尔\\C[0]」。"
+
+#. ID 83, Page 2, Line 18, Pos (9,18)
+msgid ""
+"ジ・アストラルは魔界よりも遥かに小さかった\n"
+"この世界には生物こそいなかったが、\n"
+"文明の痕跡と未知の言語で書かれた\n"
+"大量の知識媒体を見つけた"
+msgstr ""
+"阿斯特拉尔比魔界小得多。这个世界虽然没有生物，\n"
+"但我们发现了文明的痕迹，\n"
+"以及大量用未知语言书写的知识载体。"
+
+#. ID 83, Page 2, Line 22, Pos (9,18)
+msgid "いずれはこれらを解読しなければなるまい"
+msgstr "迟早必须解读这些东西。"
+
+#. ID 83, Page 2, Line 27, Pos (9,18)
+msgid ""
+"それから私達はジ・アストラルから更に先の世界\n"
+"「\\C[2]人間界\\C[0]」を発見した"
+msgstr ""
+"之后，我们又从阿斯特拉尔发现了更前方的世界\n"
+"「\\C[2]人间界\\C[0]」。"
+
+#. ID 84, Page 2, Line 14, Pos (10,18)
+msgid "そこには「人間」という種族が暮らしていた"
+msgstr "那里生活着名为「人类」的种族。"
+
+#. ID 84, Page 2, Line 15, Pos (10,18)
+msgid ""
+"彼らは原始的な生活をしていたが、\n"
+"石斧や弓を持ち、火を扱うことができた\\!\n"
+"「人間」がこの土地の支配種族となることは\n"
+"明らかだった"
+msgstr ""
+"他们过着原始生活，但拥有石斧和弓，能够使用火\\!\n"
+"「人类」显然会成为这片土地的支配种族。"
+
+#. ID 84, Page 2, Line 19, Pos (10,18)
+msgid ""
+"私達とルーツが違えど、\n"
+"知能を持った生物に出会えたことに歓喜した"
+msgstr ""
+"尽管根源与我们不同，\n"
+"我们仍为能遇到有智慧生物而欢喜。"
+
+#. ID 84, Page 2, Line 21, Pos (10,18)
+msgid ""
+"私達は人間に魔法を教えた\\!\n"
+"彼らは文明を築き始めた"
+msgstr "我们教给人类魔法\\!他们开始建立文明。"
+
+#. ID 84, Page 2, Line 23, Pos (10,18)
+msgid "私達は人間達から「神」と崇められるようになった"
+msgstr "我们开始被人类尊崇为「神」。"
+
+#. ID 84, Page 2, Line 28, Pos (10,18)
+msgid "……この頃から魔界に穴が空き始めた"
+msgstr "……从那时起，魔界开始出现洞穴。"
+
+#. ID 85, Page 2, Line 14, Pos (11,18)
+msgid "魔界に少しずつ穴が空き始めた"
+msgstr "魔界开始一点点出现洞穴。"
+
+#. ID 85, Page 2, Line 15, Pos (11,18)
+msgid ""
+"突然地面が崩れ、巨大な穴ができた\\!\n"
+"穴の中に飲み込まれた仲間達は帰ってこなかった\\!\n"
+"また、穴から瘴気が溢れ、多くの仲間が毒に侵された"
+msgstr ""
+"地面突然崩塌，\n"
+"出现了巨大的洞穴\\!被吞入洞中的同伴们没有回来\\!\n"
+"此外，瘴气从洞穴中溢出，许多同伴被毒侵蚀。"
+
+#. ID 85, Page 2, Line 18, Pos (11,18)
+msgid "穴は無限に広がっていくようだった"
+msgstr "洞穴似乎会无限扩展下去。"
+
+#. ID 85, Page 2, Line 19, Pos (11,18)
+msgid ""
+"私は時々、穴の底に「赤い荒野」を\n"
+"見たような気がする\n"
+"あれは一体何なのだろうか"
+msgstr ""
+"我有时会觉得在洞穴底部看见了「赤红荒野」。\n"
+"那究竟是什么？"
+
+#. ID 85, Page 2, Line 22, Pos (11,18)
+msgid ""
+"私達は穴の膨張を止める手立てを求め、\n"
+"ジ・アストラルの知識媒体を解読し始めた"
+msgstr ""
+"我们为寻求阻止洞穴膨胀的办法，\n"
+"开始解读阿斯特拉尔的知识载体。"
+
+#. ID 85, Page 2, Line 28, Pos (11,18)
+msgid "……近頃 人間界の侵略を企てる者が現れ始めた"
+msgstr "……近来 开始出现企图侵略人间界的人"
+
+#. ID 85, Page 2, Line 29, Pos (11,18)
+msgid ""
+"嘆かわしいことだ\\!\n"
+"この問題に人間界を巻き込むべきではない"
+msgstr "真是可叹\\!不应该把人间界卷入这个问题。"
+
+#. ID 86, Page 2, Line 14, Pos (12,18)
+msgid "人間界でみなしごに出会った"
+msgstr "在人间界遇见了孤儿"
+
+#. ID 86, Page 2, Line 15, Pos (12,18)
+msgid ""
+"私はその娘に妙に魅かれ保護することにした\\!\n"
+"その娘の名は「エヴァ」という\\!\n"
+"私はエヴァに父親のように接した"
+msgstr ""
+"我莫名被那个女孩吸引，决定保护她\\!那个女孩名叫\n"
+"「艾娃」\\!我像父亲一样对待艾娃"
+
+#. ID 86, Page 2, Line 18, Pos (12,18)
+msgid ""
+"我々魔族と比べたら人間の寿命は短い\\!\n"
+"エヴァは瞬く間に成長した"
+msgstr ""
+"与我们魔族相比，\n"
+"人类的寿命很短\\!艾娃转眼间就长大了"
+
+#. ID 86, Page 2, Line 20, Pos (12,18)
+msgid ""
+"彼女には特別な力とカリスマがあった\\!\n"
+"いつからか彼女は「\\C[2]聖女\\C[0]」と\n"
+"呼ばれるようになっていた"
+msgstr ""
+"她拥有特别的力量与魅力\\!不知从何时起，\n"
+"她开始被称为「\\C[2]圣女\\C[0]」"
+
+#. ID 86, Page 2, Line 27, Pos (12,18)
+msgid ""
+"だが、私はエヴァに\n"
+"他の人間とは異質な物を感じていた\\!\n"
+"いや、人間達も同じような物を\n"
+"感じていたのかもしれない"
+msgstr ""
+"但是，\n"
+"我从艾娃身上感受到了与其他人类不同的某种东西\\!\n"
+"不，或许人类们也感受到了同样的东西"
+
+#. ID 86, Page 2, Line 31, Pos (12,18)
+msgid ""
+"彼女から醸し出される雰囲気は、\n"
+"何故か、あの「赤い荒野」を\n"
+"思い起こさずにはいられなかった"
+msgstr ""
+"她散发出的氛围，不知为何，总让我不由得想起那片\n"
+"「赤红荒野」"
+
+#. ID 87, Page 2, Line 15, Pos (13,18)
+msgid "ジ・アストラルの解読が終わった"
+msgstr "阿斯特拉尔的解读完成了"
+
+#. ID 87, Page 2, Line 16, Pos (13,18)
+msgid "全てを理解した"
+msgstr "我明白了一切"
+
+#. ID 87, Page 2, Line 17, Pos (13,18)
+msgid ""
+"ジ・アストラルが存在する理由\\!、エヴァが現れた理由\\!、\n"
+"赤い荒野\\!、魔界に広がる穴\\!、私が生まれた意味\\!\n"
+"そして、宇宙とは何なのか"
+msgstr ""
+"阿斯特拉尔存在的理由\\!、艾娃出现的理由\\!、\n"
+"赤红荒野\\!、在魔界蔓延的洞穴\\!、\n"
+"我诞生的意义\\!以及，宇宙究竟是什么"
+
+#. ID 87, Page 2, Line 20, Pos (13,18)
+msgid ""
+"宇宙が生まれてから死ぬまでのこと\\!\n"
+"全ては最初から仕組まれていた"
+msgstr ""
+"宇宙从诞生到死亡的一切\\!一切从一开始就已被安排\n"
+"好了"
+
+#. ID 87, Page 2, Line 26, Pos (13,18)
+msgid "宇宙は死にかけている"
+msgstr "宇宙正在走向死亡"
+
+#. ID 87, Page 2, Line 31, Pos (13,18)
+msgid ""
+"魔界の穴は通過点に過ぎない\n"
+"人間界もやがて……\\!"
+msgstr "魔界之穴不过是途经点，人间界也终将……\\!"
+
+#. ID 87, Page 2, Line 37, Pos (13,18)
+msgid ""
+"……過激派が動き出した\\!\n"
+"人間界への侵攻が始まる"
+msgstr "……激进派开始行动了\\!对人间界的侵略开始了"
+
+#. ID 87, Page 2, Line 39, Pos (13,18)
+msgid "エヴァを救わなければならない"
+msgstr "必须救艾娃"
+
+#. ID 87, Page 2, Line 40, Pos (13,18)
+msgid ""
+"エヴァは鍵だ\\!\n"
+"まだ間に合うかもしれない"
+msgstr "艾娃是钥匙\\!或许还来得及"
+
+#. ID 88, Page 2, Line 14, Pos (14,18)
+msgid ""
+"魔族と人間の総力戦となった\\!\n"
+"だが、人間はまだまだ未熟だ\n"
+"魔族に勝てるわけがない"
+msgstr ""
+"演变成了魔族与人类的总力战\\!但是，\n"
+"人类还远远不够成熟，不可能战胜魔族"
+
+#. ID 88, Page 2, Line 21, Pos (14,18)
+msgid "せめてエヴァだけは"
+msgstr "至少艾娃……"
+
+#. ID 88, Page 2, Line 26, Pos (14,18)
+msgid "私は"
+msgstr "我"
+
+#. ID 88, Page 2, Line 27, Pos (14,18)
+msgid "私はエヴァを"
+msgstr "我把艾娃……"
+
+#. ID 89, Page 2, Line 14, Pos (15,18)
+msgid "私は失敗した"
+msgstr "我失败了"
+
+#. ID 89, Page 2, Line 15, Pos (15,18)
+msgid "私には資格がない"
+msgstr "我没有资格"
+
+#. ID 89, Page 2, Line 16, Pos (15,18)
+msgid ""
+"全ては私の責任だ\\!\n"
+"自らの使命を見失っていた"
+msgstr "一切都是我的责任\\!我迷失了自己的使命"
+
+#. ID 89, Page 2, Line 22, Pos (15,18)
+msgid ""
+"私は魔王サタナエル\\!\n"
+"人を憎まなければならなかった\\!\n"
+"全てを滅ぼさなければならなかった"
+msgstr "我是魔王萨塔奈尔\\!我必须憎恨人类\\!必须毁灭一切"
+
+#. ID 89, Page 2, Line 25, Pos (15,18)
+msgid ""
+"これからは慈悲の心を捨てよう\\!\n"
+"魔王の使命に徹しよう"
+msgstr "从今往后舍弃慈悲之心吧\\!彻底贯彻魔王的使命吧"
+
+#. ID 89, Page 2, Line 27, Pos (15,18)
+msgid "それが死んでいった全ての命への慰めとなるだろう"
+msgstr "那将成为对逝去一切生命的慰藉吧"
+
+#. ID 89, Page 2, Line 32, Pos (15,18)
+msgid ""
+"償い続けよう\\!\n"
+"永遠に"
+msgstr "继续偿还吧\\!永远地"
+
+#. ID 90, Page 2, Line 4, Pos (18,9)
+msgid ""
+"名前：ドラゴンチャリオット\n"
+"種族：不明"
+msgstr "名字：龙战车 种族：不明"

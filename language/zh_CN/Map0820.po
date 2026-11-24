@@ -1,0 +1,176 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 7, Page 1, Line 3, Pos (18,6)
+msgid "＊故障中＊"
+msgstr "＊故障中＊"
+
+#. ID 7, Page 2, Line 12, Pos (18,6)
+msgid "開かない。"
+msgstr "打不开。"
+
+#. ID 7, Page 3, Line 15, Pos (18,6)
+msgid "鍵が壊れてしまったようだ。"
+msgstr "锁好像坏掉了。"
+
+#. ID 7, Page 3, Line 16, Pos (18,6)
+msgid "\\S[2]……黙っておこう。"
+msgstr "\\S[2]……还是保持沉默吧。"
+
+#. ID 7, Page 5, Line 3, Pos (18,6)
+msgid ""
+"開かない。\n"
+"どうやら、完全に封鎖されているようだ。"
+msgstr "打不开。看来完全被封锁了。"
+
+#. ID 8, Page 1, Line 8, Pos (18,3)
+msgid ""
+"トイレの中に階段がある……\n"
+"どこかへつながっているようだ。"
+msgstr "厕所里有楼梯……似乎通向某处。"
+
+#. ID 8, Page 1, Line 10, Pos (18,3)
+#. Contains choice at line 2 (2 options)
+msgid "降りてみますか？"
+msgstr "要下去看看吗？"
+
+#. ID 8, Page 1, Line 11, Pos (18,3)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 6, Pos (5,19)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 6, Pos (10,19)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 6, Pos (15,19)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 1, Line 6, Pos (1,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 10, Page 1, Line 4, Pos (5,19)
+#. Contains choice at line 3 (2 options)
+#. ID 11, Page 1, Line 4, Pos (10,19)
+#. Contains choice at line 3 (2 options)
+#. ID 12, Page 1, Line 4, Pos (15,19)
+#. Contains choice at line 3 (2 options)
+#. ID 13, Page 1, Line 4, Pos (1,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊「ライオネル教書」という本がある　\n"
+"　 読みますか？"
+msgstr ""
+"＊有一本叫「莱昂内尔教典」的书\n"
+"　 要读吗？"
+
+#. ID 10, Page 1, Line 8, Pos (5,19)
+#. ID 11, Page 1, Line 8, Pos (10,19)
+#. ID 12, Page 1, Line 8, Pos (15,19)
+#. ID 13, Page 1, Line 8, Pos (1,7)
+msgid ""
+"＊市民は幸福である。\n"
+"　偉大なるグラドス様の教えに従うことができる。"
+msgstr ""
+"＊市民是幸福的。\n"
+"　能够遵从伟大的古拉多斯大人之教。"
+
+#. ID 10, Page 1, Line 10, Pos (5,19)
+#. ID 11, Page 1, Line 10, Pos (10,19)
+#. ID 12, Page 1, Line 10, Pos (15,19)
+#. ID 13, Page 1, Line 10, Pos (1,7)
+msgid ""
+"＊グラドス様の教えは常に正しい。\n"
+"　グラドス様は市民の最大幸福を常に導き出す。\n"
+"　グラドス様に従うことは幸福である。"
+msgstr ""
+"＊古拉多斯大人之教永远正确。\n"
+"　格拉多斯大人总是引导出市民的最大幸福。\n"
+"　遵从格拉多斯大人就是幸福。"
+
+#. ID 10, Page 1, Line 13, Pos (5,19)
+#. ID 11, Page 1, Line 13, Pos (10,19)
+#. ID 12, Page 1, Line 13, Pos (15,19)
+#. ID 13, Page 1, Line 13, Pos (1,7)
+msgid ""
+"＊市民は幸福である。\n"
+"　グラドス様に従う市民は幸福でなければならない。"
+msgstr ""
+"＊市民是幸福的。\n"
+"　遵从格拉多斯大人的市民必须是幸福的。"
+
+#. ID 15, Page 1, Line 3, Pos (2,13)
+msgid ""
+"ここは宿屋ですが、グラドス様の許可がない方を\n"
+"お泊めすることはできません。"
+msgstr ""
+"这里是旅馆，但没有格拉多斯大人的许可的人，\n"
+"我们不能让其住宿。"
+
+#. ID 18, Page 1, Line 3, Pos (3,20)
+msgid "変な都市だなあ、客を泊めないとか……"
+msgstr "真是奇怪的城市啊，居然不留宿客人……"
+
+#. ID 19, Page 1, Line 3, Pos (1,18)
+msgid ""
+"私はグラドスって人に許可をもらったけど、\n"
+"連れが断られたからね。\n"
+"まあ長居はできそうにないわ。"
+msgstr ""
+"我虽然从叫格拉多斯的人那里拿到了许可，\n"
+"但同伴被拒绝了。嘛，看来没法久留呢。"
+
+#. ID 20, Page 1, Line 3, Pos (6,22)
+#. ID 21, Page 1, Line 3, Pos (18,12)
+msgid "ふう……ようやく滞在許可を貰えたわ。"
+msgstr "呼……终于拿到逗留许可了。"
+
+#. ID 22, Page 1, Line 3, Pos (18,15)
+msgid ""
+"ぬ、ぬおおおおおお……\n"
+"ま、まだなのぉぉぉぉぉ！？"
+msgstr "呜、呜哦哦哦哦哦哦……还、还没好吗啊啊啊啊啊！？"
+
+#. ID 23, Page 1, Line 3, Pos (8,14)
+msgid ""
+"俺は許可がおりなかったけど……\n"
+"俺の連れは許可がおりたんだよな。"
+msgstr "我没被批准……可我的同伴被批准了啊。"
+
+#. ID 23, Page 1, Line 5, Pos (8,14)
+msgid ""
+"……何か、女しか泊めてねえんじゃねえの。\n"
+"差別だ差別。"
+msgstr "……总觉得，是不是只让女人住啊。这是歧视，歧视。"
+
+#. ID 25, Page 1, Line 3, Pos (9,8)
+msgid ""
+"許可がないとお風呂も使えないなんて……\n"
+"管理がしっかりしてる、ってことでしょうけど\n"
+"ちょっとやりすぎよね。"
+msgstr ""
+"没有许可连浴室都不能用……\n"
+"虽说这算是管理得很到位吧，但有点过头了呢。"
+
+#. ID 26, Page 1, Line 3, Pos (14,14)
+msgid "いらっしゃいませ"
+msgstr "欢迎光临"
+
+#. ID 26, Page 1, Line 4, Pos (14,14)
+msgid ""
+"お泊りになるのでしたら、\n"
+"領主グラドス様に許可をお求めください。"
+msgstr "如果要住宿，请向领主格拉多斯大人申请许可。"

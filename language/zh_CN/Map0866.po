@@ -1,0 +1,59 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 26, Page 2, Line 2, Pos (5,39)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "使用済"
+msgstr "已使用"
+
+#. ID 26, Page 2, Line 6, Pos (5,39)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "１回だけ使用"
+msgstr "仅可使用1次"
+
+#. ID 26, Page 2, Line 7, Pos (5,39)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "可能"
+msgstr "可能"
+
+#. ID 26, Page 2, Line 12, Pos (5,39)
+#. Contains choice at line 2 (3 options)
+msgid "何を行いますか？"
+msgstr "要做什么？"
+
+#. ID 26, Page 2, Line 13, Pos (5,39)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"全回復（\\c[9]\\n[101]\\n[102]\\c[0]）\n"
+"セーブ（\\c[9]何回でも使用可能\\c[0]）\n"
+"何もしない"
+msgstr ""
+"完全恢复（\\c[9]\\n[101]\\n[102]\\c[0]）\n"
+"存档（\\c[9]可无限次使用\\c[0]）\n"
+"什么都不做"
+
+#. ID 26, Page 2, Line 16, Pos (5,39)
+msgid ""
+"\n"
+"何も起きなかった……"
+msgstr "什么也没有发生……"
+
+#. ID 28, Page 2, Line 116, Pos (2,0)
+msgid ""
+"\n"
+"…\\.…\\.びしょびしょになっちゃった。"
+msgstr "…\\.…\\.变得湿漉漉的了。"

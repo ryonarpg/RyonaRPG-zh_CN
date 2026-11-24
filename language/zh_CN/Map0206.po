@@ -1,0 +1,60 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 21, Page 2, Line 3, Pos (28,28)
+msgid "＊扉は固く閉ざされている。"
+msgstr "＊门被牢牢关着。"
+
+#. ID 24, Page 2, Line 3, Pos (27,58)
+#. Contains choice at line 2 (2 options)
+msgid "このダンジョンから出ますか？"
+msgstr "要离开这个地下城吗？"
+
+#. ID 24, Page 2, Line 4, Pos (27,58)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 64, Page 2, Line 6, Pos (25,56)
+msgid "また何処かで音がした……。"
+msgstr "某处又传来了声音……。"
+
+#. ID 64, Page 3, Line 9, Pos (25,56)
+msgid "！？"
+msgstr "！？"
+
+#. ID 64, Page 3, Line 29, Pos (25,56)
+msgid "謎の液体が注ぎ込まれる！\\.\\.\\.\\^"
+msgstr "不明液体被注入！\\.\\.\\.\\^"
+
+#. ID 64, Page 3, Line 56, Pos (25,56)
+msgid "謎の液体で腹が膨れ上がる！\\.\\.\\.\\^"
+msgstr "因为不明液体，肚子膨胀起来！\\.\\.\\.\\^"
+
+#. ID 64, Page 3, Line 105, Pos (25,56)
+msgid ""
+"自分の腹が\\S[3]弾ける音を聞いた。\n"
+"\\S[3]　\n"
+"…………ような\\S[3]気がした。"
+msgstr ""
+"我听见自己的肚子\\S[3]爆开的声音。\\S[3]　…………\n"
+"仿佛\\S[3]有这种感觉。"
+
+#. ID 64, Page 3, Line 143, Pos (25,56)
+msgid "\\n[\\v[6]]はりりむに転生してしまった……"
+msgstr "\\n[\\v[6]]竟然转生成了哈利利姆……"

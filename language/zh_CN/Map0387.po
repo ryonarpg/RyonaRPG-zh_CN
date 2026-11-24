@@ -1,0 +1,59 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 3, Pos (15,4)
+msgid "いらっしゃい"
+msgstr "欢迎光临"
+
+#. ID 1, Page 1, Line 4, Pos (15,4)
+msgid ""
+"ここではメルベル兵士正式採用の\n"
+"武具の数々を置いているよ。"
+msgstr "这里放着许多梅尔贝尔士兵正式采用的武具哦。"
+
+#. ID 3, Page 1, Line 3, Pos (10,10)
+msgid "めぼしい武器はないかな……"
+msgstr "没有像样的武器吗……"
+
+#. ID 16, Page 1, Line 9, Pos (2,5)
+msgid ""
+"黙ってイイもの作ってれば、\n"
+"気づいてくれた人がいつかは評価してくれるさ。"
+msgstr ""
+"只要默默做出好东西，\n"
+"发现它的人总有一天会给出评价的。"
+
+#. ID 17, Page 1, Line 3, Pos (25,10)
+msgid "僕は旅を続けているんだけど……"
+msgstr "我还在继续旅行……"
+
+#. ID 17, Page 1, Line 4, Pos (25,10)
+msgid ""
+"薬屋がないらしくて、\n"
+"ちょっと立ち往生してるんだ。"
+msgstr "好像没有药店，我有点进退两难。"
+
+#. ID 18, Page 1, Line 3, Pos (27,12)
+msgid "弓はないのかしら。"
+msgstr "没有弓吗。"
+
+#. ID 19, Page 1, Line 3, Pos (2,10)
+msgid "銃はないでござるか？"
+msgstr "没有枪吗？"
+
+#. ID 19, Page 1, Line 4, Pos (2,10)
+msgid ""
+"銃はいいでござるぞぉ！\n"
+"刀なんかもってるやつは阿呆でござる。"
+msgstr "枪可是好东西！拿着刀之类的家伙是笨蛋。"

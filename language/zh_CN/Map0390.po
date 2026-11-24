@@ -1,0 +1,191 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (24,11)
+msgid ""
+"最近復興したからか、\n"
+"お客さんの呼び込みに必死みたいなの。"
+msgstr "可能因为最近复兴了，好像拼命在招揽客人呢。"
+
+#. ID 3, Page 1, Line 5, Pos (24,11)
+msgid "だから掃除とかも念入りにやらないとね。"
+msgstr "所以打扫之类的也得仔细做才行呢。"
+
+#. ID 4, Page 1, Line 3, Pos (36,10)
+msgid "＊…………"
+msgstr "＊…………"
+
+#. ID 4, Page 1, Line 4, Pos (36,10)
+msgid "＊何か異様な雰囲気が伝わってくる……"
+msgstr "＊传来某种异样的气氛……"
+
+#. ID 15, Page 1, Line 3, Pos (26,6)
+msgid "僕は行商人さ。"
+msgstr "我是行商。"
+
+#. ID 15, Page 1, Line 4, Pos (26,6)
+msgid ""
+"昼はこの街に仕入れに、\n"
+"夜は別の街へ販売に。"
+msgstr "白天来这座城市进货，晚上去别的城市贩卖。"
+
+#. ID 16, Page 1, Line 3, Pos (21,7)
+msgid "あら、ごきげんよう。"
+msgstr "哎呀，贵安。"
+
+#. ID 17, Page 1, Line 3, Pos (15,6)
+msgid "しかし平和でござる。"
+msgstr "不过真是和平啊。"
+
+#. ID 17, Page 1, Line 4, Pos (15,6)
+msgid ""
+"不謹慎でござるが、\n"
+"何かこうびっくりするようなイベントが\n"
+"欲しいでござる。"
+msgstr "虽说不太谨慎，但真想有点让人大吃一惊的事件啊。"
+
+#. ID 17, Page 2, Line 3, Pos (15,6)
+msgid "さあ、いい声で啼くでござる！"
+msgstr "来吧，用美妙的声音叫吧！"
+
+#. ID 17, Page 2, Line 9, Pos (15,6)
+msgid ""
+"ふふ……やっぱりこの感触でござる！\n"
+"斬ってこそ来たかいがあったというもの！"
+msgstr "呵呵……果然是这个触感！能砍上一刀才算没白来！"
+
+#. ID 18, Page 1, Line 3, Pos (14,6)
+msgid ""
+"い\"だい\"！　い\"だッ……\n"
+"やめ\"でぇぇえ\"っ！！"
+msgstr "好\"痛\"！　好\"痛\"……住\"手\"啊——！！"
+
+#. ID 20, Page 1, Line 3, Pos (35,11)
+msgid ""
+"この部屋の人……チェックインしてから、\n"
+"一回も外に出てこないのよ"
+msgstr "这个房间的人……从入住以后，一次都没出来过呢。"
+
+#. ID 20, Page 1, Line 5, Pos (35,11)
+msgid ""
+"これじゃあお掃除もできないけど……\n"
+"一体なんなのかしら。"
+msgstr "这样的话也没法打扫……到底是怎么回事呢。"
+
+#. ID 21, Page 1, Line 3, Pos (9,6)
+msgid "ふぁい……もうしわけありまふぇん……"
+msgstr "好～……实在抱歉～……"
+
+#. ID 22, Page 1, Line 3, Pos (10,6)
+msgid "何か用か？"
+msgstr "有什么事吗？"
+
+#. ID 22, Page 2, Line 3, Pos (10,6)
+msgid "もうちょっと上手くしゃぶれよなぁ……"
+msgstr "再吸得熟练一点啊……"
+
+#. ID 23, Page 1, Line 3, Pos (20,6)
+msgid "仕事上がりの一杯、ってね。"
+msgstr "下班后来一杯，是吧。"
+
+#. ID 23, Page 1, Line 7, Pos (20,6)
+msgid "おら、もう出ないのかい！？"
+msgstr "喂，已经射不出来了吗！？"
+
+#. ID 23, Page 1, Line 12, Pos (20,6)
+msgid ""
+"\n"
+"女性の持っているグラスには精液がこびり付いている"
+msgstr "女性拿着的杯子上粘着精液"
+
+#. ID 24, Page 1, Line 3, Pos (19,7)
+msgid ""
+"姉御～……\n"
+"も、もう飲めねえぞなもし～……"
+msgstr "大姐～……我、我已经喝不下了啊～……"
+
+#. ID 24, Page 2, Line 3, Pos (19,7)
+msgid ""
+"姉御～……\n"
+"も、もう出ねえぞなもし～……"
+msgstr "大姐～……我、我已经射不出来了啊～……"
+
+#. ID 24, Page 2, Line 5, Pos (19,7)
+msgid ""
+"\n"
+"男性のイチモツは萎えきってしまっている。\n"
+"……しかし、結構大きい。"
+msgstr "男性的阳具已经完全萎缩了。……不过，还挺大的。"
+
+#. ID 25, Page 1, Line 4, Pos (5,6)
+msgid ""
+"………\n"
+"まだ何か調査することがあるの？"
+msgstr "………还有什么要调查的吗？"
+
+#. ID 25, Page 1, Line 6, Pos (5,6)
+msgid ""
+"手早く済ませて頂戴……\n"
+"他の魔法ギルド員やアバロソ兵に\n"
+"バレたら、私も終わりなんだから"
+msgstr ""
+"请快点办完……\n"
+"要是被其他魔法公会成员或阿巴罗索士兵发现，\n"
+"我也就完了。"
+
+#. ID 25, Page 1, Line 11, Pos (5,6)
+msgid ""
+"………\n"
+"あなたが城の隠密から依頼を受けた\n"
+"冒険者ね？"
+msgstr "………你就是从城堡密探那里接受委托的冒险者吧？"
+
+#. ID 25, Page 1, Line 14, Pos (5,6)
+msgid ""
+"支配の塔は魔法ギルドだけでなく、\n"
+"アバロソさえも場所を秘匿してる場所\n"
+"一般人を入れるわけには行かないわ"
+msgstr ""
+"支配之塔不仅是魔法公会，\n"
+"连阿巴罗索都隐瞒了其所在，\n"
+"是不能让普通人进去的地方。"
+
+#. ID 25, Page 1, Line 17, Pos (5,6)
+msgid ""
+"そんな場所にあなたを送るの……\n"
+"機密に関わってしまうのだから、\n"
+"バレたら私は勿論、あなたも処刑されるわ"
+msgstr ""
+"把你送去那种地方……因为会牵扯到机密，一旦暴露，\n"
+"别说我，你也会被处刑。"
+
+#. ID 25, Page 1, Line 22, Pos (5,6)
+#. Contains choice at line 2 (2 options)
+msgid "……移動の準備は良い？"
+msgstr "……移动的准备做好了吗？"
+
+#. ID 25, Page 1, Line 23, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 25, Page 1, Line 25, Pos (5,6)
+msgid ""
+"任務が終了した頃を見計らって\n"
+"私も現場に向かうから"
+msgstr "我会估算任务结束的时候也前往现场"

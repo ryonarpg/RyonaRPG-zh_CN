@@ -1,0 +1,138 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 27, Page 2, Line 11, Pos (2,8)
+#. ID 27, Page 2, Line 92, Pos (2,8)
+msgid "\\S[8]・・・・・・・・\\S[1]"
+msgstr "\\S[8]・・・・・・・・\\S[1]"
+
+#. ID 27, Page 2, Line 12, Pos (2,8)
+msgid "いよいよ今日なのだな"
+msgstr "终于就是今天了啊"
+
+#. ID 27, Page 2, Line 13, Pos (2,8)
+msgid ""
+"私は死んだのだろう\n"
+"だが、悔いることはない"
+msgstr "我大概已经死了吧，但我不会后悔"
+
+#. ID 27, Page 2, Line 15, Pos (2,8)
+msgid ""
+"私は魔王の使命を全うした\n"
+"全力を出して戦った"
+msgstr "我完成了魔王的使命，竭尽全力战斗了"
+
+#. ID 27, Page 2, Line 17, Pos (2,8)
+msgid ""
+"完膚なきまでに殺すつもりで、\n"
+"滅ぼすつもりで戦い、敗れた"
+msgstr ""
+"抱着将对方彻底杀绝、彻底毁灭的打算战斗，\n"
+"然后败北了"
+
+#. ID 27, Page 2, Line 19, Pos (2,8)
+msgid "そこに意味がある"
+msgstr "其中自有意义"
+
+#. ID 27, Page 2, Line 20, Pos (2,8)
+msgid "私は殺されるために生まれてきた"
+msgstr "我是为了被杀而诞生的"
+
+#. ID 27, Page 2, Line 21, Pos (2,8)
+msgid "私は「試練」なのだ"
+msgstr "我是「试炼」"
+
+#. ID 27, Page 2, Line 38, Pos (2,8)
+msgid "そもそも宇宙はいずれ滅ぶように出来ているのだ"
+msgstr "说到底，宇宙注定终将灭亡"
+
+#. ID 27, Page 2, Line 39, Pos (2,8)
+msgid ""
+"宇宙と共に「魔王」が生まれる\n"
+"魔王は苦痛の中で全てを憎むようになる"
+msgstr ""
+"与宇宙一同诞生「魔王」，\n"
+"魔王在痛苦中变得憎恨一切"
+
+#. ID 27, Page 2, Line 41, Pos (2,8)
+msgid ""
+"宇宙の歴史の中で一人だけ「聖女」が生まれる\n"
+"聖女には新たな「宇宙」となる資格がある"
+msgstr ""
+"在宇宙的历史中仅有一人诞生为「圣女」，\n"
+"圣女拥有成为新「宇宙」的资格"
+
+#. ID 27, Page 2, Line 43, Pos (2,8)
+msgid "誕生、超越と言い換えても良い"
+msgstr "也可以换称为诞生、超越"
+
+#. ID 27, Page 2, Line 44, Pos (2,8)
+msgid ""
+"新たな宇宙の誕生には\n"
+"乗り越えなければならない試練が必要なのだ"
+msgstr "新宇宙的诞生需要必须跨越的试炼"
+
+#. ID 27, Page 2, Line 46, Pos (2,8)
+msgid "だが、私は未熟だった"
+msgstr "但是，我还不够成熟"
+
+#. ID 27, Page 2, Line 47, Pos (2,8)
+msgid ""
+"他人を憎むことなど出来ず、\n"
+"使命に徹することが出来なかった"
+msgstr "我无法憎恨他人，也无法贯彻使命"
+
+#. ID 27, Page 2, Line 65, Pos (2,8)
+msgid ""
+"私はエヴァに全てを託した\n"
+"エヴァを「赤い荒野」へ送り出したのだ"
+msgstr "我把一切托付给了艾娃，将艾娃送往了「赤红荒野」"
+
+#. ID 27, Page 2, Line 67, Pos (2,8)
+msgid ""
+"外宇宙ならエヴァに匹敵する存在を\n"
+"見つけられるかもしれない"
+msgstr "若是外宇宙，或许能找到与艾娃匹敌的存在"
+
+#. ID 27, Page 2, Line 69, Pos (2,8)
+msgid "エヴァからの「返答」を、私は何万年も待っていた"
+msgstr "我等待了数万年，等待来自艾娃的「答复」"
+
+#. ID 27, Page 2, Line 70, Pos (2,8)
+msgid ""
+"新たな宇宙となる資格を持った存在\\!\n"
+"それが君だ"
+msgstr "拥有成为新宇宙资格的存在\\!那就是你"
+
+#. ID 27, Page 2, Line 72, Pos (2,8)
+msgid ""
+"君は外宇宙からやってきた\\!\n"
+"君を連れてきたのはエヴァだ"
+msgstr "你来自外宇宙\\!把你带来的人是艾娃"
+
+#. ID 27, Page 2, Line 90, Pos (2,8)
+msgid "この先へ進んでくれ"
+msgstr "继续向前走吧"
+
+#. ID 27, Page 2, Line 91, Pos (2,8)
+msgid "「赤い荒野」が待っている"
+msgstr "「赤红荒野」在等着你"
+
+#. ID 27, Page 2, Line 93, Pos (2,8)
+msgid "達者でな"
+msgstr "保重啊"
+
+#. ID 28, Page 2, Line 12, Pos (9,3)
+msgid "\\>　\\<\\N[101]\\N[102]\\N[103]\\N[104]を手に入れた。"
+msgstr "\\>　\\<\\N[101]\\N[102]\\N[103]\\N[104]已获得。"

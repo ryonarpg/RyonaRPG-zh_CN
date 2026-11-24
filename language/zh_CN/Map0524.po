@@ -1,0 +1,75 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 51, Page 2, Line 32, Pos (0,0)
+msgid "悪く思うなよ？"
+msgstr "别怪我啊？"
+
+#. ID 51, Page 2, Line 146, Pos (0,0)
+msgid "これも戦術だ。"
+msgstr "这也是战术。"
+
+#. ID 51, Page 2, Line 152, Pos (0,0)
+msgid "先手必勝！ラピッドストリーム！"
+msgstr "先手必胜！快速激流！"
+
+#. ID 51, Page 4, Line 7, Pos (0,0)
+msgid "やるな……。だが！"
+msgstr "真有一手……。但是！"
+
+#. ID 51, Page 4, Line 58, Pos (0,0)
+msgid "七英雄兵長に\\c[1]クイック\\c[0]が付与された！"
+msgstr "七英雄兵长被赋予了\\c[1]快速\\c[0]！"
+
+#. ID 51, Page 4, Line 62, Pos (0,0)
+msgid "ここからが本番だ！"
+msgstr "接下来才是正戏！"
+
+#. ID 51, Page 6, Line 122, Pos (0,0)
+msgid "身の程を知れ。"
+msgstr "认清自己的分量吧。"
+
+#. ID 51, Page 6, Line 125, Pos (0,0)
+msgid "勝てると思ったのか？"
+msgstr "你以为能赢吗？"
+
+#. ID 51, Page 6, Line 225, Pos (0,0)
+msgid "トドメだ。\\.\\^"
+msgstr "最后一击。\\.\\^"
+
+#. ID 51, Page 7, Line 49, Pos (0,0)
+msgid "バカな……！"
+msgstr "怎么会……！"
+
+#. ID 58, Page 2, Line 5, Pos (1,0)
+msgid "勝利！"
+msgstr "胜利！"
+
+#. ID 58, Page 2, Line 8, Pos (1,0)
+msgid ""
+"マニアモードボーナス獲得！\n"
+"兵長の剣を1個手に入れた！"
+msgstr "获得狂热模式奖励！获得了1把兵长之剑！"
+
+#. ID 58, Page 2, Line 20, Pos (1,0)
+msgid ""
+"賞金として、相手の掛け金\n"
+"\\V[373]Gを得た！"
+msgstr "作为奖金，获得了对手的赌注\\V[373]G！"
+
+#. ID 58, Page 2, Line 25, Pos (1,0)
+msgid ""
+"賞品として、\n"
+"\\N[101]\\N[102]を\\V[377]個手に入れた！"
+msgstr "作为奖品，获得了\\V[377]个\\N[101]\\N[102]！"

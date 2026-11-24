@@ -1,0 +1,76 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 43, Page 2, Line 4, Pos (31,20)
+msgid ""
+"閉じ込められ、敵に囲まれている。\n"
+"今はこんなレバーにかかずらっている場合ではない！"
+msgstr ""
+"被关在这里，还被敌人包围。\n"
+"现在不是摆弄这种拉杆的时候！"
+
+#. ID 43, Page 2, Line 12, Pos (31,20)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを見つけた。操作しますか?"
+msgstr "发现了拉杆。要操作吗？"
+
+#. ID 43, Page 2, Line 13, Pos (31,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 43, Page 2, Line 38, Pos (31,20)
+msgid ""
+"……南側の扉は開いたが、\n"
+"北側の扉は異音がしただけで結局開かなかったようだ。"
+msgstr ""
+"……南侧的门打开了，但北侧的门只发出异响，\n"
+"结果似乎并没有打开。"
+
+#. ID 43, Page 2, Line 40, Pos (31,20)
+msgid ""
+"まさか先程の戦闘の余波で\n"
+"扉の開閉装置が故障してしまったのか？"
+msgstr ""
+"难道是因为刚才战斗的余波，\n"
+"门的开关装置故障了吗？"
+
+#. ID 43, Page 2, Line 42, Pos (31,20)
+msgid ""
+"何とか修理、\n"
+"もしくはこじ開けなければ先に進めない……"
+msgstr "必须设法修理，或者撬开，否则无法前进……"
+
+#. ID 43, Page 3, Line 3, Pos (31,20)
+msgid "固定されて元に戻らないようだ。"
+msgstr "似乎被固定住了，无法复位。"
+
+#. ID 46, Page 2, Line 3, Pos (26,44)
+#. ID 60, Page 2, Line 9, Pos (26,15)
+msgid "扉は固く閉ざされている……。"
+msgstr "门紧闭着……。"
+
+#. ID 60, Page 2, Line 4, Pos (26,15)
+msgid ""
+"扉の開閉装置が故障してしまったようだ。\n"
+"修理するかこじ開けるかしなければ先に進めない。\n"
+"とりあえず周辺を見て回ってみよう……"
+msgstr ""
+"门的开关装置似乎坏了。\n"
+"如果不修理或撬开就无法前进。\n"
+"总之先在周围转转看吧……"

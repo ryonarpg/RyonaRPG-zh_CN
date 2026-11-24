@@ -1,0 +1,413 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 22, Pos (34,9)
+#. ID 4, Page 1, Line 22, Pos (34,31)
+msgid ""
+"\n"
+"宝箱がいっぱいある！！"
+msgstr "有好多宝箱！！"
+
+#. ID 3, Page 1, Line 33, Pos (34,9)
+#. ID 4, Page 1, Line 33, Pos (34,31)
+msgid ""
+"\n"
+"これで大金持ちね！"
+msgstr "这样就是大富翁了！"
+
+#. ID 3, Page 2, Line 56, Pos (34,9)
+msgid ""
+"\\s[20]\n"
+"「あ…………」\\|\\^"
+msgstr "\\s[20]「啊…………」\\|\\^"
+
+#. ID 3, Page 2, Line 69, Pos (34,9)
+msgid ""
+"\\>\n"
+"\\>何が起きたのか理解する間も無く、\n"
+"\\>\\n[\\v[6]]は血だまりの中で息絶えた。\\<\\|\\|\\|\\^"
+msgstr ""
+"\\>\\>还没来得及理解发生了什么，\n"
+"\\>\\n[\\v[6]]便在血泊中停止了呼吸。\\<\\|\\|\\|\\^"
+
+#. ID 6, Page 1, Line 5, Pos (24,5)
+#. ID 12, Page 1, Line 5, Pos (26,7)
+#. ID 14, Page 1, Line 5, Pos (25,8)
+#. ID 19, Page 1, Line 5, Pos (27,9)
+#. ID 24, Page 1, Line 5, Pos (25,11)
+#. ID 29, Page 1, Line 5, Pos (26,12)
+#. ID 30, Page 1, Line 5, Pos (27,12)
+#. ID 36, Page 1, Line 5, Pos (29,13)
+msgid ""
+"\n"
+"からっぽだ。"
+msgstr "是空的。"
+
+#. ID 7, Page 1, Line 7, Pos (25,5)
+#. ID 34, Page 1, Line 7, Pos (27,13)
+msgid ""
+"\n"
+"お金を100手に入れた。"
+msgstr "获得了100金钱。"
+
+#. ID 8, Page 1, Line 10, Pos (24,6)
+#. ID 15, Page 1, Line 10, Pos (26,8)
+#. ID 21, Page 1, Line 10, Pos (25,10)
+#. ID 27, Page 1, Line 10, Pos (28,11)
+#. ID 35, Page 1, Line 10, Pos (28,13)
+#. ID 39, Page 1, Line 10, Pos (32,13)
+#. ID 40, Page 1, Line 8, Pos (29,4)
+#. ID 41, Page 1, Line 8, Pos (30,4)
+#. ID 42, Page 1, Line 8, Pos (31,4)
+#. ID 43, Page 1, Line 8, Pos (32,4)
+#. ID 44, Page 1, Line 8, Pos (31,5)
+#. ID 45, Page 1, Line 8, Pos (32,5)
+#. ID 46, Page 1, Line 8, Pos (33,5)
+#. ID 57, Page 1, Line 8, Pos (28,28)
+#. ID 59, Page 1, Line 8, Pos (30,28)
+#. ID 60, Page 1, Line 8, Pos (31,28)
+#. ID 61, Page 1, Line 8, Pos (32,28)
+#. ID 62, Page 1, Line 8, Pos (27,29)
+#. ID 63, Page 1, Line 8, Pos (33,29)
+#. ID 67, Page 1, Line 11, Pos (29,32)
+#. ID 68, Page 1, Line 11, Pos (28,33)
+#. ID 69, Page 1, Line 11, Pos (29,33)
+#. ID 70, Page 1, Line 11, Pos (31,31)
+#. ID 71, Page 1, Line 11, Pos (32,31)
+#. ID 74, Page 1, Line 11, Pos (31,33)
+#. ID 75, Page 1, Line 11, Pos (32,33)
+#. ID 76, Page 1, Line 11, Pos (27,26)
+msgid ""
+"\n"
+"\\N[101]\\N[102]を\\v[1201]個手に入れた。"
+msgstr "获得了\\v[1201]个\\N[101]\\N[102]。"
+
+#. ID 9, Page 1, Line 18, Pos (25,6)
+#. ID 13, Page 1, Line 20, Pos (24,8)
+#. ID 18, Page 1, Line 20, Pos (26,9)
+#. ID 22, Page 1, Line 19, Pos (26,10)
+#. ID 28, Page 1, Line 19, Pos (25,12)
+#. ID 32, Page 1, Line 20, Pos (29,12)
+msgid ""
+"\n"
+"大当たり～"
+msgstr "中大奖了～"
+
+#. ID 10, Page 1, Line 7, Pos (24,7)
+msgid ""
+"\n"
+"お金を10手に入れた。"
+msgstr "获得了10金钱。"
+
+#. ID 11, Page 1, Line 5, Pos (25,7)
+#. ID 16, Page 1, Line 5, Pos (24,9)
+#. ID 20, Page 1, Line 5, Pos (24,10)
+#. ID 26, Page 1, Line 5, Pos (27,11)
+#. ID 33, Page 1, Line 5, Pos (30,12)
+#. ID 37, Page 1, Line 5, Pos (30,13)
+#. ID 65, Page 1, Line 6, Pos (29,31)
+msgid ""
+"\n"
+"！！！！！"
+msgstr ""
+"\n"
+"！！！！！"
+
+#. ID 11, Page 1, Line 16, Pos (25,7)
+#. ID 16, Page 1, Line 16, Pos (24,9)
+#. ID 20, Page 1, Line 16, Pos (24,10)
+#. ID 26, Page 1, Line 16, Pos (27,11)
+#. ID 33, Page 1, Line 16, Pos (30,12)
+#. ID 37, Page 1, Line 16, Pos (30,13)
+msgid ""
+"\n"
+"宝箱の中から何かが飛び出し、\n"
+"\\n[\\v[6]]の身体に取り付いた！"
+msgstr ""
+"有什么东西从宝箱里飞了出来，\n"
+"\\n[\\v[6]]的身体被它附上了！"
+
+#. ID 11, Page 1, Line 26, Pos (25,7)
+#. ID 11, Page 1, Line 34, Pos (25,7)
+#. ID 16, Page 1, Line 26, Pos (24,9)
+#. ID 16, Page 1, Line 34, Pos (24,9)
+#. ID 20, Page 1, Line 26, Pos (24,10)
+#. ID 20, Page 1, Line 34, Pos (24,10)
+#. ID 26, Page 1, Line 26, Pos (27,11)
+#. ID 26, Page 1, Line 34, Pos (27,11)
+#. ID 33, Page 1, Line 26, Pos (30,12)
+#. ID 33, Page 1, Line 34, Pos (30,12)
+#. ID 37, Page 1, Line 26, Pos (30,13)
+#. ID 37, Page 1, Line 34, Pos (30,13)
+msgid ""
+"\n"
+"だが、\\n[\\v[6]]の身体に寄生できないようだ。\\.\\.\n"
+"程なくして蟲はどこかへと去っていった。"
+msgstr ""
+"但是，似乎无法寄生到\\n[\\v[6]]的身体上。\n"
+"\\.\\.没过多久，虫就不知去向了。"
+
+#. ID 11, Page 1, Line 41, Pos (25,7)
+#. ID 16, Page 1, Line 41, Pos (24,9)
+#. ID 20, Page 1, Line 41, Pos (24,10)
+#. ID 26, Page 1, Line 41, Pos (27,11)
+#. ID 33, Page 1, Line 41, Pos (30,12)
+#. ID 37, Page 1, Line 41, Pos (30,13)
+msgid ""
+"\n"
+"\\n[\\v[6]]は蟲に寄生されてしまった！"
+msgstr "\\n[\\v[6]]被虫寄生了！"
+
+#. ID 17, Page 1, Line 7, Pos (25,9)
+#. ID 23, Page 1, Line 7, Pos (27,10)
+msgid ""
+"\n"
+"お金を1000手に入れた。"
+msgstr "获得了1000金钱。"
+
+#. ID 25, Page 1, Line 7, Pos (26,11)
+msgid ""
+"\n"
+"お金を5000手に入れた。"
+msgstr "获得了5000金钱。"
+
+#. ID 31, Page 1, Line 7, Pos (28,12)
+msgid ""
+"\n"
+"お金を10000手に入れた。"
+msgstr "获得了10000金钱。"
+
+#. ID 38, Page 1, Line 7, Pos (31,13)
+msgid ""
+"\n"
+"お金を1手に入れた。"
+msgstr "获得了1金钱。"
+
+#. ID 47, Page 1, Line 7, Pos (32,6)
+#. ID 48, Page 1, Line 7, Pos (33,6)
+#. ID 49, Page 1, Line 7, Pos (33,7)
+#. ID 64, Page 1, Line 9, Pos (28,31)
+#. ID 73, Page 1, Line 10, Pos (32,32)
+msgid ""
+"\n"
+"お金を\\v[1201]手に入れた。"
+msgstr "获得了\\v[1201]金钱。"
+
+#. ID 58, Page 1, Line 3, Pos (29,28)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"ネコミミが置いてある。"
+msgstr "这里放着猫耳。"
+
+#. ID 58, Page 1, Line 5, Pos (29,28)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"着けてみる\n"
+"何もしない"
+msgstr ""
+"试着戴上\n"
+"什么都不做"
+
+#. ID 58, Page 1, Line 9, Pos (29,28)
+msgid ""
+"\n"
+"しかし、今の姿には似合わないと感じたのか\n"
+"着けるのをやめてしまった。"
+msgstr ""
+"但是，也许是觉得和现在的样子不搭，\n"
+"便放弃戴上了。"
+
+#. ID 58, Page 1, Line 14, Pos (29,28)
+msgid ""
+"\n"
+"耳が邪魔で着けられない。"
+msgstr "耳朵碍事，戴不上。"
+
+#. ID 58, Page 1, Line 34, Pos (29,28)
+msgid ""
+"\n"
+"鏡が無いから分からないけど、\n"
+"激カワイイわたしが映るはずだ。"
+msgstr ""
+"虽然没有镜子所以不知道，\n"
+"但照出来的应该是超可爱的我。"
+
+#. ID 58, Page 1, Line 40, Pos (29,28)
+msgid ""
+"\n"
+"鏡が無いから分からないけど、\n"
+"似合っているのは間違い無いだろう。"
+msgstr "虽然没有镜子所以不知道，但肯定很适合吧。"
+
+#. ID 58, Page 1, Line 45, Pos (29,28)
+msgid ""
+"\n"
+"鏡が無いから、\n"
+"似合っているかは分からないなぁ。"
+msgstr "因为没有镜子，所以不知道适不适合啊。"
+
+#. ID 58, Page 1, Line 60, Pos (29,28)
+msgid ""
+"\n"
+"\\.…\\.…\\.何だろう、今の感覚。"
+msgstr "\\.…\\.…\\.是什么呢，刚才的感觉。"
+
+#. ID 58, Page 1, Line 68, Pos (29,28)
+msgid ""
+"\n"
+"何か、頭がムズムズするような\\.…\\.…\\.\\.\n"
+"とりあえず外して\\.…\\.…"
+msgstr ""
+"总觉得，脑袋有点发痒似的\\.…\\.…\n"
+"\\.\\.总之先摘下来\\.…\\.…"
+
+#. ID 58, Page 1, Line 82, Pos (29,28)
+msgid ""
+"\n"
+"\\>「いたっ！？\\<\\.\\.　…\\.…\\.えっ？」\\|\\^"
+msgstr "\\>「好痛！？\\<\\.\\.　…\\.…\\.诶？」\\|\\^"
+
+#. ID 58, Page 1, Line 102, Pos (29,28)
+msgid ""
+"\n"
+"\\>「うそっ！？\\<\\.\\.\\>　取れない！？」\\<\\|\\^"
+msgstr "\\>「不会吧！？\\<\\.\\.\\>　摘不下来！？」\\<\\|\\^"
+
+#. ID 58, Page 1, Line 131, Pos (29,28)
+msgid ""
+"\n"
+"「痛い\\.…\\.…\\.\\.\n"
+"　そんな\\.…\\.…\\.どうして取れないの\\.…\\.…\\.？」\\|\\^"
+msgstr ""
+"「好痛\\.…\\.…\\.\\.　怎么会\\.…\\.…\n"
+"\\.为什么摘不下来\\.…\\.…\\.？」\\|\\^"
+
+#. ID 58, Page 1, Line 142, Pos (29,28)
+msgid ""
+"\n"
+"「あっ、\\.\\.また\\.…\\.…\\.」\\|\\^"
+msgstr "「啊，\\.\\.又来了\\.…\\.…\\.」\\|\\^"
+
+#. ID 58, Page 1, Line 152, Pos (29,28)
+msgid ""
+"\n"
+"「今度はなに\\.…\\.…\\.？」\\|\\^"
+msgstr "「这次又是什么\\.…\\.…\\.？」\\|\\^"
+
+#. ID 58, Page 1, Line 162, Pos (29,28)
+msgid ""
+"\n"
+"「えっ？\\.\\.　お尻がムズムズして\\.…\\.…\\.？」\\|\\^"
+msgstr "「诶？\\.\\.　屁股痒痒的\\.…\\.…\\.？」\\|\\^"
+
+#. ID 58, Page 1, Line 185, Pos (29,28)
+msgid ""
+"\n"
+"「な、\\.何か、\\.\\.出ちゃうっ！」\\|\\^"
+msgstr "「什、\\.什么东西，\\.\\.要出来了！」\\|\\^"
+
+#. ID 58, Page 1, Line 205, Pos (29,28)
+msgid ""
+"\n"
+"\\>！！！！！\\<\\|\\^"
+msgstr ""
+"\n"
+"\\>！！！！！\\<\\|\\^"
+
+#. ID 58, Page 1, Line 257, Pos (29,28)
+msgid ""
+"\n"
+"\\.…\\.…\\.\\n[\\v[6]]は猫になってしまった。\\|\\^"
+msgstr "\\.…\\.…\\.\\n[\\v[6]]变成了猫。\\|\\^"
+
+#. ID 58, Page 1, Line 281, Pos (29,28)
+msgid ""
+"\n"
+"「はぁ\\.…\\.…\\.、はぁ\\.…\\.…\\.」\\|\\^"
+msgstr "「哈啊\\.…\\.…\\.、哈啊\\.…\\.…\\.」\\|\\^"
+
+#. ID 58, Page 1, Line 289, Pos (29,28)
+msgid ""
+"\n"
+"「これは\\.…\\.…\\.しっぽ？\\.\\.\n"
+"　そんな\\.…\\.…\\.こんなのって\\.…\\.…\\.」\\|\\^"
+msgstr ""
+"「这是\\.…\\.…\\.尾巴？\\.\\.　怎么会\\.…\\.…\n"
+"\\.竟然会这样\\.…\\.…\\.」\\|\\^"
+
+#. ID 65, Page 1, Line 17, Pos (29,31)
+msgid ""
+"\n"
+"宝箱の中から何かが飛び出し、\n"
+"\\n[\\v[6]]の身体に巻きついてきた！"
+msgstr ""
+"有什么东西从宝箱里飞了出来，\n"
+"\\n[\\v[6]]的身体被它缠上了！"
+
+#. ID 65, Page 1, Line 33, Pos (29,31)
+msgid ""
+"\n"
+"だが次の瞬間には、\n"
+"箱から飛び出してきた何かはバラバラになっていた。"
+msgstr ""
+"但下一瞬间，\n"
+"从箱子里飞出来的那个东西已经支离破碎了。"
+
+#. ID 65, Page 1, Line 42, Pos (29,31)
+msgid ""
+"\n"
+"\\n[\\v[6]]は縄のような物に\n"
+"絡みつかれてしまった！"
+msgstr "\\n[\\v[6]]被像绳子一样的东西缠住了！"
+
+#. ID 66, Page 1, Line 12, Pos (28,32)
+msgid ""
+"\n"
+"（あれ？\\.\\.　何ともない？）"
+msgstr "（咦？\\.\\.　没什么事？）"
+
+#. ID 110, Page 1, Line 3, Pos (8,7)
+msgid ""
+"\n"
+"水晶玉が飾ってある。\\.\\.\n"
+"その表面には誰かの後ろ姿が映っている。"
+msgstr "装饰着一颗水晶球。\\.\\.其表面映出某人的背影。"
+
+#. ID 110, Page 1, Line 12, Pos (8,7)
+msgid ""
+"\n"
+"「これって、わたし\\.…\\.…\\.だよね？」"
+msgstr "「这个，是我\\.…\\.…\\.吧？」"
+
+#. ID 110, Page 1, Line 23, Pos (8,7)
+msgid ""
+"\n"
+"「かすかに人の気配が残ってる\\.…\\.…\\.」"
+msgstr "「还残留着微弱的人的气息\\.…\\.…\\.」"
+
+#. ID 110, Page 1, Line 33, Pos (8,7)
+msgid ""
+"\n"
+"「ずっと見られてた\\.…\\.…\\.？」"
+msgstr "「一直被看着\\.…\\.…\\.？」"
+
+#. ID 110, Page 2, Line 3, Pos (8,7)
+msgid ""
+"\n"
+"水晶玉が飾ってある。\\.\\.\n"
+"その表面には\\n[\\v[6]]の後ろ姿が映っている。"
+msgstr ""
+"装饰着一颗水晶球。\n"
+"\\.\\.其表面映着\\n[\\v[6]]的背影。"

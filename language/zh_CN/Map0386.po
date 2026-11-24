@@ -1,0 +1,305 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 1, Pos (12,7)
+msgid "わん（まずは貼り紙へ行きな）"
+msgstr "汪（先去贴纸那里吧）"
+
+#. ID 2, Page 2, Line 1, Pos (12,7)
+msgid "ばうわう！"
+msgstr "汪呜！"
+
+#. ID 2, Page 2, Line 2, Pos (12,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"　　　　ワンちゃんの性欲処理をする？"
+msgstr "　　　　要处理小狗的性欲吗？"
+
+#. ID 2, Page 2, Line 5, Pos (12,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"犬のちん○ん好きぃ\n"
+"犬はやぁん"
+msgstr ""
+"喜欢狗的鸡○巴\n"
+"狗、不要啦"
+
+#. ID 3, Page 1, Line 3, Pos (13,10)
+msgid "ひひん（まずは貼り紙へ行きなさい）"
+msgstr "咴咴（先去贴纸那里吧）"
+
+#. ID 3, Page 2, Line 3, Pos (13,10)
+msgid "ぶるるる！"
+msgstr "布噜噜噜！"
+
+#. ID 3, Page 2, Line 4, Pos (13,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"　　　　お馬さんの性欲処理をする？"
+msgstr "　　　　要处理马先生的性欲吗？"
+
+#. ID 3, Page 2, Line 7, Pos (13,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"馬のビッグちん○ん好きぃ\n"
+"馬はいやぁん"
+msgstr ""
+"喜欢马的大鸡○巴\n"
+"马、不要啊"
+
+#. ID 4, Page 1, Line 15, Pos (5,4)
+#. ID 4, Page 2, Line 11, Pos (5,4)
+#. ID 4, Page 3, Line 11, Pos (5,4)
+msgid ""
+"あおんっ……！！！\\!\n"
+"わおおーんっ……！！"
+msgstr "啊呜……！！！\\!哇嗷——……！！"
+
+#. ID 4, Page 1, Line 19, Pos (5,4)
+#. ID 4, Page 2, Line 15, Pos (5,4)
+#. ID 4, Page 3, Line 13, Pos (5,4)
+msgid ""
+"ぶるるるるるっ……！！\\!\n"
+"ぶしゅーっ……"
+msgstr "布噜噜噜噜噜……！！\\!噗咻——……"
+
+#. ID 4, Page 1, Line 43, Pos (5,4)
+#. ID 4, Page 2, Line 39, Pos (5,4)
+#. ID 4, Page 3, Line 48, Pos (5,4)
+msgid ""
+"あううーんっ……。\\!\n"
+"はっはっはっはっはっはっ……！"
+msgstr "啊呜呜——……。\\!哈、哈、哈、哈、哈、哈……！"
+
+#. ID 4, Page 1, Line 48, Pos (5,4)
+#. ID 4, Page 2, Line 44, Pos (5,4)
+#. ID 4, Page 3, Line 50, Pos (5,4)
+msgid "ぶしゅっ……ふーっ……！！"
+msgstr "噗咻……呼——……！！"
+
+#. ID 4, Page 1, Line 64, Pos (5,4)
+#. ID 4, Page 2, Line 60, Pos (5,4)
+#. ID 4, Page 3, Line 76, Pos (5,4)
+msgid "くぅん、くん、くん、くぅ……んっ！！"
+msgstr "呜嗯、嗯、嗯、呜嗯……嗯！！"
+
+#. ID 4, Page 1, Line 68, Pos (5,4)
+#. ID 4, Page 2, Line 64, Pos (5,4)
+#. ID 4, Page 3, Line 77, Pos (5,4)
+msgid ""
+"ひひぃんっ！\\!\n"
+"ひ、ひんっ。　ぶしゅーっ……！"
+msgstr "咴咴咴！\\!咴、咴。　噗咻——……！"
+
+#. ID 4, Page 1, Line 90, Pos (5,4)
+#. ID 4, Page 2, Line 108, Pos (5,4)
+#. ID 4, Page 3, Line 119, Pos (5,4)
+msgid "きゃううううぅぅぅんっ！！！"
+msgstr "呀呜呜呜呜呜呜嗯！！！"
+
+#. ID 4, Page 1, Line 94, Pos (5,4)
+#. ID 4, Page 2, Line 112, Pos (5,4)
+#. ID 4, Page 3, Line 120, Pos (5,4)
+msgid "ひ、ひ、ひひひぃぃぃぃぃんっ！！！"
+msgstr "咴、咴、咴咴咴咴咴咴嗯！！！"
+
+#. ID 4, Page 1, Line 123, Pos (5,4)
+#. ID 4, Page 2, Line 152, Pos (5,4)
+msgid "きゃいーん……"
+msgstr "呀呜——嗯……"
+
+#. ID 4, Page 1, Line 128, Pos (5,4)
+#. ID 4, Page 2, Line 157, Pos (5,4)
+msgid "ぶるるるるっ……ふぅーっ……"
+msgstr "布噜噜噜噜……呼——……"
+
+#. ID 4, Page 3, Line 148, Pos (5,4)
+msgid "きゃいん♪　きゃんっ、きゃいんっ♪"
+msgstr "呀呜♪　呀呜、呀呜♪"
+
+#. ID 4, Page 3, Line 149, Pos (5,4)
+msgid "ひひん♪　ぶるるっ、ぶるんっ♪"
+msgstr "咴咴♪　布噜噜、布噜嗯♪"
+
+#. ID 7, Page 1, Line 23, Pos (10,28)
+msgid ""
+"いきなりドラゴンに押さえつけられた。\n"
+"既にモノは、はちきれんばかりに巨大になっている。"
+msgstr ""
+"突然被龙按住了。\n"
+"那东西已经膨胀得快要裂开般巨大。"
+
+#. ID 7, Page 1, Line 25, Pos (10,28)
+msgid ""
+"何の抵抗も出来ないでいると、\n"
+"舌が身体に巻きついてきた。"
+msgstr "当我什么抵抗都做不到时，舌头缠上了身体。"
+
+#. ID 7, Page 1, Line 35, Pos (10,28)
+msgid "ダメだ……！　動けない……！"
+msgstr "不行……！　无法行动……！"
+
+#. ID 7, Page 1, Line 36, Pos (10,28)
+msgid ""
+"ふと、脳裏に女教師の痴態が思い浮かぶ。\\!\n"
+"腹のカタチが変わるほどのモノを受け入れて\n"
+"だらしなく喘ぎ声をあげていた…………"
+msgstr ""
+"忽然，脑海中浮现出女教师的痴态。\n"
+"\\!她接纳了足以改变腹部形状的巨物，\n"
+"不成体统地发出娇喘…………"
+
+#. ID 7, Page 1, Line 45, Pos (10,28)
+msgid ""
+"フヒヒッ！　受け入れるんだな……\n"
+"　　　　　　受け入れるんだな……\n"
+"　　　　　　受け入れるんだな……\n"
+"　　　　　　受け入れるんだな……"
+msgstr ""
+"嘻嘻嘻！　接受吧……\n"
+"　　　　　　接受吧……\n"
+"　　　　　　接受吧……\n"
+"　　　　　　接受吧……"
+
+#. ID 7, Page 1, Line 57, Pos (10,28)
+msgid ""
+"\n"
+"   　ゾクゾク、する……！\n"
+"    "
+msgstr "   　颤栗，涌上来……！"
+
+#. ID 7, Page 1, Line 68, Pos (10,28)
+msgid ""
+"はあっ、はあっ、はっ……え？　あ、ああああっ……！\\!\n"
+"だめえぇぇっ！！！！\\!\n"
+"むりいいいぃぃぃぃっ！！？！？！\\!\n"
+"あ、ああああ、ああああああああっ！？！？！？！！"
+msgstr ""
+"哈啊、哈啊、哈……诶？　啊、啊啊啊啊……！\n"
+"\\!不行啊啊啊！！！！\\!不可能啊啊啊啊啊啊！！？\n"
+"！？！\\!啊、啊啊啊啊、啊啊啊啊啊啊啊啊！？！？\n"
+"！？！！"
+
+#. ID 7, Page 1, Line 81, Pos (10,28)
+msgid ""
+"ぎあああああぁぁぁっ！！？！？\n"
+"ひひ、ひああはああぁぁぁっ！！！！！"
+msgstr ""
+"嘎啊啊啊啊啊啊！！？！？嘻嘻、嘻啊哈啊啊啊啊！\n"
+"！！！！"
+
+#. ID 7, Page 1, Line 83, Pos (10,28)
+msgid ""
+"\n"
+"   音がした。　ぼこぉっ、て……"
+msgstr "   有声音。　噗咚一声……"
+
+#. ID 7, Page 1, Line 94, Pos (10,28)
+msgid ""
+"うあああっ、うあっ、ひあああっ！！！！\\!\n"
+"ひぐっ、あああああはああああがぁぁぁぁっ！！！\\!\n"
+"うえっ、んぶうあああぁぁっ！？！？！？！"
+msgstr ""
+"呜啊啊啊、呜啊、嘻啊啊啊！！！！\\!呜咕、\n"
+"啊啊啊啊啊哈啊啊啊啊啊嘎啊啊啊啊！！！\\!呜诶、\n"
+"嗯噗呜啊啊啊啊啊啊！？！？！？！"
+
+#. ID 7, Page 1, Line 110, Pos (10,28)
+msgid ""
+"ああああああああああああああああっっっっ！！！！\\!\n"
+"でてえるぅぅぅぅっうっっっっっ！！！！！"
+msgstr ""
+"啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！\n"
+"\\!出来了啊啊啊啊呜呜呜呜呜呜！！！！！"
+
+#. ID 7, Page 1, Line 116, Pos (10,28)
+msgid ""
+"\n"
+"　止まらない。　萎えない。　横の女は笑顔。\\!\n"
+"　終わらない。　精子が。　子宮いっぱいに…………"
+msgstr ""
+"　停不下来。　不萎缩。　旁边的女人在笑。\n"
+"　\\!　结束不了。　精子。　充满子宫…………"
+
+#. ID 7, Page 1, Line 127, Pos (10,28)
+msgid ""
+"あひゃっやあぁあはああああっっっっ！！！！\\!\n"
+"ひんっ、あっ、あああっ、んはあっっ！！？！！"
+msgstr ""
+"啊嘻、呀啊啊啊哈啊啊啊啊啊！！！！\\!嘻嗯、啊、\n"
+"啊啊、嗯哈啊！！？！！！"
+
+#. ID 7, Page 1, Line 138, Pos (10,28)
+msgid ""
+"まっ、また……、あああああぁぁっ……\\!\n"
+"あはあああんっ！　あんっ！　んああぁっ！？！"
+msgstr ""
+"又、又……、啊啊啊啊啊啊……\\!啊哈啊啊啊嗯！　嗯！\n"
+"　嗯啊啊啊！？！"
+
+#. ID 7, Page 1, Line 148, Pos (10,28)
+msgid ""
+"へ、へああへっ。\\!\n"
+"ふひひへっ。\\!\n"
+"あ、はあっ！　……うふっ…………"
+msgstr ""
+"嘿、嘿啊啊嘿。\\!呼嘻嘻嘿。\\!啊、哈啊！　……\n"
+"呜呼…………"
+
+#. ID 7, Page 1, Line 181, Pos (10,28)
+msgid ""
+"……？\\!\n"
+"昨日は何だか、凄いことがあったような……？\\!\n"
+"……ダメだ、思い出せない……"
+msgstr ""
+"……？\\!昨天总觉得，好像发生了不得了的事……？\\!……\n"
+"不行，想不起来……"
+
+#. ID 38, Page 1, Line 3, Pos (9,5)
+msgid ""
+"この小屋の担当はアナタです\n"
+"しっかりとこなして下さい"
+msgstr "这个小屋的负责人是你，请好好完成"
+
+#. ID 38, Page 1, Line 5, Pos (9,5)
+msgid ""
+"此処の家畜は性欲旺盛です\n"
+"きちんと処理してあげましょう\\!\n"
+"\n"
+"どうしても無理なら手と口で"
+msgstr ""
+"这里的家畜性欲旺盛，\n"
+"请好好处理一下吧\\!实在不行就用嘴和手"
+
+#. ID 38, Page 1, Line 14, Pos (9,5)
+#. Choice (3 options)
+msgid ""
+"お○んこで処理\n"
+"挿入なしで処理\n"
+"ワンちゃんと馬のサンドイッチ"
+msgstr ""
+"用小○穴处理\n"
+"不插入处理\n"
+"小狗和马的三明治"
+
+#. ID 38, Page 1, Line 39, Pos (9,5)
+#. Choice (2 options)
+msgid ""
+"お○んこで処理\n"
+"挿入なしで処理"
+msgstr ""
+"用小○穴处理\n"
+"不插入处理"

@@ -1,0 +1,311 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 3, Pos (9,42)
+msgid "迷える子羊よ、わが教会に何の御用かな？"
+msgstr "迷途的羔羊啊，来我的教会有何贵干？"
+
+#. ID 4, Page 1, Line 4, Pos (9,42)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"…と言っても、私は修行が足りないので\n"
+"状態異常の治療しかできませんが。治療しますか？"
+msgstr ""
+"…话虽如此，我修行不足，只能治疗状态异常。\n"
+"要治疗吗？"
+
+#. ID 4, Page 1, Line 6, Pos (9,42)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 3, Line 4, Pos (9,42)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 13, Pos (10,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 4, Page 1, Line 28, Pos (9,42)
+#. Contains choice at line 2 (2 options)
+msgid "されば、当教会に\\V[3]Gのご寄付を…"
+msgstr "那么，请向本教会捐赠\\V[3]G…"
+
+#. ID 4, Page 1, Line 29, Pos (9,42)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\\$\n"
+"いいえ"
+msgstr ""
+"是\\$\n"
+"否"
+
+#. ID 4, Page 1, Line 33, Pos (9,42)
+#. ID 4, Page 1, Line 42, Pos (9,42)
+msgid "このはいきょうしゃめ！　でていけ！"
+msgstr "你这个背教者！　滚出去！"
+
+#. ID 4, Page 1, Line 46, Pos (9,42)
+msgid "では治療の呪文を…"
+msgstr "那么，治疗咒文…"
+
+#. ID 4, Page 1, Line 51, Pos (9,42)
+msgid ""
+"「ささやき　えいしょう\n"
+"　　いのり　ねんじろ！」"
+msgstr ""
+"「低语　咏唱\n"
+"　　祈祷　念诵！」"
+
+#. ID 4, Page 1, Line 57, Pos (9,42)
+msgid ""
+"…あ、間違えた。\n"
+"これは憎い奴の死体を灰にする呪文だった。\n"
+"では気を取り直して…"
+msgstr ""
+"…啊，搞错了。\n"
+"这是把可恨家伙的尸体化为灰烬的咒文。\n"
+"那么重新振作…"
+
+#. ID 4, Page 1, Line 62, Pos (9,42)
+msgid "「ひかりあれ」！"
+msgstr "「光啊」！"
+
+#. ID 4, Page 1, Line 88, Pos (9,42)
+msgid ""
+"ではお気をつけて。\n"
+"神のご加護があらんことを。"
+msgstr "那么请小心。愿神的加护与你同在。"
+
+#. ID 4, Page 2, Line 8, Pos (9,42)
+msgid ""
+"…………。\n"
+"魔法使いとしての素質があるようですね。"
+msgstr "…………。看来你有作为魔法师的素质呢。"
+
+#. ID 4, Page 2, Line 10, Pos (9,42)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"もしよければ、あなたの服装を、\n"
+"より魔法使いらしい物に、変えることが出来ますよ？"
+msgstr ""
+"如果可以的话，我能把你的服装，\n"
+"换成更像魔法师的东西哦？"
+
+#. ID 4, Page 2, Line 12, Pos (9,42)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"変えてください。\n"
+"このままで良い。"
+msgstr ""
+"请帮我换。\n"
+"这样就好。"
+
+#. ID 4, Page 2, Line 14, Pos (9,42)
+msgid "では、しばらくお待ちを……。"
+msgstr "那么，请稍等……。"
+
+#. ID 4, Page 2, Line 22, Pos (9,42)
+msgid ""
+"出来ました。\n"
+"気に入ってもらえると嬉しいのですが…。"
+msgstr "完成了。如果你能喜欢我会很高兴的…。"
+
+#. ID 4, Page 2, Line 32, Pos (9,42)
+msgid ""
+"…………。\n"
+"もうちょっと魔力が高ければ、良いのですが…。"
+msgstr "…………。要是魔力再高一点就好了…。"
+
+#. ID 4, Page 3, Line 3, Pos (9,42)
+#. Contains choice at line 2 (2 options)
+msgid "服を元に戻しますか？"
+msgstr "要把服装恢复原样吗？"
+
+#. ID 4, Page 4, Line 3, Pos (9,42)
+msgid "Zzz..."
+msgstr "Zzz..."
+
+#. ID 6, Page 1, Line 3, Pos (1,39)
+msgid ""
+"＊神父様の私室のようだ。\n"
+"　鍵がかかっている。"
+msgstr "＊好像是神父大人的私人房间。　锁着。"
+
+#. ID 7, Page 1, Line 3, Pos (18,39)
+msgid ""
+"＊シスターの私室のようだ。\n"
+"　鍵がかかっている。"
+msgstr "＊好像是修女的私人房间。　锁着。"
+
+#. ID 9, Page 1, Line 4, Pos (9,44)
+msgid ""
+"こんな夜更けに……\n"
+"ようこそ我らが主の教会へ"
+msgstr "这么深的夜里……欢迎来到我们主之教会"
+
+#. ID 10, Page 1, Line 3, Pos (7,21)
+msgid ""
+"へへっ……やっぱこれだぜこれ。\n"
+"この便器が一番イイぜ。"
+msgstr "嘿嘿……果然还是这个啊。这个便器最棒了。"
+
+#. ID 10, Page 1, Line 5, Pos (7,21)
+msgid ""
+"ヒヒッ、ゾンビの精子で孕むかどうか、\n"
+"これから何度も犯してやるぜ！"
+msgstr ""
+"嘻嘻，能不能用僵尸的精子怀孕，\n"
+"接下来我要干你好几次！"
+
+#. ID 11, Page 1, Line 4, Pos (7,22)
+msgid ""
+"あへっ、んへぇっ、\n"
+"んあぁあっ、あっ、んぉぁ……っ\\c[11]$k"
+msgstr "啊嘿、嗯嘿、嗯啊啊、啊、嗯哦啊……\\c[11]$k"
+
+#. ID 11, Page 1, Line 11, Pos (7,22)
+msgid ""
+"お願いぃ……もっと、強く突いてぇ……\\c[11]$k\\c[0]\n"
+"妊娠、させてぇぇぇ\\c[11]$k$k"
+msgstr ""
+"求求了……再、用力顶我……\n"
+"\\c[11]$k\\c[0]让我怀孕吧\\c[11]$k$k"
+
+#. ID 12, Page 1, Line 3, Pos (10,5)
+msgid "……いらっしゃい"
+msgstr "……欢迎光临"
+
+#. ID 12, Page 1, Line 4, Pos (10,5)
+msgid ""
+"ここでは魔法やアイテムじゃあ治せない……\n"
+"……精神の治療をしている"
+msgstr "这里进行的是魔法和道具都无法治愈的…………精神治疗"
+
+#. ID 12, Page 1, Line 6, Pos (10,5)
+msgid ""
+"人間の精神は砂浜の文字のようなもの……\n"
+"想像以上に脆く、\n"
+"簡単に描きかえられてしまう"
+msgstr ""
+"人的精神就像沙滩上的文字……比想象中更脆弱，\n"
+"轻易就会被改写"
+
+#. ID 12, Page 1, Line 9, Pos (10,5)
+msgid ""
+"有用に利用すれば……\n"
+"人には言えないような性癖を\n"
+"消すことも可能だ"
+msgstr ""
+"如果有效利用的话……\n"
+"也能消除那种无法对人言说的性癖"
+
+#. ID 12, Page 1, Line 12, Pos (10,5)
+#. Contains choice at line 2 (2 options)
+msgid "治療するのか？"
+msgstr "要治疗吗？"
+
+#. ID 12, Page 1, Line 15, Pos (10,5)
+msgid ""
+"治療の方法は2つだ……\n"
+"1つは有料で、特定の性癖を消しさる。"
+msgstr "治疗方法有两种……一种是有偿的，消除特定的性癖。"
+
+#. ID 12, Page 1, Line 17, Pos (10,5)
+msgid ""
+"もう1つは無料だが……新しい催眠術を使っているので\n"
+"効果がまちまちなうえ、余計な性癖がつくことがある。"
+msgstr ""
+"另一种是免费的……因为使用的是新催眠术，\n"
+"效果参差不齐，而且可能会附加上多余的性癖。"
+
+#. ID 12, Page 1, Line 19, Pos (10,5)
+#. Contains choice at line 2 (2 options)
+msgid "どっちの催眠術にするんだ？"
+msgstr "你要选哪种催眠术？"
+
+#. ID 12, Page 1, Line 20, Pos (10,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"有料で特定の性癖を　(50,000G)\n"
+"無料でおまかせ"
+msgstr ""
+"有偿消除特定性癖　(50,000G)\n"
+"免费交给你"
+
+#. ID 12, Page 1, Line 25, Pos (10,5)
+msgid ""
+"……たしかに、50,000Gいただいた。\n"
+"もうキャンセルは効かないからな。"
+msgstr "……确实，我收下了50,000G。已经不能取消了哦。"
+
+#. ID 12, Page 1, Line 29, Pos (10,5)
+msgid "金が足りない。"
+msgstr "钱不够。"
+
+#. ID 12, Page 1, Line 34, Pos (10,5)
+msgid "どんな性癖を消したいんだ？"
+msgstr "你想消除什么样的性癖？"
+
+#. ID 12, Page 1, Line 35, Pos (10,5)
+#. Choice (4 options)
+msgid ""
+"お漏らしをしてしまう\n"
+"衣服を身に着けられない\n"
+"夜中自慰が止まらない\n"
+"次へ>>"
+msgstr ""
+"会尿失禁\n"
+"无法穿衣服\n"
+"半夜自慰停不下来\n"
+"下一页>>"
+
+#. ID 12, Page 1, Line 118, Pos (10,5)
+#. Choice (3 options)
+msgid ""
+"突然イってしまう\n"
+"嫌なのに虐められてしまう\n"
+"<<戻る"
+msgstr ""
+"会突然高潮\n"
+"明明讨厌却会被欺负\n"
+"<<返回"
+
+#. ID 12, Page 1, Line 183, Pos (10,5)
+msgid ""
+"……喜べ、\n"
+"お前の心の中の性癖は消えたぞ。"
+msgstr "……高兴吧，你心中的性癖已经消失了。"
+
+#. ID 12, Page 1, Line 185, Pos (10,5)
+msgid ""
+"だが、どうせすぐに……\n"
+"\n"
+"いや、なんでもない。"
+msgstr "不过，反正很快就会……不，没什么。"
+
+#. ID 12, Page 1, Line 190, Pos (10,5)
+msgid ""
+"ではゆっくり目を閉じろ。\n"
+"リラックスするんだ……リラックス……"
+msgstr "那么慢慢闭上眼睛。放松……放松……"
+
+#. ID 13, Page 1, Line 98, Pos (0,1)
+msgid "……気分はどうだ？"
+msgstr "……感觉怎么样？"
+
+#. ID 13, Page 1, Line 99, Pos (0,1)
+msgid "何かあったらまた来るんだな……"
+msgstr "如果有什么事就再来吧……"

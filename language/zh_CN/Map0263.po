@@ -1,0 +1,186 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 28, Page 1, Line 3, Pos (23,2)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:無し"
+msgstr "end:无"
+
+#. ID 41, Page 2, Line 3, Pos (15,20)
+msgid ""
+"「遠いところをようこそお越しくださいました。\n"
+"　あいにくと主は不在ですが……\n"
+"　心より歓迎いたしますわ。」"
+msgstr ""
+"「远道而来，欢迎光临。　很不巧主人不在……\n"
+"　但我衷心欢迎您。」"
+
+#. ID 41, Page 2, Line 6, Pos (15,20)
+msgid ""
+"「私はこの屋敷の留守を預かる者。\n"
+"　ウネと申します。」"
+msgstr "「我是负责看守这座宅邸的人。　名叫乌涅。」"
+
+#. ID 41, Page 2, Line 12, Pos (15,20)
+msgid ""
+"「……それにしても……\n"
+"\n"
+"　貴女はすばらしい力をお持ちのようですね…」"
+msgstr "「……话说回来……　您好像拥有非常出色的力量呢……」"
+
+#. ID 41, Page 2, Line 19, Pos (15,20)
+msgid "「それに……とても綺麗……」"
+msgstr "「而且……非常漂亮……」"
+
+#. ID 41, Page 2, Line 25, Pos (15,20)
+msgid ""
+"「……ふふふ。\n"
+"　既にあなたが私の手の中なのに\n"
+"　気付いているかしら？」"
+msgstr ""
+"「……呵呵呵。　明明你已经在我的手中了，\n"
+"　你察觉到了吗？」"
+
+#. ID 41, Page 2, Line 32, Pos (15,20)
+msgid ""
+"「この屋敷のペットにちょうどいいわね。\n"
+"　光栄に思いなさい！」"
+msgstr "「正好适合当这座宅邸的宠物呢。　感到光荣吧！」"
+
+#. ID 41, Page 2, Line 122, Pos (15,20)
+msgid "…………………………………………"
+msgstr "…………………………………………"
+
+#. ID 41, Page 2, Line 123, Pos (15,20)
+msgid "\\n[\\v[6]]は猫になってしまった……"
+msgstr "\\n[\\v[6]]变成了猫……"
+
+#. ID 41, Page 2, Line 149, Pos (15,20)
+msgid "「さあ、いい声でさえずってみせて！」"
+msgstr "「来吧，用美妙的声音鸣叫给我听！」"
+
+#. ID 41, Page 2, Line 151, Pos (15,20)
+#. ChangeHeroName (Actor 115)
+#. ID 41, Page 4, Line 40, Pos (15,20)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:邸宅"
+msgstr "end:宅邸"
+
+#. ID 41, Page 3, Line 5, Pos (15,20)
+#. Contains choice at line 2 (2 options)
+#. ID 41, Page 4, Line 5, Pos (15,20)
+msgid "「なぁに、遊んでほしいの？」"
+msgstr "「什么呀，想让人陪你玩吗？」"
+
+#. ID 41, Page 3, Line 6, Pos (15,20)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 4, Line 8, Pos (15,20)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 4, Line 72, Pos (15,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 41, Page 3, Line 8, Pos (15,20)
+msgid "「じゃあ、こんなのはどう？」"
+msgstr "「那么，这样如何？」"
+
+#. ID 41, Page 3, Line 74, Pos (15,20)
+msgid "「ふふ、お似合いよ。」"
+msgstr "「呵呵，很适合你哦。」"
+
+#. ID 41, Page 3, Line 77, Pos (15,20)
+#. ID 41, Page 4, Line 145, Pos (15,20)
+msgid ""
+"「ふぅん。\n"
+"　残念……。」"
+msgstr "「嗯哼。　真遗憾……。」"
+
+#. ID 41, Page 4, Line 4, Pos (15,20)
+msgid "……。"
+msgstr "……。"
+
+#. ID 41, Page 4, Line 6, Pos (15,20)
+msgid "……、ここで彼女に一撃加えられれば……！"
+msgstr "……、如果在这里能给她一击的话……！"
+
+#. ID 41, Page 4, Line 7, Pos (15,20)
+#. Contains choice at line 2 (2 options)
+msgid "不意打ちを行いますか？"
+msgstr "要发动偷袭吗？"
+
+#. ID 41, Page 4, Line 11, Pos (15,20)
+msgid ""
+"\\n[\\v[6]]の渾身の一撃は、\n"
+"完全に油断をしていたウネの身体を捉えたっ！"
+msgstr ""
+"\\n[\\v[6]]的全力一击，\n"
+"击中了完全放松警惕的乌涅的身体！"
+
+#. ID 41, Page 4, Line 23, Pos (15,20)
+msgid "「くっ、よくもやってくれたわねっ！」"
+msgstr "「唔，你竟敢对我做这种事！」"
+
+#. ID 41, Page 4, Line 24, Pos (15,20)
+msgid "「許さないわ、覚悟しなさいっ！」"
+msgstr "「我绝不原谅你，做好觉悟吧！」"
+
+#. ID 41, Page 4, Line 52, Pos (15,20)
+msgid ""
+"一撃を加えようと力を溜める\\n[\\v[6]]だったが、\n"
+"突然その場にヘナヘナと崩れ落ちてしまった……。"
+msgstr ""
+"正蓄力准备发动一击的\\n[\\v[6]]，\n"
+"却突然当场瘫软倒了下去……。"
+
+#. ID 41, Page 4, Line 54, Pos (15,20)
+msgid ""
+"「ふふふふふ、誰の入れ知恵かしら？\n"
+"　その姿になっても抵抗を試みるなんて、\n"
+"　無駄でしたわね。」"
+msgstr ""
+"「呵呵呵呵呵，是谁给你出的主意呢？\n"
+"　即使变成那副样子还想试图抵抗，　真是徒劳呢。\n"
+"　」"
+
+#. ID 41, Page 4, Line 57, Pos (15,20)
+msgid ""
+"「さぁて、おイタをしたペットは\n"
+"　躾なきゃいけないわね……。」"
+msgstr "「那么，做了坏事的宠物　可得好好调教才行呢……。」"
+
+#. ID 41, Page 4, Line 70, Pos (15,20)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"「どうしたの？\n"
+"　遊んでほしいんじゃないのかしら？」"
+msgstr "「怎么了？　不是想让我陪你玩吗？」"
+
+#. ID 41, Page 4, Line 74, Pos (15,20)
+msgid "じゃあ、こんなのはどう？"
+msgstr "那么，这样如何？"
+
+#. ID 41, Page 4, Line 141, Pos (15,20)
+msgid "ふふ、お似合いよ。"
+msgstr "呵呵，很适合你哦。"
+
+#. ID 63, Page 2, Line 3, Pos (15,33)
+msgid "プライムブルーを手に入れた。"
+msgstr "获得了原初蓝。"

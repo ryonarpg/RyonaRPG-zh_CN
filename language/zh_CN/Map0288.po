@@ -1,0 +1,37 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 4, Line 11, Pos (9,5)
+msgid ""
+"おお、やっと戻ってきたか。\n"
+"まったく、ガラクタだなこのサンプルは。"
+msgstr "哦哦，终于回来了吗。真是的，这个样本是破烂啊。"
+
+#. ID 2, Page 4, Line 13, Pos (9,5)
+msgid ""
+"さっそくデータを取ろう。\n"
+"再改造と脳の調整も忘れるな。"
+msgstr "赶紧采集数据吧。别忘了再改造和大脑调整。"
+
+#. ID 2, Page 4, Line 15, Pos (9,5)
+msgid "………………………………"
+msgstr "………………………………"
+
+#. ID 2, Page 5, Line 3, Pos (9,5)
+msgid "＊鍵が掛かっている。"
+msgstr "＊锁着。"
+
+#. ID 4, Page 1, Line 3, Pos (10,5)
+msgid "[生命科学研究所]"
+msgstr "[生命科学研究所]"

@@ -1,0 +1,175 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (12,12)
+#. Contains choice at line 2 (2 options)
+msgid "＊ボス部屋の前まで移動しますか？"
+msgstr "＊要移动到首领房间前吗？"
+
+#. ID 2, Page 1, Line 4, Pos (12,12)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 2, Line 17, Pos (11,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 3, Page 2, Line 3, Pos (8,8)
+msgid ""
+"\\S[2]再起動……エラー、機体損傷大……\n"
+"機体の損傷を修理してください……\n"
+"再起……エラー……"
+msgstr ""
+"\\S[2]重启……错误，机体损伤严重……请修理机体损伤…\n"
+"…重启……错误……"
+
+#. ID 3, Page 2, Line 6, Pos (8,8)
+msgid ""
+"＊グラドスのようだが……\n"
+"　身体中から火花を散らしている"
+msgstr "＊看起来像格拉多斯……　全身都在冒火花"
+
+#. ID 4, Page 2, Line 4, Pos (11,6)
+msgid "\\S[2][GRaDOS－AIコントロールパネル]"
+msgstr "\\S[2][GRaDOS－AI控制面板]"
+
+#. ID 4, Page 2, Line 6, Pos (11,6)
+msgid ""
+"\\S[2]司令官型自動人形GRaDOS（グラドス）の\n"
+"AIの調整を行います。"
+msgstr ""
+"\\S[2]将对司令官型自动人形GRaDOS（格拉多斯）\n"
+"的AI进行调整。"
+
+#. ID 4, Page 2, Line 9, Pos (11,6)
+msgid ""
+"\\S[2]GRaDOSは人間のベースをほぼそのまま利用\n"
+"老化原因を除去、脳の不要部分を重機械化\n"
+"人の思考と肉体を持つ自動人形です...."
+msgstr ""
+"\\S[2]GRaDOS几乎原样利用人类基础，\n"
+"去除老化原因，\n"
+"将大脑不必要部分替换为重机械化人的思考与肉体的\n"
+"自动人形...."
+
+#. ID 4, Page 2, Line 13, Pos (11,6)
+msgid ""
+"\\S[2]現在司令官モードで起動中.....\n"
+"敵対者へのセキュリティを強化しています..."
+msgstr ""
+"\\S[2]当前以司令官模式启动中.....正在强化对敌对\n"
+"者的安全防护..."
+
+#. ID 4, Page 2, Line 15, Pos (11,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\S[2]遠隔操作により設定の変更が可能です。\n"
+"設定を変更しますか？"
+msgstr "\\S[2]可通过远程操作更改设置。要更改设置吗？"
+
+#. ID 4, Page 2, Line 20, Pos (11,6)
+msgid "[項目を表示します]"
+msgstr "[显示项目]"
+
+#. ID 4, Page 2, Line 22, Pos (11,6)
+#. Choice (4 options)
+msgid ""
+"モードの切替\n"
+"デバイスの追加・削除\n"
+"モジュールの調整\n"
+"状態を確認"
+msgstr ""
+"模式切换\n"
+"设备的添加・删除\n"
+"模块的调整\n"
+"确认状态"
+
+#. ID 4, Page 2, Line 25, Pos (11,6)
+#. Choice (4 options)
+msgid ""
+"司令官モード\n"
+"侍　女モード\n"
+"慰安婦モード（愛玩）\n"
+"肉便器モード（性欲処理）"
+msgstr ""
+"司令官模式\n"
+"女仆模式\n"
+"慰安妇模式（爱玩）\n"
+"肉便器模式（性欲处理）"
+
+#. ID 4, Page 2, Line 37, Pos (11,6)
+#. Choice (1 options)
+msgid "男性器の追加・削除"
+msgstr "男性器的添加・删除"
+
+#. ID 4, Page 2, Line 39, Pos (11,6)
+msgid ""
+"\\S[2]男性器機能を起動します......\n"
+"\n"
+"陰核への接続を確認....."
+msgstr "\\S[2]启动男性器功能......确认与阴核的连接....."
+
+#. ID 4, Page 2, Line 46, Pos (11,6)
+#. Choice (4 options)
+msgid ""
+"母乳分泌の追加・削除\n"
+"露出行為の追加・削除\n"
+"巨大乳房の追加・削除\n"
+"失禁行為の追加・削除"
+msgstr ""
+"母乳分泌的添加・删除\n"
+"露出行为的添加・删除\n"
+"巨大乳房的添加・删除\n"
+"失禁行为的添加・删除"
+
+#. ID 4, Page 2, Line 48, Pos (11,6)
+msgid ""
+"\\S[2]母乳を分泌させるようにします......\n"
+"\n"
+"乳腺への接続を確認....."
+msgstr "\\S[2]使其分泌母乳......确认与乳腺的连接....."
+
+#. ID 4, Page 2, Line 53, Pos (11,6)
+msgid ""
+"\\S[2]衣服の認識を削除します......\n"
+"\n"
+"常識回路への接続を確認....."
+msgstr ""
+"\\S[2]删除对衣服的认知......确认与常识回路的连\n"
+"接....."
+
+#. ID 4, Page 2, Line 58, Pos (11,6)
+msgid ""
+"\\S[2]乳房を肥大化させます......\n"
+"\n"
+"乳腺への接続を確認....."
+msgstr "\\S[2]使乳房肥大化......确认与乳腺的连接....."
+
+#. ID 4, Page 2, Line 63, Pos (11,6)
+msgid ""
+"\\S[2]トイレの認識を削除します......\n"
+"\n"
+"常識回路への接続を確認....."
+msgstr ""
+"\\S[2]删除对厕所的认知......确认与常识回路的连\n"
+"接....."
+
+#. ID 4, Page 2, Line 73, Pos (11,6)
+msgid ""
+"ERROR!!\n"
+"管理者から実行してください...."
+msgstr "ERROR!!请以管理员身份执行...."

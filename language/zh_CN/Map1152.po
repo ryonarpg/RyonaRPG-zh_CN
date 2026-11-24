@@ -1,0 +1,88 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 6, Page 1, Line 3, Pos (63,36)
+msgid "\\>ぬぐうおおおおおおぉぉぉぉォォォ………"
+msgstr "\\>唔咕哦哦哦哦哦哦哦哦哦哦………"
+
+#. ID 6, Page 1, Line 4, Pos (63,36)
+msgid ""
+"\n"
+"どうやら強大な敵と格闘中のようだ"
+msgstr "看来正在与强大的敌人搏斗中。"
+
+#. ID 7, Page 1, Line 10, Pos (69,33)
+#. ID 8, Page 1, Line 10, Pos (68,33)
+msgid "うぉ、ビックマグナム…"
+msgstr "哇哦，大马格南…"
+
+#. ID 7, Page 1, Line 21, Pos (69,33)
+#. ID 8, Page 1, Line 21, Pos (68,33)
+#. ID 9, Page 1, Line 45, Pos (70,33)
+#. ID 10, Page 1, Line 45, Pos (71,33)
+#. ID 17, Page 1, Line 45, Pos (72,33)
+#. ID 18, Page 1, Line 45, Pos (67,33)
+msgid ""
+"……使ってみようにも\n"
+"女の\\n[\\v[6]]にはどうしようもない"
+msgstr "……就算想试着用，女人的\\n[\\v[6]]也无可奈何"
+
+#. ID 9, Page 1, Line 11, Pos (70,33)
+#. ID 10, Page 1, Line 11, Pos (71,33)
+#. ID 17, Page 1, Line 11, Pos (72,33)
+#. ID 18, Page 1, Line 11, Pos (67,33)
+msgid ""
+"……こんな\"モノ\"が生えた\\n[\\v[6]]は\n"
+"ひどく惨めな気分になった"
+msgstr "……长出这种「东西」的\\n[\\v[6]]心情变得非常悲惨"
+
+#. ID 9, Page 1, Line 16, Pos (70,33)
+#. ID 10, Page 1, Line 16, Pos (71,33)
+#. ID 17, Page 1, Line 16, Pos (72,33)
+#. ID 18, Page 1, Line 16, Pos (67,33)
+msgid "……トイレの時は便利になったと思う"
+msgstr "……我觉得上厕所的时候变得方便了"
+
+#. ID 9, Page 1, Line 20, Pos (70,33)
+#. ID 10, Page 1, Line 20, Pos (71,33)
+#. ID 17, Page 1, Line 20, Pos (72,33)
+#. ID 18, Page 1, Line 20, Pos (67,33)
+msgid "……そこそこ\"ご立派\"なのが如何ともし難い"
+msgstr "……那还算「雄伟」这点真让人无可奈何"
+
+#. ID 9, Page 1, Line 24, Pos (70,33)
+#. ID 10, Page 1, Line 24, Pos (71,33)
+#. ID 17, Page 1, Line 24, Pos (72,33)
+#. ID 18, Page 1, Line 24, Pos (67,33)
+msgid "……このままでもいいか、と思った自分が恨めしい"
+msgstr "……我恨自己竟然觉得保持这样也无所谓"
+
+#. ID 9, Page 1, Line 28, Pos (70,33)
+#. ID 10, Page 1, Line 28, Pos (71,33)
+#. ID 17, Page 1, Line 28, Pos (72,33)
+#. ID 18, Page 1, Line 28, Pos (67,33)
+msgid "……ほんの少し、ムスコに愛着が沸いてきた"
+msgstr "……对小弟弟稍微产生了一点爱意"
+
+#. ID 9, Page 1, Line 32, Pos (70,33)
+#. ID 10, Page 1, Line 32, Pos (71,33)
+#. ID 17, Page 1, Line 32, Pos (72,33)
+#. ID 18, Page 1, Line 32, Pos (67,33)
+msgid "……うむ、今日も元気だ！"
+msgstr "……嗯，今天也很有精神！"
+
+#. ID 28, Page 1, Line 3, Pos (67,34)
+#. ID 29, Page 1, Line 3, Pos (63,34)
+msgid "おいおい、こっちは男子側だぜ"
+msgstr "喂喂，这边是男厕那边哦"

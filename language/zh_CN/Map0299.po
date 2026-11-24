@@ -1,0 +1,454 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (1,8)
+msgid ""
+"奴隷は、仕事も斡旋してもらえず、\n"
+"酒場に入ったら即リョナられるのが常でしたが……"
+msgstr ""
+"奴隶不仅没人帮忙介绍工作，\n"
+"一进酒馆就立刻被猎奇凌辱，这已是常态……"
+
+#. ID 3, Page 1, Line 5, Pos (1,8)
+msgid ""
+"この街では仕事も斡旋してもらえるし、\n"
+"リョナられることもありません。素晴らしいことです。"
+msgstr ""
+"在这座城市，会有人帮忙介绍工作，\n"
+"也不会被猎奇凌辱。真是太好了。"
+
+#. ID 4, Page 1, Line 8, Pos (4,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"いらっしゃい。\n"
+"ゆっくりしていってくれ。"
+msgstr "欢迎。慢慢坐坐吧。"
+
+#. ID 4, Page 1, Line 10, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"仕事の斡旋\n"
+"いいえ"
+msgstr ""
+"工作介绍\n"
+"不"
+
+#. ID 4, Page 1, Line 12, Pos (4,6)
+#. ID 4, Page 2, Line 8, Pos (4,6)
+msgid ""
+"……そうだな、\n"
+"今入ってきてるのは……"
+msgstr "……是啊，现在接到的是……"
+
+#. ID 4, Page 1, Line 17, Pos (4,6)
+#. ID 4, Page 2, Line 12, Pos (4,6)
+msgid ""
+"\\N[101]駆除\n"
+"ノルマ：\\V[528]匹\n"
+"目的地：\\N[103]"
+msgstr "\\N[101]驱除指标：\\V[528]只目的地：\\N[103]"
+
+#. ID 4, Page 1, Line 26, Pos (4,6)
+#. ID 4, Page 2, Line 21, Pos (4,6)
+msgid ""
+"\\N[101]調達\n"
+"ノルマ：\\V[528]個"
+msgstr "\\N[101]筹集指标：\\V[528]个"
+
+#. ID 4, Page 1, Line 35, Pos (4,6)
+#. ID 4, Page 2, Line 30, Pos (4,6)
+msgid ""
+"\\N[101]回収\n"
+"ノルマ：\\V[528]個\n"
+"目的地：\\N[103]"
+msgstr "\\N[101]回收指标：\\V[528]个目的地：\\N[103]"
+
+#. ID 4, Page 1, Line 40, Pos (4,6)
+#. ID 4, Page 2, Line 35, Pos (4,6)
+msgid ""
+"\\N[101]採取\n"
+"ノルマ：\\V[528]個\n"
+"目的地：\\N[103]"
+msgstr "\\N[101]采集指标：\\V[528]个目的地：\\N[103]"
+
+#. ID 4, Page 1, Line 52, Pos (4,6)
+#. ID 4, Page 2, Line 47, Pos (4,6)
+msgid ""
+"難易度：\\N[101]\n"
+"報酬　：\\V[523]G\n"
+"期限　：\\V[525]日"
+msgstr "难度：\\N[101]报酬　：\\V[523]G期限　：\\V[525]日"
+
+#. ID 4, Page 1, Line 55, Pos (4,6)
+#. ID 4, Page 2, Line 50, Pos (4,6)
+msgid ""
+"違約金　　　：\\V[1]G\n"
+"キャンセル料：\\V[2]G"
+msgstr "违约金　　　：\\V[1]G取消费：\\V[2]G"
+
+#. ID 4, Page 1, Line 57, Pos (4,6)
+#. Choice (3 options)
+msgid ""
+"依頼を受ける\n"
+"いいえ\n"
+"他の依頼"
+msgstr ""
+"接受委托\n"
+"不\n"
+"其他委托"
+
+#. ID 4, Page 1, Line 59, Pos (4,6)
+msgid ""
+"わかった。後で依頼主に連絡しておこう…\n"
+"期限をオーバーしないように気をつけろよ。"
+msgstr ""
+"明白了。我之后再联系委托人…\n"
+"注意不要超过期限啊。"
+
+#. ID 4, Page 1, Line 67, Pos (4,6)
+msgid "もう他には何もないな。"
+msgstr "其他就没有什么了。"
+
+#. ID 4, Page 1, Line 72, Pos (4,6)
+msgid "そうだな…他には…"
+msgstr "是啊…其他的…"
+
+#. ID 4, Page 1, Line 79, Pos (4,6)
+msgid "他にはもう何もないな。"
+msgstr "其他的已经没有了。"
+
+#. ID 4, Page 1, Line 92, Pos (4,6)
+msgid ""
+"そうか……じゃあ、ビールでも飲むかね？\n"
+"\\.……おっと。ハハハ、まだ未成年だったな。"
+msgstr ""
+"是吗……那么，要不要喝点啤酒？\\.……哎呀。哈哈哈，\n"
+"你还是未成年啊。"
+
+#. ID 4, Page 1, Line 96, Pos (4,6)
+msgid ""
+"じゃあ、代わりにおじさんが\n"
+"特製メニューをご馳走してあげよう！\n"
+"\\.とても珍しい動物のステーキだ！"
+msgstr ""
+"那么，作为替代，大叔来请你吃特制菜吧！\n"
+"\\.是非常稀有的动物牛排！"
+
+#. ID 4, Page 1, Line 99, Pos (4,6)
+msgid ""
+"何の肉だと思うね？\n"
+"ふふふ…"
+msgstr "你觉得是什么肉？呵呵呵…"
+
+#. ID 4, Page 1, Line 101, Pos (4,6)
+msgid ""
+"\n"
+"\\S[5]そう　あんたの　にくだよ！"
+msgstr "\\S[5]没错　就是你的　肉哦！"
+
+#. ID 4, Page 1, Line 103, Pos (4,6)
+msgid "\\.………\\.ハ\\.　ハ\\.　ハ　\\.冗談だよ！"
+msgstr "\\.………\\.哈\\.　哈\\.　哈　\\.开玩笑的！"
+
+#. ID 4, Page 1, Line 106, Pos (4,6)
+msgid ""
+"じゃあ、代わりに\n"
+"カエルノションベンジュースを作ってあげよう。\n"
+"\\.………\\.ハ\\.　ハ\\.　ハ　\\.冗談だよ！"
+msgstr ""
+"那么，作为替代，我给你做青蛙尿果汁吧。\\.………\n"
+"\\.哈\\.　哈\\.　哈　\\.开玩笑的！"
+
+#. ID 4, Page 2, Line 3, Pos (4,6)
+msgid ""
+"いらっしゃい。\n"
+"で、どうだい？仕事の方は。"
+msgstr "欢迎。那么，工作方面怎么样？"
+
+#. ID 4, Page 2, Line 6, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"依頼の確認\n"
+"ぼちぼちやね\n"
+"依頼をキャンセルする\n"
+"依頼の品を渡す"
+msgstr ""
+"确认委托\n"
+"还算顺利呢\n"
+"取消委托\n"
+"交出委托物品"
+
+#. ID 4, Page 2, Line 56, Pos (4,6)
+msgid "キャンセル料は\\V[2]Gだ。\\$"
+msgstr "取消费是\\V[2]G。\\$"
+
+#. ID 4, Page 2, Line 57, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "本当に依頼をキャンセルするのかね？"
+msgstr "真的要取消委托吗？"
+
+#. ID 4, Page 2, Line 58, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"依頼をキャンセルする"
+msgstr ""
+"不\n"
+"取消委托"
+
+#. ID 4, Page 2, Line 68, Pos (4,6)
+msgid ""
+"金が足りないぞ！\n"
+"大人しく依頼を完遂するんだな。"
+msgstr "钱不够啊！乖乖把委托完成吧。"
+
+#. ID 4, Page 2, Line 76, Pos (4,6)
+msgid ""
+"あいよ。\n"
+"次はちゃんと自分の力量を考えて\n"
+"仕事を選ぶんだな。"
+msgstr "好嘞。下次要好好考虑自己的能力再选工作啊。"
+
+#. ID 4, Page 2, Line 86, Pos (4,6)
+msgid ""
+"首の数が足りんぞ！\n"
+"とっとともぎ取ってこい！"
+msgstr "头数不够啊！赶紧去把头砍下来带回来！"
+
+#. ID 4, Page 2, Line 92, Pos (4,6)
+msgid ""
+"よし、よくやった。\n"
+"さぁ、報酬を受け取りな。"
+msgstr "好，干得不错。来，收下报酬吧。"
+
+#. ID 4, Page 2, Line 94, Pos (4,6)
+#. ID 4, Page 4, Line 5, Pos (4,6)
+msgid "\\V[523]Gを受け取った。"
+msgstr "收到了\\V[523]G。"
+
+#. ID 4, Page 2, Line 100, Pos (4,6)
+msgid ""
+"数が足りんぞ！\n"
+"とっとと集めてこい。"
+msgstr "数量不够啊！赶紧去收集来。"
+
+#. ID 4, Page 3, Line 3, Pos (4,6)
+msgid "いらっしゃい。"
+msgstr "欢迎。"
+
+#. ID 4, Page 3, Line 6, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "違約金は\\V[1]Gだ。\\$"
+msgstr "违约金是\\V[1]G。\\$"
+
+#. ID 4, Page 3, Line 7, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"違約金を支払う\n"
+"いいえ"
+msgstr ""
+"支付违约金\n"
+"不"
+
+#. ID 4, Page 3, Line 10, Pos (4,6)
+msgid "金が足りないんだが…"
+msgstr "可是钱不够…。"
+
+#. ID 4, Page 3, Line 11, Pos (4,6)
+#. ID 4, Page 3, Line 27, Pos (4,6)
+msgid ""
+"違約金を支払い終えるまでは\n"
+"依頼の斡旋はできんよ。\n"
+"とっとと金を集めてきな。"
+msgstr ""
+"在付清违约金之前，我不能帮你介绍委托哦。\n"
+"赶紧去筹钱吧。"
+
+#. ID 4, Page 3, Line 19, Pos (4,6)
+msgid ""
+"………\n"
+"次からは気をつけるんだな。"
+msgstr "………下次要注意啊。"
+
+#. ID 4, Page 4, Line 3, Pos (4,6)
+msgid ""
+"依頼を達成したようだな！よくやった。\n"
+"さぁ、報酬を受け取りな。"
+msgstr "看来你完成委托了！干得不错。来，收下报酬吧。"
+
+#. ID 4, Page 5, Line 3, Pos (4,6)
+msgid ""
+"いらっしゃい。\n"
+"ゆっくりしていきな。"
+msgstr "欢迎。慢慢坐坐吧。"
+
+#. ID 4, Page 6, Line 3, Pos (4,6)
+msgid "ああ、この街に住むことにしたのかい。"
+msgstr "啊，你决定住在这座城市了吗？"
+
+#. ID 4, Page 6, Line 4, Pos (4,6)
+msgid ""
+"それじゃあ仕事の斡旋はできないな。\n"
+"まあ、ゆっくりすごすといい。"
+msgstr ""
+"那样的话就不能帮你介绍工作了。嘛，\n"
+"好好悠闲地过吧。"
+
+#. ID 5, Page 1, Line 3, Pos (7,11)
+msgid ""
+"ん？　私は奴隷ではないよ。\n"
+"単なる行商人だ。"
+msgstr "嗯？　我不是奴隶哦。只是个行商人。"
+
+#. ID 5, Page 1, Line 5, Pos (7,11)
+msgid ""
+"この街特産の名物を買い取りに来たんだ？\n"
+"……どんなモノかって？　それは秘密だ。"
+msgstr ""
+"你是来收购这座城市特产的名物的吗？……\n"
+"你问是什么东西？　那是秘密。"
+
+#. ID 5, Page 2, Line 3, Pos (7,11)
+msgid "ふうん、君は……"
+msgstr "嗯哼，你是……"
+
+#. ID 5, Page 2, Line 8, Pos (7,11)
+msgid ""
+"いや、なんでもないよ。\n"
+"ただ良いものを見つけたってだけさ。"
+msgstr "不，没什么。只是发现了不错的东西而已。"
+
+#. ID 6, Page 1, Line 3, Pos (14,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ミクだヨ～\n"
+"10Gくれたら歌を歌うヨ～"
+msgstr "我叫米库哦～给我10G就唱歌哦～"
+
+#. ID 6, Page 1, Line 5, Pos (14,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"金を渡す\n"
+"ドブに捨てるようなモンだ"
+msgstr ""
+"给钱\n"
+"就跟扔进臭水沟没两样"
+
+#. ID 6, Page 1, Line 8, Pos (14,5)
+msgid "10Gすらないだって！？"
+msgstr "你说连10G都没有！？"
+
+#. ID 8, Page 1, Line 3, Pos (5,11)
+msgid ""
+"やはりこの街は平和でいいな。\n"
+"兵士が多い分、逆に犯罪が少ないんだ。"
+msgstr "果然这座城市和平又不错啊。士兵多，犯罪反而少。"
+
+#. ID 8, Page 2, Line 3, Pos (5,11)
+msgid "おや、君は高く売れそうだ……"
+msgstr "哦呀，你看起来能卖个好价钱……"
+
+#. ID 8, Page 2, Line 4, Pos (5,11)
+msgid ""
+"……っと、失礼した。\n"
+"今のは忘れてくれ。"
+msgstr "……哎呀，失礼了。刚才的话忘了吧。"
+
+#. ID 9, Page 2, Line 4, Pos (18,9)
+#. ID 9, Page 2, Line 75, Pos (18,9)
+msgid "………。"
+msgstr "………。"
+
+#. ID 9, Page 2, Line 9, Pos (18,9)
+msgid "仲間を……探しているのか？"
+msgstr "你在……寻找同伴吗？"
+
+#. ID 9, Page 2, Line 32, Pos (18,9)
+#. Choice (2 options)
+msgid ""
+"\\n[\\v[781]]のことを話す\n"
+"次へ"
+msgstr ""
+"讲述\\n[\\v[781]]的事\n"
+"下一步"
+
+#. ID 9, Page 2, Line 35, Pos (18,9)
+msgid "……そいつのことは諦めるんだな。"
+msgstr "……那家伙的事你就放弃吧。"
+
+#. ID 9, Page 2, Line 40, Pos (18,9)
+#. Contains choice at line 2 (2 options)
+msgid "……\\v[784]だ。"
+msgstr "……是\\v[784]。"
+
+#. ID 9, Page 2, Line 41, Pos (18,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"払う\n"
+"払わない"
+msgstr ""
+"支付\n"
+"不支付"
+
+#. ID 9, Page 2, Line 48, Pos (18,9)
+msgid "しばらくかかる。"
+msgstr "要花一段时间。"
+
+#. ID 9, Page 2, Line 54, Pos (18,9)
+msgid "話にならんな…。"
+msgstr "真没法谈啊…。"
+
+#. ID 9, Page 2, Line 61, Pos (18,9)
+msgid "好きにしろ。"
+msgstr "随你便。"
+
+#. ID 10, Page 1, Line 3, Pos (11,9)
+msgid "給仕ももちろん奴隷さんです。"
+msgstr "侍者当然也是奴隶。"
+
+#. ID 10, Page 2, Line 3, Pos (11,9)
+msgid "給仕なので夜でも特別に働いてます。"
+msgstr "因为是侍者，所以夜里也特别在工作。"
+
+#. ID 11, Page 1, Line 3, Pos (7,8)
+msgid "ここに定住しなくても、仕事は請けられるんだ。"
+msgstr "即使不住在这里，也能接工作。"
+
+#. ID 11, Page 1, Line 4, Pos (7,8)
+msgid ""
+"奴隷でも仕事を斡旋してくれるのはここだけだから、\n"
+"重宝するよ。"
+msgstr "能帮奴隶介绍工作的只有这里，所以很便利哦。"
+
+#. ID 12, Page 1, Line 3, Pos (9,6)
+msgid "私はコロシアムで借金を背負っちゃって……"
+msgstr "我在斗技场背上了负债……"
+
+#. ID 12, Page 1, Line 4, Pos (9,6)
+msgid ""
+"それにしても……\n"
+"いくら借金を返しても首輪を取ってくれないの。"
+msgstr ""
+"话虽如此……不管我还了多少负债，\n"
+"他们都不肯取下项圈。"
+
+#. ID 12, Page 1, Line 6, Pos (9,6)
+msgid ""
+"詐欺よね……！\n"
+"わざと奴隷を作ってるとしか思えないわ！"
+msgstr "这是诈骗吧……！只能觉得他们是故意制造奴隶的！"
+
+#. ID 15, Page 1, Line 3, Pos (15,11)
+msgid "あそこの2人組……何か、感じ悪い。"
+msgstr "那边的两个人……总觉得，令人不舒服。"

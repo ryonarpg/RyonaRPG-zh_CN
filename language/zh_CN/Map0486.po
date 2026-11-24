@@ -1,0 +1,33 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 37, Page 2, Line 7, Pos (21,18)
+#. ID 38, Page 2, Line 7, Pos (4,17)
+#. ID 39, Page 2, Line 7, Pos (13,21)
+#. ID 41, Page 2, Line 7, Pos (14,8)
+#. ID 49, Page 2, Line 7, Pos (24,9)
+msgid ""
+"これは毒ガスの発生源ではない！\n"
+"どこかにある発生源を破壊しなければ！"
+msgstr "这不是毒气的发生源！必须破坏位于某处的发生源！"
+
+#. ID 40, Page 2, Line 8, Pos (6,16)
+msgid "！！！！！！"
+msgstr "！！！！！！"
+
+#. ID 48, Page 2, Line 18, Pos (28,1)
+msgid ""
+"閉じ込められた！\n"
+"…これは毒ガスだ！"
+msgstr "被关住了！…这是毒气！"

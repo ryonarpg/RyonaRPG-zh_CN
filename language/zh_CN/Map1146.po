@@ -1,0 +1,80 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 32, Page 2, Line 14, Pos (21,37)
+#. ID 33, Page 2, Line 14, Pos (22,37)
+msgid "開かない。"
+msgstr "打不开。"
+
+#. ID 36, Page 2, Line 3, Pos (38,55)
+#. ID 36, Page 3, Line 3, Pos (38,55)
+msgid ""
+"石製のレバーがある。\n"
+"側面にはχの文字が彫り込まれている。"
+msgstr "有一个石制杆。侧面雕刻着χ的文字。"
+
+#. ID 36, Page 2, Line 5, Pos (38,55)
+#. Contains choice at line 2 (2 options)
+#. ID 36, Page 3, Line 5, Pos (38,55)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを操作しますか？"
+msgstr "要操作杆吗？"
+
+#. ID 36, Page 2, Line 6, Pos (38,55)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 3, Line 6, Pos (38,55)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 36, Page 2, Line 18, Pos (38,55)
+#. ID 36, Page 3, Line 18, Pos (38,55)
+msgid "・・・何かが動いた音がした。"
+msgstr "・・・传来了什么东西动了一下的声音。"
+
+#. ID 37, Page 3, Line 3, Pos (50,52)
+#. ID 38, Page 3, Line 3, Pos (51,52)
+msgid ""
+"床から突き出した石柱が道を塞いでいる。\n"
+"石柱には大きくφという文字が彫り込まれている。"
+msgstr ""
+"从地面突起的石柱挡住了道路。\n"
+"石柱上雕刻着大大的φ字。"
+
+#. ID 406, Page 2, Line 3, Pos (0,32)
+#. ID 407, Page 2, Line 3, Pos (1,32)
+#. ID 408, Page 2, Line 3, Pos (2,32)
+#. ID 409, Page 2, Line 3, Pos (3,32)
+#. ID 410, Page 2, Line 3, Pos (0,33)
+#. ID 411, Page 2, Line 3, Pos (1,33)
+#. ID 412, Page 2, Line 3, Pos (2,33)
+#. ID 413, Page 2, Line 3, Pos (3,33)
+#. ID 414, Page 2, Line 3, Pos (0,34)
+#. ID 415, Page 2, Line 3, Pos (1,34)
+#. ID 416, Page 2, Line 3, Pos (2,34)
+#. ID 417, Page 2, Line 3, Pos (3,34)
+#. ID 418, Page 2, Line 3, Pos (0,35)
+#. ID 419, Page 2, Line 3, Pos (1,35)
+#. ID 420, Page 2, Line 3, Pos (2,35)
+#. ID 421, Page 2, Line 3, Pos (3,35)
+msgid ""
+"大きな海綿質のブロックだ。\n"
+"もし水の上に浮かべても沈まないだろう。"
+msgstr ""
+"是巨大的海绵质方块。\n"
+"即使放到水面上大概也不会沉吧。"

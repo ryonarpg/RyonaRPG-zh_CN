@@ -1,0 +1,71 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 28, Page 2, Line 4, Pos (14,4)
+msgid ""
+"名前：河童\n"
+"種族：水棲"
+msgstr "名字：河童种族：水生"
+
+#. ID 28, Page 2, Line 6, Pos (14,4)
+msgid ""
+"水辺の妖怪\n"
+"きゅうりが大好き"
+msgstr "水边的妖怪最喜欢黄瓜"
+
+#. ID 28, Page 2, Line 8, Pos (14,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$2000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "可以用\\$2000G听取攻略信息要听吗？"
+
+#. ID 28, Page 2, Line 10, Pos (14,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 28, Page 2, Line 16, Pos (14,4)
+msgid ""
+"細い体の割に素早く、\n"
+"それでいて怪力"
+msgstr "身体虽细却很敏捷，而且力大无穷"
+
+#. ID 28, Page 2, Line 18, Pos (14,4)
+msgid ""
+"しかもなかなか頭が良いので、\n"
+"ちょっとした地形なら回り込んでくる"
+msgstr "而且相当聪明，稍微复杂的地形就会绕过来"
+
+#. ID 28, Page 2, Line 20, Pos (14,4)
+msgid ""
+"でも魔法には弱いのだ\\!\n"
+"特に雷属性がよく効くよ"
+msgstr "但是怕魔法！尤其雷属性很有效哦"
+
+#. ID 28, Page 2, Line 22, Pos (14,4)
+msgid ""
+"転ばされないように気をつけて\\!\n"
+"尻子玉を抜かれてしまうよ"
+msgstr "小心别被绊倒！会被拔掉尻子玉哦"
+
+#. ID 28, Page 2, Line 24, Pos (14,4)
+msgid ""
+"ほんとおおおおに極稀に\n"
+"\\C[2]ストロング水神\\C[0]を落とす"
+msgstr "真的非常非常罕见会掉落\\C[2]强力水神\\C[0]"

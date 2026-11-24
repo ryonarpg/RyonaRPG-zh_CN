@@ -1,0 +1,75 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 86, Page 2, Line 3, Pos (20,20)
+#. ID 88, Page 2, Line 3, Pos (35,23)
+#. ID 89, Page 2, Line 3, Pos (30,7)
+msgid ""
+"\n"
+"おかしな宝箱がある。\n"
+"存在感が妙に薄く、輪郭もはっきりしない。"
+msgstr "有个奇怪的宝箱。存在感异常稀薄，轮廓也不清晰。"
+
+#. ID 86, Page 2, Line 6, Pos (20,20)
+#. Choice (2 options)
+#. ID 88, Page 2, Line 6, Pos (35,23)
+#. Choice (2 options)
+#. ID 89, Page 2, Line 6, Pos (30,7)
+#. Choice (2 options)
+msgid ""
+"あけてみる\n"
+"ここではやめとく"
+msgstr ""
+"试着打开\n"
+"在这里还是算了"
+
+#. ID 86, Page 3, Line 3, Pos (20,20)
+#. ID 88, Page 3, Line 3, Pos (35,23)
+#. ID 89, Page 3, Line 3, Pos (30,7)
+msgid ""
+"\n"
+"存在感の薄い空箱がある。\n"
+"中身もからっぽだ。"
+msgstr "有个存在感稀薄的空箱。里面也空空如也。"
+
+#. ID 89, Page 2, Line 20, Pos (30,7)
+msgid ""
+"\n"
+"宝箱には、\n"
+"ポーションとエーテルが詰まっていた!"
+msgstr "宝箱里塞满了药水和以太！"
+
+#. ID 89, Page 2, Line 23, Pos (30,7)
+msgid ""
+"\n"
+"ポーションを10個手に入れた！\n"
+"エーテルを10個手に入れた！"
+msgstr "获得了10个药水！获得了10个以太！"
+
+#. ID 89, Page 2, Line 33, Pos (30,7)
+msgid ""
+"\n"
+"イビル系アイテムの詰まった宝箱を開けてしまった！\n"
+msgstr "打开了塞满邪恶系道具的宝箱！"
+
+#. ID 89, Page 2, Line 36, Pos (30,7)
+msgid ""
+"\n"
+"イビルポーションを10個手に入れた！\n"
+"イビルエーテルを10個手に入れた！"
+msgstr "获得了10个邪恶药水！获得了10个邪恶以太！"
+
+#. ID 90, Page 3, Line 12, Pos (43,3)
+msgid "空間の歪みに吸い込まれる！"
+msgstr "被吸入空间扭曲中！"

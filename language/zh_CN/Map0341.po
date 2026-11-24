@@ -1,0 +1,98 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 40, Page 2, Line 5, Pos (24,7)
+msgid "＊研究員の報告書のようだ"
+msgstr "＊好像是研究员的报告书"
+
+#. ID 40, Page 2, Line 10, Pos (24,7)
+msgid "＊被験者への薬物投与臨床実験の報告について"
+msgstr "＊关于对受试者进行药物投予的临床试验报告"
+
+#. ID 40, Page 2, Line 11, Pos (24,7)
+msgid "13:00　被験者にT-JCCC203を投与 "
+msgstr "13:00　给受试者投予T-JCCC203"
+
+#. ID 40, Page 2, Line 12, Pos (24,7)
+msgid ""
+"08:30　血圧・脈拍とも正常値に回復 \n"
+"17:00　自呼吸確認、呼吸補助器解除 "
+msgstr ""
+"08:30　血压与脉搏均恢复至正常值 17:00　确认自\n"
+"主呼吸，解除呼吸辅助器"
+
+#. ID 40, Page 2, Line 14, Pos (24,7)
+msgid ""
+"12:30　脳波正常値に回復 \n"
+"23:15　意識回復 "
+msgstr "12:30　脑波恢复至正常值 23:15　恢复意识"
+
+#. ID 40, Page 2, Line 16, Pos (24,7)
+msgid "17:30　状態良好、食欲あり "
+msgstr "17:30　状态良好，有食欲"
+
+#. ID 40, Page 2, Line 17, Pos (24,7)
+msgid ""
+"08:30　食欲旺盛 \n"
+"13:20　脳波に周期的な異常発見 \n"
+"19:00　小康状態持続 "
+msgstr ""
+"08:30　食欲旺盛 13:20　在脑波中发现周期性异常 \n"
+"19:00　保持平稳状态"
+
+#. ID 40, Page 2, Line 20, Pos (24,7)
+#. ID 40, Page 2, Line 22, Pos (24,7)
+msgid ""
+"08:30　食欲旺盛 \n"
+"17:00　食欲旺盛 "
+msgstr "08:30　食欲旺盛 17:00　食欲旺盛"
+
+#. ID 40, Page 2, Line 24, Pos (24,7)
+msgid ""
+"食欲旺盛 \n"
+"食欲旺盛 \n"
+"食欲旺盛 \n"
+"食欲旺盛"
+msgstr "食欲旺盛 食欲旺盛 食欲旺盛 食欲旺盛"
+
+#. ID 41, Page 2, Line 3, Pos (23,19)
+msgid "家に……帰り……たい………"
+msgstr "想……回……家………"
+
+#. ID 41, Page 2, Line 4, Pos (23,19)
+msgid "……母さんに……会いたい……よぉ"
+msgstr "……想……见……妈妈……啊"
+
+#. ID 43, Page 2, Line 5, Pos (6,16)
+msgid "＊研究員の日記のようだ"
+msgstr "＊好像是研究员的日记"
+
+#. ID 43, Page 2, Line 10, Pos (6,16)
+msgid ""
+"＊妖魔の血液をマウスに投与すると\n"
+"　寿命を格段に延ばせることが判明した"
+msgstr "＊发现向小鼠投予妖魔的血液，能使其寿命显著延长"
+
+#. ID 43, Page 2, Line 12, Pos (6,16)
+msgid "＊人体への臨床実験が行われるのは時間の問題だ"
+msgstr "＊对人体进行临床试验只是时间问题"
+
+#. ID 43, Page 2, Line 13, Pos (6,16)
+msgid ""
+"＊問題はどのように妖魔を手に入れるか\n"
+"　そしてそれ以外の方法はまだないのか\n"
+"　という点だ"
+msgstr ""
+"＊问题在于如何获得妖魔　以及是否还没有其他方法\n"
+"　这一点"

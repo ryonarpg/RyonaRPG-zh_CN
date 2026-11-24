@@ -1,0 +1,59 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 37, Page 4, Line 21, Pos (28,0)
+#. ID 37, Page 4, Line 81, Pos (28,0)
+#. ID 68, Page 2, Line 69, Pos (29,0)
+msgid "どこも向いてないだと　バグorエラー"
+msgstr "居然哪里都没朝向　Bug or 错误"
+
+#. ID 47, Page 2, Line 8, Pos (7,29)
+msgid "！！！！！！"
+msgstr "！！！！！！"
+
+#. ID 63, Page 2, Line 3, Pos (4,13)
+#. Contains choice at line 2 (2 options)
+msgid "緊急脱出路"
+msgstr "紧急逃生路"
+
+#. ID 63, Page 2, Line 4, Pos (4,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"出る\n"
+"出ない"
+msgstr ""
+"出去\n"
+"不出去"
+
+#. ID 64, Page 3, Line 7, Pos (5,13)
+msgid "全回復した！"
+msgstr "完全恢复了！"
+
+#. ID 65, Page 2, Line 3, Pos (12,12)
+msgid "うぅっ…… あ…………っん\\c[11]$k"
+msgstr "呜唔…… 啊…………嗯\\c[11]$k"
+
+#. ID 66, Page 2, Line 3, Pos (20,4)
+msgid ""
+"あっ\\c[11]$k\\c[0] あなたも……食べられてしまったのね……\n"
+"くうっ あんな キラキラなんかに……！"
+msgstr ""
+"啊\\c[11]$k\\c[0] 你也……被吃掉了呢……\n"
+"呜唔 竟然被那种 亮晶晶的东西……！"
+
+#. ID 66, Page 2, Line 7, Pos (20,4)
+msgid "……くっ くやしいっ\\c[11]$k\\c[0] いっ いぃぃーーーん\\c[11]$k$k"
+msgstr ""
+"……唔 好不甘心\\c[11]$k\\c[0] 咿、\n"
+"咿啊啊——嗯\\c[11]$k$k"

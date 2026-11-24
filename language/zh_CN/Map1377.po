@@ -1,0 +1,118 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 29, Page 2, Line 4, Pos (12,7)
+msgid ""
+"名前：デブートン\n"
+"種族：獣人"
+msgstr "名字：德布顿 种族：兽人"
+
+#. ID 29, Page 2, Line 6, Pos (12,7)
+msgid "豚の獣人"
+msgstr "猪兽人"
+
+#. ID 29, Page 2, Line 7, Pos (12,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$10Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "可以花\\$10G听取攻略情报，要听吗？"
+
+#. ID 29, Page 2, Line 9, Pos (12,7)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 2, Line 5, Pos (6,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 29, Page 2, Line 15, Pos (12,7)
+msgid ""
+"遠くにいるのに 「ブー!」と \n"
+"石を投げてくる。"
+msgstr "明明在远处，却「噗—!」地朝我扔石头。"
+
+#. ID 29, Page 2, Line 17, Pos (12,7)
+msgid ""
+"「ブー!」「ブー!」「ブー!」「ブー!」\n"
+"「ブー!」「ブー!」「ブー!」「ブー!」\n"
+"「ブー!」「ブー!」「ブー!」「ブー!」\n"
+"と ムチャクチャうっとおしい。"
+msgstr ""
+"「噗—!」「噗—!」「噗—!」「噗—!」「噗—!」\n"
+"「噗—!」「噗—!」「噗—!」「噗—!」「噗—!」\n"
+"「噗—!」「噗—!」 让人烦得要命。"
+
+#. ID 29, Page 2, Line 21, Pos (12,7)
+msgid ""
+"ブーブーブーブーブー!\n"
+" ブーブーブーブーブー! \n"
+"ブーブーブーブー!"
+msgstr ""
+"噗—噗—噗—噗—噗—! 噗—噗—噗—噗—噗—! 噗—噗—噗—噗—\n"
+" !"
+
+#. ID 29, Page 2, Line 24, Pos (12,7)
+msgid "特に弱点はない！"
+msgstr "没有特别的弱点！"
+
+#. ID 29, Page 2, Line 31, Pos (12,7)
+msgid "ごく稀に\\C[2]\\N[101]\\C[0]を落とす"
+msgstr "极少数情况下会掉落\\C[2]\\N[101]\\C[0]"
+
+#. ID 30, Page 2, Line 3, Pos (6,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"魔族の記録媒体を見つけた\n"
+"読みますか？"
+msgstr "发现了魔族的记录媒体。要阅读吗？"
+
+#. ID 30, Page 2, Line 14, Pos (6,8)
+msgid ""
+"かつては魔界も美しい場所だったと聞くが、\n"
+"今じゃ穴ぼこだらけになっちまった"
+msgstr ""
+"听说魔界曾经也是个美丽的地方，\n"
+"但如今已经变得满是坑洞了"
+
+#. ID 30, Page 2, Line 16, Pos (6,8)
+msgid ""
+"「穴底」なんて生易しい物は存在しておらず、\n"
+"無限の虚無が広がっているらしい\n"
+"いつ頃だったか穴が発生して、地表を飲み込み始めた"
+msgstr ""
+"据说并不存在「穴底」这种轻松的东西，\n"
+"那里只有无限的虚无在蔓延。不知从何时起，\n"
+"洞穴出现了，并开始吞没地表"
+
+#. ID 30, Page 2, Line 19, Pos (6,8)
+msgid "それからあっという間に今の有様よ"
+msgstr "从那以后转眼间就变成了如今这副样子"
+
+#. ID 30, Page 2, Line 24, Pos (6,8)
+msgid ""
+"何故こんなことになってしまったのか\n"
+"科学的な理由は誰にも分からない"
+msgstr "为什么事情会变成这样，其科学上的理由无人知晓"
+
+#. ID 30, Page 2, Line 26, Pos (6,8)
+msgid ""
+"だが、一説には人間の仕業だとも言われている\n"
+"そういう過激な説を信じている連中は山程いる"
+msgstr ""
+"但是，也有说法称这是人类所为。\n"
+"相信这种过激说法的人多得很"

@@ -1,0 +1,98 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 36, Page 2, Line 3, Pos (26,10)
+msgid ""
+"＊錆び付いたレバーがある\n"
+"　扉を操作するもののようだ"
+msgstr "＊有一个生锈的拉杆　似乎是用来操作门的东西"
+
+#. ID 36, Page 2, Line 5, Pos (26,10)
+msgid "＊1/2という文字が彫られている"
+msgstr "＊雕刻着1/2的字样"
+
+#. ID 36, Page 2, Line 6, Pos (26,10)
+#. Contains choice at line 2 (2 options)
+msgid "＊レバーを操作しますか？"
+msgstr "＊要操作拉杆吗？"
+
+#. ID 36, Page 2, Line 7, Pos (26,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 37, Page 2, Line 4, Pos (8,35)
+#. ID 48, Page 2, Line 4, Pos (6,35)
+msgid "………"
+msgstr "………"
+
+#. ID 37, Page 2, Line 8, Pos (8,35)
+#. ID 48, Page 2, Line 8, Pos (6,35)
+msgid ""
+"＊自動人形のようだが\n"
+"　眠っているようにピクりとも動かない"
+msgstr "＊看起来是自动人偶　但像睡着了一样纹丝不动"
+
+#. ID 41, Page 2, Line 3, Pos (23,10)
+msgid "＊古びた書物だ……"
+msgstr "＊是陈旧的书……"
+
+#. ID 41, Page 2, Line 4, Pos (23,10)
+msgid ""
+"＊紙はボロボロだが、辛うじて文字は読めるようだ\n"
+"　適当に１冊取り、目を走らせる。"
+msgstr ""
+"＊纸已经破破烂烂，\n"
+"　但字似乎勉强还能读　随手拿起一册，\n"
+"快速浏览起来。"
+
+#. ID 41, Page 2, Line 10, Pos (23,10)
+#. ID 41, Page 2, Line 32, Pos (23,10)
+msgid "＊…………"
+msgstr "＊…………"
+
+#. ID 41, Page 2, Line 15, Pos (23,10)
+msgid ""
+"＊機械の身体に成功したのに……\n"
+"　何故皆は私を残し大地へ戻ろうなどというのか"
+msgstr ""
+"＊明明成功获得了机械身体……\n"
+"　为什么大家都抛下我，说要回到大地去呢"
+
+#. ID 41, Page 2, Line 17, Pos (23,10)
+msgid ""
+"＊エルザマリア、貴女の遺伝子工学の研究は\n"
+"　この機械の身体の更なる進化にも\n"
+"　必要だったのに……"
+msgstr ""
+"＊艾尔扎玛丽亚，\n"
+"　你的基因工程研究\n"
+"　对于这具机械身体的进一步进化明明是必要的……"
+
+#. ID 41, Page 2, Line 20, Pos (23,10)
+msgid "＊私の計画は……失敗したのだろうか？"
+msgstr "＊我的计划……失败了吗？"
+
+#. ID 41, Page 2, Line 25, Pos (23,10)
+msgid ""
+"＊……私と他の仲間たちで……\n"
+"　いや、私が最後の１人になってでも\n"
+"　必ずやりとげて見せる……"
+msgstr ""
+"＊……我和其他同伴一起……　不，\n"
+"　哪怕我成为最后一个人　也一定要完成给你看……"

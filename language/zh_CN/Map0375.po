@@ -1,0 +1,81 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 5, Pos (23,10)
+msgid "こんにちは、こちらは魔法ギルドです。"
+msgstr "你好，这里是魔法公会。"
+
+#. ID 3, Page 1, Line 9, Pos (23,10)
+msgid "こんばんは、こちらは魔法ギルドです。"
+msgstr "晚上好，这里是魔法公会。"
+
+#. ID 3, Page 1, Line 12, Pos (23,10)
+msgid "日夜、役に立つ魔法の研究をしています。"
+msgstr "我们日夜研究有用的魔法。"
+
+#. ID 3, Page 2, Line 4, Pos (23,10)
+msgid ""
+"こんばんは　いま\n"
+"こうかいまほうじっけんちゅうです"
+msgstr "晚上好　现在正在公开魔法实验中"
+
+#. ID 3, Page 2, Line 6, Pos (23,10)
+msgid ""
+"いっぱんのかたも　けんがくできます\n"
+"おくのへやへ　どうぞ"
+msgstr "一般人士也可以　参观，请到里面的房间"
+
+#. ID 5, Page 3, Line 3, Pos (18,8)
+msgid "きょうは　しょうかんまほうの　じっけんです"
+msgstr "今天是　召唤魔法的　实验"
+
+#. ID 5, Page 3, Line 4, Pos (18,8)
+msgid ""
+"おんなのひとの　しきゅうを　のっとって\n"
+"こたいをふやす　すらいむの　しょうかんです"
+msgstr "这是夺取女性　子宫来增加个体的　史莱姆的　召唤"
+
+#. ID 6, Page 1, Line 3, Pos (22,9)
+msgid "ここから先は関係者しかはいれんのじゃよ。"
+msgstr "从这里往前，只有相关人员才能进入哦。"
+
+#. ID 6, Page 2, Line 3, Pos (22,9)
+msgid ""
+"ここから先は関係者しか入れないんです。\n"
+"ごめんなさい。"
+msgstr "从这里往前，只有相关人员才能进入。对不起。"
+
+#. ID 10, Page 1, Line 3, Pos (9,7)
+msgid ""
+"＊魔法書だ……詳しくは解らないが、\n"
+"　どうやらスライムを召喚する魔法のようだ。"
+msgstr ""
+"＊是魔法书……虽然不太明白详情，\n"
+"　但好像是召唤史莱姆的魔法。"
+
+#. ID 14, Page 1, Line 3, Pos (5,10)
+msgid "じっけんは　じゅんちょうです　"
+msgstr "实验　进展顺利"
+
+#. ID 15, Page 1, Line 3, Pos (3,8)
+msgid ""
+"かんしょうによる　こうかけいげんをおさえるには\n"
+"よけいなものをつけないこと"
+msgstr ""
+"要抑制因干涉导致的效果降低，\n"
+"就不要添加多余的东西"
+
+#. ID 16, Page 1, Line 3, Pos (7,8)
+msgid "きんぞくは　まほうこうかにかんしょうします　"
+msgstr "金属会　干涉魔法效果"

@@ -1,0 +1,77 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (32,8)
+msgid "もうレイク様と水だけで生きていける"
+msgstr "已经能只靠雷克大人和水活下去了"
+
+#. ID 3, Page 1, Line 3, Pos (45,48)
+msgid "レイクたん…うふふ"
+msgstr "雷克亲…呵呵"
+
+#. ID 27, Page 1, Line 3, Pos (12,46)
+msgid ""
+"ここはレイク様の世界征服の為の施設だ。\n"
+"ま、見てみれば分かるさ"
+msgstr ""
+"这里是雷克大人为征服世界而建的设施。嘛，\n"
+"看看就明白了。"
+
+#. ID 44, Page 1, Line 3, Pos (7,60)
+msgid "レイク様…ハアハア"
+msgstr "雷克大人…哈啊哈啊"
+
+#. ID 45, Page 1, Line 3, Pos (33,59)
+msgid "レイクバッグ様マンセー"
+msgstr "雷克巴格大人万岁"
+
+#. ID 46, Page 1, Line 3, Pos (39,58)
+msgid "レイクたんマンセー！"
+msgstr "雷克亲万岁！"
+
+#. ID 47, Page 1, Line 3, Pos (55,58)
+msgid "レイクたーん"
+msgstr "雷克亲——"
+
+#. ID 48, Page 1, Line 3, Pos (36,47)
+msgid "ハァハァ"
+msgstr "哈啊哈啊"
+
+#. ID 81, Page 1, Line 3, Pos (28,67)
+#. Contains choice at line 2 (2 options)
+msgid "街の外に出ますか？"
+msgstr "要到城镇外去吗？"
+
+#. ID 81, Page 1, Line 4, Pos (28,67)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 81, Page 1, Line 11, Pos (28,67)
+msgid ""
+"空間がゆがみ……\n"
+"時はさかのぼっていく……"
+msgstr "空间扭曲……时光回溯……"
+
+#. ID 89, Page 1, Line 3, Pos (16,48)
+msgid "ああ…レイク様…"
+msgstr "啊啊…雷克大人…"
+
+#. ID 90, Page 1, Line 3, Pos (79,59)
+msgid "レイクさま…"
+msgstr "雷克大人…"

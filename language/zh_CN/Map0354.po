@@ -1,0 +1,207 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 1, Pos (0,0)
+msgid "無理　たすけてー"
+msgstr "不行　救命啊——"
+
+#. ID 2, Page 1, Line 3, Pos (13,15)
+msgid "「いらっしゃいませ」"
+msgstr "「欢迎光临」"
+
+#. ID 5, Page 1, Line 6, Pos (24,16)
+#. ID 6, Page 1, Line 6, Pos (22,16)
+#. ID 7, Page 1, Line 6, Pos (19,16)
+#. ID 8, Page 1, Line 6, Pos (17,16)
+#. ID 24, Page 1, Line 6, Pos (13,4)
+#. ID 25, Page 1, Line 6, Pos (16,4)
+#. ID 26, Page 1, Line 6, Pos (19,4)
+#. ID 27, Page 1, Line 6, Pos (22,4)
+#. ID 28, Page 1, Line 6, Pos (25,4)
+msgid "鍵がかかっている。"
+msgstr "锁着。"
+
+#. ID 13, Page 1, Line 3, Pos (11,16)
+msgid ""
+"！\n"
+"椅子の下に隠し階段を見つけた！"
+msgstr "！在椅子下发现了隐藏楼梯！"
+
+#. ID 19, Page 2, Line 3, Pos (13,16)
+msgid ""
+"いらっしゃいませ\\!\n"
+"今空いている部屋はこちらです\n"
+"お泊りになりますか？"
+msgstr "欢迎光临\\!现在空着的房间在这边，您要住宿吗？"
+
+#. ID 19, Page 2, Line 19, Pos (13,16)
+msgid "またのご来店をお待ちしております"
+msgstr "期待您再次光临"
+
+#. ID 19, Page 2, Line 26, Pos (13,16)
+msgid "お金の用意が出来ましたら、またご来店ください"
+msgstr "等您准备好钱后，请再次光临"
+
+#. ID 19, Page 2, Line 33, Pos (13,16)
+msgid ""
+"大変申し訳ございません\\!\n"
+"そちらの部屋は現在満室となっております"
+msgstr "非常抱歉\\!那个房间目前已经满房了"
+
+#. ID 19, Page 3, Line 3, Pos (13,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"あんた、だいぶ借金を抱えているみたいだな。\n"
+"どうだい、ウチで働かないか？"
+msgstr ""
+"你好像背负了不少债务啊。怎么样，\n"
+"要不要在我们这里工作？"
+
+#. ID 19, Page 3, Line 5, Pos (13,16)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 3, Line 9, Pos (13,16)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 6, Line 17, Pos (13,16)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 19, Page 3, Line 7, Pos (13,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"そうかい…\n"
+"\\!無論何するかはわかってるんだよな？"
+msgstr "是吗……\\!当然你明白要做什么吧？"
+
+#. ID 19, Page 3, Line 11, Pos (13,16)
+msgid "なら話は早い。早速やってもらおうか。"
+msgstr "那就好说了。马上开始干吧。"
+
+#. ID 19, Page 3, Line 15, Pos (13,16)
+msgid ""
+"この宿の地下にはな、娼館があるんだ。\n"
+"そこで身体売って稼がないかってことだ。\n"
+"どうするんだい？"
+msgstr ""
+"这家旅馆的地下啊，有一家娼馆。\n"
+"就是问你要不要在那里卖身赚钱。你怎么办？"
+
+#. ID 19, Page 3, Line 18, Pos (13,16)
+#. Choice (2 options)
+msgid ""
+"やる\n"
+"やらない"
+msgstr ""
+"做\n"
+"不做"
+
+#. ID 19, Page 3, Line 20, Pos (13,16)
+msgid "そうか、なら早速始めようか。"
+msgstr "是吗，那就马上开始吧。"
+
+#. ID 19, Page 3, Line 27, Pos (13,16)
+#. ID 19, Page 6, Line 38, Pos (13,16)
+#. ID 19, Page 6, Line 42, Pos (13,16)
+msgid "そうかい。"
+msgstr "是吗。"
+
+#. ID 19, Page 5, Line 3, Pos (13,16)
+#. Contains choice at line 2 (2 options)
+msgid "ん？お客様どうか致しましたか？"
+msgstr "嗯？客人您怎么了吗？"
+
+#. ID 19, Page 5, Line 4, Pos (13,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"素敵な仕事があると聞いたわ\n"
+"何でもない"
+msgstr ""
+"我听说有份不错的工作\n"
+"没什么"
+
+#. ID 19, Page 5, Line 6, Pos (13,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"そうで御座いますか…\n"
+"\\!無論何するかは御理解致しておりますよね？"
+msgstr "是这样吗……\\!当然您明白要做什么吧？"
+
+#. ID 19, Page 5, Line 8, Pos (13,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ええ、私を売ってあげる\n"
+"どんな仕事？"
+msgstr ""
+"嗯，我把自己卖给你吧\n"
+"什么工作？"
+
+#. ID 19, Page 5, Line 10, Pos (13,16)
+msgid "なら話は早い。では早速やって頂きましょう。"
+msgstr "那就好说了。那么马上开始吧。"
+
+#. ID 19, Page 5, Line 14, Pos (13,16)
+msgid ""
+"この宿の地下にて、娼館を経営しております。\n"
+"そこまで言えば…まぁ貴女はお客様ですから…\n"
+"深くは申し上げませんが。"
+msgstr ""
+"这家旅馆的地下经营着一家娼馆。说到这份上……\n"
+"不过您是客人……我就不多说了。"
+
+#. ID 19, Page 5, Line 17, Pos (13,16)
+#. Choice (2 options)
+msgid ""
+"素敵な仕事ね。私を売ってあげる\n"
+"し…失礼しました！"
+msgstr ""
+"真是份不错的工作呢。我就把自己卖给你吧\n"
+"失……失礼了！"
+
+#. ID 19, Page 5, Line 19, Pos (13,16)
+msgid "了解いたしました。では早速やって頂きましょう。"
+msgstr "我明白了。那么马上开始吧。"
+
+#. ID 19, Page 5, Line 26, Pos (13,16)
+msgid "賢明な判断ですよ。\n"
+msgstr "这是明智的判断。"
+
+#. ID 19, Page 6, Line 4, Pos (13,16)
+#. ID 19, Page 6, Line 8, Pos (13,16)
+msgid "どうした？また仕事をしたいのかい？"
+msgstr "怎么了？又想做工作了吗？"
+
+#. ID 19, Page 6, Line 11, Pos (13,16)
+msgid ""
+"いらっしゃいませ。\n"
+"大変非礼千万ですが、お仕事をしてみませんか？"
+msgstr "欢迎光临。非常失礼，不过您要不要试着做份工作？"
+
+#. ID 19, Page 6, Line 20, Pos (13,16)
+#. ID 19, Page 6, Line 24, Pos (13,16)
+msgid "そうか、なら頼むよ"
+msgstr "是吗，那就拜托了"
+
+#. ID 19, Page 6, Line 27, Pos (13,16)
+msgid ""
+"有難う御座います\n"
+"職業柄大変なもので…是非とも御願いします"
+msgstr "非常感谢。因为职业关系实在不容易……务必拜托您了"
+
+#. ID 19, Page 6, Line 45, Pos (13,16)
+msgid "大変失礼な事をお聞きして申し訳御座いません"
+msgstr "问了非常失礼的事，实在抱歉"

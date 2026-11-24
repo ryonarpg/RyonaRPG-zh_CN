@@ -1,0 +1,39 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 7, Page 2, Line 3, Pos (22,32)
+msgid ""
+"ここは、まだなんのイベントもありゃせん。\n"
+"制作者絶賛募集中、というやつじゃ。"
+msgstr ""
+"这里还什么活动都没有。\n"
+"就是所谓的正在火热招募制作者。"
+
+#. ID 7, Page 2, Line 5, Pos (22,32)
+msgid ""
+"マップだけというものなんじゃから、\n"
+"必要とされる時に二の足踏まれぬよう、景気づけに\n"
+"とりあえず船だけは用意してみたまでのこと。"
+msgstr ""
+"毕竟现在只有地图，\n"
+"为了在需要的时候不让人踌躇不前，权当助兴，\n"
+"总之先准备了船而已。"
+
+#. ID 7, Page 2, Line 8, Pos (22,32)
+msgid ""
+"まあシンプルなわりに出来の悪い船よ。\n"
+"廃棄するも改造するも全て自由に使ってくれい。"
+msgstr ""
+"嘛，虽然简单，却是条做得不怎样的船。\n"
+"要废弃还是要改造，都随你自由处置吧。"

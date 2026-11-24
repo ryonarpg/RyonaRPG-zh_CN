@@ -1,0 +1,51 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 29, Page 2, Line 3, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+msgid "＊魔力溜まりがある。"
+msgstr "＊有魔力池。"
+
+#. ID 29, Page 2, Line 4, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"魔力を回復する\n"
+"いいえ"
+msgstr ""
+"恢复魔力\n"
+"否"
+
+#. ID 31, Page 2, Line 4, Pos (16,9)
+msgid ""
+"名前：輪入道\n"
+"種族：不明"
+msgstr "名字：轮入道种族：不明"
+
+#. ID 31, Page 2, Line 6, Pos (16,9)
+msgid "古い車の車輪に魂が宿った妖怪"
+msgstr "寄宿在古老车轮上的妖怪"
+
+#. ID 32, Page 2, Line 3, Pos (14,9)
+msgid ""
+"姉ちゃん！\\!\n"
+"矢とか弾とか切らしてないかい？"
+msgstr "姐姐！\\!箭或子弹没断货吗？"
+
+#. ID 32, Page 2, Line 5, Pos (14,9)
+msgid "おいらかき集めて来たんだ！"
+msgstr "俺收集来了！"
+
+#. ID 32, Page 2, Line 7, Pos (14,9)
+msgid "たのんだよ！"
+msgstr "拜托了！"

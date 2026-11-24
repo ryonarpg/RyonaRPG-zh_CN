@@ -1,0 +1,141 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 25, Page 1, Line 1, Pos (15,16)
+msgid ""
+"冒険者系\n"
+"←男　　　→女"
+msgstr "冒险者系←男　　　→女"
+
+#. ID 32, Page 1, Line 1, Pos (15,7)
+msgid ""
+"兵士系\n"
+"←男　　　→女"
+msgstr "士兵系←男　　　→女"
+
+#. ID 37, Page 1, Line 1, Pos (15,9)
+msgid ""
+"商人系\n"
+"←男　　　→女"
+msgstr "商人系←男　　　→女"
+
+#. ID 40, Page 1, Line 1, Pos (15,11)
+msgid ""
+"魔法使い系\n"
+"←男　　　→女"
+msgstr "魔法师系←男　　　→女"
+
+#. ID 41, Page 1, Line 1, Pos (15,13)
+msgid ""
+"神官系\n"
+"←男　　　→女"
+msgstr "神官系←男　　　→女"
+
+#. ID 54, Page 1, Line 1, Pos (15,5)
+msgid "奴隷系はこの中からランダムに決定"
+msgstr "奴隶系从这些中随机决定"
+
+#. ID 55, Page 1, Line 1, Pos (15,20)
+msgid ""
+"その他系\n"
+"←男　　　→女"
+msgstr "其他系←男　　　→女"
+
+#. ID 56, Page 2, Line 185, Pos (15,6)
+msgid "住む場所に困ってるようだ……どうしよう？"
+msgstr "好像正为住处发愁……怎么办？"
+
+#. ID 56, Page 2, Line 191, Pos (15,6)
+#. Choice (3 options)
+msgid ""
+"フェリスの町について教える\n"
+"首輪を外してから町を教える\n"
+"そのまま別れる"
+msgstr ""
+"告诉关于费利斯镇的事\n"
+"摘下项圈后再告诉镇的事\n"
+"就此分别"
+
+#. ID 56, Page 2, Line 195, Pos (15,6)
+#. ID 56, Page 2, Line 224, Pos (15,6)
+msgid "\\N[\\V[6]]はフェリスの町のことを話した……"
+msgstr "\\N[\\V[6]]讲了费利斯镇的事……"
+
+#. ID 56, Page 2, Line 201, Pos (15,6)
+msgid ""
+"\\N[\\V[6]]は相手の首輪を外しつつ、\n"
+"フェリスの町のことを話した……"
+msgstr ""
+"\\N[\\V[6]]一边解开对方的项圈，\n"
+"一边讲了费利斯镇的事……"
+
+#. ID 56, Page 2, Line 209, Pos (15,6)
+msgid "首輪を外してあげたくても、鍵を持っていない。"
+msgstr "即使想替对方解开项圈，也没有钥匙。"
+
+#. ID 56, Page 2, Line 220, Pos (15,6)
+#. Choice (2 options)
+msgid ""
+"フェリスの町について教える\n"
+"そのまま別れる"
+msgstr ""
+"告诉关于费利斯镇的事\n"
+"就此分别"
+
+#. ID 57, Page 1, Line 4, Pos (14,5)
+msgid ""
+"スティライ\n"
+"「エリア移動する？"
+msgstr "斯蒂莱「要移动区域吗？"
+
+#. ID 57, Page 1, Line 6, Pos (14,5)
+#. Choice (3 options)
+msgid ""
+"宿へ戻る\n"
+"このエリアへもう一度入りなおす\n"
+"なんでもない"
+msgstr ""
+"回旅馆\n"
+"再次进入这个区域\n"
+"没什么"
+
+#. ID 58, Page 1, Line 4, Pos (16,5)
+msgid ""
+"フェリス\n"
+"「ここは移民の町を作る際の住民たちを\n"
+"　集めた場所だ。各グラフィックの確認や\n"
+"　加入イベントの作成に使う。"
+msgstr ""
+"费利斯「这里是制作移民城镇时把居民们　聚集起来\n"
+"　的地方。用于确认各图像以及　制作加入事件。"
+
+#. ID 58, Page 1, Line 9, Pos (16,5)
+msgid ""
+"フェリス\n"
+"「私のことは気にするな。ここではお前の\n"
+"　作業の見物人でしかないからな。"
+msgstr ""
+"费利斯「不用在意我。\n"
+"在这里我不过是你　工作的旁观者罢了。"
+
+#. ID 58, Page 1, Line 13, Pos (16,5)
+msgid ""
+"フェリス\n"
+"「ただそうだな、データのロストには\n"
+"　十分気を付けるがいい。\n"
+"　起きてからでは取り返しがつかん。"
+msgstr ""
+"费利斯「不过说起来，\n"
+"对于数据的丢失要　十分小心。\n"
+"　等醒来之后就无可挽回了。"

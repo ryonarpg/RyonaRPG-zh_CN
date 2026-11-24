@@ -1,0 +1,80 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 1, Line 3, Pos (19,7)
+msgid ""
+"反乱分子の討伐、ご苦労様。\n"
+"本当によくやってくれたわ。\n"
+"そう…\\!それでいいわよ。\n"
+"私に逆らう者は皆殺しで構わないわ。"
+msgstr ""
+"讨伐叛乱分子，辛苦了。你真的做得很好。对……\n"
+"\\!这样就对了。反抗我的人全杀掉也无妨。"
+
+#. ID 13, Page 1, Line 7, Pos (19,7)
+msgid ""
+"後でご褒美として一杯可愛がってあげるわ。\n"
+"\\!これからも私の忠実なしもべとして\n"
+"がんばるのよ…いいわね。"
+msgstr ""
+"之后作为奖赏，我会好好疼爱你。\n"
+"\\!从今以后也要作为我忠实的仆人努力哦……\n"
+"明白了吗。"
+
+#. ID 13, Page 1, Line 14, Pos (19,7)
+msgid ""
+"こうして帝国は滅び、世界は新帝国による\n"
+"暗黒時代を迎える事となった。"
+msgstr ""
+"就这样，帝国灭亡了，\n"
+"世界迎来了由新帝国带来的黑暗时代。"
+
+#. ID 13, Page 1, Line 16, Pos (19,7)
+msgid ""
+"そして暴虐の限りを尽くす新皇帝とそれに\n"
+"付き従い歯向かおうとする者を片端から\n"
+"殺していく一人の少女は恐怖の象徴として\n"
+"人々を苦しめつづけたのであった。"
+msgstr ""
+"然后，极尽暴虐的新皇帝，以及跟随着她、\n"
+"将胆敢反抗者一个接一个杀掉的少女，\n"
+"作为恐怖的象征，持续折磨着人们。"
+
+#. ID 14, Page 1, Line 3, Pos (20,7)
+msgid ""
+"………\\!うふふ…\\!あはは……\n"
+"れいくさま…おかあさま…"
+msgstr "………\\!呵呵……\\!啊哈哈……雷克大人……母亲大人……"
+
+#. ID 14, Page 1, Line 5, Pos (20,7)
+msgid "すでに正気を失っているようだ。"
+msgstr "看来她已经失去理智了。"
+
+#. ID 17, Page 1, Line 3, Pos (18,10)
+msgid "ご苦労様でした、お姉さま"
+msgstr "辛苦了，姐姐大人"
+
+#. ID 18, Page 1, Line 3, Pos (21,10)
+msgid "いいなあ…レイク様から信頼されてて"
+msgstr "真好啊……能被雷克大人信任。"
+
+#. ID 19, Page 1, Line 3, Pos (21,8)
+msgid "ああ…レイク様…"
+msgstr "啊……雷克大人……"
+
+#. ID 20, Page 1, Line 3, Pos (18,8)
+msgid ""
+"反乱分子の討伐、ご苦労様でした。\n"
+"レイク様がお待ちですよ。"
+msgstr "讨伐叛乱分子，辛苦了。雷克大人在等您哦。"

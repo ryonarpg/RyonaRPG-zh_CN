@@ -1,0 +1,109 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 51, Page 1, Line 12, Pos (1,1)
+msgid "\\S[3]ふふふ、お目覚めかしら？"
+msgstr "\\S[3]呵呵呵，醒了吗？"
+
+#. ID 51, Page 1, Line 13, Pos (1,1)
+msgid "\\S[3]貴女の裸、とても綺麗ね……"
+msgstr "\\S[3]你的裸体，真美呢……"
+
+#. ID 51, Page 1, Line 14, Pos (1,1)
+msgid ""
+"\\S[3]私が、貴女をもっと綺麗にして\n"
+"さしあげますわ"
+msgstr "\\S[3]我会把你变得更美的"
+
+#. ID 51, Page 1, Line 36, Pos (1,1)
+msgid "\\S[3]この子は貴女の子宮に種を植え付けてくれるの\\.\\.\\.\\^"
+msgstr "\\S[3]这孩子会把种子种进你的子宫里\\.\\.\\.\\^"
+
+#. ID 51, Page 1, Line 51, Pos (1,1)
+msgid "\\S[3]その種は発芽するとあそこからツタを伸ばし\\.\\.\\.\\^"
+msgstr "\\S[3]那种子发芽后，会从那里伸出藤蔓\\.\\.\\.\\^"
+
+#. ID 51, Page 1, Line 66, Pos (1,1)
+msgid "\\S[3]胸や乳首の奥底…\\.\\.\\.\\^"
+msgstr "\\S[3]胸口和乳头深处…\\.\\.\\.\\^"
+
+#. ID 51, Page 1, Line 83, Pos (1,1)
+msgid "\\S[3]その他穴という穴を満たしてくれるわ…\\.\\.\\.\\^"
+msgstr "\\S[3]还会填满其他所有的孔洞…\\.\\.\\.\\^"
+
+#. ID 51, Page 1, Line 100, Pos (1,1)
+msgid "\\S[2]さあ、生まれ変わった貴女を見せて頂戴…"
+msgstr "\\S[2]来吧，让我看看重生后的你……"
+
+#. ID 51, Page 1, Line 170, Pos (1,1)
+msgid "\\S[3]ふふふ、とても綺麗よ…"
+msgstr "\\S[3]呵呵呵，非常美哦……"
+
+#. ID 51, Page 1, Line 176, Pos (1,1)
+msgid "…………………………………………"
+msgstr "…………………………………………"
+
+#. ID 51, Page 1, Line 179, Pos (1,1)
+msgid "\\n[\\v[6]]はアルラウネに転生してしまった……"
+msgstr "\\n[\\v[6]]转生成了阿尔拉乌涅……"
+
+#. ID 51, Page 1, Line 186, Pos (1,1)
+#. Contains choice at line 2 (2 options)
+msgid "＊すべてを諦めますか？"
+msgstr "＊要放弃一切吗？"
+
+#. ID 51, Page 1, Line 187, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"諦める\n"
+"諦めない"
+msgstr ""
+"放弃\n"
+"不放弃"
+
+#. ID 51, Page 1, Line 200, Pos (1,1)
+msgid ""
+"\\S[2]こうして\\n[\\v[6]]は、ウネに愛でられる華として\n"
+"一生をこの邸宅で送ることとなる。"
+msgstr ""
+"\\S[2]就这样，\\n[\\v[6]]作为受乌涅怜爱的花，\n"
+"一生都将在这座宅邸中度过。"
+
+#. ID 51, Page 2, Line 14, Pos (1,1)
+msgid ""
+"「身の程を弁えない悪猫には\n"
+"　お灸をすえなきゃいけないわね。」"
+msgstr "「对不知分寸的坏猫　必须给点教训才行呢。」"
+
+#. ID 51, Page 2, Line 38, Pos (1,1)
+msgid ""
+"\\S[3]「二度と逆らえないように、\n"
+"　焼きゴテをくれてやりますわ。」"
+msgstr ""
+"\\S[3]「为了让你再也不敢反抗，\n"
+"　我会给你烙上烙印。」"
+
+#. ID 51, Page 2, Line 78, Pos (1,1)
+msgid "\\S[3]「無様に泣きわめきなさい。」"
+msgstr "\\S[3]「就丑陋地哭喊吧。」"
+
+#. ID 51, Page 2, Line 104, Pos (1,1)
+msgid ""
+"\\S[2]結局、ウネを倒せなかった\\n[\\v[6]]は\n"
+"心も体もボロボロにされた揚句、\n"
+"死ぬまでペットにされたのでした。"
+msgstr ""
+"\\S[2]最终，\n"
+"没能打倒乌涅的\\n[\\v[6]]身心都被弄得支离破碎，\n"
+"最后直到死都被当成宠物。"

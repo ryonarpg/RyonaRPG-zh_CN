@@ -1,0 +1,46 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 4, Line 235, Pos (18,0)
+msgid ""
+"機械から投げ出されたと同時に、\n"
+"操縦桿が蜜肉から引き抜かれた！"
+msgstr "在被机械抛出的同时，操纵杆从蜜肉中被拔了出来！"
+
+#. ID 15, Page 4, Line 239, Pos (18,0)
+msgid ""
+"しかし貞操帯は無常にも、\n"
+"即座に金属板をスライドして\n"
+"秘所を再び鉄の檻に閉じ込めてしまった。"
+msgstr ""
+"然而贞操带无情地立刻滑动金属板，\n"
+"将私处再次关进铁笼之中。"
+
+#. ID 15, Page 4, Line 243, Pos (18,0)
+msgid ""
+"\\N[\\V[6]]\n"
+"「そんな…。"
+msgstr "\\N[\\V[6]]「怎么会…。"
+
+#. ID 15, Page 4, Line 247, Pos (18,0)
+msgid ""
+"\\N[\\V[6]]\n"
+"「ああ…また貞操帯に弄ばれちゃう…。"
+msgstr "\\N[\\V[6]]「啊…又要被贞操带玩弄了…。"
+
+#. ID 15, Page 4, Line 252, Pos (18,0)
+msgid ""
+"開放されることのない性管理に、\n"
+"\\N[\\V[6]]は悶えることしかできなかった。"
+msgstr "对于永无解放的性管理，\\N[\\V[6]]只能痛苦挣扎。"

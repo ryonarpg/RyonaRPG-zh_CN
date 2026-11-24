@@ -1,0 +1,2568 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 6, Pos (18,0)
+msgid ""
+"\\c[11]\n"
+"　　　　　　　　 このゲームの動画を\n"
+"　　　　　　　　　　投稿する事は\n"
+"　　　　　　　　　 禁止しています\\|"
+msgstr ""
+"\\c[11]\n"
+"　　　　　　　　 本游戏的视频\n"
+"　　　　　　　　　　投稿\n"
+"　　　　　　　　　 是被禁止的\\|"
+
+#. ID 1, Page 1, Line 15, Pos (18,0)
+msgid ""
+"\\c[11]\n"
+"　　　　　　このゲームには暴力シーンや\n"
+"　　　　　　　　グロテスクな表現が\n"
+"　　　　　　　　　含まれています\\|"
+msgstr ""
+"\\c[11]\n"
+"　　　　　　本游戏中存在暴力场景以及\n"
+"　　　　　　　　怪诞血腥的表现\n"
+"　　　　　　　　　包含在内\\|"
+
+#. ID 1, Page 1, Line 22, Pos (18,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\c[3]　　　　このゲームには性的な表現が含まれます。\n"
+"　　　　　　　あなたは18歳以上ですか？"
+msgstr ""
+"\\c[3]　　　　本游戏包含性表现。\n"
+"　　　　　　　你是18岁以上吗？"
+
+#. ID 1, Page 1, Line 24, Pos (18,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"　　　　　　　　　　　はい\n"
+"　　　　　　　　　　 いいえ"
+msgstr ""
+"　　　　　　　　　　　是\n"
+"　　　　　　　　　　 否"
+
+#. ID 1, Page 1, Line 52, Pos (18,0)
+#. ID 1, Page 2, Line 68, Pos (18,0)
+msgid ""
+"\n"
+"操作するキャラクターを選んでください。"
+msgstr "请选择要操作的角色。"
+
+#. ID 6, Page 1, Line 10, Pos (13,4)
+msgid ""
+"\n"
+"Name :\\N[49]\n"
+"Class:和装メイド\n"
+"Type :戦士型"
+msgstr "Name :\\N[49]Class:和装女仆Type :战士型"
+
+#. ID 6, Page 1, Line 14, Pos (13,4)
+#. ID 6, Page 3, Line 11, Pos (13,4)
+#. ID 7, Page 1, Line 11, Pos (9,2)
+#. ID 8, Page 7, Line 11, Pos (9,4)
+#. ID 10, Page 1, Line 16, Pos (16,6)
+#. ID 10, Page 3, Line 11, Pos (16,6)
+#. ID 10, Page 5, Line 6, Pos (16,6)
+#. ID 15, Page 3, Line 11, Pos (5,8)
+#. ID 34, Page 1, Line 14, Pos (1,8)
+#. ID 34, Page 5, Line 16, Pos (1,8)
+#. ID 42, Page 7, Line 12, Pos (5,4)
+#. ID 43, Page 5, Line 12, Pos (9,6)
+#. ID 45, Page 1, Line 7, Pos (1,4)
+#. ID 45, Page 3, Line 12, Pos (1,4)
+#. ID 45, Page 9, Line 6, Pos (1,4)
+#. ID 47, Page 5, Line 6, Pos (1,6)
+#. ID 48, Page 5, Line 12, Pos (1,2)
+#. ID 49, Page 1, Line 12, Pos (5,6)
+#. ID 49, Page 3, Line 10, Pos (5,6)
+#. ID 49, Page 5, Line 12, Pos (5,6)
+#. ID 50, Page 1, Line 17, Pos (5,2)
+#. ID 50, Page 5, Line 13, Pos (5,2)
+#. ID 61, Page 3, Line 7, Pos (16,8)
+#. ID 63, Page 1, Line 10, Pos (1,10)
+#. ID 63, Page 3, Line 20, Pos (1,10)
+msgid ""
+"\n"
+"初心者向け"
+msgstr "面向新手"
+
+#. ID 6, Page 1, Line 16, Pos (13,4)
+msgid ""
+"\n"
+"タレント　「メイド流節約術」\n"
+"　ポーション、エーテル、万能薬を使った時、\n"
+"　一定確率で消費を防ぐ。"
+msgstr ""
+"天赋　「女仆流节约术」　使用药水、以太、\n"
+"万能药时，　有一定概率防止消耗。"
+
+#. ID 6, Page 1, Line 20, Pos (13,4)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 3, Line 20, Pos (13,4)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 5, Line 21, Pos (13,4)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 7, Line 29, Pos (13,4)
+#. Contains choice at line 3 (2 options)
+#. ID 7, Page 1, Line 17, Pos (9,2)
+#. Contains choice at line 3 (2 options)
+#. ID 7, Page 3, Line 20, Pos (9,2)
+#. Contains choice at line 3 (2 options)
+#. ID 7, Page 5, Line 17, Pos (9,2)
+#. Contains choice at line 3 (2 options)
+#. ID 7, Page 7, Line 14, Pos (9,2)
+#. Contains choice at line 3 (2 options)
+#. ID 8, Page 1, Line 17, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+#. ID 8, Page 3, Line 19, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+#. ID 8, Page 5, Line 13, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+#. ID 8, Page 7, Line 23, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+#. ID 10, Page 1, Line 22, Pos (16,6)
+#. Contains choice at line 3 (2 options)
+#. ID 10, Page 3, Line 16, Pos (16,6)
+#. Contains choice at line 3 (2 options)
+#. ID 10, Page 5, Line 11, Pos (16,6)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 1, Line 48, Pos (5,8)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 3, Line 28, Pos (5,8)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 5, Line 16, Pos (5,8)
+#. Contains choice at line 3 (2 options)
+#. ID 23, Page 1, Line 23, Pos (13,6)
+#. Contains choice at line 3 (2 options)
+#. ID 23, Page 3, Line 12, Pos (13,6)
+#. Contains choice at line 3 (2 options)
+#. ID 23, Page 5, Line 30, Pos (13,6)
+#. Contains choice at line 3 (2 options)
+#. ID 25, Page 1, Line 16, Pos (13,8)
+#. Contains choice at line 3 (2 options)
+#. ID 25, Page 3, Line 12, Pos (13,8)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 1, Line 26, Pos (9,8)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 3, Line 23, Pos (9,8)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 5, Line 47, Pos (9,8)
+#. Contains choice at line 3 (2 options)
+#. ID 34, Page 1, Line 20, Pos (1,8)
+#. Contains choice at line 3 (2 options)
+#. ID 34, Page 3, Line 16, Pos (1,8)
+#. Contains choice at line 3 (2 options)
+#. ID 34, Page 5, Line 30, Pos (1,8)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 1, Line 23, Pos (16,4)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 3, Line 20, Pos (16,4)
+#. Contains choice at line 3 (2 options)
+#. ID 42, Page 1, Line 19, Pos (5,4)
+#. Contains choice at line 3 (2 options)
+#. ID 42, Page 3, Line 22, Pos (5,4)
+#. Contains choice at line 3 (2 options)
+#. ID 42, Page 5, Line 18, Pos (5,4)
+#. Contains choice at line 3 (2 options)
+#. ID 42, Page 7, Line 19, Pos (5,4)
+#. Contains choice at line 3 (2 options)
+#. ID 43, Page 1, Line 24, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+#. ID 43, Page 3, Line 23, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+#. ID 43, Page 5, Line 16, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 1, Line 15, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 3, Line 19, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 5, Line 25, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 7, Line 15, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 9, Line 12, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 47, Page 1, Line 22, Pos (1,6)
+#. Contains choice at line 3 (2 options)
+#. ID 47, Page 3, Line 19, Pos (1,6)
+#. Contains choice at line 3 (2 options)
+#. ID 47, Page 5, Line 14, Pos (1,6)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 1, Line 25, Pos (1,2)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 3, Line 24, Pos (1,2)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 5, Line 22, Pos (1,2)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 7, Line 25, Pos (1,2)
+#. Contains choice at line 3 (2 options)
+#. ID 49, Page 1, Line 17, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+#. ID 49, Page 3, Line 19, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+#. ID 49, Page 5, Line 17, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+#. ID 50, Page 1, Line 22, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+#. ID 50, Page 3, Line 26, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+#. ID 50, Page 5, Line 19, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+#. ID 50, Page 7, Line 17, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+#. ID 61, Page 1, Line 17, Pos (16,8)
+#. Contains choice at line 3 (2 options)
+#. ID 61, Page 3, Line 27, Pos (16,8)
+#. Contains choice at line 3 (2 options)
+#. ID 63, Page 1, Line 16, Pos (1,10)
+#. Contains choice at line 3 (2 options)
+#. ID 63, Page 3, Line 30, Pos (1,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"このキャラでいいですか？"
+msgstr "用这个角色可以吗？"
+
+#. ID 6, Page 1, Line 22, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 27, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 3, Line 22, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 3, Line 27, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 5, Line 23, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 5, Line 28, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 7, Line 31, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 7, Line 36, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 19, Pos (9,2)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 25, Pos (9,2)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 3, Line 22, Pos (9,2)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 3, Line 27, Pos (9,2)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 5, Line 19, Pos (9,2)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 5, Line 24, Pos (9,2)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 7, Line 16, Pos (9,2)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 7, Line 21, Pos (9,2)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 19, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 24, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 3, Line 21, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 3, Line 26, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 5, Line 15, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 5, Line 20, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 7, Line 25, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 7, Line 30, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 24, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 29, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 3, Line 18, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 3, Line 24, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 5, Line 13, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 5, Line 18, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 50, Pos (5,8)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 55, Pos (5,8)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 3, Line 30, Pos (5,8)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 3, Line 35, Pos (5,8)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 5, Line 18, Pos (5,8)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 5, Line 23, Pos (5,8)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 117, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 235, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 25, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 30, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 3, Line 14, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 3, Line 19, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 5, Line 32, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 5, Line 37, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+#. ID 25, Page 1, Line 18, Pos (13,8)
+#. Choice (2 options, embedded in a message)
+#. ID 25, Page 1, Line 23, Pos (13,8)
+#. Choice (2 options, embedded in a message)
+#. ID 25, Page 3, Line 14, Pos (13,8)
+#. Choice (2 options, embedded in a message)
+#. ID 25, Page 3, Line 19, Pos (13,8)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 28, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 33, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 3, Line 25, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 3, Line 30, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 5, Line 49, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 5, Line 54, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 22, Pos (1,8)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 27, Pos (1,8)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 3, Line 18, Pos (1,8)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 3, Line 23, Pos (1,8)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 5, Line 32, Pos (1,8)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 5, Line 37, Pos (1,8)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 25, Pos (16,4)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 30, Pos (16,4)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 3, Line 22, Pos (16,4)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 3, Line 27, Pos (16,4)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 21, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 26, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 3, Line 24, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 3, Line 29, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 5, Line 20, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 5, Line 25, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 7, Line 21, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 7, Line 26, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 1, Line 26, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 1, Line 31, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 3, Line 25, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 3, Line 30, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 5, Line 18, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 5, Line 23, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 1, Line 17, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 1, Line 22, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 3, Line 21, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 3, Line 26, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 5, Line 27, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 5, Line 32, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 7, Line 17, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 7, Line 22, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 9, Line 14, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 9, Line 19, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 24, Pos (1,6)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 29, Pos (1,6)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 3, Line 21, Pos (1,6)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 3, Line 26, Pos (1,6)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 5, Line 16, Pos (1,6)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 5, Line 21, Pos (1,6)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 1, Line 27, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 1, Line 32, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 3, Line 26, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 3, Line 31, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 5, Line 24, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 5, Line 29, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 7, Line 27, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 7, Line 32, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 1, Line 19, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 1, Line 24, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 3, Line 21, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 3, Line 26, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 5, Line 19, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 5, Line 24, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 24, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 29, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 3, Line 28, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 3, Line 33, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 5, Line 21, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 5, Line 26, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 7, Line 19, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 7, Line 26, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 1, Line 19, Pos (16,8)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 1, Line 24, Pos (16,8)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 3, Line 29, Pos (16,8)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 3, Line 34, Pos (16,8)
+#. Choice (2 options, embedded in a message)
+#. ID 63, Page 1, Line 18, Pos (1,10)
+#. Choice (2 options, embedded in a message)
+#. ID 63, Page 1, Line 23, Pos (1,10)
+#. Choice (2 options, embedded in a message)
+#. ID 63, Page 3, Line 32, Pos (1,10)
+#. Choice (2 options, embedded in a message)
+#. ID 63, Page 3, Line 37, Pos (1,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 6, Page 1, Line 25, Pos (13,4)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 3, Line 25, Pos (13,4)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 5, Line 26, Pos (13,4)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 7, Line 34, Pos (13,4)
+#. Contains choice at line 3 (2 options)
+#. ID 7, Page 1, Line 23, Pos (9,2)
+#. Contains choice at line 3 (2 options)
+#. ID 7, Page 3, Line 25, Pos (9,2)
+#. Contains choice at line 3 (2 options)
+#. ID 7, Page 5, Line 22, Pos (9,2)
+#. Contains choice at line 3 (2 options)
+#. ID 7, Page 7, Line 19, Pos (9,2)
+#. Contains choice at line 3 (2 options)
+#. ID 8, Page 1, Line 22, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+#. ID 8, Page 3, Line 24, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+#. ID 8, Page 5, Line 18, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+#. ID 8, Page 7, Line 28, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+#. ID 10, Page 1, Line 27, Pos (16,6)
+#. Contains choice at line 3 (2 options)
+#. ID 10, Page 3, Line 22, Pos (16,6)
+#. Contains choice at line 3 (2 options)
+#. ID 10, Page 5, Line 16, Pos (16,6)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 1, Line 53, Pos (5,8)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 3, Line 33, Pos (5,8)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 5, Line 21, Pos (5,8)
+#. Contains choice at line 3 (2 options)
+#. ID 23, Page 1, Line 28, Pos (13,6)
+#. Contains choice at line 3 (2 options)
+#. ID 23, Page 3, Line 17, Pos (13,6)
+#. Contains choice at line 3 (2 options)
+#. ID 23, Page 5, Line 35, Pos (13,6)
+#. Contains choice at line 3 (2 options)
+#. ID 25, Page 1, Line 21, Pos (13,8)
+#. Contains choice at line 3 (2 options)
+#. ID 25, Page 3, Line 17, Pos (13,8)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 1, Line 31, Pos (9,8)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 3, Line 28, Pos (9,8)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 5, Line 52, Pos (9,8)
+#. Contains choice at line 3 (2 options)
+#. ID 34, Page 1, Line 25, Pos (1,8)
+#. Contains choice at line 3 (2 options)
+#. ID 34, Page 3, Line 21, Pos (1,8)
+#. Contains choice at line 3 (2 options)
+#. ID 34, Page 5, Line 35, Pos (1,8)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 1, Line 28, Pos (16,4)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 3, Line 25, Pos (16,4)
+#. Contains choice at line 3 (2 options)
+#. ID 42, Page 1, Line 24, Pos (5,4)
+#. Contains choice at line 3 (2 options)
+#. ID 42, Page 3, Line 27, Pos (5,4)
+#. Contains choice at line 3 (2 options)
+#. ID 42, Page 5, Line 23, Pos (5,4)
+#. Contains choice at line 3 (2 options)
+#. ID 42, Page 7, Line 24, Pos (5,4)
+#. Contains choice at line 3 (2 options)
+#. ID 43, Page 1, Line 29, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+#. ID 43, Page 3, Line 28, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+#. ID 43, Page 5, Line 21, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 1, Line 20, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 3, Line 24, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 5, Line 30, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 7, Line 20, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 45, Page 9, Line 17, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+#. ID 47, Page 1, Line 27, Pos (1,6)
+#. Contains choice at line 3 (2 options)
+#. ID 47, Page 3, Line 24, Pos (1,6)
+#. Contains choice at line 3 (2 options)
+#. ID 47, Page 5, Line 19, Pos (1,6)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 1, Line 30, Pos (1,2)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 3, Line 29, Pos (1,2)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 5, Line 27, Pos (1,2)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 7, Line 30, Pos (1,2)
+#. Contains choice at line 3 (2 options)
+#. ID 49, Page 1, Line 22, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+#. ID 49, Page 3, Line 24, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+#. ID 49, Page 5, Line 22, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+#. ID 50, Page 1, Line 27, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+#. ID 50, Page 3, Line 31, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+#. ID 50, Page 5, Line 24, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+#. ID 50, Page 7, Line 24, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+#. ID 61, Page 1, Line 22, Pos (16,8)
+#. Contains choice at line 3 (2 options)
+#. ID 61, Page 3, Line 32, Pos (16,8)
+#. Contains choice at line 3 (2 options)
+#. ID 63, Page 1, Line 21, Pos (1,10)
+#. Contains choice at line 3 (2 options)
+#. ID 63, Page 3, Line 35, Pos (1,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"名前を変更しますか？"
+msgstr "要更改名字吗？"
+
+#. ID 6, Page 3, Line 7, Pos (13,4)
+msgid ""
+"\n"
+"Name :\\N[32]\n"
+"Class:魔導師の卵\n"
+"Type :魔法型"
+msgstr "Name :\\N[32]Class:魔导师之卵Type :魔法型"
+
+#. ID 6, Page 3, Line 13, Pos (13,4)
+msgid ""
+"\n"
+"タレント　「大打撃」\n"
+"　攻撃魔法使用時にもクリティカルヒット、\n"
+"　連続攻撃が発生する。"
+msgstr ""
+"天赋　「重击」　使用攻击魔法时也会暴击，\n"
+"　并触发连续攻击。"
+
+#. ID 6, Page 3, Line 17, Pos (13,4)
+msgid ""
+"\n"
+"杖、鎖鎌、鉄球、フレイル以外の武器を\n"
+"装備できない。"
+msgstr "无法装备杖、锁镰、铁球、链枷以外的武器。"
+
+#. ID 6, Page 5, Line 8, Pos (13,4)
+msgid ""
+"\n"
+"Name :\\N[27]\n"
+"Class:半妖\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[27]Class:半妖Type :魔法战士型"
+
+#. ID 6, Page 5, Line 12, Pos (13,4)
+#. ID 6, Page 7, Line 19, Pos (13,4)
+#. ID 31, Page 5, Line 14, Pos (9,8)
+#. ID 36, Page 1, Line 10, Pos (16,4)
+#. ID 42, Page 3, Line 11, Pos (5,4)
+#. ID 43, Page 1, Line 18, Pos (9,6)
+#. ID 43, Page 3, Line 17, Pos (9,6)
+#. ID 48, Page 7, Line 19, Pos (1,2)
+#. ID 50, Page 3, Line 19, Pos (5,2)
+msgid ""
+"\n"
+"上級者向け"
+msgstr "面向高级玩家"
+
+#. ID 6, Page 5, Line 14, Pos (13,4)
+msgid ""
+"\n"
+"タレント　「妖魔化」\n"
+"　妖魔化する。"
+msgstr "天赋　「妖魔化」　进行妖魔化。"
+
+#. ID 6, Page 5, Line 17, Pos (13,4)
+msgid ""
+"　\n"
+"妖魔化中は妖魔武具の能力を使用できるが、\n"
+"敵を倒しても経験値を得られない。\n"
+"妖魔化を解除すると衰弱が進行する。"
+msgstr ""
+"　妖魔化期间可以使用妖魔武具的能力，\n"
+"但即使打倒敌人也无法获得经验值。\n"
+"解除妖魔化后衰弱会加剧。"
+
+#. ID 6, Page 7, Line 12, Pos (13,4)
+msgid ""
+"\n"
+"Name :\\N[64]\n"
+"Class:メカニック\n"
+"Type :その他型"
+msgstr "Name :\\N[64]Class:机械师Type :其他型"
+
+#. ID 6, Page 7, Line 16, Pos (13,4)
+msgid ""
+"\n"
+"「バキューン！バキューン！\n"
+"　ダカダカダカダカ！」"
+msgstr "「砰！砰！　哒哒哒哒！」"
+
+#. ID 6, Page 7, Line 21, Pos (13,4)
+msgid ""
+"タレント　「トリガーハッピー」\n"
+"　銃攻撃時、弾が敵を追尾する。\n"
+"　たまに弾薬を消費しない。\n"
+"　一部の弾のリロード数が銃の弾薬装填数になる。"
+msgstr ""
+"天赋　「扳机狂人」　枪攻击时，子弹会追踪敌人。\n"
+"　偶尔不消耗弹药。\n"
+"　部分子弹的装填数会变为枪的弹药装填数。"
+
+#. ID 6, Page 7, Line 25, Pos (13,4)
+msgid ""
+"　\n"
+"攻撃力、魔力が低め。\n"
+"攻撃力の成長が一定値で止まる。\n"
+"装備品の制限が強い。"
+msgstr ""
+"　攻击力、魔力偏低。攻击力成长会在一定值停止。\n"
+"装备品限制很强。"
+
+#. ID 6, Page 7, Line 39, Pos (13,4)
+#. Condition (Actor Name = テトラ)
+msgctxt "actors.name"
+msgid "テトラ"
+msgstr "泰特拉"
+
+#. ID 7, Page 1, Line 7, Pos (9,2)
+msgid ""
+"\n"
+"Name :\\N[6]\n"
+"Class:帝国軽装歩兵\n"
+"Type :戦士型"
+msgstr "Name :\\N[6]Class:帝国轻装步兵Type :战士型"
+
+#. ID 7, Page 1, Line 13, Pos (9,2)
+msgid ""
+"\n"
+"タレント　「ひらめき」\n"
+"　20%の確率で敵の通常攻撃を見切り、\n"
+"　ダメージを0にする。"
+msgstr ""
+"天赋　「灵光一闪」\n"
+"　有20%概率看破敌人的普通攻击，　使伤害变为0。"
+
+#. ID 7, Page 3, Line 9, Pos (9,2)
+msgid ""
+"\n"
+"Name :\\N[8]\n"
+"Class:賢者\n"
+"Type :魔法型"
+msgstr "Name :\\N[8]Class:贤者Type :魔法型"
+
+#. ID 7, Page 3, Line 13, Pos (9,2)
+#. ID 8, Page 1, Line 12, Pos (9,4)
+#. ID 8, Page 3, Line 13, Pos (9,4)
+#. ID 15, Page 1, Line 19, Pos (5,8)
+#. ID 15, Page 5, Line 11, Pos (5,8)
+#. ID 23, Page 1, Line 6, Pos (13,6)
+#. ID 23, Page 3, Line 7, Pos (13,6)
+#. ID 23, Page 5, Line 15, Pos (13,6)
+#. ID 25, Page 1, Line 6, Pos (13,8)
+#. ID 31, Page 1, Line 20, Pos (9,8)
+#. ID 31, Page 3, Line 6, Pos (9,8)
+#. ID 34, Page 3, Line 6, Pos (1,8)
+#. ID 42, Page 1, Line 13, Pos (5,4)
+#. ID 42, Page 5, Line 11, Pos (5,4)
+#. ID 45, Page 5, Line 19, Pos (1,4)
+#. ID 47, Page 1, Line 10, Pos (1,6)
+#. ID 47, Page 3, Line 13, Pos (1,6)
+#. ID 48, Page 1, Line 16, Pos (1,2)
+#. ID 48, Page 3, Line 19, Pos (1,2)
+#. ID 50, Page 7, Line 11, Pos (5,2)
+#. ID 61, Page 1, Line 12, Pos (16,8)
+msgid ""
+"\n"
+"中級者向け"
+msgstr "面向中级玩家"
+
+#. ID 7, Page 3, Line 15, Pos (9,2)
+msgid ""
+"\n"
+"タレント　「悟り」\n"
+"　消費MPが通常の70%となる。"
+msgstr "天赋　「悟道」　消耗魔法值变为通常的70%。"
+
+#. ID 7, Page 3, Line 18, Pos (9,2)
+msgid ""
+"\n"
+"一部の剣、槍、鎧、盾を装備可能。"
+msgstr "可装备部分剑、枪、铠甲、盾。"
+
+#. ID 7, Page 5, Line 9, Pos (9,2)
+msgid ""
+"\n"
+"Name :\\N[46]\n"
+"Class:光輝の末裔\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[46]Class:光辉后裔Type :魔法战士型"
+
+#. ID 7, Page 5, Line 13, Pos (9,2)
+msgid ""
+"\n"
+"タレント　「ホークナイト」\n"
+"　水上でのペナルティを受けない。\n"
+"　一部トラップを回避する確率が上昇。"
+msgstr ""
+"天赋　「鹰骑士」　不受水上惩罚。\n"
+"　回避部分陷阱的概率上升。"
+
+#. ID 7, Page 7, Line 2, Pos (9,2)
+msgid ""
+"\n"
+"Name :\\N[37]\n"
+"Class:珠魅\n"
+"Type :一般人型"
+msgstr "Name :\\N[37]Class:珠魅Type :普通人型"
+
+#. ID 7, Page 7, Line 6, Pos (9,2)
+msgid ""
+"\n"
+"廃人向け"
+msgstr "面向废人玩家"
+
+#. ID 7, Page 7, Line 8, Pos (9,2)
+msgid ""
+"\n"
+"タレント　なし"
+msgstr "天赋　无"
+
+#. ID 7, Page 7, Line 10, Pos (9,2)
+msgid ""
+"\n"
+"全ての能力値が非常に低い。\n"
+"強力な武器、防具、魔法を装備できない。\n"
+"大剣、斧、鎧、重鎧を装備できない。"
+msgstr ""
+"所有能力值都非常低。无法装备强力武器、防具、\n"
+"魔法。无法装备大剑、斧、铠甲、重铠。"
+
+#. ID 8, Page 1, Line 8, Pos (9,4)
+msgid ""
+"\n"
+"Name :\\N[47]\n"
+"Class:世界樹の番人\n"
+"Type :戦士型"
+msgstr "Name :\\N[47]Class:世界树守护者Type :战士型"
+
+#. ID 8, Page 1, Line 14, Pos (9,4)
+msgid ""
+"\n"
+"タレント　「エクスフィア」\n"
+"1/3の確立で物理被Dmを防御力分減少させる。"
+msgstr ""
+"天赋　「艾克斯菲亚」\n"
+"有1/3的概率使受到的物理伤害减少防御力对应的数\n"
+"值。"
+
+#. ID 8, Page 3, Line 9, Pos (9,4)
+msgid ""
+"\n"
+"Name :\\N[22]\n"
+"Class:カースメーカー\n"
+"Type :魔法型"
+msgstr "Name :\\N[22]Class:诅咒师Type :魔法型"
+
+#. ID 8, Page 3, Line 15, Pos (9,4)
+msgid ""
+"\n"
+"タレント　「呪言マスタリー」\n"
+"　呪言を使用可能・呪い効果を無効化\n"
+"　(寄生虫・機械装置・拘束具除く)"
+msgstr ""
+"天赋　「咒言精通」\n"
+"　可使用咒言・无效化诅咒效果　(寄生虫・机械装\n"
+"　置・拘束具除外)"
+
+#. ID 8, Page 5, Line 3, Pos (9,4)
+msgid ""
+"\n"
+"Name :\\N[48]\n"
+"Class:ディガー\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[48]Class:挖掘者Type :魔法战士型"
+
+#. ID 8, Page 5, Line 7, Pos (9,4)
+msgid ""
+"\n"
+"○級者向け"
+msgstr "面向○级玩家"
+
+#. ID 8, Page 5, Line 9, Pos (9,4)
+msgid ""
+"\n"
+"タレント　「ナイツの血筋」　\n"
+"　杖が得意武器であり、\n"
+"　晩成型で物理戦闘力が伸びる。"
+msgstr ""
+"天赋　「骑士血脉」　　杖是擅长武器，\n"
+"　属于晚成型，物理战斗力会成长。"
+
+#. ID 8, Page 7, Line 7, Pos (9,4)
+msgid ""
+"\n"
+"Name :\\N[63]\n"
+"Class:騎空士\n"
+"Type :万能型"
+msgstr "Name :\\N[63]Class:骑空士Type :万能型"
+
+#. ID 8, Page 7, Line 13, Pos (9,4)
+msgid ""
+"\n"
+"タレント：歴戦の騎空士"
+msgstr "天赋：历战骑空士"
+
+#. ID 8, Page 7, Line 15, Pos (9,4)
+msgid ""
+"\n"
+"メリット：\n"
+"装備できる武具、魔法に制限が無い。\n"
+"重鎧のペナルティ無効。全ての武器が得意。"
+msgstr ""
+"优点：可装备的武具、魔法没有限制。\n"
+"重铠惩罚无效。擅长所有武器。"
+
+#. ID 8, Page 7, Line 19, Pos (9,4)
+msgid ""
+"\n"
+"デメリット：\n"
+"レベルアップに必要な経験値が1.5倍。\n"
+"性感適正ポイントが多い。"
+msgstr ""
+"缺点：升级所需经验值为1.5倍。\n"
+"性感适正点数较多。"
+
+#. ID 10, Page 1, Line 12, Pos (16,6)
+msgid ""
+"\n"
+"Name :\\N[17]\n"
+"Class:女格闘家\n"
+"Type :戦士型"
+msgstr "Name :\\N[17]Class:女格斗家Type :战士型"
+
+#. ID 10, Page 1, Line 18, Pos (16,6)
+msgid ""
+"\n"
+"タレント　「ザンガン流格闘術」\n"
+"　武器溜め速度+1 クリティカル率+5%\n"
+"　格闘武器が得意。"
+msgstr ""
+"天赋　「斩岩流格斗术」\n"
+"　武器蓄力速度+1 暴击率+5%　擅长格斗武器。"
+
+#. ID 10, Page 3, Line 7, Pos (16,6)
+msgid ""
+"\n"
+"Name :\\N[9]\n"
+"Class:飛翼族\n"
+"Type :純魔法型"
+msgstr "Name :\\N[9]Class:飞翼族Type :纯魔法型"
+
+#. ID 10, Page 3, Line 13, Pos (16,6)
+msgid ""
+"\n"
+"タレント　「 きりょく」\n"
+"　HPをMPに変換できる。"
+msgstr "天赋　「 气力」　可将HP转换为MP。"
+
+#. ID 10, Page 5, Line 2, Pos (16,6)
+msgid ""
+"\n"
+"Name :\\N[58]\n"
+"Class:ホーリーナイト\n"
+"Type :魔法戦士・僧侶型"
+msgstr "Name :\\N[58]Class:圣骑士Type :魔法战士・僧侣型"
+
+#. ID 10, Page 5, Line 8, Pos (16,6)
+msgid ""
+"\n"
+"タレント　「聖剣技」\n"
+"　剣、大剣装備時に必殺技が変化する。"
+msgstr "天赋　「圣剑技」　装备剑、大剑时必杀技会变化。"
+
+#. ID 15, Page 1, Line 15, Pos (5,8)
+msgid ""
+"\n"
+"Name :\\N[16]\n"
+"Class:統制機構少尉\n"
+"Type :戦士型"
+msgstr "Name :\\N[16]Class:统制机构少尉Type :战士型"
+
+#. ID 15, Page 3, Line 7, Pos (5,8)
+msgid ""
+"\n"
+"Name :\\N[19]\n"
+"Class:吸血鬼\n"
+"Type :魔法型"
+msgstr "Name :\\N[19]Class:吸血鬼Type :魔法型"
+
+#. ID 15, Page 3, Line 13, Pos (5,8)
+msgid ""
+"\n"
+"タレント　「吸血鬼」「浮遊」　\n"
+"　必要経験値が通常の150%となる。\n"
+"　ランダムトラップを無効化。"
+msgstr ""
+"天赋　「吸血鬼」「浮游」\n"
+"　　所需经验值变为通常的150%。\n"
+"　使随机陷阱无效。"
+
+#. ID 15, Page 3, Line 17, Pos (5,8)
+msgid ""
+"\n"
+"　格闘武器で攻撃した際に敵を衰弱させ、\n"
+"　HPとMPを吸収する。またダメージも増加する。\n"
+"　吸収攻撃を受けても敵のHPが回復しない。"
+msgstr ""
+"　用格斗武器攻击时会使敌人衰弱，　吸收HP和MP。\n"
+"　而且伤害也会增加。　即使受到吸收攻击，\n"
+"　敌人的HP也不会恢复。"
+
+#. ID 15, Page 3, Line 21, Pos (5,8)
+msgid ""
+"\n"
+"　鎌のバックファイアを受けない。\n"
+"　一部の呪い装備のペナルティを受けない。"
+msgstr "　不受镰刀的反噬。　不受部分诅咒装备的惩罚。"
+
+#. ID 15, Page 3, Line 24, Pos (5,8)
+msgid ""
+"\n"
+"　神聖属性ダメージ200%。\n"
+"　火炎属性、銀製、\n"
+"　若しくは祝福された武具を装備できない。"
+msgstr ""
+"　神圣属性伤害200%。　无法装备火炎属性、银制、\n"
+"　或受祝福的武具。"
+
+#. ID 15, Page 5, Line 7, Pos (5,8)
+msgid ""
+"\n"
+"Name :\\N[60]\n"
+"Class:蒼の剣士\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[60]Class:苍之剑士Type :魔法战士型"
+
+#. ID 15, Page 5, Line 13, Pos (5,8)
+msgid ""
+"\n"
+"タレント　「蒼の剣」\n"
+"　魔法剣の威力上昇、維持MPを0にする。"
+msgstr ""
+"天赋　「苍之剑」　魔法剑威力上升，\n"
+"维持MP变为0。"
+
+#. ID 22, Page 1, Line 8, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"初期設定方法を選択してください。"
+msgstr "请选择初始设定方法。"
+
+#. ID 22, Page 1, Line 10, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>選択肢型　　　　　(初回プレイ時推奨)\n"
+"\\>特殊メニュー型　"
+msgstr ""
+"\\>选项型　　　　　(首次游玩时推荐)\n"
+"\\>特殊菜单型"
+
+#. ID 22, Page 1, Line 12, Pos (19,0)
+msgid ""
+"\n"
+"難易度を選択してください。"
+msgstr "请选择难度。"
+
+#. ID 22, Page 1, Line 14, Pos (19,0)
+#. Choice (4 options)
+msgid ""
+"通常モード　　(ふつう)\n"
+"V-MAXモード 　(やさしい)\n"
+"マニアモード　(むずかしい)\n"
+"シャア専用モード (敵能力値3倍)"
+msgstr ""
+"普通模式　　(普通)\n"
+"V-MAX模式 　(简单)\n"
+"狂热模式　(困难)\n"
+"夏亚专用模式 (敌方能力值3倍)"
+
+#. ID 22, Page 1, Line 33, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"どこでもセーブをONにしますか？\\>\\c[4]（イージーモード）\\c[0]"
+msgstr "要开启随时随地存档吗？\\>\\c[4]（简单模式）\\c[0]"
+
+#. ID 22, Page 1, Line 35, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 55, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 65, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ON\n"
+"OFF"
+msgstr ""
+"ON\n"
+"OFF"
+
+#. ID 22, Page 1, Line 48, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"キャラクターの喋りON/OFF"
+msgstr "角色说话开/关"
+
+#. ID 22, Page 1, Line 50, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ON\\>(ゲームのテンポが損なわれます)\n"
+"OFF"
+msgstr ""
+"开\\>(会损害游戏节奏)\n"
+"关"
+
+#. ID 22, Page 1, Line 53, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"顔グラフィックを表示しますか？"
+msgstr "要显示脸部图像吗？"
+
+#. ID 22, Page 1, Line 63, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"歩行時の独白を表示しますか？"
+msgstr "要显示步行时的独白吗？"
+
+#. ID 22, Page 1, Line 73, Pos (19,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\>男モブの責め台詞"
+msgstr "\\>男性路人角色的责难台词"
+
+#. ID 22, Page 1, Line 74, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>ON\n"
+"\\>OFF"
+msgstr ""
+"\\>ON\n"
+"\\>OFF"
+
+#. ID 22, Page 1, Line 84, Pos (19,0)
+msgid ""
+"\n"
+"セリフを表示する頻度を設定します（n/10）"
+msgstr "设置显示台词的频率（n/10）"
+
+#. ID 22, Page 1, Line 89, Pos (19,0)
+msgid ""
+"\n"
+"セリフの表示速度を設定します"
+msgstr "设置台词的显示速度"
+
+#. ID 22, Page 1, Line 92, Pos (19,0)
+#. Choice (2 options)
+msgid ""
+"通常表示\n"
+"瞬間表示"
+msgstr ""
+"通常显示\n"
+"瞬间显示"
+
+#. ID 22, Page 1, Line 94, Pos (19,0)
+msgid ""
+"表示速度\n"
+"　早い 0←　→9 遅い"
+msgstr "显示速度　快 0←　→9 慢"
+
+#. ID 22, Page 1, Line 99, Pos (19,0)
+msgid ""
+"表示後のウェイト\n"
+"　短い 0←　→6 長い"
+msgstr "显示后等待　短 0←　→6 长"
+
+#. ID 22, Page 1, Line 111, Pos (19,0)
+msgid ""
+"\\n[102]テスト\\n[103]\n"
+"\\n[102]あいうえおかきくけこさしすせそたちつてと\\n[103]\n"
+"\\n[102]０１２３４５６７８９\\n[103]\n"
+"\\n[102]ABCDEFGHIJKLMNOPQRSTUVWXYZ\\n[103]\\n[104]\\^"
+msgstr ""
+"\n"
+"[102]测试\n"
+"[103]\n"
+"\n"
+"[102]あいうえおかきくけこさしすせそたちつてと\n"
+"[103]\n"
+"\n"
+"[102]0123456789\n"
+"[103]\n"
+"\n"
+"[102]ABCDEFGHIJKLMNOPQRSTUVWXYZ\n"
+"[103]\n"
+"[104]\\^"
+
+#. ID 22, Page 1, Line 115, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"この速度でよろしいですか？"
+msgstr "这个速度可以吗？"
+
+#. ID 22, Page 1, Line 131, Pos (19,0)
+msgid ""
+"\n"
+"立ち絵、バストアップ等を表示しますか？"
+msgstr "要显示立绘、半身像等吗？"
+
+#. ID 22, Page 1, Line 133, Pos (19,0)
+#. Choice (3 options)
+msgid ""
+"はい\n"
+"いいえ\n"
+"特定状況下でのみ表示する"
+msgstr ""
+"是\n"
+"否\n"
+"仅在特定情况下显示"
+
+#. ID 22, Page 1, Line 142, Pos (19,0)
+#. ChangeHeroName (Actor 101)
+#. ID 22, Page 1, Line 143, Pos (19,0)
+#. ChangeHeroName (Actor 102)
+#. ID 22, Page 1, Line 144, Pos (19,0)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "OFF"
+msgstr "关"
+
+#. ID 22, Page 1, Line 146, Pos (19,0)
+#. ChangeHeroName (Actor 101)
+#. ID 22, Page 1, Line 150, Pos (19,0)
+#. ChangeHeroName (Actor 102)
+#. ID 22, Page 1, Line 154, Pos (19,0)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "ON"
+msgstr "开"
+
+#. ID 22, Page 1, Line 157, Pos (19,0)
+#. Choice (4 options)
+msgid ""
+"\\>街中　　　　　　　　　 \\n[101]\n"
+"\\>戦闘中　　　　　　　　 \\n[102]\n"
+"\\>エッチイベント中　　　 \\n[103]\n"
+"\\>完了"
+msgstr ""
+"\\>城镇中　　　　　　　　　 \\n[101]\n"
+"\\>战斗中　　　　　　　　 \\n[102]\n"
+"\\>色情事件中　　　 \\n[103]\n"
+"\\>完成"
+
+#. ID 22, Page 1, Line 198, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"妊娠・出産系イベント"
+msgstr "怀孕・分娩类事件"
+
+#. ID 22, Page 1, Line 200, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"あり\n"
+"なし"
+msgstr ""
+"有\n"
+"无"
+
+#. ID 22, Page 1, Line 234, Pos (19,0)
+#. Contains choice at line 2 (2 options)
+msgid "操作説明を聞きますか？"
+msgstr "要听操作说明吗？"
+
+#. ID 22, Page 1, Line 240, Pos (19,0)
+msgid ""
+"＜操作方法＞\n"
+"[Z] : 武器攻撃　　　[X] : メニュー  \n"
+"Shift : 魔法　　　　矢印キー : 移動"
+msgstr ""
+"＜操作方法＞[Z] : 武器攻击　　　[X] : 菜单  Sh\n"
+"ift : 魔法　　　　方向键 : 移动"
+
+#. ID 22, Page 1, Line 243, Pos (19,0)
+msgid ""
+"\n"
+"※魔法は予め特殊メニューで\n"
+"　装備しておく必要があります。"
+msgstr "※魔法需要预先在特殊菜单中　装备好。"
+
+#. ID 22, Page 1, Line 246, Pos (19,0)
+msgid ""
+"画面左上 :ステータスウィンドウ\n"
+"H:プレイヤーのHP。0になるとゲームオーバー。\n"
+"M:プレイヤーのMP。魔法を使うために必要。"
+msgstr ""
+"画面左上 :状态窗口H:玩家的HP。\n"
+"变为0则游戏结束。M:玩家的MP。使用魔法所需。"
+
+#. ID 22, Page 1, Line 249, Pos (19,0)
+msgid ""
+"P:パワーゲージ。\n"
+"攻撃/魔法キーを押し続けるとゲージが溜まる。\n"
+"ゲージに応じて攻撃時の威力が増加していく。\n"
+"最大まで溜めると特殊攻撃が発動！"
+msgstr ""
+"P:力量槽。持续按住攻击/魔法键会积攒槽。\n"
+"根据槽量，攻击时的威力会增加。\n"
+"积攒到最大会发动特殊攻击！"
+
+#. ID 22, Page 1, Line 284, Pos (19,0)
+#. Choice (2 options)
+msgid ""
+"オープニングを見る\n"
+"オープニングを見ない"
+msgstr ""
+"观看开场\n"
+"不观看开场"
+
+#. ID 23, Page 1, Line 2, Pos (13,6)
+msgid ""
+"\n"
+"Name :\\N[13]\n"
+"Class:上級妖魔\n"
+"Type :戦士型"
+msgstr "Name :\\N[13]Class:上级妖魔Type :战士型"
+
+#. ID 23, Page 1, Line 8, Pos (13,6)
+#. ID 31, Page 3, Line 8, Pos (9,8)
+#. ID 42, Page 3, Line 14, Pos (5,4)
+msgid ""
+"\n"
+"タレント　「妖魔」\n"
+"　レベルアップしてもHPとMP以外成長しない。\n"
+"　妖魔武具で敵の能力をコピーすることができる。"
+msgstr ""
+"天赋　「妖魔」　即使升级，除HP和MP外不会成长。\n"
+"　可以用妖魔武具复制敌人的能力。"
+
+#. ID 23, Page 1, Line 12, Pos (13,6)
+#. ID 31, Page 3, Line 12, Pos (9,8)
+msgid ""
+"\n"
+"タレント　「上級妖魔」\n"
+"　初期能力値が高く、全ての武器防具を装備できる。\n"
+"　必要経験値150％。"
+msgstr ""
+"天赋　「上级妖魔」　初期能力值高，\n"
+"可以装备所有武器防具。　所需经验值150％。"
+
+#. ID 23, Page 1, Line 16, Pos (13,6)
+#. ID 31, Page 3, Line 16, Pos (9,8)
+msgid ""
+"\n"
+"　精神攻撃に対する完全な免疫がある。羞恥しない。\n"
+"　全ての武器が得意。\n"
+"　最初から全ての妖魔武具を所持している。"
+msgstr ""
+"　对精神攻击有完全的免疫。不知羞耻。\n"
+"　擅长所有武器。\n"
+"　从一开始就拥有所有妖魔武具。"
+
+#. ID 23, Page 1, Line 20, Pos (13,6)
+msgid ""
+"\n"
+"タレント　「寵姫」\n"
+"　性的に開発済み。"
+msgstr "天赋　「宠姬」　性方面已开发。"
+
+#. ID 23, Page 3, Line 3, Pos (13,6)
+msgid ""
+"\n"
+"Name :\\N[20]\n"
+"Class:白魔道士\n"
+"Type :僧侶型"
+msgstr "Name :\\N[20]Class:白魔道士Type :僧侣型"
+
+#. ID 23, Page 3, Line 9, Pos (13,6)
+msgid ""
+"\n"
+"タレント　「薄幸のヒロイン」\n"
+"　悪役にさらわれやすい。"
+msgstr "天赋　「薄幸女主角」　容易被反派掳走。"
+
+#. ID 23, Page 5, Line 11, Pos (13,6)
+msgid ""
+"\n"
+"Name :\\N[18]\n"
+"Class:巫女\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[18]Class:巫女Type :魔法战士型"
+
+#. ID 23, Page 5, Line 17, Pos (13,6)
+#. ID 48, Page 1, Line 18, Pos (1,2)
+msgid ""
+"\n"
+"タレント　「大自然の加護」\n"
+"屋外で能力値、自然回復力が高まる　\n"
+"MPの自然回復量が大きい"
+msgstr ""
+"天赋　「大自然的加护」在屋外能力值、\n"
+"自然恢复力提高　MP的自然恢复量较大"
+
+#. ID 23, Page 5, Line 21, Pos (13,6)
+msgid ""
+"\n"
+"タレント　「氷の精霊・コンル」\n"
+"プライムブルーなしでブリザドを使用可能。\n"
+"武器属性が物理か魔法の場合冷気属性になる。"
+msgstr ""
+"天赋　「冰之精灵·康露」\n"
+"无需原初蓝即可使用暴雪。\n"
+"武器属性为物理或魔法时，会变为冷气属性。"
+
+#. ID 23, Page 5, Line 25, Pos (13,6)
+msgid ""
+"\n"
+"冷気耐性が高い。\n"
+"冷気属性攻撃の威力に多少のボーナス。"
+msgstr "冷气耐性高。冷气属性攻击的威力有少量加成。"
+
+#. ID 23, Page 5, Line 28, Pos (13,6)
+msgid ""
+"\n"
+"大剣、盾、重鎧を装備できない"
+msgstr "无法装备大剑、盾、重铠"
+
+#. ID 25, Page 1, Line 2, Pos (13,8)
+msgid ""
+"\n"
+"Name :\\N[29]\n"
+"Class:虎人\n"
+"Type :戦士型"
+msgstr "Name :\\N[29]Class:虎人Type :战士型"
+
+#. ID 25, Page 1, Line 8, Pos (13,8)
+msgid ""
+"\n"
+"タレント　「虎人」\n"
+"　必要経験値80%。上位魔法を使用できる。\n"
+"　メガ、グラビデ、フレアを習得可能。"
+msgstr ""
+"天赋　「虎人」　所需经验值80%。\n"
+"　可以使用上位魔法。\n"
+"　可以习得超级魔法、重力、核爆。"
+
+#. ID 25, Page 1, Line 12, Pos (13,8)
+msgid ""
+"\n"
+"\n"
+"　鎧、重鎧を装備できない。\n"
+"　杖、槍、格闘以外の武器は熟練度が伸びにくい。"
+msgstr ""
+"　无法装备铠甲、重铠。　杖、枪、\n"
+"　格斗以外的武器熟练度难以提升。"
+
+#. ID 25, Page 3, Line 8, Pos (13,8)
+msgid ""
+"\n"
+"Name :\\N[54]\n"
+"Class:特務支援課\n"
+"Type :魔法型"
+msgstr "Name :\\N[54]Class:特务支援课Type :魔法型"
+
+#. ID 31, Page 1, Line 7, Pos (9,8)
+#. Condition (Actor Name = 乙音)
+msgctxt "actors.name"
+msgid "乙音"
+msgstr "乙音"
+
+#. ID 31, Page 1, Line 8, Pos (9,8)
+msgid ""
+"\n"
+"Name :乙音（おとね）\n"
+"Class:裏玄武頭領\n"
+"Type :戦士型"
+msgstr "Name :乙音Class:里玄武头领Type :战士型"
+
+#. ID 31, Page 1, Line 14, Pos (9,8)
+msgid ""
+"\n"
+"Name :\\N[28]\n"
+"Class:裏玄武頭領\n"
+"Type :戦士型"
+msgstr "Name :\\N[28]Class:里玄武头领Type :战士型"
+
+#. ID 31, Page 1, Line 22, Pos (9,8)
+msgid ""
+"\n"
+"タレント　「電瞬」\n"
+"  防御面で劣るが、\n"
+"　ＨＰ低下時でも移動速度が落ちない。"
+msgstr ""
+"天赋　「电瞬」  防御方面较差，　但即使HP降低，\n"
+"移动速度也不会下降。"
+
+#. ID 31, Page 3, Line 2, Pos (9,8)
+msgid ""
+"\n"
+"Name :\\N[14]\n"
+"Class:上級妖魔\n"
+"Type :魔法型"
+msgstr "Name :\\N[14]Class:上级妖魔Type :魔法型"
+
+#. ID 31, Page 3, Line 20, Pos (9,8)
+msgid ""
+"\n"
+"タレント　「元寵姫」\n"
+"　性的に開発済み。"
+msgstr "天赋　「原宠姬」　性方面已开发。"
+
+#. ID 31, Page 5, Line 10, Pos (9,8)
+msgid ""
+"\n"
+"Name :\\N[61]\n"
+"Class:イブルハンター\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[61]Class:邪恶猎人Type :魔法战士型"
+
+#. ID 31, Page 5, Line 16, Pos (9,8)
+msgid ""
+"\n"
+"タレント　「陽の愛し仔」\n"
+"　ファイア、サンシャイン、クイック、ホーリー、\n"
+"　フレイムセイバー、セイントセイバーを初期使用可"
+msgstr ""
+"天赋　「太阳的宠儿」　火焰、阳光、快速、圣光、\n"
+"　火焰剑、圣剑可初期使用"
+
+#. ID 31, Page 5, Line 20, Pos (9,8)
+msgid ""
+"\n"
+"\n"
+"　以下の３条件のどれかを満たす毎に（重複可）\n"
+"　クリティカル＋６％、連続攻撃確率＋３％"
+msgstr ""
+"　每满足以下3个条件中的任意一个（可重复）\n"
+"　　暴击＋6％、连续攻击概率＋3％"
+
+#. ID 31, Page 5, Line 24, Pos (9,8)
+msgid ""
+"\n"
+"\n"
+"　「武器の属性が聖か炎になっているとき」\n"
+"　「銀製武器装備時」「片手剣か小剣装備時」"
+msgstr ""
+"　「武器属性为圣或炎时」　「装备银制武器时」\n"
+"　「装备单手剑或小剑时」"
+
+#. ID 31, Page 5, Line 28, Pos (9,8)
+msgid ""
+"\n"
+"\n"
+"　武器の溜め攻撃が早く出せる"
+msgstr "　武器蓄力攻击可以更快使出"
+
+#. ID 31, Page 5, Line 31, Pos (9,8)
+msgid ""
+"\n"
+"\n"
+"　アンデットに対し与ダメージ増加\n"
+"　幽霊など実体の無い敵を捉えることができる"
+msgstr ""
+"　对不死族造成的伤害增加　可以捕捉幽灵等没有实\n"
+"　体的敌人"
+
+#. ID 31, Page 5, Line 35, Pos (9,8)
+msgid ""
+"\n"
+"\n"
+"　防御系補助魔法と消費アイテム以外の回復手段が\n"
+"　使えない。ＭＰのみ自然回復力が高い"
+msgstr ""
+"　无法使用防御系辅助魔法和消耗道具以外的恢复手\n"
+"　段。仅MP的自然恢复力高"
+
+#. ID 31, Page 5, Line 39, Pos (9,8)
+msgid ""
+"\n"
+"\n"
+"　呪殺、吸収、氷属性に耐性があるが\n"
+"　それ以外の属性には弱い。状態異常にかかりやすい"
+msgstr ""
+"　对咒杀、吸收、冰属性有耐性，\n"
+"　　但对其他属性较弱。容易陷入状态异常"
+
+#. ID 31, Page 5, Line 43, Pos (9,8)
+msgid ""
+"\n"
+"\n"
+"　攻撃力、魔力、ＭＰが非常に高レベルまで成長するが\n"
+"　防御力と精神は全然伸びない。強力な防具の装備不可"
+msgstr ""
+"　攻击力、魔力、MP会成长到非常高的等级，\n"
+"　　但防御力和精神完全不会提升。\n"
+"　不可装备强力防具"
+
+#. ID 34, Page 1, Line 10, Pos (1,8)
+msgid ""
+"\n"
+"Name :\\N[52]\n"
+"Class:鎧羅族\n"
+"Type :純戦士型"
+msgstr "Name :\\N[52]Class:铠罗族Type :纯战士型"
+
+#. ID 34, Page 1, Line 16, Pos (1,8)
+msgid ""
+"\n"
+"タレント　「鎧羅族」\n"
+"　耐久力、自然回復力が高い。毒状態が自然回復し、\n"
+"　肉体系状態異常からの自然回復率が通常の２倍。"
+msgstr ""
+"天赋　「铠罗族」　耐久力、自然恢复力高。\n"
+"毒状态会自然恢复，\n"
+"　肉体类状态异常的自然恢复率为通常的2倍。"
+
+#. ID 34, Page 3, Line 2, Pos (1,8)
+msgid ""
+"\n"
+"Name :\\N[51]\n"
+"Class:踊り子\n"
+"Type :魔法型"
+msgstr "Name :\\N[51]Class:舞娘Type :魔法型"
+
+#. ID 34, Page 3, Line 9, Pos (1,8)
+msgid ""
+"\n"
+"タレント　「踊り子」\n"
+"　魅力が高い。"
+msgstr "天赋　「舞娘」　魅力高。"
+
+#. ID 34, Page 3, Line 12, Pos (1,8)
+msgid ""
+"\n"
+"タレント　「火炎の魔術師」\n"
+"　ファイア、メガの威力が上がり、\n"
+"　消費MPが減る。"
+msgstr ""
+"天赋　「火焰魔术师」\n"
+"　火焰、超级魔法的威力上升，\n"
+"　消耗魔法值减少。"
+
+#. ID 34, Page 5, Line 12, Pos (1,8)
+msgid ""
+"\n"
+"Name :\\N[55]\n"
+"Class:トラベラー\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[55]Class:旅行者Type :魔法战士型"
+
+#. ID 34, Page 5, Line 18, Pos (1,8)
+msgid ""
+"\n"
+"タレント　「旅歩き」\n"
+"　町に帰還した時、野外を歩いた距離など\n"
+"　に応じて経験値を獲得できる。"
+msgstr ""
+"天赋　「徒步旅行」　返回城镇时，\n"
+"根据在野外行走的距离等获得经验值。"
+
+#. ID 34, Page 5, Line 22, Pos (1,8)
+msgid ""
+"\n"
+"タレント　「旅の知識」\n"
+"　毒が自然治癒する。アイテム獲得率2倍。\n"
+"　釣りができる。"
+msgstr ""
+"天赋　「旅行知识」　毒会自然治愈。\n"
+"道具获得率2倍。　可以钓鱼。"
+
+#. ID 34, Page 5, Line 26, Pos (1,8)
+msgid ""
+"\n"
+"\n"
+"　装備の制限が緩い。斧を装備可能。"
+msgstr "　装备限制较宽松。可以装备斧。"
+
+#. ID 36, Page 1, Line 6, Pos (16,4)
+msgid ""
+"\n"
+"Name :\\N[26]\n"
+"Class:侍\n"
+"Type :戦士型"
+msgstr "Name :\\N[26]Class:武士Type :战士型"
+
+#. ID 36, Page 1, Line 12, Pos (16,4)
+msgid ""
+"\n"
+"タレント　「レッツゴー！ブシドー」\n"
+"　攻撃力が非常に高い。\n"
+"　クリティカルヒット及び連続攻撃の発生確率が高い。"
+msgstr ""
+"天赋　「出发！武士道」　攻击力非常高。\n"
+"　暴击及连续攻击的发生概率很高。"
+
+#. ID 36, Page 1, Line 16, Pos (16,4)
+msgid ""
+"\n"
+"20%の確率で敵の攻撃を無効化する (攻撃中除く)。\n"
+"斧・小剣・弩を上手く扱えない。\n"
+"防具の大部分を装備することができない。"
+msgstr ""
+"以20%的概率使敌人的攻击无效 (攻击中除外)。\n"
+"无法熟练使用斧・小剑・弩。无法装备大部分防具。"
+
+#. ID 36, Page 1, Line 20, Pos (16,4)
+msgid ""
+"\n"
+"東洋武器装備時、溜め速度、\n"
+"クリティカル確率、連続攻撃確率上昇。"
+msgstr ""
+"装备东洋武器时，蓄力速度、暴击概率、\n"
+"连续攻击概率上升。"
+
+#. ID 36, Page 3, Line 10, Pos (16,4)
+msgid ""
+"\n"
+"Name :\\N[45]\n"
+"Class:アーリア村娘\n"
+"Type :僧侶型"
+msgstr "Name :\\N[45]Class:阿利亚村姑Type :僧侣型"
+
+#. ID 36, Page 3, Line 14, Pos (16,4)
+msgid ""
+"\n"
+"タレント　「ネーディアン」\n"
+"　回復魔法の消費MPが通常の40%となる"
+msgstr ""
+"天赋　「尼迪亚人」\n"
+"　回复魔法的消耗魔法值变为通常的40%"
+
+#. ID 36, Page 3, Line 17, Pos (16,4)
+msgid ""
+"\n"
+"一部の格闘武器を装備できるが、\n"
+"弓、小剣を装備できない"
+msgstr "可以装备一部分格斗武器，但不能装备弓、小剑"
+
+#. ID 42, Page 1, Line 9, Pos (5,4)
+msgid ""
+"\n"
+"Name :\\N[31]\n"
+"Class:くの一\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[31]Class:女忍者Type :魔法战士型"
+
+#. ID 42, Page 1, Line 15, Pos (5,4)
+msgid ""
+"\n"
+"タレント　「くの一＆霊符使い」\n"
+"　あらゆる攻撃を1/5の確率で回避。\n"
+"　槍・弓・盾・鎧・甲冑を装備できない。"
+msgstr ""
+"天赋　「女忍者与灵符师」\n"
+"　以1/5的概率回避所有攻击。\n"
+"　无法装备枪・弓・盾・铠・甲胄。"
+
+#. ID 42, Page 3, Line 7, Pos (5,4)
+msgid ""
+"\n"
+"Name :\\N[21]\n"
+"Class:水妖\n"
+"Type :魔法型"
+msgstr "Name :\\N[21]Class:水妖Type :魔法型"
+
+#. ID 42, Page 3, Line 18, Pos (5,4)
+msgid ""
+"\n"
+"　水上及び水中でのペナルティを受けない。\n"
+"　水中では能力が向上する。\n"
+"　陸上では移動速度が減少する。"
+msgstr ""
+"　不受水上及水中的惩罚。　在水中能力会提升。\n"
+"　在陆地上移动速度会降低。"
+
+#. ID 42, Page 5, Line 7, Pos (5,4)
+msgid ""
+"\n"
+"Name :\\N[1]\n"
+"Class:魔導戦士\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[1]Class:魔导战士Type :魔法战士型"
+
+#. ID 42, Page 5, Line 14, Pos (5,4)
+msgid ""
+"タレント　「トランス」\n"
+"　発動後15秒の間、武器・魔法ダメージ2倍、\n"
+"　倍速移動・消費MP0の効果を得る。\n"
+"　効果時間終了後、MP0・疲労状態となる。"
+msgstr ""
+"天赋　「转换」　发动后15秒内，\n"
+"　获得武器・魔法伤害2倍、\n"
+"　倍速移动・消耗魔法值0的效果。\n"
+"　效果时间结束后，变为MP0・疲劳状态。"
+
+#. ID 42, Page 7, Line 8, Pos (5,4)
+msgid ""
+"\n"
+"Name :\\N[12]\n"
+"Class:使用人\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[12]Class:佣人Type :魔法战士型"
+
+#. ID 42, Page 7, Line 14, Pos (5,4)
+msgid ""
+"\n"
+"タレント　「精気吸収」　"
+msgstr "天赋　「精气吸收」"
+
+#. ID 42, Page 7, Line 16, Pos (5,4)
+msgid ""
+"\n"
+"　敵撃破時にMPを僅かに回復。\n"
+"　鎌のバックファイアを受けない。"
+msgstr "　击破敌人时略微回复MP。　不受镰刀的反噬。"
+
+#. ID 43, Page 1, Line 14, Pos (9,6)
+msgid ""
+"\n"
+"Name :\\N[44]\n"
+"Class:ガンナー\n"
+"Type :戦士型"
+msgstr "Name :\\N[44]Class:枪手Type :战士型"
+
+#. ID 43, Page 1, Line 20, Pos (9,6)
+msgid ""
+"\n"
+"タレント　「銃マスタリー」　\n"
+"　銃使用時に、ダメージ、クリティカル率、\n"
+"　溜め速度が増加。"
+msgstr ""
+"天赋　「枪械精通」　　使用枪时，伤害、暴击率、\n"
+"　蓄力速度增加。"
+
+#. ID 43, Page 3, Line 13, Pos (9,6)
+msgid ""
+"\n"
+"Name :\\N[30]\n"
+"Class:エスパーガール\n"
+"Type :魔法型"
+msgstr "Name :\\N[30]Class:超能力少女Type :魔法型"
+
+#. ID 43, Page 3, Line 19, Pos (9,6)
+msgid ""
+"\n"
+"タレント　「エスパー」\n"
+"　装備している武器のタイプによって\n"
+"　レベルアップ時の成長率が変化する。"
+msgstr ""
+"天赋　「超能力」　根据装备武器的类型，\n"
+"升级时的成长率会变化。"
+
+#. ID 43, Page 5, Line 8, Pos (9,6)
+msgid ""
+"\n"
+"Name :\\N[53]\n"
+"Class:導師守護役\n"
+"Type :魔法剣士型"
+msgstr "Name :\\N[53]Class:导师守护者Type :魔法剑士型"
+
+#. ID 43, Page 5, Line 14, Pos (9,6)
+msgid ""
+"\n"
+"タレント　「人形使い」(未実装)"
+msgstr "天赋　「人偶师」(未实装)"
+
+#. ID 45, Page 1, Line 3, Pos (1,4)
+msgid ""
+"\n"
+"Name :\\N[33]\n"
+"Class:アーチャー\n"
+"Type :戦士型"
+msgstr "Name :\\N[33]Class:弓手Type :战士型"
+
+#. ID 45, Page 1, Line 9, Pos (1,4)
+msgid ""
+"\n"
+"タレント　「矢の製造」　\n"
+"　MPを消費して矢を作成できる。"
+msgstr "天赋　「箭矢制造」　　可以消耗MP制作箭。"
+
+#. ID 45, Page 1, Line 12, Pos (1,4)
+msgid ""
+"\n"
+"弓装備時、クリティカル率が2倍。\n"
+"弓装備時、攻撃力が更に上昇。"
+msgstr ""
+"装备弓时，暴击率为2倍。装备弓时，\n"
+"攻击力进一步上升。"
+
+#. ID 45, Page 3, Line 8, Pos (1,4)
+msgid ""
+"\n"
+"Name :\\N[11]\n"
+"Class:聖天使\n"
+"Type :魔法型"
+msgstr "Name :\\N[11]Class:圣天使Type :魔法型"
+
+#. ID 45, Page 3, Line 14, Pos (1,4)
+msgid ""
+"\n"
+"タレント　「ルカヴィ」「浮遊」　"
+msgstr "天赋　「卢卡维」「浮游」"
+
+#. ID 45, Page 3, Line 16, Pos (1,4)
+msgid ""
+"\n"
+"　ランダムトラップを自動で回避する。\n"
+"　能力値が高い反面、必要経験値150%。"
+msgstr ""
+"　自动回避随机陷阱。　能力值虽高，\n"
+"　但所需经验值150%。"
+
+#. ID 45, Page 5, Line 15, Pos (1,4)
+msgid ""
+"\n"
+"Name :\\N[2]\n"
+"Class:ルーンナイト\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[2]Class:符文骑士Type :魔法战士型"
+
+#. ID 45, Page 5, Line 21, Pos (1,4)
+msgid ""
+"\n"
+"タレント　「まふうけん」　\n"
+"　20%の確率で\n"
+"　魔法を吸収し、MPを回復する。"
+msgstr ""
+"天赋　「魔封剑」　　以20%的概率　吸收魔法，\n"
+"并回复MP。"
+
+#. ID 45, Page 7, Line 3, Pos (1,4)
+msgid ""
+"\n"
+"Name :\\N[38]\n"
+"Class:るーんないと\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[38]Class:符文骑士Type :魔法战士型"
+
+#. ID 45, Page 7, Line 7, Pos (1,4)
+msgid ""
+"\n"
+"タレント　「まふうけん」　\n"
+"　15%の確率で\n"
+"　魔法を吸収し、MPを回復する。"
+msgstr ""
+"天赋　「魔封剑」　　以15%的概率　吸收魔法，\n"
+"并回复MP。"
+
+#. ID 45, Page 7, Line 11, Pos (1,4)
+msgid ""
+"\n"
+"必要経験値85%。\n"
+"装備できる武器、防具の数が通常より少ない。\n"
+"大剣、槍、一部の鎧、重鎧、一部の盾を装備できない。"
+msgstr ""
+"所需经验值85%。可装备的武器、\n"
+"防具数量比通常更少。无法装备大剑、枪、部分铠、\n"
+"重铠、部分盾。"
+
+#. ID 45, Page 9, Line 2, Pos (1,4)
+msgid ""
+"\n"
+"Name :\\N[50]\n"
+"Class:すっぴん\n"
+"Type :万能型"
+msgstr "Name :\\N[50]Class:素颜Type :万能型"
+
+#. ID 45, Page 9, Line 8, Pos (1,4)
+msgid ""
+"\n"
+"タレント　「すっぴん」　"
+msgstr "天赋　「素颜」"
+
+#. ID 45, Page 9, Line 10, Pos (1,4)
+msgid ""
+"\n"
+"　全てのアイテムを装備できる。"
+msgstr "　可以装备所有道具。"
+
+#. ID 47, Page 1, Line 6, Pos (1,6)
+msgid ""
+"\n"
+"Name :\\N[42]\n"
+"Class:家庭教師\n"
+"Type :戦士型"
+msgstr "Name :\\N[42]Class:家庭教师Type :战士型"
+
+#. ID 47, Page 1, Line 12, Pos (1,6)
+msgid ""
+"\n"
+"タレント　「家庭教師」　\n"
+"　バストが\n"
+"　でかい"
+msgstr "天赋　「家庭教师」　　胸部　很大"
+
+#. ID 47, Page 1, Line 16, Pos (1,6)
+msgid ""
+"タレント　「抜剣覚醒」　\n"
+"　発動後15秒の間、武器・魔法ダメージ2倍、\n"
+"　防御・魔法防御が2倍になり\n"
+"　ほぼ全ての状態異常が常時無効化する効果を得る。"
+msgstr ""
+"天赋　「拔剑觉醒」　　发动后15秒内，\n"
+"　获得武器・魔法伤害2倍、\n"
+"　防御・魔法防御变为2倍，\n"
+"　以及使几乎所有状态异常常时无效化的效果。"
+
+#. ID 47, Page 1, Line 20, Pos (1,6)
+msgid ""
+"　発動中はカルマ値が上昇していき、値が一定値以上\n"
+"　になると、発動中にペナルティを受ける。"
+msgstr ""
+"　发动期间卡尔玛值会持续上升，\n"
+"　当值达到一定值以上　时，发动期间会受到惩罚。"
+
+#. ID 47, Page 3, Line 9, Pos (1,6)
+msgid ""
+"\n"
+"Name :\\N[34]\n"
+"Class:富豪の令嬢\n"
+"Type :魔法型"
+msgstr "Name :\\N[34]Class:富豪千金Type :魔法型"
+
+#. ID 47, Page 3, Line 15, Pos (1,6)
+msgid ""
+"\n"
+"タレント　「足長おじさん」\n"
+"　獲得G、宝箱出現率アップ。\n"
+"　ダンジョン内に存在する宝箱の数が増える。"
+msgstr ""
+"天赋　「长腿叔叔」　获得G、宝箱出现率提升。\n"
+"　地下城内存在的宝箱数量增加。"
+
+#. ID 47, Page 5, Line 2, Pos (1,6)
+msgid ""
+"\n"
+"Name :\\N[24]\n"
+"Class:シャーズ\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[24]Class:沙兹Type :魔法战士型"
+
+#. ID 47, Page 5, Line 8, Pos (1,6)
+msgid ""
+"\n"
+"タレント　「海賊」\n"
+"　物理ダメージ120%。\n"
+"　水上でのペナルティを受けない。"
+msgstr ""
+"天赋　「海盗」　物理伤害120%。\n"
+"　不受水上的惩罚。"
+
+#. ID 47, Page 5, Line 12, Pos (1,6)
+msgid ""
+"\n"
+"斧を装備可能。"
+msgstr "可以装备斧。"
+
+#. ID 48, Page 1, Line 12, Pos (1,2)
+msgid ""
+"\n"
+"Name :\\N[35]\n"
+"Class:巫女\n"
+"Type :戦士型"
+msgstr "Name :\\N[35]Class:巫女Type :战士型"
+
+#. ID 48, Page 1, Line 22, Pos (1,2)
+msgid ""
+"\n"
+"連続攻撃発生率が高い\n"
+"盾、重鎧を装備できない"
+msgstr "连续攻击发生率较高，无法装备盾、重铠"
+
+#. ID 48, Page 3, Line 15, Pos (1,2)
+msgid ""
+"\n"
+"Name :\\N[4]\n"
+"Class:召喚士\n"
+"Type :魔法型"
+msgstr "Name :\\N[4]Class:召唤士Type :魔法型"
+
+#. ID 48, Page 3, Line 21, Pos (1,2)
+msgid ""
+"\n"
+"タレント　「幻獣の加護」　\n"
+"　魔法によるダメージが通常の120%となる。"
+msgstr ""
+"天赋　「幻兽加护」\n"
+"　　魔法造成的伤害变为通常的120%。"
+
+#. ID 48, Page 5, Line 8, Pos (1,2)
+msgid ""
+"\n"
+"Name :\\N[43]\n"
+"Class:女神\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[43]Class:女神Type :魔法战士型"
+
+#. ID 48, Page 5, Line 14, Pos (1,2)
+msgid ""
+"\n"
+"タレント　「女神」　\n"
+"　能力値が高い。\n"
+"　状態異常になりにくい。"
+msgstr ""
+"天赋　「女神」　　能力值很高。\n"
+"　不易陷入状态异常。"
+
+#. ID 48, Page 5, Line 18, Pos (1,2)
+msgid ""
+"\n"
+"　必要経験値150%。\n"
+"　斧を装備できるが、ダメージは常に8。\n"
+"　不浄な武具を装備できない。"
+msgstr ""
+"　所需经验值150%。　可以装备斧，\n"
+"　但伤害始终为8。　无法装备不净的武具。"
+
+#. ID 48, Page 7, Line 15, Pos (1,2)
+msgid ""
+"\n"
+"Name :\\N[10]\n"
+"Class:妖精\n"
+"Type :ようせい"
+msgstr "Name :\\N[10]Class:妖精Type :妖精"
+
+#. ID 48, Page 7, Line 21, Pos (1,2)
+msgid ""
+"\n"
+"タレント　「浮遊」\n"
+"　ランダムトラップを自動で回避する。\n"
+"　移動速度2倍"
+msgstr ""
+"天赋　「浮游」　自动回避随机陷阱。\n"
+"　移动速度2倍"
+
+#. ID 49, Page 1, Line 8, Pos (5,6)
+msgid ""
+"\n"
+"Name :\\N[23]\n"
+"Class:戦士\n"
+"Type :純戦士型"
+msgstr "Name :\\N[23]Class:战士Type :纯战士型"
+
+#. ID 49, Page 1, Line 14, Pos (5,6)
+msgid ""
+"\n"
+"タレント　「武具熟練」\n"
+"　武具のペナルティ効果を無視。"
+msgstr "天赋　「武具熟练」　无视武具的惩罚效果。"
+
+#. ID 49, Page 3, Line 6, Pos (5,6)
+msgid ""
+"\n"
+"Name :\\N[36]\n"
+"Class:マジシャン\n"
+"Type :魔法型"
+msgstr "Name :\\N[36]Class:魔术师Type :魔法型"
+
+#. ID 49, Page 3, Line 12, Pos (5,6)
+msgid ""
+"\n"
+"タレント　「精霊の助け」\n"
+"　ファイアー・ブリザド・サンダーを\n"
+"　プライムブルーを消費することなく使用できる。"
+msgstr ""
+"天赋　「精灵的援助」\n"
+"　可以不消耗原初蓝使用火焰・暴雪・雷电。"
+
+#. ID 49, Page 3, Line 16, Pos (5,6)
+msgid ""
+"\n"
+"一部の格闘武器を装備できるが、\n"
+"小剣、弓を装備できない。"
+msgstr "可以装备部分格斗武器，但不能装备小剑、弓。"
+
+#. ID 49, Page 5, Line 8, Pos (5,6)
+msgid ""
+"\n"
+"Name :\\N[15]\n"
+"Class:おたからハンター\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[15]Class:宝物猎人Type :魔法战士型"
+
+#. ID 49, Page 5, Line 14, Pos (5,6)
+msgid ""
+"\n"
+"タレント　「忍術」\n"
+"　必殺率、連続攻撃率、宝出現率、罠回避率＋ボーナス"
+msgstr ""
+"天赋　「忍术」　必杀率、连续攻击率、\n"
+"宝物出现率、陷阱回避率＋加成"
+
+#. ID 50, Page 1, Line 13, Pos (5,2)
+msgid ""
+"\n"
+"Name :\\N[3]\n"
+"Class:アマゾネス\n"
+"Type :戦士型"
+msgstr "Name :\\N[3]Class:亚马逊女战士Type :战士型"
+
+#. ID 50, Page 1, Line 19, Pos (5,2)
+msgid ""
+"\n"
+"タレント　「風の囁き」\n"
+"　能力値が高い。"
+msgstr "天赋　「风之低语」　能力值很高。"
+
+#. ID 50, Page 3, Line 15, Pos (5,2)
+msgid ""
+"\n"
+"Name :\\N[5]\n"
+"Class:しょうかんし\n"
+"Type :魔法型"
+msgstr "Name :\\N[5]Class:召唤士Type :魔法型"
+
+#. ID 50, Page 3, Line 22, Pos (5,2)
+msgid ""
+"\n"
+"タレント　「せいちょうき」\n"
+"　レベルアップに必要な経験値が\n"
+"　通常の70%となる。"
+msgstr "天赋　「成长期」　升级所需经验值为通常的70%。"
+
+#. ID 50, Page 5, Line 9, Pos (5,2)
+msgid ""
+"\n"
+"Name :\\N[25]\n"
+"Class:侯爵の妹\n"
+"Type :魔法戦士型"
+msgstr "Name :\\N[25]Class:侯爵之妹Type :魔法战士型"
+
+#. ID 50, Page 5, Line 16, Pos (5,2)
+msgid ""
+"\n"
+"タレント　「カリスマ」\n"
+"　？"
+msgstr "天赋　「魅力」　？"
+
+#. ID 50, Page 7, Line 7, Pos (5,2)
+msgid ""
+"\n"
+"Name :\\N[7]\n"
+"Class:すっぴん\n"
+"Type :万能型"
+msgstr "Name :\\N[7]Class:素颜Type :万能型"
+
+#. ID 50, Page 7, Line 14, Pos (5,2)
+msgid ""
+"\n"
+"タレント　「すっぴん」\n"
+"　装備品、アビリティの制限が存在しない。"
+msgstr "天赋　「素颜」　不存在装备品、技能的限制。"
+
+#. ID 56, Page 3, Line 2, Pos (19,1)
+msgid ""
+"\n"
+"現在、このキャラクターは選択できません"
+msgstr "当前无法选择此角色"
+
+#. ID 56, Page 4, Line 3, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 16, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 29, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 42, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 68, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 81, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 94, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 122, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 135, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 148, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 161, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 174, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 187, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 200, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 233, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+#. ID 56, Page 4, Line 246, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"グラフィックの種類"
+msgstr "图像类型"
+
+#. ID 56, Page 4, Line 5, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 4, Line 31, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 4, Line 44, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 4, Line 70, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 4, Line 83, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 4, Line 96, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 4, Line 163, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 4, Line 176, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 4, Line 202, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"←\n"
+"→"
+msgstr ""
+"←\n"
+"→"
+
+#. ID 56, Page 4, Line 18, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 4, Line 57, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"旧\n"
+"新"
+msgstr ""
+"旧\n"
+"新"
+
+#. ID 56, Page 4, Line 55, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"顔グラフィックの種類"
+msgstr "脸部图像类型"
+
+#. ID 56, Page 4, Line 107, Pos (19,1)
+msgid ""
+"\n"
+"\\N[22]は普通の子ですか？"
+msgstr "\\N[22]是普通女孩吗？"
+
+#. ID 56, Page 4, Line 109, Pos (19,1)
+#. Choice (3 options)
+msgid ""
+"はい、普通の子です。\n"
+"いいえ、病んでます。\n"
+"分かりません。"
+msgstr ""
+"是，普通女孩。\n"
+"不，她有病。\n"
+"不知道。"
+
+#. ID 56, Page 4, Line 124, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"大\n"
+"小"
+msgstr ""
+"大\n"
+"小"
+
+#. ID 56, Page 4, Line 137, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"A (バストアップあり)\n"
+"B (バストアップ無し)"
+msgstr ""
+"A（有上半身特写）\n"
+"B（无上半身特写）"
+
+#. ID 56, Page 4, Line 150, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"おっぱいです！\n"
+"ろりこんです！"
+msgstr ""
+"是胸部！\n"
+"是萝莉控！"
+
+#. ID 56, Page 4, Line 189, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"A (髪上げ)\n"
+"B (髪下ろし)"
+msgstr ""
+"A（头发束起）\n"
+"B（头发放下）"
+
+#. ID 56, Page 4, Line 205, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"●の有無"
+msgstr "●的有无"
+
+#. ID 56, Page 4, Line 207, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"有り\n"
+"無し"
+msgstr ""
+"有\n"
+"无"
+
+#. ID 56, Page 4, Line 218, Pos (19,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"立ち絵目隠し"
+msgstr "立绘遮挡"
+
+#. ID 56, Page 4, Line 220, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"しない\n"
+"する"
+msgstr ""
+"不遮挡\n"
+"遮挡"
+
+#. ID 56, Page 4, Line 235, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"武器表示ON\n"
+"武器表示OFF"
+msgstr ""
+"武器显示ON\n"
+"武器显示OFF"
+
+#. ID 56, Page 4, Line 248, Pos (19,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"← (制服A)\n"
+"→ (制服B)"
+msgstr ""
+"←（制服A）\n"
+"→（制服B）"
+
+#. ID 61, Page 1, Line 8, Pos (16,8)
+msgid ""
+"\n"
+"Name :\\N[56]\n"
+"Class:巫女\n"
+"Type :戦士型"
+msgstr "Name :\\N[56]Class:巫女Type :战士型"
+
+#. ID 61, Page 1, Line 14, Pos (16,8)
+msgid ""
+"\n"
+"タレント　「剛拳」\n"
+"　格闘系武器装備時にクリティカル率が上昇する。"
+msgstr "天赋　「刚拳」　装备格斗系武器时暴击率上升。"
+
+#. ID 61, Page 3, Line 3, Pos (16,8)
+msgid ""
+"\n"
+"Name :\\N[57]\n"
+"Class:サキュバス\n"
+"Type :魔法型"
+msgstr "Name :\\N[57]Class:魅魔Type :魔法型"
+
+#. ID 61, Page 3, Line 9, Pos (16,8)
+msgid ""
+"\n"
+"タレント　「サキュバス」\n"
+"  受けたＥＸダメージが\n"
+"　ＨＰとＭＰに変換される。"
+msgstr "天赋　「魅魔」　受到的EX伤害会转换为HP和MP。"
+
+#. ID 61, Page 3, Line 13, Pos (16,8)
+msgid ""
+"\n"
+"\n"
+"　？？？時でも能力が低下しない。"
+msgstr "　即使处于？？？时能力也不会下降。"
+
+#. ID 61, Page 3, Line 16, Pos (16,8)
+msgid ""
+"\n"
+"タレント　「サキュバスタッチ」\n"
+"  装備中の武器が格闘タイプで物理属性の\n"
+"　場合、吸収属性になる。"
+msgstr ""
+"天赋　「魅魔之触」\n"
+"　装备中的武器为格斗类型且为物理属性时，\n"
+"  会变为吸收属性。"
+
+#. ID 61, Page 3, Line 20, Pos (16,8)
+msgid ""
+"\n"
+"\n"
+"　装備中の武器が格闘タイプの場合、\n"
+"　人間タイプの敵へのダメージが増える。"
+msgstr ""
+"　装备中的武器为格斗类型时，\n"
+"　　对人类类型敌人的伤害增加。"
+
+#. ID 61, Page 3, Line 24, Pos (16,8)
+msgid ""
+"\n"
+"タレント　「浮遊」\n"
+"　ランダムトラップを自動で回避する。"
+msgstr "天赋　「浮游」　自动回避随机陷阱。"
+
+#. ID 63, Page 1, Line 6, Pos (1,10)
+msgid ""
+"\n"
+"Name :\\N[59]\n"
+"Class:ドラゴン？\n"
+"Type :戦士型"
+msgstr "Name :\\N[59]Class:龙？Type :战士型"
+
+#. ID 63, Page 1, Line 12, Pos (1,10)
+msgid ""
+"\n"
+"タレント　「ドラゴンパワー」\n"
+"　広範囲に攻撃できるドラゴンブレスが使えます\n"
+"　また何度も使用するとより強力なブレスに進化します"
+msgstr ""
+"天赋　「龙之力」\n"
+"　可以使用能攻击大范围的龙息 并且多次使用后会\n"
+"　进化为更强的吐息"
+
+#. ID 63, Page 3, Line 16, Pos (1,10)
+msgid ""
+"\n"
+"Name :\\N[62]\n"
+"Class:転移者\n"
+"Type :魔法型"
+msgstr "Name :\\N[62]Class:穿越者Type :魔法型"
+
+#. ID 63, Page 3, Line 22, Pos (1,10)
+msgid ""
+"\n"
+"タレント　「才媛の杖」\n"
+"　杖で通常攻撃すると\n"
+"　周囲を魔法で吹き飛ばす"
+msgstr ""
+"天赋　「才女之杖」\n"
+"　用杖进行普通攻击时　会用魔法将周围吹飞"
+
+#. ID 63, Page 3, Line 26, Pos (1,10)
+msgid ""
+"\n"
+"\\>タレント　「才媛の杖」\n"
+"　杖を信頼し念じることで波動を放つ。\n"
+"　この杖攻撃は沈黙でも発動、MP消費無し"
+msgstr ""
+"\\>天赋　「才女之杖」\n"
+"　通过信赖并念动法杖来释放波动。\n"
+"　此杖攻击在沉默状态下也能发动，无MP消耗"

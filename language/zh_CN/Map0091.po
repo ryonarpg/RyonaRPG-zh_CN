@@ -1,0 +1,39 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 16, Page 3, Line 9, Pos (2,8)
+msgid "\\N[101]\\N[102]\\N[103]\\N[104]で扉を開けた。"
+msgstr "\\N[101]\\N[102]\\N[103]\\N[104]把门打开了。"
+
+#. ID 16, Page 3, Line 20, Pos (2,8)
+msgid "扉には鍵がかかっている。"
+msgstr "门上锁着。"
+
+#. ID 17, Page 3, Line 7, Pos (17,9)
+msgid ""
+"反対側から鍵がかかっている。\n"
+"こちら側からは開けられそうにない。"
+msgstr "从对面锁上了。从这边似乎打不开。"
+
+#. ID 21, Page 2, Line 3, Pos (18,9)
+msgid ""
+"Flashゲーとかでよくある「部屋から脱出」みたいに\n"
+"毒ガスが蔓延する部屋の中を散々探し回らされた挙句\n"
+"「鍵は隣の塔にある」と書かれた紙が一枚出てくる予定\n"
+"　　　　　　　　ま　さ　に　外　道"
+msgstr ""
+"就像Flash游戏里常见的「从房间逃脱」那样，\n"
+"在毒气蔓延的房间里被使唤着到处搜寻，\n"
+"最后只冒出一张写着「钥匙在旁边的塔里」的纸\n"
+"——预定的展开　　　　　简　直　是　邪　道"

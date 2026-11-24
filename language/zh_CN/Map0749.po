@@ -1,0 +1,75 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 35, Page 3, Line 11, Pos (20,22)
+msgid "\\S[2]……ありが…と…う\\.\\.\\.\\^"
+msgstr "\\S[2]……谢…谢…你…\\.\\.\\.\\^"
+
+#. ID 36, Page 2, Line 3, Pos (20,23)
+msgid ""
+"＊ミュロンド13代目領主モルドバ\n"
+"　此処に、安らかに眠る"
+msgstr "＊米隆德第13代领主莫尔多瓦　在此安息"
+
+#. ID 37, Page 2, Line 4, Pos (18,13)
+msgid ""
+"有難うございました\n"
+"これで、やっと眠ることができます"
+msgstr "非常感谢。这样一来，我终于能安眠了"
+
+#. ID 37, Page 2, Line 6, Pos (18,13)
+msgid ""
+"………\n"
+"あなたにこれ以上\n"
+"何かを頼むのは……\n"
+"本当に申し訳ないのですが…"
+msgstr "………再向你拜托更多事情……实在很抱歉…"
+
+#. ID 37, Page 2, Line 10, Pos (18,13)
+msgid ""
+"どうか荒れてしまったお墓を……\n"
+"そのお世話を、村人に\n"
+"頼んでください、\n"
+"それだけをどうか……"
+msgstr ""
+"请务必……那荒废了的坟墓……请托村民照看，\n"
+"只求你这一件事……"
+
+#. ID 37, Page 2, Line 18, Pos (18,13)
+msgid ""
+"それと……\n"
+"どうかこれを受け取ってください"
+msgstr "还有……请收下这个"
+
+#. ID 37, Page 2, Line 20, Pos (18,13)
+msgid ""
+"代々、ミュロンドに伝わる\n"
+"剣なのですが……\n"
+"私で、もう終わりですから、\n"
+"どうか、あなたに……"
+msgstr ""
+"这是米隆德代代相传的剑……到我这里，已经结束了，\n"
+"所以，请你……"
+
+#. ID 37, Page 2, Line 29, Pos (18,13)
+msgid "＊希望剣を手に入れた！"
+msgstr "＊获得了希望之剑！"
+
+#. ID 37, Page 2, Line 36, Pos (18,13)
+msgid ""
+"……それでは……\n"
+"私ももう眠ります……\n"
+"……どうか、あなたは…\n"
+"こちら側には来ないよう……"
+msgstr "……那么……我也要睡了…………请你…不要到这边来……"

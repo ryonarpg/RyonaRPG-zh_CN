@@ -1,0 +1,108 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 11, Page 2, Line 3, Pos (9,28)
+msgid "……遅かったじゃないか！"
+msgstr "……来得真晚啊！"
+
+#. ID 11, Page 2, Line 4, Pos (9,28)
+msgid "さ、実験を始めよう！"
+msgstr "来，开始实验吧！"
+
+#. ID 38, Page 2, Line 3, Pos (2,38)
+msgid "＊奴隷が書き遺したメモのようだ"
+msgstr "＊好像是奴隶留下的笔记"
+
+#. ID 38, Page 2, Line 8, Pos (2,38)
+msgid ""
+"＊彼に　あいたい\n"
+"　さいごに　　あいして　います"
+msgstr "＊想见他　最后　我爱着你"
+
+#. ID 40, Page 2, Line 3, Pos (2,37)
+msgid "＊[奴隷のタグ]を手に入れた。"
+msgstr "＊获得了[奴隶标签]。"
+
+#. ID 42, Page 2, Line 5, Pos (8,27)
+msgid "＊研究員の報告書のようだ"
+msgstr "＊好像是研究员的报告书"
+
+#. ID 42, Page 2, Line 10, Pos (8,27)
+msgid ""
+"＊女性被験者に装着する性感帯刺激拘束衣の\n"
+"　着脱実験について"
+msgstr ""
+"＊关于女性受试者穿戴的性感带刺激拘束衣的　穿脱\n"
+"　实验"
+
+#. ID 42, Page 2, Line 12, Pos (8,27)
+msgid ""
+"＊被検体に傷をつけることなく取り外し成功\n"
+"　以後拘束衣の着脱にはこの装置を用いる"
+msgstr ""
+"＊成功在不伤害受试者的情况下取下　今后拘束衣的\n"
+"　穿脱将使用此装置"
+
+#. ID 42, Page 2, Line 14, Pos (8,27)
+msgid "＊装置は、研究所最下層に配置する。"
+msgstr "＊装置配置于研究所最下层。"
+
+#. ID 43, Page 2, Line 3, Pos (3,19)
+msgid "＊研究員の手記のようだ"
+msgstr "＊好像是研究员的手记"
+
+#. ID 43, Page 2, Line 7, Pos (3,19)
+msgid ""
+"＊一部の要望から管理性を更に高めるため、\n"
+"　コントローラーの作成に着手する"
+msgstr ""
+"＊基于部分需求，为进一步提高管理性，\n"
+"　着手制作控制器"
+
+#. ID 43, Page 2, Line 9, Pos (3,19)
+msgid ""
+"＊性感帯刺激拘束衣に電気信号を\n"
+"　送ることにより、刺激レベル及び\n"
+"　排泄管理を自在に行う事を可能にした"
+msgstr ""
+"＊通过向性感带刺激拘束衣发送电信号，\n"
+"　使刺激等级及　排泄管理能够自由进行"
+
+#. ID 43, Page 2, Line 12, Pos (3,19)
+msgid ""
+"＊試作品ではあるが、実験結果は良好\n"
+"　責めを止める事も続ける事も\n"
+"　滞りなく行えた"
+msgstr ""
+"＊虽然是试制品，\n"
+"　但实验结果良好　无论是停止责罚还是继续责罚\n"
+"　都能顺畅进行"
+
+#. ID 43, Page 2, Line 15, Pos (3,19)
+msgid ""
+"＊ただ、バッテリーが非常に心もとないため\n"
+"　改善の余地はまだまだありそうだ"
+msgstr "＊只是电池非常令人不安　似乎仍有很大改善余地"
+
+#. ID 43, Page 2, Line 22, Pos (3,19)
+msgid "手記の下に何かがある・・・"
+msgstr "手记下面有什么……"
+
+#. ID 43, Page 2, Line 27, Pos (3,19)
+msgid "＊[リモートコントローラ]を手に入れた"
+msgstr "＊获得了[远程控制器]"
+
+#. ID 43, Page 2, Line 29, Pos (3,19)
+msgid "（特殊技能からの操作が可能です）"
+msgstr "（可通过特殊技能进行操作）"

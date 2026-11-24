@@ -1,0 +1,612 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 4, Pos (5,21)
+#. ID 13, Page 1, Line 56, Pos (14,21)
+#. ID 26, Page 1, Line 11, Pos (10,6)
+msgid "………"
+msgstr "………"
+
+#. ID 2, Page 1, Line 5, Pos (5,21)
+msgid ""
+"檻の中にはぐったりとした様子の女性が、\n"
+"手足を拘束されたまま吊るされている。"
+msgstr ""
+"牢笼中，\n"
+"一名瘫软无力的女性手脚被束缚着吊在那里。"
+
+#. ID 2, Page 1, Line 7, Pos (5,21)
+msgid ""
+"女性の胸は……\n"
+"人のモノとは思えないほど巨大に膨れ上がっていた。"
+msgstr "女性的胸部……膨胀得巨大到不像是人的东西。"
+
+#. ID 5, Page 1, Line 3, Pos (5,11)
+msgid ""
+"おっと、今は実験中だ。\n"
+"用事なら後にしてくれ。"
+msgstr "哎哟，现在是实验当中。有事的话待会儿再说。"
+
+#. ID 5, Page 2, Line 3, Pos (5,11)
+msgid "まだお前の番じゃあないぞ。"
+msgstr "还没轮到你呢。"
+
+#. ID 10, Page 1, Line 3, Pos (4,24)
+msgid ""
+"胸の形……\n"
+"腰のくびれ……\n"
+"尻の大きさ……"
+msgstr "胸部的形状……腰部的曲线……臀部的大小……"
+
+#. ID 10, Page 1, Line 6, Pos (4,24)
+msgid ""
+"どの程度の均衡が最も美しいのか？\n"
+"そのデータも分析しなければなるまい。"
+msgstr "怎样的均衡才最美丽？那个数据也必须分析才行。"
+
+#. ID 11, Page 1, Line 3, Pos (14,26)
+#. Contains choice at line 2 (2 options)
+msgid "君も研究の成果を試したいのかい？"
+msgstr "你也想试试研究的成果吗？"
+
+#. ID 11, Page 1, Line 4, Pos (14,26)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 11, Page 1, Line 6, Pos (14,26)
+msgid ""
+"それなら、ダイジョーブ博士のところを訪ねると良い。\n"
+"博士は改造手術が好きで好きで仕方ないらしいからね。"
+msgstr ""
+"那样的话，去拜访没问题博士那里就好。\n"
+"听说博士喜欢改造手术喜欢得不得了。"
+
+#. ID 13, Page 1, Line 7, Pos (14,21)
+msgid "！！"
+msgstr "！！"
+
+#. ID 13, Page 1, Line 8, Pos (14,21)
+msgid "扉が閉じてしまった！"
+msgstr "门关上了！"
+
+#. ID 13, Page 1, Line 15, Pos (14,21)
+msgid ""
+"おや……？\n"
+"新しいサンプルが届いていたのか？"
+msgstr "哎呀……？有新的样本送到了吗？"
+
+#. ID 13, Page 1, Line 17, Pos (14,21)
+msgid ""
+"\\n[\\v[6]]\n"
+"えっ！？\n"
+"ち、違います！　間違えて入ってしまったんです！\n"
+"ここから出してください！"
+msgstr ""
+"\\n[\\v[6]]诶！？不、不是的！\n"
+"　我是不小心进来的！请让我从这里出去！"
+
+#. ID 13, Page 1, Line 26, Pos (14,21)
+msgid ""
+"………\n"
+"なんとも元気なサンプルだ……\n"
+"コレは実験のし甲斐がありそうだ。"
+msgstr ""
+"………真是个很有精神的样本……\n"
+"这个看起来很有做实验的价值。"
+
+#. ID 13, Page 1, Line 29, Pos (14,21)
+msgid "早速準備に取り掛かろう。"
+msgstr "赶紧开始准备吧。"
+
+#. ID 13, Page 1, Line 35, Pos (14,21)
+msgid ""
+"\\n[\\v[6]]\n"
+"ち、違……！\n"
+"私はサンプルなんかじゃないです！　\n"
+"止めて……助けて！"
+msgstr ""
+"\\n[\\v[6]]不、不是……！我才不是什么样本！　住手…\n"
+"…救命！"
+
+#. ID 13, Page 1, Line 57, Pos (14,21)
+msgid ""
+"\\n[\\v[6]]は乳首やクリトリスだけではなく、\n"
+"膣や尻孔の内部、さらには尿道に至るまで……\n"
+"怪しげな薬品を浴びせられ、注射させられてしまった。"
+msgstr ""
+"\\n[\\v[6]]不仅乳头和阴蒂，连阴道和肛门内部，\n"
+"甚至尿道都被浇上可疑药品、被强行注射了。"
+
+#. ID 13, Page 1, Line 60, Pos (14,21)
+msgid ""
+"瞬く間に体中が火照り始め……\n"
+"汗が吹き出、ひとりでに溢れた愛液で股が濡れ始める。"
+msgstr ""
+"转眼间全身开始发热……汗冒出来，\n"
+"因自行溢出的爱液，胯下开始湿了。"
+
+#. ID 13, Page 1, Line 75, Pos (14,21)
+msgid "さて、今回の実験の内容をもう一度確認しよう。"
+msgstr "那么，再确认一次本次实验的内容吧。"
+
+#. ID 13, Page 1, Line 76, Pos (14,21)
+msgid "今回の実験は、各性感帯を強化し……"
+msgstr "本次实验会强化各敏感带，并且……"
+
+#. ID 13, Page 1, Line 77, Pos (14,21)
+msgid ""
+"一体どれくらいの快楽に脳が耐えられるか、\n"
+"というものだ。"
+msgstr "就是看大脑究竟能承受多少快感。"
+
+#. ID 13, Page 1, Line 79, Pos (14,21)
+msgid "……それでは始めよう。"
+msgstr "……那么开始吧。"
+
+#. ID 13, Page 1, Line 80, Pos (14,21)
+msgid ""
+"\\n[\\v[6]]\n"
+"い……いやぁぁぁ……！\n"
+"やめてぇ……ぇ……っ！"
+msgstr "\\n[\\v[6]]不……不要啊啊啊……！住手……呜……！"
+
+#. ID 13, Page 1, Line 134, Pos (14,21)
+msgid "……さて、本日はこれくらいにしておこう。"
+msgstr "……好了，今天就到这里吧。"
+
+#. ID 13, Page 1, Line 135, Pos (14,21)
+msgid ""
+"明日はさらに感度を上げて実験しよう。\n"
+"……そうだ、クリトリスの肥大化実験も試してみたい。"
+msgstr ""
+"明天再提高敏感度做实验吧。……对了，\n"
+"也想试试阴蒂肥大化实验。"
+
+#. ID 13, Page 1, Line 137, Pos (14,21)
+msgid ""
+"………\n"
+"……\n"
+"…"
+msgstr ""
+"………\n"
+"……\n"
+"…"
+
+#. ID 13, Page 1, Line 142, Pos (14,21)
+msgid "その後、\\n[\\v[6]]の姿を見た者はいない。"
+msgstr "那之后，没有人再见过\\n[\\v[6]]的身影。"
+
+#. ID 14, Page 1, Line 3, Pos (13,6)
+msgid ""
+"ん、何か用かね？\n"
+"……って、おや？"
+msgstr "嗯，有什么事吗？……哦呀？"
+
+#. ID 14, Page 1, Line 5, Pos (13,6)
+msgid ""
+"どこかで見たことのある人形を持っているな。\n"
+"それは確か、機械化開発室のサンプル？"
+msgstr ""
+"你拿着一个好像在哪儿见过的人偶呢。\n"
+"那确实是机械化开发室的样本？"
+
+#. ID 14, Page 1, Line 7, Pos (13,6)
+msgid ""
+"なに、元に戻して欲しいだって？\n"
+"……………………うーーーん、\n"
+"残った生体部位を再生すれば、不可能ではないが……"
+msgstr ""
+"什么，你说想让她恢复原状？……………………嗯——，\n"
+"只要再生残留的生物部位，也不是不可能，不过……"
+
+#. ID 14, Page 1, Line 10, Pos (13,6)
+msgid ""
+"ただというわけにはいかんね。\n"
+"いい実験になるが、大がかりな行程になるし、\n"
+"しかもこっそりやらなくてはいけない。\n"
+"……大丈夫、開発室の連中には黙っておくから。"
+msgstr ""
+"可不能白干呢。虽然会是个好实验，\n"
+"但工程会很浩大，而且必须偷偷进行。……放心吧，\n"
+"我会对开发室那帮人保密的。"
+
+#. ID 14, Page 1, Line 14, Pos (13,6)
+msgid ""
+"そうだな。50,000G程度寄付して頂きたいな。\n"
+"どうだい？"
+msgstr "这样吧。希望你能捐赠个50,000G左右。怎么样？"
+
+#. ID 14, Page 1, Line 16, Pos (13,6)
+#. Contains choice at line 2 (2 options)
+msgid "＊………………"
+msgstr "＊………………"
+
+#. ID 14, Page 1, Line 17, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"お願いします\n"
+"ガラクタひとつにそんな大金は無理"
+msgstr ""
+"拜托了\n"
+"为一件破烂花那么多钱是不可能的"
+
+#. ID 14, Page 1, Line 23, Pos (13,6)
+msgid ""
+"なんだ、金がないじゃないか。\n"
+"さすがに無理だね。経費も含んでその値段だ。"
+msgstr ""
+"什么嘛，你不是没钱吗。果然还是不行呢。\n"
+"那价格还包含经费。"
+
+#. ID 14, Page 1, Line 42, Pos (13,6)
+msgid ""
+"おいおい、まさか本当に出すとはな。\n"
+"いいのかい？"
+msgstr "喂喂，没想到你真的拿出来了呢。可以吗？"
+
+#. ID 14, Page 1, Line 44, Pos (13,6)
+msgid "……分かったよ。バレないように頑張ってみよう。"
+msgstr "……知道了。我会努力不被发现的。"
+
+#. ID 14, Page 1, Line 110, Pos (13,6)
+msgid ""
+"\\n[\\v[535]]\n"
+"\\S[2]「……ガ、ガガガ、ガガ…………！」"
+msgstr "\\n[\\v[535]]\\S[2]「……嘎、嘎嘎嘎、嘎嘎…………！」"
+
+#. ID 14, Page 1, Line 153, Pos (13,6)
+msgid ""
+"\\n[\\v[535]]\n"
+"\\S[1]「あ、あががが、かﾟ、ぱ、あぴゃ、\n"
+"ぃ、あぁﾞあああぁぁ、い、いﾞいﾟゃ……！！」"
+msgstr ""
+"\\n[\\v[535]]\\S[1]「啊、啊嘎嘎嘎、咔゜、啪、\n"
+"啊噼呀、咿、啊啊゛啊啊啊啊啊啊、咿、\n"
+"咿゛咿゜呀……！！」"
+
+#. ID 14, Page 1, Line 199, Pos (13,6)
+msgid ""
+"\\n[\\v[535]]\n"
+"「…………ぁ、ぁぁ、ぁぁぁ…………」"
+msgstr "\\n[\\v[535]]「…………啊、啊啊、啊啊啊…………」"
+
+#. ID 14, Page 1, Line 230, Pos (13,6)
+msgid ""
+"\\n[\\v[535]]\n"
+"「……………………」"
+msgstr ""
+"\\n[\\v[535]]\n"
+"「……………………」"
+
+#. ID 14, Page 1, Line 242, Pos (13,6)
+msgid "なんとか成功したよ。おめでとう。"
+msgstr "总算成功了。恭喜。"
+
+#. ID 14, Page 1, Line 243, Pos (13,6)
+msgid ""
+"まあとはいえ、あくまで肉体を元に戻しただけだ。\n"
+"頭の中がどうなってるか、知ったことではないがな。\n"
+"……安心しろ、おかしなことはしてないから。"
+msgstr ""
+"不过嘛，说到底只是把肉体恢复原状而已。\n"
+"脑子里变成什么样，我可不知道。……放心吧，\n"
+"我没做什么奇怪的事。"
+
+#. ID 14, Page 1, Line 246, Pos (13,6)
+msgid ""
+"身体機能も以前のようにはいかないだろう。\n"
+"まあ、人間の少女に戻れただけよしとしろ。"
+msgstr ""
+"身体机能恐怕也回不到以前那样了。嘛，\n"
+"能变回人类少女就该知足了。"
+
+#. ID 14, Page 1, Line 252, Pos (13,6)
+msgid "＊\\n[\\v[535]]の体が元に戻った！"
+msgstr "＊\\n[\\v[535]]的身体恢复了原状！"
+
+#. ID 14, Page 1, Line 253, Pos (13,6)
+msgid ""
+"＊\\n[\\v[535]]のレベルが1になった……。\n"
+"\\n[\\v[535]]の全パラメータが激減した……。"
+msgstr ""
+"＊\\n[\\v[535]]的等级变成了1……。\n"
+"\\n[\\v[535]]的全参数急剧下降了……。"
+
+#. ID 14, Page 1, Line 286, Pos (13,6)
+#. ChangeHeroTitle (Actor 1)
+#. ID 14, Page 1, Line 290, Pos (13,6)
+#. ChangeHeroTitle (Actor 2)
+#. ID 14, Page 1, Line 294, Pos (13,6)
+#. ChangeHeroTitle (Actor 3)
+#. ID 14, Page 1, Line 298, Pos (13,6)
+#. ChangeHeroTitle (Actor 4)
+#. ID 14, Page 1, Line 302, Pos (13,6)
+#. ChangeHeroTitle (Actor 5)
+#. ID 14, Page 1, Line 306, Pos (13,6)
+#. ChangeHeroTitle (Actor 6)
+#. ID 14, Page 1, Line 310, Pos (13,6)
+#. ChangeHeroTitle (Actor 7)
+#. ID 14, Page 1, Line 314, Pos (13,6)
+#. ChangeHeroTitle (Actor 8)
+#. ID 14, Page 1, Line 318, Pos (13,6)
+#. ChangeHeroTitle (Actor 9)
+#. ID 14, Page 1, Line 322, Pos (13,6)
+#. ChangeHeroTitle (Actor 10)
+#. ID 14, Page 1, Line 326, Pos (13,6)
+#. ChangeHeroTitle (Actor 11)
+#. ID 14, Page 1, Line 330, Pos (13,6)
+#. ChangeHeroTitle (Actor 12)
+#. ID 14, Page 1, Line 334, Pos (13,6)
+#. ChangeHeroTitle (Actor 13)
+#. ID 14, Page 1, Line 338, Pos (13,6)
+#. ChangeHeroTitle (Actor 14)
+#. ID 14, Page 1, Line 342, Pos (13,6)
+#. ChangeHeroTitle (Actor 15)
+#. ID 14, Page 1, Line 346, Pos (13,6)
+#. ChangeHeroTitle (Actor 16)
+#. ID 14, Page 1, Line 350, Pos (13,6)
+#. ChangeHeroTitle (Actor 17)
+#. ID 14, Page 1, Line 354, Pos (13,6)
+#. ChangeHeroTitle (Actor 18)
+#. ID 14, Page 1, Line 358, Pos (13,6)
+#. ChangeHeroTitle (Actor 19)
+#. ID 14, Page 1, Line 362, Pos (13,6)
+#. ChangeHeroTitle (Actor 20)
+#. ID 14, Page 1, Line 366, Pos (13,6)
+#. ChangeHeroTitle (Actor 21)
+#. ID 14, Page 1, Line 370, Pos (13,6)
+#. ChangeHeroTitle (Actor 22)
+#. ID 14, Page 1, Line 374, Pos (13,6)
+#. ChangeHeroTitle (Actor 23)
+#. ID 14, Page 1, Line 378, Pos (13,6)
+#. ChangeHeroTitle (Actor 24)
+#. ID 14, Page 1, Line 382, Pos (13,6)
+#. ChangeHeroTitle (Actor 25)
+#. ID 14, Page 1, Line 386, Pos (13,6)
+#. ChangeHeroTitle (Actor 26)
+#. ID 14, Page 1, Line 390, Pos (13,6)
+#. ChangeHeroTitle (Actor 27)
+#. ID 14, Page 1, Line 394, Pos (13,6)
+#. ChangeHeroTitle (Actor 28)
+#. ID 14, Page 1, Line 398, Pos (13,6)
+#. ChangeHeroTitle (Actor 29)
+#. ID 14, Page 1, Line 402, Pos (13,6)
+#. ChangeHeroTitle (Actor 30)
+#. ID 14, Page 1, Line 406, Pos (13,6)
+#. ChangeHeroTitle (Actor 31)
+#. ID 14, Page 1, Line 410, Pos (13,6)
+#. ChangeHeroTitle (Actor 32)
+#. ID 14, Page 1, Line 414, Pos (13,6)
+#. ChangeHeroTitle (Actor 33)
+#. ID 14, Page 1, Line 418, Pos (13,6)
+#. ChangeHeroTitle (Actor 34)
+#. ID 14, Page 1, Line 422, Pos (13,6)
+#. ChangeHeroTitle (Actor 35)
+#. ID 14, Page 1, Line 426, Pos (13,6)
+#. ChangeHeroTitle (Actor 36)
+#. ID 14, Page 1, Line 430, Pos (13,6)
+#. ChangeHeroTitle (Actor 37)
+#. ID 14, Page 1, Line 434, Pos (13,6)
+#. ChangeHeroTitle (Actor 38)
+#. ID 14, Page 1, Line 438, Pos (13,6)
+#. ChangeHeroTitle (Actor 39)
+#. ID 14, Page 1, Line 442, Pos (13,6)
+#. ChangeHeroTitle (Actor 40)
+#. ID 14, Page 1, Line 446, Pos (13,6)
+#. ChangeHeroTitle (Actor 41)
+#. ID 14, Page 1, Line 450, Pos (13,6)
+#. ChangeHeroTitle (Actor 42)
+#. ID 14, Page 1, Line 454, Pos (13,6)
+#. ChangeHeroTitle (Actor 43)
+#. ID 14, Page 1, Line 458, Pos (13,6)
+#. ChangeHeroTitle (Actor 44)
+#. ID 14, Page 1, Line 462, Pos (13,6)
+#. ChangeHeroTitle (Actor 45)
+#. ID 14, Page 1, Line 466, Pos (13,6)
+#. ChangeHeroTitle (Actor 46)
+#. ID 14, Page 1, Line 470, Pos (13,6)
+#. ChangeHeroTitle (Actor 47)
+#. ID 14, Page 1, Line 474, Pos (13,6)
+#. ChangeHeroTitle (Actor 48)
+#. ID 14, Page 1, Line 478, Pos (13,6)
+#. ChangeHeroTitle (Actor 49)
+#. ID 14, Page 1, Line 482, Pos (13,6)
+#. ChangeHeroTitle (Actor 50)
+#. ID 14, Page 1, Line 486, Pos (13,6)
+#. ChangeHeroTitle (Actor 51)
+#. ID 14, Page 1, Line 490, Pos (13,6)
+#. ChangeHeroTitle (Actor 52)
+#. ID 14, Page 1, Line 494, Pos (13,6)
+#. ChangeHeroTitle (Actor 53)
+#. ID 14, Page 1, Line 498, Pos (13,6)
+#. ChangeHeroTitle (Actor 54)
+#. ID 14, Page 1, Line 502, Pos (13,6)
+#. ChangeHeroTitle (Actor 55)
+#. ID 14, Page 1, Line 506, Pos (13,6)
+#. ChangeHeroTitle (Actor 56)
+#. ID 14, Page 1, Line 510, Pos (13,6)
+#. ChangeHeroTitle (Actor 57)
+#. ID 14, Page 1, Line 514, Pos (13,6)
+#. ChangeHeroTitle (Actor 58)
+#. ID 14, Page 1, Line 518, Pos (13,6)
+#. ChangeHeroTitle (Actor 59)
+#. ID 14, Page 1, Line 522, Pos (13,6)
+#. ChangeHeroTitle (Actor 60)
+#. ID 14, Page 1, Line 526, Pos (13,6)
+#. ChangeHeroTitle (Actor 61)
+#. ID 14, Page 1, Line 530, Pos (13,6)
+#. ChangeHeroTitle (Actor 62)
+#. ID 14, Page 1, Line 534, Pos (13,6)
+#. ChangeHeroTitle (Actor 63)
+#. ID 14, Page 1, Line 538, Pos (13,6)
+#. ChangeHeroTitle (Actor 64)
+msgctxt "actors.title"
+msgid "元サンプル"
+msgstr "原样本"
+
+#. ID 16, Page 1, Line 3, Pos (9,7)
+#. ID 16, Page 2, Line 3, Pos (9,7)
+msgid ""
+"有難うございました。\n"
+"またよろしくお願いします。"
+msgstr "非常感谢。今后也请多多关照。"
+
+#. ID 21, Page 1, Line 3, Pos (16,3)
+#. ID 22, Page 1, Line 3, Pos (17,3)
+#. ID 24, Page 1, Line 3, Pos (17,4)
+msgid ""
+"中にはスライムが入っている。\n"
+"眠っているようだ。"
+msgstr "里面有史莱姆。似乎正在睡觉。"
+
+#. ID 26, Page 1, Line 12, Pos (10,6)
+msgid ""
+"＊\\n[\\v[6]]が目を覚ますと、\n"
+"　見慣れない機械の目の前に\n"
+"　立たされるようにして身体を拘束されていた。"
+msgstr ""
+"＊\\n[\\v[6]]醒来后，\n"
+"　发现自己被迫站在一台陌生的机器前，\n"
+"　身体被拘束着。"
+
+#. ID 26, Page 1, Line 15, Pos (10,6)
+msgid ""
+"＊腕を天井から吊り下げられ……\n"
+"　足も床に備えてある金具に固定されている。\n"
+"　四肢を拘束された状態だ。"
+msgstr ""
+"＊手臂被从天花板吊起……\n"
+"　双脚也被固定在地板上的金属器具上。\n"
+"　四肢处于被拘束的状态。"
+
+#. ID 26, Page 1, Line 18, Pos (10,6)
+msgid ""
+"＊服は脱がされていた……外気に晒された乳房は、\n"
+"　しかし先端だけは機械から伸びる、\n"
+"　半透明のチューブが取り付けられていた。\n"
+"　それは金具で胸から外れないよう、固定されている。"
+msgstr ""
+"＊衣服被脱掉了……暴露在外界空气中的乳房，\n"
+"　然而只有前端被装上了从机器伸出的、\n"
+"　半透明软管。　那软管用金属器具固定在胸部，\n"
+"　以免脱落。"
+
+#. ID 26, Page 1, Line 29, Pos (10,6)
+msgid ""
+"＊そして\\n[\\v[6]]は思わず絶句した……\n"
+"　\\n[\\v[6]]の股に、隆々と勃起した男性器が\n"
+"　生えていたのだ。"
+msgstr ""
+"＊然后\\n[\\v[6]]不由得说不出话来……\n"
+"　\\n[\\v[6]]的胯间，长出了高高勃起的男性器。"
+
+#. ID 26, Page 1, Line 36, Pos (10,6)
+msgid ""
+"＊男性器にも、乳首のものよりも太い、\n"
+"　巨大なゴムホースのようなチューブが取り付けられ、\n"
+"　外れないよう腰にしっかりと固定されていた。"
+msgstr ""
+"＊男性器上也被装上了比乳头那根更粗的、\n"
+"　像巨大橡胶软管一样的管子，\n"
+"　并为了不脱落而牢牢固定在腰部。"
+
+#. ID 26, Page 1, Line 39, Pos (10,6)
+msgid "気が付きましたね？　性奴隷さん。"
+msgstr "你醒过来了呢？　性奴隶小姐。"
+
+#. ID 26, Page 1, Line 44, Pos (10,6)
+msgid ""
+"何をされるか解らないのも可哀そうですから、\n"
+"教えてあげましょう。"
+msgstr "不知道会被做什么也很可怜，所以我来告诉你吧。"
+
+#. ID 26, Page 1, Line 52, Pos (10,6)
+msgid ""
+"貴重な妖魔の母乳と精液を効率よく手に入れるため\n"
+"少々肉体の方を改造させていただきましたが……"
+msgstr ""
+"为了高效获取珍贵的妖魔母乳和精液，\n"
+"我们对你的肉体稍微进行了一些改造……"
+
+#. ID 26, Page 1, Line 54, Pos (10,6)
+#. ID 26, Page 1, Line 65, Pos (10,6)
+msgid ""
+"大丈夫です。\n"
+"貴重な家畜ですから……\n"
+"殺したり虐待したり、無闇に苦痛を与えはしません。\n"
+"そんなこと我々も望んでいませんから。"
+msgstr ""
+"放心吧。因为你是宝贵的家畜……我们不会杀你、\n"
+"虐待你，也不会无故施加痛苦。我们也不希望那样。"
+
+#. ID 26, Page 1, Line 58, Pos (10,6)
+#. ID 26, Page 1, Line 69, Pos (10,6)
+msgid ""
+"ですが……\n"
+"母乳と精液と尿だけは、\n"
+"貴女の意思と関係なく搾取しますので、\n"
+"ご理解のほどを。"
+msgstr ""
+"但是……只有母乳、精液和尿，\n"
+"我们会不顾你的意愿进行榨取，还请理解。"
+
+#. ID 26, Page 1, Line 62, Pos (10,6)
+msgid "妖魔は貴重なのです。"
+msgstr "妖魔是很珍贵的。"
+
+#. ID 26, Page 1, Line 80, Pos (10,6)
+msgid "では、早速始めましょう。"
+msgstr "那么，我们马上开始吧。"
+
+#. ID 26, Page 1, Line 81, Pos (10,6)
+msgid ""
+"\\n[\\v[6]]\n"
+"い、いやぁぁぁぁぁぁ―――――！"
+msgstr "\\n[\\v[6]]不、不要啊啊啊啊啊啊―――――！"
+
+#. ID 26, Page 1, Line 95, Pos (10,6)
+msgid ""
+"さて……そろそろ、乳腺が解れてきましたかね。\n"
+"前立腺や膀胱の方も活発になってきたでしょうし、\n"
+"本格的に絞り取るとしましょうか……。"
+msgstr ""
+"那么……差不多，乳腺开始松解了吧。\n"
+"前列腺和膀胱那边应该也活跃起来了，\n"
+"就正式开始榨取吧……。"
+
+#. ID 26, Page 1, Line 98, Pos (10,6)
+msgid ""
+"\\n[\\v[6]]\n"
+"んあああ゛あ゛あ゛………ぁ゛……！"
+msgstr "\\n[\\v[6]]嗯啊啊啊゛啊゛啊゛………啊゛……！"
+
+#. ID 26, Page 1, Line 130, Pos (10,6)
+msgid "…………"
+msgstr "…………"
+
+#. ID 26, Page 1, Line 133, Pos (10,6)
+msgid ""
+"こうして……\n"
+"\\n[\\v[6]]は質の良い母乳や精液を提供する、\n"
+"素晴らしい家畜として、\n"
+"末永く、大切に飼育された……。"
+msgstr ""
+"就这样……\n"
+"\\n[\\v[6]]作为提供优质母乳和精液的优秀家畜，\n"
+"被长久而精心地饲养着……。"

@@ -1,0 +1,223 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 4, Pos (5,9)
+#. ID 1, Page 2, Line 4, Pos (5,9)
+msgid ""
+"地下病棟へようこそ、\n"
+"ここではおなかの胎児を\n"
+"堕胎することができます。"
+msgstr "欢迎来到地下病栋，在这里可以堕掉腹中的胎儿。"
+
+#. ID 1, Page 2, Line 7, Pos (5,9)
+#. Contains choice at line 2 (2 options)
+msgid "3000Gになりますが堕胎しますか？"
+msgstr "需要3000G，要堕胎吗？"
+
+#. ID 1, Page 2, Line 8, Pos (5,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"しない"
+msgstr ""
+"做\n"
+"不做"
+
+#. ID 1, Page 2, Line 12, Pos (5,9)
+msgid ""
+"お金が足りませんね。\n"
+"でしたらお体でお支払いすることも\n"
+"できますが。"
+msgstr "钱不够呢。那么也可以用您的身体来支付。"
+
+#. ID 1, Page 2, Line 15, Pos (5,9)
+#. Choice (2 options)
+msgid ""
+"体で払う\n"
+"あきらめる"
+msgstr ""
+"用身体支付\n"
+"放弃"
+
+#. ID 1, Page 2, Line 17, Pos (5,9)
+#. ID 1, Page 2, Line 266, Pos (5,9)
+msgid "わかりました。今先生をお呼びしますね。"
+msgstr "明白了。现在就叫医生来。"
+
+#. ID 1, Page 2, Line 30, Pos (5,9)
+#. ID 1, Page 2, Line 279, Pos (5,9)
+msgid "それでは下着をおろしてから足をひろげてください。"
+msgstr "那么请脱下内裤，然后把腿张开。"
+
+#. ID 1, Page 2, Line 34, Pos (5,9)
+#. ID 1, Page 2, Line 283, Pos (5,9)
+msgid ""
+"下着がおろされ、\\N[\\V[6]]の秘部が\n"
+"あらわになる。"
+msgstr "内裤被脱下，\\N[\\V[6]]的私处暴露出来。"
+
+#. ID 1, Page 2, Line 39, Pos (5,9)
+#. ID 1, Page 2, Line 288, Pos (5,9)
+msgid "それではこれより堕胎手術を行います。"
+msgstr "那么，接下来进行堕胎手术。"
+
+#. ID 1, Page 2, Line 69, Pos (5,9)
+msgid ""
+"無事終わりました。\n"
+"それでは料金を支払っていただきます。"
+msgstr "顺利结束了。那么请支付费用。"
+
+#. ID 1, Page 2, Line 80, Pos (5,9)
+msgid "へへ・・こんなかわいいことやれるのか。"
+msgstr "嘿嘿……这么可爱的小妞也能干吗。"
+
+#. ID 1, Page 2, Line 81, Pos (5,9)
+msgid ""
+"あんたの堕胎費用はおれたちが払ってるんだ、\n"
+"その分たっぷり奉仕してもらうぜ"
+msgstr ""
+"你的堕胎费用是我们付的，\n"
+"所以你得好好用身体来服侍我们。"
+
+#. ID 1, Page 2, Line 83, Pos (5,9)
+msgid ""
+"い、いっぱい中だししてすぐにでも\n"
+"はらませてやるんだな！"
+msgstr "要、要大量内射，马上让你怀上！"
+
+#. ID 1, Page 2, Line 237, Pos (5,9)
+msgid ""
+"ふ～、気持ちよかったぜ。\n"
+"結構いいしまりしてるじゃねえか。"
+msgstr "呼～，真爽。还挺紧的嘛。"
+
+#. ID 1, Page 2, Line 239, Pos (5,9)
+msgid ""
+"たっぷり中に出しちまったぜ。\n"
+"また孕んじまったかもな、へへへ・・・。"
+msgstr "射了好多在里面。说不定又怀上了，嘿嘿嘿……。"
+
+#. ID 1, Page 2, Line 241, Pos (5,9)
+msgid ""
+"に、妊娠したらまた来るんだな！\n"
+"何度でも堕胎してやるんだな！"
+msgstr "你、怀孕了就再来！多少次都给你堕掉！"
+
+#. ID 1, Page 2, Line 254, Pos (5,9)
+msgid ""
+"また妊娠したときはいつでも\n"
+"いらしてくださいね。"
+msgstr "如果再怀孕了，请随时再来。"
+
+#. ID 1, Page 2, Line 260, Pos (5,9)
+#. ID 1, Page 2, Line 527, Pos (5,9)
+msgid "気が変わったらいつでもいらしてくださいね。"
+msgstr "如果改变主意了，请随时再来。"
+
+#. ID 1, Page 2, Line 317, Pos (5,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"無事終わりました。\n"
+"しばらくは安静にしていてください。"
+msgstr "顺利结束了。请暂时保持安静。"
+
+#. ID 1, Page 2, Line 319, Pos (5,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 1, Page 2, Line 321, Pos (5,9)
+msgid ""
+"お薬をお出ししますので、ゆっくりベッドで\n"
+"休んでいってください。"
+msgstr "我会给您药，请在床上好好休息。"
+
+#. ID 1, Page 2, Line 335, Pos (5,9)
+msgid "………"
+msgstr "………"
+
+#. ID 1, Page 2, Line 336, Pos (5,9)
+msgid ""
+"…人の気配を感じる。\n"
+"……しかし、起き上がることが出来ない……。\n"
+"違和感を感じつつも、再び深い眠りへ落ちていく……。"
+msgstr ""
+"感觉到人的气息。……但是，无法起身……。\n"
+"虽然感到违和，却又再次陷入深深的睡眠……。"
+
+#. ID 1, Page 2, Line 344, Pos (5,9)
+msgid ""
+"へへ…ぐっすり寝てるぜ。\n"
+"薬が効いてるみたいだな。"
+msgstr "嘿嘿……睡得真熟。药好像起效了。"
+
+#. ID 1, Page 2, Line 346, Pos (5,9)
+msgid ""
+"はやくやっちまおうぜ。\n"
+"なにやっても目覚まさないんだろ？"
+msgstr "快点干了吧。不管做什么她都不会醒吧？"
+
+#. ID 1, Page 2, Line 489, Pos (5,9)
+msgid ""
+"数時間後、\\N[\\V[6]]は気だるさと共に目を覚ました。\n"
+"寝ぼけて曖昧な意識のまま立ち上がろうとしたが\n"
+"\\!………\\!腰に力が入らない"
+msgstr ""
+"数小时后，\\N[\\V[6]]伴随着倦怠醒了过来。\n"
+"她睡得迷糊，在模糊的意识中想要站起来，但\\!………\n"
+"\\!腰使不上力"
+
+#. ID 1, Page 2, Line 492, Pos (5,9)
+msgid ""
+"股座に異物感を覚え、ふと手を伸ばしてみると…\n"
+"\\!ドロリとした感触と共に膣から大量の白濁液が……"
+msgstr ""
+"感到胯间有异物感，无意中伸手一摸……\n"
+"\\!伴随着黏稠的触感，大量白浊液从阴道里……"
+
+#. ID 1, Page 2, Line 494, Pos (5,9)
+msgid ""
+"\\N[\\V[6]]は徐々にハッキリしてきた意識で\n"
+"自らの身体の異変を確認した。\n"
+"\\!一糸纏わぬ身体に精液がこびり付いている。"
+msgstr ""
+"\\N[\\V[6]]随着意识逐渐清醒，\n"
+"确认了自己身体的异变。\n"
+"\\!一丝不挂的身体上黏着精液。"
+
+#. ID 1, Page 2, Line 500, Pos (5,9)
+msgid "うそ…そんな……"
+msgstr "骗人……怎么会……"
+
+#. ID 1, Page 2, Line 504, Pos (5,9)
+msgid ""
+"\\N[\\V[6]]は眠っている間に犯された事を悟り\n"
+"その場で声を殺して泣き崩れた。"
+msgstr ""
+"\\N[\\V[6]]意识到自己在睡着时被侵犯了，\n"
+"当场压低声音哭倒在地。"
+
+#. ID 1, Page 2, Line 511, Pos (5,9)
+msgid "あまり無理はしないでくださいね"
+msgstr "请不要太过勉强自己。"
+
+#. ID 3, Page 1, Line 3, Pos (13,7)
+msgid ""
+"もう・・・やめてぇ・・・・\n"
+"また・・赤ちゃん・・・できちゃう・・・・"
+msgstr "已经……不要啊……又会……怀上……孩子的……"

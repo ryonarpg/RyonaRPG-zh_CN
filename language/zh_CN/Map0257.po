@@ -1,0 +1,45 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 75, Page 2, Line 3, Pos (19,34)
+msgid "工事中なんダナ"
+msgstr "正在施工哪。"
+
+#. ID 76, Page 2, Line 3, Pos (20,34)
+msgid "工事中じゃん"
+msgstr "不是在施工嘛。"
+
+#. ID 77, Page 2, Line 3, Pos (21,34)
+msgid "だから工事中ですってば"
+msgstr "说了在施工啦。"
+
+#. ID 78, Page 2, Line 3, Pos (22,34)
+msgid "工事中だぜ無茶ゴリラ"
+msgstr "在施工啊，蛮干大猩猩。"
+
+#. ID 79, Page 2, Line 3, Pos (62,34)
+msgid "工事中なんだッシャ"
+msgstr "正在施工啊。"
+
+#. ID 80, Page 2, Line 3, Pos (63,34)
+msgid "ブーン工事中なんだブーン"
+msgstr "嗡嗡，在施工呢，嗡嗡。"
+
+#. ID 81, Page 2, Line 3, Pos (64,34)
+msgid "ダー工事中なんだぜ"
+msgstr "哒——在施工呢。"
+
+#. ID 82, Page 2, Line 3, Pos (65,34)
+msgid "工事中でござるでしょう"
+msgstr "在施工吧，是也。"

@@ -1,0 +1,266 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 6, Pos (11,12)
+#. ID 41, Page 1, Line 7, Pos (2,18)
+msgid "おちんちん、ずぽずぽする？"
+msgstr "小鸡鸡，要噗滋噗滋地插吗？"
+
+#. ID 3, Page 1, Line 12, Pos (11,12)
+#. ID 41, Page 1, Line 13, Pos (2,18)
+msgid "おねぇさま、お花のここ、熱くなって……"
+msgstr "姐姐大人，花花的这里，变热了……"
+
+#. ID 3, Page 1, Line 18, Pos (11,12)
+#. ID 41, Page 1, Line 19, Pos (2,18)
+msgid "…今日も、ちんちんでごしごしするの？"
+msgstr "…今天也要用小鸡鸡蹭来蹭去吗？"
+
+#. ID 3, Page 1, Line 24, Pos (11,12)
+#. ID 41, Page 1, Line 25, Pos (2,18)
+msgid "あぅ……"
+msgstr "啊呜……"
+
+#. ID 3, Page 1, Line 30, Pos (11,12)
+#. ID 3, Page 1, Line 42, Pos (11,12)
+#. ID 41, Page 1, Line 31, Pos (2,18)
+#. ID 41, Page 1, Line 43, Pos (2,18)
+msgid "な…に……？"
+msgstr "什…么……？"
+
+#. ID 3, Page 1, Line 36, Pos (11,12)
+msgid "きもい……"
+msgstr "好恶心……"
+
+#. ID 3, Page 1, Line 50, Pos (11,12)
+#. Choice (2 options)
+#. ID 6, Page 2, Line 48, Pos (3,13)
+#. Choice (2 options)
+#. ID 7, Page 2, Line 63, Pos (4,4)
+#. Choice (2 options)
+msgid ""
+"押し倒す\n"
+"何もしない"
+msgstr ""
+"推倒\n"
+"什么都不做"
+
+#. ID 3, Page 1, Line 61, Pos (11,12)
+#. ID 6, Page 2, Line 62, Pos (3,13)
+#. ID 7, Page 2, Line 77, Pos (4,4)
+#. ID 19, Page 1, Line 7, Pos (1,18)
+msgid "わっ……"
+msgstr "哇……"
+
+#. ID 3, Page 1, Line 67, Pos (11,12)
+#. ID 6, Page 2, Line 68, Pos (3,13)
+#. ID 7, Page 2, Line 83, Pos (4,4)
+msgid "やんっ……$g"
+msgstr "呀嗯……$g"
+
+#. ID 3, Page 1, Line 73, Pos (11,12)
+#. ID 6, Page 2, Line 74, Pos (3,13)
+#. ID 7, Page 2, Line 89, Pos (4,4)
+#. ID 19, Page 1, Line 19, Pos (1,18)
+msgid "んんっ……！"
+msgstr "嗯嗯……！"
+
+#. ID 3, Page 1, Line 79, Pos (11,12)
+#. ID 6, Page 2, Line 80, Pos (3,13)
+#. ID 7, Page 2, Line 95, Pos (4,4)
+#. ID 19, Page 1, Line 25, Pos (1,18)
+msgid "あぅっ……！"
+msgstr "啊呜……！"
+
+#. ID 3, Page 1, Line 85, Pos (11,12)
+msgid "触らないで……へんたい"
+msgstr "别碰我……变态"
+
+#. ID 3, Page 1, Line 91, Pos (11,12)
+#. ID 6, Page 2, Line 92, Pos (3,13)
+#. ID 7, Page 2, Line 107, Pos (4,4)
+#. ID 19, Page 1, Line 37, Pos (1,18)
+msgid "っ……？"
+msgstr "唔……？"
+
+#. ID 6, Page 2, Line 10, Pos (3,13)
+#. ID 42, Page 1, Line 7, Pos (3,18)
+msgid "おかあさん、いっしょにおねんねする？"
+msgstr "妈妈，要一起睡觉觉吗？"
+
+#. ID 6, Page 2, Line 16, Pos (3,13)
+#. ID 42, Page 1, Line 13, Pos (3,18)
+msgid "とっても暖かいですね、おねぇさま！"
+msgstr "非常暖和呢，姐姐大人！"
+
+#. ID 6, Page 2, Line 22, Pos (3,13)
+#. ID 7, Page 2, Line 37, Pos (4,4)
+#. ID 42, Page 1, Line 19, Pos (3,18)
+#. ID 43, Page 1, Line 19, Pos (4,18)
+msgid "あった……かい……"
+msgstr "暖……和……吗……"
+
+#. ID 6, Page 2, Line 28, Pos (3,13)
+#. ID 42, Page 1, Line 25, Pos (3,18)
+msgid "……$g"
+msgstr "……$g"
+
+#. ID 6, Page 2, Line 40, Pos (3,13)
+#. ID 42, Page 1, Line 37, Pos (3,18)
+msgid "……もふ"
+msgstr "……毛茸茸"
+
+#. ID 6, Page 2, Line 86, Pos (3,13)
+#. ID 7, Page 2, Line 101, Pos (4,4)
+#. ID 19, Page 1, Line 31, Pos (1,18)
+#. ID 41, Page 1, Line 37, Pos (2,18)
+msgid "やっ……！"
+msgstr "呀……！"
+
+#. ID 7, Page 2, Line 25, Pos (4,4)
+#. ID 43, Page 1, Line 7, Pos (4,18)
+msgid "１０までかぞえたらでてもいいよね？"
+msgstr "数到10就可以出来了吧？"
+
+#. ID 7, Page 2, Line 31, Pos (4,4)
+#. ID 43, Page 1, Line 13, Pos (4,18)
+msgid "とっても気持ちいいです、おねぇさま。"
+msgstr "非常舒服，姐姐大人。"
+
+#. ID 7, Page 2, Line 43, Pos (4,4)
+#. ID 43, Page 1, Line 25, Pos (4,18)
+msgid "きもち…いい……"
+msgstr "舒服……好舒服……"
+
+#. ID 7, Page 2, Line 55, Pos (4,4)
+#. ID 43, Page 1, Line 37, Pos (4,18)
+msgid "……ん"
+msgstr "……嗯"
+
+#. ID 11, Page 1, Line 1, Pos (11,11)
+msgid "とってもおいしいです！"
+msgstr "非常好吃！"
+
+#. ID 12, Page 1, Line 29, Pos (15,11)
+msgid "少女と家族のように食事をした。"
+msgstr "和少女像家人一样吃了饭。"
+
+#. ID 12, Page 1, Line 34, Pos (15,11)
+msgid "少女と中睦まじく食事をした。"
+msgstr "和少女亲密地吃了饭。"
+
+#. ID 12, Page 1, Line 39, Pos (15,11)
+msgid "少女と時折視線を合わせながら食事をした。"
+msgstr "和少女时不时地对视着吃了饭。"
+
+#. ID 12, Page 1, Line 44, Pos (15,11)
+msgid "少女は様子を伺っている。"
+msgstr "少女在观察情况。"
+
+#. ID 12, Page 1, Line 49, Pos (15,11)
+msgid "……へんたい"
+msgstr "……变态"
+
+#. ID 12, Page 1, Line 50, Pos (15,11)
+msgid "少女に罵られながら食事をした。"
+msgstr "一边被少女责骂一边吃了饭。"
+
+#. ID 12, Page 1, Line 55, Pos (15,11)
+msgid "少女はもじもじしている"
+msgstr "少女扭扭捏捏的"
+
+#. ID 12, Page 1, Line 66, Pos (15,11)
+msgid "少女はとても喜んでいる。"
+msgstr "少女非常高兴。"
+
+#. ID 12, Page 1, Line 70, Pos (15,11)
+msgid "おかぁさん、二人で食べると美味しいね"
+msgstr "妈妈，两个人一起吃真好吃呢"
+
+#. ID 12, Page 1, Line 75, Pos (15,11)
+msgid "これ、美味しいです、おねぇさま！"
+msgstr "这个很好吃，姐姐大人！"
+
+#. ID 12, Page 1, Line 80, Pos (15,11)
+msgid "美味しい……おねぇさん……ありがとう。"
+msgstr "好吃……姐姐大人……谢谢。"
+
+#. ID 12, Page 1, Line 85, Pos (15,11)
+msgid "おねぇ…ちゃん……"
+msgstr "姐姐……大人……"
+
+#. ID 12, Page 1, Line 90, Pos (15,11)
+msgid "このへんたい……"
+msgstr "这个变态……"
+
+#. ID 12, Page 1, Line 95, Pos (15,11)
+msgid "……"
+msgstr "……"
+
+#. ID 18, Page 1, Line 4, Pos (9,18)
+#. ID 51, Page 1, Line 4, Pos (31,9)
+msgid "少女と一夜を過ごした。"
+msgstr "和少女度过了一夜。"
+
+#. ID 18, Page 1, Line 13, Pos (9,18)
+msgid "ゆうべはおたのしみでしたね"
+msgstr "昨晚玩得开心吧"
+
+#. ID 19, Page 1, Line 13, Pos (1,18)
+msgid "やんっ……"
+msgstr "呀嗯……"
+
+#. ID 45, Page 1, Line 3, Pos (8,16)
+msgid "折角宿に泊ったんだし、一晩休もう。"
+msgstr "难得在旅店住下，就休息一晚吧。"
+
+#. ID 47, Page 1, Line 107, Pos (23,13)
+msgid "\\N[\\V[6]]は備品をお持ち帰りした。"
+msgstr "\\N[\\V[6]]带回了备品。"
+
+#. ID 47, Page 1, Line 124, Pos (23,13)
+msgid "\\N[\\V[6]]は備品のＶＩＰタオルをお持ち帰りした。"
+msgstr "\\N[\\V[6]]带回了备品VIP毛巾。"
+
+#. ID 47, Page 1, Line 126, Pos (23,13)
+msgid "ＶＩＰタオルを手に入れた。"
+msgstr "获得了VIP毛巾。"
+
+#. ID 47, Page 1, Line 134, Pos (23,13)
+msgid "\\N[\\V[6]]は備品の美肌クリームをお持ち帰りした。"
+msgstr "\\N[\\V[6]]带回了备品美肌霜。"
+
+#. ID 47, Page 1, Line 136, Pos (23,13)
+msgid "美肌クリームを手に入れた。"
+msgstr "获得了美肌霜。"
+
+#. ID 47, Page 1, Line 144, Pos (23,13)
+msgid "\\N[\\V[6]]は備品のいれずみシールをお持ち帰りした。"
+msgstr "\\N[\\V[6]]带回了备品纹身贴纸。"
+
+#. ID 47, Page 1, Line 146, Pos (23,13)
+msgid "いれずみシールを手に入れた。"
+msgstr "获得了纹身贴纸。"
+
+#. ID 48, Page 1, Line 4, Pos (30,28)
+msgid "一夜を過ごした。"
+msgstr "度过了一夜。"
+
+#. ID 50, Page 1, Line 3, Pos (33,24)
+msgid "・・・"
+msgstr "・・・"
+
+#. ID 52, Page 1, Line 3, Pos (31,4)
+msgid "…くさい"
+msgstr "…好臭"

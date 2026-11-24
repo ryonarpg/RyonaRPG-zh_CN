@@ -1,0 +1,33 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 3, Pos (17,17)
+msgid ""
+"石像は動かせますよ。\n"
+"またひとつおりこうになりましたね。\n"
+"やった！"
+msgstr "石像可以移动哦。又聪明了一点呢。太好了！"
+
+#. ID 12, Page 2, Line 6, Pos (17,17)
+msgid ""
+"でも、いまどきこんなちゃちー仕掛け作る奴なんて\n"
+"ほんとにいるのかなー\n"
+"\\.いねぇだろうなー"
+msgstr ""
+"不过，\n"
+"如今真会有家伙做这么简陋的机关吗—\\.应该没有吧—"
+
+#. ID 15, Page 2, Line 5, Pos (20,17)
+msgid "ヘッドドレスを手に入れた。"
+msgstr "获得了头饰。"

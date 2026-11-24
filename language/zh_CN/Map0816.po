@@ -1,0 +1,70 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 17, Page 1, Line 3, Pos (5,16)
+msgid "弱ったな……この都市、武器が売ってないのか"
+msgstr "真伤脑筋……这个城市，不卖武器吗"
+
+#. ID 18, Page 1, Line 3, Pos (16,27)
+msgid "こんにちは、今日も市民は幸福です。"
+msgstr "你好，今天市民也很幸福。"
+
+#. ID 19, Page 1, Line 3, Pos (32,36)
+msgid ""
+"こんにちは、旅の人。\n"
+"今日も市民は幸福です。"
+msgstr "你好，旅行者。今天市民也很幸福。"
+
+#. ID 20, Page 1, Line 3, Pos (1,42)
+#. ID 21, Page 1, Line 3, Pos (43,42)
+#. ID 22, Page 1, Line 3, Pos (1,8)
+#. ID 23, Page 1, Line 3, Pos (43,7)
+#. ID 24, Page 1, Line 3, Pos (19,49)
+#. ID 25, Page 1, Line 3, Pos (25,49)
+#. ID 26, Page 1, Line 3, Pos (9,49)
+#. ID 27, Page 1, Line 3, Pos (35,49)
+#. ID 28, Page 1, Line 3, Pos (20,46)
+#. ID 29, Page 1, Line 3, Pos (24,46)
+#. ID 30, Page 1, Line 3, Pos (20,36)
+#. ID 31, Page 1, Line 3, Pos (24,36)
+#. ID 32, Page 1, Line 3, Pos (20,26)
+#. ID 33, Page 1, Line 3, Pos (24,26)
+#. ID 34, Page 1, Line 3, Pos (20,16)
+#. ID 35, Page 1, Line 3, Pos (24,16)
+#. ID 36, Page 1, Line 3, Pos (12,47)
+#. ID 37, Page 1, Line 3, Pos (32,37)
+#. ID 38, Page 1, Line 3, Pos (12,27)
+#. ID 39, Page 1, Line 3, Pos (32,17)
+msgid ""
+"市民は、幸福です。\n"
+"幸福は、義務です。"
+msgstr "市民是幸福的。幸福是义务。"
+
+#. ID 40, Page 2, Line 3, Pos (22,15)
+msgid "＊開かない……"
+msgstr "＊打不开……"
+
+#. ID 41, Page 1, Line 3, Pos (22,54)
+#. Contains choice at line 2 (2 options)
+msgid "このダンジョンから出ますか？"
+msgstr "要离开这个地下城吗？"
+
+#. ID 41, Page 1, Line 4, Pos (22,54)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

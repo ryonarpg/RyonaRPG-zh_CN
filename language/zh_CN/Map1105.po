@@ -1,0 +1,23 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 4, Pos (21,8)
+msgid ""
+"フェリス\n"
+"「暇だわ…基本することないし。"
+msgstr "菲莉丝「好闲啊……基本上没什么可做的。"
+
+#. ID 5, Page 1, Line 3, Pos (34,18)
+msgid "ピアノがある…。"
+msgstr "有一架钢琴……。"

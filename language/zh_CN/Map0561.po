@@ -1,0 +1,369 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 3, Pos (12,8)
+msgid ""
+"首を吊られた少女：\n"
+"あ……えげえ……\n"
+"　ぐるじい……のに……じねない…………\n"
+"なんでえ…………"
+msgstr ""
+"被吊住脖子的少女：啊……好惨……　明明……这么痛苦……\n"
+"却死不了…………为什么啊…………"
+
+#. ID 23, Page 2, Line 3, Pos (23,33)
+#. ID 24, Page 2, Line 3, Pos (28,34)
+#. ID 82, Page 2, Line 3, Pos (28,32)
+#. ID 83, Page 2, Line 3, Pos (23,32)
+#. ID 84, Page 2, Line 3, Pos (27,32)
+#. ID 85, Page 2, Line 3, Pos (25,32)
+#. ID 86, Page 2, Line 3, Pos (26,34)
+msgid "犠牲者の持ち物だろう。"
+msgstr "是牺牲者的随身物品吧。"
+
+#. ID 23, Page 2, Line 4, Pos (23,33)
+#. Contains choice at line 2 (2 options)
+#. ID 24, Page 2, Line 4, Pos (28,34)
+#. Contains choice at line 2 (2 options)
+#. ID 82, Page 2, Line 4, Pos (28,32)
+#. Contains choice at line 2 (2 options)
+#. ID 83, Page 2, Line 4, Pos (23,32)
+#. Contains choice at line 2 (2 options)
+#. ID 84, Page 2, Line 4, Pos (27,32)
+#. Contains choice at line 2 (2 options)
+#. ID 85, Page 2, Line 4, Pos (25,32)
+#. Contains choice at line 2 (2 options)
+#. ID 86, Page 2, Line 4, Pos (26,34)
+#. Contains choice at line 2 (2 options)
+#. ID 90, Page 2, Line 4, Pos (9,33)
+#. Contains choice at line 2 (2 options)
+msgid "いただきますか？"
+msgstr "要收下吗？"
+
+#. ID 23, Page 2, Line 5, Pos (23,33)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 2, Line 5, Pos (28,34)
+#. Choice (2 options, embedded in a message)
+#. ID 82, Page 2, Line 5, Pos (28,32)
+#. Choice (2 options, embedded in a message)
+#. ID 83, Page 2, Line 5, Pos (23,32)
+#. Choice (2 options, embedded in a message)
+#. ID 84, Page 2, Line 5, Pos (27,32)
+#. Choice (2 options, embedded in a message)
+#. ID 85, Page 2, Line 5, Pos (25,32)
+#. Choice (2 options, embedded in a message)
+#. ID 86, Page 2, Line 5, Pos (26,34)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"死者への冒涜だ"
+msgstr ""
+"是\n"
+"是对死者的亵渎"
+
+#. ID 23, Page 2, Line 12, Pos (23,33)
+msgid "宝刀チチウシを手に入れた。"
+msgstr "获得了宝刀·奇奇乌西。"
+
+#. ID 24, Page 2, Line 12, Pos (28,34)
+msgid "メロウリングを手に入れた。"
+msgstr "获得了柔美戒指。"
+
+#. ID 25, Page 2, Line 3, Pos (23,8)
+msgid ""
+"拘束された女：\n"
+"いや……無理！そんなの……入らない！！！\n"
+msgstr "被拘束的女人：不……不行！那种东西……进不来！！！"
+
+#. ID 25, Page 2, Line 6, Pos (23,8)
+msgid ""
+"拘束された女：\n"
+"うひひ……うひいいいいいいいい\\C[7]$k$k$k$k$k$k$k$k$k"
+msgstr ""
+"被拘束的女人：呜嘻嘻……\n"
+"呜嘻咿咿咿咿咿咿咿咿\\C[7]$k$k$k$k$k$k$k$k$k"
+
+#. ID 25, Page 2, Line 12, Pos (23,8)
+msgid ""
+"幻覚でも見ているのだろうか。\n"
+"周りに誰もいないにも関わらず\n"
+"酷く興奮し股からは愛液を止めどなく垂れ流している。"
+msgstr ""
+"是看见幻觉了吗。明明周围一个人也没有，\n"
+"却异常兴奋，爱液从胯下不断地流出来。"
+
+#. ID 27, Page 2, Line 3, Pos (8,8)
+msgid ""
+"お団子娘：\n"
+"なにごれ……ぎも゛ぢわ゛る゛い゛…………\n"
+"え゛……げ………\\!ぶふ…………"
+msgstr ""
+"丸子头女孩：什么这……真恶゛心゛…………诶゛……呃………\n"
+"\\!噗呼…………"
+
+#. ID 27, Page 2, Line 6, Pos (8,8)
+msgid ""
+"お団子娘：\n"
+"にがい゛……\n"
+"………ぐるじい…………"
+msgstr "丸子头女孩：好苦゛……………好难受…………"
+
+#. ID 32, Page 2, Line 3, Pos (27,13)
+msgid ""
+"若い女の声：\n"
+"え゛あ゛か゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛！\n"
+msgstr ""
+"年轻女人的声音：\n"
+"诶゛啊゛嘎゛啊啊啊啊啊啊啊啊啊゛！"
+
+#. ID 32, Page 2, Line 6, Pos (27,13)
+msgid ""
+"若い女の声：\n"
+"ごろぜえ゛！！！\n"
+"も゛う゛……ごろじでええええええええ！！！！"
+msgstr ""
+"年轻女人的声音：杀゛了゛我゛！！！已゛经゛……\n"
+"杀゛了゛我゛吧啊啊啊啊啊啊啊！！！！"
+
+#. ID 34, Page 2, Line 3, Pos (13,17)
+#. ID 34, Page 3, Line 3, Pos (13,17)
+msgid ""
+"内臓を抉られている幼女：\n"
+"エ゛エ゛ーーーーーーーー……\n"
+"　　ア゛ア゛ーーーーーーーーーーーー……\n"
+"　イデ…………イデェ……"
+msgstr ""
+"内脏被挖出的幼女：诶゛诶゛————……\n"
+"　　啊゛啊゛————……　痛…………痛啊……"
+
+#. ID 36, Page 2, Line 3, Pos (22,8)
+msgid ""
+"毒々しい色の液体が詰められている。\n"
+"栓は開いているようだ。"
+msgstr "里面装着颜色诡异的液体。瓶塞似乎开着。"
+
+#. ID 39, Page 2, Line 3, Pos (10,17)
+#. ID 39, Page 3, Line 3, Pos (10,17)
+msgid ""
+"ようせい：\n"
+"いや！！！\n"
+"あたしのなか……いじくりまわさないでえええええ！！"
+msgstr ""
+"妖精：不要！！！不要在我的里面……\n"
+"乱翻乱弄啊啊啊啊啊！！"
+
+#. ID 40, Page 2, Line 3, Pos (7,17)
+#. ID 40, Page 3, Line 3, Pos (7,17)
+msgid "生首が無造作に捨て置かれている。"
+msgstr "一颗头颅被随意丢弃在那里。"
+
+#. ID 42, Page 2, Line 3, Pos (15,16)
+msgid ""
+"繋がれた女：\n"
+"次は私？……じょ……冗談じゃないわ！\n"
+"そ……そこのあんた！！！たすけてよ！！！\n"
+"な…なんでもあげるから！！私の家、お金持ちなの！！"
+msgstr ""
+"被绑着的女人：下一个是我？……开……开什么玩笑！\n"
+"那……那边的你！！！救救我！！！我……\n"
+"我什么都会给你的！！我家很有钱的！！"
+
+#. ID 42, Page 2, Line 11, Pos (15,16)
+msgid ""
+"鎖は固く繋がれ、ビクともしない。\n"
+"\\n[\\v[6]]は黙って首を横に振った。"
+msgstr ""
+"锁链牢牢地绑着，纹丝不动。\n"
+"\\n[\\v[6]]默默地摇了摇头。"
+
+#. ID 42, Page 2, Line 17, Pos (15,16)
+msgid ""
+"繋がれた女：\n"
+"\n"
+"いやだ……いやああああああああああああああ！！！"
+msgstr ""
+"被绑着的女人：不要……\n"
+"不要啊啊啊啊啊啊啊啊啊啊啊啊啊！！！"
+
+#. ID 43, Page 2, Line 3, Pos (24,28)
+msgid ""
+"人体改造された女：\n"
+"えへへえ…………\n"
+"　　あたしのおちち…………\n"
+"おいしいよお……………"
+msgstr ""
+"被人体改造的女子：嘿嘿…………　我的奶…………\n"
+"很好喝哦……………"
+
+#. ID 43, Page 2, Line 7, Pos (24,28)
+msgid ""
+"人体改造された女：\n"
+"あたしぃ……「せーこーさく」だからあ…………\n"
+"　　こうやってえ……\n"
+"　　　「あの方」にぃ……ごほうしできるのお…………"
+msgstr ""
+"被人体改造的女子：因为我……是「成功作」嘛…………\n"
+"　这样……　就能向「那位大人」……汇报了呢…………"
+
+#. ID 43, Page 2, Line 11, Pos (24,28)
+msgid ""
+"人体改造された女：\n"
+"うひぃ……\n"
+"　　　　えへえ…………\n"
+"　　　　　　ひやわせえ…………"
+msgstr ""
+"被人体改造的女子：呜嘻……　嘿嘿…………\n"
+"　　　好幸福啊…………"
+
+#. ID 44, Page 2, Line 3, Pos (14,17)
+msgid ""
+"覆面：\n"
+"神経維持……\n"
+"　　消化器系……状態良好……\n"
+"　　　感度不良…………"
+msgstr ""
+"蒙面人：神经维持……　消化系统……状态良好……\n"
+"　　　感度不良…………"
+
+#. ID 45, Page 2, Line 3, Pos (11,17)
+msgid ""
+"覆面：\n"
+"排泄機能維持……\n"
+"　　感度良好…………\n"
+"　　　　内臓……一部破損……"
+msgstr ""
+"蒙面人：排泄功能维持……　感度良好…………\n"
+"　　　内脏……部分破损……"
+
+#. ID 45, Page 2, Line 7, Pos (11,17)
+msgid ""
+"覆面：\n"
+"至急……使用可能部位の切除…………\n"
+"　　羽根……眼球…………\n"
+"　　　　　生殖器……やや破損も……使用可能…………"
+msgstr ""
+"蒙面人：紧急……切除可用部位…………　翅膀……眼球…………\n"
+"　　　生殖器……虽有轻微破损……仍可使用…………"
+
+#. ID 46, Page 2, Line 3, Pos (25,27)
+msgid ""
+"人体改造された女：\n"
+"あれえ……\n"
+"　　おちちでない…………\n"
+"　　　　なんでえ…………"
+msgstr ""
+"被人体改造的女子：咦……　奶出不来…………\n"
+"　　　为什么呀…………"
+
+#. ID 46, Page 2, Line 7, Pos (25,27)
+msgid ""
+"人体改造された女：\n"
+"おねがい……でて……でてよお…………\n"
+"　　　　おちちでないと……わたし…………"
+msgstr ""
+"被人体改造的女子：求求你……出来……出来呀…………\n"
+"　奶出不来的话……我就…………"
+
+#. ID 48, Page 2, Line 3, Pos (23,24)
+msgid "乱雑な文字でこう書かれている。"
+msgstr "用潦草的字迹写着这样一句话。"
+
+#. ID 48, Page 2, Line 4, Pos (23,24)
+msgid "『性能の低下により屠殺処分とす』"
+msgstr "「因性能下降予以屠杀处分」"
+
+#. ID 51, Page 2, Line 3, Pos (25,25)
+msgid ""
+"人体改造された女：\n"
+"だれ…………\n"
+"　　だれかいるの…………\n"
+"　　　なにも……なにもみえない…………"
+msgstr ""
+"被人体改造的女子：谁…………　有谁在吗…………\n"
+"　　什么……什么都看不见…………"
+
+#. ID 51, Page 2, Line 7, Pos (25,25)
+msgid ""
+"人体改造された女：\n"
+"おねがい……みないで……\n"
+"　　わたしを……みないで…………"
+msgstr ""
+"被人体改造的女子：求求你……别看……　不要……看我……\n"
+"……"
+
+#. ID 51, Page 3, Line 3, Pos (25,25)
+msgid ""
+"人体改造された女：\n"
+"だれ…………\n"
+"　　だれかいるの…………"
+msgstr "被人体改造的女子：谁…………　有谁在吗…………"
+
+#. ID 51, Page 3, Line 6, Pos (25,25)
+msgid ""
+"人体改造された女：\n"
+"みないで……\n"
+"　　わたしを……みないで…………"
+msgstr "被人体改造的女子：别看……　不要……看我…………"
+
+#. ID 82, Page 2, Line 12, Pos (28,32)
+msgid "貝がらの鎧を手に入れた。"
+msgstr "获得了贝壳铠甲。"
+
+#. ID 83, Page 2, Line 12, Pos (23,32)
+msgid "ビーストスピアを手に入れた。"
+msgstr "获得了兽之枪。"
+
+#. ID 84, Page 2, Line 12, Pos (27,32)
+msgid "ロリータドレスを手に入れた。"
+msgstr "获得了洛丽塔连衣裙。"
+
+#. ID 85, Page 2, Line 12, Pos (25,32)
+msgid "エレメンタルガンナーを手に入れた。"
+msgstr "获得了元素枪手。"
+
+#. ID 86, Page 2, Line 12, Pos (26,34)
+msgid "天使の涙を手に入れた。"
+msgstr "获得了天使之泪。"
+
+#. ID 90, Page 2, Line 3, Pos (9,33)
+msgid "犠牲者の血をたっぷり吸った剣だ。"
+msgstr "这是吸饱了牺牲者鲜血的剑。"
+
+#. ID 90, Page 2, Line 5, Pos (9,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 90, Page 2, Line 12, Pos (9,33)
+msgid "妖刀似蛭を手に入れた。"
+msgstr "获得了妖刀似蛭。"
+
+#. ID 97, Page 2, Line 3, Pos (26,19)
+msgid ""
+"覆面：\n"
+"フヒ……\n"
+"　フヒヒ…………ハラワタ…………ハラワタ…………"
+msgstr "蒙面人：呼嘻……　呼嘻嘻…………内脏…………内脏…………"
+
+#. ID 98, Page 2, Line 3, Pos (27,19)
+#. ID 98, Page 3, Line 3, Pos (27,19)
+msgid ""
+"ビク………\n"
+"\n"
+"　　　\\!ビクッ…………"
+msgstr "抽搐………　　　\\!抽搐…………"

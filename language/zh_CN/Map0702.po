@@ -1,0 +1,46 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 28, Page 2, Line 3, Pos (29,3)
+msgid "人生に楽な道などない"
+msgstr "人生没有轻松的道路"
+
+#. ID 35, Page 2, Line 5, Pos (10,8)
+#. Contains choice at line 2 (2 options)
+msgid "貴女はどっちがお好きかな？"
+msgstr "你更喜欢哪一边呢？"
+
+#. ID 35, Page 2, Line 6, Pos (10,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"楽な道\n"
+"辛い道"
+msgstr ""
+"轻松的道路\n"
+"艰辛的道路"
+
+#. ID 35, Page 2, Line 8, Pos (10,8)
+#. ID 35, Page 2, Line 12, Pos (10,8)
+msgid "りょーかい、ではお先へどうぞ"
+msgstr "了解，那么请先走。"
+
+#. ID 35, Page 3, Line 3, Pos (10,8)
+msgid "何？"
+msgstr "什么？"
+
+#. ID 39, Page 2, Line 3, Pos (29,10)
+msgid ""
+"苦難の道を選んだ者にこそ栄光への道が\n"
+"開ける…"
+msgstr "唯有选择苦难之路的人，才能开启通往荣耀的道路…"

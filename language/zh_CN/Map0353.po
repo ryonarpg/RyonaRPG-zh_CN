@@ -1,0 +1,49 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (11,7)
+#. Contains choice at line 2 (3 options)
+msgid "「いらっしゃい……首でも回らなくなったかね？」"
+msgstr "「欢迎……是不是连脖子都转不动了？」"
+
+#. ID 2, Page 1, Line 4, Pos (11,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>質流れの品を購入\n"
+"\\>質に入れる\n"
+"\\> "
+msgstr ""
+"\\>购买流当品\n"
+"\\>拿去典当\n"
+"\\>"
+
+#. ID 2, Page 1, Line 7, Pos (11,7)
+msgid "「まいどあり……」"
+msgstr "「谢谢惠顾……」"
+
+#. ID 2, Page 1, Line 12, Pos (11,7)
+msgid "「いつでもおいで……」"
+msgstr "「随时欢迎再来……」"
+
+#. ID 2, Page 1, Line 16, Pos (11,7)
+msgid "「大丈夫かい……？」"
+msgstr "「没事吧……？」"
+
+#. ID 2, Page 1, Line 21, Pos (11,7)
+msgid "「おや……お客さん、アレが欲しいのかい？」"
+msgstr "「哦呀……客人，你想要那个吗？」"
+
+#. ID 2, Page 1, Line 23, Pos (11,7)
+msgid "「このことは内密に頼むよ……」"
+msgstr "「这件事请保密……」"

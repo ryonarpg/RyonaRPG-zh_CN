@@ -1,0 +1,750 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (2,8)
+msgid ""
+"みんな席についたようだね。\n"
+"じゃあ授業を始めるよ"
+msgstr "大家好像都坐好了。那么开始上课了。"
+
+#. ID 2, Page 1, Line 5, Pos (2,8)
+msgid ""
+"ここでは奉仕１…つまりフェラチオについて…\n"
+"\n"
+"女子はやり方、男子はやられ方を学んでもらう。"
+msgstr ""
+"在这里，关于侍奉1……也就是口交……女生学习做法，\n"
+"男生学习被做的感觉。"
+
+#. ID 2, Page 1, Line 8, Pos (2,8)
+msgid "童顔の男子生徒「どうやってですか？」"
+msgstr "童颜男学生：「要怎么做呢？」"
+
+#. ID 2, Page 1, Line 9, Pos (2,8)
+msgid "もちろん実習だ！"
+msgstr "当然是实习！"
+
+#. ID 2, Page 1, Line 10, Pos (2,8)
+msgid ""
+"さあ、女子は隣の席の男子にフェラチオをしなさい。\n"
+"自信がなくてもいい、そのための練習だ。\n"
+"さあ始めなさい"
+msgstr ""
+"来吧，女生给邻座的男生口交。没有自信也没关系，\n"
+"这正是为了练习。来吧，开始吧。"
+
+#. ID 2, Page 1, Line 21, Pos (2,8)
+msgid "\\n[\\v[6]]は優等生だからな…先生が相手してやろう"
+msgstr "\\n[\\v[6]]是优等生嘛……老师来陪你吧。"
+
+#. ID 2, Page 1, Line 86, Pos (2,8)
+msgid ""
+"よーし、うまいぞ\n"
+"もっとだ、もっといやらしく"
+msgstr "好——很熟练嘛，再多来点，再淫荡一点。"
+
+#. ID 2, Page 1, Line 90, Pos (2,8)
+msgid "男子生徒「うっ！！」"
+msgstr "男学生：「唔！！」"
+
+#. ID 2, Page 1, Line 133, Pos (2,8)
+msgid "そこまで！"
+msgstr "到此为止！"
+
+#. ID 2, Page 1, Line 134, Pos (2,8)
+msgid "よし、じゃあ席にもどりなさい"
+msgstr "好，那么回到座位上去。"
+
+#. ID 2, Page 1, Line 154, Pos (2,8)
+msgid ""
+"よーし席に戻ったな。\n"
+"コツはつかめたか？\n"
+"まだうまく出来ないなら、何度でも来るといい"
+msgstr ""
+"好——回到座位了啊。抓住诀窍了吗？\n"
+"如果还不能做好，来多少次都行。"
+
+#. ID 2, Page 1, Line 157, Pos (2,8)
+msgid "では解散だ"
+msgstr "那么解散。"
+
+#. ID 2, Page 2, Line 3, Pos (2,8)
+msgid ""
+"この学校では、特別講師の○リーパー様から派遣された\n"
+"私のような相談役が生徒達の悩みを聞いている…。"
+msgstr ""
+"在这所学校里，\n"
+"像我这样由特别讲师○收割者大人派遣来的咨询员，\n"
+"会倾听学生们的烦恼……。"
+
+#. ID 2, Page 2, Line 5, Pos (2,8)
+msgid ""
+"君は人に言えないような恥ずかしい悩みを持ってたり\n"
+"しないかな？"
+msgstr "你有没有那种难以对人启齿的羞耻烦恼呢？"
+
+#. ID 2, Page 2, Line 7, Pos (2,8)
+msgid ""
+"もしもあるようだったら、遠慮なく相談してくれ。\n"
+"それを解決するのが相談役だからな。"
+msgstr ""
+"如果有的话，就别客气来咨询吧。\n"
+"因为解决这些就是咨询员的职责。"
+
+#. ID 2, Page 2, Line 11, Pos (2,8)
+#. Choice (2 options)
+msgid ""
+"おもらしをしてしまう事が…。\n"
+"…いえ、大丈夫です。"
+msgstr ""
+"会尿裤子这件事……。\n"
+"……不，没关系。"
+
+#. ID 2, Page 2, Line 13, Pos (2,8)
+msgid ""
+"…ふむ、街中でおもらしをしてしまう事があって、\n"
+"それが恥ずかしくって嫌だ？"
+msgstr "……嗯，你有时会在街上尿裤子，觉得羞耻又讨厌吗？"
+
+#. ID 2, Page 2, Line 19, Pos (2,8)
+#. ID 2, Page 2, Line 98, Pos (2,8)
+msgid ""
+"…なるほど、それは確かに辛いだろうな。\n"
+"\n"
+"……では……。"
+msgstr "……原来如此，那确实会很难受吧。……那么……。"
+
+#. ID 2, Page 2, Line 51, Pos (2,8)
+msgid ""
+"…君は人前でおもらしをする事が快感になる…。\n"
+"…恥ずかしさを感じることも無く、むしろ見られる事を\n"
+"望むようになるんだ…。"
+msgstr ""
+"……你会觉得在人前尿裤子是快感……。……\n"
+"不再感到羞耻，反而会希望被别人看到……。"
+
+#. ID 2, Page 2, Line 60, Pos (2,8)
+msgid ""
+"……ほら、おもらしをする事が嫌じゃなくなるように\n"
+"してあげたよ。"
+msgstr "……看，我已经让你变得不讨厌尿裤子了哦。"
+
+#. ID 2, Page 2, Line 62, Pos (2,8)
+msgid ""
+"　　　・・・・・・・・・・・・・・\n"
+"これで恥ずかしい悩みじゃなくなったし、万事解決って\n"
+"とこだな！"
+msgstr ""
+"　　　・・・・・・・・・・・・・・这样一来就不\n"
+"　　　再是羞耻的烦恼了，算是万事解决了吧！"
+
+#. ID 2, Page 2, Line 69, Pos (2,8)
+msgid ""
+"* …確かに、さっきまで嫌だったはずなのに今はむしろ\n"
+"　おもらしをしたくてたまらなくなっている…。\n"
+"　…どこかおかしい気もするけど、悩みは解決したし\n"
+"　きっと気のせいだろう。"
+msgstr ""
+"* ……确实，明明刚才还很讨厌，\n"
+"　现在反而　变得非常想尿裤子……。　……\n"
+"　虽然总觉得哪里奇怪，\n"
+"　但烦恼已经解决了　一定是错觉吧。"
+
+#. ID 2, Page 2, Line 73, Pos (2,8)
+#. ID 2, Page 2, Line 150, Pos (2,8)
+msgid ""
+"…さ、もう夜も遅い時間だ。\n"
+"早く寮に戻って休みなさい。"
+msgstr "……好了，已经很晚了。快点回宿舍休息吧。"
+
+#. ID 2, Page 2, Line 78, Pos (2,8)
+#. ID 2, Page 2, Line 155, Pos (2,8)
+msgid "そうかい？まあ、また何か悩みがあったら言ってくれ。"
+msgstr "是吗？嘛，如果又有什么烦恼就告诉我吧。"
+
+#. ID 2, Page 2, Line 88, Pos (2,8)
+#. Choice (2 options)
+msgid ""
+"突然自慰をしてしまう事が…。\n"
+"…いえ、大丈夫です。"
+msgstr ""
+"会突然自慰这件事……。\n"
+"……不，没关系。"
+
+#. ID 2, Page 2, Line 90, Pos (2,8)
+msgid ""
+"…ふむ、夜寝る時に自慰が止まらなくなったり、\n"
+"人がいる所でも自慰をしてしまう事が恥ずかしい？"
+msgstr ""
+"……嗯，晚上睡觉时自慰停不下来，\n"
+"或者在有人在场的地方也自慰，让你觉得羞耻？"
+
+#. ID 2, Page 2, Line 92, Pos (2,8)
+msgid ""
+"…なるほど、自慰する事をコントロールできなかったり\n"
+"誰かに自慰を見られたりする事が嫌なんだね？"
+msgstr ""
+"……原来如此，是讨厌控制不住自慰，\n"
+"或者被谁看到自慰吧？"
+
+#. ID 2, Page 2, Line 130, Pos (2,8)
+msgid ""
+"君は自慰がとっても大好きになる…。\n"
+"どこでも自慰をしたくなるし、自慰している所を誰かに\n"
+"見られる事も大好きになる…。"
+msgstr ""
+"你会变得非常喜欢自慰……。无论在哪里都会想自慰，\n"
+"也会非常喜欢自慰时被别人看到……。"
+
+#. ID 2, Page 2, Line 139, Pos (2,8)
+msgid "…ほら、君は自慰が大好きな女の子になったよ。"
+msgstr "……看，你已经变成非常喜欢自慰的女孩子了哦。"
+
+#. ID 2, Page 2, Line 140, Pos (2,8)
+msgid ""
+"・・・・・・・・・・・・・・・・・・\n"
+"大好きな事ならいくらしても嫌じゃないから、\n"
+"万事解決ってとこだな！"
+msgstr ""
+"・・・・・・・・・・・・・・・・・・既然是喜欢\n"
+"的事，做多少次也不会讨厌，所以算是万事解决了！"
+
+#. ID 2, Page 2, Line 147, Pos (2,8)
+msgid ""
+"* …そうだ、私は自慰が大好きだったんだ。\n"
+"　それならどこでしても、誰に見られても問題なんて事\n"
+"　あるわけないじゃないか。"
+msgstr ""
+"* ……对了，我本来就非常喜欢自慰。　那样的话，\n"
+"　不管在哪里做、被谁看到，\n"
+"　都不可能会有什么问题　不是吗。"
+
+#. ID 2, Page 2, Line 164, Pos (2,8)
+msgid ""
+"…ふむ…。\n"
+"君、ちょっといいかな？"
+msgstr "……嗯……。你，方便稍微聊一下吗？"
+
+#. ID 2, Page 2, Line 166, Pos (2,8)
+msgid ""
+"私は生徒指導の先生ではないのだが、少し君に忠告して\n"
+"おこうと思ってね…。"
+msgstr ""
+"我虽然不是负责学生指导的老师，\n"
+"不过觉得还是给你一点忠告比较好……。"
+
+#. ID 2, Page 2, Line 168, Pos (2,8)
+msgid ""
+"…この学園は淫らで優秀であればより評価される…。\n"
+"君はどうやら優秀な生徒ではあるようだが、どうにも\n"
+"淫らさが少し足りていないようだったからね…。"
+msgstr ""
+"……这所学园里，淫荡且优秀的人会得到更高评价……。\n"
+"你看起来确实是优秀的学生，\n"
+"但总觉得淫荡程度还稍微不够呢……。"
+
+#. ID 2, Page 2, Line 175, Pos (2,8)
+msgid "* …？どうすればいいのだろうか？"
+msgstr "* …？该怎么做才好呢？"
+
+#. ID 2, Page 2, Line 176, Pos (2,8)
+msgid ""
+"簡単な事さ…。裸で過ごすようになればいい。\n"
+"\n"
+"どれ、ちょっとした手伝いをしてやろう…。"
+msgstr ""
+"很简单……。只要以后都裸着生活就好了。来吧，\n"
+"让我稍微帮你一下……。"
+
+#. ID 2, Page 2, Line 208, Pos (2,8)
+msgid ""
+"…君はこれから日常的に淫らさを磨くために、いつも\n"
+"全裸で過ごすようになる…。服を着るとしても、淫らな\n"
+"服で無ければ体が受け付けない…。"
+msgstr ""
+"……你从今往后，为了日常磨练淫荡，\n"
+"会总是全裸生活……。即使要穿衣服，\n"
+"如果不是淫荡的衣服，身体就不会接受……。"
+
+#. ID 2, Page 2, Line 217, Pos (2,8)
+msgid "ほら、全裸でいる事のキモチヨサに気がついただろう？"
+msgstr "看，你已经注意到全裸有多舒服了吧？"
+
+#. ID 2, Page 2, Line 222, Pos (2,8)
+msgid ""
+"* …本当だ、裸を見られていると思うとキモチイイ…！\n"
+"　なんで私は今までこんなにキモチイイ事に\n"
+"　気付かなかったのだろうか…。"
+msgstr ""
+"* ……真的，一想到裸体被人看着就很舒服……！\n"
+"　为什么我到现在都没注意到这么舒服的事呢……。"
+
+#. ID 2, Page 2, Line 225, Pos (2,8)
+msgid ""
+"…うん、どうやらちゃんと全裸の素晴らしさに気付いた\n"
+"みたいだね。\n"
+"この調子でしっかりと淫らさを磨いていくように。"
+msgstr ""
+"…嗯，看来你好好注意到了全裸的美妙呢。\n"
+"就照这个势头，继续好好磨炼淫荡吧。"
+
+#. ID 8, Page 1, Line 1, Pos (0,14)
+#. Choice (3 options)
+msgid ""
+"はい\n"
+"いいえ\n"
+"こんな授業はおかしい！"
+msgstr ""
+"是\n"
+"否\n"
+"这种课太奇怪了！"
+
+#. ID 8, Page 1, Line 41, Pos (0,14)
+msgid ""
+"なにもおかしくないんだな…\n"
+"なにもおかしくないんだな…\n"
+"なにもおかしくないんだな…"
+msgstr "什么也不奇怪…什么也不奇怪…什么也不奇怪…"
+
+#. ID 8, Page 1, Line 59, Pos (0,14)
+msgid ""
+"授業なんだから正しいに決まってるんだな…\n"
+"授業なんだから正しいに決まってるんだな…\n"
+"授業なんだから正しいに決まってるんだな…"
+msgstr ""
+"因为这是课，所以一定是对的…因为这是课，\n"
+"所以一定是对的…因为这是课，所以一定是对的…"
+
+#. ID 8, Page 1, Line 67, Pos (0,14)
+msgid ""
+"…授業はなにもおかしくない…\n"
+"授業を受けよう…"
+msgstr "…课没有任何奇怪的地方…去上课吧…"
+
+#. ID 9, Page 1, Line 3, Pos (9,3)
+#. ID 10, Page 1, Line 3, Pos (10,3)
+msgid "先生「ここは\"奉仕１\"の授業だよ。受けるかい？」"
+msgstr "老师「这里是\"侍奉1\"的课程哦。要上吗？」"
+
+#. ID 13, Page 1, Line 3, Pos (30,3)
+#. ID 14, Page 1, Line 3, Pos (31,3)
+msgid "先生「ここは\"マゾヒズム\"の授業だよ。受けるかい？」"
+msgstr "老师「这里是\"受虐狂\"的课程哦。要上吗？」"
+
+#. ID 15, Page 1, Line 4, Pos (23,8)
+#. ID 15, Page 1, Line 35, Pos (23,8)
+msgid "では授業を始めます。"
+msgstr "那么，开始上课。"
+
+#. ID 15, Page 1, Line 5, Pos (23,8)
+#. ID 15, Page 1, Line 36, Pos (23,8)
+msgid ""
+"この授業はマゾヒズムを磨くための時間です\n"
+"マゾヒズム…つまり痛みの快感…"
+msgstr ""
+"这节课是用来磨炼受虐狂的时间。受虐狂…\n"
+"也就是疼痛的快感…"
+
+#. ID 15, Page 1, Line 7, Pos (23,8)
+#. ID 15, Page 1, Line 38, Pos (23,8)
+msgid ""
+"あなた達はス○ーパー様の嗜虐心を満たせるように\n"
+"立派なマゾになってもらいます。"
+msgstr ""
+"你们要成为出色的受虐狂，\n"
+"以便满足斯○帕大人的施虐心。"
+
+#. ID 15, Page 1, Line 9, Pos (23,8)
+msgid ""
+"今回は優等生の\\n[\\v[6]]さんがいるので、\n"
+"特別授業といきましょう"
+msgstr ""
+"这次有优等生\\n[\\v[6]]同学在，\n"
+"所以我们就来进行特别授课吧"
+
+#. ID 15, Page 1, Line 40, Pos (23,8)
+msgid ""
+"なに、授業自体は簡単です。\n"
+"あなた達は何もしなくていいのです"
+msgstr "没什么，课程本身很简单。你们什么都不用做。"
+
+#. ID 15, Page 1, Line 42, Pos (23,8)
+msgid "では、始めますよ…"
+msgstr "那么，开始了哦…"
+
+#. ID 15, Page 1, Line 58, Pos (23,8)
+msgid "まだまだいきますよ"
+msgstr "还要继续哦"
+
+#. ID 15, Page 1, Line 81, Pos (23,8)
+msgid "ふぅ…今回はこのくらいにしておきましょうか…"
+msgstr "呼…这次就到此为止吧…"
+
+#. ID 15, Page 1, Line 82, Pos (23,8)
+msgid "では解散です"
+msgstr "那么，解散。"
+
+#. ID 23, Page 1, Line 3, Pos (45,8)
+msgid ""
+"ひ、ひひ。みんな席に着いたね。\n"
+"じゃあ授業の時間だよ～。"
+msgstr ""
+"嘻、嘻嘻。大家都坐好了呢。那么，\n"
+"上课时间到了哦～。"
+
+#. ID 23, Page 1, Line 5, Pos (45,8)
+msgid ""
+"ここではお、お互い見せ合いながら\n"
+"オナニーするす、するんだな。"
+msgstr ""
+"在这里要彼、彼此一边给对方看一边自慰，要、\n"
+"要做哦。"
+
+#. ID 23, Page 1, Line 7, Pos (45,8)
+msgid ""
+"羞恥心とか、感度を鍛えるもも目的なんだな。\\!\n"
+"じゃあま、真ん中のぶぶ舞台に集まるんだな、な。"
+msgstr ""
+"锻炼羞耻心啦、敏感度之类的也是目的哦。\\!那么，\n"
+"到中、中间的舞、舞台上集合吧，吧。"
+
+#. ID 23, Page 1, Line 20, Pos (45,8)
+msgid ""
+"そ、それと今日は、けけ見学に来てるけど\\!\n"
+"い、いつも通りやれば、ゆ、い、いいんだな。"
+msgstr ""
+"还、还有，今天有见、见习的人来参观，不过\\!只、\n"
+"只要像往常一样做，就、就、就可以了吧。"
+
+#. ID 23, Page 1, Line 30, Pos (45,8)
+msgid "……もう、濡れちゃってる……"
+msgstr "……已经、湿掉了……"
+
+#. ID 23, Page 1, Line 45, Pos (45,8)
+msgid "や、……あっ、きもちい、いいっ……！"
+msgstr "呀、……啊、好舒服、舒服……！"
+
+#. ID 23, Page 1, Line 59, Pos (45,8)
+msgid "みんな、見てる、のにっ……！"
+msgstr "大家、都在看着、可是……！"
+
+#. ID 23, Page 1, Line 73, Pos (45,8)
+msgid "とまら、ないっ……！！"
+msgstr "停不、下来……！！"
+
+#. ID 23, Page 1, Line 98, Pos (45,8)
+msgid "ふあ、ふうっ、\\!ふは、はあぁっ……。"
+msgstr "呼啊、呼唔、\\!呼哈、哈啊……。"
+
+#. ID 23, Page 1, Line 105, Pos (45,8)
+msgid ""
+"ひ、ひひひ。\\!\n"
+"うん。みんな、よよ、良かったよ～。"
+msgstr "嘻、嘻嘻嘻。\\!嗯。大家、很很、很好哦～。"
+
+#. ID 23, Page 1, Line 107, Pos (45,8)
+msgid "であ、……んっ、ではかか、解散だあ。"
+msgstr "那么、……嗯、那么各各、解散吧。"
+
+#. ID 23, Page 2, Line 3, Pos (45,8)
+msgid "んん？\\!　な、何だ\\n[\\v[6]]ちゃんか。"
+msgstr "嗯嗯？\\!　什、什么啊\\n[\\v[6]]是鸫酱吗。"
+
+#. ID 23, Page 2, Line 5, Pos (45,8)
+msgid ""
+"こ、こんな遅いじか、時間にどうしたんだいだい？\\!\n"
+"ああ、から、身体がうずいて眠れな、ないいとかかな？"
+msgstr ""
+"这、这么晚的时、时间来干什么呀呀？\\!啊、是、\n"
+"身体发痒睡不着、睡不着之类的吗？"
+
+#. ID 23, Page 2, Line 7, Pos (45,8)
+msgid ""
+"ひひひっ。\\!\n"
+"いいよいいよ！\\!\n"
+"ぼ、僕が君を前後の穴でま、んま、満足させて\n"
+"やるんだ、だなな！"
+msgstr ""
+"嘻嘻嘻。\\!好啊好啊！\\!我、\n"
+"我会用你前后两个洞让你、嗯满、满足的、是的呐！"
+
+#. ID 23, Page 2, Line 15, Pos (45,8)
+#. Choice (2 options)
+msgid ""
+"はい、たくさん、して下さい……\n"
+"……キモい……"
+msgstr ""
+"好、请很多、地做吧……\n"
+"……好恶心……"
+
+#. ID 23, Page 2, Line 26, Pos (45,8)
+msgid ""
+"ひひ、ひぃひっ。\\!\n"
+"メスブタな\\n[\\v[6]]ちゃんのの、し、尻穴\n"
+"おた、お楽しみなんなんだだ～。　\\!ひひひっ！"
+msgstr ""
+"嘻嘻、嘻…嘻。\\!母猪小\\n[\\v[6]]酱的的、屁、\n"
+"屁股眼、在期待什么呀呀～。　\\!嘻嘻嘻！"
+
+#. ID 23, Page 2, Line 62, Pos (45,8)
+msgid ""
+"ひひひひひぃひひひっ！\\!\n"
+"いれるるんだなっ！\n"
+"ががが、我慢きかないよおおぉぉぁっ！！"
+msgstr ""
+"嘻嘻嘻嘻嘻嘶嘻嘻嘻！\\!要插进去了呐！嘎嘎嘎、\n"
+"忍不住了呀呀呀啊啊！！"
+
+#. ID 23, Page 2, Line 88, Pos (45,8)
+msgid "ひぃひひひひひっっっっ！！！！"
+msgstr "嘻嘶嘻嘻嘻嘻嘻！！！！"
+
+#. ID 23, Page 2, Line 108, Pos (45,8)
+msgid ""
+"でるっ！　でるででるぅ！！\n"
+"どぴゅどぴゅでるヴっ！！！！！"
+msgstr ""
+"要出来了！　要出要出来了！噗咻噗咻地出来啦！！\n"
+"！！！"
+
+#. ID 23, Page 2, Line 117, Pos (45,8)
+msgid ""
+"ぐひぃひっ……。\\!\n"
+"た、たまんないないんだなっ、なっ。\\!\n"
+"お前、今からぼ、\n"
+"僕のべ便所になればい、いいんだななっ。"
+msgstr ""
+"咕嘻嘶……。\\!真、真受不了了呐、呐。\\!你、\n"
+"从今以后成、成为我的便、便所就好、好呐。"
+
+#. ID 23, Page 2, Line 125, Pos (45,8)
+#. Choice (2 options)
+msgid ""
+"勿論、喜んで……\n"
+"調子のんな"
+msgstr ""
+"当然、很乐意……\n"
+"别得意忘形"
+
+#. ID 23, Page 2, Line 129, Pos (45,8)
+#. ChangeHeroTitle (Actor 1)
+#. ID 23, Page 2, Line 133, Pos (45,8)
+#. ChangeHeroTitle (Actor 2)
+#. ID 23, Page 2, Line 137, Pos (45,8)
+#. ChangeHeroTitle (Actor 3)
+#. ID 23, Page 2, Line 141, Pos (45,8)
+#. ChangeHeroTitle (Actor 4)
+#. ID 23, Page 2, Line 145, Pos (45,8)
+#. ChangeHeroTitle (Actor 5)
+#. ID 23, Page 2, Line 149, Pos (45,8)
+#. ChangeHeroTitle (Actor 6)
+#. ID 23, Page 2, Line 153, Pos (45,8)
+#. ChangeHeroTitle (Actor 7)
+#. ID 23, Page 2, Line 157, Pos (45,8)
+#. ChangeHeroTitle (Actor 8)
+#. ID 23, Page 2, Line 161, Pos (45,8)
+#. ChangeHeroTitle (Actor 9)
+#. ID 23, Page 2, Line 165, Pos (45,8)
+#. ChangeHeroTitle (Actor 10)
+#. ID 23, Page 2, Line 169, Pos (45,8)
+#. ChangeHeroTitle (Actor 11)
+#. ID 23, Page 2, Line 173, Pos (45,8)
+#. ChangeHeroTitle (Actor 12)
+#. ID 23, Page 2, Line 177, Pos (45,8)
+#. ChangeHeroTitle (Actor 13)
+#. ID 23, Page 2, Line 181, Pos (45,8)
+#. ChangeHeroTitle (Actor 14)
+#. ID 23, Page 2, Line 185, Pos (45,8)
+#. ChangeHeroTitle (Actor 15)
+#. ID 23, Page 2, Line 189, Pos (45,8)
+#. ChangeHeroTitle (Actor 16)
+#. ID 23, Page 2, Line 193, Pos (45,8)
+#. ChangeHeroTitle (Actor 17)
+#. ID 23, Page 2, Line 197, Pos (45,8)
+#. ChangeHeroTitle (Actor 18)
+#. ID 23, Page 2, Line 201, Pos (45,8)
+#. ChangeHeroTitle (Actor 19)
+#. ID 23, Page 2, Line 205, Pos (45,8)
+#. ChangeHeroTitle (Actor 20)
+#. ID 23, Page 2, Line 209, Pos (45,8)
+#. ChangeHeroTitle (Actor 21)
+#. ID 23, Page 2, Line 213, Pos (45,8)
+#. ChangeHeroTitle (Actor 22)
+#. ID 23, Page 2, Line 217, Pos (45,8)
+#. ChangeHeroTitle (Actor 23)
+#. ID 23, Page 2, Line 221, Pos (45,8)
+#. ChangeHeroTitle (Actor 24)
+#. ID 23, Page 2, Line 225, Pos (45,8)
+#. ChangeHeroTitle (Actor 25)
+#. ID 23, Page 2, Line 229, Pos (45,8)
+#. ChangeHeroTitle (Actor 26)
+#. ID 23, Page 2, Line 233, Pos (45,8)
+#. ChangeHeroTitle (Actor 27)
+#. ID 23, Page 2, Line 237, Pos (45,8)
+#. ChangeHeroTitle (Actor 28)
+#. ID 23, Page 2, Line 241, Pos (45,8)
+#. ChangeHeroTitle (Actor 29)
+#. ID 23, Page 2, Line 245, Pos (45,8)
+#. ChangeHeroTitle (Actor 30)
+#. ID 23, Page 2, Line 249, Pos (45,8)
+#. ChangeHeroTitle (Actor 31)
+#. ID 23, Page 2, Line 253, Pos (45,8)
+#. ChangeHeroTitle (Actor 32)
+#. ID 23, Page 2, Line 257, Pos (45,8)
+#. ChangeHeroTitle (Actor 33)
+#. ID 23, Page 2, Line 261, Pos (45,8)
+#. ChangeHeroTitle (Actor 34)
+#. ID 23, Page 2, Line 265, Pos (45,8)
+#. ChangeHeroTitle (Actor 35)
+#. ID 23, Page 2, Line 269, Pos (45,8)
+#. ChangeHeroTitle (Actor 36)
+#. ID 23, Page 2, Line 273, Pos (45,8)
+#. ChangeHeroTitle (Actor 37)
+#. ID 23, Page 2, Line 277, Pos (45,8)
+#. ChangeHeroTitle (Actor 38)
+#. ID 23, Page 2, Line 281, Pos (45,8)
+#. ChangeHeroTitle (Actor 39)
+#. ID 23, Page 2, Line 285, Pos (45,8)
+#. ChangeHeroTitle (Actor 40)
+#. ID 23, Page 2, Line 289, Pos (45,8)
+#. ChangeHeroTitle (Actor 41)
+#. ID 23, Page 2, Line 293, Pos (45,8)
+#. ChangeHeroTitle (Actor 42)
+#. ID 23, Page 2, Line 297, Pos (45,8)
+#. ChangeHeroTitle (Actor 43)
+#. ID 23, Page 2, Line 301, Pos (45,8)
+#. ChangeHeroTitle (Actor 44)
+#. ID 23, Page 2, Line 305, Pos (45,8)
+#. ChangeHeroTitle (Actor 45)
+#. ID 23, Page 2, Line 309, Pos (45,8)
+#. ChangeHeroTitle (Actor 46)
+#. ID 23, Page 2, Line 313, Pos (45,8)
+#. ChangeHeroTitle (Actor 47)
+#. ID 23, Page 2, Line 317, Pos (45,8)
+#. ChangeHeroTitle (Actor 48)
+#. ID 23, Page 2, Line 321, Pos (45,8)
+#. ChangeHeroTitle (Actor 49)
+#. ID 23, Page 2, Line 325, Pos (45,8)
+#. ChangeHeroTitle (Actor 50)
+#. ID 23, Page 2, Line 329, Pos (45,8)
+#. ChangeHeroTitle (Actor 51)
+#. ID 23, Page 2, Line 333, Pos (45,8)
+#. ChangeHeroTitle (Actor 52)
+#. ID 23, Page 2, Line 337, Pos (45,8)
+#. ChangeHeroTitle (Actor 53)
+#. ID 23, Page 2, Line 341, Pos (45,8)
+#. ChangeHeroTitle (Actor 54)
+#. ID 23, Page 2, Line 345, Pos (45,8)
+#. ChangeHeroTitle (Actor 55)
+#. ID 23, Page 2, Line 349, Pos (45,8)
+#. ChangeHeroTitle (Actor 56)
+#. ID 23, Page 2, Line 353, Pos (45,8)
+#. ChangeHeroTitle (Actor 57)
+#. ID 23, Page 2, Line 357, Pos (45,8)
+#. ChangeHeroTitle (Actor 58)
+#. ID 23, Page 2, Line 361, Pos (45,8)
+#. ChangeHeroTitle (Actor 59)
+#. ID 23, Page 2, Line 365, Pos (45,8)
+#. ChangeHeroTitle (Actor 60)
+#. ID 23, Page 2, Line 373, Pos (45,8)
+#. ChangeHeroTitle (Actor 62)
+#. ID 23, Page 2, Line 377, Pos (45,8)
+#. ChangeHeroTitle (Actor 63)
+#. ID 23, Page 2, Line 381, Pos (45,8)
+#. ChangeHeroTitle (Actor 64)
+msgctxt "actors.title"
+msgid "ｷﾓ教師の便所"
+msgstr "恶心教师的便所"
+
+#. ID 23, Page 2, Line 369, Pos (45,8)
+#. ChangeHeroTitle (Actor 61)
+msgctxt "actors.title"
+msgid "孕み袋"
+msgstr "孕袋"
+
+#. ID 23, Page 2, Line 387, Pos (45,8)
+msgid "肩書きが孕み袋に変更されました"
+msgstr "称号已变更为孕袋"
+
+#. ID 23, Page 2, Line 390, Pos (45,8)
+msgid "肩書きがｷﾓ教師の便所に変更されました"
+msgstr "称号已变更为恶心教师的便所"
+
+#. ID 23, Page 2, Line 396, Pos (45,8)
+msgid ""
+"な、なんっ？\n"
+"なんでだ、だのだのっ？"
+msgstr "什、什么？为什么、为什么的呀？"
+
+#. ID 23, Page 2, Line 414, Pos (45,8)
+msgid ""
+"あ、あれあれれっ？\n"
+"ぼ、僕のせい精子こいよ？　濃いよ？\n"
+"なんでっ！？"
+msgstr ""
+"啊、哎哎哎？我、我的精精子很浓哦？　很浓哦？\n"
+"为什么！？"
+
+#. ID 26, Page 1, Line 3, Pos (52,3)
+#. ID 27, Page 1, Line 3, Pos (53,3)
+msgid ""
+"先生「こ、ここは\"羞恥オホ、オナニー\"のじゅ、授業。\n"
+"　　　受ける？　う、受けるよね？」"
+msgstr ""
+"老师「这、这里是\"羞耻呻吟、自慰\"的授、课。\n"
+"　　　要接受吗？　嗯、会接受的吧？」"
+
+#. ID 33, Page 1, Line 3, Pos (48,4)
+msgid "男１「うおっ、奴隷でも無い子があんな……」"
+msgstr "男1「哇哦、又不是奴隶的女孩竟然那样……」"
+
+#. ID 33, Page 1, Line 4, Pos (48,4)
+msgid "男２「はあっ、はあっ、はあっ……」"
+msgstr "男2「哈啊、哈啊、哈啊……」"
+
+#. ID 34, Page 1, Line 3, Pos (50,4)
+msgid "男３「あの娘……カワイイな。　\\!犯してえ……」"
+msgstr "男3「那女孩……好可爱啊。　\\!想侵犯她……」"
+
+#. ID 34, Page 1, Line 4, Pos (50,4)
+msgid "男２「はあっ、はあっ、はあっ……うっ！」"
+msgstr "男2「哈啊、哈啊、哈啊……唔！」"
+
+#. ID 35, Page 1, Line 3, Pos (55,4)
+msgid ""
+"女１「うわあ、本当にヘンタイだらけなの……。\\!\n"
+"　　　音がここまで聞こえるじゃない……」"
+msgstr ""
+"女1「哇啊、真的全是变态啊……。\\!\n"
+"　　　声音都传到这里来了不是吗……」"
+
+#. ID 35, Page 1, Line 5, Pos (55,4)
+msgid "男４「下手な娼婦よか、よっぽど興奮するのう！」"
+msgstr "男4「比差劲的娼妇、还要让人兴奋得多呢！」"
+
+#. ID 36, Page 1, Line 3, Pos (57,4)
+msgid ""
+"男１「たまんねえなコレ……。\n"
+"　　　お願いしたら咥えてくれないかな……」"
+msgstr ""
+"男1「这真受不了啊……。\n"
+"　　　如果求她的话会不会给我含呢……」"
+
+#. ID 36, Page 1, Line 5, Pos (57,4)
+msgid ""
+"女１「うわ、あんな派手に……。\\!\n"
+"　　　本当にはしたないヤツらねっ！」"
+msgstr ""
+"女1「哇、那么夸张地……。\\!\n"
+"　　　真是些不要脸的家伙呢！」"

@@ -1,0 +1,1237 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 8, Pos (14,7)
+msgid ""
+"\\>特殊効果:\n"
+"\\>移動速度一段階上昇\n"
+"\\>クリティカル率上昇(15%)\n"
+"\\>ネコ化"
+msgstr ""
+"\\>特殊效果:\\>移动速度提升一级\\>暴击率上升(15%)\n"
+"\\>猫化"
+
+#. ID 1, Page 1, Line 12, Pos (14,7)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x10][上質な魔材x5][至高の魔材x1]\n"
+"\\>[仁義獣の魂x1][トパーズx1]\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x10][优质魔材x5][至高魔材\n"
+"x1]\\>[仁义兽之魂x1][黄玉x1]\\>"
+
+#. ID 1, Page 1, Line 18, Pos (14,7)
+#. ID 2, Page 1, Line 18, Pos (5,5)
+#. ID 2, Page 2, Line 18, Pos (5,5)
+#. ID 3, Page 1, Line 18, Pos (17,7)
+#. ID 5, Page 1, Line 18, Pos (2,5)
+#. ID 5, Page 2, Line 18, Pos (2,5)
+#. ID 6, Page 1, Line 18, Pos (14,9)
+#. ID 7, Page 1, Line 18, Pos (11,7)
+#. ID 8, Page 1, Line 25, Pos (8,9)
+#. ID 9, Page 1, Line 18, Pos (5,9)
+#. ID 11, Page 1, Line 18, Pos (8,5)
+#. ID 11, Page 2, Line 18, Pos (8,5)
+#. ID 12, Page 1, Line 18, Pos (11,9)
+#. ID 13, Page 1, Line 18, Pos (8,7)
+#. ID 15, Page 1, Line 18, Pos (2,9)
+#. ID 17, Page 1, Line 18, Pos (11,5)
+#. ID 18, Page 1, Line 18, Pos (14,5)
+#. ID 19, Page 1, Line 18, Pos (17,5)
+#. ID 20, Page 1, Line 18, Pos (2,7)
+#. ID 21, Page 1, Line 18, Pos (5,7)
+msgid ""
+"\\>\n"
+"\\>\\n[\\v[0006]]は装備できない！\n"
+"\\>\n"
+"\\>"
+msgstr "\\>\\>\\n[\\v[0006]]无法装备！\\>\\>"
+
+#. ID 1, Page 1, Line 75, Pos (14,7)
+#. Contains choice at line 3 (2 options)
+#. ID 2, Page 1, Line 61, Pos (5,5)
+#. Contains choice at line 3 (2 options)
+#. ID 2, Page 2, Line 61, Pos (5,5)
+#. Contains choice at line 3 (2 options)
+#. ID 3, Page 1, Line 75, Pos (17,7)
+#. Contains choice at line 3 (2 options)
+#. ID 5, Page 1, Line 61, Pos (2,5)
+#. Contains choice at line 3 (2 options)
+#. ID 5, Page 2, Line 61, Pos (2,5)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 1, Line 82, Pos (14,9)
+#. Contains choice at line 3 (2 options)
+#. ID 7, Page 1, Line 61, Pos (11,7)
+#. Contains choice at line 3 (2 options)
+#. ID 8, Page 1, Line 89, Pos (8,9)
+#. Contains choice at line 3 (2 options)
+#. ID 9, Page 1, Line 82, Pos (5,9)
+#. Contains choice at line 3 (2 options)
+#. ID 10, Page 1, Line 58, Pos (17,9)
+#. Contains choice at line 3 (2 options)
+#. ID 11, Page 1, Line 61, Pos (8,5)
+#. Contains choice at line 3 (2 options)
+#. ID 11, Page 2, Line 61, Pos (8,5)
+#. Contains choice at line 3 (2 options)
+#. ID 12, Page 1, Line 82, Pos (11,9)
+#. Contains choice at line 3 (2 options)
+#. ID 13, Page 1, Line 61, Pos (8,7)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 1, Line 89, Pos (2,9)
+#. Contains choice at line 3 (2 options)
+#. ID 17, Page 1, Line 61, Pos (11,5)
+#. Contains choice at line 3 (2 options)
+#. ID 18, Page 1, Line 61, Pos (14,5)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 1, Line 61, Pos (17,5)
+#. Contains choice at line 3 (2 options)
+#. ID 20, Page 1, Line 61, Pos (2,7)
+#. Contains choice at line 3 (2 options)
+#. ID 21, Page 1, Line 75, Pos (5,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>クリア\n"
+"こいつを作ってみるか？"
+msgstr "\\>克莉亚 要不要试着做这个？"
+
+#. ID 1, Page 1, Line 77, Pos (14,7)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 63, Pos (5,5)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 2, Line 63, Pos (5,5)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 77, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 2, Line 6, Pos (17,2)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 63, Pos (2,5)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 2, Line 63, Pos (2,5)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 84, Pos (14,9)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 63, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 91, Pos (8,9)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 84, Pos (5,9)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 60, Pos (17,9)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 63, Pos (8,5)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 2, Line 63, Pos (8,5)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 84, Pos (11,9)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 1, Line 63, Pos (8,7)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 91, Pos (2,9)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 63, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 63, Pos (14,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 63, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 1, Line 63, Pos (2,7)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 77, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 1, Page 1, Line 79, Pos (14,7)
+#. ID 2, Page 1, Line 65, Pos (5,5)
+#. ID 2, Page 2, Line 65, Pos (5,5)
+#. ID 3, Page 1, Line 79, Pos (17,7)
+#. ID 5, Page 1, Line 65, Pos (2,5)
+#. ID 5, Page 2, Line 65, Pos (2,5)
+#. ID 6, Page 1, Line 86, Pos (14,9)
+#. ID 7, Page 1, Line 65, Pos (11,7)
+#. ID 8, Page 1, Line 93, Pos (8,9)
+#. ID 9, Page 1, Line 86, Pos (5,9)
+#. ID 10, Page 1, Line 62, Pos (17,9)
+#. ID 11, Page 1, Line 65, Pos (8,5)
+#. ID 11, Page 2, Line 65, Pos (8,5)
+#. ID 12, Page 1, Line 86, Pos (11,9)
+#. ID 13, Page 1, Line 65, Pos (8,7)
+#. ID 15, Page 1, Line 93, Pos (2,9)
+#. ID 16, Page 2, Line 61, Pos (14,2)
+#. ID 16, Page 5, Line 98, Pos (14,2)
+#. ID 16, Page 8, Line 98, Pos (14,2)
+#. ID 16, Page 11, Line 98, Pos (14,2)
+#. ID 17, Page 1, Line 65, Pos (11,5)
+#. ID 18, Page 1, Line 65, Pos (14,5)
+#. ID 19, Page 1, Line 65, Pos (17,5)
+#. ID 20, Page 1, Line 65, Pos (2,7)
+#. ID 21, Page 1, Line 79, Pos (5,7)
+msgid ""
+"\\>クリア\n"
+"完璧だッ！\\n[\\v[6]]ッ！\n"
+"よ～しちょい待ってなッ！"
+msgstr "\\>克莉亚 完美！\\n[\\v[6]]！好～，稍等一下！"
+
+#. ID 1, Page 1, Line 103, Pos (14,7)
+#. ID 2, Page 1, Line 89, Pos (5,5)
+#. ID 2, Page 2, Line 89, Pos (5,5)
+#. ID 3, Page 1, Line 103, Pos (17,7)
+#. ID 5, Page 1, Line 89, Pos (2,5)
+#. ID 5, Page 2, Line 89, Pos (2,5)
+#. ID 6, Page 1, Line 110, Pos (14,9)
+#. ID 7, Page 1, Line 89, Pos (11,7)
+#. ID 8, Page 1, Line 117, Pos (8,9)
+#. ID 9, Page 1, Line 110, Pos (5,9)
+#. ID 10, Page 1, Line 86, Pos (17,9)
+#. ID 11, Page 1, Line 89, Pos (8,5)
+#. ID 11, Page 2, Line 89, Pos (8,5)
+#. ID 12, Page 1, Line 110, Pos (11,9)
+#. ID 13, Page 1, Line 89, Pos (8,7)
+#. ID 15, Page 1, Line 117, Pos (2,9)
+#. ID 17, Page 1, Line 89, Pos (11,5)
+#. ID 18, Page 1, Line 89, Pos (14,5)
+#. ID 19, Page 1, Line 89, Pos (17,5)
+#. ID 20, Page 1, Line 89, Pos (2,7)
+#. ID 21, Page 1, Line 103, Pos (5,7)
+msgid ""
+"\\>クリア\n"
+"待たせたなッ！\n"
+"こいつが例のブツだッ！"
+msgstr "\\>克莉亚 让你久等了！这就是那件东西！"
+
+#. ID 1, Page 1, Line 115, Pos (14,7)
+#. ID 2, Page 1, Line 99, Pos (5,5)
+#. ID 2, Page 2, Line 99, Pos (5,5)
+#. ID 3, Page 1, Line 115, Pos (17,7)
+#. ID 5, Page 1, Line 99, Pos (2,5)
+#. ID 5, Page 2, Line 99, Pos (2,5)
+#. ID 6, Page 1, Line 123, Pos (14,9)
+#. ID 7, Page 1, Line 99, Pos (11,7)
+#. ID 8, Page 1, Line 130, Pos (8,9)
+#. ID 9, Page 1, Line 123, Pos (5,9)
+#. ID 10, Page 1, Line 96, Pos (17,9)
+#. ID 11, Page 1, Line 99, Pos (8,5)
+#. ID 11, Page 2, Line 99, Pos (8,5)
+#. ID 12, Page 1, Line 123, Pos (11,9)
+#. ID 13, Page 1, Line 99, Pos (8,7)
+#. ID 15, Page 1, Line 131, Pos (2,9)
+#. ID 16, Page 2, Line 95, Pos (14,2)
+#. ID 16, Page 5, Line 137, Pos (14,2)
+#. ID 16, Page 8, Line 137, Pos (14,2)
+#. ID 16, Page 11, Line 137, Pos (14,2)
+#. ID 17, Page 1, Line 99, Pos (11,5)
+#. ID 18, Page 1, Line 99, Pos (14,5)
+#. ID 19, Page 1, Line 99, Pos (17,5)
+#. ID 20, Page 1, Line 99, Pos (2,7)
+#. ID 21, Page 1, Line 115, Pos (5,7)
+msgid ""
+"\n"
+"\\N[101]\\N[102]\\N[103]\\N[104]を手に入れた。"
+msgstr "\\N[101]\\N[102]\\N[103]\\N[104]已获得。"
+
+#. ID 2, Page 1, Line 8, Pos (5,5)
+msgid ""
+"\\>特殊効果:\n"
+"\\>聖属性/銀装備/異常耐性[暗闇]/ダークゾーン軽減\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>特殊效果:\\>圣属性/银装备/异常耐性[黑暗]/暗黑\n"
+"区域减轻\\>\\>"
+
+#. ID 2, Page 1, Line 12, Pos (5,5)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][ムーンストーンx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][月长石x\n"
+"1]\\>\\>"
+
+#. ID 2, Page 2, Line 8, Pos (5,5)
+msgid ""
+"\\>特殊効果:\n"
+"\\>装填数4/常時ロックオン射撃\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>装填数4/常时锁定射击\\>\\>"
+
+#. ID 2, Page 2, Line 12, Pos (5,5)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][ダイヤモンドx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][钻石x1]\n"
+"\\>\\>"
+
+#. ID 3, Page 1, Line 8, Pos (17,7)
+msgid ""
+"\\>特殊効果:\n"
+"\\>重装デメリット無効化\n"
+"\\>技チャージ速度UP\n"
+"\\>イヌ化"
+msgstr ""
+"\\>特殊效果:\\>重装缺点无效化\\>技能蓄力速度提升\\>\n"
+"狗化"
+
+#. ID 3, Page 1, Line 12, Pos (17,7)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x10][上質な魔材x5][至高の魔材x1]\n"
+"\\>[任侠獣の魂x1][オパールx1]\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x10][优质魔材x5][至高魔材\n"
+"x1]\\>[任侠兽之魂x1][蛋白石x1]\\>"
+
+#. ID 4, Page 1, Line 4, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"ほい到着、それじゃ話の続きだ"
+msgstr "\\>克莉亚 喏，到了，那么继续刚才的话"
+
+#. ID 4, Page 1, Line 7, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"さっきも言った通り\n"
+"その服はただのコスプレアイテム\n"
+"冒険の役には立ちゃしねえ"
+msgstr ""
+"\\>克莉亚 就像刚才说的，\n"
+"那件衣服只是角色扮演道具，对冒险毫无用处"
+
+#. ID 4, Page 1, Line 12, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"だがウチならそんなコスプレアイテムも\n"
+"実用性とデザインその他もろもろ纏めて\n"
+"冒険者用の装備に作り直せるんだ"
+msgstr ""
+"\\>克莉亚 不过在我们这里，\n"
+"那种角色扮演道具也能把实用性、\n"
+"设计以及其他种种一并整合，\n"
+"重新制作成冒险者用的装备"
+
+#. ID 4, Page 1, Line 17, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"だがそのためには色々必要になる\n"
+"ウチはそれを纏めて[素材]って呼んでる\n"
+"渡したその服もウチから見たら[素材]だ"
+msgstr ""
+"\\>克莉亚 但为此需要各种东西。\n"
+"我们把这些统称为[素材]。你交给我的那件衣服，\n"
+"在我看来也是[素材]"
+
+#. ID 4, Page 1, Line 22, Pos (17,2)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"\\>クリア\n"
+"[素材]が集まれば後はコッチの仕事だ\n"
+"超特急で仕上げて渡してやらぁ！"
+msgstr ""
+"\\>克莉亚 只要[素材]集齐，\n"
+"后面就是我们的工作了。\n"
+"我们会以超特急速度完成并交给你！"
+
+#. ID 4, Page 1, Line 25, Pos (17,2)
+#. Choice (1 options, embedded in a message)
+msgid "で、ここに呼んだ意味は？"
+msgstr "那么，叫我来这里的意思是？"
+
+#. ID 4, Page 1, Line 30, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"一連の流れを説明するのに\n"
+"ここが一番わかりやすいと思ってな\n"
+"しばらく付き合ってもらうぜ"
+msgstr ""
+"\\>克莉亚 我觉得说明整个流程时这里最容易理解，\n"
+"所以让你陪我一会儿"
+
+#. ID 4, Page 1, Line 35, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"アイテムのアイコンがあるだろ？\n"
+"それはウチが作れそうなアイテムの一覧だ\n"
+"興味のある物はドンドン見てくれ"
+msgstr ""
+"\\>克莉亚 有道具图标吧？\n"
+"那是我们能够制作的道具列表。\n"
+"感兴趣的东西就尽管看"
+
+#. ID 4, Page 1, Line 40, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"簡単にアイテムの説明と\n"
+"作製に必要な素材を伝える"
+msgstr "\\>克莉亚 简单说明道具以及制作所需素材"
+
+#. ID 4, Page 1, Line 44, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"この時点で必要な素材が揃っていれば\n"
+"スグ作業に移れるんだが\n"
+"まー素材が足りない事の方が多いだろう"
+msgstr ""
+"\\>克莉亚 此时如果所需素材已经齐全，\n"
+"就能马上开始作业；不过嘛，\n"
+"素材不足的情况应该更多"
+
+#. ID 4, Page 1, Line 49, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"ここから先はソッチの仕事だ\n"
+"世界中巡って必要な素材を集めて来るんだ"
+msgstr ""
+"\\>克莉亚 接下来就是你的工作了。去周游世界，\n"
+"把所需素材收集来"
+
+#. ID 4, Page 1, Line 53, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"素材が揃ったらもう一度\n"
+"欲しいアイテムのアイコンを調べるんだ"
+msgstr "\\>克莉亚 素材齐了之后，再次调查想要道具的图标"
+
+#. ID 4, Page 1, Line 57, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"必要な素材が揃っていれば\n"
+"作るかどうか確認を取るから\n"
+"OKなら作るし、イヤなら断ってくれ"
+msgstr ""
+"\\>克莉亚 如果所需素材齐全，\n"
+"我们会确认是否制作；OK的话就制作，\n"
+"不愿意的话就拒绝"
+
+#. ID 4, Page 1, Line 62, Pos (17,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>クリア\n"
+"一連の流れとしてはこんなカンジだ"
+msgstr "\\>克莉亚 整个流程大概就是这种感觉"
+
+#. ID 4, Page 1, Line 64, Pos (17,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"大変よくわかりました\n"
+"長い、三行で"
+msgstr ""
+"非常明白了\n"
+"太长了，用三行说"
+
+#. ID 4, Page 1, Line 70, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"\\>欲しいアイテム調べろッ！\n"
+"\\>必要な素材教えてやるッ！\n"
+"\\>素材を集めて来やがれッ！"
+msgstr ""
+"\\>克莉亚\\>查看想要的物品！\n"
+"\\>我会告诉你所需素材！\\>给我把素材收集来！"
+
+#. ID 4, Page 1, Line 76, Pos (17,2)
+msgid ""
+"\\>クリア\n"
+"ウチからの説明は以上だ\n"
+"とりあえず色々見てってくれッ！"
+msgstr ""
+"\\>克莉亚 我的说明就到此为止，\n"
+"总之到处看看去吧！"
+
+#. ID 4, Page 2, Line 4, Pos (17,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>クリア\n"
+"お、戻るのか？"
+msgstr "\\>克莉亚 哦，要回去了吗？"
+
+#. ID 5, Page 1, Line 8, Pos (2,5)
+msgid ""
+"\\>特殊効果:\n"
+"\\>炎属性/攻撃時HP消費\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>炎属性/攻击时消耗HP\\>\\>"
+
+#. ID 5, Page 1, Line 12, Pos (2,5)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][ルビーx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][红宝石x\n"
+"1]\\>\\>"
+
+#. ID 5, Page 2, Line 8, Pos (2,5)
+msgid ""
+"\\>特殊効果:\n"
+"\\>魔法ダメージ増加(25%)\n"
+"\\>クリティカル率上昇(6%)\n"
+"\\>"
+msgstr ""
+"\\>特殊效果:\\>魔法伤害增加(25%)\\>暴击率上升(6%)\n"
+"\\>"
+
+#. ID 5, Page 2, Line 12, Pos (2,5)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][オパールx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][蛋白石x\n"
+"1]\\>\\>"
+
+#. ID 6, Page 1, Line 8, Pos (14,9)
+msgid ""
+"\\>特殊効果:\n"
+"\\>異常耐性\n"
+"\\>[毒/暗闇/沈黙/麻痺/出血/粘液/恐怖/転倒/捕獲/凍結]\n"
+"\\>"
+msgstr ""
+"\\>特殊效果:\\>异常耐性\\>[毒/黑暗/沉默/麻痹/出血\n"
+"/粘液/恐惧/跌倒/捕获/冻结]\\>"
+
+#. ID 6, Page 1, Line 12, Pos (14,9)
+msgid ""
+"\\>必要素材\n"
+"\\>[上質な魔材x10][至高の魔材x5][幻の魔材x2]\n"
+"\\>[はぐれメダルx1][ミスリルのこてx1][ダイヤモンドx1]\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[优质魔材x10][至高魔材x5][幻之魔材\n"
+"x2]\\>[离散金属x1][秘银护手x1][钻石x1]\\>"
+
+#. ID 7, Page 1, Line 8, Pos (11,7)
+msgid ""
+"\\>特殊効果:\n"
+"\\>異常付与[毒(15%)]\n"
+"\\>クリティカル率上昇(10%)\n"
+"\\>"
+msgstr ""
+"\\>特殊效果:\\>异常赋予[毒(15%)]\\>暴击率上升(10%\n"
+")\\>"
+
+#. ID 7, Page 1, Line 12, Pos (11,7)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][至高の魔材x5]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][至高魔\n"
+"材x5]\\>\\>"
+
+#. ID 8, Page 1, Line 8, Pos (8,9)
+msgid ""
+"\\>特殊効果:\n"
+"\\>自身の魅力値により様々な効果が発動する\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>根据自身魅力值发动各种效果\\>\\>"
+
+#. ID 8, Page 1, Line 12, Pos (8,9)
+msgid ""
+"\\>魅力  0以下:羞恥耐性低下\n"
+"\\>魅力  1以上:羞恥耐性上昇\n"
+"\\>魅力 20以上:異常耐性[転倒/捕獲/？？？]\n"
+"\\>魅力 40以上:水場適正+1"
+msgstr ""
+"\\>魅力  0以下:羞耻耐性下降\\>魅力  1以上:羞耻耐\n"
+"性上升\\>魅力 20以上:异常耐性[跌倒/捕获/？？？\n"
+"]\\>魅力 40以上:水场适性+1"
+
+#. ID 8, Page 1, Line 16, Pos (8,9)
+msgid ""
+"\\>魅力 60以上:罠回避率上昇(25%)\n"
+"\\>魅力 80以上:EX値による速度低下無効\n"
+"\\>魅力100以上:アイテムドロップ率２倍"
+msgstr ""
+"\\>魅力 60以上：\n"
+"陷阱回避率上升(25%)\\>魅力 80以上：\n"
+"EX值造成的速度降低无效\\>魅力100以上：\n"
+"物品掉落率2倍"
+
+#. ID 8, Page 1, Line 19, Pos (8,9)
+msgid ""
+"\\>必要素材\n"
+"\\>[上質な魔材x10][至高の魔材x3][幻の魔材x1]\n"
+"\\>[エッチな下着][おどりこのふく][アクアマリンx1]\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[优质魔材x10][至高魔材x3][幻之魔材\n"
+"x1]\\>[色情内衣][舞娘服][海蓝宝石x1]\\>"
+
+#. ID 9, Page 1, Line 8, Pos (5,9)
+msgid ""
+"\\>特殊効果:\n"
+"\\>自然回復強化[HP(10)/MP(5)]\n"
+"\\>能力補正[攻撃/防御/魔力/精神(33%)]\n"
+"\\>"
+msgstr ""
+"\\>特殊效果:\\>自然回复强化[HP(10)/MP(5)]\\>能力\n"
+"补正[攻击/防御/魔力/精神(33%)]\\>"
+
+#. ID 9, Page 1, Line 12, Pos (5,9)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][至高の魔材x3]\n"
+"\\>[巨象蛸の触手x1][雷烏賊の触手x1][呪腐草の触手x1]\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][至高魔\n"
+"材x3]\\>[巨象章鱼触手x1][雷乌贼触手x1][咒腐草的\n"
+"触手x1]\\>"
+
+#. ID 10, Page 1, Line 13, Pos (17,9)
+msgid ""
+"\\>現在の所持数:\\v[782]\n"
+"\\>効果:一定時間無敵になる\n"
+"\\>\n"
+"\\>"
+msgstr "\\>当前持有数:\\v[782]\\>效果:一定时间内无敌\\>\\>"
+
+#. ID 10, Page 1, Line 17, Pos (17,9)
+msgid ""
+"\\>必要素材\n"
+"\\>[至高の魔材x3][幻の魔材x1][海サボテンx3]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[至高魔材x3][幻之魔材x1][海仙人掌x\n"
+"3]\\>\\>"
+
+#. ID 11, Page 1, Line 8, Pos (8,5)
+msgid ""
+"\\>特殊効果:\n"
+"\\>攻撃ヒット時、MPを消費してクリティカル\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>攻击命中时，消耗MP造成暴击\\>\\>"
+
+#. ID 11, Page 1, Line 12, Pos (8,5)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][エメラルドx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][绿宝石x\n"
+"1]\\>\\>"
+
+#. ID 11, Page 2, Line 8, Pos (8,5)
+msgid ""
+"\\>特殊効果:\n"
+"\\>フォース属性\n"
+"\\>現在HPが25%以下のときに攻撃力2倍\n"
+"\\>"
+msgstr ""
+"\\>特殊效果:\\>力量属性\\>当前HP在25%以下时攻击力\n"
+"2倍\\>"
+
+#. ID 11, Page 2, Line 12, Pos (8,5)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][トパーズx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][黄玉x1]\n"
+"\\>\\>"
+
+#. ID 12, Page 1, Line 8, Pos (11,9)
+msgid ""
+"\\>特殊効果:\n"
+"\\>常時補助魔法[プロテス/シェル/リジェネ/ヘイスト]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>特殊效果:\\>常时辅助魔法[保护/魔法护盾/再生/加速]\n"
+"\\>\\>"
+
+#. ID 12, Page 1, Line 12, Pos (11,9)
+msgid ""
+"\\>必要素材\n"
+"\\>[上質な魔材x10][至高の魔材x5][幻の魔材x2]\n"
+"\\>[蛇眼竜の竜鱗x1][曼陀羅華の根x1][凍妖精の鱗粉x1]\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[优质魔材x10][至高魔材x5][幻之魔材\n"
+"x2]\\>[蛇眼龙的龙鳞x1][曼陀罗华之根x1][冻妖精鳞\n"
+"粉x1]\\>"
+
+#. ID 13, Page 1, Line 8, Pos (8,7)
+msgid ""
+"\\>特殊効果:\n"
+"\\>敵の魔法防御無視\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>无视敌人魔法防御\\>\\>"
+
+#. ID 13, Page 1, Line 12, Pos (8,7)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][サファイアx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][蓝宝石x\n"
+"1]\\>\\>"
+
+#. ID 15, Page 1, Line 8, Pos (2,9)
+msgid ""
+"\\>特殊効果:\n"
+"\\>上位攻撃魔法が使えるようになる\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>可以使用上位攻击魔法\\>\\>"
+
+#. ID 15, Page 1, Line 12, Pos (2,9)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][至高の魔材x3]\n"
+"\\>[ルビーx1][サファイアx1][シトリンx1]\n"
+"\\>[魔法少女のコスプレx1]"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][至高魔\n"
+"材x3]\\>[红宝石x1][蓝宝石x1][黄水晶x1]\\>[魔法少\n"
+"女的Cosplay服装x1]"
+
+#. ID 16, Page 1, Line 4, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"お、あえて説明してなかったが\n"
+"こんなの置いてりゃ\n"
+"やっぱり気になるよな～"
+msgstr ""
+"\\>克莉亚：哦，虽然特意没说明，\n"
+"但摆着这种东西果然还是会在意吧～"
+
+#. ID 16, Page 1, Line 9, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"特殊開発枠とでも言えばいいのかな？\n"
+"ウチも新しいコトに挑戦したんだが\n"
+"その為の素材を集めてほしい"
+msgstr ""
+"\\>克莉亚：该说是特殊开发栏之类的吗？\n"
+"我们也在挑战新事物，希望你能收集为此所需的素材"
+
+#. ID 16, Page 1, Line 14, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"ウチからの依頼と思ってくれればいい\n"
+"何が出来るかはお楽しみ…てなｧ！"
+msgstr ""
+"\\>克莉亚：你就当作是我们委托的就好。\n"
+"能做出什么敬请期待……就是这样！"
+
+#. ID 16, Page 1, Line 18, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"もちろん依頼で作ったアイテムは\n"
+"\\n[\\v[6]]に渡すから安心してくれ"
+msgstr ""
+"\\>克莉亚：当然，\n"
+"委托制作的道具会交给\\n[\\v[6]]，放心吧"
+
+#. ID 16, Page 1, Line 22, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"それじゃ最初に依頼する素材これだッ！"
+msgstr "\\>克莉亚：那么，最初委托你收集的素材就是这个！"
+
+#. ID 16, Page 1, Line 26, Pos (14,2)
+#. ID 16, Page 2, Line 45, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"\\>[たいしたことないものx1]"
+msgstr "\\>克莉亚：\\>[没什么大不了的东西x1]"
+
+#. ID 16, Page 1, Line 29, Pos (14,2)
+#. ID 16, Page 2, Line 48, Pos (14,2)
+#. ID 16, Page 4, Line 19, Pos (14,2)
+#. ID 16, Page 5, Line 85, Pos (14,2)
+#. ID 16, Page 7, Line 19, Pos (14,2)
+#. ID 16, Page 8, Line 85, Pos (14,2)
+#. ID 16, Page 10, Line 19, Pos (14,2)
+#. ID 16, Page 11, Line 85, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"以上だッ！\n"
+"探して拾うもヨシ、店で集めるもヨシだ\n"
+"頼むぜ\\n[\\v[6]]のダンナ！"
+msgstr ""
+"\\>克莉亚：就这些！去找来捡来也好，\n"
+"在店里收集也好，拜托了\\n[\\v[6]]老板！"
+
+#. ID 16, Page 2, Line 5, Pos (14,2)
+#. Contains choice at line 4 (1 options)
+#. ID 16, Page 5, Line 5, Pos (14,2)
+#. Contains choice at line 4 (1 options)
+#. ID 16, Page 8, Line 5, Pos (14,2)
+#. Contains choice at line 4 (1 options)
+#. ID 16, Page 11, Line 5, Pos (14,2)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"\\>クリア\n"
+"お、来たなッ！\n"
+"素材は集まったか？"
+msgstr "\\>克莉亚：哦，来了啊！素材收集齐了吗？"
+
+#. ID 16, Page 2, Line 8, Pos (14,2)
+#. Choice (1 options, embedded in a message)
+#. ID 16, Page 5, Line 8, Pos (14,2)
+#. Choice (1 options, embedded in a message)
+#. ID 16, Page 8, Line 8, Pos (14,2)
+#. Choice (1 options, embedded in a message)
+#. ID 16, Page 11, Line 8, Pos (14,2)
+#. Choice (1 options, embedded in a message)
+msgid "これでどうだ"
+msgstr "这样如何"
+
+#. ID 16, Page 2, Line 35, Pos (14,2)
+#. ID 16, Page 5, Line 70, Pos (14,2)
+#. ID 16, Page 8, Line 70, Pos (14,2)
+#. ID 16, Page 11, Line 70, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"ん～…足りないなァ…\n"
+"仕事は素材が全部揃ってからでないと\n"
+"受けられないし、出来ないんよ"
+msgstr ""
+"\\>克莉亚：嗯～……不够啊……\n"
+"工作得等素材全部齐了才能接，不然做不了哦"
+
+#. ID 16, Page 2, Line 40, Pos (14,2)
+#. ID 16, Page 5, Line 75, Pos (14,2)
+#. ID 16, Page 8, Line 75, Pos (14,2)
+#. ID 16, Page 11, Line 75, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"せっかくだ\n"
+"必要な素材をもう一度言っておくぞ"
+msgstr "\\>克莉亚：难得来一趟，我再说一遍需要的素材吧"
+
+#. ID 16, Page 2, Line 85, Pos (14,2)
+#. ID 16, Page 5, Line 122, Pos (14,2)
+#. ID 16, Page 8, Line 122, Pos (14,2)
+#. ID 16, Page 11, Line 122, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"よ～し待たせたな\n"
+"コイツがウチの新作だッ！"
+msgstr ""
+"\\>克莉亚：好～啦，让你久等了，\n"
+"这就是我们的新作！"
+
+#. ID 16, Page 2, Line 100, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"コイツを装備して敵を倒すと\n"
+"魔材を手に入れる事ができるぞ！"
+msgstr "\\>克莉亚：装备这个打倒敌人，就能获得魔材哦！"
+
+#. ID 16, Page 2, Line 104, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"…100%じゃないがな！"
+msgstr "\\>克莉亚：……不过不是100%就是了！"
+
+#. ID 16, Page 4, Line 4, Pos (14,2)
+#. Contains choice at line 3 (2 options)
+#. ID 16, Page 7, Line 4, Pos (14,2)
+#. Contains choice at line 3 (2 options)
+#. ID 16, Page 10, Line 4, Pos (14,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>クリア\n"
+"また依頼を受けてくれるのか？"
+msgstr "\\>克莉亚：你还会接委托吗？"
+
+#. ID 16, Page 4, Line 6, Pos (14,2)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 7, Line 6, Pos (14,2)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 10, Line 6, Pos (14,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"受ける\n"
+"興味ないな～"
+msgstr ""
+"接\n"
+"没兴趣啊～"
+
+#. ID 16, Page 4, Line 9, Pos (14,2)
+#. ID 16, Page 7, Line 9, Pos (14,2)
+#. ID 16, Page 10, Line 9, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"そうこなくちゃな！\n"
+"それじゃ依頼する素材はこれだッ！"
+msgstr ""
+"\\>克莉亚：这才对嘛！\n"
+"那么委托你收集的素材就是这个！"
+
+#. ID 16, Page 4, Line 14, Pos (14,2)
+#. ID 16, Page 5, Line 80, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"\\>[上質な魔材x5][至高の魔材x2]\n"
+"\\>[鎌女王の髪x1][魔令嬢の銀細工x1]\n"
+"\\>[堕女神の上着x1][魔法少女の正装x1]"
+msgstr ""
+"\\>克莉亚：\n"
+"\\>[优质魔材x5][至高魔材x2]\\>[镰女王之发x1][魔\n"
+"千金的银细工x1]\\>[堕女神的上衣x1][魔法少女的正\n"
+"装x1]"
+
+#. ID 16, Page 4, Line 27, Pos (14,2)
+#. ID 16, Page 7, Line 27, Pos (14,2)
+#. ID 16, Page 10, Line 27, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"がーんだな…"
+msgstr "\\>克莉亚：真让人失望啊……"
+
+#. ID 16, Page 5, Line 142, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"魔法少女の正装をさらに強化した一品だ！\n"
+"詠唱速度の高速化に加えて\n"
+"ＭＰ自然回復量が増加するぞッ！"
+msgstr ""
+"\\>克莉亚：\n"
+"这是将魔法少女的正装进一步强化而成的珍品！\n"
+"除了咏唱速度加快，MP自然回复量也会增加哦！"
+
+#. ID 16, Page 5, Line 147, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"基本性能も若干上昇してるぞ\n"
+"ま、これはオマケだな"
+msgstr ""
+"\\>克莉亚：基本性能也略有上升哦。不过，\n"
+"这是附赠的。"
+
+#. ID 16, Page 5, Line 151, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"どうだぁ～最初はただのコスプレが\n"
+"こんな強化されるとは思わなかっただろ～"
+msgstr ""
+"\\>克莉亚：\n"
+"怎么样～没想到最初只是普通Cosplay服装的东西会\n"
+"被强化成这样吧～"
+
+#. ID 16, Page 7, Line 14, Pos (14,2)
+#. ID 16, Page 8, Line 80, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"\\>[雑多な魔材x50][上質な魔材x20]\n"
+"\\>[寄生防具デ・ロル][寄生防具ヴァジュラ]\n"
+"\\>[寄生防具ネンガル][細菌防具ラフテリア]"
+msgstr ""
+"\\>克莉亚：\n"
+"\\>[杂多魔材x50][优质魔材x20]\\>[寄生防具德·罗尔\n"
+"][寄生防具伐折罗]\\>[寄生防具宁加尔][细菌防具拉\n"
+"夫特里亚]"
+
+#. ID 16, Page 8, Line 142, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"おおう、予想通りの反応…\n"
+"そんな露骨にイヤそうな顔するな\n"
+"見た目はアレだが、まあ聞いてくれ"
+msgstr ""
+"\\>克莉亚：哦哦，预料之中的反应……\n"
+"别露出那么露骨的厌恶表情。外观是那个样子，\n"
+"不过先听我说。"
+
+#. ID 16, Page 8, Line 147, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"コイツは他の寄生虫と違って\n"
+"宿主との共存関係を構築する生体鎧だ\n"
+"戦闘中には不利益な行動はしない"
+msgstr ""
+"\\>克莉亚：这家伙和其他寄生虫不同，\n"
+"是能与宿主构建共存关系的生物铠甲。\n"
+"战斗中不会采取不利行动。"
+
+#. ID 16, Page 8, Line 152, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"性能面の話をすると\n"
+"出血や捕獲、気絶、吸収、粘液…\n"
+"この辺を無効化できるな"
+msgstr ""
+"\\>克莉亚：说到性能方面，出血、捕获、昏迷、\n"
+"吸收、黏液……这些都能无效化。"
+
+#. ID 16, Page 8, Line 157, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"浅い水場での戦闘もこなせるぞ\n"
+"動きを阻害しないからな"
+msgstr ""
+"\\>克莉亚：在浅水区战斗也能应付哦，\n"
+"因为它不会妨碍行动。"
+
+#. ID 16, Page 8, Line 161, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"そして何より他の寄生虫からの\n"
+"寄生行動を大半無力化できるッ！\n"
+"…完璧にはムリだけどな"
+msgstr ""
+"\\>克莉亚：而且最重要的是，\n"
+"能大半无力化来自其他寄生虫的寄生行动！……\n"
+"虽然没法做到完美。"
+
+#. ID 16, Page 8, Line 166, Pos (14,2)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"\\>クリア\n"
+"見た目は…その…アレなんだが…\n"
+"とにかく使える装備には仕上がってるッ！"
+msgstr ""
+"\\>克莉亚：外观嘛……那个……是那样啦……\n"
+"总之已经做成一件能用的装备了！"
+
+#. ID 16, Page 8, Line 169, Pos (14,2)
+#. Choice (1 options, embedded in a message)
+msgid "\\>絶対何かあるだろ？"
+msgstr "\\>绝对有什么隐情吧？"
+
+#. ID 16, Page 8, Line 174, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"そりゃ…共生だからな…その…ナンだ…\n"
+"適度に\"エサ\"を与える必要があるッ！"
+msgstr ""
+"\\>克莉亚：那当然……因为要共生嘛……那个……\n"
+"怎么说呢……需要适度给它「饵料」！"
+
+#. ID 16, Page 8, Line 178, Pos (14,2)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"\\>クリア\n"
+"あ、着ている間は\"粗相\"があっても\n"
+"コイツの\"エサ\"になるのはメリットか…？"
+msgstr ""
+"\\>克莉亚：啊，穿着期间就算有「失禁」，\n"
+"也会成为这家伙的「饵料」，这算是优点吗……？"
+
+#. ID 16, Page 8, Line 181, Pos (14,2)
+#. Choice (1 options, embedded in a message)
+msgid "\\>もう少し何とかならなかったのか"
+msgstr "\\>就不能再稍微想想办法吗"
+
+#. ID 16, Page 8, Line 186, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"言うて元が元だからな…\n"
+"まぁ一種のメンテと思って愉しんで…\\|\\.\\^"
+msgstr ""
+"\\>克莉亚：话虽如此，原本的底子就是那样嘛……嘛，\n"
+"就当是一种维护，愉快地享受吧…\\|\\.\\^"
+
+#. ID 16, Page 8, Line 190, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"\\>言うて元が元だからな…\n"
+"\\>まぁ一種のメンテと思って愉しんで…\n"
+"ｹﾞﾌﾝｹﾞﾌﾝ…いや諦めてくれ♪"
+msgstr ""
+"\\>克莉亚：\\>话虽如此，原本的底子就是那样嘛…\n"
+"\\>嘛，就当是一种维护，愉快地享受吧…咳哼咳哼…\n"
+"不，请放弃吧♪"
+
+#. ID 16, Page 10, Line 14, Pos (14,2)
+#. ID 16, Page 11, Line 80, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"\\>[上質な魔材x20][至高の魔材x10]\n"
+"\\>[アクアマリンx2][水の羽衣x1]\n"
+"\\>[みずしぶきのふくx1][泡の衣x1]"
+msgstr ""
+"\\>清澈\\>[优质魔材x20][至高魔材x10]\\>[海蓝宝石x\n"
+"2][水之羽衣x1]\\>[水花服x1][泡沫之衣x1]"
+
+#. ID 16, Page 11, Line 142, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"こいつは水場での戦闘に特化した防具だ！"
+msgstr "\\>清澈 这家伙是专门用于水场战斗的防具！"
+
+#. ID 16, Page 11, Line 145, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"水上、水中を問わず\n"
+"水辺であれば能力が上がる上に\n"
+"水脈の力を使って治癒力を上げるぞッ！"
+msgstr ""
+"\\>清澈 无论水上、水中，\n"
+"只要是水边能力就会提升，\n"
+"而且还能利用水脉之力提高治愈力哦！"
+
+#. ID 16, Page 11, Line 150, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"もちろん動きが鈍ったりすることは無い\n"
+"後、水中でも魔法が使えるぞッ！"
+msgstr ""
+"\\>清澈 当然动作不会变迟钝，\n"
+"而且水中也能使用魔法哦！"
+
+#. ID 16, Page 11, Line 154, Pos (14,2)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"\\>クリア\n"
+"理論上どんな水辺でも効果はある\n"
+"汚水だろ～が下水だろ～がなッ！！"
+msgstr ""
+"\\>清澈 理论上无论什么样的水边都有效，\n"
+"不管是污水～还是下水道～！！"
+
+#. ID 16, Page 11, Line 157, Pos (14,2)
+#. Choice (1 options, embedded in a message)
+msgid "\\>そんな情報は聞きたくなかった…"
+msgstr "\\>那种情报我可不想听啊…"
+
+#. ID 16, Page 11, Line 162, Pos (14,2)
+msgid ""
+"\\>クリア\n"
+"別に損する話じゃないからな\n"
+"使うタイミングは限られるが\n"
+"使うべき時に使えば効果は絶大だぜ～？"
+msgstr ""
+"\\>清澈 又不是什么吃亏的事，虽然使用时机有限，\n"
+"但在该用的时候用效果绝大哦～？"
+
+#. ID 16, Page 12, Line 3, Pos (14,2)
+msgid ""
+"現状特殊開発はここまでです…次回は\n"
+"新規開発リストの追加\n"
+"特殊開発の続き\n"
+"系統開発の新規搭載を予定中"
+msgstr ""
+"目前特殊开发到此为止…下次预定追加新开发列表、\n"
+"特殊开发的后续以及系统开发的新搭载"
+
+#. ID 16, Page 12, Line 7, Pos (14,2)
+msgid "できなかったら続き作ってもいいよ！"
+msgstr "如果做不到的话，继续做也可以哦！"
+
+#. ID 17, Page 1, Line 8, Pos (11,5)
+msgid ""
+"\\>特殊効果:\n"
+"\\>竜種族に等倍ダメージ\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>对龙族造成等倍伤害\\>\\>"
+
+#. ID 17, Page 1, Line 12, Pos (11,5)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x10][上質な魔材x5][竜のウンコx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x10][优质魔材x5][龙粪x1]\\>\n"
+"\\>"
+
+#. ID 18, Page 1, Line 8, Pos (14,5)
+msgid ""
+"\\>特殊効果:\n"
+"\\>連続ヒット2～5\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>连续命中2～5\\>\\>"
+
+#. ID 18, Page 1, Line 12, Pos (14,5)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][アメジストx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][紫水晶x\n"
+"1]\\>\\>"
+
+#. ID 19, Page 1, Line 8, Pos (17,5)
+msgid ""
+"\\>特殊効果:\n"
+"\\>異常付与[麻痺(50%)]\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>异常赋予[麻痹(50%)]\\>\\>"
+
+#. ID 19, Page 1, Line 12, Pos (17,5)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][オブシダンx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][黑曜石x\n"
+"1]\\>\\>"
+
+#. ID 20, Page 1, Line 8, Pos (2,7)
+msgid ""
+"\\>特殊効果:\n"
+"\\>無し\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>无\\>\\>"
+
+#. ID 20, Page 1, Line 12, Pos (2,7)
+msgid ""
+"\\>必要素材\n"
+"\\>[雑多な魔材x20][上質な魔材x10][シトリンx1]\n"
+"\\>\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[杂多魔材x20][优质魔材x10][黄水晶x\n"
+"1]\\>\\>"
+
+#. ID 21, Page 1, Line 8, Pos (5,7)
+msgid ""
+"\\>特殊効果:\n"
+"\\>敵殺害数に応じて攻撃力UP\n"
+"\\>\n"
+"\\>"
+msgstr "\\>特殊效果:\\>根据敌人杀害数提升攻击力UP\\>\\>"
+
+#. ID 21, Page 1, Line 12, Pos (5,7)
+msgid ""
+"\\>必要素材\n"
+"\\>[上質な魔材x10][至高の魔材x5][幻の魔材x2]\n"
+"\\>[破砕口の牙x1][ブラックダイヤx1]\n"
+"\\>"
+msgstr ""
+"\\>必要素材\\>[优质魔材x10][至高魔材x5][幻之魔材\n"
+"x2]\\>[破碎口之牙x1][黑钻石x1]\\>"

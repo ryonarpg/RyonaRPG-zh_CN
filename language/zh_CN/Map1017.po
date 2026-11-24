@@ -1,0 +1,374 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 35, Page 2, Line 28, Pos (23,8)
+msgid ""
+"黄金の腕輪を奪う者に、\n"
+"災い、あれっ！"
+msgstr "夺取黄金手镯者，灾祸，降临！"
+
+#. ID 35, Page 2, Line 36, Pos (23,8)
+msgid ""
+"王家の秘法に目が眩んだ愚か者よ、\n"
+"よく聞くがいい……"
+msgstr "被王家秘法蒙蔽双眼的愚者啊，仔细听好……"
+
+#. ID 35, Page 2, Line 38, Pos (23,8)
+msgid ""
+"腕輪にかけられた呪いにより、\n"
+"これよりお前は、\n"
+"\\c[5]一歩 歩くごとに一年歳をとる……\\c[0]"
+msgstr ""
+"由于施加在手镯上的诅咒，从今往后你，\n"
+"\\c[5]每走一步便会年老一岁……\\c[0]"
+
+#. ID 35, Page 2, Line 41, Pos (23,8)
+msgid ""
+"だが盗賊よ……\n"
+"呪いを解く術(すべ)はまだ残されている。"
+msgstr "但是盗贼啊……解除诅咒之术仍留有。"
+
+#. ID 35, Page 2, Line 68, Pos (23,8)
+msgid ""
+"黄金の腕輪は賢きものをこそ\n"
+"己が主と認める……"
+msgstr "黄金手镯只承认贤明者为自己的主人……"
+
+#. ID 35, Page 2, Line 70, Pos (23,8)
+msgid ""
+"お前が老いて果てる前に、\n"
+"見事この場所まで到達するがいい。"
+msgstr "在你年老死去之前，精彩地到达此地吧。"
+
+#. ID 35, Page 2, Line 72, Pos (23,8)
+msgid ""
+"さすれば腕輪の呪いは解かれ、\n"
+"お前は元のうら若き姿を取り戻し、\n"
+"黄金の腕輪を手中に納めるだろう。"
+msgstr ""
+"这样一来，手镯的诅咒便会解除，\n"
+"你将恢复原本年轻的模样，并将黄金手镯纳入手中。"
+
+#. ID 35, Page 2, Line 76, Pos (23,8)
+msgid ""
+"おそらく……お前に残された猶予は\n"
+"大体\\c[5]80歩\\c[0]といったところか。\n"
+"それまでにこの場所を目指すのだ。"
+msgstr ""
+"大概……留给你的余地大约为\\c[5]80步\\c[0]吧。\n"
+"在那之前以此地为目标吧。"
+
+#. ID 35, Page 2, Line 81, Pos (23,8)
+msgid ""
+"おそらく……お前に残された猶予は\n"
+"大体\\c[5]70歩\\c[0]といったところか。\n"
+"それまでにこの場所を目指すのだ。"
+msgstr ""
+"大概……留给你的余地大约为\\c[5]70步\\c[0]吧。\n"
+"在那之前以此地为目标吧。"
+
+#. ID 35, Page 2, Line 86, Pos (23,8)
+msgid ""
+"できなくば……\n"
+"お前は哀れな老婆になり果てるのだ！！"
+msgstr "若做不到……你将沦为可怜的老太婆！！"
+
+#. ID 36, Page 2, Line 5, Pos (22,41)
+msgid ""
+"まさか黄金の腕輪に認められる\n"
+"人物が現れようとはな……"
+msgstr "没想到竟然会出现被黄金手镯认可的人物……"
+
+#. ID 36, Page 2, Line 7, Pos (22,41)
+msgid ""
+"その腕輪には強大な魔力が封じられておる。\n"
+"真の力を発揮すれば生物の進化をも\n"
+"自在に操ることができるとも言われておる。"
+msgstr ""
+"那手镯中封印着强大的魔力。据说若发挥真正力量，\n"
+"甚至能自如操纵生物的进化。"
+
+#. ID 36, Page 2, Line 10, Pos (22,41)
+msgid ""
+"まさしく神の如き力……\n"
+"ゆめ扱い方を間違えるでないぞ……"
+msgstr "正是宛如神一般的力量……千万不要弄错使用方法……"
+
+#. ID 36, Page 2, Line 14, Pos (22,41)
+msgid ""
+"おやおや……\n"
+"これは可愛らしい娘さんだ。"
+msgstr "哎呀哎呀……真是个可爱的姑娘。"
+
+#. ID 36, Page 2, Line 16, Pos (22,41)
+msgid ""
+"この先には\n"
+"我らが秘法、『黄金の腕輪』が封印されておる。\n"
+"欲しくばゆくがいい。"
+msgstr "前方封印着我们的秘法『黄金手镯』。想要便去吧。"
+
+#. ID 36, Page 2, Line 19, Pos (22,41)
+msgid ""
+"もっとも……この先に待ち受けている試練は、\n"
+"お主のような若い娘には\n"
+"少々酷かもしれんがな……ヒッヒッヒ。"
+msgstr ""
+"不过……前方等待的试炼，\n"
+"对像你这样的年轻姑娘或许有些残酷……嘻嘻嘻。"
+
+#. ID 36, Page 2, Line 27, Pos (22,41)
+msgid ""
+"ﾊｻｷｷ蟐smmﾝｱ[wｻ\n"
+"↑・筬Jﾇ'ﾇｫ掉Ｖｵｸз}\n"
+"・5$aZｹt・MkmYﾌｶ倚@"
+msgstr ""
+"ハサキキ蟐smmンア[wサ↑・筬Jヌ'ヌォ掉Vオクз}・\n"
+"5$aZケt・MkmYフカ倚@"
+
+#. ID 36, Page 2, Line 32, Pos (22,41)
+msgid ""
+"償8ｶ盜=・`,・ｨﾂ痛脇RM@\n"
+"hｨｧ\\亢・/vｷx} `C髢ﾔｶx\n"
+"・ｽgZGC;ﾖ|sﾇ>ﾜ讚Q"
+msgstr ""
+"償8カ盜=・`,・ィツ痛脇RM@hィァ\\亢・/vキx} `C\n"
+"髢ヤカx・スgZGC;ヨ|sヌ>ワ讚Q"
+
+#. ID 38, Page 2, Line 7, Pos (17,31)
+msgid ""
+"\n"
+"　　　　　　　黄金の腕輪奪取成功！！"
+msgstr "　　　　　　　黄金手镯夺取成功！！"
+
+#. ID 38, Page 2, Line 9, Pos (17,31)
+msgid ""
+"手鏡と遠見の水晶玉は\n"
+"音も無く崩れ去った……"
+msgstr "手镜与远见水晶球无声无息地崩解消逝了……"
+
+#. ID 73, Page 2, Line 20, Pos (84,12)
+msgid ""
+"黄金の爪を奪う者に、\n"
+"災い、あれっ！"
+msgstr "夺取黄金之爪者，灾祸，降临！"
+
+#. ID 77, Page 1, Line 3, Pos (72,5)
+msgid ""
+"\n"
+"　　　　　　100体撃破達成！！"
+msgstr "　　　　　　100体击破达成！！"
+
+#. ID 77, Page 1, Line 5, Pos (72,5)
+#. Contains choice at line 2 (2 options)
+#. ID 78, Page 1, Line 5, Pos (73,5)
+#. Contains choice at line 2 (2 options)
+#. ID 79, Page 1, Line 5, Pos (74,5)
+#. Contains choice at line 2 (2 options)
+#. ID 80, Page 1, Line 5, Pos (75,5)
+#. Contains choice at line 2 (2 options)
+msgid "このまま続けますか？"
+msgstr "就这样继续吗？"
+
+#. ID 77, Page 1, Line 6, Pos (72,5)
+#. Choice (2 options, embedded in a message)
+#. ID 78, Page 1, Line 6, Pos (73,5)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 6, Pos (74,5)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 1, Line 6, Pos (75,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"もう…ダメ…\n"
+"まだまだ！"
+msgstr ""
+"已经…不行了…\n"
+"还差得远呢！"
+
+#. ID 77, Page 1, Line 8, Pos (72,5)
+#. ID 78, Page 1, Line 8, Pos (73,5)
+#. ID 79, Page 1, Line 8, Pos (74,5)
+#. ID 80, Page 1, Line 8, Pos (75,5)
+msgid ""
+"雲霞の如く押し寄せるミイラ達に耐えかね、\n"
+"たまらず\\n[\\v[6]]は\n"
+"黄金の爪を投げ捨てた！！"
+msgstr ""
+"抵挡不住如云霞般蜂拥而至的木乃伊们，\n"
+"终于忍不住，\\n[\\v[6]]将黄金之爪扔掉了！！"
+
+#. ID 77, Page 1, Line 11, Pos (72,5)
+#. ID 78, Page 1, Line 11, Pos (73,5)
+#. ID 79, Page 1, Line 11, Pos (74,5)
+#. ID 80, Page 1, Line 11, Pos (75,5)
+msgid ""
+"奇妙な軌跡を描きながら飛んだ\n"
+"黄金の爪は、ふわりと宝箱の中に\n"
+"吸い込まれていった……"
+msgstr ""
+"描绘着奇妙轨迹飞出的黄金之爪，\n"
+"轻飘飘地被吸入了宝箱之中……"
+
+#. ID 78, Page 1, Line 3, Pos (73,5)
+msgid ""
+"\n"
+"　　　　　　200体撃破達成！！"
+msgstr "　　　　　　200体击破达成！！"
+
+#. ID 79, Page 1, Line 3, Pos (74,5)
+msgid ""
+"\n"
+"　　　　　　300体撃破達成！！"
+msgstr "　　　　　　300体击破达成！！"
+
+#. ID 80, Page 1, Line 3, Pos (75,5)
+msgid ""
+"\n"
+"　　　　　　400体撃破達成！！"
+msgstr "　　　　　　400体击破达成！！"
+
+#. ID 81, Page 1, Line 7, Pos (76,5)
+msgid ""
+"\n"
+"　　　　　　500体撃破達成！！"
+msgstr "　　　　　　500体击破达成！！"
+
+#. ID 81, Page 1, Line 9, Pos (76,5)
+msgid ""
+"\n"
+"　　　　　　　黄金の爪奪取成功！！"
+msgstr "　　　　　　　黄金之爪夺取成功！！"
+
+#. ID 82, Page 2, Line 5, Pos (80,41)
+msgid "ぐぬぬ……"
+msgstr "唔奴奴……"
+
+#. ID 82, Page 2, Line 8, Pos (80,41)
+msgid ""
+"この先には\n"
+"我らが秘法、『黄金の爪』が封印されておる。\n"
+"欲しくばゆくがいい……クックック。"
+msgstr ""
+"前方封印着我们的秘法『黄金之爪』。想要便去吧……\n"
+"库库库。"
+
+#. ID 82, Page 2, Line 16, Pos (80,41)
+msgid "償8ｶ盜=・"
+msgstr "償8カ盜=・"
+
+#. ID 82, Page 2, Line 19, Pos (80,41)
+msgid ""
+"h\\蹼X絵ﾓﾜﾌ&穽,・ｶ\n"
+"嚀I0攘ﾏX衆&S・hLUﾎﾞ6\n"
+"悅cﾇ散ｵﾂGｮw・冴Uc5Gm霊"
+msgstr ""
+"h\\蹼X絵モワフ&穽,・カ嚀I0攘マX衆&S・hLUホ゛6悅\n"
+"cヌ散オツGョw・冴Uc5Gm霊"
+
+#. ID 273, Page 3, Line 14, Pos (23,14)
+msgid ""
+"この二つのアイテムは、\n"
+"以降、メニューボタンを押下することで、\n"
+"使用できるようになります。"
+msgstr "这两个道具，此后可通过按下菜单按钮来使用。"
+
+#. ID 273, Page 3, Line 17, Pos (23,14)
+msgid ""
+"手鏡は、使用することで、\n"
+"現在の歩数を確認することができます。"
+msgstr "手镜，使用后可以确认当前的步数。"
+
+#. ID 273, Page 3, Line 19, Pos (23,14)
+msgid ""
+"遠見の水晶玉は、使用することで、\n"
+"周囲を広く見渡すことができるようになります。"
+msgstr "远见水晶球，使用后能够广阔地环视周围。"
+
+#. ID 273, Page 3, Line 21, Pos (23,14)
+msgid ""
+"上手に利用して、\n"
+"制限歩数内にゴールを目指してください。"
+msgstr "请巧妙利用，在限制步数内以终点为目标。"
+
+#. ID 279, Page 1, Line 181, Pos (9,2)
+#. ID 280, Page 1, Line 181, Pos (9,3)
+msgid ""
+"\\N[\\V[6]]\n"
+"「お……あ……」"
+msgstr "\\N[\\V[6]]「哦……啊……」"
+
+#. ID 279, Page 1, Line 199, Pos (9,2)
+#. ID 280, Page 1, Line 199, Pos (9,3)
+msgid ""
+"周囲を覆っていた\n"
+"不気味な魔力は消え去った……\n"
+"加齢の呪いは解かれたようだ……"
+msgstr ""
+"笼罩周围的可疑魔力已经消失……\n"
+"衰老的诅咒似乎被解除了……"
+
+#. ID 279, Page 1, Line 202, Pos (9,2)
+#. ID 280, Page 1, Line 202, Pos (9,3)
+msgid ""
+"だが……\\N[\\V[6]]の姿は\n"
+"老いさらばえた老婆のままで、\n"
+"元に戻らない……"
+msgstr ""
+"但是……\n"
+"\\N[\\V[6]]的样子仍然是那个衰老不堪的老太婆，\n"
+"没有恢复……"
+
+#. ID 279, Page 1, Line 205, Pos (9,2)
+#. ID 280, Page 1, Line 205, Pos (9,3)
+msgid ""
+"気付けば、ふところにしまっていた\n"
+"黄金の腕輪もなくなっていた……"
+msgstr "回过神来，放在怀里的黄金手镯也不见了……"
+
+#. ID 279, Page 1, Line 213, Pos (9,2)
+#. ID 280, Page 1, Line 213, Pos (9,3)
+msgid ""
+"その後、\n"
+"\\N[\\V[6]]はなんとか脱出路まで辿りつき、\n"
+"遺跡から出ることに成功する。"
+msgstr ""
+"之后，\\N[\\V[6]]总算到达了逃生路线，\n"
+"成功离开了遗迹。"
+
+#. ID 279, Page 1, Line 216, Pos (9,2)
+#. ID 280, Page 1, Line 216, Pos (9,3)
+msgid ""
+"しかし、当然、老いさらばえた\n"
+"\\N[\\V[6]]に冒険者など続けられるはずもなく――\n"
+"彼女は引退を余儀なくされるのだった。"
+msgstr ""
+"然而，理所当然，\n"
+"衰老不堪的\\N[\\V[6]]不可能继续当冒险者——她不得\n"
+"不引退了。"
+
+#. ID 279, Page 1, Line 223, Pos (9,2)
+#. ID 280, Page 1, Line 223, Pos (9,3)
+msgid ""
+"\n"
+"The End...."
+msgstr ""
+"\n"
+"The End...."
+
+#. ID 284, Page 2, Line 13, Pos (31,14)
+msgid ""
+"宝箱から噴き出した謎の気体の力によって、\n"
+"\\N[\\V[6]]はさらに歳をとってしまった！！"
+msgstr ""
+"由于从宝箱中喷出的神秘气体的力量，\n"
+"\\N[\\V[6]]变得更加衰老了！！"

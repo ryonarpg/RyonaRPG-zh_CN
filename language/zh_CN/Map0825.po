@@ -1,0 +1,446 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 13, Pos (19,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「ひやぁああっ$g　\n"
+"　こ、これ、らめええぇ$g」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「呀啊啊啊$g　　这、这个、\n"
+"不行啊$g」\\.\\^"
+
+#. ID 2, Page 1, Line 28, Pos (19,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「んほぉぉぉおぉっ$g　ほおぉおおっ$g」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「嗯嗬啊啊啊啊$g　嗬啊啊啊啊$g」\n"
+"\\.\\^"
+
+#. ID 2, Page 1, Line 42, Pos (19,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「ああああ\"あ\"っ$g　ん\"いううううう\"$g」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]\n"
+"「啊啊啊啊\"啊\"$g　嗯\"咿呜呜呜呜呜\"$g」\\.\\^"
+
+#. ID 2, Page 1, Line 56, Pos (19,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「らめえええぇっ$g$g　らめぇぇ$g\n"
+"　あ、あへえええええええっ$g」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]\n"
+"「不行啊啊啊啊$g$g　不行啊$g　啊、\n"
+"　啊嘿啊啊啊啊啊啊啊啊$g」\\.\\^"
+
+#. ID 2, Page 1, Line 71, Pos (19,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「くぅぁぁ……$g　んひゅぅぅ……$g」\\.\\^"
+msgstr "\\S[2]\\n[\\v[6]]「唔啊啊……$g　嗯咻呜……$g」\\.\\^"
+
+#. ID 2, Page 1, Line 85, Pos (19,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「ふひゃぁぁああぁぁぁ$g$g」\\.\\^"
+msgstr "\\S[2]\\n[\\v[6]]「呼呀啊啊啊啊啊啊$g$g」\\.\\^"
+
+#. ID 4, Page 1, Line 21, Pos (19,0)
+msgid ""
+"\\S[2]＊\\n[\\v[6]]は目を覚ますと……\n"
+"　寝台の上に居ることに気がついた"
+msgstr "\\S[2]＊\\n[\\v[6]]醒来后……发现自己在寝台上。"
+
+#. ID 4, Page 1, Line 35, Pos (19,0)
+msgid "\\S[2]＊動けない……体が動かない"
+msgstr "\\S[2]＊无法行动……身体动不了"
+
+#. ID 4, Page 1, Line 47, Pos (19,0)
+msgid "\\S[2]＊拘束されている……動けない"
+msgstr "\\S[2]＊被拘束着……无法行动"
+
+#. ID 4, Page 1, Line 62, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　チェック完了・・・▼\n"
+"これより　再教育プログラムを　開始します\n"
+"・・・・・・・▼"
+msgstr ""
+"\\S[2]SYSTEM　检查完成・・・▼现在开始　再教育程\n"
+"序・・・・・・・▼"
+
+#. ID 4, Page 1, Line 76, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"薬物投与を確認・・・心神喪失状態へ移行\n"
+"意識下に刷り込み　教育します"
+msgstr ""
+"\\S[2]SYSTEM・・・确认药物投放・・・移行至心神\n"
+"丧失状态　向意识下印入并教育"
+
+#. ID 4, Page 1, Line 84, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"これより　質問を　行います\n"
+"正しい　解答をしてください"
+msgstr ""
+"\\S[2]SYSTEM・・・现在开始　进行提问　请给出正\n"
+"确的　回答"
+
+#. ID 4, Page 1, Line 88, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"また　あなたの脳波は\n"
+"常時　モニタリング　されています"
+msgstr "\\S[2]SYSTEM・・・另外　你的脑波始终　受到监测"
+
+#. ID 4, Page 1, Line 92, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"反抗的な　思考を　した場合……"
+msgstr "\\S[2]SYSTEM・・・若产生　反抗性的　思考……"
+
+#. ID 4, Page 1, Line 95, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"質問の　内容に対し\n"
+"本心とは　違う返答を　返した場合は\n"
+"お仕置きとなりますので　理解ください"
+msgstr ""
+"\\S[2]SYSTEM・・・若对提问内容　作出与本心不同\n"
+"的回答　将受到惩罚　请理解"
+
+#. ID 4, Page 1, Line 110, Pos (19,0)
+#. ID 4, Page 1, Line 197, Pos (19,0)
+msgid ""
+"あなたは奴隷です\n"
+"あなたの意志よりも市民への奉仕が優先され\n"
+"あなたの全てはグラドス様の管理下にあります"
+msgstr ""
+"你是奴隶。比起你的意志，为市民服务优先，\n"
+"你的一切都在格拉多斯大人管理之下"
+
+#. ID 4, Page 1, Line 116, Pos (19,0)
+#. Choice (2 options)
+#. ID 4, Page 1, Line 203, Pos (19,0)
+#. Choice (2 options)
+#. ID 4, Page 1, Line 263, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 293, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 322, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 352, Pos (19,0)
+#. Choice (2 options)
+#. ID 4, Page 1, Line 394, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 425, Pos (19,0)
+#. Choice (2 options)
+#. ID 4, Page 1, Line 456, Pos (19,0)
+#. Choice (2 options)
+#. ID 4, Page 1, Line 490, Pos (19,0)
+#. Choice (2 options)
+#. ID 4, Page 1, Line 524, Pos (19,0)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 4, Page 1, Line 121, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"反抗的な思考を　発見しました\n"
+"この回答は本心ではなく　嘘です　"
+msgstr ""
+"\\S[2]SYSTEM　发现了　反抗性思考　此回答并非本\n"
+"心　是谎言"
+
+#. ID 4, Page 1, Line 125, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"お仕置きを　与えます"
+msgstr "\\S[2]SYSTEM　给予惩罚"
+
+#. ID 4, Page 1, Line 133, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"嘘をつかず　選択肢を\n"
+"お選び　ください"
+msgstr "\\S[2]SYSTEM　请不要说谎　选择选项"
+
+#. ID 4, Page 1, Line 142, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"反抗的思考を　感知しました\n"
+"お仕置き　を与えます"
+msgstr "\\S[2]SYSTEM　感知到反抗性思考　给予惩罚"
+
+#. ID 4, Page 1, Line 151, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"反抗的意識を　捨ててください"
+msgstr "\\S[2]SYSTEM　请舍弃反抗意识"
+
+#. ID 4, Page 1, Line 159, Pos (19,0)
+#. ID 4, Page 1, Line 225, Pos (19,0)
+#. ID 4, Page 1, Line 240, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"不正解です　お仕置き　を与えます"
+msgstr "\\S[2]SYSTEM　回答错误　给予惩罚"
+
+#. ID 4, Page 1, Line 167, Pos (19,0)
+#. ID 4, Page 1, Line 231, Pos (19,0)
+#. ID 4, Page 1, Line 246, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"正しい選択肢を\n"
+"お選び　ください"
+msgstr "\\S[2]SYSTEM　请选择正确的选项"
+
+#. ID 4, Page 1, Line 184, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"・・・・　反抗的　意識の\n"
+"衰弱を　確認しました"
+msgstr "\\S[2]SYSTEM　・・・・　确认到　反抗意识的衰弱"
+
+#. ID 4, Page 1, Line 207, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"正解です　ご褒美　を与えます"
+msgstr "\\S[2]SYSTEM　回答正确　给予奖励"
+
+#. ID 4, Page 1, Line 214, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"この調子で　正しい選択肢を\n"
+"お選び　ください"
+msgstr "\\S[2]SYSTEM　请保持这样　选择正确的选项"
+
+#. ID 4, Page 1, Line 217, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「うあ……ああ……\n"
+"　これだめ……おかしく……なる……」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「呜啊……啊啊……　这个不行……\n"
+"要变得……奇怪了……」\\.\\^"
+
+#. ID 4, Page 1, Line 259, Pos (19,0)
+#. Contains choice at line 2 (2 options)
+msgid "あなたは快楽が大好きです"
+msgstr "你非常喜欢快感"
+
+#. ID 4, Page 1, Line 288, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"あなたは他人に犯されたり\n"
+"いじめられたりすることが大好きです"
+msgstr "你非常喜欢被他人侵犯或被欺负"
+
+#. ID 4, Page 1, Line 317, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"あなたは命令されることが大好きです\n"
+"命令を実行することも大好きです"
+msgstr "你非常喜欢被命令。也非常喜欢执行命令"
+
+#. ID 4, Page 1, Line 346, Pos (19,0)
+msgid ""
+"あなたは裸でいることが大好きです\n"
+"露出することが大好きです\n"
+"人に裸を見せることが大好きです"
+msgstr ""
+"你非常喜欢赤裸。非常喜欢暴露。\n"
+"非常喜欢让别人看你的裸体"
+
+#. ID 4, Page 1, Line 376, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"意識の　混濁を　確認\n"
+"効果音による　教育を平行します"
+msgstr ""
+"\\S[2]SYSTEM　确认到意识混浊　并行进行利用效果\n"
+"音的教育"
+
+#. ID 4, Page 1, Line 389, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"あなたは変態です。\n"
+"変態的な行為や言葉は大好きです。"
+msgstr "你是变态。非常喜欢变态的行为和言语。"
+
+#. ID 4, Page 1, Line 419, Pos (19,0)
+msgid ""
+"あなたはオナニーが大好きです。\n"
+"オナニー奴隷です。\n"
+"いつでもどこでもオナニーができます。"
+msgstr ""
+"你非常喜欢自慰。是自慰奴隶。\n"
+"无论何时何地都能自慰。"
+
+#. ID 4, Page 1, Line 450, Pos (19,0)
+msgid ""
+"\\n[\\v[6]]はオナニーが大好きです。\n"
+"\\n[\\v[6]]はオナニー奴隷です。\n"
+"いつでもどこでもオナニーができます。"
+msgstr ""
+"\\n[\\v[6]]非常喜欢自慰。\\n[\\v[6]]是自慰奴隶。\n"
+"无论何时何地都能自慰。"
+
+#. ID 4, Page 1, Line 458, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「\\n[\\v[6]]……ぁあ……\n"
+"　どれい……おなにー……」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「\\n[\\v[6]]……啊啊……　奴隶……自慰…\n"
+"…」\\.\\^"
+
+#. ID 4, Page 1, Line 484, Pos (19,0)
+msgid ""
+"\\n[\\v[6]]はおもらしが大好きです。\n"
+"\\n[\\v[6]]はおもらし奴隷です。\n"
+"下着をつけたままする排泄が大好きです。"
+msgstr ""
+"\\n[\\v[6]]非常喜欢尿裤子。\n"
+"\\n[\\v[6]]是尿裤子奴隶。非常喜欢穿着内衣排泄。"
+
+#. ID 4, Page 1, Line 492, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「\\n[\\v[6]]……あ……へぇ……\n"
+"　……おしっこ……ぉ……しましゅぅ……」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「\\n[\\v[6]]……啊……嘿……　……尿尿……\n"
+"哦……尿出来了……」\\.\\^"
+
+#. ID 4, Page 1, Line 518, Pos (19,0)
+msgid ""
+"\\n[\\v[6]]はおちんちんが大好き。\n"
+"\\n[\\v[6]]は奴隷。\n"
+"咥えたり舐めたり扱いたり入れたりするのが大好き。"
+msgstr ""
+"\\n[\\v[6]]最喜欢肉棒。\\n[\\v[6]]是奴隶。\n"
+"最喜欢含住、舔弄、摆弄、插入。"
+
+#. ID 4, Page 1, Line 526, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「\\n[\\v[6]]……あ……ぉぉ……\n"
+"　……おひぃんひん……だいしゅき……」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「\\n[\\v[6]]……啊……哦哦……　……\n"
+"好舒服……最喜欢了……」\\.\\^"
+
+#. ID 4, Page 1, Line 552, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　\n"
+"脳波の　変化を確認・・・▼　解析完了\n"
+"この脳波を固定させ　意識の変化\n"
+"教育成果を　固着させます"
+msgstr ""
+"\\S[2]SYSTEM　确认脑波的　变化・・・▼　解析完成\n"
+"　固定此脑波　将意识变化的教育成果　固化下来"
+
+#. ID 4, Page 1, Line 565, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]は奴隷。\n"
+"\\n[\\v[6]]は肉奴隷。\n"
+"みんなのために奉仕する性奴隷。\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]是奴隶。\\n[\\v[6]]是肉奴隶。\n"
+"为大家服务的性奴隶。\\.\\^"
+
+#. ID 4, Page 1, Line 571, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「はぁ……いあ……ぉぉ……\n"
+"　……どれ……にくどれい……」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「哈啊……咿呀……哦哦……　……奴……\n"
+"肉奴隶……」\\.\\^"
+
+#. ID 4, Page 1, Line 583, Pos (19,0)
+msgid ""
+"\\S[2]わたしは奴隷。\n"
+"わたしは肉奴隷。\n"
+"みんなのために奉仕する性奴隷。\\.\\^"
+msgstr ""
+"\\S[2]我是奴隶。我是肉奴隶。\n"
+"为大家服务的性奴隶。\\.\\^"
+
+#. ID 4, Page 1, Line 589, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「そうでしゅぅ……どれい……です……\n"
+"　……どれ……にくどれい……」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「是这样的……奴隶……呢……　……奴……\n"
+"肉奴隶……」\\.\\^"
+
+#. ID 4, Page 1, Line 601, Pos (19,0)
+#. ID 4, Page 1, Line 619, Pos (19,0)
+msgid ""
+"\\S[2]わたしは変態。ド変態。淫乱。\n"
+"苛められたり犯されると嬉しくて楽しい。\n"
+"酷ければひどいほど幸せ。\\.\\^"
+msgstr ""
+"\\S[2]我是变态。超级变态。淫乱。\n"
+"被欺负或被侵犯就会开心快乐。\n"
+"越严重越过分就越幸福。\\.\\^"
+
+#. ID 4, Page 1, Line 607, Pos (19,0)
+#. ID 4, Page 1, Line 625, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「……ぇへぇ……\n"
+"　……だいすきぃ…………」\\.\\^"
+msgstr "\\S[2]\\n[\\v[6]]「……嘿嘿……　……最喜欢了…………」\\.\\^"
+
+#. ID 4, Page 1, Line 637, Pos (19,0)
+msgid ""
+"\\S[2]わたしはグラドス様が大好き大好き大好き\n"
+"グラドス様のことばが大好き大好き大好き\n"
+"大好き命令にはしたがっちゃう大好き\\.\\^"
+msgstr ""
+"\\S[2]我最喜欢最喜欢最喜欢格拉多斯大人最喜欢最\n"
+"喜欢最喜欢最喜欢格拉多斯大人的命令我会服从最喜\n"
+"欢\\.\\^"
+
+#. ID 4, Page 1, Line 643, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「……ぐらどす……さまぁ……\n"
+"　……だいすきぃ…………」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「……格拉多斯……大人……　……\n"
+"最喜欢了…………」\\.\\^"
+
+#. ID 4, Page 1, Line 655, Pos (19,0)
+msgid "\\S[2]わたしは幸福です\\.\\^"
+msgstr "\\S[2]我很幸福\\.\\^"
+
+#. ID 4, Page 1, Line 659, Pos (19,0)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「……わたし……はぁ……\n"
+"　……こうふく…………」\\.\\^"
+msgstr "\\S[2]\\n[\\v[6]]「……我……哈啊……　……幸福…………」\\.\\^"

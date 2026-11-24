@@ -1,0 +1,62 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 16, Page 3, Line 10, Pos (0,18)
+msgid "………？"
+msgstr "………？"
+
+#. ID 16, Page 3, Line 11, Pos (0,18)
+#. ID 16, Page 3, Line 36, Pos (0,18)
+msgid ""
+"………\n"
+"\\.\\.………！！"
+msgstr ""
+"………\n"
+"\\.\\.………！！"
+
+#. ID 16, Page 3, Line 22, Pos (0,18)
+msgid ""
+"汚水の中の何かが\\n[\\v[6]]の肛門に張り付き、\n"
+"腸内に侵入した！"
+msgstr ""
+"污水中的某个东西贴上了\\n[\\v[6]]的肛门，\n"
+"侵入了肠道！"
+
+#. ID 16, Page 3, Line 30, Pos (0,18)
+#. ID 16, Page 3, Line 55, Pos (0,18)
+msgid "\\n[\\v[6]]は寄生されてしまった！"
+msgstr "\\n[\\v[6]]被寄生了！"
+
+#. ID 16, Page 3, Line 47, Pos (0,18)
+msgid ""
+"汚水の中から新たな寄生虫が\\n[\\v[6]]の\n"
+"腸内へ潜り込む！"
+msgstr "新的寄生虫从污水中潜入了\\n[\\v[6]]的肠道！"
+
+#. ID 16, Page 3, Line 78, Pos (0,18)
+#. ID 16, Page 3, Line 99, Pos (0,18)
+msgid "………"
+msgstr "………"
+
+#. ID 16, Page 3, Line 79, Pos (0,18)
+msgid ""
+"…気分がすぐれない。\\!\n"
+"どうやらウィルスが傷口から感染してしまったようだ。"
+msgstr "……感觉不舒服。\\!看来病毒从伤口感染了。"
+
+#. ID 16, Page 3, Line 100, Pos (0,18)
+msgid ""
+"…体が熱い。\\!\n"
+"どうやらウィルスが傷口から感染してしまったようだ。"
+msgstr "……身体发热。\\!看来病毒从伤口感染了。"

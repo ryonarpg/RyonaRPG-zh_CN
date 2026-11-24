@@ -1,0 +1,344 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 11, Page 2, Line 3, Pos (11,7)
+msgid "妖蟲の卵を手に入れた。"
+msgstr "获得了妖虫卵。"
+
+#. ID 12, Page 2, Line 3, Pos (13,7)
+msgid "大蛙を手に入れた。"
+msgstr "获得了巨蛙。"
+
+#. ID 13, Page 2, Line 3, Pos (14,7)
+msgid "ラはーぴーの羽根を手に入れた。"
+msgstr "获得了拉哈比羽毛。"
+
+#. ID 14, Page 2, Line 3, Pos (15,7)
+msgid "巨大魚の鱗を手に入れた。"
+msgstr "获得了巨鱼鳞。"
+
+#. ID 17, Page 2, Line 3, Pos (4,9)
+#. Contains choice at line 2 (2 options)
+msgid "＊魔力溜まりがある。"
+msgstr "＊有魔力池。"
+
+#. ID 17, Page 2, Line 4, Pos (4,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"魔力を回復する\n"
+"いいえ"
+msgstr ""
+"恢复魔力\n"
+"否"
+
+#. ID 23, Page 2, Line 3, Pos (7,7)
+#. ID 24, Page 2, Line 3, Pos (8,7)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"
+
+#. ID 25, Page 2, Line 3, Pos (9,7)
+msgid "遺品を手に入れた。"
+msgstr "获得了遗物。"
+
+#. ID 26, Page 2, Line 3, Pos (10,7)
+msgid "ゲリデルバーの実を手に入れた。"
+msgstr "获得了盖里德尔巴果实。"
+
+#. ID 27, Page 2, Line 3, Pos (16,7)
+msgid "ガマの油を手に入れた。"
+msgstr "获得了蟾蜍油。"
+
+#. ID 28, Page 2, Line 3, Pos (12,7)
+msgid "海サボテンを手に入れた。"
+msgstr "获得了海仙人掌。"
+
+#. ID 39, Page 2, Line 3, Pos (17,7)
+msgid "蛙の卵を手に入れた。"
+msgstr "获得了蛙卵。"
+
+#. ID 40, Page 2, Line 4, Pos (7,9)
+msgid ""
+"名前：ムーンビースト\n"
+"種族：獣人"
+msgstr "名字：月兽 种族：兽人"
+
+#. ID 40, Page 2, Line 6, Pos (7,9)
+msgid ""
+"月面を徘徊するモンスター\n"
+"無重力でも生活できる"
+msgstr "徘徊于月面的怪物，无重力下也能生活"
+
+#. ID 40, Page 2, Line 8, Pos (7,9)
+#. Contains choice at line 3 (2 options)
+#. ID 43, Page 2, Line 7, Pos (8,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$1000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$1000G可以打听攻略情报。要听吗？"
+
+#. ID 40, Page 2, Line 10, Pos (7,9)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 2, Line 9, Pos (8,9)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 2, Line 9, Pos (9,9)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 2, Line 9, Pos (10,9)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 9, Pos (11,9)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 2, Line 9, Pos (12,9)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 2, Line 9, Pos (13,9)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 2, Line 9, Pos (14,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 40, Page 2, Line 16, Pos (7,9)
+msgid ""
+"月に生息するモンスター\\!\n"
+"頑丈な体の持ち主\\!\n"
+"無酸素でも生きていける"
+msgstr ""
+"栖息在月球上的怪物\\!拥有结实的身体\\!没有氧气也\n"
+"能生存"
+
+#. ID 40, Page 2, Line 19, Pos (7,9)
+msgid "雷属性に弱い"
+msgstr "弱点是雷属性"
+
+#. ID 40, Page 2, Line 20, Pos (7,9)
+msgid ""
+"そういえば雷耐性を2以上にすると、\n"
+"水中で雷属性の武器を使っても、\n"
+"自爆ダメージを受けないらしいっす"
+msgstr ""
+"说起来，听说把雷耐性提升到2以上后，\n"
+"即使在水里使用雷属性武器，也不会受到自爆伤害。"
+
+#. ID 40, Page 2, Line 23, Pos (7,9)
+msgid "稀に\\C[2]ドラゴンの鎧\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]龙之铠\\C[0]"
+
+#. ID 43, Page 2, Line 4, Pos (8,9)
+msgid ""
+"名前：ムーンメイジ\n"
+"種族：不定形"
+msgstr "名字：月法师 种族：不定形"
+
+#. ID 43, Page 2, Line 6, Pos (8,9)
+msgid "宇宙時代の魔法使い"
+msgstr "宇宙时代的魔法师"
+
+#. ID 43, Page 2, Line 15, Pos (8,9)
+msgid ""
+"銀色の体をした宇宙の魔法使い\\!\n"
+"その体は柔らかく、無属性攻撃を半減してしまう"
+msgstr ""
+"银色身体的宇宙魔法师\\!其身体柔软，\n"
+"会使无属性攻击减半"
+
+#. ID 43, Page 2, Line 17, Pos (8,9)
+msgid "代わりに属性魔法攻撃は良く効く"
+msgstr "不过，属性魔法攻击效果很好"
+
+#. ID 43, Page 2, Line 18, Pos (8,9)
+msgid "電撃の魔法で攻撃してくる"
+msgstr "会用电击魔法进行攻击"
+
+#. ID 43, Page 2, Line 19, Pos (8,9)
+msgid "稀に\\C[2]ハウリング砲\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]咆哮炮\\C[0]"
+
+#. ID 44, Page 2, Line 4, Pos (9,9)
+msgid ""
+"名前：ハンマーナイスガイ\n"
+"種族：人男"
+msgstr "名字：锤子好人 种族：人类男"
+
+#. ID 44, Page 2, Line 6, Pos (9,9)
+msgid "ハンマーを振り回すいい男！"
+msgstr "挥舞锤子的好男人！"
+
+#. ID 44, Page 2, Line 7, Pos (9,9)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 7, Pos (11,9)
+#. Contains choice at line 3 (2 options)
+#. ID 47, Page 2, Line 7, Pos (12,9)
+#. Contains choice at line 3 (2 options)
+#. ID 48, Page 2, Line 7, Pos (13,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$2000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$2000G可以打听攻略情报。要听吗？"
+
+#. ID 44, Page 2, Line 15, Pos (9,9)
+msgid ""
+"ハンマーを振り回すいい男！\\!\n"
+"そのハンマーで周囲を攻撃しているのだ！"
+msgstr "挥舞锤子的好男人！\\!他正用那把锤子攻击周围！"
+
+#. ID 44, Page 2, Line 17, Pos (9,9)
+msgid ""
+"逆に懐に入ってしまえば安全！\\!\n"
+"一気に叩きのめせ！"
+msgstr "相反，只要钻进他怀里就安全了！\\!一口气打垮他！"
+
+#. ID 44, Page 2, Line 19, Pos (9,9)
+msgid "稀に\\C[2]アイアンヘッドの頭\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]铁头之头\\C[0]"
+
+#. ID 45, Page 2, Line 4, Pos (10,9)
+msgid ""
+"名前：エンダーピープル\n"
+"種族：人男"
+msgstr "名字：恩德人 种族：人类男"
+
+#. ID 45, Page 2, Line 6, Pos (10,9)
+msgid "怪しい姿をした月面の住人"
+msgstr "外貌可疑的月面居民"
+
+#. ID 45, Page 2, Line 7, Pos (10,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$1500Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$1500G可以打听攻略情报。要听吗？"
+
+#. ID 45, Page 2, Line 15, Pos (10,9)
+msgid ""
+"黒い肌の人形生物\\!\n"
+"知能はあまり高くないよう"
+msgstr "黑色皮肤的人偶生物\\!智力似乎不太高"
+
+#. ID 45, Page 2, Line 17, Pos (10,9)
+msgid ""
+"右側の壁に沿って移動している\\!\n"
+"動きをよく読んで背後から攻撃しよう"
+msgstr "沿着右侧墙壁移动\\!看清动作，从背后攻击吧"
+
+#. ID 45, Page 2, Line 19, Pos (10,9)
+msgid "稀に\\C[2]皇帝の剣\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]皇帝之剑\\C[0]"
+
+#. ID 46, Page 2, Line 4, Pos (11,9)
+msgid ""
+"名前：月のゴーレム\n"
+"種族：魔生命"
+msgstr "名字：月之魔像 种族：魔生命"
+
+#. ID 46, Page 2, Line 6, Pos (11,9)
+msgid "月の石でできたゴーレム"
+msgstr "由月之石制成的魔像"
+
+#. ID 46, Page 2, Line 15, Pos (11,9)
+msgid ""
+"月の石でできたゴーレム\\!\n"
+"動きが鈍重だがとても硬い！"
+msgstr "由月之石制成的魔像\\!动作迟缓但非常坚硬！"
+
+#. ID 46, Page 2, Line 17, Pos (11,9)
+msgid ""
+"雷属性が有効だ\\!\n"
+"また、魔法がとても効きやすい！"
+msgstr "雷属性有效\\!另外，魔法非常容易生效！"
+
+#. ID 46, Page 2, Line 19, Pos (11,9)
+msgid "稀に\\C[2]星屑のマント\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]星屑斗篷\\C[0]"
+
+#. ID 47, Page 2, Line 4, Pos (12,9)
+msgid ""
+"名前：アー\n"
+"種族：特殊装甲"
+msgstr "名字：阿 种族：特殊装甲"
+
+#. ID 47, Page 2, Line 6, Pos (12,9)
+msgid "黒い顔面岩"
+msgstr "黑色颜面岩"
+
+#. ID 47, Page 2, Line 15, Pos (12,9)
+msgid ""
+"黒い顔面岩\\!\n"
+"浮遊と落下を繰り返し、周囲の敵を攻撃する"
+msgstr "黑色颜面岩\\!反复浮游与落下，攻击周围的敌人"
+
+#. ID 47, Page 2, Line 17, Pos (12,9)
+#. ID 48, Page 2, Line 18, Pos (13,9)
+msgid "破壊するには耐甲属性で攻撃するしかない"
+msgstr "要破坏它，只能用耐甲属性攻击"
+
+#. ID 47, Page 2, Line 18, Pos (12,9)
+msgid "稀に\\C[2]地脈の剣\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]地脉之剑\\C[0]"
+
+#. ID 48, Page 2, Line 4, Pos (13,9)
+msgid ""
+"名前：ムー\n"
+"種族：特殊装甲"
+msgstr "名字：穆 种族：特殊装甲"
+
+#. ID 48, Page 2, Line 6, Pos (13,9)
+msgid "茶色の顔面岩"
+msgstr "茶色颜面岩"
+
+#. ID 48, Page 2, Line 15, Pos (13,9)
+msgid ""
+"茶色の顔面岩\\!\n"
+"一箇所に留まり炎属性のイオンリングを\n"
+"吐いて攻撃してくる"
+msgstr ""
+"茶色颜面岩\\!停留在一处，\n"
+"吐出炎属性离子环进行攻击"
+
+#. ID 48, Page 2, Line 19, Pos (13,9)
+msgid "稀に\\C[2]フレイムアンカー\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]火焰锚\\C[0]"
+
+#. ID 49, Page 2, Line 4, Pos (14,9)
+msgid ""
+"名前：ピクセルデビル\n"
+"種族：不明"
+msgstr "名字：像素恶魔 种族：不明"
+
+#. ID 49, Page 2, Line 6, Pos (14,9)
+msgid "宇宙をさまよう電子・エイリアン"
+msgstr "徘徊于宇宙的电子·外星人"
+
+#. ID 49, Page 2, Line 7, Pos (14,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$5000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$5000G可以打听攻略情报。要听吗？"
+
+#. ID 49, Page 2, Line 15, Pos (14,9)
+msgid ""
+"宇宙をさまよう電子・エイリアン\\!\n"
+"謎の生命体\\!\n"
+"取り巻きを従えて襲いかかってくる"
+msgstr ""
+"徘徊于宇宙的电子·外星人\\!谜之生命体\\!率领随从\n"
+"袭来"
+
+#. ID 49, Page 2, Line 18, Pos (14,9)
+msgid "炎属性の遠距離攻撃を仕掛けてくる"
+msgstr "会发动炎属性远程攻击"

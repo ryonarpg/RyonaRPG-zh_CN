@@ -1,0 +1,38 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 52, Page 2, Line 5, Pos (19,4)
+#. Choice (3 options)
+msgid ""
+"２Ｆ 戦闘実験室\n"
+"３Ｆ 資料保管室\n"
+"やめておく"
+msgstr ""
+"2F 战斗实验室\n"
+"3F 资料保管室\n"
+"算了"
+
+#. ID 58, Page 2, Line 3, Pos (3,7)
+#. ID 59, Page 2, Line 3, Pos (8,7)
+#. ID 60, Page 2, Line 3, Pos (12,7)
+#. ID 61, Page 2, Line 3, Pos (30,7)
+#. ID 62, Page 2, Line 3, Pos (35,7)
+msgid ""
+"列を成せ　汝　善良のマシン\n"
+"事を成せ　汝　従順のマシン\n"
+"踏鳴らせ　汝　正義のマシン\n"
+"逸脱の民を　討て"
+msgstr ""
+"列队吧　汝　成就善良机器之事吧　汝　让顺从的机\n"
+"器踏响吧　汝　正义的机器　讨伐逸脱之民"

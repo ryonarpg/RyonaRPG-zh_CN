@@ -1,0 +1,9 @@
+{
+  "game": "RyonaRPG 2026 日本語版",
+  "source_language": "ja",
+  "translation_language": "zh_CN",
+  "translation_version": "0.1.0",
+  "language_path": "language/zh_CN",
+  "game_ldb_sha256": "5bedbdcf2507632a65d4b2bab4d500d0795982f62c5b02f1345a7ed8a7d4c76a",
+  "notes": "更新游戏本体后请重新核对 RPG_RT.ldb 哈希并重跑 QA。"
+}

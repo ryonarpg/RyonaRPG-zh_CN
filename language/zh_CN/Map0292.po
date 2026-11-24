@@ -1,0 +1,66 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (10,12)
+msgid "冬虫夏草というものを知っているか？"
+msgstr "你知道冬虫夏草这种东西吗？"
+
+#. ID 2, Page 1, Line 4, Pos (10,12)
+msgid ""
+"虫に寄生し生えるキノコ……\n"
+"この世には、そんな珍しいものがあるらしい。"
+msgstr ""
+"寄生在虫身上长出的蘑菇……\n"
+"这世上似乎有这种稀奇的东西。"
+
+#. ID 2, Page 1, Line 6, Pos (10,12)
+msgid "と、すると……人間に寄生する植物もあるはずだ。"
+msgstr "那、那么……应该也有寄生在人类身上的植物。"
+
+#. ID 2, Page 1, Line 7, Pos (10,12)
+msgid ""
+"人間に寄生し、人間の行動を支配する、\n"
+"そんな植物が……。"
+msgstr "寄生在人类身上、支配人类行动的，那种植物……。"
+
+#. ID 3, Page 1, Line 3, Pos (4,24)
+msgid "こちらは植物生理学研究室です。"
+msgstr "这里是植物生理学研究室。"
+
+#. ID 5, Page 1, Line 3, Pos (15,5)
+#. ID 5, Page 2, Line 3, Pos (15,5)
+msgid "品種名：「ムシクダシ」"
+msgstr "品种名：「驱虫药」"
+
+#. ID 5, Page 2, Line 7, Pos (15,5)
+#. Contains choice at line 2 (2 options)
+msgid "葉を齧りますか？"
+msgstr "要啃叶子吗？"
+
+#. ID 5, Page 2, Line 8, Pos (15,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 5, Page 2, Line 11, Pos (15,5)
+msgid "………"
+msgstr "………"
+
+#. ID 5, Page 2, Line 12, Pos (15,5)
+msgid "凄まじい苦味が口の中に広がった。"
+msgstr "剧烈的苦味在口中扩散开来。"

@@ -1,0 +1,58 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (12,22)
+msgid "なんでこの俺がこんなことを……。"
+msgstr "为什么本大爷要做这种事……。"
+
+#. ID 4, Page 1, Line 3, Pos (9,18)
+msgid ""
+"そこのヤツはカジノで首が回らなくなってな……\n"
+"剣も全て質に入れてウチの船に売り飛ばされたんだ。"
+msgstr ""
+"那边那家伙在赌场欠了一屁股债……连剑都全当了，\n"
+"被卖到我们的船上。"
+
+#. ID 4, Page 1, Line 5, Pos (9,18)
+msgid ""
+"アンタも気をつけな、特に女の場合は\n"
+"どうなるか考えたくも無いからね……。"
+msgstr ""
+"你也当心点，尤其是女人的话，\n"
+"会变成什么样我连想都不愿想啊……。"
+
+#. ID 5, Page 1, Line 3, Pos (5,23)
+msgid ""
+"……ここは物資の搬入口さ。\n"
+"港から街中に運ぶには、ここが一番\n"
+"手っ取り早いんだ。"
+msgstr ""
+"……这里是物资搬入口。从港口运到城里，\n"
+"这里是最快的。"
+
+#. ID 5, Page 2, Line 3, Pos (5,23)
+msgid ""
+"「あー…あいにく今は仕事中なんでね、\n"
+"　終わったら宿の方でどうだい……？」"
+msgstr ""
+"「啊—…不巧现在正在工作，\n"
+"　等结束后到旅馆那边怎么样……？」"
+
+#. ID 27, Page 1, Line 7, Pos (6,16)
+msgid "注意書きがぶら下がっている。"
+msgstr "挂着注意事项牌。"
+
+#. ID 27, Page 1, Line 8, Pos (6,16)
+msgid "【関係者以外立ち入り禁止】"
+msgstr "【非相关人员禁止入内】"

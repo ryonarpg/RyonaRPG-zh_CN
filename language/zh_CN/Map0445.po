@@ -1,0 +1,181 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 1, Line 3, Pos (19,11)
+msgid ""
+"奴隷を眺めるのは自由だが、\n"
+"手を出したり声をかけたりするのは厳禁だ。"
+msgstr "观赏奴隶是自由的，但严禁动手或搭话。"
+
+#. ID 14, Page 1, Line 3, Pos (28,10)
+msgid "この子がいいわね……"
+msgstr "这个孩子不错呢……"
+
+#. ID 15, Page 1, Line 3, Pos (7,12)
+msgid "次のオークションはどれなのかね。"
+msgstr "下一次拍卖会是哪一个呢。"
+
+#. ID 18, Page 2, Line 19, Pos (34,2)
+msgid ""
+"フン、いい格好だな…\n"
+"\\!これからオークションだ。\n"
+"せいぜい高値で買ってもらわないとな"
+msgstr ""
+"哼，打扮得不错嘛…\\!接下来就是拍卖了。\n"
+"总得尽量让人以高价买下才行"
+
+#. ID 18, Page 2, Line 49, Pos (34,2)
+msgid ""
+"さあ今回の目玉はこの少女！\n"
+"\\!好きなだけいたぶるも良し\n"
+"\\!壊れるまで犯すもよし\n"
+"\\!どのようにしても楽しめますよ！"
+msgstr ""
+"来吧，这次的压轴商品就是这名少女！\n"
+"\\!随你喜欢怎么凌虐都行！\\!强奸到坏掉也可以！\n"
+"\\!无论怎样都能享受哦！"
+
+#. ID 18, Page 2, Line 54, Pos (34,2)
+#. ID 18, Page 2, Line 119, Pos (34,2)
+msgid ""
+"それではオークションを始めます\n"
+"まずは500から！"
+msgstr "那么，拍卖会现在开始，起拍价500！"
+
+#. ID 18, Page 2, Line 56, Pos (34,2)
+msgid "ククク…これは面白いものが見れたんだな"
+msgstr "呵呵呵…这可真是看到了有趣的东西啊。"
+
+#. ID 18, Page 2, Line 63, Pos (34,2)
+#. ID 18, Page 2, Line 127, Pos (34,2)
+#. ID 18, Page 2, Line 182, Pos (34,2)
+#. ID 18, Page 2, Line 236, Pos (34,2)
+msgid "はい、800000で落札でございます!!"
+msgstr "好，以800000成交!!"
+
+#. ID 18, Page 2, Line 65, Pos (34,2)
+#. ID 18, Page 2, Line 129, Pos (34,2)
+#. ID 18, Page 2, Line 184, Pos (34,2)
+#. ID 18, Page 2, Line 238, Pos (34,2)
+msgid "それでは商品のご確認を！"
+msgstr "那么，请确认商品！"
+
+#. ID 18, Page 2, Line 71, Pos (34,2)
+msgid "フヒヒ…"
+msgstr "嘻嘻嘻…"
+
+#. ID 18, Page 2, Line 76, Pos (34,2)
+#. ID 18, Page 2, Line 140, Pos (34,2)
+#. ID 18, Page 2, Line 195, Pos (34,2)
+msgid ""
+"契約成立ですな\n"
+"それではお金のほうを…"
+msgstr "契约成立了，那么请付钱…"
+
+#. ID 18, Page 2, Line 78, Pos (34,2)
+msgid ""
+"フヒヒ、わかったんだな\n"
+"\\!今すぐ払ってやるんだな。"
+msgstr "嘻嘻嘻，明白了啊\\!我这就付。"
+
+#. ID 18, Page 2, Line 89, Pos (34,2)
+msgid ""
+"………\\!はい、大変結構でございます。\n"
+"それでは失礼して…"
+msgstr "………\\!好，十分妥当。那么恕我失礼…"
+
+#. ID 18, Page 2, Line 96, Pos (34,2)
+#. ID 18, Page 2, Line 151, Pos (34,2)
+#. ID 18, Page 2, Line 206, Pos (34,2)
+#. ID 18, Page 2, Line 257, Pos (34,2)
+msgid "ではまずこの首輪をはずして…"
+msgstr "那么首先取下这个项圈…"
+
+#. ID 18, Page 2, Line 98, Pos (34,2)
+#. ID 18, Page 2, Line 153, Pos (34,2)
+#. ID 18, Page 2, Line 208, Pos (34,2)
+#. ID 18, Page 2, Line 259, Pos (34,2)
+msgid ""
+"そして、お客様のデータが記録された\n"
+"この首輪を…"
+msgstr "然后，将这个记录了客人数据的项圈…"
+
+#. ID 18, Page 2, Line 101, Pos (34,2)
+#. ID 18, Page 2, Line 156, Pos (34,2)
+#. ID 18, Page 2, Line 211, Pos (34,2)
+#. ID 18, Page 2, Line 262, Pos (34,2)
+msgid ""
+"これですべて完了です\n"
+"またのご利用をお待ちしております"
+msgstr "这样就全部完成了，期待您再次光临。"
+
+#. ID 18, Page 2, Line 108, Pos (34,2)
+msgid "フヒヒ…\\!さあお前もくるんだな"
+msgstr "嘻嘻嘻…\\!来吧，你也跟我来。"
+
+#. ID 18, Page 2, Line 135, Pos (34,2)
+msgid "思ったとおりとてもいい娘ね"
+msgstr "果然是个非常好的姑娘呢。"
+
+#. ID 18, Page 2, Line 142, Pos (34,2)
+msgid "はい、これでいいのよね。"
+msgstr "好，这样就行了吧。"
+
+#. ID 18, Page 2, Line 143, Pos (34,2)
+#. ID 18, Page 2, Line 198, Pos (34,2)
+msgid ""
+"はい……\\!確かに\n"
+"\\!これで取引は成立です\n"
+"では失礼して"
+msgstr "好……\\!确实\\!这样交易就成立了，那么恕我失礼。"
+
+#. ID 18, Page 2, Line 163, Pos (34,2)
+msgid "フフフ…\\!さあいきましょうか子猫ちゃん"
+msgstr "呵呵呵…\\!来吧，我们走吧，小猫。"
+
+#. ID 18, Page 2, Line 174, Pos (34,2)
+#. ID 18, Page 2, Line 228, Pos (34,2)
+msgid ""
+"それではオークションを始めます\n"
+"まずは500からだ！"
+msgstr "那么，拍卖会现在开始，起拍价500！"
+
+#. ID 18, Page 2, Line 190, Pos (34,2)
+msgid "この娘なら喜びそうだな…"
+msgstr "这个姑娘的话，应该会高兴吧…"
+
+#. ID 18, Page 2, Line 197, Pos (34,2)
+msgid "これでいいかな？"
+msgstr "这样可以吗？"
+
+#. ID 18, Page 2, Line 218, Pos (34,2)
+msgid "それじゃあいこうか"
+msgstr "那么就走吧。"
+
+#. ID 18, Page 2, Line 244, Pos (34,2)
+msgid "この娘ならよさそうだな"
+msgstr "这个姑娘看起来不错啊。"
+
+#. ID 18, Page 2, Line 249, Pos (34,2)
+msgid ""
+"契約成立ですな、それではお金の方を…\n"
+"\\!……確かにいただきました。\n"
+"それでは失礼して"
+msgstr ""
+"契约成立了，那么请付钱…\\!……确实收到了。\n"
+"那么恕我失礼。"
+
+#. ID 18, Page 2, Line 268, Pos (34,2)
+msgid "フフ…\\!さあ、こい"
+msgstr "呵呵…\\!来吧，过来。"

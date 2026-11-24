@@ -1,0 +1,48 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 7, Pos (0,1)
+msgid ""
+"\\n[\\v[6]]は公衆便所に身体を固定された。\n"
+"僅かばかりに身体の自由が利くのは陵辱者たちに\n"
+"都合の良いようにだろう。\n"
+"鎖から逃れる術は無さそうだ。"
+msgstr ""
+"\\n[\\v[6]]的身体被固定在公共厕所里。\n"
+"身体只有些许自由，大概是为了方便凌辱者们吧。\n"
+"看来没办法从锁链中逃脱。"
+
+#. ID 1, Page 1, Line 11, Pos (0,1)
+msgid ""
+"しばらくして何人かの人影が現れた。\n"
+"\\n[\\v[6]]は唇をかみ締め、そっと目を閉じた……"
+msgstr ""
+"过了一会儿，几道人影出现了。\n"
+"\\n[\\v[6]]咬紧嘴唇，轻轻闭上了眼睛……"
+
+#. ID 5, Page 1, Line 6, Pos (6,8)
+msgid ""
+"「おい、そろそろ時間だ！\n"
+"奴隷にご褒美をくれてやれ！」"
+msgstr "「喂，差不多到时间了！给奴隶一点奖赏吧！」"
+
+#. ID 5, Page 1, Line 19, Pos (6,8)
+msgid ""
+"「オラッ、飲み込め！\n"
+"一滴たりともこぼすんじゃねえぞ！」"
+msgstr "「喂，咽下去！一滴都不许洒出来！」"
+
+#. ID 5, Page 1, Line 53, Pos (6,8)
+msgid "「……よし、時間だ。出ろ」"
+msgstr "「……好，时间到了。出去」"

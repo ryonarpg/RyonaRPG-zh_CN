@@ -1,0 +1,147 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 86, Page 2, Line 4, Pos (116,74)
+#. ID 202, Page 2, Line 7, Pos (12,65)
+msgid "扉は再び閉ざされてしまった……。"
+msgstr "门再次关闭了……。"
+
+#. ID 86, Page 2, Line 7, Pos (116,74)
+#. ID 202, Page 2, Line 4, Pos (12,65)
+msgid "扉は固く閉ざされている……。"
+msgstr "门紧紧关闭着……。"
+
+#. ID 107, Page 2, Line 4, Pos (120,78)
+#. ID 116, Page 2, Line 4, Pos (93,66)
+#. ID 200, Page 2, Line 4, Pos (8,69)
+#. ID 213, Page 2, Line 4, Pos (8,58)
+msgid ""
+"この身体では\n"
+"レバーを動かすことは不可能だ……。"
+msgstr "以这个身体无法扳动拉杆……。"
+
+#. ID 107, Page 2, Line 9, Pos (120,78)
+#. Contains choice at line 2 (2 options)
+#. ID 116, Page 2, Line 8, Pos (93,66)
+#. Contains choice at line 2 (2 options)
+#. ID 200, Page 2, Line 8, Pos (8,69)
+#. Contains choice at line 2 (2 options)
+#. ID 213, Page 2, Line 9, Pos (8,58)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを見つけた。操作しますか?"
+msgstr "发现了拉杆。要操作吗？"
+
+#. ID 107, Page 2, Line 10, Pos (120,78)
+#. Choice (2 options, embedded in a message)
+#. ID 116, Page 2, Line 9, Pos (93,66)
+#. Choice (2 options, embedded in a message)
+#. ID 200, Page 2, Line 9, Pos (8,69)
+#. Choice (2 options, embedded in a message)
+#. ID 213, Page 2, Line 10, Pos (8,58)
+#. Choice (2 options, embedded in a message)
+#. ID 235, Page 2, Line 13, Pos (12,52)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 107, Page 3, Line 3, Pos (120,78)
+#. ID 116, Page 3, Line 3, Pos (93,66)
+#. ID 200, Page 3, Line 3, Pos (8,69)
+#. ID 213, Page 3, Line 3, Pos (8,58)
+msgid "固定されて元に戻らないようだ。"
+msgstr "似乎被固定住，无法恢复原位。"
+
+#. ID 205, Page 3, Line 4, Pos (12,63)
+#. Contains choice at line 3 (2 options)
+#. ID 206, Page 3, Line 4, Pos (13,63)
+#. Contains choice at line 3 (2 options)
+#. ID 210, Page 3, Line 4, Pos (11,63)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"この部屋を出たら\n"
+"元の姿に戻れないかもしれない……"
+msgstr "离开这个房间后，也许就无法恢复原来的样子了……"
+
+#. ID 205, Page 3, Line 6, Pos (12,63)
+#. Choice (2 options, embedded in a message)
+#. ID 206, Page 3, Line 6, Pos (13,63)
+#. Choice (2 options, embedded in a message)
+#. ID 210, Page 3, Line 6, Pos (11,63)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"進む\n"
+"戻る"
+msgstr ""
+"前进\n"
+"返回"
+
+#. ID 208, Page 2, Line 19, Pos (0,7)
+msgid ""
+"\\N[\\V[6]]は\n"
+"太古の呪詛をその身に受けた。"
+msgstr "\\N[\\V[6]]身负太古的诅咒。"
+
+#. ID 209, Page 2, Line 15, Pos (1,7)
+msgid "\\N[\\V[6]]の受けた呪詛は浄化された。"
+msgstr "\\N[\\V[6]]所受的诅咒被净化了。"
+
+#. ID 235, Page 2, Line 4, Pos (12,52)
+msgid ""
+"床にボルトが打ち込まれているが、\n"
+"今の自分の姿ではどうすることもできない。"
+msgstr ""
+"地板上钉着螺栓，\n"
+"但以自己现在的样子什么也做不了。"
+
+#. ID 235, Page 2, Line 11, Pos (12,52)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"床にボルトが打ち込まれている。\n"
+"ロープを結んでおきますか?"
+msgstr "地板上钉着螺栓。要把绳索系上吗？"
+
+#. ID 235, Page 2, Line 33, Pos (12,52)
+msgid ""
+"床にボルトが打ち込まれている。\n"
+"ロープのようなものがあれば\n"
+"結んでおけるかもしれない……。"
+msgstr ""
+"地板上钉着螺栓。如果有类似绳索的东西，\n"
+"也许能系上……"
+
+#. ID 235, Page 3, Line 4, Pos (12,52)
+msgid ""
+"ボルトからロープが垂れているが、\n"
+"今の自分の姿ではどうすることもできない。"
+msgstr ""
+"绳索从螺栓上垂下来，\n"
+"但以自己现在的样子什么也做不了。"
+
+#. ID 251, Page 2, Line 4, Pos (11,46)
+msgid ""
+"この身体では\n"
+"扉を開けることは不可能だ……。"
+msgstr "以这个身体无法打开门……。"
+
+#. ID 262, Page 2, Line 3, Pos (6,17)
+msgid "何か落ちている……"
+msgstr "有东西掉在地上……"
+
+#. ID 262, Page 2, Line 5, Pos (6,17)
+msgid "妙なものを手に入れた。"
+msgstr "获得了奇妙的东西。"

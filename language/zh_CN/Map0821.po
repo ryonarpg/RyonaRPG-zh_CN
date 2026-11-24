@@ -1,0 +1,332 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (21,24)
+#. ID 3, Page 1, Line 3, Pos (23,24)
+#. ID 4, Page 1, Line 3, Pos (21,17)
+#. ID 5, Page 1, Line 3, Pos (23,17)
+#. ID 6, Page 1, Line 3, Pos (21,4)
+#. ID 7, Page 1, Line 3, Pos (23,4)
+#. ID 8, Page 1, Line 3, Pos (4,18)
+#. ID 9, Page 1, Line 3, Pos (7,18)
+#. ID 10, Page 1, Line 3, Pos (3,7)
+#. ID 11, Page 1, Line 3, Pos (8,7)
+#. ID 12, Page 1, Line 3, Pos (21,26)
+#. ID 13, Page 1, Line 3, Pos (23,26)
+#. ID 57, Page 1, Line 3, Pos (13,8)
+#. ID 58, Page 1, Line 3, Pos (15,8)
+#. ID 59, Page 1, Line 3, Pos (13,5)
+#. ID 60, Page 1, Line 3, Pos (15,5)
+#. ID 61, Page 1, Line 3, Pos (17,5)
+#. ID 62, Page 1, Line 3, Pos (13,4)
+#. ID 63, Page 1, Line 3, Pos (15,4)
+#. ID 64, Page 1, Line 3, Pos (17,4)
+msgid ""
+"市民は、幸福です。\n"
+"幸福は、義務です。"
+msgstr "市民是幸福的。幸福是义务。"
+
+#. ID 14, Page 1, Line 3, Pos (3,21)
+msgid "グラドス様、幸福です……。"
+msgstr "格拉多斯大人，幸福……。"
+
+#. ID 15, Page 1, Line 3, Pos (2,24)
+msgid ""
+"ああ……こんなに幸福だなんて。\n"
+"幸福です……幸福です……。"
+msgstr "啊啊……竟然如此幸福。我很幸福……我很幸福……。"
+
+#. ID 16, Page 1, Line 3, Pos (3,27)
+msgid ""
+"すべてはグラドス様が導いてくれるのです。\n"
+"それ以上幸福なことなどないでしょう。"
+msgstr ""
+"一切皆由格拉多斯大人引导。\n"
+"没有比这更幸福的事了吧。"
+
+#. ID 17, Page 1, Line 3, Pos (8,24)
+msgid ""
+"思慮は罪です。疑いは大罪です。\n"
+"グラドス様がすべて正しく幸福であるのに……"
+msgstr ""
+"思虑是罪。怀疑是大罪。\n"
+"明明格拉多斯大人一切正确而幸福……"
+
+#. ID 18, Page 1, Line 3, Pos (5,4)
+msgid ""
+"グラドス様のお言葉を信じるのです。\n"
+"グラドス様のお考えこそ正しいのです。\n"
+"グラドス様こそ幸福なのです。"
+msgstr ""
+"要相信格拉多斯大人之言。\n"
+"格拉多斯大人的想法才是正确的。\n"
+"格拉多斯大人本身就是幸福。"
+
+#. ID 19, Page 1, Line 3, Pos (4,8)
+msgid ""
+"自分で考える？\n"
+"間違いや愚かな失敗をしてしまうのに？"
+msgstr "自己思考？明明会犯下错误和愚蠢的失败？"
+
+#. ID 19, Page 1, Line 5, Pos (4,8)
+msgid ""
+"なんと浅ましい……\n"
+"グラドス様のお教え通りに生きていけば、\n"
+"何も間違いなど起き得ないのですよ？"
+msgstr ""
+"多么浅薄……只要按照格拉多斯大人的教导生活，\n"
+"就不可能发生任何错误啊？"
+
+#. ID 20, Page 1, Line 3, Pos (7,8)
+msgid ""
+"労働も人口も……\n"
+"すべてグラドス様が管理してくださるのです。\n"
+"幸福です。"
+msgstr "劳动和人口……全都由格拉多斯大人管理。幸福。"
+
+#. ID 21, Page 1, Line 3, Pos (3,10)
+msgid ""
+"市民の声を聞きなさい……\n"
+"みな、幸福でしょう？"
+msgstr "听听市民的声音……大家都很幸福吧？"
+
+#. ID 22, Page 1, Line 3, Pos (8,10)
+msgid ""
+"あなたも導かれたのでしょう。\n"
+"グラドス様の幸福に。"
+msgstr "你也被引导了吧。被格拉多斯大人引向幸福。"
+
+#. ID 23, Page 1, Line 4, Pos (17,24)
+#. Contains choice at line 3 (2 options)
+#. ID 24, Page 1, Line 4, Pos (18,24)
+#. Contains choice at line 3 (2 options)
+#. ID 25, Page 1, Line 4, Pos (19,24)
+#. Contains choice at line 3 (2 options)
+#. ID 26, Page 1, Line 4, Pos (25,24)
+#. Contains choice at line 3 (2 options)
+#. ID 27, Page 1, Line 4, Pos (26,24)
+#. Contains choice at line 3 (2 options)
+#. ID 28, Page 1, Line 4, Pos (27,24)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊「ライオネル教書」という本がある　\n"
+"　 読みますか？"
+msgstr ""
+"＊有一本叫「莱昂内尔教典」的书\n"
+"　 要读吗？"
+
+#. ID 23, Page 1, Line 6, Pos (17,24)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 6, Pos (18,24)
+#. Choice (2 options, embedded in a message)
+#. ID 25, Page 1, Line 6, Pos (19,24)
+#. Choice (2 options, embedded in a message)
+#. ID 26, Page 1, Line 6, Pos (25,24)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 6, Pos (26,24)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 6, Pos (27,24)
+#. Choice (2 options, embedded in a message)
+#. ID 81, Page 1, Line 5, Pos (36,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 23, Page 1, Line 8, Pos (17,24)
+#. ID 24, Page 1, Line 8, Pos (18,24)
+#. ID 25, Page 1, Line 8, Pos (19,24)
+#. ID 26, Page 1, Line 8, Pos (25,24)
+#. ID 27, Page 1, Line 8, Pos (26,24)
+#. ID 28, Page 1, Line 8, Pos (27,24)
+msgid ""
+"＊市民は幸福である。\n"
+"　偉大なるグラドス様の教えに従うことができる。"
+msgstr ""
+"＊市民是幸福的。\n"
+"　能够遵从伟大的古拉多斯大人之教。"
+
+#. ID 23, Page 1, Line 10, Pos (17,24)
+#. ID 24, Page 1, Line 10, Pos (18,24)
+#. ID 25, Page 1, Line 10, Pos (19,24)
+#. ID 26, Page 1, Line 10, Pos (25,24)
+#. ID 27, Page 1, Line 10, Pos (26,24)
+#. ID 28, Page 1, Line 10, Pos (27,24)
+msgid ""
+"＊グラドス様の教えは常に正しい。\n"
+"　グラドス様は市民の最大幸福を常に導き出す。\n"
+"　グラドス様に従うことは幸福である。"
+msgstr ""
+"＊古拉多斯大人之教永远正确。\n"
+"　格拉多斯大人总是引导出市民的最大幸福。\n"
+"　遵从格拉多斯大人就是幸福。"
+
+#. ID 23, Page 1, Line 13, Pos (17,24)
+#. ID 24, Page 1, Line 13, Pos (18,24)
+#. ID 25, Page 1, Line 13, Pos (19,24)
+#. ID 26, Page 1, Line 13, Pos (25,24)
+#. ID 27, Page 1, Line 13, Pos (26,24)
+#. ID 28, Page 1, Line 13, Pos (27,24)
+msgid ""
+"＊市民は幸福である。\n"
+"　グラドス様に従う市民は幸福でなければならない。"
+msgstr ""
+"＊市民是幸福的。\n"
+"　遵从格拉多斯大人的市民必须是幸福的。"
+
+#. ID 33, Page 1, Line 3, Pos (14,24)
+msgid ""
+"グラドス様に従うことこそ幸福なのです。\n"
+"善き事なのです。"
+msgstr "遵从格拉多斯大人正是幸福。是善事。"
+
+#. ID 34, Page 1, Line 3, Pos (16,26)
+msgid ""
+"私たちは従順なグラドス様の市民……\n"
+"幸福を享受しましょう。"
+msgstr "我们是顺从格拉多斯大人的市民……享受幸福吧。"
+
+#. ID 35, Page 1, Line 3, Pos (27,26)
+msgid ""
+"グラドス様の前ではすべてが平等なのです。\n"
+"幸福です。"
+msgstr "在格拉多斯大人面前一切平等。幸福。"
+
+#. ID 36, Page 1, Line 3, Pos (32,25)
+msgid ""
+"さあ、この幸福の列に並びましょう。\n"
+"甘受しましょう。\n"
+"グラドス様の下部なのです。"
+msgstr ""
+"来吧，排入这幸福的队列吧。甘愿接受吧。\n"
+"我们是格拉多斯大人的属下。"
+
+#. ID 37, Page 1, Line 3, Pos (39,18)
+msgid ""
+"幸福な市民よ。\n"
+"グラドス様に従順に従うことは幸福なのです。"
+msgstr "幸福的市民啊。顺从地遵从格拉多斯大人就是幸福。"
+
+#. ID 37, Page 1, Line 5, Pos (39,18)
+msgid ""
+"歓喜しましょう。\n"
+"グラドス様は幸福を与えてくださるのです。\n"
+"幸福を否定する逸脱の愚者は討たねばなりません。"
+msgstr ""
+"欢喜吧。格拉多斯大人赐予我们幸福。\n"
+"否定幸福的逸脱愚者必须讨伐。"
+
+#. ID 37, Page 1, Line 8, Pos (39,18)
+msgid ""
+"さあ思慮は罪です。疑問は大罪です。\n"
+"グラドス様の教えは幸福なのです。"
+msgstr ""
+"来吧，思虑是罪。疑问是大罪。\n"
+"古拉多斯大人之教是幸福。"
+
+#. ID 37, Page 1, Line 10, Pos (39,18)
+msgid ""
+"これは善き事なのです。\n"
+"市民は、幸福です。"
+msgstr "这是善事。市民是幸福的。"
+
+#. ID 37, Page 1, Line 32, Pos (39,18)
+msgid ""
+"\n"
+"　　　　　　　幸　福　で　す　\n"
+msgstr "　　　　　　　是　幸　福　的"
+
+#. ID 38, Page 1, Line 3, Pos (36,22)
+#. ID 39, Page 1, Line 3, Pos (37,22)
+#. ID 40, Page 1, Line 3, Pos (38,22)
+#. ID 41, Page 1, Line 3, Pos (40,22)
+#. ID 42, Page 1, Line 3, Pos (42,22)
+#. ID 43, Page 1, Line 3, Pos (37,24)
+#. ID 44, Page 1, Line 3, Pos (41,26)
+#. ID 45, Page 1, Line 3, Pos (36,26)
+#. ID 46, Page 1, Line 3, Pos (41,22)
+#. ID 47, Page 1, Line 3, Pos (36,24)
+#. ID 48, Page 1, Line 3, Pos (40,24)
+#. ID 49, Page 1, Line 3, Pos (42,24)
+#. ID 50, Page 1, Line 3, Pos (41,24)
+#. ID 51, Page 1, Line 3, Pos (37,26)
+#. ID 52, Page 1, Line 3, Pos (38,26)
+#. ID 53, Page 1, Line 3, Pos (40,26)
+#. ID 54, Page 1, Line 3, Pos (42,26)
+#. ID 55, Page 1, Line 8, Pos (38,24)
+msgid ""
+"はい、グラドス様。\n"
+"市民は幸福です。"
+msgstr "是的，格拉多斯大人。市民是幸福的。"
+
+#. ID 55, Page 1, Line 4, Pos (38,24)
+msgid "私は旅人でしたが、今では幸福な市民です。"
+msgstr "我曾是旅人，但如今是幸福的市民。"
+
+#. ID 65, Page 1, Line 3, Pos (13,12)
+msgid ""
+"グラドス様の教えを理解しない……\n"
+"そんな逸脱の民は討たねばならない。\n"
+"幸福のために。"
+msgstr ""
+"不理解古拉多斯大人之教……\n"
+"这样的逸脱之民必须讨伐。为了幸福。"
+
+#. ID 66, Page 1, Line 3, Pos (17,12)
+msgid ""
+"もはやアバロソは逸脱の群集にすぎない。\n"
+"幸福のためには……"
+msgstr "阿瓦罗索如今不过是逸脱的群集。为了幸福……"
+
+#. ID 67, Page 1, Line 3, Pos (21,7)
+#. ID 68, Page 1, Line 3, Pos (23,7)
+msgid ""
+"こちらは、領主グラドス様の執政室です。\n"
+"旅の方とのお話を望まれております。\n"
+"グラドス様と話せるとは、幸福なことです。"
+msgstr ""
+"这里是领主格拉多斯大人的执政室。\n"
+"他希望能与旅行者交谈。能与格拉多斯大人交谈，\n"
+"是幸福的事。"
+
+#. ID 71, Page 1, Line 3, Pos (33,20)
+#. ID 72, Page 1, Line 3, Pos (33,22)
+msgid ""
+"グラドス様の教えを、\n"
+"下部たる我々が市民にお伝えします。\n"
+"みなの幸福のために。"
+msgstr ""
+"古拉多斯大人之教，由身为属下的我们传达给市民。\n"
+"为了大家的幸福。"
+
+#. ID 73, Page 1, Line 3, Pos (32,7)
+msgid ""
+"掃除をすることが私の人生です。\n"
+"グラドス様が与えてくださった役割です。\n"
+"私は幸福です。"
+msgstr ""
+"清扫就是我的人生。\n"
+"这是格拉多斯大人赐予我的角色。我很幸福。"
+
+#. ID 81, Page 1, Line 4, Pos (36,3)
+#. Contains choice at line 2 (2 options)
+msgid "鍵で扉を開けますか？"
+msgstr "要用钥匙开门吗？"
+
+#. ID 81, Page 1, Line 27, Pos (36,3)
+msgid "開かない。"
+msgstr "打不开。"

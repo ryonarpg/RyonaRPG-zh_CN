@@ -1,0 +1,27 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 44, Page 2, Line 1, Pos (12,28)
+msgid ""
+"ふふ…\n"
+"いらっしゃい…"
+msgstr "呵呵……欢迎……"
+
+#. ID 44, Page 2, Line 3, Pos (12,28)
+msgid "奥へ行きたいなら…ピアノを捜しなさい…"
+msgstr "想去里面的话……就去找钢琴吧……"
+
+#. ID 44, Page 3, Line 1, Pos (12,28)
+msgid "あらあら…\\!かわいい子猫ちゃんね。"
+msgstr "哎呀哎呀……\\!可爱的小猫呢。"

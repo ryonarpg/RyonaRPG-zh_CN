@@ -1,0 +1,43 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 2, Line 3, Pos (19,0)
+msgid ""
+"住人\n"
+"「うおっ、見つかった！\n"
+"　上手く隠れていたと思うんだけどなぁ～\\!\n"
+"　…\\.…\\.べ、別にサボってたわけじゃないよ？"
+msgstr ""
+"居民「哇，被发现了！\n"
+"　我觉得自己藏得挺好的啊～\\!　…\\.…\\.我、\n"
+"　我可没有在偷懒哦？"
+
+#. ID 15, Page 2, Line 7, Pos (19,0)
+msgid ""
+"\n"
+"　あ、そうだ。\n"
+"　折角だし、いい事教えてあげるね。"
+msgstr "　啊，对了。　难得有机会，我告诉你一件好事哦。"
+
+#. ID 15, Page 2, Line 10, Pos (19,0)
+msgid ""
+"　この先の崖には近道があるんだ。\n"
+"　飛び降りれそうな場所は調べてみるといいかも。\\!\n"
+"　…\\.…\\.いい事教えたんだから、\n"
+"　お店の人には何も言わないでおくれよ。」"
+msgstr ""
+"　前面的悬崖有捷径。\n"
+"　也许可以调查一下看起来能跳下去的地方。\n"
+"　\\!　…\\.…\\.我可是告诉了你一件好事，\n"
+"　所以别对店里的人说什么哦。」"

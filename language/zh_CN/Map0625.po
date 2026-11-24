@@ -1,0 +1,191 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 5, Pos (16,25)
+msgid "「ありがとうございました…」"
+msgstr "「非常感谢…」"
+
+#. ID 2, Page 1, Line 11, Pos (16,25)
+msgid "「どうぞ…またおこしくださいませ…」"
+msgstr "「请…下次再来…」"
+
+#. ID 4, Page 1, Line 3, Pos (6,9)
+msgid ""
+"私たちは元住民です…\n"
+"命を助けてもらう代わりにここで…"
+msgstr "我们本是原住民…作为救我们一命的交换，在这里…"
+
+#. ID 8, Page 1, Line 4, Pos (17,7)
+msgid ""
+"もうこの国は終わっちゃいました。\n"
+"もうどうでもいいじゃないですか…\n"
+"一緒に壊れましょう…隊長…"
+msgstr ""
+"这个国家已经完了。反正都已经无所谓了吧…\n"
+"一起坏掉吧…队长…"
+
+#. ID 8, Page 1, Line 8, Pos (17,7)
+msgid "………そうだな…"
+msgstr "………是啊…"
+
+#. ID 12, Page 1, Line 4, Pos (9,6)
+msgid "「いらっしゃいませ…。ご注文をどうぞ」"
+msgstr "「欢迎光临…。请点单」"
+
+#. ID 12, Page 1, Line 5, Pos (9,6)
+#. Choice (4 options)
+msgid ""
+"女体盛り　　      　　350G\n"
+"わかめ酒            　750G\n"
+"母乳　　　　        　250G\n"
+"満月亭スペシャル　　　50000G"
+msgstr ""
+"女体盛　　      　　350G\n"
+"海带酒            　750G\n"
+"母乳　　　　        　250G\n"
+"满月亭特餐　　　50000G"
+
+#. ID 12, Page 1, Line 9, Pos (9,6)
+msgid "「はい…。しばらくおまちください」"
+msgstr "「好的…。请稍等」"
+
+#. ID 12, Page 1, Line 15, Pos (9,6)
+msgid "「はい。お待ちどうさま…」"
+msgstr "「好的。让您久等了…」"
+
+#. ID 12, Page 1, Line 22, Pos (9,6)
+#. ID 12, Page 1, Line 65, Pos (9,6)
+#. ID 12, Page 1, Line 111, Pos (9,6)
+msgid "いただきまーす。"
+msgstr "我开动了——。"
+
+#. ID 12, Page 1, Line 36, Pos (9,6)
+msgid "おいしいものを食べて幸せな気分になった。"
+msgstr "吃了好吃的东西，心情变得幸福。"
+
+#. ID 12, Page 1, Line 43, Pos (9,6)
+#. ID 12, Page 1, Line 89, Pos (9,6)
+#. ID 12, Page 1, Line 226, Pos (9,6)
+msgid "「お金…足りないみたいですね…」"
+msgstr "「金钱…好像不够呢…」"
+
+#. ID 12, Page 1, Line 52, Pos (9,6)
+msgid "「はい…しばらくおまちください…」"
+msgstr "「好的…请稍等…」"
+
+#. ID 12, Page 1, Line 58, Pos (9,6)
+msgid "はい…お待ちどうさまでした…。"
+msgstr "好的…让您久等了…。"
+
+#. ID 12, Page 1, Line 80, Pos (9,6)
+#. ID 12, Page 1, Line 127, Pos (9,6)
+msgid ""
+"おいしいものを食べて幸せな気分になった。\n"
+"体と心が暖かくなった。\n"
+"少し疲れがとれた気がする。"
+msgstr ""
+"吃了好吃的东西，心情变得幸福。身心都温暖起来。\n"
+"感觉稍微缓解了疲劳。"
+
+#. ID 12, Page 1, Line 98, Pos (9,6)
+msgid "「はい。しばらくおまちください…」"
+msgstr "「好的。请稍等…」"
+
+#. ID 12, Page 1, Line 104, Pos (9,6)
+msgid "「はい…お待ちどうさまです…」"
+msgstr "「好的…让您久等了…」"
+
+#. ID 12, Page 1, Line 136, Pos (9,6)
+msgid "「お金…足りませんか？」"
+msgstr "「金钱…不够吗？」"
+
+#. ID 12, Page 1, Line 146, Pos (9,6)
+msgid "「はい…。しばらくおまちください…」"
+msgstr "「好的…。请稍等…」"
+
+#. ID 12, Page 1, Line 154, Pos (9,6)
+msgid ""
+"「はい。お待ちどうさま。\n"
+"どうぞ。私を食べてください…」"
+msgstr "「好的。让您久等了。请吧。请吃掉我…」"
+
+#. ID 12, Page 1, Line 162, Pos (9,6)
+msgid "い、いただきまーす。"
+msgstr "我、我开动了——。"
+
+#. ID 12, Page 1, Line 176, Pos (9,6)
+msgid "こ、これはッ！！"
+msgstr "这、这是！！"
+
+#. ID 12, Page 1, Line 184, Pos (9,6)
+msgid "「おいひぃ！おいひぃよおおおおおお！」"
+msgstr "「好好吃！好好吃哦哦哦哦哦哦！」"
+
+#. ID 12, Page 1, Line 202, Pos (9,6)
+msgid "すばらしい経験をして元気があふれてきた。"
+msgstr "经历了美妙的体验，活力涌了上来。"
+
+#. ID 12, Page 1, Line 216, Pos (9,6)
+msgid "ごちそうさまでした。"
+msgstr "多谢款待。"
+
+#. ID 12, Page 1, Line 227, Pos (9,6)
+msgid "「………ほっ…」"
+msgstr "「………呼…」"
+
+#. ID 12, Page 1, Line 235, Pos (9,6)
+msgid "「……なんでこんなことに…」"
+msgstr "「……为什么会变成这样…」"
+
+#. ID 13, Page 1, Line 5, Pos (11,7)
+msgid "「今の私は…"
+msgstr "「现在的我…"
+
+#. ID 13, Page 1, Line 10, Pos (11,7)
+msgid "「もうこんな事しか出来ないのかな…」"
+msgstr "「已经只能做这种事了吗…」"
+
+#. ID 13, Page 1, Line 15, Pos (11,7)
+msgid "「…………もういいや…どうなっても…」"
+msgstr "「…………算了…不管变成怎样…」"
+
+#. ID 14, Page 1, Line 3, Pos (2,9)
+msgid "クスクス、レイク様…"
+msgstr "嘻嘻，雷克大人…"
+
+#. ID 15, Page 1, Line 6, Pos (1,0)
+msgid "「うう…いらっしゃいませ…」"
+msgstr "「呜呜…欢迎光临…」"
+
+#. ID 15, Page 1, Line 12, Pos (1,0)
+msgid "「新・満月亭へようこそ…」"
+msgstr "「欢迎来到新·满月亭…」"
+
+#. ID 19, Page 1, Line 4, Pos (20,15)
+msgid "「だれか…たすけて…」"
+msgstr "「谁来…救救我…」"
+
+#. ID 21, Page 1, Line 4, Pos (12,14)
+msgid "「うう…いっぱいだされちゃったよ…」"
+msgstr "「呜呜…被弄出来好多啊…」"
+
+#. ID 44, Page 1, Line 3, Pos (9,9)
+msgid ""
+"はい…女体盛りサービスですね…\n"
+"すぐに準備します…"
+msgstr "好的…是女体盛服务吧…马上准备…"
+
+#. ID 49, Page 1, Line 3, Pos (30,15)
+msgid "ずいぶんとかわっちまったなあ…"
+msgstr "真是变了好多啊…"

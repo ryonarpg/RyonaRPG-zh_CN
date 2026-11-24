@@ -1,0 +1,85 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 5, Page 1, Line 5, Pos (18,20)
+msgid ""
+"＊……手記のようだ\n"
+"　"
+msgstr "＊……好像是手记"
+
+#. ID 5, Page 1, Line 11, Pos (18,20)
+msgid ""
+"＊……エルザマリア\n"
+"　君が正しかったと言うことだろうか"
+msgstr "＊……艾尔扎玛丽亚　难道说你是正确的吗"
+
+#. ID 5, Page 1, Line 13, Pos (18,20)
+msgid ""
+"＊君が復興した……\n"
+"　我々の祖国に戻りたかった"
+msgstr "＊你复兴了……　我曾想回到我们的祖国"
+
+#. ID 5, Page 1, Line 15, Pos (18,20)
+msgid ""
+"＊今となっては、おそすぎ……\n"
+"\n"
+"　後　か　　　　い……"
+msgstr "＊事到如今，已经太迟了……　后　悔　　　　啊……"
+
+#. ID 6, Page 1, Line 3, Pos (18,19)
+msgid ""
+"＊白骨化した遺体だ……\n"
+"　何年も、何十年も前に亡くなったのだろう"
+msgstr ""
+"＊是已经白骨化的遗体……　大概是在好几年前、\n"
+"　甚至几十年前去世的吧"
+
+#. ID 7, Page 1, Line 4, Pos (10,13)
+#. ID 10, Page 1, Line 4, Pos (3,8)
+#. ID 11, Page 1, Line 4, Pos (19,7)
+msgid "お客様ですか？"
+msgstr "是客人吗？"
+
+#. ID 7, Page 1, Line 5, Pos (10,13)
+#. ID 10, Page 1, Line 5, Pos (3,8)
+#. ID 11, Page 1, Line 5, Pos (19,7)
+msgid ""
+"申し訳あ…ません\n"
+"ヴォル…ール様はただ今\n"
+"お休み…なられていて……"
+msgstr "非常抱歉……沃尔……尔大人现在正在休息……"
+
+#. ID 7, Page 1, Line 8, Pos (10,13)
+msgid ""
+"お体の調…を崩され、\n"
+"お食……食べられないほどで……"
+msgstr "您的身体状况变差……甚至到了连饭……都吃不下……"
+
+#. ID 7, Page 1, Line 10, Pos (10,13)
+msgid ""
+"申し…ｻﾞｯ…りませんが、\n"
+"また後日、お越しください"
+msgstr "非常……サ゛ッ……抱歉，请改日再来"
+
+#. ID 10, Page 1, Line 8, Pos (3,8)
+msgid ""
+"今日はお身体に優しいお粥を\n"
+"作ろうと思います……"
+msgstr "今天我想做些对身体温和的粥……"
+
+#. ID 11, Page 1, Line 8, Pos (19,7)
+msgid ""
+"お風呂の支度をいたしま……で\n"
+"応対も出来ず、申し訳…りません"
+msgstr "我正在准备洗澡水……因此也没能接待您，实在抱歉……"

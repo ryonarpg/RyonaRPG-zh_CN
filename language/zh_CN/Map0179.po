@@ -1,0 +1,60 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 5, Pos (15,8)
+#. Contains choice at line 2 (2 options)
+msgid "毒消しが大量に入っている！"
+msgstr "里面装着大量解毒剂！"
+
+#. ID 12, Page 2, Line 6, Pos (15,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"持っていく\n"
+"いいえ"
+msgstr ""
+"带走\n"
+"否"
+
+#. ID 12, Page 2, Line 8, Pos (15,8)
+msgid ""
+"\\N[\\V[6]]は毒消しを手に入れ\\.…\\.…\n"
+"毒消しのラベルには「見本品」と書かれている！\n"
+"中身はただの塩水だ！\n"
+"\\.なんてこった！"
+msgstr ""
+"\\N[\\V[6]]获得了解毒剂\\.…\\.…解毒剂的标签上写着\n"
+"「样品」！里面只是盐水！\\.怎么会这样！"
+
+#. ID 13, Page 2, Line 3, Pos (21,8)
+msgid ""
+"見た目は同じでも、個体によって\n"
+"行動パターンが異なる場合があります。\n"
+"一度倒した相手だからといって\n"
+"油断しないように！"
+msgstr ""
+"即使外观相同，不同个体的行动模式也可能不同。\n"
+"不要因为曾经打倒过对方就掉以轻心！"
+
+#. ID 15, Page 2, Line 3, Pos (18,8)
+msgid ""
+"敵の中には毒を持ったものも多くいます。\n"
+"状態異常を回復するアイテムは多めに\n"
+"持ち歩きましょう。"
+msgstr ""
+"敌人中有很多带毒的。\n"
+"多随身携带恢复状态异常的道具吧。"
+
+#. ID 17, Page 2, Line 3, Pos (20,11)
+msgid "グラディウスを手に入れた。"
+msgstr "获得了格拉迪乌斯。"

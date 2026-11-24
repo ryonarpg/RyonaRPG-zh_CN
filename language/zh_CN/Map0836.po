@@ -1,0 +1,128 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 35, Page 1, Line 7, Pos (27,2)
+msgid ""
+"\n"
+"到着したか\n"
+msgstr "到了吗"
+
+#. ID 35, Page 1, Line 18, Pos (27,2)
+msgid ""
+"ようこそ機構基地ゴーグへ\n"
+"アバロソの密偵よ"
+msgstr "欢迎来到机构基地戈格，阿巴罗索的密探啊"
+
+#. ID 35, Page 1, Line 24, Pos (27,2)
+msgid ""
+"存在には気がついていたが\n"
+"中々発見できなかった\n"
+"まさか、ここの調べがついているとは"
+msgstr ""
+"虽然早已注意到你的存在，却迟迟没能发现。\n"
+"没想到，你竟然已经查到了这里"
+
+#. ID 35, Page 1, Line 31, Pos (27,2)
+msgid "由々しき事態だ"
+msgstr "事态严重"
+
+#. ID 35, Page 1, Line 32, Pos (27,2)
+msgid ""
+"こうなった以上、\n"
+"もはや一国の猶予も無い\n"
+"アバロソを撃滅しなければならない"
+msgstr ""
+"事已至此，已经不能再给这个国家任何宽限，\n"
+"必须击灭阿巴罗索"
+
+#. ID 35, Page 1, Line 42, Pos (27,2)
+msgid ""
+"お前はアバロソの密偵だが、\n"
+"お前には感謝している"
+msgstr "你虽然是阿巴罗索的密探，但我很感谢你"
+
+#. ID 35, Page 1, Line 44, Pos (27,2)
+msgid ""
+"いつ出兵すべきか悩んでいた\n"
+"中々よりよいタイミングを掴めなかった\n"
+"が……"
+msgstr ""
+"一直烦恼着该何时出兵，\n"
+"却始终没能抓住更好的时机……"
+
+#. ID 35, Page 1, Line 47, Pos (27,2)
+msgid ""
+"お前の存在が解ったからこそ\n"
+"出兵の決意を固めることが\n"
+"できたのだからな"
+msgstr "正因为知道了你的存在，我才能下定决心出兵。"
+
+#. ID 35, Page 1, Line 50, Pos (27,2)
+msgid ""
+"もはや猶予は許されない\n"
+"一秒でも早く\n"
+"アバロソを滅ぼすのだ"
+msgstr ""
+"已经不能再犹豫了，\n"
+"要一秒也不耽搁地毁灭阿巴罗索。"
+
+#. ID 35, Page 1, Line 62, Pos (27,2)
+msgid "まずはお前からだ！"
+msgstr "首先就从你开始！"
+
+#. ID 36, Page 2, Line 5, Pos (29,2)
+msgid ""
+"まさ……か……ｻﾞｻﾞｯ……\n"
+"これほど……ｻﾞｻﾞｯ……とは……"
+msgstr ""
+"没想……到……沙啊、沙啊……竟然到……沙啊、沙啊……\n"
+"这种程度……"
+
+#. ID 36, Page 2, Line 7, Pos (29,2)
+msgid ""
+"ｻﾞｻﾞｯ……AIルームは……\n"
+"コントロー……室ｈ……ｻﾞｯ……\n"
+"発見されては危……険ｻﾞｯ……逃げ……"
+msgstr ""
+"沙啊、沙啊……AI房间是……控制……室h……沙啊……\n"
+"被发现的话危……险沙啊……逃……"
+
+#. ID 46, Page 2, Line 9, Pos (31,2)
+msgid ""
+"\\S[2]「黒い鉱石」の攻撃を確認\n"
+"無効化システムと迎撃兵器\n"
+"起動....\\.\\.\\.\\^"
+msgstr ""
+"\\S[2]确认到「黑色矿石」的攻击，\n"
+"启动无效化系统与迎击兵器....\\.\\.\\.\\^"
+
+#. ID 46, Page 2, Line 19, Pos (31,2)
+msgid "\\S[2]黒い鉱石は砕け散った！\\.\\.\\.\\^"
+msgstr "\\S[2]黑色矿石碎裂四散！\\.\\.\\.\\^"
+
+#. ID 58, Page 2, Line 3, Pos (19,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊緊急脱出路のようだ\n"
+"　移動しますか？"
+msgstr "＊看来是紧急逃生通道　要移动吗？"
+
+#. ID 58, Page 2, Line 5, Pos (19,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

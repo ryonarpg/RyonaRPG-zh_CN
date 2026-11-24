@@ -1,0 +1,430 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 58, Page 1, Line 3, Pos (18,5)
+msgid ""
+"ようこそ。こちらは射的場です。\n"
+"\\!一回3000Gですが、挑戦してみますか？"
+msgstr ""
+"欢迎光临。这里是射击场。\\!一次3000G，\n"
+"要挑战看看吗？"
+
+#. ID 58, Page 1, Line 31, Pos (18,5)
+msgid ""
+"・・・銃は扱えない。\n"
+"\\!やめておこう。"
+msgstr "……我不会用枪。\\!还是算了吧。"
+
+#. ID 58, Page 1, Line 36, Pos (18,5)
+#. Choice (3 options)
+msgid ""
+"挑戦する\n"
+"説明を聞く\n"
+"やめとく"
+msgstr ""
+"挑战\n"
+"听说明\n"
+"算了"
+
+#. ID 58, Page 1, Line 39, Pos (18,5)
+msgid "おや、お金が足りないようですね。"
+msgstr "哎呀，钱好像不够呢。"
+
+#. ID 58, Page 1, Line 57, Pos (18,5)
+msgid ""
+"まずは専用の装備と服装に着替えていただきますね。\n"
+"\\!こちらをどうぞ。"
+msgstr "首先请换上专用装备和服装。\\!请拿好这个。"
+
+#. ID 58, Page 1, Line 73, Pos (18,5)
+msgid "お着替えは済みましたか？"
+msgstr "换好衣服了吗？"
+
+#. ID 58, Page 1, Line 74, Pos (18,5)
+msgid "ではあの高台の上にお登りください。"
+msgstr "那么请登上那座高台。"
+
+#. ID 58, Page 1, Line 87, Pos (18,5)
+msgid ""
+"それでは\n"
+"\\!用意・・・"
+msgstr "那么\\!准备……"
+
+#. ID 58, Page 1, Line 90, Pos (18,5)
+msgid "スタート！"
+msgstr "开始！"
+
+#. ID 58, Page 1, Line 102, Pos (18,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"はい♪\n"
+"少し時間をいただきますがよろしいでしょうか？"
+msgstr "好的♪需要占用一点时间，可以吗？"
+
+#. ID 58, Page 1, Line 104, Pos (18,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 58, Page 1, Line 106, Pos (18,5)
+msgid ""
+"分かりました。\n"
+"ルールをご説明させていただきます。"
+msgstr "明白了。请允许我说明规则。"
+
+#. ID 58, Page 1, Line 108, Pos (18,5)
+msgid ""
+"このゲームでは的を撃って\n"
+"どれだけ点数を稼げるかを競います。\n"
+"\\!制限時間は1分30秒です。"
+msgstr ""
+"在这个游戏中，要射击靶子，比拼能获得多少分数。\n"
+"\\!限时1分30秒。"
+
+#. ID 58, Page 1, Line 111, Pos (18,5)
+msgid ""
+"点数の計算に関してですが、\n"
+"お客様から見て右に的を展示しておりますので\n"
+"そちらをご確認ください。"
+msgstr ""
+"关于分数计算，靶子展示在客人您看去的右侧，\n"
+"请确认那边。"
+
+#. ID 58, Page 1, Line 114, Pos (18,5)
+msgid ""
+"3000点以上獲得した方に景品くじを用意しております。\n"
+"4000点、5000点以上でさらに景品ランクが上がります。\n"
+"\\!5000点以上獲得するのはかなりむずかしいですけどね。"
+msgstr ""
+"获得3000分以上的人备有奖品抽签。达到4000分、\n"
+"5000分以上，奖品等级会进一步提升。\n"
+"\\!不过要获得5000分以上是相当困难的。"
+
+#. ID 58, Page 1, Line 117, Pos (18,5)
+msgid ""
+"なお、全ての人で条件を一緒にするために、\n"
+"こちらが用意する装備・服装に着替えていただきます。"
+msgstr ""
+"另外，为了让所有人的条件一致，\n"
+"请换上这边准备的装备和服装。"
+
+#. ID 58, Page 1, Line 119, Pos (18,5)
+msgid ""
+"銃は装弾数が６発で、全弾撃たないと\n"
+"リロードができない仕様となっています。"
+msgstr ""
+"枪的装弹数为6发，\n"
+"规格是如果不把所有子弹打完就不能装填。"
+
+#. ID 58, Page 1, Line 121, Pos (18,5)
+msgid ""
+"また、魔法の使用を制限する口当てを\n"
+"装着していただきます。"
+msgstr "此外，请佩戴限制使用魔法的口套。"
+
+#. ID 58, Page 1, Line 123, Pos (18,5)
+msgid ""
+"あ、弾代は挑戦料に含まれていますので\n"
+"気にしないで大丈夫ですよ♪"
+msgstr "啊，子弹费用已包含在挑战费里，所以不用在意哦♪"
+
+#. ID 58, Page 1, Line 125, Pos (18,5)
+msgid ""
+"えっと・・・うん、それくらいかな。\n"
+"\\!説明は以上です♪"
+msgstr "呃……嗯，大概就这些吧。\\!说明到此结束♪"
+
+#. ID 58, Page 1, Line 129, Pos (18,5)
+msgid "分かりました。"
+msgstr "明白了。"
+
+#. ID 58, Page 1, Line 130, Pos (18,5)
+msgid ""
+"おたずねしたいことがありましたら\n"
+"お気軽にどうぞ。"
+msgstr "如果有想询问的事情，请随时提出。"
+
+#. ID 58, Page 1, Line 137, Pos (18,5)
+msgid "気が向きましたらいつでもどうぞ。"
+msgstr "有兴趣的话随时欢迎。"
+
+#. ID 63, Page 1, Line 9, Pos (17,0)
+msgid "しゅーりょー"
+msgstr "结束——"
+
+#. ID 63, Page 1, Line 51, Pos (17,0)
+msgid "お疲れ様でした。"
+msgstr "辛苦了。"
+
+#. ID 63, Page 1, Line 52, Pos (17,0)
+msgid "まずはお着替えをどうぞ。"
+msgstr "首先请换衣服。"
+
+#. ID 63, Page 1, Line 103, Pos (17,0)
+msgid ""
+"\n"
+"借りていた装備を返却した。"
+msgstr "归还了借来的装备。"
+
+#. ID 63, Page 1, Line 105, Pos (17,0)
+msgid "ありがとうございます。"
+msgstr "非常感谢。"
+
+#. ID 63, Page 1, Line 106, Pos (17,0)
+msgid ""
+"それではあなたの得点ですが・・・\n"
+"\\!\\C[2]\\V[243]点\\C[0]ですね。"
+msgstr "那么你的得分是……\\!\\C[2]\\V[243]分\\C[0]呢。"
+
+#. ID 63, Page 1, Line 113, Pos (17,0)
+msgid ""
+"すごい！\n"
+"5000点を越えてます！"
+msgstr "厉害！超过5000分了！"
+
+#. ID 63, Page 1, Line 115, Pos (17,0)
+msgid ""
+"と、いうわけで\n"
+"この金の箱からくじを引いてください。"
+msgstr "所以，请从这个金箱子里抽签。"
+
+#. ID 63, Page 1, Line 118, Pos (17,0)
+#. ID 63, Page 1, Line 128, Pos (17,0)
+#. ID 63, Page 1, Line 139, Pos (17,0)
+msgid "・・・"
+msgstr "・・・"
+
+#. ID 63, Page 1, Line 123, Pos (17,0)
+msgid ""
+"おぉ！\n"
+"4000点を越えてますね。"
+msgstr "哦哦！超过4000分了呢。"
+
+#. ID 63, Page 1, Line 125, Pos (17,0)
+msgid ""
+"と、いうわけで\n"
+"この銀の箱からくじを引いてください。"
+msgstr "所以，请从这个银箱子里抽签。"
+
+#. ID 63, Page 1, Line 135, Pos (17,0)
+msgid "あ、3000点を越えてますね。"
+msgstr "啊，超过3000分了呢。"
+
+#. ID 63, Page 1, Line 136, Pos (17,0)
+msgid ""
+"と、いうわけで\n"
+"この銅の箱からくじを引いてください。"
+msgstr "所以，请从这个铜箱子里抽签。"
+
+#. ID 63, Page 1, Line 146, Pos (17,0)
+msgid ""
+"残念。\n"
+"3000点以上獲得していだだけたら\n"
+"景品をお渡しいたしますね。"
+msgstr ""
+"很遗憾。如果您能获得3000分以上，\n"
+"我们会把奖品交给您。"
+
+#. ID 63, Page 1, Line 153, Pos (17,0)
+msgid "また挑戦してくださいね。"
+msgstr "请再来挑战哦。"
+
+#. ID 63, Page 1, Line 182, Pos (17,0)
+#. ID 63, Page 1, Line 207, Pos (17,0)
+#. ID 63, Page 1, Line 232, Pos (17,0)
+msgid "出ました！１等賞です！"
+msgstr "抽中了！是一等奖！"
+
+#. ID 63, Page 1, Line 186, Pos (17,0)
+#. ID 63, Page 1, Line 211, Pos (17,0)
+#. ID 63, Page 1, Line 238, Pos (17,0)
+msgid "あっ、２等賞ですね♪"
+msgstr "啊，是二等奖呢♪"
+
+#. ID 63, Page 1, Line 192, Pos (17,0)
+#. ID 63, Page 1, Line 217, Pos (17,0)
+#. ID 63, Page 1, Line 245, Pos (17,0)
+msgid "あっ、３等賞ですね。"
+msgstr "啊，是三等奖呢。"
+
+#. ID 63, Page 1, Line 198, Pos (17,0)
+msgid "あっ、４等賞です。"
+msgstr "啊，是四等奖。"
+
+#. ID 63, Page 1, Line 223, Pos (17,0)
+#. ID 63, Page 1, Line 252, Pos (17,0)
+msgid "あっ、４等賞ですね。"
+msgstr "啊，是四等奖呢。"
+
+#. ID 63, Page 1, Line 234, Pos (17,0)
+msgid "景品をどうぞ！"
+msgstr "请收下奖品！"
+
+#. ID 63, Page 1, Line 240, Pos (17,0)
+#. ID 63, Page 1, Line 247, Pos (17,0)
+#. ID 63, Page 1, Line 254, Pos (17,0)
+msgid "景品をどうぞ。"
+msgstr "请收下奖品。"
+
+#. ID 63, Page 1, Line 266, Pos (17,0)
+msgid "クリスタルのかけらを手に入れた。"
+msgstr "获得了水晶碎片。"
+
+#. ID 63, Page 1, Line 271, Pos (17,0)
+msgid "プライムブルーを手に入れた。"
+msgstr "获得了原初蓝。"
+
+#. ID 63, Page 1, Line 282, Pos (17,0)
+msgid "ソウルポッド１６を２つ手に入れた。"
+msgstr "获得了两个灵魂舱16。"
+
+#. ID 63, Page 1, Line 287, Pos (17,0)
+msgid "天使の涙を手に入れた。"
+msgstr "获得了天使之泪。"
+
+#. ID 63, Page 1, Line 298, Pos (17,0)
+msgid "ソウルポッド１６を手に入れた。"
+msgstr "获得了灵魂舱16。"
+
+#. ID 63, Page 1, Line 303, Pos (17,0)
+msgid "聖女の薬を手に入れた。"
+msgstr "获得了圣女之药。"
+
+#. ID 63, Page 1, Line 314, Pos (17,0)
+msgid "金塊を４つ手に入れた。"
+msgstr "获得了4块金块。"
+
+#. ID 63, Page 1, Line 319, Pos (17,0)
+msgid "魔人の壺を手に入れた。"
+msgstr "获得了魔人之壶。"
+
+#. ID 63, Page 1, Line 330, Pos (17,0)
+msgid "アルラウネの花を手に入れた。"
+msgstr "获得了阿尔拉乌涅之花。"
+
+#. ID 63, Page 1, Line 335, Pos (17,0)
+msgid "深海の輝石を手に入れた。"
+msgstr "获得了深海辉石。"
+
+#. ID 63, Page 1, Line 346, Pos (17,0)
+msgid "ヒトデを手に入れた。"
+msgstr "获得了海星。"
+
+#. ID 63, Page 1, Line 351, Pos (17,0)
+msgid "ブタの貯金箱を手に入れた。"
+msgstr "获得了猪存钱罐。"
+
+#. ID 63, Page 1, Line 362, Pos (17,0)
+msgid "ハーピーの卵を手に入れた。"
+msgstr "获得了哈比之卵。"
+
+#. ID 63, Page 1, Line 367, Pos (17,0)
+msgid "淑女の薬を手に入れた。"
+msgstr "获得了淑女之药。"
+
+#. ID 63, Page 1, Line 379, Pos (17,0)
+msgid ""
+"エクスポーションとエーテルスーパーを\n"
+"２つずつ手に入れた。"
+msgstr "获得了特级药水和超级以太各2个。"
+
+#. ID 63, Page 1, Line 385, Pos (17,0)
+msgid "美肌クリームを２つ手に入れた。"
+msgstr "获得了2个美肌霜。"
+
+#. ID 90, Page 1, Line 3, Pos (12,33)
+msgid ""
+"人形（赤）\n"
+"100点"
+msgstr "人偶（红）100分"
+
+#. ID 91, Page 1, Line 3, Pos (13,33)
+msgid ""
+"人形（青）\n"
+"100点"
+msgstr "人偶（蓝）100分"
+
+#. ID 92, Page 1, Line 3, Pos (14,33)
+msgid ""
+"人形（黄）\n"
+"100点"
+msgstr "人偶（黄）100分"
+
+#. ID 93, Page 1, Line 3, Pos (15,33)
+msgid ""
+"人形（緑）\n"
+"100点"
+msgstr "人偶（绿）100分"
+
+#. ID 94, Page 1, Line 3, Pos (13,35)
+msgid ""
+"人形（毒）\n"
+"-200点"
+msgstr "人偶（毒）-200分"
+
+#. ID 95, Page 1, Line 3, Pos (14,35)
+msgid ""
+"人形（ようかん）\n"
+"-200点"
+msgstr "人偶（羊羹）-200分"
+
+#. ID 96, Page 1, Line 3, Pos (15,35)
+msgid ""
+"人形（怠）\n"
+"-200点"
+msgstr "人偶（怠）-200分"
+
+#. ID 97, Page 1, Line 3, Pos (14,31)
+msgid ""
+"宝石（小）\n"
+"200点"
+msgstr "宝石（小）200分"
+
+#. ID 98, Page 1, Line 3, Pos (15,31)
+msgid ""
+"クリスタル\n"
+"200点"
+msgstr "水晶200分"
+
+#. ID 99, Page 1, Line 3, Pos (15,29)
+msgid ""
+"宝石（大）\n"
+"300点"
+msgstr "宝石（大）300分"
+
+#. ID 130, Page 1, Line 3, Pos (4,37)
+#. Contains choice at line 2 (2 options)
+msgid "帰りたいのかい？"
+msgstr "想回去吗？"
+
+#. ID 130, Page 1, Line 4, Pos (4,37)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"帰る\n"
+"まだ遊ぶ"
+msgstr ""
+"回去\n"
+"还想玩"
+
+#. ID 130, Page 1, Line 6, Pos (4,37)
+msgid "よし、分かった。"
+msgstr "好，明白了。"
+
+#. ID 130, Page 1, Line 21, Pos (4,37)
+msgid "そうかい。"
+msgstr "这样啊。"

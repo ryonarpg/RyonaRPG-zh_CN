@@ -1,0 +1,63 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 48, Page 2, Line 4, Pos (34,40)
+#. ID 60, Page 2, Line 4, Pos (36,40)
+msgid "………"
+msgstr "………"
+
+#. ID 48, Page 2, Line 8, Pos (34,40)
+#. ID 60, Page 2, Line 8, Pos (36,40)
+msgid ""
+"＊自動人形のようだが\n"
+"　眠っているようにピクりとも動かない"
+msgstr "＊看起来是自动人偶　但像睡着了一样纹丝不动"
+
+#. ID 58, Page 2, Line 3, Pos (33,33)
+msgid "＊古びた書物だ……"
+msgstr "＊是陈旧的书……"
+
+#. ID 58, Page 2, Line 4, Pos (33,33)
+msgid ""
+"＊紙はボロボロだが、辛うじて文字は読めるようだ\n"
+"　適当に１冊取り、目を走らせる。"
+msgstr ""
+"＊纸张已破破烂烂，\n"
+"　但文字勉强还能读　随手拿起1册，快速浏览。"
+
+#. ID 58, Page 2, Line 10, Pos (33,33)
+#. ID 58, Page 2, Line 24, Pos (33,33)
+msgid "＊…………"
+msgstr "＊…………"
+
+#. ID 58, Page 2, Line 15, Pos (33,33)
+msgid ""
+"＊労働力の不足分は機械人形で補える\n"
+"　この浮遊大陸は資源が豊富なため\n"
+"　ほぼ無尽蔵に作製できそうだ"
+msgstr ""
+"＊劳动力的不足部分可以用机械人偶弥补　这座浮游\n"
+"　大陆资源丰富，因此　似乎几乎能无限量地制造"
+
+#. ID 58, Page 2, Line 18, Pos (33,33)
+msgid ""
+"＊大地ではもう資源は見込めなかったが\n"
+"　ここでなら更なる研究を進められそうだ"
+msgstr ""
+"＊在大地上已经无法指望资源，但　若在这里，\n"
+"　似乎能推进更进一步的研究"
+
+#. ID 73, Page 2, Line 3, Pos (4,35)
+msgid "[自動人形保管室]"
+msgstr "[自动人偶保管室]"

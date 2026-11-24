@@ -1,0 +1,253 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 24, Page 2, Line 3, Pos (17,9)
+msgid "灼熱の腕輪を手に入れた。"
+msgstr "获得了灼热手镯。"
+
+#. ID 25, Page 2, Line 3, Pos (20,24)
+#. Contains choice at line 2 (2 options)
+msgid "＊魔力溜まりがある。"
+msgstr "＊有魔力池。"
+
+#. ID 25, Page 2, Line 4, Pos (20,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"魔力を回復する\n"
+"いいえ"
+msgstr ""
+"恢复魔力\n"
+"否"
+
+#. ID 25, Page 2, Line 21, Pos (20,24)
+msgid "魔力だまりは汚染されていた"
+msgstr "魔力池被污染了"
+
+#. ID 28, Page 2, Line 3, Pos (24,26)
+msgid "実験の犠牲になった冒険者の持ち物だろう。"
+msgstr "应该是成为实验牺牲品的冒险者的物品吧。"
+
+#. ID 28, Page 2, Line 4, Pos (24,26)
+#. Contains choice at line 2 (2 options)
+msgid "いただきますか？"
+msgstr "要收下吗？"
+
+#. ID 28, Page 2, Line 5, Pos (24,26)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"死者への冒涜だ"
+msgstr ""
+"是\n"
+"这是对死者的亵渎"
+
+#. ID 28, Page 2, Line 12, Pos (24,26)
+msgid "ハイレグアーマーを手に入れた"
+msgstr "获得了高叉装甲"
+
+#. ID 32, Page 2, Line 3, Pos (10,6)
+msgid "実験の記録のようだ。"
+msgstr "似乎是实验记录。"
+
+#. ID 32, Page 2, Line 6, Pos (10,6)
+msgid ""
+"改良型スライムの生命力には全くもって驚かされる。\n"
+"一般的にスライムは熱に弱いとされているが\n"
+"この改良型スライムは高温に対しても非常に高い\n"
+"抵抗力をみせる。"
+msgstr ""
+"改良型史莱姆的生命力实在令人惊叹。\n"
+"一般而言史莱姆被认为怕热，\n"
+"但这种改良型史莱姆对高温也表现出极强的抵抗力。"
+
+#. ID 32, Page 2, Line 10, Pos (10,6)
+msgid ""
+"また極度に低温の状況下におかれた場合にはさすがに\n"
+"休眠状態に入るものの、気温による脅威が去れば再び\n"
+"活動を開始する。"
+msgstr ""
+"另外，当处于极度低温的环境下时，\n"
+"虽然果然会进入休眠状态，\n"
+"但一旦气温造成的威胁离去，就会再次开始活动。"
+
+#. ID 32, Page 2, Line 13, Pos (10,6)
+msgid ""
+"ただし全く無敵というわけでもない。\n"
+"極度に高温で熱した後、直ちに氷点下まで気温を下げた\n"
+"場合、細胞の結束が弱まり容易に打ち砕くことができて\n"
+"しまう。これは１つの大きな課題であると言える。"
+msgstr ""
+"不过，它也并非完全无敌。在极度高温加热后，\n"
+"立即将气温降至冰点以下时，细胞间的结合会减弱，\n"
+"很容易被击碎。可以说这是一个重大课题。"
+
+#. ID 32, Page 2, Line 17, Pos (10,6)
+msgid ""
+"しかし、そのような環境に曝される事態は稀であり、\n"
+"弱点と呼ぶには些か厳しいと言えるかもしれない。\n"
+"手練れの術師を相手取り、対策を練られない限りは\n"
+"それが死因となることは無いと言ってよいだろう。"
+msgstr ""
+"但是，暴露在那种环境中的情况很少见，\n"
+"称之为弱点也许有些勉强。\n"
+"只要不是与熟练的术师为敌并让其研究出对策，\n"
+"就可以说那不会成为它的死因吧。"
+
+#. ID 32, Page 2, Line 21, Pos (10,6)
+msgid ""
+"ただ、知能のという面において「導入」には\n"
+"あまりに高い壁がそびえていると言わざるを得ない。\n"
+"現状では、このすばらしいポテンシャルも\n"
+"参考に留めておくしかない。"
+msgstr ""
+"不过，在智力方面，\n"
+"不得不说「导入」面临着过于高耸的壁垒。现状下，\n"
+"只能将这种出色的潜力停留在参考层面。"
+
+#. ID 33, Page 2, Line 3, Pos (10,8)
+#. ID 33, Page 3, Line 3, Pos (10,8)
+msgid "レバーがある。"
+msgstr "有操纵杆。"
+
+#. ID 33, Page 2, Line 4, Pos (10,8)
+#. Contains choice at line 2 (2 options)
+#. ID 33, Page 3, Line 4, Pos (10,8)
+#. Contains choice at line 2 (2 options)
+msgid "引きますか？"
+msgstr "要拉下吗？"
+
+#. ID 33, Page 2, Line 5, Pos (10,8)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 3, Line 5, Pos (10,8)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 2, Line 4, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 3, Line 4, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 4, Line 4, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 2, Line 4, Pos (14,5)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 3, Line 4, Pos (14,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 34, Page 2, Line 4, Pos (15,7)
+msgid "制御室の鍵を手に入れた"
+msgstr "获得了控制室钥匙"
+
+#. ID 35, Page 2, Line 3, Pos (28,20)
+msgid "あっ、気になります？この雪だるま。"
+msgstr "啊，在意吗？这个雪人。"
+
+#. ID 35, Page 2, Line 8, Pos (28,20)
+msgid "残念ながらなんのイベントもないんですよこれが。"
+msgstr "很遗憾，这个可是什么事件都没有哦。"
+
+#. ID 37, Page 2, Line 3, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 3, Line 3, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 4, Line 3, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 2, Line 3, Pos (14,5)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 3, Line 3, Pos (14,5)
+#. Contains choice at line 2 (2 options)
+msgid "押しますか？"
+msgstr "要按下去吗？"
+
+#. ID 39, Page 2, Line 3, Pos (18,35)
+#. ID 40, Page 2, Line 3, Pos (16,34)
+#. ID 41, Page 2, Line 3, Pos (18,37)
+#. ID 42, Page 2, Line 3, Pos (21,37)
+#. ID 43, Page 2, Line 3, Pos (22,36)
+#. ID 45, Page 2, Line 3, Pos (21,34)
+#. ID 46, Page 2, Line 3, Pos (22,34)
+#. ID 47, Page 2, Line 3, Pos (20,36)
+#. ID 48, Page 2, Line 3, Pos (24,37)
+#. ID 49, Page 2, Line 3, Pos (25,36)
+#. ID 51, Page 2, Line 3, Pos (29,34)
+#. ID 52, Page 2, Line 3, Pos (31,36)
+#. ID 53, Page 2, Line 3, Pos (32,37)
+#. ID 54, Page 2, Line 3, Pos (29,36)
+#. ID 55, Page 2, Line 3, Pos (29,35)
+#. ID 56, Page 2, Line 3, Pos (30,35)
+msgid "襲っては来ないようだ。"
+msgstr "似乎不会袭击过来。"
+
+#. ID 39, Page 3, Line 3, Pos (18,35)
+#. ID 40, Page 3, Line 3, Pos (16,34)
+#. ID 41, Page 3, Line 3, Pos (18,37)
+#. ID 42, Page 3, Line 3, Pos (21,37)
+#. ID 43, Page 3, Line 3, Pos (22,36)
+#. ID 45, Page 3, Line 3, Pos (21,34)
+#. ID 46, Page 3, Line 3, Pos (22,34)
+#. ID 47, Page 3, Line 3, Pos (20,36)
+#. ID 48, Page 3, Line 3, Pos (24,37)
+#. ID 49, Page 3, Line 3, Pos (25,36)
+#. ID 51, Page 3, Line 3, Pos (29,34)
+#. ID 52, Page 3, Line 3, Pos (31,36)
+#. ID 53, Page 3, Line 3, Pos (32,37)
+#. ID 54, Page 3, Line 3, Pos (29,36)
+#. ID 55, Page 3, Line 3, Pos (29,35)
+#. ID 56, Page 3, Line 3, Pos (30,35)
+msgid ""
+"表面が僅かに溶けている……\n"
+"\n"
+"……気がしなくもない"
+msgstr "表面微微融化了…………也不是没有这种感觉"
+
+#. ID 39, Page 4, Line 3, Pos (18,35)
+#. ID 40, Page 4, Line 3, Pos (16,34)
+#. ID 41, Page 4, Line 3, Pos (18,37)
+#. ID 42, Page 4, Line 3, Pos (21,37)
+#. ID 43, Page 4, Line 3, Pos (22,36)
+#. ID 45, Page 4, Line 3, Pos (21,34)
+#. ID 46, Page 4, Line 3, Pos (22,34)
+#. ID 47, Page 4, Line 3, Pos (20,36)
+#. ID 48, Page 4, Line 3, Pos (24,37)
+#. ID 49, Page 4, Line 3, Pos (25,36)
+#. ID 51, Page 4, Line 3, Pos (29,34)
+#. ID 52, Page 4, Line 3, Pos (31,36)
+#. ID 53, Page 4, Line 3, Pos (32,37)
+#. ID 54, Page 4, Line 3, Pos (29,36)
+#. ID 55, Page 4, Line 3, Pos (29,35)
+#. ID 56, Page 4, Line 3, Pos (30,35)
+msgid "凍っているが、よく見ると内側は緩やかに蠢いている"
+msgstr "虽然冻住了，但仔细看的话内部在缓慢蠕动"
+
+#. ID 39, Page 5, Line 3, Pos (18,35)
+#. ID 40, Page 5, Line 3, Pos (16,34)
+#. ID 41, Page 5, Line 3, Pos (18,37)
+#. ID 42, Page 5, Line 3, Pos (21,37)
+#. ID 43, Page 5, Line 3, Pos (22,36)
+#. ID 45, Page 5, Line 3, Pos (21,34)
+#. ID 46, Page 5, Line 3, Pos (22,34)
+#. ID 47, Page 5, Line 3, Pos (20,36)
+#. ID 48, Page 5, Line 3, Pos (24,37)
+#. ID 49, Page 5, Line 3, Pos (25,36)
+#. ID 51, Page 5, Line 3, Pos (29,34)
+#. ID 52, Page 5, Line 3, Pos (31,36)
+#. ID 53, Page 5, Line 3, Pos (32,37)
+#. ID 54, Page 5, Line 3, Pos (29,36)
+#. ID 55, Page 5, Line 3, Pos (29,35)
+#. ID 56, Page 5, Line 3, Pos (30,35)
+msgid "襲って来る様子はないが元気に動いている。"
+msgstr "没有要袭击过来的样子，但动得很有精神。"

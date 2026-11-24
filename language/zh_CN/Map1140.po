@@ -1,0 +1,65 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 23, Page 4, Line 9, Pos (2,3)
+#. ID 23, Page 4, Line 60, Pos (2,3)
+msgid "その先には行けないよ！"
+msgstr "不能再往前走了！"
+
+#. ID 28, Page 2, Line 4, Pos (3,5)
+#. ID 28, Page 5, Line 4, Pos (3,5)
+msgid ""
+"暗くてよく見えないが\n"
+"箱のようなものがある"
+msgstr "太暗了看不清楚，但有个像箱子一样的东西"
+
+#. ID 28, Page 2, Line 6, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+#. ID 28, Page 5, Line 6, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+msgid "開けてみますか？"
+msgstr "要试着打开吗？"
+
+#. ID 28, Page 2, Line 7, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 3, Line 7, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 4, Line 7, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 5, Line 7, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 28, Page 3, Line 4, Pos (3,5)
+#. ID 28, Page 4, Line 4, Pos (3,5)
+msgid ""
+"暗くてよく見えないが\n"
+"スイッチのようなものがある"
+msgstr "太暗了看不清楚，但有个像开关一样的东西"
+
+#. ID 28, Page 3, Line 6, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+#. ID 28, Page 4, Line 6, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+msgid "押してみますか？"
+msgstr "要试着按一下吗？"
+
+#. ID 28, Page 3, Line 20, Pos (3,5)
+msgid "・・・何かが動いた音がした。"
+msgstr "……传来了有什么东西动起来的声音。"

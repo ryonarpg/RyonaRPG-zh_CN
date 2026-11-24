@@ -1,0 +1,63 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 37, Page 2, Line 4, Pos (15,24)
+msgid ""
+"名前：からかさ\n"
+"種族：不死"
+msgstr "名字：唐伞 种族：不死"
+
+#. ID 37, Page 2, Line 6, Pos (15,24)
+msgid ""
+"古くなって捨てられた番傘に\n"
+"魂が宿った妖怪"
+msgstr "寄宿在陈旧被丢弃的番伞上的妖怪"
+
+#. ID 37, Page 2, Line 8, Pos (15,24)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$1000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "花费\\$1000G可以听取攻略信息，要听吗？"
+
+#. ID 37, Page 2, Line 10, Pos (15,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 37, Page 2, Line 16, Pos (15,24)
+msgid ""
+"紙の傘だけによく燃える\n"
+"また、聖属性も有効なのだ"
+msgstr "正因为是纸伞所以很容易燃烧，另外圣属性也有效"
+
+#. ID 37, Page 2, Line 18, Pos (15,24)
+msgid ""
+"意外と頭が良くて、ちょっとした地形\n"
+"なら回り込んで追いかけてくるのだ"
+msgstr "意外地聪明，若是简单的地形就会绕过来追赶"
+
+#. ID 37, Page 2, Line 20, Pos (15,24)
+msgid ""
+"嘘だと思うなら、\n"
+"ここでちょっと立ち止まってみなよ"
+msgstr "如果觉得是骗人的话，就在这里稍微停下试试看吧"
+
+#. ID 37, Page 2, Line 22, Pos (15,24)
+msgid "たまに\\C[2]炎の鉄下駄\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]火焰铁屐\\C[0]"

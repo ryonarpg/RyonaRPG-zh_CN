@@ -1,0 +1,4732 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 42, Page 2, Line 3, Pos (1,2)
+msgid ""
+"\n"
+"豪奢な服を着た女性が映っている\n"
+"意思の強そうな瞳がとても印象的だ。"
+msgstr ""
+"画面中映出一名穿着奢华服饰的女性她那看起来意志\n"
+"坚强的眼眸令人印象非常深刻。"
+
+#. ID 42, Page 3, Line 3, Pos (1,2)
+msgid ""
+"\n"
+"屈辱的な格好をさせられた女性が映っている。\n"
+"羞恥に潤みながらも不屈の意志を湛えた瞳が蠱惑的だ。"
+msgstr ""
+"画面中映出一名被迫摆出屈辱姿态的女性。\n"
+"那双眼眸尽管因羞耻而湿润，却蕴含着不屈的意志，\n"
+"十分妖艳魅惑。"
+
+#. ID 44, Page 2, Line 311, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+#. ID 44, Page 2, Line 432, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "両手武器"
+msgstr "双手武器"
+
+#. ID 44, Page 2, Line 471, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 3, Line 237, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 746, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 783, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "なにももって"
+msgstr "什么也没拿"
+
+#. ID 44, Page 2, Line 472, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 3, Line 238, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 747, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 784, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 829, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 881, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 924, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 967, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "いない"
+msgstr "没有"
+
+#. ID 44, Page 2, Line 519, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 3, Line 274, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 4, Line 929, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 5, Line 420, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 6, Line 443, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 9, Line 90, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 12, Line 1011, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 1022, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 1033, Pos (30,17)
+#. ChangeHeroName (Actor 103)
+#. ID 44, Page 12, Line 1044, Pos (30,17)
+#. ChangeHeroName (Actor 104)
+#. ID 44, Page 12, Line 1055, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "(呪)"
+msgstr "(诅咒)"
+
+#. ID 44, Page 2, Line 523, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 3, Line 278, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 4, Line 933, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 5, Line 424, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 6, Line 447, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 9, Line 94, Pos (30,17)
+#. ChangeHeroName (Actor 106)
+#. ID 44, Page 12, Line 1015, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 1026, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 1037, Pos (30,17)
+#. ChangeHeroName (Actor 103)
+#. ID 44, Page 12, Line 1048, Pos (30,17)
+#. ChangeHeroName (Actor 104)
+#. ID 44, Page 12, Line 1059, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "(強呪)"
+msgstr "(强咒)"
+
+#. ID 44, Page 2, Line 534, Pos (30,17)
+msgid ""
+"\\>\n"
+"\\s[0]\\>\\c[4]\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104]\\c[13] \\n[106]\n"
+"\\s[0]\\>\\c[11]\\n[105]\n"
+"\\s[0]\\>\\c[4]\\v[1201]\\c[0]番目/40個\\<\\.\\.\\^"
+msgstr ""
+"\\>\\s[0]\\>\\c[4]\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104]\\c[13] \\n[106]\\s[0]\\>\\c[11]\\n[105]\\s[0]\\>\\c[4]\n"
+"\\v[1201]\\c[0]个/40个\\<\\.\\.\\^"
+
+#. ID 44, Page 2, Line 544, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\c[4]\\n[101]\\n[102]\\n[103]\\n[104]\\c[0] にする？\n"
+" (左右キーで装備変更 Shift押下で文字消去)"
+msgstr ""
+"\\c[4]\\n[101]\\n[102]\\n[103]\\n[104]\\c[0] 要设为\n"
+" 它吗？ (左右键更改装备，按下Shift清除文字)"
+
+#. ID 44, Page 2, Line 546, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 2, Line 565, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 3, Line 305, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 3, Line 324, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 4, Line 960, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 5, Line 451, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 6, Line 474, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 7, Line 153, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 8, Line 254, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 10, Line 72, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 11, Line 23, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+#. ID 118, Page 3, Line 29, Pos (31,28)
+#. Choice (2 options, embedded in a message)
+#. ID 119, Page 5, Line 129, Pos (31,27)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 44, Page 2, Line 563, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"盾:\\c[4]\\n[101]\\n[102]\\n[103]\\n[104]\\c[0]が外れます。\n"
+"よろしいですか？"
+msgstr ""
+"盾:\\c[4]\\n[101]\\n[102]\\n[103]\\n[104]\\c[0]将被\n"
+"卸下。确定吗？"
+
+#. ID 44, Page 3, Line 289, Pos (30,17)
+msgid ""
+"\\>\n"
+"\\s[0]\\>\\c[4]\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\n"
+"\\s[0]\\>\\c[11]\\n[105]\n"
+"\\s[0]\\>\\c[4]\\v[1202]\\c[0]番目/7個\\<\\.\\.\\^"
+msgstr ""
+"\\>\\s[0]\\>\\c[4]\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\\s[0]\\>\\c[11]\\n[105]\\s[0]\\>\\c[4]\n"
+"\\v[1202]\\c[0]个/7个\\<\\.\\.\\^"
+
+#. ID 44, Page 3, Line 303, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+#. ID 44, Page 4, Line 958, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\c[4]\\n[101]\\n[102]\\n[103]\\n[104] \\c[0]にする？\n"
+" (上下左右キーで装備変更 Shift押下で文字消去)"
+msgstr ""
+"\\c[4]\\n[101]\\n[102]\\n[103]\\n[104] \\c[0]要设为它吗？ (上下左右键更改装备，\n"
+"　按下Shift清除文字)"
+
+#. ID 44, Page 3, Line 322, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"武器:\\c[4]\\n[101]\\n[102]\\n[103]\\n[104]\\c[0]が外れます。\n"
+"よろしいですか？"
+msgstr ""
+"武器:\\c[4]\\n[101]\\n[102]\\n[103]\\n[104]\\c[0]将\n"
+"被卸下。确定吗？"
+
+#. ID 44, Page 4, Line 247, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "維持には、SUB:リボン かつ 他無装備 が必須"
+msgstr "要维持则必须 SUB:缎带 且 无其他装备"
+
+#. ID 44, Page 4, Line 882, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "なにも身につ"
+msgstr "什么也没穿戴"
+
+#. ID 44, Page 4, Line 883, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 5, Line 374, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 6, Line 397, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "けていない"
+msgstr "没有"
+
+#. ID 44, Page 4, Line 944, Pos (30,17)
+msgid ""
+"\\>\n"
+"\\s[0]\\c[4]\\>\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\n"
+"\\s[0]\\c[11]\\>\\n[105]\n"
+"\\s[0]\\c[4]\\>\\v[1203]\\c[0]番目/109個\\<\\.\\.\\^"
+msgstr "\\>\\s[0]\\c[4]\\>\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\\s[0]\\c[11]\\>\\n[105]\\s[0]\\c[4]\\>\\v[1203]\\c[0]个/109个\\<\\.\\.\\^"
+
+#. ID 44, Page 5, Line 291, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+#. ID 44, Page 6, Line 313, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "(鍵穴潰れVer)"
+msgstr "(锁孔压坏Ver)"
+
+#. ID 44, Page 5, Line 373, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 6, Line 396, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "なにもつ"
+msgstr "什么也没带"
+
+#. ID 44, Page 5, Line 435, Pos (30,17)
+msgid ""
+"\\>\n"
+"\\s[0]\\c[4]\\>\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\n"
+"\\s[0]\\c[11]\\>\\n[105]\n"
+"\\s[0]\\c[4]\\>\\v[1204]\\c[0]番目/25個\\<\\.\\.\\^"
+msgstr "\\>\\s[0]\\c[4]\\>\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\\s[0]\\c[11]\\>\\n[105]\\s[0]\\c[4]\\>\\v[1204]\\c[0]个/25个\\<\\.\\.\\^"
+
+#. ID 44, Page 5, Line 449, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+#. ID 44, Page 6, Line 472, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\c[4]\\n[101]\\n[102]\\n[103]\\n[104] \\c[0]にする？\n"
+"(上下左右キーで装備変更 Shift押下で文字消去)"
+msgstr ""
+"\\c[4]\\n[101]\\n[102]\\n[103]\\n[104] \\c[0]要设为\n"
+"它吗？(上下左右键更改装备，按下Shift清除文字)"
+
+#. ID 44, Page 6, Line 458, Pos (30,17)
+msgid ""
+"\\>\n"
+"\\s[0]\\c[4]\\>\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\n"
+"\\s[0]\\c[11]\\>\\n[105]\n"
+"\\s[0]\\c[4]\\>\\v[1205]\\c[0]番目/28個\\<\\.\\.\\^"
+msgstr "\\>\\s[0]\\c[4]\\>\\v[191]:\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\\s[0]\\c[11]\\>\\n[105]\\s[0]\\c[4]\\>\\v[1205]\\c[0]个/28个\\<\\.\\.\\^"
+
+#. ID 44, Page 7, Line 62, Pos (30,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\<"
+msgstr "\\<"
+
+#. ID 44, Page 7, Line 64, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 99, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "人間"
+msgstr "人类"
+
+#. ID 44, Page 7, Line 69, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 104, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "めすいぬ"
+msgstr "雌犬"
+
+#. ID 44, Page 7, Line 74, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 109, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "めすねこ"
+msgstr "雌猫"
+
+#. ID 44, Page 7, Line 79, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 114, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "機械"
+msgstr "机械"
+
+#. ID 44, Page 7, Line 84, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 119, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "蜜蜂"
+msgstr "蜜蜂"
+
+#. ID 44, Page 7, Line 89, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 124, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ラーミア"
+msgstr "拉米亚"
+
+#. ID 44, Page 7, Line 94, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 129, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "アルラウネ"
+msgstr "阿尔拉乌涅"
+
+#. ID 44, Page 7, Line 99, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 134, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "小悪魔"
+msgstr "小恶魔"
+
+#. ID 44, Page 7, Line 104, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 139, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "スライム"
+msgstr "史莱姆"
+
+#. ID 44, Page 7, Line 109, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 144, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "蜘蛛"
+msgstr "蜘蛛"
+
+#. ID 44, Page 7, Line 114, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 154, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ハーピー"
+msgstr "哈比"
+
+#. ID 44, Page 7, Line 115, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "注:GameOver限定(2022/07/31)"
+msgstr "注:游戏结束限定(2022/07/31)"
+
+#. ID 44, Page 7, Line 116, Pos (30,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid " 主人公No:03.BU:1のみ\\<\\.\\."
+msgstr " 仅主人公No:03.BU:1\\<\\.\\."
+
+#. ID 44, Page 7, Line 121, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "淫魔"
+msgstr "淫魔"
+
+#. ID 44, Page 7, Line 122, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "注:EV未実装(2022/07/31)"
+msgstr "注:EV未实装(2022/07/31)"
+
+#. ID 44, Page 7, Line 123, Pos (30,17)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid " 主人公No:05.35のみ\\<\\.\\."
+msgstr " 仅主人公No:05.35\\<\\.\\."
+
+#. ID 44, Page 7, Line 137, Pos (30,17)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\s[0]\\>\\c[4]\\n[101]\\n[104]\\c[0]\\<\n"
+"\\s[0]\\>\\c[11]\\n[102]\\c[0]\\n[103]\\.\\.\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\s[0]\\>\\c[4]\\n[101]\\n[104]\\c[0]\\<\n"
+"\\s[0]\\>\\c[11]\\n[102]\\c[0]\\n[103]\\.\\.\\^"
+
+#. ID 44, Page 7, Line 151, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\c[4]\\n[101]\\n[104] \\c[0]にする？\n"
+" (左右キーで装備変更)"
+msgstr ""
+"\\c[4]\\n[101]\\n[104] \\c[0]要设为它吗？\n"
+" (左右键更改装备)"
+
+#. ID 44, Page 8, Line 84, Pos (30,17)
+msgid ""
+"何番のキャラまで飛ぶ？\n"
+"(主人公の番号(\\v[1420])は選択不可。)"
+msgstr ""
+"要跳到第几号角色？\n"
+"(主人公的编号(\\v[1420])不可选择。)"
+
+#. ID 44, Page 8, Line 207, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "メカクレ:OFF"
+msgstr "机械隐藏:OFF"
+
+#. ID 44, Page 8, Line 213, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "メカクレ:ON"
+msgstr "机械隐藏:ON"
+
+#. ID 44, Page 8, Line 222, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "武器表示:ON"
+msgstr "武器显示:ON"
+
+#. ID 44, Page 8, Line 227, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "武器表示:OFF"
+msgstr "武器显示:OFF"
+
+#. ID 44, Page 8, Line 239, Pos (30,17)
+msgid ""
+"\\>\n"
+"\\s[0]\\>\\c[4]\\v[1420]:\\n[\\v[1420]] :設定\\v[1205]\\c[0]\n"
+"\\s[0]\\>(BU:\\v[359]\\n[105])\\<\\.\\.\\^"
+msgstr ""
+"\\>\\s[0]\\>\\c[4]\\v[1420]:\\n[\\v[1420]] :设置\\v[1205]\n"
+"\\c[0]\\s[0]\\>(BU:\\v[359]\\n[105])\\<\\.\\.\\^"
+
+#. ID 44, Page 8, Line 252, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\n[\\v[1420]] にする？\n"
+" (左右キーでキャラ変更 上下でバストアップ変更)"
+msgstr ""
+"\\n[\\v[1420]] 要设为它吗？ (左右键更改角色，\n"
+" 上下更改半身立绘)"
+
+#. ID 44, Page 9, Line 8, Pos (30,17)
+msgid "アイテム番号入力"
+msgstr "输入道具编号"
+
+#. ID 44, Page 9, Line 12, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"0番のアイテムは存在しません。"
+msgstr "0号道具不存在。"
+
+#. ID 44, Page 9, Line 14, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"再入力\n"
+"やめる"
+msgstr ""
+"重新输入\n"
+"取消"
+
+#. ID 44, Page 9, Line 35, Pos (30,17)
+#. ID 44, Page 9, Line 46, Pos (30,17)
+#. ID 44, Page 9, Line 57, Pos (30,17)
+#. ID 44, Page 9, Line 68, Pos (30,17)
+#. ID 44, Page 9, Line 79, Pos (30,17)
+msgid ""
+"\n"
+"既に装着済みです。"
+msgstr "已经装备过了。"
+
+#. ID 44, Page 9, Line 98, Pos (30,17)
+msgid ""
+"\\c[4]\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\\c[0] \n"
+"を 装着します。"
+msgstr ""
+"\\c[4]\\n[101]\\n[102]\\n[103]\\n[104] \\c[13]\\n[106]\n"
+"\\c[0] 将装备。"
+
+#. ID 44, Page 9, Line 100, Pos (30,17)
+#. Choice (3 options)
+msgid ""
+"はい\n"
+"番号再入力\n"
+"やめる"
+msgstr ""
+"是\n"
+"重新输入编号\n"
+"取消"
+
+#. ID 44, Page 9, Line 190, Pos (30,17)
+msgid ""
+"\n"
+"装着できません。"
+msgstr "无法装备。"
+
+#. ID 44, Page 9, Line 193, Pos (30,17)
+msgid "================================================="
+msgstr ""
+"==============================================\n"
+"==="
+
+#. ID 44, Page 9, Line 285, Pos (30,17)
+msgid "#:\\v[1206]回収"
+msgstr "#:\\v[1206]回收"
+
+#. ID 44, Page 10, Line 5, Pos (30,17)
+msgid ""
+"\\C[2]! WARRNING !\n"
+"\\C[2] 存在しないNoを指定するとクラッシュします!  "
+msgstr ""
+"\\C[2]! WARRNING !\\C[2] 指定不存在的No会导致崩\n"
+"溃!"
+
+#. ID 44, Page 10, Line 10, Pos (30,17)
+msgid "主人公番号入力"
+msgstr "主人公编号输入"
+
+#. ID 44, Page 10, Line 14, Pos (30,17)
+msgid ""
+"\n"
+"0番のキャラは存在しません。\n"
+msgstr "不存在编号0的角色。"
+
+#. ID 44, Page 10, Line 25, Pos (30,17)
+msgid ""
+"\n"
+"主人公として選択しているキャラは指定出来ません。\n"
+msgstr "无法指定已选为主角的角色。"
+
+#. ID 44, Page 10, Line 31, Pos (30,17)
+msgid "バストアップNo(変数359) 入力"
+msgstr "半身像No(变量359) 输入"
+
+#. ID 44, Page 10, Line 43, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\n[\\v[1420]] の バストアップB に設定します。\n"
+"目隠れスイッチの状態は?"
+msgstr ""
+"\\n[\\v[1420]] 的半身像B 进行设置。\n"
+"遮眼开关的状态是？"
+
+#. ID 44, Page 10, Line 45, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ON\n"
+"OFF"
+msgstr ""
+"ON\n"
+"OFF"
+
+#. ID 44, Page 10, Line 48, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "(メカクレ:ON)"
+msgstr "(遮眼:ON)"
+
+#. ID 44, Page 10, Line 51, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "(メカクレ:OFF)"
+msgstr "(遮眼:OFF)"
+
+#. ID 44, Page 10, Line 62, Pos (30,17)
+msgid "\\n[\\v[1420]] の バストアップA+α に設定します。"
+msgstr "\\n[\\v[1420]] 的半身像A+α 进行设置。"
+
+#. ID 44, Page 10, Line 64, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "(武器表示:ON)"
+msgstr "(武器显示:ON)"
+
+#. ID 44, Page 10, Line 70, Pos (30,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"主人公番号     :\\v[1420] \n"
+"バストアップNo :\\v[1201] \\n[105]にする？"
+msgstr "主人公编号     :\\v[1420] 半身像No :\\v[1201] \\n[105]要设为这个吗？"
+
+#. ID 44, Page 11, Line 5, Pos (30,17)
+msgid ""
+"\\C[2]! WARRNING !\n"
+"\\C[2] 存在しないNoを指定しないでください!  "
+msgstr "\\C[2]! WARRNING !\\C[2] 请勿指定不存在的No!"
+
+#. ID 44, Page 11, Line 10, Pos (30,17)
+msgid "種族番号入力"
+msgstr "种族编号输入"
+
+#. ID 44, Page 11, Line 22, Pos (30,17)
+#. Contains choice at line 2 (2 options)
+msgid "種族番号       :\\v[1420] にする？"
+msgstr "种族编号       :\\v[1420] 要设为这个吗？"
+
+#. ID 44, Page 11, Line 28, Pos (30,17)
+#. Choice (2 options)
+msgid ""
+"再選択\n"
+"戻る"
+msgstr ""
+"重新选择\n"
+"返回"
+
+#. ID 44, Page 12, Line 149, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "雌豚"
+msgstr "母猪"
+
+#. ID 44, Page 12, Line 158, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "不明"
+msgstr "不明"
+
+#. ID 44, Page 12, Line 161, Pos (30,17)
+#. Choice (3 options)
+msgid ""
+"キャラ詳細\n"
+"種族変更 (現在:\\n[101])\n"
+"服飾"
+msgstr ""
+"角色详情\n"
+"种族变更 (当前:\\n[101])\n"
+"服饰"
+
+#. ID 44, Page 12, Line 165, Pos (30,17)
+#. Choice (4 options)
+msgid ""
+"キャラ選択\n"
+"発声テスト\n"
+"貞操帯装着\n"
+"身体操作"
+msgstr ""
+"角色选择\n"
+"发声测试\n"
+"贞操带佩戴\n"
+"身体操作"
+
+#. ID 44, Page 12, Line 169, Pos (30,17)
+#. Contains choice at line 2 (2 options)
+msgid "\\n[\\v[0006]]"
+msgstr "\\n[\\v[0006]]"
+
+#. ID 44, Page 12, Line 170, Pos (30,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"キャラ変更 ($v$tで選択 shiftで番号指定)\n"
+"番号指定"
+msgstr ""
+"角色变更 ($v$t选择 Shift指定编号)\n"
+"编号指定"
+
+#. ID 44, Page 12, Line 186, Pos (30,17)
+msgid ""
+"何かキーを押して下さい\n"
+" (キャンセルで戻る)"
+msgstr "请按任意键 (取消返回)"
+
+#. ID 44, Page 12, Line 452, Pos (30,17)
+#. Contains choice at line 2 (3 options)
+msgid "どっちの？"
+msgstr "哪边？"
+
+#. ID 44, Page 12, Line 453, Pos (30,17)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"股の貞操帯\n"
+"胸の貞操帯\n"
+"やっぱりやめる"
+msgstr ""
+"股间贞操带\n"
+"胸部贞操带\n"
+"还是算了"
+
+#. ID 44, Page 12, Line 463, Pos (30,17)
+#. ChangeHeroName (Actor 103)
+#. ID 44, Page 12, Line 466, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 471, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 515, Pos (30,17)
+#. ChangeHeroName (Actor 103)
+#. ID 44, Page 12, Line 518, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 523, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "<< 着用中"
+msgstr "<< 佩戴中"
+
+#. ID 44, Page 12, Line 477, Pos (30,17)
+#. Choice (4 options)
+#. ID 44, Page 12, Line 529, Pos (30,17)
+#. Choice (4 options)
+msgid ""
+"一般用 \\n[101]\n"
+"奴隷用 \\n[102]\n"
+"性奴用 \\n[103]\n"
+"はずす"
+msgstr ""
+"一般用 \\n[101]\n"
+"奴隶用 \\n[102]\n"
+"性奴用 \\n[103]\n"
+"取下"
+
+#. ID 44, Page 12, Line 565, Pos (30,17)
+#. Choice (2 options)
+msgid ""
+"状態異常(保存されません)\n"
+"身体改造"
+msgstr ""
+"状态异常(不会保存)\n"
+"身体改造"
+
+#. ID 44, Page 12, Line 572, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 579, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 586, Pos (30,17)
+#. ChangeHeroName (Actor 103)
+#. ID 44, Page 12, Line 631, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 638, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 6, Line 278, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "ON"
+msgstr "开"
+
+#. ID 44, Page 12, Line 575, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 582, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 44, Page 12, Line 589, Pos (30,17)
+#. ChangeHeroName (Actor 103)
+#. ID 44, Page 12, Line 634, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 641, Pos (30,17)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 6, Line 274, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "OFF"
+msgstr "关"
+
+#. ID 44, Page 12, Line 593, Pos (30,17)
+#. Choice (4 options)
+msgid ""
+"魔乳化 \\n[101]\n"
+"ふたなり \\n[102]\n"
+"幼女化 \\n[103]\n"
+"次へ"
+msgstr ""
+"魔乳化 \\n[101]\n"
+"双性 \\n[102]\n"
+"幼女化 \\n[103]\n"
+"下一页"
+
+#. ID 44, Page 12, Line 644, Pos (30,17)
+#. Choice (2 options)
+msgid ""
+"トード \\n[101]\n"
+"ゾンビ化 \\n[102]"
+msgstr ""
+"蟾蜍 \\n[101]\n"
+"僵尸化 \\n[102]"
+
+#. ID 44, Page 12, Line 702, Pos (30,17)
+#. Choice (2 options)
+msgid ""
+"選択 (現在種族No.\\v[360])\n"
+"番号入力"
+msgstr ""
+"选择 (当前种族No.\\v[360])\n"
+"编号输入"
+
+#. ID 44, Page 12, Line 719, Pos (30,17)
+#. Choice (2 options)
+msgid ""
+"選択\n"
+"番号入力"
+msgstr ""
+"选择\n"
+"编号输入"
+
+#. ID 44, Page 12, Line 722, Pos (30,17)
+#. Choice (4 options)
+msgid ""
+"両手\n"
+"服\n"
+"SUB\n"
+"装飾"
+msgstr ""
+"双手\n"
+"服装\n"
+"SUB\n"
+"装饰"
+
+#. ID 44, Page 12, Line 752, Pos (30,17)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "なにももっていない"
+msgstr "未持有任何物品"
+
+#. ID 44, Page 12, Line 754, Pos (30,17)
+#. Choice (2 options)
+msgid ""
+"武器(\\n[101]\\n[102]\\n[103]\\n[104])\n"
+"盾(\\n[105])"
+msgstr ""
+"武器(\\n[101]\\n[102]\\n[103]\\n[104])\n"
+"盾(\\n[105])"
+
+#. ID 44, Page 12, Line 771, Pos (30,17)
+#. Choice (2 options)
+msgid ""
+"武器(アイテムNo.\\v[1420])\n"
+"盾(\\n[101]\\n[102]\\n[103]\\n[104])"
+msgstr ""
+"武器(道具编号\\v[1420])\n"
+"盾(\\n[101]\\n[102]\\n[103]\\n[104])"
+
+#. ID 44, Page 12, Line 790, Pos (30,17)
+#. Contains choice at line 2 (3 options)
+#. ID 44, Page 12, Line 835, Pos (30,17)
+#. Contains choice at line 2 (3 options)
+msgid "手 (\\n[101]\\n[102]\\n[103]\\n[104])"
+msgstr "手 (\\n[101]\\n[102]\\n[103]\\n[104])"
+
+#. ID 44, Page 12, Line 791, Pos (30,17)
+#. Choice (3 options, embedded in a message)
+#. ID 44, Page 12, Line 888, Pos (30,17)
+#. Choice (3 options, embedded in a message)
+#. ID 44, Page 12, Line 931, Pos (30,17)
+#. Choice (3 options, embedded in a message)
+#. ID 44, Page 12, Line 974, Pos (30,17)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"装備変更 ($v$t,$s$uで選択 Shiftで文字消去)\n"
+"アイテム番号入力\n"
+"装備を外す"
+msgstr ""
+"装备变更 ($v$t,$s$u选择 Shift删除文字)\n"
+"道具编号输入\n"
+"卸下装备"
+
+#. ID 44, Page 12, Line 828, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 880, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 923, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+#. ID 44, Page 12, Line 966, Pos (30,17)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "なにもつけて"
+msgstr "未装备任何物品"
+
+#. ID 44, Page 12, Line 836, Pos (30,17)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"装備変更 ($v$tで選択 Shiftで文字消去)\n"
+"アイテム番号入力\n"
+"装備を外す"
+msgstr ""
+"装备变更 ($v$t选择 Shift删除文字)\n"
+"道具编号输入\n"
+"卸下装备"
+
+#. ID 44, Page 12, Line 887, Pos (30,17)
+#. Contains choice at line 2 (3 options)
+msgid "服 (\\n[101]\\n[102]\\n[103]\\n[104])"
+msgstr "服装 (\\n[101]\\n[102]\\n[103]\\n[104])"
+
+#. ID 44, Page 12, Line 930, Pos (30,17)
+#. Contains choice at line 2 (3 options)
+msgid "Sub装備 (\\n[101]\\n[102]\\n[103]\\n[104])"
+msgstr "Sub装备 (\\n[101]\\n[102]\\n[103]\\n[104])"
+
+#. ID 44, Page 12, Line 973, Pos (30,17)
+#. Contains choice at line 2 (3 options)
+msgid "装飾品 (\\n[101]\\n[102]\\n[103]\\n[104])"
+msgstr "装饰品 (\\n[101]\\n[102]\\n[103]\\n[104])"
+
+#. ID 44, Page 12, Line 1064, Pos (30,17)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"両手(Item No):[右]\\v[26] \\c[13]\\n[101]\\c[0] [左]\\v[27] \\c[13]\\n[102]\\c[0]\n"
+"服(Item No):\\v[28]) \\c[13]\\n[103]\\c[0]\n"
+"SUB(Item No):\\v[29] \\c[13]\\n[104]\\c[0] 装飾(Item No):\\v[30] \\c[13]\\n[105]\\c[0]"
+msgstr ""
+"双手(Item No):[右]\\v[26] \\c[13]\\n[101]\\c[0] [\n"
+"左]\\v[27] \\c[13]\\n[102]\\c[0]服装(Item No):\\v[28]\n"
+") \\c[13]\\n[103]\\c[0]SUB(Item No):\\v[29] \\c[13]\n"
+"\\n[104]\\c[0] 装饰(Item No):\\v[30] \\c[13]\\n[105]\n"
+"\\c[0]"
+
+#. ID 44, Page 12, Line 1067, Pos (30,17)
+#. Choice (1 options, embedded in a message)
+msgid "番号入力"
+msgstr "编号输入"
+
+#. ID 46, Page 4, Line 6, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 13, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 20, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 27, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 34, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 44, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 51, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 58, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 65, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 72, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 82, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 89, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 96, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 103, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 110, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 120, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 127, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 134, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 141, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 148, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 158, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 165, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 172, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 179, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 186, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 196, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 203, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 210, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 217, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 224, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 234, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 241, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 248, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 255, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 262, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 272, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 279, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 286, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 293, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 300, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 310, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 317, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 324, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 331, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 338, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 348, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 355, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 362, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 369, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 376, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 386, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 393, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 400, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 407, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 414, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 424, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 431, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 438, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 445, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 452, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 462, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 469, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 476, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 483, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 490, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 500, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 507, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 514, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 521, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 528, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 538, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 545, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 552, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 559, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 566, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 576, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 583, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 590, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 597, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 604, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 614, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 621, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 628, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 635, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 642, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 652, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 659, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 666, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 673, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 680, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 690, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 697, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 704, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 711, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 718, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 728, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 735, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 742, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 749, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 756, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 766, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 773, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 780, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 787, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 794, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 804, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 811, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 818, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 825, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 832, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 842, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 849, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 856, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 863, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 870, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 880, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 887, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 894, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 901, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 908, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 918, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 925, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 932, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 939, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 946, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 956, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 963, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 970, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 977, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 984, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 994, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1001, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1008, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1015, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1022, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1032, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1039, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1046, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1053, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1060, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1070, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1077, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1084, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1091, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1098, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1108, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1115, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1122, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1129, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1136, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1146, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1153, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1160, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1167, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1174, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1184, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1191, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1198, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1205, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1212, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1222, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1229, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1236, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1243, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1250, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1260, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1267, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1274, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1281, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1288, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1298, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1305, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1312, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1319, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1326, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1336, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1343, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1350, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1357, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1364, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1374, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1381, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1388, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1395, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1402, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1412, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1419, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1426, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1433, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1440, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1450, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1457, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1464, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1471, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1478, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1488, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1495, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1502, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1509, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1516, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1526, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1533, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1540, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1547, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1554, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1564, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1571, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1578, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1585, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1592, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1602, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1609, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1616, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1623, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1630, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1640, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1647, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1654, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1661, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1668, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1678, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1685, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1692, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1699, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1706, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1716, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1723, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1730, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1737, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1744, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1754, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1761, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1768, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1775, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1782, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1792, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1799, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1806, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1813, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1820, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1830, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1837, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1844, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1851, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1858, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1868, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1875, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1882, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1889, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1896, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1906, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1913, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1920, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1927, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1934, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1944, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1951, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1958, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1965, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1972, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1982, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1989, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1996, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2003, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2010, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2020, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2027, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2034, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2041, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2048, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2058, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2065, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2072, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2079, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2086, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2096, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2103, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2110, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2117, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2124, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2134, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2141, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2148, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2155, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2162, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2172, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2179, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2186, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2193, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2200, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2210, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2217, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2224, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2231, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2238, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2248, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2255, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2262, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2269, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2276, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2286, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2293, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2300, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2307, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2314, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2324, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2331, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2338, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2345, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2352, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2362, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2369, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2376, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2383, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2390, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2400, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2407, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2414, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2421, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2428, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2438, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2445, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2452, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2459, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2466, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2476, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2483, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2490, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2497, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2504, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2514, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2521, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2528, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2535, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2542, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2552, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2559, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2566, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2573, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2580, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2590, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2597, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2604, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2611, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2618, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2628, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2635, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2642, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2649, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2656, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2666, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2673, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2680, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2687, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2694, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2704, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2711, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2718, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2725, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2732, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2742, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2749, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2756, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2763, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2770, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2780, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2787, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2794, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2801, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2808, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2818, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2825, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2832, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2839, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2846, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2856, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2863, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2870, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2877, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2884, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2894, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2901, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2908, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2915, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2922, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2932, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2939, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2946, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2953, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2960, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2970, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2977, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2984, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2991, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2998, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3008, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3015, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3022, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3029, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3036, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3046, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3053, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3060, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3067, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3074, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3084, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3091, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3098, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3105, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3112, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3122, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3129, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3136, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3143, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3150, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3160, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3167, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3174, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3181, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3188, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3198, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3205, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3212, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3219, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3226, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3236, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3243, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3250, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3257, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3264, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3274, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3281, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3288, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3295, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3302, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3312, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3319, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3326, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3333, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3340, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3350, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3357, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3364, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3371, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3378, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3388, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3395, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3402, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3409, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3416, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3426, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3433, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3440, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3447, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3454, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3464, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3471, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3478, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3485, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3492, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3502, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3509, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3516, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3523, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3530, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3540, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3547, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3554, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3561, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3568, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3578, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3585, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3592, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3599, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3606, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3616, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3623, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3630, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3637, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3644, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3654, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3661, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3668, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3675, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3682, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3692, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3699, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3706, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3713, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3720, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3730, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3737, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3744, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3751, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3758, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3768, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3775, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3782, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3789, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3796, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3806, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3813, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3820, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3827, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3834, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3844, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3851, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3858, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3865, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3872, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3882, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3889, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3896, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3903, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3910, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3920, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3927, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3934, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3941, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3948, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3958, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3965, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3972, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3979, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3986, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3996, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4003, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4010, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4017, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4024, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4034, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4041, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4048, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4055, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4062, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4072, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4079, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4086, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4093, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4100, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4110, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4117, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4124, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4131, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4138, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4148, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4155, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4162, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4169, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4176, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4186, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4193, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4200, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4207, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4214, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4224, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4231, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4238, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4245, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4252, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4262, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4269, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4276, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4283, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4290, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4300, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4307, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4314, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4321, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4328, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4338, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4345, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4352, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4359, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4366, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4376, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4383, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4390, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4397, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4404, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4414, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4421, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4428, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4435, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4442, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4452, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4459, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4466, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4473, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4480, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4490, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4497, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4504, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4511, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4518, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4528, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4535, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4542, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4549, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4556, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[11]"
+msgstr "\\c[11]"
+
+#. ID 46, Page 4, Line 9, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 16, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 23, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 30, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 37, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 47, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 54, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 61, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 68, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 75, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 85, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 92, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 99, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 106, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 113, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 123, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 130, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 137, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 144, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 151, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 161, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 168, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 175, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 182, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 189, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 199, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 206, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 213, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 220, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 227, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 237, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 244, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 251, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 258, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 265, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 275, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 282, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 289, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 296, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 303, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 313, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 320, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 327, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 334, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 341, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 351, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 358, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 365, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 372, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 379, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 389, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 396, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 403, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 410, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 417, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 427, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 434, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 441, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 448, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 455, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 465, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 472, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 479, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 486, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 493, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 503, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 510, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 517, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 524, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 531, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 541, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 548, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 555, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 562, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 569, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 579, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 586, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 593, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 600, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 607, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 617, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 624, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 631, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 638, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 645, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 655, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 662, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 669, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 676, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 683, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 693, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 700, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 707, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 714, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 721, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 731, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 738, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 745, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 752, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 759, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 769, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 776, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 783, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 790, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 797, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 807, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 814, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 821, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 828, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 835, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 845, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 852, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 859, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 866, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 873, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 883, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 890, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 897, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 904, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 911, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 921, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 928, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 935, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 942, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 949, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 959, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 966, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 973, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 980, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 987, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 997, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1004, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1011, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1018, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1025, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1035, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1042, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1049, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1056, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1063, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1073, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1080, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1087, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1094, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1101, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1111, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1118, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1125, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1132, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1139, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1149, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1156, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1163, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1170, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1177, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1187, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1194, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1201, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1208, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1215, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1225, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1232, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1239, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1246, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1253, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1263, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1270, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1277, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1284, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1291, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1301, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1308, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1315, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1322, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1329, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1339, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1346, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1353, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1360, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1367, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1377, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1384, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1391, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1398, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1405, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1415, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1422, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1429, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1436, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1443, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1453, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1460, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1467, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1474, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1481, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1491, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1498, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1505, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1512, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1519, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1529, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1536, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1543, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1550, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1557, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1567, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1574, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1581, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1588, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1595, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1605, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1612, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1619, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1626, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1633, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1643, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1650, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1657, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1664, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1671, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1681, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1688, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1695, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1702, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1709, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1719, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1726, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1733, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1740, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1747, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1757, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1764, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1771, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1778, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1785, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1795, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1802, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1809, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1816, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1823, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1833, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1840, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1847, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1854, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1861, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1871, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1878, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1885, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1892, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1899, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1909, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1916, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1923, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1930, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1937, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1947, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1954, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1961, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 1968, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 1975, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 1985, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 1992, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 1999, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2006, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2013, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2023, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2030, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2037, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2044, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2051, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2061, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2068, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2075, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2082, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2089, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2099, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2106, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2113, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2120, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2127, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2137, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2144, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2151, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2158, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2165, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2175, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2182, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2189, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2196, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2203, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2213, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2220, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2227, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2234, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2241, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2251, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2258, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2265, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2272, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2279, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2289, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2296, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2303, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2310, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2317, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2327, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2334, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2341, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2348, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2355, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2365, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2372, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2379, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2386, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2393, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2403, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2410, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2417, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2424, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2431, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2441, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2448, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2455, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2462, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2469, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2479, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2486, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2493, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2500, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2507, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2517, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2524, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2531, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2538, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2545, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2555, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2562, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2569, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2576, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2583, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2593, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2600, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2607, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2614, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2621, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2631, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2638, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2645, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2652, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2659, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2669, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2676, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2683, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2690, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2697, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2707, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2714, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2721, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2728, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2735, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2745, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2752, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2759, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2766, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2773, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2783, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2790, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2797, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2804, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2811, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2821, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2828, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2835, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2842, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2849, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2859, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2866, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2873, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2880, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2887, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2897, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2904, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2911, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2918, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2925, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2935, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2942, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2949, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2956, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 2963, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 2973, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 2980, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 2987, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 2994, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3001, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3011, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3018, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3025, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3032, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3039, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3049, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3056, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3063, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3070, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3077, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3087, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3094, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3101, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3108, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3115, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3125, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3132, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3139, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3146, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3153, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3163, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3170, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3177, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3184, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3191, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3201, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3208, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3215, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3222, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3229, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3239, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3246, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3253, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3260, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3267, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3277, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3284, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3291, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3298, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3305, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3315, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3322, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3329, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3336, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3343, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3353, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3360, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3367, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3374, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3381, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3391, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3398, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3405, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3412, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3419, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3429, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3436, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3443, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3450, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3457, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3467, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3474, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3481, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3488, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3495, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3505, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3512, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3519, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3526, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3533, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3543, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3550, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3557, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3564, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3571, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3581, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3588, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3595, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3602, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3609, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3619, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3626, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3633, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3640, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3647, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3657, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3664, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3671, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3678, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3685, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3695, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3702, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3709, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3716, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3723, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3733, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3740, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3747, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3754, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3761, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3771, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3778, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3785, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3792, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3799, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3809, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3816, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3823, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3830, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3837, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3847, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3854, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3861, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3868, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3875, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3885, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3892, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3899, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3906, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3913, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3923, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3930, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3937, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3944, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3951, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3961, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 3968, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 3975, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 3982, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 3989, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 3999, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4006, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4013, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4020, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4027, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4037, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4044, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4051, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4058, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4065, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4075, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4082, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4089, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4096, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4103, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4113, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4120, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4127, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4134, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4141, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4151, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4158, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4165, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4172, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4179, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4189, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4196, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4203, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4210, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4217, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4227, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4234, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4241, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4248, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4255, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4265, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4272, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4279, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4286, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4293, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4303, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4310, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4317, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4324, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4331, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4341, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4348, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4355, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4362, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4369, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4379, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4386, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4393, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4400, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4407, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4417, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4424, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4431, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4438, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4445, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4455, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4462, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4469, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4476, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4483, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4493, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4500, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4507, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4514, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4521, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+#. ID 46, Page 4, Line 4531, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 4, Line 4538, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 4, Line 4545, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+#. ID 46, Page 4, Line 4552, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+#. ID 46, Page 4, Line 4559, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[3]"
+msgstr "\\c[3]"
+
+#. ID 46, Page 5, Line 6, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[11]毒"
+msgstr "\\c[11]毒"
+
+#. ID 46, Page 5, Line 9, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[3]毒"
+msgstr "\\c[3]毒"
+
+#. ID 46, Page 5, Line 13, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[11]暗闇"
+msgstr "\\c[11]黑暗"
+
+#. ID 46, Page 5, Line 16, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[3]暗闇"
+msgstr "\\c[3]黑暗"
+
+#. ID 46, Page 5, Line 20, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[11]沈黙"
+msgstr "\\c[11]沉默"
+
+#. ID 46, Page 5, Line 23, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[3]沈黙"
+msgstr "\\c[3]沉默"
+
+#. ID 46, Page 5, Line 27, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[11]麻痺"
+msgstr "\\c[11]麻痹"
+
+#. ID 46, Page 5, Line 30, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[3]麻痺"
+msgstr "\\c[3]麻痹"
+
+#. ID 46, Page 5, Line 34, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[11]転倒\\"
+msgstr "\\c[11]跌倒"
+
+#. ID 46, Page 5, Line 37, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[3]転倒\\"
+msgstr "\\c[3]跌倒"
+
+#. ID 46, Page 5, Line 40, Pos (30,16)
+msgid "\\>\\c[4][01-05]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105]<\\.\\.\\.\\^"
+msgstr "\\>\\c[4][01-05]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105]<\\.\\.\\.\\^"
+
+#. ID 46, Page 5, Line 42, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[11]出血"
+msgstr "\\c[11]出血"
+
+#. ID 46, Page 5, Line 45, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[3]出血"
+msgstr "\\c[3]出血"
+
+#. ID 46, Page 5, Line 49, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[11]捕獲"
+msgstr "\\c[11]捕获"
+
+#. ID 46, Page 5, Line 52, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[3]捕獲"
+msgstr "\\c[3]捕获"
+
+#. ID 46, Page 5, Line 56, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[11]粘液"
+msgstr "\\c[11]粘液"
+
+#. ID 46, Page 5, Line 59, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[3]粘液"
+msgstr "\\c[3]粘液"
+
+#. ID 46, Page 5, Line 63, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[11]恐怖"
+msgstr "\\c[11]恐惧"
+
+#. ID 46, Page 5, Line 66, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[3]恐怖"
+msgstr "\\c[3]恐惧"
+
+#. ID 46, Page 5, Line 70, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[11]凍結"
+msgstr "\\c[11]冻结"
+
+#. ID 46, Page 5, Line 73, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[3]凍結"
+msgstr "\\c[3]冻结"
+
+#. ID 46, Page 5, Line 76, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\\c[4][06-10]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105]\\<\\.\\.\\.\\^"
+msgstr ""
+"\\>\n"
+"\\>\\c[4][06-10]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105]\\<\\.\\.\\.\\^"
+
+#. ID 46, Page 5, Line 79, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[11]気絶"
+msgstr "\\c[11]昏厥"
+
+#. ID 46, Page 5, Line 82, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[3]気絶"
+msgstr "\\c[3]昏厥"
+
+#. ID 46, Page 5, Line 86, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[11]？？？"
+msgstr "\\c[11]？？？"
+
+#. ID 46, Page 5, Line 89, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[3]？？？"
+msgstr "\\c[3]？？？"
+
+#. ID 46, Page 5, Line 93, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[11]疲労"
+msgstr "\\c[11]疲劳"
+
+#. ID 46, Page 5, Line 96, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[3]疲労"
+msgstr "\\c[3]疲劳"
+
+#. ID 46, Page 5, Line 100, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[11]衰弱"
+msgstr "\\c[11]衰弱"
+
+#. ID 46, Page 5, Line 103, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[3]衰弱"
+msgstr "\\c[3]衰弱"
+
+#. ID 46, Page 5, Line 107, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[11]羞恥"
+msgstr "\\c[11]羞耻"
+
+#. ID 46, Page 5, Line 110, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[3]羞恥"
+msgstr "\\c[3]羞耻"
+
+#. ID 46, Page 5, Line 113, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\\c[4][11-15]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105] \\<\\.\\.\\.\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\\c[4][11-15]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105] \\<\\.\\.\\.\\^"
+
+#. ID 46, Page 5, Line 117, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[11]プロテス"
+msgstr "\\c[11]保护"
+
+#. ID 46, Page 5, Line 120, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[3]プロテス"
+msgstr "\\c[3]保护"
+
+#. ID 46, Page 5, Line 124, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[11]シェル"
+msgstr "\\c[11]魔法护盾"
+
+#. ID 46, Page 5, Line 127, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[3]シェル"
+msgstr "\\c[3]魔法护盾"
+
+#. ID 46, Page 5, Line 131, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[11]ヘイスト"
+msgstr "\\c[11]加速"
+
+#. ID 46, Page 5, Line 134, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[3]ヘイスト"
+msgstr "\\c[3]加速"
+
+#. ID 46, Page 5, Line 138, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[3]スロウ"
+msgstr "\\c[3]迟缓"
+
+#. ID 46, Page 5, Line 140, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[11]リジェネ"
+msgstr "\\c[11]再生"
+
+#. ID 46, Page 5, Line 143, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[3]リジェネ"
+msgstr "\\c[3]再生"
+
+#. ID 46, Page 5, Line 146, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>\\c[4][16-20]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105]\\<\\.\\.\\.\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>\\c[4][16-20]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105]\\<\\.\\.\\.\\^"
+
+#. ID 46, Page 5, Line 153, Pos (30,16)
+msgid "\\>\\c[4][21-25]\\n[101]烙印 \\n[102]消化 \\n[103]恍惚 \\n[104]寄生 \\n[105]故障\\<\\.\\.\\.\\^"
+msgstr ""
+"\\>\\c[4][21-25]\\n[101]烙印 \\n[102]消化 \\n[103]\n"
+"恍惚 \\n[104]寄生 \\n[105]故障\\<\\.\\.\\.\\^"
+
+#. ID 46, Page 5, Line 155, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[11]催眠"
+msgstr "\\c[11]催眠"
+
+#. ID 46, Page 5, Line 158, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[3]催眠"
+msgstr "\\c[3]催眠"
+
+#. ID 46, Page 5, Line 162, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[11]弱体化"
+msgstr "\\c[11]弱化"
+
+#. ID 46, Page 5, Line 165, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[3]弱体化"
+msgstr "\\c[3]弱化"
+
+#. ID 46, Page 5, Line 169, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[11]幼女化"
+msgstr "\\c[11]幼女化"
+
+#. ID 46, Page 5, Line 172, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[3]幼女化"
+msgstr "\\c[3]幼女化"
+
+#. ID 46, Page 5, Line 176, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[11]蛙"
+msgstr "\\c[11]蛙"
+
+#. ID 46, Page 5, Line 179, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[3]蛙"
+msgstr "\\c[3]蛙"
+
+#. ID 46, Page 5, Line 183, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[11]石化"
+msgstr "\\c[11]石化"
+
+#. ID 46, Page 5, Line 186, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[3]石化"
+msgstr "\\c[3]石化"
+
+#. ID 46, Page 5, Line 189, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\\c[4][26-30] \\n[101] \\n[102] \\n[103] \\n[104] \\n[105]\\<\\.\\.\\.\\^"
+msgstr ""
+"\\>\n"
+"\\>\\c[4][26-30] \\n[101] \\n[102] \\n[103] \\n[104] \\n[105]\\<\\.\\.\\.\\^"
+
+#. ID 46, Page 5, Line 192, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[11]黄金化"
+msgstr "\\c[11]黄金化"
+
+#. ID 46, Page 5, Line 195, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "\\c[3]黄金化"
+msgstr "\\c[3]黄金化"
+
+#. ID 46, Page 5, Line 199, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[11]老化中"
+msgstr "\\c[11]老化中"
+
+#. ID 46, Page 5, Line 202, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[3]老化中"
+msgstr "\\c[3]老化中"
+
+#. ID 46, Page 5, Line 206, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[11]赤子化"
+msgstr "\\c[11]婴儿化"
+
+#. ID 46, Page 5, Line 209, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "\\c[3]赤子化"
+msgstr "\\c[3]婴儿化"
+
+#. ID 46, Page 5, Line 213, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[11]機械化EX"
+msgstr "\\c[11]机械化EX"
+
+#. ID 46, Page 5, Line 216, Pos (30,16)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[3]機械化EX"
+msgstr "\\c[3]机械化EX"
+
+#. ID 46, Page 5, Line 220, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[11]しゃがみ"
+msgstr "\\c[11]蹲伏"
+
+#. ID 46, Page 5, Line 223, Pos (30,16)
+#. ChangeHeroName (Actor 105)
+msgctxt "actors.name"
+msgid "\\c[3]しゃがみ"
+msgstr "\\c[3]蹲伏"
+
+#. ID 46, Page 5, Line 226, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\\c[4][31-35]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105]\\<\\.\\.\\.\\^\\<\\.\\.\\.\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\\c[4][31-35]\\n[101] \\n[102] \\n[103] \\n[104] \\n[105]\\<\\.\\.\\.\\^\\<\\.\\.\\.\\^"
+
+#. ID 46, Page 6, Line 40, Pos (30,16)
+msgid "何番まで飛ぶ？"
+msgstr "要跳到第几号？"
+
+#. ID 46, Page 6, Line 72, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "($s:ON $u:OFF)"
+msgstr "($s:ON $u:OFF)"
+
+#. ID 46, Page 6, Line 74, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 282, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "全部"
+msgstr "全部"
+
+#. ID 46, Page 6, Line 79, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 294, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "毒"
+msgstr "毒"
+
+#. ID 46, Page 6, Line 84, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 306, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "暗闇"
+msgstr "黑暗"
+
+#. ID 46, Page 6, Line 89, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 318, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "沈黙"
+msgstr "沉默"
+
+#. ID 46, Page 6, Line 94, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 330, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "麻痺"
+msgstr "麻痹"
+
+#. ID 46, Page 6, Line 99, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 342, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "転倒"
+msgstr "倒地"
+
+#. ID 46, Page 6, Line 104, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 356, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "出血"
+msgstr "出血"
+
+#. ID 46, Page 6, Line 109, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 368, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "捕獲"
+msgstr "捕获"
+
+#. ID 46, Page 6, Line 114, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 380, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "粘液"
+msgstr "黏液"
+
+#. ID 46, Page 6, Line 119, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 392, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "恐怖"
+msgstr "恐惧"
+
+#. ID 46, Page 6, Line 124, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 404, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "凍結"
+msgstr "冻结"
+
+#. ID 46, Page 6, Line 129, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 418, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "気絶"
+msgstr "昏厥"
+
+#. ID 46, Page 6, Line 134, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 430, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "？？？"
+msgstr "？？？"
+
+#. ID 46, Page 6, Line 139, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 498, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "疲労"
+msgstr "疲劳"
+
+#. ID 46, Page 6, Line 145, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 510, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "衰弱"
+msgstr "衰弱"
+
+#. ID 46, Page 6, Line 148, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "衰弱 \\c[11]V-MAXモードのため無効"
+msgstr "衰弱 \\c[11]因V-MAX模式而无效"
+
+#. ID 46, Page 6, Line 155, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "羞恥 \\c[11]装備依存"
+msgstr "羞耻 \\c[11]装备依存"
+
+#. ID 46, Page 6, Line 160, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 536, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "プロテス"
+msgstr "保护"
+
+#. ID 46, Page 6, Line 165, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 550, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "シェル"
+msgstr "魔法护盾"
+
+#. ID 46, Page 6, Line 170, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 564, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ヘイスト"
+msgstr "加速"
+
+#. ID 46, Page 6, Line 175, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "スロウ \\c[11]廃止"
+msgstr "迟缓 \\c[11]废止"
+
+#. ID 46, Page 6, Line 180, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 584, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "リジェネ"
+msgstr "再生"
+
+#. ID 46, Page 6, Line 185, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "烙印 \\c[11]特定MAP限定"
+msgstr "烙印 \\c[11]特定地图限定"
+
+#. ID 46, Page 6, Line 190, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "消化 \\c[11]特定MAP限定"
+msgstr "消化 \\c[11]特定地图限定"
+
+#. ID 46, Page 6, Line 195, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 622, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "恍惚"
+msgstr "恍惚"
+
+#. ID 46, Page 6, Line 200, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "寄生 \\c[11]装備依存"
+msgstr "寄生 \\c[11]装备依存"
+
+#. ID 46, Page 6, Line 206, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 640, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "故障"
+msgstr "故障"
+
+#. ID 46, Page 6, Line 209, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "故障 \\c[11]種族:機械のみ"
+msgstr "故障 \\c[11]种族:仅机械"
+
+#. ID 46, Page 6, Line 216, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 660, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "催眠"
+msgstr "催眠"
+
+#. ID 46, Page 6, Line 221, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 674, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "弱体化"
+msgstr "弱化"
+
+#. ID 46, Page 6, Line 226, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "幼女化 \\c[11]操作は「身体改造」から"
+msgstr "幼女化 \\c[11]操作从「身体改造」开始"
+
+#. ID 46, Page 6, Line 231, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "蛙 \\c[11]操作は「身体改造」から"
+msgstr "蛙 \\c[11]操作从「身体改造」开始"
+
+#. ID 46, Page 6, Line 236, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 700, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "石化 \\c[11]ゲームオーバー時のみ"
+msgstr "石化 \\c[11]仅游戏结束时"
+
+#. ID 46, Page 6, Line 241, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 712, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "黄金化 \\c[11]ゲームオーバー時のみ"
+msgstr "黄金化 \\c[11]仅游戏结束时"
+
+#. ID 46, Page 6, Line 246, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 724, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "老化中 \\c[11]33:赤子化と排他"
+msgstr "老化中 \\c[11]33:与婴儿化互斥"
+
+#. ID 46, Page 6, Line 251, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 737, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "赤子化 \\c[11]32:老化中と排他"
+msgstr "婴儿化 \\c[11]32:与老化中互斥"
+
+#. ID 46, Page 6, Line 256, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "性欲処理人形化 \\c[11]機械のみ"
+msgstr "性欲处理人偶化 \\c[11]仅机械"
+
+#. ID 46, Page 6, Line 261, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+#. ID 46, Page 6, Line 768, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "しゃがみ"
+msgstr "蹲伏"
+
+#. ID 46, Page 6, Line 266, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\s[0]\\>\\v[1206]:\\c[4]\\n[101]\\c[0] \\n[102]　\n"
+"\\s[0]\\>(決定ボタンで現在状態表示、Shiftで番号指定移動)\\<\\.\\.\\^"
+msgstr ""
+"\\>\\>\\s[0]\\>\\v[1206]:\\c[4]\\n[101]\\c[0] \\n[102]\n"
+"　\\s[0]\\>(确定按钮显示当前状态，\n"
+"Shift指定编号移动)\\<\\.\\.\\^"
+
+#. ID 46, Page 6, Line 438, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "ゲージ減"
+msgstr "计量槽减少"
+
+#. ID 46, Page 6, Line 448, Pos (30,16)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "s"
+msgstr "s"
+
+#. ID 46, Page 6, Line 449, Pos (30,16)
+#. ID 46, Page 6, Line 478, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\s[0]\\>エクスタシー:\\v[515] 精子増量:\\v[1056]\\<\\.\\.\\^"
+msgstr ""
+"\\>\\>\\>\\s[0]\\>快感:\\v[515] 精子增量:\\v[1056]\\<\\.\n"
+"\\.\\^"
+
+#. ID 46, Page 6, Line 455, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\s[0]\\>エクスタシー:\\v[515]\\<\\.\\.\\^"
+msgstr "\\>\\>\\>\\s[0]\\>快感:\\v[515]\\<\\.\\.\\^"
+
+#. ID 46, Page 6, Line 465, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "ゲージ増"
+msgstr "计量槽增加"
+
+#. ID 46, Page 6, Line 484, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\s[0]\\>エクスタシー:\\v[515]\\<\\.\\.\\.\\^"
+msgstr "\\>\\>\\>\\s[0]\\>快感:\\v[515]\\<\\.\\.\\.\\^"
+
+#. ID 46, Page 6, Line 523, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 6, Line 531, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 6, Line 579, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 6, Line 635, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 6, Line 689, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 6, Line 695, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "\\c[4]無効"
+msgstr "\\c[4]无效"
+
+#. ID 46, Page 6, Line 530, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "羞恥"
+msgstr "羞耻"
+
+#. ID 46, Page 6, Line 578, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "スロウ(廃止)"
+msgstr "迟缓(废止)"
+
+#. ID 46, Page 6, Line 598, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "烙印"
+msgstr "烙印"
+
+#. ID 46, Page 6, Line 610, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "消化"
+msgstr "消化"
+
+#. ID 46, Page 6, Line 634, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "寄生"
+msgstr "寄生"
+
+#. ID 46, Page 6, Line 653, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+#. ID 46, Page 6, Line 761, Pos (30,16)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "無効"
+msgstr "无效"
+
+#. ID 46, Page 6, Line 688, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "幼女化"
+msgstr "幼女化"
+
+#. ID 46, Page 6, Line 694, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "蛙"
+msgstr "蛙"
+
+#. ID 46, Page 6, Line 750, Pos (30,16)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "性欲処理人形化 \\c[11](機械のみ)"
+msgstr "性欲处理人偶化 \\c[11](仅机械)"
+
+#. ID 46, Page 6, Line 785, Pos (30,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\s[0]\\>\\n[101]:\\c[4]\\n[102]\\c[0]\\<\\.\\.\\.\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\s[0]\\>\\n[101]:\\c[4]\\n[102]\\c[0]\\<\\.\\.\\.\\^"
+
+#. ID 60, Page 2, Line 3, Pos (10,7)
+#. ID 61, Page 2, Line 3, Pos (8,8)
+#. ID 62, Page 2, Line 3, Pos (13,9)
+#. ID 63, Page 2, Line 3, Pos (12,8)
+#. ID 64, Page 2, Line 3, Pos (7,9)
+msgid ""
+"\n"
+"おかしな宝箱がある。\n"
+"存在感が妙に薄く、輪郭もはっきりしない。"
+msgstr ""
+"有一个奇怪的宝箱。存在感异常淡薄，\n"
+"轮廓也不清晰。"
+
+#. ID 60, Page 2, Line 6, Pos (10,7)
+#. Choice (2 options)
+#. ID 61, Page 2, Line 6, Pos (8,8)
+#. Choice (2 options)
+#. ID 62, Page 2, Line 6, Pos (13,9)
+#. Choice (2 options)
+#. ID 63, Page 2, Line 6, Pos (12,8)
+#. Choice (2 options)
+#. ID 64, Page 2, Line 6, Pos (7,9)
+#. Choice (2 options)
+msgid ""
+"あけてみる\n"
+"ここではやめとく"
+msgstr ""
+"试着打开\n"
+"在此停下"
+
+#. ID 60, Page 3, Line 3, Pos (10,7)
+#. ID 61, Page 3, Line 3, Pos (8,8)
+#. ID 62, Page 3, Line 3, Pos (13,9)
+#. ID 63, Page 3, Line 3, Pos (12,8)
+#. ID 64, Page 3, Line 3, Pos (7,9)
+msgid ""
+"\n"
+"存在感の薄い空箱がある。\n"
+"中身もからっぽだ。"
+msgstr "有一个存在感淡薄的空箱。里面也是空的。"
+
+#. ID 66, Page 2, Line 3, Pos (12,14)
+#. ID 66, Page 3, Line 3, Pos (12,14)
+msgid ""
+"\n"
+"彼女が生涯を共にした服と装身具をここに残す。\n"
+"願わくは、彼女のような女性が再び世に生まれぬことを"
+msgstr ""
+"将她一生相伴的衣物与饰品留在这里。\n"
+"但愿像她这样的女性不会再降生于世。"
+
+#. ID 66, Page 2, Line 6, Pos (12,14)
+#. ID 66, Page 3, Line 6, Pos (12,14)
+msgid ""
+"\n"
+"環境が違えば中身も変わる。人も、箱も同じこと。\n"
+"周りが変われば彼女も違う道を辿れたかもしれない。"
+msgstr ""
+"环境不同，内容也会改变。人也一样，箱子也一样。\n"
+"若周围不同，她或许也能走上不同的道路。"
+
+#. ID 114, Page 2, Line 4, Pos (31,21)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"…鏡についての資料がある"
+msgstr "…有关于镜子的资料"
+
+#. ID 114, Page 2, Line 6, Pos (31,21)
+#. Choice (2 options, embedded in a message)
+#. ID 178, Page 2, Line 6, Pos (27,30)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"読む\n"
+"やめる"
+msgstr ""
+"阅读\n"
+"停止"
+
+#. ID 114, Page 2, Line 8, Pos (31,21)
+msgid ""
+"…望みの鏡、\n"
+"それは、覗いたものの欲望の形を留める道具\n"
+"より強く、より具体的な願いであるほどに\n"
+"形は長く、鮮明に残り続ける…"
+msgstr ""
+"…希望之镜，那是留存窥视者欲望之形的道具；\n"
+"愿望越强烈、越具体，其形态就留存得越久、\n"
+"越鲜明…"
+
+#. ID 114, Page 2, Line 12, Pos (31,21)
+msgid ""
+"鏡には、光を反射する機能はない。ただの媒体だ。\n"
+"写像は脳裏に…、目を閉じれば、見えてくるだろう。\n"
+"鏡を通して別次元に何らかの力が溜まり、\n"
+"そのエネルギーを感じ取っているのだ"
+msgstr ""
+"镜子没有反射光线的功能。只是媒介。\n"
+"影像会留在脑海中…，只要闭上眼睛，\n"
+"应该就能看见。通过镜子，\n"
+"某种力量在异次元中积聚，人正在感知那股能量"
+
+#. ID 114, Page 2, Line 16, Pos (31,21)
+msgid ""
+"蓄えられたエネルギーは減衰し、やがて霧散する。\n"
+"込めたエネルギーの強弱は持続時間にのみ影響している\n"
+"これは、力の放出が常に一定であることを示すものだ。"
+msgstr ""
+"蓄积的能量会衰减，并最终消散。\n"
+"注入能量的强弱只影响持续时间。\n"
+"这表明力量的释放始终恒定。"
+
+#. ID 114, Page 2, Line 19, Pos (31,21)
+msgid ""
+"もし、別次元に蓄えられたエネルギーに干渉できれば\n"
+"実体化させることも可能ではないだろうか？\n"
+"願望が形になる、まさに夢の装置になるやも知れない。"
+msgstr ""
+"如果能够干涉积蓄在异次元中的能量，\n"
+"或许也能使其实体化？让愿望成形，\n"
+"或许真能成为梦幻般的装置。"
+
+#. ID 114, Page 2, Line 22, Pos (31,21)
+msgid ""
+"我々の技術ではまだ届かない。\n"
+"しかし、後進のために試みを残そう。\n"
+"この鏡には、エネルギー増幅装置を取り付けた。\n"
+"今の我々の技術の粋を集めたものだ。"
+msgstr ""
+"以我们的技术还无法达到。但是，\n"
+"为了后来者留下一次尝试吧。\n"
+"这面镜子上安装了能量增幅装置。\n"
+"它凝聚了我们目前技术的精华。"
+
+#. ID 114, Page 2, Line 26, Pos (31,21)
+msgid ""
+"使用法は同じ、鏡の前で願うだけだ。\n"
+"この試作品では、周りの他の意識の波長と、\n"
+"映すイメージの方向性を揃えることで増幅を図った。"
+msgstr ""
+"使用方法相同，只需在镜前许愿。\n"
+"这件试作品通过将周围其他意识的波长与所映影像的\n"
+"方向性对齐，来实现增幅。"
+
+#. ID 114, Page 2, Line 29, Pos (31,21)
+msgid ""
+"使えば、周りに存在する意志に応じた像が浮かぶはずだ。\n"
+"酒、女、金…、低俗だろうが思いが強ければ何でもよい。\n"
+"上手くイメージできれば…、後は干渉するだけだ。\n"
+"これについては…、後進に委ねよう…"
+msgstr ""
+"使用后，\n"
+"应该会浮现出与周围存在的意志相对应的影像。酒、\n"
+"女人、金钱…，就算低俗，\n"
+"只要念头强烈就什么都行。只要能顺利想象出来…，\n"
+"剩下的就只是干涉了。关于这一点…，\n"
+"就交给后来者吧…"
+
+#. ID 116, Page 2, Line 3, Pos (33,28)
+msgid ""
+"\n"
+"のぞみの鏡\n"
+"-目を閉じて念じよ-"
+msgstr "希望之镜-闭上眼睛祈愿吧-"
+
+#. ID 116, Page 3, Line 3, Pos (33,28)
+msgid ""
+"\n"
+"プレートが削り落とされ、\n"
+"引っ掻いたような文字が刻まれている"
+msgstr "铭牌被削去，上面刻着像是抓划出来的文字"
+
+#. ID 116, Page 3, Line 6, Pos (33,28)
+msgid ""
+"\n"
+"「望みのままなんて、退屈だと思わない？」"
+msgstr "「随心所欲什么的，不觉得无聊吗？」"
+
+#. ID 118, Page 2, Line 14, Pos (31,28)
+msgid ""
+"\n"
+"鏡のような置物がある。\n"
+"表面は磨かれているが、何も映らない"
+msgstr ""
+"有一个像镜子一样的摆件。表面被打磨过，\n"
+"却什么也映不出来"
+
+#. ID 118, Page 2, Line 27, Pos (31,28)
+msgid ""
+"◆!!WARNNING!!◆\n"
+" \\c[4]予期しない不具合の原因となる可能性があります。\\c[0]\n"
+" 実施前に\\c[11]必ず、セーブ\\c[0]し、そのデータを残して下さい！"
+msgstr ""
+"◆!!WARNNING!!◆ \\c[4]可能导致预期之外的故障。\n"
+" \\c[0] 执行前请\\c[11]务必存档\\c[0]，\n"
+" 并保留该数据！"
+
+#. ID 118, Page 2, Line 30, Pos (31,28)
+msgid ""
+"◆!!WARNNING!!◆\n"
+" 装備以外に初期アイテムが設定されているキャラは\n"
+" 『キャラ選択』にて表示時点で処理が行われます。"
+msgstr ""
+"◆!!WARNNING!!◆ 对于除装备以外还设定了初始道具\n"
+" 的角色，会在『角色选择』中显示时进行处理。"
+
+#. ID 118, Page 2, Line 39, Pos (31,28)
+#. Contains choice at line 2 (3 options)
+msgid "目を閉じて念じますか？"
+msgstr "要闭上眼睛祈愿吗？"
+
+#. ID 118, Page 2, Line 40, Pos (31,28)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ\n"
+"使用上の注意"
+msgstr ""
+"是\n"
+"否\n"
+"使用注意事项"
+
+#. ID 118, Page 3, Line 12, Pos (31,28)
+msgid ""
+"\n"
+"鏡に文字が浮かび上がる…！\\.\\.\\^"
+msgstr "镜子上浮现出文字…！\\.\\.\\^"
+
+#. ID 118, Page 3, Line 16, Pos (31,28)
+msgid ""
+"\n"
+"         \\>ね\\<\\.\\.が\\.\\.い\\.\\.は、\\.\\.か\\.\\.な\\.\\.え\\.\\.た…\n"
+msgstr ""
+"         \\>愿\\<\\.\\.望\\.\\.已\\.\\.经\\.\\.实\\.\\.现\\.\n"
+"         \\.了…"
+
+#. ID 118, Page 3, Line 28, Pos (31,28)
+#. Contains choice at line 2 (2 options)
+msgid "元の姿に戻ることを願いますか？"
+msgstr "您要祈愿恢复原本的样子吗？"
+
+#. ID 119, Page 3, Line 11, Pos (31,27)
+#. ID 119, Page 5, Line 23, Pos (31,27)
+msgid ""
+"\n"
+"不思議な力で弾かれてしまった…"
+msgstr "被不可思议的力量弹开了…"
+
+#. ID 119, Page 4, Line 56, Pos (31,27)
+msgid "＊突然、貞操帯が動き始めた…"
+msgstr "＊突然，贞操带开始动了起来…"
+
+#. ID 119, Page 4, Line 94, Pos (31,27)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"「あ、あぁ……\\.\\.\\^"
+msgstr "【\\n[\\v[6]]】「啊、啊啊……\\.\\.\\^"
+
+#. ID 119, Page 4, Line 107, Pos (31,27)
+msgid ""
+"＊貞操帯はかつてないほどに激しく、執拗に、\n"
+"  ご主人様から逃れようとした奴隷に罰を与えていく。"
+msgstr ""
+"＊贞操带前所未有地激烈、执拗地，\n"
+"  给予试图从主人身边逃脱的奴隶惩罚。"
+
+#. ID 119, Page 4, Line 112, Pos (31,27)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"「あ……っ、いや…\\.\\.\\^"
+msgstr "【\\n[\\v[6]]】「啊……、不要…\\.\\.\\^"
+
+#. ID 119, Page 4, Line 141, Pos (31,27)
+msgid ""
+"＊貞操帯の責めは一向に収まらず…\n"
+"　\\n[\\v[006]]の身体を知り尽くした動きは\n"
+"  決して慣れることも、絶頂を許すこともない"
+msgstr ""
+"＊贞操带的责罚丝毫没有停歇…\n"
+"　\\n[\\v[006]]对其身体了如指掌的动作  绝不会让\n"
+"  人习惯，也不会允许高潮"
+
+#. ID 119, Page 4, Line 178, Pos (31,27)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"「あひっ…、…ごめん…っ、なさい…"
+msgstr "【\\n[\\v[6]]】「啊嘻…、…对不…、起…"
+
+#. ID 119, Page 4, Line 180, Pos (31,27)
+msgid "思わず、\\.\\.謝罪の言葉が口を衝き…\\.\\.\\^"
+msgstr "不由自主地，\\.\\.道歉的话语脱口而出…\\.\\.\\^"
+
+#. ID 119, Page 4, Line 212, Pos (31,27)
+msgid ""
+"それがキーになっていたのか、\n"
+"続いていた責めはようやく途絶えた…"
+msgstr "不知那是否成了关键，持续着的责罚终于中断了…"
+
+#. ID 119, Page 4, Line 231, Pos (31,27)
+msgid ""
+"\n"
+"…！\\.\\.\\^"
+msgstr ""
+"\n"
+"…！\\.\\.\\^"
+
+#. ID 119, Page 4, Line 233, Pos (31,27)
+msgid ""
+"\n"
+"首輪が熱を持ち始めた…"
+msgstr "项圈开始发热了…"
+
+#. ID 119, Page 4, Line 241, Pos (31,27)
+msgid ""
+"突如として背筋を走った甘い痺れに、\n"
+"\\n[\\v[6]]の華奢な身体は小さく震えた。"
+msgstr ""
+"突如其来的甜美酥麻窜过背脊，\n"
+"\\n[\\v[6]]那纤弱的身体微微颤抖了一下。"
+
+#. ID 119, Page 4, Line 243, Pos (31,27)
+msgid ""
+"小波のような快楽はやがて全身へと広がり、\n"
+"\\n[\\v[1420]]の精神を蕩けさせていく。"
+msgstr ""
+"如细波般的快感不久便扩散至全身，\n"
+"\\n[\\v[1420]]的精神逐渐被融化。"
+
+#. ID 119, Page 4, Line 254, Pos (31,27)
+msgid ""
+"【\\n[\\v[1420]]】\n"
+"「\\S[2]…………あ……あ………"
+msgstr "【\\n[\\v[1420]]】「\\S[2]…………啊……啊………"
+
+#. ID 119, Page 4, Line 266, Pos (31,27)
+msgid ""
+"【\\n[\\v[1420]]】\n"
+"「\\S[2]…………ふぁ……ぁ……"
+msgstr "【\\n[\\v[1420]]】「\\S[2]…………哈啊……啊……"
+
+#. ID 119, Page 4, Line 275, Pos (31,27)
+msgid ""
+"気が付くと、\\n[\\v[6]]は\n"
+"あられもない姿で立ちすくんでいた。"
+msgstr ""
+"等到回过神来，\n"
+"\\n[\\v[6]]正以不堪入目的模样呆立在那里。"
+
+#. ID 119, Page 4, Line 286, Pos (31,27)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"「え…？"
+msgstr "【\\n[\\v[6]]】「诶…？"
+
+#. ID 119, Page 4, Line 295, Pos (31,27)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"「うそ…"
+msgstr "【\\n[\\v[6]]】「骗人…"
+
+#. ID 119, Page 4, Line 306, Pos (31,27)
+msgid ""
+"\n"
+"戻ることが、できない…\n"
+"その事実の重みが、じわじわと意識を蝕んでいく…"
+msgstr ""
+"无法回去了…这一事实的沉重，\n"
+"正一点一点侵蚀着意识…"
+
+#. ID 119, Page 4, Line 318, Pos (31,27)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"「そ…んな……"
+msgstr "【\\n[\\v[6]]】「怎…怎么会……"
+
+#. ID 119, Page 4, Line 336, Pos (31,27)
+msgid ""
+"【\\n[\\v[6]]】\n"
+"「……もう…、\\.\\.行かないと……"
+msgstr "【\\n[\\v[6]]】「……已经…、\\.\\.不走不行了……"
+
+#. ID 119, Page 5, Line 101, Pos (31,27)
+msgid ""
+"◆!!ERROR!!◆\n"
+"　正しくキャラ戻しが、出来ませんでした\n"
+"　\\v[1420]番ではなく、\\v[6]番キャラになりました。"
+msgstr ""
+"◆!!ERROR!!◆　未能正确恢复角色　没有变成\\v[1420]\n"
+"号，而是变成了\\v[6]号角色。"
+
+#. ID 119, Page 5, Line 128, Pos (31,27)
+#. Contains choice at line 2 (2 options)
+msgid "鏡での装備設定も反映させますか？(デバッグモード)"
+msgstr "也要反映镜子中的装备设置吗？(调试模式)"
+
+#. ID 119, Page 5, Line 145, Pos (31,27)
+msgid ""
+"◆!!ERROR!!◆\n"
+"　正しくキャラ変身が、出来ませんでした\n"
+"　\\v[1420]番ではなく、\\v[6]番キャラになりました。"
+msgstr ""
+"◆!!ERROR!!◆　未能正确进行角色变身\n"
+"　没有变成\\v[1420]号，而是变成了\\v[6]号角色。"
+
+#. ID 119, Page 5, Line 222, Pos (31,27)
+msgid ""
+"\n"
+"\\n[\\v[006]]になってしまった！"
+msgstr "\\n[\\v[006]]变成这样了！"
+
+#. ID 119, Page 5, Line 328, Pos (31,27)
+msgid ""
+"\n"
+"元に戻れたようだ…"
+msgstr "似乎已经恢复原状了…"
+
+#. ID 119, Page 5, Line 340, Pos (31,27)
+msgid ""
+"\n"
+"ソウルポット０ を \\v[1204]個失った…\\.\\.\n"
+"…\\.代わりに、"
+msgstr "失去了 \\v[1204] 个灵魂壶0…\\.\\.…\\.作为替代，"
+
+#. ID 119, Page 5, Line 345, Pos (31,27)
+msgid ""
+"\n"
+"ソウルポット１６ を \\v[1201]個手に入れた"
+msgstr "获得了 \\v[1201] 个灵魂壶16"
+
+#. ID 119, Page 5, Line 351, Pos (31,27)
+msgid ""
+"\n"
+"ソウルポット８ を \\v[1202]個手に入れた"
+msgstr "获得了 \\v[1202] 个灵魂壶8"
+
+#. ID 119, Page 5, Line 357, Pos (31,27)
+msgid ""
+"\n"
+"ソウルポット４ を \\v[1203]個手に入れた"
+msgstr "获得了 \\v[1203] 个灵魂壶4"
+
+#. ID 176, Page 2, Line 5, Pos (28,30)
+msgid ""
+"\n"
+"…理論では……、\n"
+"十分な経験と…空のソウルポットがあれば……\\|\\^"
+msgstr "…理论上……、只要有足够的经验和…空的灵魂壶……\\|\\^"
+
+#. ID 176, Page 2, Line 11, Pos (28,30)
+msgid ""
+"\n"
+"…思念を…、強化するのだ……\\|\\^"
+msgstr "…将思念…、加以强化……\\|\\^"
+
+#. ID 176, Page 2, Line 16, Pos (28,30)
+msgid ""
+"\n"
+"…次元を…、技術が足りない……\\|\\^"
+msgstr "…次元…、技术还不足……\\|\\^"
+
+#. ID 176, Page 2, Line 21, Pos (28,30)
+msgid ""
+"\n"
+"…核となるのは…自らの……、他人の思念では…\\|\\^"
+msgstr "…成为核心的是…自己的……、用他人的思念则…\\|\\^"
+
+#. ID 176, Page 2, Line 26, Pos (28,30)
+msgid ""
+"\n"
+"…不足したエネルギー…、理想の再現には…\\|\\^"
+msgstr "…不足的能量…、对于理想的再现而言…\\|\\^"
+
+#. ID 176, Page 2, Line 31, Pos (28,30)
+msgid ""
+"\n"
+"…私の…名は……、後世に…残すのだ……\\|\\^"
+msgstr "…我的…名字……、要留给后世……\\|\\^"
+
+#. ID 176, Page 2, Line 36, Pos (28,30)
+msgid ""
+"\n"
+"…次元の観測に…、波長の乱れが……\\|\\^"
+msgstr "…在次元观测中…、波长出现了紊乱……\\|\\^"
+
+#. ID 177, Page 3, Line 12, Pos (1,5)
+msgid "空間の歪みに吸い込まれる！"
+msgstr "被吸入空间的扭曲之中！"
+
+#. ID 178, Page 2, Line 4, Pos (27,30)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"メモ書きがある"
+msgstr "有张便条"
+
+#. ID 178, Page 2, Line 8, Pos (27,30)
+msgid "…触媒に適さない物質について"
+msgstr "…关于不适合作为触媒的物质"
+
+#. ID 178, Page 2, Line 9, Pos (27,30)
+msgid ""
+"………の実験から、いくつかの装備については、\n"
+"別次元からのエネルギー抽出の触媒としては\n"
+"適さないことが予想されている。"
+msgstr ""
+"………从……的实验来看，\n"
+"预计某些装备不适合作为从异次元抽取能量的触媒。"
+
+#. ID 178, Page 2, Line 12, Pos (27,30)
+msgid ""
+"特に注意が必要なのは、\n"
+"逃亡防止や脱出防止の魔法がかけられた物品だ。\n"
+"淫虐の首輪やノウブルカラーが該当する。"
+msgstr ""
+"特别需要注意的是，\n"
+"被施加了防止逃亡或防止逃脱魔法的物品。\n"
+"淫虐项圈和贵族项圈就属于此类。"
+
+#. ID 178, Page 2, Line 15, Pos (27,30)
+msgid ""
+"装着者を拘束している魔法が\n"
+"存在の保護として働くと予見されている。\n"
+"奴隷を使う場合は重々注意されたし…"
+msgstr ""
+"可以预见到，\n"
+"束缚着装者的魔法会作为对存在的保护发挥作用。\n"
+"使用奴隶时请务必万分注意…"
+
+#. ID 180, Page 2, Line 13, Pos (34,16)
+msgid "着せ替え"
+msgstr "换装"

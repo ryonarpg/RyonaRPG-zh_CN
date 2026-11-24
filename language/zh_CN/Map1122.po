@@ -1,0 +1,104 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 23, Page 4, Line 9, Pos (2,4)
+#. ID 23, Page 4, Line 60, Pos (2,4)
+msgid "その先には行けないよ！"
+msgstr "不能再往前走了！"
+
+#. ID 28, Page 2, Line 3, Pos (27,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ここからダンジョンの入口に戻れるようだ。\n"
+"脱出しますか?"
+msgstr "看来可以从这里回到迷宫入口。要逃出去吗？"
+
+#. ID 28, Page 2, Line 5, Pos (27,11)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 2, Line 4, Pos (27,38)
+#. Choice (2 options, embedded in a message)
+#. ID 76, Page 3, Line 7, Pos (27,15)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 29, Page 2, Line 3, Pos (27,38)
+#. Contains choice at line 2 (2 options)
+msgid "スイッチを操作しますか？"
+msgstr "要操作开关吗？"
+
+#. ID 29, Page 2, Line 13, Pos (27,38)
+msgid "＊……どこかが開いたようだ"
+msgstr "＊……好像有什么地方打开了"
+
+#. ID 76, Page 3, Line 3, Pos (27,15)
+msgid ""
+"頭巾を被った女性が布施を乞う様子を象った石像だ。\n"
+"その手は杯のようにして差し出されている。"
+msgstr ""
+"这是一座表现头戴兜帽的女性正在乞求布施的石像。\n"
+"她的手像杯子一样向前伸出。"
+
+#. ID 76, Page 3, Line 6, Pos (27,15)
+#. Contains choice at line 2 (2 options)
+msgid "魔法の硬貨 を捧げますか？"
+msgstr "要献上 魔法硬币 吗？"
+
+#. ID 76, Page 3, Line 13, Pos (27,15)
+#. ID 76, Page 3, Line 25, Pos (27,15)
+#. ID 76, Page 3, Line 60, Pos (27,15)
+#. ID 76, Page 3, Line 83, Pos (27,15)
+msgid "頭の中に何者かの声が響く・・・"
+msgstr "某人的声音在脑海中回响・・・"
+
+#. ID 76, Page 3, Line 14, Pos (27,15)
+msgid ""
+"「貴方の心優しさは十分に伝わりました」\\.\\.\n"
+"「これ以上の捧げものは必要ありません」"
+msgstr ""
+"「您的善良已经充分传达」\\.\\.\n"
+"「不需要更多的供品了」"
+
+#. ID 76, Page 3, Line 26, Pos (27,15)
+#. ID 76, Page 3, Line 61, Pos (27,15)
+#. ID 76, Page 3, Line 84, Pos (27,15)
+msgid ""
+"「喜捨の精神にあふれる心優しきものよ」\\.\\.\n"
+"「貴方にこれを授けましょう」"
+msgstr ""
+"「充满施舍精神的心地善良者啊」\\.\\.\n"
+"「把这个赐予您吧」"
+
+#. ID 76, Page 3, Line 37, Pos (27,15)
+msgid "審判者の腕輪 を手に入れた。"
+msgstr "获得了 审判者之腕轮。"
+
+#. ID 76, Page 3, Line 45, Pos (27,15)
+#. ID 76, Page 3, Line 103, Pos (27,15)
+msgid ""
+"……捧げものが足りなかったのか\n"
+"何も起きなかった。"
+msgstr "……是供品不够吗，什么也没发生。"
+
+#. ID 76, Page 3, Line 75, Pos (27,15)
+msgid "審判者の錫杖 と 腕輪 を手に入れた。"
+msgstr "获得了 审判者之锡杖 和 腕轮。"
+
+#. ID 76, Page 3, Line 95, Pos (27,15)
+msgid "審判者の錫杖 を手に入れた。"
+msgstr "获得了 审判者之锡杖。"

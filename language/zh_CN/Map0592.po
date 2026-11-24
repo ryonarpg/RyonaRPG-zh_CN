@@ -1,0 +1,531 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 8, Pos (0,2)
+msgid "拷問用の鞭を手渡された。"
+msgstr "拷问用鞭子被递了过来。"
+
+#. ID 4, Page 1, Line 10, Pos (0,2)
+msgid "それでその女にお仕置きしてやるんだな！！"
+msgstr "那就用这个惩罚那个女人吧！！"
+
+#. ID 4, Page 1, Line 13, Pos (0,2)
+msgid "よっ、役得！！"
+msgstr "哟，这可是份美差！！"
+
+#. ID 4, Page 1, Line 19, Pos (0,2)
+msgid "………………………"
+msgstr "………………………"
+
+#. ID 4, Page 1, Line 23, Pos (0,2)
+msgid "うっ……"
+msgstr "唔……"
+
+#. ID 4, Page 1, Line 26, Pos (0,2)
+msgid "ん……"
+msgstr "嗯……"
+
+#. ID 4, Page 1, Line 31, Pos (0,2)
+msgid "かは……"
+msgstr "咳哈……"
+
+#. ID 4, Page 1, Line 34, Pos (0,2)
+msgid ""
+"ごめん……\n"
+"私……早まっちゃったみたい………"
+msgstr "对不起……我……好像太冲动了………"
+
+#. ID 4, Page 1, Line 39, Pos (0,2)
+msgid "くぅ"
+msgstr "唔"
+
+#. ID 4, Page 1, Line 43, Pos (0,2)
+msgid "あっ！"
+msgstr "啊！"
+
+#. ID 4, Page 1, Line 47, Pos (0,2)
+msgid "いやっ！"
+msgstr "不要！"
+
+#. ID 4, Page 1, Line 50, Pos (0,2)
+msgid "あなた達を…救って……あげ………"
+msgstr "我来……救……你们……吧………"
+
+#. ID 4, Page 1, Line 53, Pos (0,2)
+msgid "やっ！"
+msgstr "呀！"
+
+#. ID 4, Page 1, Line 57, Pos (0,2)
+msgid "あっ！やっ！"
+msgstr "啊！呀！"
+
+#. ID 4, Page 1, Line 60, Pos (0,2)
+msgid "いやあああああああああ！"
+msgstr "不要啊啊啊啊啊啊啊啊啊！"
+
+#. ID 4, Page 1, Line 71, Pos (0,2)
+msgid "うぅ………う…………"
+msgstr "呜………呜…………"
+
+#. ID 4, Page 1, Line 74, Pos (0,2)
+msgid "あはは……委員長おもらししちゃったよ"
+msgstr "啊哈哈……委员长尿裤子了哦"
+
+#. ID 4, Page 1, Line 77, Pos (0,2)
+msgid "い………言わないで…………"
+msgstr "不……不要说出来…………"
+
+#. ID 4, Page 1, Line 80, Pos (0,2)
+msgid ""
+"お友達の前で失禁なんて……\n"
+"委員長さん大失態ですねぇ"
+msgstr "在朋友面前失禁什么的……委员长小姐真是大失态呢"
+
+#. ID 4, Page 1, Line 84, Pos (0,2)
+msgid "ジャアアって、赤ちゃんみたい"
+msgstr "哗——地一下，跟婴儿一样"
+
+#. ID 4, Page 1, Line 85, Pos (0,2)
+msgid "ホント、可愛いんだから"
+msgstr "真是的，太可爱了"
+
+#. ID 4, Page 1, Line 88, Pos (0,2)
+msgid "くぅ…………いや…………………"
+msgstr "唔…………不要…………………"
+
+#. ID 4, Page 1, Line 91, Pos (0,2)
+msgid "ねえ……今度は私にやらせてよ"
+msgstr "呐……这次让我来嘛"
+
+#. ID 4, Page 1, Line 94, Pos (0,2)
+msgid "…………えっ？"
+msgstr "…………诶？"
+
+#. ID 4, Page 1, Line 100, Pos (0,2)
+msgid "鞭を手渡した。"
+msgstr "鞭子被递了过去。"
+
+#. ID 4, Page 1, Line 103, Pos (0,2)
+msgid "ありがと♪"
+msgstr "谢谢♪"
+
+#. ID 4, Page 1, Line 110, Pos (0,2)
+msgid ""
+"うわ……委員長ビチャビチャだね！！\n"
+"それに臭いも……！！"
+msgstr "哇……委员长湿淋淋的耶！！而且还很臭……！！"
+
+#. ID 4, Page 1, Line 114, Pos (0,2)
+msgid "い……………いや……………やめて………"
+msgstr "不……………不要……………住手………"
+
+#. ID 4, Page 1, Line 119, Pos (0,2)
+msgid "ああっ！！"
+msgstr "啊啊！！"
+
+#. ID 4, Page 1, Line 122, Pos (0,2)
+msgid ""
+"ははは…そんな声を上げる委員長\n"
+"初めてみたよ！"
+msgstr "哈哈哈……我还是第一次见委员长发出那种声音呢！"
+
+#. ID 4, Page 1, Line 128, Pos (0,2)
+msgid "いやあっ！！"
+msgstr "不要啊！！"
+
+#. ID 4, Page 1, Line 133, Pos (0,2)
+msgid "はあんっ！！"
+msgstr "哈啊嗯！！"
+
+#. ID 4, Page 1, Line 138, Pos (0,2)
+msgid "ああああああっ！！"
+msgstr "啊啊啊啊啊啊！！"
+
+#. ID 4, Page 1, Line 141, Pos (0,2)
+msgid ""
+"ん………？\n"
+"\n"
+"私、そんな極端に強く打ってるかな？\n"
+"いやに痛がるじゃないか"
+msgstr ""
+"嗯………？我有打得那么极端重吗？\n"
+"她痛得也太反常了吧"
+
+#. ID 4, Page 1, Line 147, Pos (0,2)
+msgid "う………う…………"
+msgstr "呜………呜…………"
+
+#. ID 4, Page 1, Line 166, Pos (0,2)
+msgid "………………………………"
+msgstr "………………………………"
+
+#. ID 4, Page 1, Line 168, Pos (0,2)
+msgid ""
+"…………あれ？\n"
+"\n"
+"……………………委員長？"
+msgstr "…………咦？……………………委员长？"
+
+#. ID 4, Page 1, Line 173, Pos (0,2)
+msgid "…………………めん………"
+msgstr "…………………对不………"
+
+#. ID 4, Page 1, Line 175, Pos (0,2)
+msgid ""
+"ああ、よかった\n"
+"まだしゃべれるみたいだね"
+msgstr "啊，太好了，看来还能说话呢"
+
+#. ID 4, Page 1, Line 183, Pos (0,2)
+msgid ""
+"くぅ！！\n"
+"…………ごめん…………ね？"
+msgstr "唔！！…………抱歉…………呐？"
+
+#. ID 4, Page 1, Line 187, Pos (0,2)
+msgid "ははは……"
+msgstr "哈哈哈……"
+
+#. ID 4, Page 1, Line 188, Pos (0,2)
+msgid ""
+"○リーパー様に楯突いたこと\n"
+"ようやく反省したみたいだね。"
+msgstr ""
+"看来你终于对顶撞○收割者大人这件事有所反省了呢\n"
+"。"
+
+#. ID 4, Page 1, Line 192, Pos (0,2)
+msgid ""
+"あなたが……\n"
+"学院の異変に疑問を持った時…………"
+msgstr "你……对学院的异变产生疑问的时候…………"
+
+#. ID 4, Page 1, Line 196, Pos (0,2)
+msgid ""
+"\n"
+"　　　　　　　！"
+msgstr ""
+"\n"
+"　　　　　　　！"
+
+#. ID 4, Page 1, Line 200, Pos (0,2)
+msgid ""
+"私も……それに気づいてた……\n"
+"\n"
+"でも…………気づかないふりをして………"
+msgstr "我也……察觉到了……但是…………却装作没有察觉………"
+
+#. ID 4, Page 1, Line 203, Pos (0,2)
+msgid "それを……疑問を……遠ざけた………"
+msgstr "我将那……将疑问……推开了………"
+
+#. ID 4, Page 1, Line 210, Pos (0,2)
+msgid ""
+"変化が……恐くて…………\n"
+"あなたといっしょに過ごす今日が………\n"
+"壊れるのが…………恐くて…………"
+msgstr ""
+"变化……很可怕…………和你一起度过的今天………被破坏……\n"
+"很可怕…………"
+
+#. ID 4, Page 1, Line 214, Pos (0,2)
+msgid ""
+"私は………事実から……\n"
+"\n"
+"…………目を背けた…………"
+msgstr "我………从事实那里………………移开了目光…………"
+
+#. ID 4, Page 1, Line 225, Pos (0,2)
+msgid ""
+"いやだな……\n"
+"別にそんなこと、気にしてないよ"
+msgstr "别这样……我并没有特别在意那种事哦"
+
+#. ID 4, Page 1, Line 235, Pos (0,2)
+msgid ""
+"戦おうとする……あなたから……\n"
+"\n"
+"目を………"
+msgstr "从想要战斗的……你身上……目光………"
+
+#. ID 4, Page 1, Line 239, Pos (0,2)
+msgid "あなた…を…孤独に……させ…た…………"
+msgstr "让你…变得…孤独…了…………"
+
+#. ID 4, Page 1, Line 241, Pos (0,2)
+msgid ""
+"あなたと……いっしょに…………\n"
+"\n"
+"戦って……あげられなかった……………"
+msgstr "没能……和你一起…………战斗………"
+
+#. ID 4, Page 1, Line 246, Pos (0,2)
+msgid "委員長……"
+msgstr "委员长……"
+
+#. ID 4, Page 1, Line 248, Pos (0,2)
+msgid "だから………別に気にしてないって………"
+msgstr "所以说………我都说了并没有特别在意………"
+
+#. ID 4, Page 1, Line 254, Pos (0,2)
+msgid "それどころか、感謝してるくらいさ！"
+msgstr "岂止如此，我甚至很感谢！"
+
+#. ID 4, Page 1, Line 256, Pos (0,2)
+msgid "…………？"
+msgstr "…………？"
+
+#. ID 4, Page 1, Line 259, Pos (0,2)
+msgid ""
+"結果的に、私はこんなに幸せな気持ちに\n"
+"なることができたんだからね！"
+msgstr "因为结果上，我能够获得如此幸福的心情啊！"
+
+#. ID 4, Page 1, Line 262, Pos (0,2)
+msgid ""
+"\n"
+"………………！"
+msgstr ""
+"\n"
+"………………！"
+
+#. ID 4, Page 1, Line 265, Pos (0,2)
+msgid ""
+"服従の喜びさ……！！\n"
+"○リーパー様に鎖で繋がれていることの\n"
+"幸福感だよ！！"
+msgstr ""
+"是服从的喜悦……！！\n"
+"是被○收割者大人用锁链拴住的幸福感哦！！"
+
+#. ID 4, Page 1, Line 270, Pos (0,2)
+msgid ""
+"それは………違うよ…………！！\n"
+"あなたの求めていたものは………\n"
+"そんなものじゃない………！！"
+msgstr ""
+"那………不对哦…………！！你所寻求的东西………\n"
+"并不是那种东西………！！"
+
+#. ID 4, Page 1, Line 275, Pos (0,2)
+msgid "そんなものとはなんだよ！！"
+msgstr "那种东西是什么啊！！"
+
+#. ID 4, Page 1, Line 287, Pos (0,2)
+msgid "あ……かはっ…………"
+msgstr "啊……咔哈…………"
+
+#. ID 4, Page 1, Line 289, Pos (0,2)
+msgid "委員長は……"
+msgstr "委员长……"
+
+#. ID 4, Page 1, Line 293, Pos (0,2)
+msgid "まだ……"
+msgstr "还……"
+
+#. ID 4, Page 1, Line 297, Pos (0,2)
+msgid "しらないだけだよ……！"
+msgstr "只是不知道而已……！"
+
+#. ID 4, Page 1, Line 310, Pos (0,2)
+msgid "私こそ、謝りたいくらいだよ！！"
+msgstr "我才应该道歉啊！！"
+
+#. ID 4, Page 1, Line 320, Pos (0,2)
+msgid "抜け駆けしてごめんね？"
+msgstr "抱歉抢了先呢？"
+
+#. ID 4, Page 1, Line 322, Pos (0,2)
+msgid "そん…………いや……………"
+msgstr "那…………不……………"
+
+#. ID 4, Page 1, Line 342, Pos (0,2)
+msgid ""
+"私は嬉しい！！\n"
+"委員長が……やっと…………\n"
+"私と幸せを共有してくれるんだから！！！"
+msgstr ""
+"我很高兴！！因为委员长……终于…………\n"
+"要和我共享幸福了！！！"
+
+#. ID 4, Page 1, Line 353, Pos (0,2)
+msgid "これからは……"
+msgstr "从今往后……"
+
+#. ID 4, Page 1, Line 361, Pos (0,2)
+msgid "いっしょに……"
+msgstr "一起……"
+
+#. ID 4, Page 1, Line 369, Pos (0,2)
+msgid "幸せになろう？"
+msgstr "变得幸福吧？"
+
+#. ID 4, Page 1, Line 381, Pos (0,2)
+msgid "…………○リーパー様の許で！！"
+msgstr "…………在○收割者大人的麾下！！"
+
+#. ID 4, Page 1, Line 406, Pos (0,2)
+msgid "はは……はははははあははははは！！！"
+msgstr "哈哈……哈哈哈哈哈哈哈哈哈！！！"
+
+#. ID 4, Page 1, Line 409, Pos (0,2)
+msgid "…………委員長？"
+msgstr "…………委员长？"
+
+#. ID 4, Page 1, Line 412, Pos (0,2)
+msgid "…………………"
+msgstr "…………………"
+
+#. ID 4, Page 1, Line 415, Pos (0,2)
+msgid "寝ちゃったのか………"
+msgstr "睡着了吗………"
+
+#. ID 4, Page 1, Line 417, Pos (0,2)
+msgid ""
+"………目が覚めたら\n"
+"きっと明るい世界が待ってるよ。"
+msgstr "………醒来后一定会有光明的世界等着你哦。"
+
+#. ID 4, Page 1, Line 420, Pos (0,2)
+msgid "ずっと……いっしょにいよう…………"
+msgstr "一直……在一起吧…………"
+
+#. ID 4, Page 1, Line 435, Pos (0,2)
+msgid "それはダメなんだな！！"
+msgstr "那是不行的呢！！"
+
+#. ID 4, Page 1, Line 441, Pos (0,2)
+msgid "えっ？"
+msgstr "诶？"
+
+#. ID 4, Page 1, Line 444, Pos (0,2)
+msgid ""
+"そ…そいつは…ボ……ボクをあまりに脅かしたんだな！\n"
+"\n"
+"と…とてもボクの周りに置いておく気にはならない！！"
+msgstr ""
+"那…那家伙…太……太威胁我了呢！我…\n"
+"我完全不想把她放在我身边！！"
+
+#. ID 4, Page 1, Line 451, Pos (0,2)
+msgid "で……では、せめて私の手駒としてでも…"
+msgstr "那……那么，至少让她作为我的手下来…"
+
+#. ID 4, Page 1, Line 453, Pos (0,2)
+msgid "ダメなんだな！！！"
+msgstr "不行的呢！！！"
+
+#. ID 4, Page 1, Line 455, Pos (0,2)
+msgid "　　！"
+msgstr "　　！"
+
+#. ID 4, Page 1, Line 457, Pos (0,2)
+msgid ""
+"お……お前はこいつの危険を察知できなかったんだな！\n"
+"とてもとても……こいつがどこかで動いているだけで…\n"
+"\n"
+"……ボクは不安でしょうがないんだな！！！"
+msgstr ""
+"你……你没察觉这家伙的危险呢！非常非常……\n"
+"只要这家伙在某处活动………我就不安得不得了！！！"
+
+#. ID 4, Page 1, Line 462, Pos (0,2)
+msgid "で……ですが………"
+msgstr "那……但是………"
+
+#. ID 4, Page 1, Line 464, Pos (0,2)
+msgid "くどいんだな！！！"
+msgstr "太啰嗦了呢！！！"
+
+#. ID 4, Page 1, Line 469, Pos (0,2)
+msgid "……………………"
+msgstr "……………………"
+
+#. ID 4, Page 1, Line 472, Pos (0,2)
+msgid "おい、お前！！"
+msgstr "喂，你！！"
+
+#. ID 4, Page 1, Line 475, Pos (0,2)
+msgid ""
+"？\n"
+"\n"
+"……………はい"
+msgstr "？……………是"
+
+#. ID 4, Page 1, Line 480, Pos (0,2)
+msgid "見たところ、お前はこいつと仲が良さそうなんだな？"
+msgstr "看起来，你和这家伙关系很好呢？"
+
+#. ID 4, Page 1, Line 483, Pos (0,2)
+msgid "はい。大好きです"
+msgstr "是。我最喜欢了"
+
+#. ID 4, Page 1, Line 486, Pos (0,2)
+msgid "こ……こいつも……お前のことが大好きなのか？"
+msgstr "这……这家伙也……非常喜欢你吗？"
+
+#. ID 4, Page 1, Line 489, Pos (0,2)
+msgid ""
+"そこまではなんとも……\n"
+"大好きであってくれると、嬉しいです"
+msgstr ""
+"到那种程度就不好说……如果她也能非常喜欢我，\n"
+"我会很高兴"
+
+#. ID 4, Page 1, Line 493, Pos (0,2)
+msgid ""
+"そうか……フヒヒ………\n"
+"\n"
+"わ……わかったんだな"
+msgstr "这样啊……嘻嘻嘻………我……我明白了呢"
+
+#. ID 4, Page 1, Line 497, Pos (0,2)
+msgid ""
+"お前たちはもう下がっていいんだな\n"
+"食堂で卒業見込み者の送別会をやるんだそうだな……\n"
+"た……楽しんでくるといいんだな"
+msgstr ""
+"你们可以退下了呢 听说要在食堂为毕业生举办欢送\n"
+"会呢……尽……尽情享受吧"
+
+#. ID 4, Page 1, Line 502, Pos (0,2)
+msgid "はい。では……"
+msgstr "是。那么……"
+
+#. ID 4, Page 1, Line 505, Pos (0,2)
+msgid "あの……委員長は……"
+msgstr "那个……委员长呢……"
+
+#. ID 4, Page 1, Line 508, Pos (0,2)
+msgid "残念だけどしばらく会えなくなるんだな"
+msgstr "很遗憾，暂时见不到她了呢"
+
+#. ID 4, Page 1, Line 511, Pos (0,2)
+msgid ""
+"そう……ですか……\n"
+"\n"
+"では、失礼します"
+msgstr "是……这样吗……那么，失礼了"
+
+#. ID 4, Page 1, Line 522, Pos (0,2)
+msgid "まあ、ある意味すぐに会えるんだな……"
+msgstr "嘛，某种意义上很快就会见面的呢……"
+
+#. ID 4, Page 1, Line 523, Pos (0,2)
+msgid ""
+"フヒ……\n"
+"　　　フヒヒヒヒヒヒヒヒヒ…………"
+msgstr ""
+"嘻……\n"
+"　　　嘻嘻嘻嘻嘻嘻嘻嘻嘻…………"

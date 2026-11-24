@@ -1,0 +1,56 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 48, Page 2, Line 4, Pos (19,12)
+#. ID 67, Page 2, Line 4, Pos (39,12)
+msgid "………"
+msgstr "………"
+
+#. ID 48, Page 2, Line 8, Pos (19,12)
+#. ID 67, Page 2, Line 8, Pos (39,12)
+msgid ""
+"＊自動人形のようだが\n"
+"　眠っているようにピクりとも動かない"
+msgstr "＊看起来是自动人偶　但像睡着了一样纹丝不动"
+
+#. ID 86, Page 2, Line 5, Pos (27,33)
+msgid "＊……手記のようだ"
+msgstr "＊……像是手记"
+
+#. ID 86, Page 2, Line 10, Pos (27,33)
+msgid ""
+"＊不埒な輩を今日、逮捕したが\n"
+"　妙なことを口走っていた"
+msgstr ""
+"＊今天逮捕了一名不法之徒，\n"
+"　但他信口说了些奇怪的话"
+
+#. ID 86, Page 2, Line 12, Pos (27,33)
+msgid ""
+"＊指導者たるヴォルテールが、\n"
+"　俺たちの身体を機械に変えようとしている、\n"
+"　らしい"
+msgstr ""
+"＊身为指导者的沃尔泰尔，\n"
+"　正企图把我们的身体改造成机械，　似乎是这样"
+
+#. ID 86, Page 2, Line 15, Pos (27,33)
+msgid ""
+"＊……みんなで協力しなければならないときに\n"
+"　こういうデマを噴出すとは、\n"
+"　まったく、かつての国民性の融和は\n"
+"　難しそうだ"
+msgstr ""
+"＊……在必须大家协力合作的时候　竟散布这种谣言，\n"
+"　真是的，昔日国民性的融合　看来很难实现"

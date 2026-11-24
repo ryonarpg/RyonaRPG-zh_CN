@@ -1,0 +1,135 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 37, Page 1, Line 9, Pos (21,49)
+msgid ""
+"また貴様か……。\n"
+"まあいい、もう一度チャンスをやろう。\n"
+"我が問いに答えよ。"
+msgstr ""
+"又是你这家伙……。也罢，再给你一次机会。\n"
+"回答我的问题。"
+
+#. ID 37, Page 1, Line 14, Pos (21,49)
+msgid ""
+"我はスフィンクス。\n"
+"謎と神秘を語るものなり。\n"
+"人の子よ、我が問いに答えよ。"
+msgstr ""
+"我是斯芬克斯。讲述谜与神秘者。人之子啊，\n"
+"回答我的问题。"
+
+#. ID 37, Page 1, Line 19, Pos (21,49)
+msgid ""
+"朝は四本足、昼は二本足、夜は三本足。\n"
+"これは何か?"
+msgstr "早晨四条腿，中午两条腿，晚上三条腿。这是什么？"
+
+#. ID 37, Page 1, Line 21, Pos (21,49)
+#. Choice (3 options)
+msgid ""
+"人間\n"
+"男\n"
+"遊星からの物体X"
+msgstr ""
+"人类\n"
+"男人\n"
+"来自游星的事物X"
+
+#. ID 37, Page 1, Line 28, Pos (21,49)
+msgid ""
+"せ、正解されてしまっただと……!?\n"
+"馬鹿な、母上から教わった\n"
+"門外不出の難問だったはずなのに……!?"
+msgstr ""
+"竟、竟然被答对了……！？不可能，\n"
+"这明明是母亲大人传授的不外传难题……"
+
+#. ID 37, Page 1, Line 31, Pos (21,49)
+msgid "かくなるうえはもはや死ぬしか――!!"
+msgstr "事已至此，只能死了——！！"
+
+#. ID 37, Page 1, Line 43, Pos (21,49)
+msgid ""
+"それじゃ朝の説明がつかんだろうが\n"
+"この痴女がああぁぁぁ!!"
+msgstr "这样早晨就解释不通了吧，你这个痴女啊啊啊啊！！"
+
+#. ID 37, Page 1, Line 54, Pos (21,49)
+msgid ""
+"それじゃ問題にならんだろうが\n"
+"このアホがああぁぁぁ!!"
+msgstr "这样就不成问题了吧，你这个笨蛋啊啊啊啊！！"
+
+#. ID 38, Page 3, Line 3, Pos (9,63)
+msgid "何か落ちている……"
+msgstr "有什么掉在地上……"
+
+#. ID 38, Page 3, Line 5, Pos (9,63)
+msgid "エロいものを手に入れた。"
+msgstr "获得了色情的东西。"
+
+#. ID 64, Page 2, Line 4, Pos (6,61)
+msgid ""
+"遥か下方で\n"
+"スフィンクスがでかいタンコブをつくって\n"
+"のびているのが見える……。"
+msgstr ""
+"在遥远的下方，可以看到斯芬克斯起了个大包，\n"
+"瘫倒在那里……。"
+
+#. ID 64, Page 2, Line 12, Pos (6,61)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ここから脱出できるかもしれない。\n"
+"どうしようか?"
+msgstr "也许能从这儿逃出去。怎么办？"
+
+#. ID 64, Page 2, Line 14, Pos (6,61)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"攻略を続ける\n"
+"脱出する"
+msgstr ""
+"继续攻略\n"
+"逃脱"
+
+#. ID 97, Page 2, Line 3, Pos (60,20)
+msgid ""
+"空間の揺らぎを感じる……\n"
+"どうやらワープゾーンのようだ。"
+msgstr "感觉到空间的波动……看来像是传送区域。"
+
+#. ID 97, Page 2, Line 5, Pos (60,20)
+msgid ""
+"しかしなんだろう……\n"
+"言い知れぬ不気味な気配がする……\n"
+"形容し難い嫌な予感がする……"
+msgstr ""
+"但究竟是什么呢……有一种不可名状的不祥气息……\n"
+"有一种难以形容的讨厌预感……"
+
+#. ID 97, Page 2, Line 8, Pos (60,20)
+#. Contains choice at line 2 (2 options)
+msgid "……入ってみますか？"
+msgstr "……要进去试试吗？"
+
+#. ID 97, Page 2, Line 9, Pos (60,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

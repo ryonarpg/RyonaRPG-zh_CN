@@ -1,0 +1,57 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 47, Page 1, Line 80, Pos (19,3)
+msgid ""
+"アラクネ\n"
+"「この繭もそろそろ頃合いね。"
+msgstr "阿剌克涅「这个茧也差不多到时候了呢。"
+
+#. ID 47, Page 1, Line 86, Pos (19,3)
+msgid ""
+"アラクネ\n"
+"「さあ、\\.\\.生まれ変わった姿を私達に見せて・\\.・\\.・"
+msgstr ""
+"阿剌克涅「来，\n"
+"\\.\\.让我们看看你转生后的样子・\\.・\\.・"
+
+#. ID 47, Page 1, Line 125, Pos (19,3)
+msgid ""
+"アラクネ\n"
+"「ふふっ、\\.\\.頭の中まで完全にアラクネになったみたいね"
+msgstr ""
+"阿剌克涅「呵呵，\n"
+"\\.\\.脑子里也完全变成阿剌克涅了呢"
+
+#. ID 47, Page 1, Line 131, Pos (19,3)
+msgid ""
+"アラクネ\n"
+"「さあ、こっちにいらっしゃい。\\|\n"
+"　女王様にご挨拶しましょう。"
+msgstr "阿剌克涅「来，到这边来。\\|　向女王陛下问候吧。"
+
+#. ID 47, Page 1, Line 146, Pos (19,3)
+msgid ""
+"その後、\\n[\\v[6]]は\n"
+"再びインセクトクイーンと相まみえることになるが…"
+msgstr "之后，\\n[\\v[6]]将再次与昆虫女王对峙，但…"
+
+#. ID 47, Page 1, Line 152, Pos (19,3)
+msgid ""
+"アラクネになった\\n[\\v[6]]は\n"
+"インセクトクイーンのフェロモンに完全屈服し、\\.\\.\n"
+"恍惚とした表情で忠誠を誓うのだった・・・"
+msgstr ""
+"变成阿剌克涅的\\n[\\v[6]]完全屈服于昆虫女王的信\n"
+"息素，\\.\\.以恍惚的表情宣誓忠诚……"

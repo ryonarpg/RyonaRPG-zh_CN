@@ -1,0 +1,190 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 36, Page 2, Line 4, Pos (45,38)
+#. Contains choice at line 2 (2 options)
+msgid "＊[地下牢獄の鍵]を使いますか？"
+msgstr "＊要使用[地下牢狱钥匙]吗？"
+
+#. ID 36, Page 2, Line 5, Pos (45,38)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 2, Line 5, Pos (45,45)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 2, Line 5, Pos (14,2)
+#. Choice (2 options, embedded in a message)
+#. ID 65, Page 2, Line 7, Pos (28,46)
+#. Choice (2 options, embedded in a message)
+#. ID 72, Page 2, Line 12, Pos (24,47)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 36, Page 2, Line 34, Pos (45,38)
+#. ID 37, Page 2, Line 34, Pos (45,45)
+msgid "＊鍵が掛かっている"
+msgstr "＊上锁了"
+
+#. ID 37, Page 2, Line 4, Pos (45,45)
+#. Contains choice at line 2 (2 options)
+msgid "＊[地下牢獄看守の鍵]を使いますか？"
+msgstr "＊要使用[地下牢狱看守钥匙]吗？"
+
+#. ID 43, Page 2, Line 3, Pos (14,2)
+msgid "＊錆び付いたスイッチがある"
+msgstr "＊有个生锈的开关"
+
+#. ID 43, Page 2, Line 4, Pos (14,2)
+#. Contains choice at line 2 (2 options)
+msgid "＊スイッチを操作しますか？"
+msgstr "＊要操作开关吗？"
+
+#. ID 43, Page 2, Line 14, Pos (14,2)
+msgid "＊……どこかが開いたようだ"
+msgstr "＊……某处好像打开了"
+
+#. ID 65, Page 2, Line 3, Pos (28,46)
+msgid ""
+"白魔導士エレーヌ\n"
+"「……けて……\n"
+"　たす……けて」"
+msgstr "白魔导士埃莱娜「……救……　救救……我」"
+
+#. ID 65, Page 2, Line 6, Pos (28,46)
+#. Contains choice at line 2 (2 options)
+msgid "＊助けますか？"
+msgstr "＊要救她吗？"
+
+#. ID 65, Page 2, Line 14, Pos (28,46)
+msgid "＊拘束を解いた！"
+msgstr "＊解开了束缚！"
+
+#. ID 65, Page 2, Line 19, Pos (28,46)
+msgid ""
+"白魔導士エレーヌ\n"
+"「…………」"
+msgstr "白魔导士埃莱娜「…………」"
+
+#. ID 65, Page 2, Line 21, Pos (28,46)
+msgid "「……りがとう………」"
+msgstr "「……谢谢………」"
+
+#. ID 65, Page 2, Line 27, Pos (28,46)
+msgid "「回復………」"
+msgstr "「恢复………」"
+
+#. ID 65, Page 2, Line 40, Pos (28,46)
+msgid "＊全回復した！"
+msgstr "＊完全恢复了！"
+
+#. ID 65, Page 2, Line 45, Pos (28,46)
+msgid ""
+"「帰らなきゃ……\n"
+"　……みんな………怪我しているかも……」"
+msgstr "「我得回去……　……大家………可能受伤了……」"
+
+#. ID 65, Page 2, Line 54, Pos (28,46)
+msgid ""
+"白魔導士エレーヌ\n"
+"「…た……けて……」"
+msgstr "白魔导士埃莱娜「…救……救我……」"
+
+#. ID 66, Page 2, Line 3, Pos (25,40)
+msgid ""
+"「あ\"～～……$g　あ\"あ\"～～……$g\n"
+"　う\"ああ\"～～……$g　あ\"は$g　……」"
+msgstr ""
+"「啊\"～～……$g　啊\"啊\"～～……$g　呜\"啊啊\"～～……\n"
+"　$g　啊\"哈$g　……」"
+
+#. ID 66, Page 2, Line 9, Pos (25,40)
+msgid ""
+"＊焦点の合わない目で、嬌声をあげ続けている\n"
+"　涎や糞尿が垂れ流されっぱなしだ……"
+msgstr ""
+"＊以无法聚焦的双眼，\n"
+"　持续发出娇声　口水与粪尿不断流淌不止……"
+
+#. ID 66, Page 2, Line 12, Pos (25,40)
+msgid ""
+"「う\"～……　う\"ぁ………\n"
+"　はっ……　ひ……んっ」"
+msgstr "「呜\"～……　呜\"啊………　哈……　咿……嗯」"
+
+#. ID 66, Page 2, Line 14, Pos (25,40)
+msgid "「……けて………」"
+msgstr "「……救我………」"
+
+#. ID 66, Page 2, Line 19, Pos (25,40)
+msgid ""
+"「たす……けて……\n"
+"　って……いった……のに……\n"
+"　う\"ぁあ～～……　う\"ぉお\"ぁ～～……」"
+msgstr ""
+"「救……救我……　我明明……说过……的……　呜\"啊啊～～…\n"
+"　…　呜\"哦哦\"啊～～……」"
+
+#. ID 66, Page 2, Line 24, Pos (25,40)
+msgid ""
+"「あ\"っ$g　あ\"～$g\n"
+"　あ\"ぅ～っ………$g　う\"～～……$g\n"
+"　う\"ぁあ\"$g$g」"
+msgstr ""
+"「啊\"$g　啊\"～$g　啊\"呜～………$g　呜\"～～……\n"
+"　$g　呜\"啊啊\"$g$g」"
+
+#. ID 67, Page 2, Line 3, Pos (25,42)
+msgid "＊得体の知れない薬品類だ……"
+msgstr "＊是些来路不明的药品……"
+
+#. ID 68, Page 2, Line 3, Pos (24,43)
+msgid ""
+"＊精神安定剤と書いてあるが……\n"
+"　得体の知れない薬品類だ……"
+msgstr "＊虽然写着精神安定剂……　却是些来路不明的药品……"
+
+#. ID 69, Page 2, Line 3, Pos (28,40)
+msgid ""
+"＊怪しげな植物の葉っぱだ\n"
+"　良く乾燥されている"
+msgstr "＊是些可疑植物的叶子　干燥得很充分"
+
+#. ID 70, Page 2, Line 3, Pos (27,39)
+#. ID 71, Page 2, Line 3, Pos (26,46)
+msgid "＊注射器や粉末の薬品類が入っている"
+msgstr "＊里面有注射器和粉末状的药品"
+
+#. ID 72, Page 2, Line 3, Pos (24,47)
+msgid ""
+"＊体液で汚れた衣服が落ちている……\n"
+"　白魔導士の持ち物だろうか？"
+msgstr ""
+"＊被体液弄脏的衣服掉落着……\n"
+"　是白魔导士的东西吗？"
+
+#. ID 72, Page 2, Line 10, Pos (24,47)
+msgid "＊………"
+msgstr "＊………"
+
+#. ID 72, Page 2, Line 11, Pos (24,47)
+#. Contains choice at line 2 (2 options)
+msgid "＊……盗みますか？"
+msgstr "＊……要偷吗？"
+
+#. ID 72, Page 2, Line 16, Pos (24,47)
+msgid "＊[エメラルドローブ]を手に入れた"
+msgstr "＊获得了[翡翠长袍]"

@@ -1,0 +1,232 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 3, Pos (33,5)
+#. ID 12, Page 3, Line 3, Pos (33,5)
+msgid "レバーがある。"
+msgstr "有拉杆。"
+
+#. ID 12, Page 2, Line 4, Pos (33,5)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 3, Line 4, Pos (33,5)
+#. Contains choice at line 2 (2 options)
+msgid "引きますか？"
+msgstr "要拉吗？"
+
+#. ID 12, Page 2, Line 5, Pos (33,5)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 3, Line 5, Pos (33,5)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 5, Pos (8,7)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 2, Line 5, Pos (12,7)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 2, Line 5, Pos (16,7)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 2, Line 5, Pos (20,7)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 2, Line 23, Pos (23,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 13, Page 2, Line 3, Pos (7,3)
+msgid ""
+"くぅ……サキュバスである私が……\n"
+"\n"
+"……人間ごときに…………"
+msgstr "唔……身为魅魔的我…………竟然被人类这种家伙…………"
+
+#. ID 13, Page 3, Line 3, Pos (7,3)
+msgid ""
+"それは……私…の……！\n"
+"\n"
+"くぅ……"
+msgstr "那是……我的……！唔……"
+
+#. ID 14, Page 2, Line 3, Pos (11,3)
+msgid ""
+"異端者を狩るつもりが……\n"
+"\n"
+"こんなことになるなんて……"
+msgstr "本打算狩猎异端者……没想到竟会变成这样……"
+
+#. ID 14, Page 3, Line 3, Pos (11,3)
+msgid "くぅ……目の前で杖を奪われるなんて……"
+msgstr "唔……竟在眼前被人夺走法杖……"
+
+#. ID 15, Page 2, Line 3, Pos (15,3)
+msgid ""
+"次は……あたし……？\n"
+"\n"
+"そんな……いや……"
+msgstr "接下来……是我……？不会吧……不……"
+
+#. ID 15, Page 3, Line 3, Pos (15,3)
+msgid ""
+"そのマントは……\n"
+"村を出る時に……ママがくれた……"
+msgstr "那件斗篷……是离开村子时……妈妈给我的……"
+
+#. ID 15, Page 3, Line 5, Pos (15,3)
+msgid "……そんな……いや……返し…て……"
+msgstr "……不要……不……还……给我……"
+
+#. ID 16, Page 1, Line 32, Pos (15,14)
+msgid "うっ"
+msgstr "唔"
+
+#. ID 17, Page 2, Line 3, Pos (8,7)
+msgid "拘束されているサキュバスの持ち物のようだ。"
+msgstr "这似乎是被拘束的魅魔的随身物品。"
+
+#. ID 17, Page 2, Line 4, Pos (8,7)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 2, Line 4, Pos (12,7)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 2, Line 4, Pos (16,7)
+#. Contains choice at line 2 (2 options)
+#. ID 20, Page 2, Line 4, Pos (20,7)
+#. Contains choice at line 2 (2 options)
+msgid "いただきますか？"
+msgstr "要收下吗？"
+
+#. ID 17, Page 2, Line 12, Pos (8,7)
+msgid "サキュバスのムチを手に入れた"
+msgstr "获得了魅魔之鞭"
+
+#. ID 18, Page 2, Line 3, Pos (12,7)
+msgid "拘束されている魔女の持ち物のようだ。"
+msgstr "这似乎是被拘束的魔女的随身物品。"
+
+#. ID 18, Page 2, Line 12, Pos (12,7)
+msgid "ルーンスタッフを手に入れた"
+msgstr "获得了符文法杖"
+
+#. ID 19, Page 2, Line 3, Pos (16,7)
+msgid "拘束されているエルフの持ち物のようだ。"
+msgstr "这似乎是被拘束的精灵的随身物品。"
+
+#. ID 19, Page 2, Line 12, Pos (16,7)
+msgid "エルフのマントを手に入れた"
+msgstr "获得了精灵斗篷"
+
+#. ID 20, Page 2, Line 3, Pos (20,7)
+msgid "拘束されている死に神の持ち物のようだ。"
+msgstr "这似乎是被拘束的死神的随身物品。"
+
+#. ID 20, Page 2, Line 12, Pos (20,7)
+msgid "死の大鎌を手に入れた"
+msgstr "获得了死亡大镰"
+
+#. ID 28, Page 2, Line 3, Pos (19,3)
+msgid "うぅ…に…にんげん…なんか…に……"
+msgstr "呜……人……人类……之类的……竟……"
+
+#. ID 28, Page 2, Line 4, Pos (19,3)
+msgid ""
+"あいつ、恐い……\n"
+"死神の魔力まで使おうだなんて……\n"
+"\n"
+"狂ってる……恐いよぉ……"
+msgstr ""
+"那家伙，好可怕……居然想连死神的魔力都用上……\n"
+"疯了……好可怕啊……"
+
+#. ID 28, Page 3, Line 3, Pos (19,3)
+msgid ""
+"それは……ダメ……！人間にはとても……\n"
+"\n"
+"お願い、持っていかないで……！"
+msgstr ""
+"那个……不行……！对人类来说实在……求求你，\n"
+"不要拿走……！"
+
+#. ID 29, Page 2, Line 3, Pos (23,3)
+msgid "あなた…はやく逃げなさい…"
+msgstr "你……快逃……"
+
+#. ID 29, Page 2, Line 8, Pos (23,3)
+msgid "意識を何かに集中させている。"
+msgstr "她正把意识集中在某样东西上。"
+
+#. ID 29, Page 2, Line 15, Pos (23,3)
+msgid ""
+"どうやら僅かに魔力を繋ぎ止めているようだ。\n"
+"…彼女がちょっと集中を乱せば\n"
+"魔力はたちまち外に流れ出してしまうだろう…"
+msgstr ""
+"看来她正勉强维系着微量的魔力。……\n"
+"只要她稍微打乱集中，魔力恐怕就会立刻外流吧……"
+
+#. ID 29, Page 2, Line 22, Pos (23,3)
+#. Contains choice at line 2 (2 options)
+msgid "…いただきますか？"
+msgstr "……要收下吗？"
+
+#. ID 29, Page 2, Line 25, Pos (23,3)
+msgid "え……ちょっと……！？"
+msgstr "诶……等一下……！？"
+
+#. ID 29, Page 2, Line 26, Pos (23,3)
+msgid "\\n[\\v[6]]は顔を彼女の眼前に寄せ、唇を奪った。"
+msgstr "\\n[\\v[6]]将脸凑到她的眼前，吻住了她的唇。"
+
+#. ID 29, Page 2, Line 33, Pos (23,3)
+msgid "んん………！！"
+msgstr "嗯嗯………！！"
+
+#. ID 29, Page 2, Line 42, Pos (23,3)
+msgid "ん………"
+msgstr "嗯………"
+
+#. ID 29, Page 2, Line 56, Pos (23,3)
+msgid "ん……ふ……"
+msgstr "嗯……呼……"
+
+#. ID 29, Page 2, Line 67, Pos (23,3)
+msgid "ん……"
+msgstr "嗯……"
+
+#. ID 29, Page 2, Line 73, Pos (23,3)
+msgid "はぁ……"
+msgstr "哈啊……"
+
+#. ID 29, Page 2, Line 82, Pos (23,3)
+msgid "彼女のなけなしの魔力をいただいた。"
+msgstr "我收下了她那点微薄的魔力。"
+
+#. ID 29, Page 2, Line 87, Pos (23,3)
+msgid "うぅ…こんなことって……"
+msgstr "呜……竟会变成这样……"
+
+#. ID 29, Page 3, Line 3, Pos (23,3)
+msgid "う…あぁ…"
+msgstr "呜…啊啊…"
+
+#. ID 29, Page 3, Line 8, Pos (23,3)
+msgid "涙を流し、虚ろな瞳で天井を仰いでいる。"
+msgstr "她流着泪，用空洞的眼神仰望着天花板。"
+
+#. ID 29, Page 3, Line 9, Pos (23,3)
+msgid ""
+"この魔力が彼女の最後の希望だったのだろう。\n"
+"望みが完全に潰え、心が折れてしまったようだ。"
+msgstr ""
+"这魔力大概是她最后的希望吧。希望彻底破灭，\n"
+"她的心似乎已经垮了。"

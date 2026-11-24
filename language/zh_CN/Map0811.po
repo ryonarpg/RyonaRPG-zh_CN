@@ -1,0 +1,124 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (13,4)
+msgid "私のリボン何処行っちゃったんだろう。"
+msgstr "我的缎带到底去哪儿了呢。"
+
+#. ID 8, Page 1, Line 3, Pos (27,10)
+msgid ""
+"マント付きの鎧だ。\n"
+"髭を生やした虫にしか見えない。"
+msgstr "是带披风的铠甲。看起来只像长着胡须的虫子。"
+
+#. ID 9, Page 1, Line 3, Pos (21,10)
+msgid "布の服だ。"
+msgstr "是布衣。"
+
+#. ID 10, Page 1, Line 3, Pos (24,12)
+msgid ""
+"かなりの重量がある甲冑だ。\n"
+"意外と機敏な動作が可能らしいが、\n"
+"とはいえ旅のお供には不向きかなぁ。"
+msgstr ""
+"是相当重的铠甲。据说意外地能做出敏捷动作，\n"
+"不过话虽如此，作为旅途伙伴不太合适吧。"
+
+#. ID 11, Page 1, Line 4, Pos (7,14)
+msgid ""
+"市販の武器よりも洞窟等に埋没している\n"
+"ものの方が強力っていう風潮はあるね。"
+msgstr ""
+"有种潮流认为，比起市售武器，\n"
+"埋没在洞窟等处的武器更强呢。"
+
+#. ID 11, Page 1, Line 6, Pos (7,14)
+msgid ""
+"でも、私は敢えて市販の装備に拘るよ。\n"
+"量産品にこそ人類の叡智が詰まっていると\n"
+"信じているからね。"
+msgstr ""
+"但是，我偏要拘泥于市售装备。\n"
+"因为我相信正是在量产品中才凝聚着人类的智慧。"
+
+#. ID 12, Page 1, Line 3, Pos (8,12)
+#. ID 13, Page 1, Line 3, Pos (6,12)
+#. ID 14, Page 1, Line 3, Pos (7,2)
+msgid ""
+"剣のレプリカだ。\n"
+"本物はカウンターにて。"
+msgstr "是剑的复制品。真品在柜台处。"
+
+#. ID 14, Page 1, Line 5, Pos (7,2)
+msgid ""
+"伝説の聖剣のレプリカだ。\n"
+"これはカウンターに行っても売ってもらえない。"
+msgstr ""
+"是传说圣剑的复制品。\n"
+"这个就算去柜台也不会卖给你。"
+
+#. ID 15, Page 1, Line 3, Pos (4,12)
+msgid "人中のなんとかが愛用していた戟だ。"
+msgstr "是某位「人中某某」爱用过的戟。"
+
+#. ID 16, Page 1, Line 3, Pos (21,14)
+msgid "センスのいい飾りのある兜だ。"
+msgstr "是带有品味不错装饰的头盔。"
+
+#. ID 17, Page 1, Line 3, Pos (27,14)
+msgid ""
+"片方しかない足枷だ。本来は拘束具なのだが\n"
+"人によっては凶悪な武器へと変貌する。"
+msgstr ""
+"是只有一只的脚镣。本来是拘束具，\n"
+"但根据使用者的不同会变成凶恶的武器。"
+
+#. ID 18, Page 1, Line 4, Pos (22,11)
+msgid ""
+"やっぱ市販より洞窟とかにある装備の方が\n"
+"レアで能力も高いっていう傾向はあるな。"
+msgstr ""
+"果然还是有种倾向，比起市售，\n"
+"洞窟等处的装备更稀有且能力更高啊。"
+
+#. ID 18, Page 1, Line 6, Pos (22,11)
+msgid ""
+"だけど俺は市販の装備で冒険に出るぜ。\n"
+"一点モノは壊れるのが恐いからな！"
+msgstr "但我会用市售装备去冒险。独一无二的东西怕坏啊！"
+
+#. ID 20, Page 1, Line 3, Pos (12,10)
+msgid ""
+"「すり抜けショートカットの使い方」が貼られている。\n"
+"しかし、読めない文字で書かれていた。"
+msgstr ""
+"贴着「穿行捷径的使用方法」。\n"
+"但上面写着读不懂的文字。"
+
+#. ID 21, Page 1, Line 3, Pos (18,11)
+#. Choice (4 options)
+msgid ""
+"すり抜けを強化する\n"
+"すり抜け履歴の削除\n"
+"すり抜けの購入\n"
+"やめる"
+msgstr ""
+"强化穿行\n"
+"删除穿行记录\n"
+"购买穿行\n"
+"取消"
+
+#. ID 21, Page 1, Line 15, Pos (18,11)
+msgid "そんな物は無かった。"
+msgstr "并没有那种东西。"

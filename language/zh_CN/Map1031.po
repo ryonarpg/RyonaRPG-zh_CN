@@ -1,0 +1,76 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 39, Page 2, Line 3, Pos (15,25)
+#. ID 40, Page 2, Line 3, Pos (16,25)
+#. ID 41, Page 2, Line 3, Pos (17,25)
+#. ID 42, Page 2, Line 3, Pos (19,25)
+msgid ""
+"ここから先は水中に多数の瓦礫が沈んでいて\n"
+"この身体でも流石に進めない……"
+msgstr ""
+"这前方水中沉着大量瓦砾，\n"
+"就算是这具身体也实在无法前进……"
+
+#. ID 43, Page 1, Line 9, Pos (0,3)
+msgid ""
+"大蛇はその鎌首をもたげたかと思いきや、\n"
+"一瞬にして\\N[\\V[6]]の身体を\n"
+"くわえこんでしまった！！"
+msgstr ""
+"大蛇刚抬起它那镰刀般的头，\n"
+"就在一瞬间将\\N[\\V[6]]的身体咬含进去！！"
+
+#. ID 43, Page 1, Line 31, Pos (0,3)
+msgid ""
+"懸命にもがく\\N[\\V[6]]だが、\n"
+"大蛇の大顎が前後にスライドするたび\n"
+"どんどん喉の奥へと引きずり込まれていく……！！"
+msgstr ""
+"\\N[\\V[6]]拼命挣扎，但每当大蛇的大颚前后滑动，\n"
+"就被越来越深地拖进喉咙深处……！！"
+
+#. ID 43, Page 1, Line 52, Pos (0,3)
+msgid ""
+"\\N[\\V[6]]の身体は\n"
+"上顎に生えた二本の牙によってがっちりと\n"
+"ホールドされて、脱出することができない！！"
+msgstr ""
+"\\N[\\V[6]]的身体被上颚长出的两根獠牙牢牢固定住，无法逃脱\n"
+"　！！"
+
+#. ID 43, Page 1, Line 55, Pos (0,3)
+msgid "こ、このままじゃ……丸呑みにされる……！？"
+msgstr "这、这样下去……会被整个吞掉……！？"
+
+#. ID 43, Page 1, Line 74, Pos (0,3)
+msgid ""
+"ひ、ひぃぃ……！！\n"
+"駄目だ、の、の、呑まれちゃうぅぅぅ！！"
+msgstr ""
+"咿、咿呀呀……！！不行，要、要、\n"
+"要被吞掉了啊啊啊！！"
+
+#. ID 43, Page 1, Line 76, Pos (0,3)
+msgid ""
+"こんな、こんな……\n"
+"こんな姿に変えられて……\n"
+"その上ヘビに呑まれて終わるだなんて……"
+msgstr ""
+"竟然、竟然……被变成这种模样……\n"
+"而且还被蛇吞掉就此结束什么的……"
+
+#. ID 43, Page 1, Line 79, Pos (0,3)
+msgid "こんな結末いやああああああああああ！！"
+msgstr "我不要这种结局啊啊啊啊啊啊啊啊啊啊！！"

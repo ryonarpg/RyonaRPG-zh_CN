@@ -1,0 +1,74 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 3, Pos (11,3)
+msgid ""
+"んっ……ちゅっ、ぢゅるるる……ぶっ！？\n"
+"\\.…ぐっ！　\\.うぶ、ぶえ…ぢゅるるる……！"
+msgstr ""
+"嗯……啾、咕噜噜噜……噗！？\\.…咕！　\\.呜噗、呜呃…\n"
+"咕噜噜噜……！"
+
+#. ID 23, Page 2, Line 3, Pos (12,3)
+msgid ""
+"おらッ！\n"
+"これからお前の孔に突っ込むんだ、\n"
+"さっさとたたせな！"
+msgstr "喂！接下来要插进你的洞里，赶紧给我立起来！"
+
+#. ID 24, Page 2, Line 3, Pos (15,8)
+#. ID 24, Page 3, Line 3, Pos (15,8)
+msgid ""
+"やめてぇ……\n"
+"もう、やめて………っ"
+msgstr "不要啊……已经，停下来………呜"
+
+#. ID 25, Page 2, Line 3, Pos (16,8)
+msgid ""
+"もうはいらないぃ～？\n"
+"こ～んなにガバガバなんだからよぉ～\n"
+"もっとはいるだろぉ～？"
+msgstr ""
+"已经进不去了吗～？\n"
+"都这么松了啊～还能再进更多吧～？"
+
+#. ID 26, Page 2, Line 3, Pos (14,8)
+msgid "へへッ……最高だぜ、この街はよぉ……"
+msgstr "嘿嘿……这城市真是太棒了……"
+
+#. ID 26, Page 2, Line 4, Pos (14,8)
+msgid ""
+"女は兵士でも抵抗しない奴ばかりか……\n"
+"自分から犯されにやってくるんだぜ？"
+msgstr ""
+"女人就算是士兵也大多不抵抗……\n"
+"甚至自己主动送上门来被干？"
+
+#. ID 26, Page 2, Line 6, Pos (14,8)
+msgid ""
+"極めつけは男だぜ！\n"
+"俺たちが女犯してるってのに全く気にしないどころか、\n"
+"女を助けようとやってきた奴の方に襲いかかるんだ！"
+msgstr ""
+"最绝的是男人！我们明明在干女人，\n"
+"他们不仅完全不在意，\n"
+"反而还扑向那些来救女人的家伙！"
+
+#. ID 26, Page 2, Line 9, Pos (14,8)
+msgid "よくわからねーが……ヘヘッ、とにかく最高だ！"
+msgstr "虽然搞不太懂……嘿嘿，总之太棒了！"
+
+#. ID 27, Page 2, Line 3, Pos (10,5)
+msgid "あ………ひぃ………"
+msgstr "啊………咿………"

@@ -1,0 +1,90 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 3, Pos (13,49)
+#. Contains choice at line 2 (2 options)
+msgid "村の外に出ますか？"
+msgstr "要到村外去吗？"
+
+#. ID 12, Page 2, Line 4, Pos (13,49)
+#. Choice (2 options, embedded in a message)
+#. ID 63, Page 2, Line 18, Pos (20,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 12, Page 3, Line 3, Pos (13,49)
+msgid "…………………………………………"
+msgstr "…………………………………………"
+
+#. ID 12, Page 3, Line 4, Pos (13,49)
+#. Contains choice at line 2 (2 options)
+msgid "\\n[\\v[0006]]を助けにいきますか？"
+msgstr "要去救\\n[\\v[0006]]吗？"
+
+#. ID 12, Page 3, Line 5, Pos (13,49)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ (外に出る)"
+msgstr ""
+"是\n"
+"否（外出）"
+
+#. ID 22, Page 2, Line 3, Pos (15,5)
+msgid ""
+"蜂型モンスターに注意！\n"
+"危ないので近づかないように"
+msgstr "注意蜂型怪物！很危险，请勿靠近"
+
+#. ID 32, Page 2, Line 5, Pos (2,4)
+#. ID 33, Page 2, Line 5, Pos (3,4)
+#. ID 34, Page 2, Line 5, Pos (4,4)
+#. ID 35, Page 2, Line 5, Pos (5,4)
+msgid "!!"
+msgstr "!!"
+
+#. ID 32, Page 2, Line 18, Pos (2,4)
+#. ID 33, Page 2, Line 18, Pos (3,4)
+#. ID 34, Page 2, Line 18, Pos (4,4)
+#. ID 35, Page 2, Line 18, Pos (5,4)
+msgid "先に\\n[\\v[1058]]を安全な場所へ運ぼう。"
+msgstr "先把\\n[\\v[1058]]运到安全的地方吧。"
+
+#. ID 36, Page 2, Line 4, Pos (16,45)
+msgid "現在救出済みのキャラ:\\n[\\v[1058]]"
+msgstr "当前已救出的角色：\\n[\\v[1058]]"
+
+#. ID 36, Page 2, Line 7, Pos (16,45)
+msgid "現在救出済みのキャラ:なし"
+msgstr "当前已救出的角色：无"
+
+#. ID 63, Page 2, Line 13, Pos (20,13)
+msgid "……誰か……助けて……！"
+msgstr "……有人……救救我……！"
+
+#. ID 63, Page 2, Line 16, Pos (20,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊中から声が聞こえる。\n"
+"助けますか？"
+msgstr "＊里面传来声音。要救吗？"
+
+#. ID 63, Page 2, Line 28, Pos (20,13)
+msgid "民間人を手に入れた。"
+msgstr "获得了平民。"

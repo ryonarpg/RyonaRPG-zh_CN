@@ -1,0 +1,12 @@
+RyonaRPG 简体中文覆盖包
+========================
+
+使用方法：
+1. 先安装原版 RyonaRPG 2026 日本語版，并确认游戏根目录有 EasyRPG Player.exe。
+2. 把本压缩包内的 launcher、language、compat.json 解压/复制到游戏根目录，保持 language/zh_CN 的相对路径。
+3. 双击“启动中文版.bat”。
+
+注意：
+- 本包只包含中文翻译和启动脚本，不包含游戏本体。
+- 覆盖前建议备份原游戏的 language 目录。
+- 如果启动失败，请确认 EasyRPG Player.exe 与启动脚本在同一目录。

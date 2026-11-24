@@ -1,0 +1,148 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 16, Page 2, Line 3, Pos (3,25)
+msgid "宝物目当てで来てみたんだが…"
+msgstr "我是冲着宝物来的…"
+
+#. ID 16, Page 2, Line 4, Pos (3,25)
+msgid ""
+"目の前にこんなにあるのに\n"
+"中には入れないんだぜ？"
+msgstr "明明眼前有这么多，却进不去里面哦？"
+
+#. ID 16, Page 2, Line 6, Pos (3,25)
+msgid "くやしいよなぁ…"
+msgstr "真不甘心啊…"
+
+#. ID 16, Page 3, Line 3, Pos (3,25)
+msgid "あんたあの宝物庫に入ったのか！？"
+msgstr "你进过那个宝物库吗！？"
+
+#. ID 16, Page 3, Line 4, Pos (3,25)
+msgid ""
+"す、すげーよ！\n"
+"俺はあんたの足跡でも拝みたい気分だね！！"
+msgstr "太、太厉害了！我简直想拜一拜你的脚印！！"
+
+#. ID 17, Page 2, Line 4, Pos (14,24)
+msgid ""
+"名前：酒呑童子\n"
+"種族：爬虫類"
+msgstr "名字：酒吞童子 种族：爬虫类"
+
+#. ID 17, Page 2, Line 6, Pos (14,24)
+msgid ""
+"大酒飲みの妖怪の一種\n"
+"ヤマタノオロチという妖怪の親戚らしい"
+msgstr "大酒饮妖怪的一种，据说是妖怪八岐大蛇的亲戚"
+
+#. ID 17, Page 2, Line 8, Pos (14,24)
+#. Contains choice at line 3 (2 options)
+#. ID 18, Page 2, Line 7, Pos (12,24)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$1000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "\\$1000G可以听取攻略情报。要听吗？"
+
+#. ID 17, Page 2, Line 10, Pos (14,24)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 2, Line 9, Pos (12,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 17, Page 2, Line 17, Pos (14,24)
+msgid ""
+"外見とは裏腹に爬虫類である\\!\n"
+"それ故に氷属性の攻撃が有効打となる"
+msgstr ""
+"与外表相反，\n"
+"实际上是爬虫类\\!因此冰属性攻击会成为有效打击"
+
+#. ID 18, Page 2, Line 4, Pos (12,24)
+msgid ""
+"名前：さまよう魂β\n"
+"種族：不定形"
+msgstr "名字：彷徨的灵魂β 种族：不定形"
+
+#. ID 18, Page 2, Line 6, Pos (12,24)
+msgid "フラフラとさまよう亡霊の魂"
+msgstr "摇摇晃晃四处彷徨的亡灵之魂"
+
+#. ID 18, Page 2, Line 16, Pos (12,24)
+msgid "冒険者にまったく興味がない"
+msgstr "对冒险者完全没有兴趣"
+
+#. ID 18, Page 2, Line 17, Pos (12,24)
+msgid ""
+"壁にぶつかるまで直進して、ぶつかると\n"
+"方向転換する\\!\n"
+"そのため無視してしまっても問題ない"
+msgstr ""
+"会一直前进直到撞墙，\n"
+"撞到后就会改变方向\\!因此即使无视它也没问题"
+
+#. ID 18, Page 2, Line 20, Pos (12,24)
+msgid ""
+"これと言って弱点は無いが、\n"
+"無属性攻撃はあまり効かない"
+msgstr "虽说没有特别的弱点，但无属性攻击不太有效"
+
+#. ID 21, Page 2, Line 4, Pos (12,17)
+msgid "ずっと勇者を待っていた"
+msgstr "一直在等待勇者"
+
+#. ID 21, Page 2, Line 5, Pos (12,17)
+msgid ""
+"宝は持っていくがいい\\!\n"
+"お前に使ってほしい"
+msgstr "宝物你拿走便是\\!希望你使用它"
+
+#. ID 21, Page 2, Line 7, Pos (12,17)
+msgid ""
+"この石版は悪魔から奪い取った道具である\\!\n"
+"我々にはどう使えば良いか分からない\\!\n"
+"\n"
+"どうやら魔界に入るための道具のようだ"
+msgstr ""
+"这块石板是从恶魔那里夺来的道具\\!我们不知道该怎\n"
+"么用\\!看来像是进入魔界的道具"
+
+#. ID 21, Page 2, Line 11, Pos (12,17)
+msgid "悪魔は再びやってくるだろう"
+msgstr "恶魔还会再来吧"
+
+#. ID 21, Page 2, Line 12, Pos (12,17)
+msgid ""
+"悪魔の首領を倒すのだ\\!\n"
+"それが人類が生き残る道なのだ"
+msgstr "要打倒恶魔的首领\\!那才是人类生存下去的道路"
+
+#. ID 22, Page 2, Line 5, Pos (11,20)
+msgid "クリスタルのかけらを手に入れた。"
+msgstr "获得了水晶碎片。"
+
+#. ID 28, Page 2, Line 5, Pos (12,20)
+msgid "ソウルポット１６を手に入れた。"
+msgstr "获得了灵魂壶16。"
+
+#. ID 29, Page 2, Line 5, Pos (10,20)
+msgid "プライムブルーを手に入れた。"
+msgstr "获得了原初蓝。"

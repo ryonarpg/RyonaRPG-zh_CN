@@ -1,0 +1,936 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 42, Page 2, Line 6, Pos (24,2)
+msgid ""
+"ほう……\\.\\.兵士たちは全員\n"
+"こちら側に寝返ったと思っていたが……\n"
+"まだ歯向かうものが居たか……"
+msgstr ""
+"哦……\\.\\.我以为士兵们全都倒向这边了……\n"
+"还有敢反抗的家伙吗……"
+
+#. ID 42, Page 2, Line 18, Pos (24,2)
+msgid ""
+"……お前もどうだ？\\.\\.\n"
+"わたしに永遠に仕えないか？\\.\\.\n"
+"永遠の安心感を与えてやろう"
+msgstr ""
+"……你也如何？\\.\\.要不要永远侍奉我？\n"
+"\\.\\.我会给你永远的安全感"
+
+#. ID 42, Page 2, Line 21, Pos (24,2)
+#. Choice (2 options)
+#. ID 43, Page 2, Line 31, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 42, Page 2, Line 26, Pos (24,2)
+msgid "……フフフ、\\.\\.いい心がけだ。"
+msgstr "……呵呵呵，\\.\\.很有心嘛。"
+
+#. ID 42, Page 2, Line 31, Pos (24,2)
+msgid "今日から貴様は私の下僕だ……"
+msgstr "从今天起你就是我的仆人了……"
+
+#. ID 42, Page 2, Line 39, Pos (24,2)
+#. ID 43, Page 2, Line 237, Pos (3,6)
+#. ID 43, Page 2, Line 290, Pos (3,6)
+#. ID 43, Page 2, Line 316, Pos (3,6)
+#. ID 43, Page 2, Line 651, Pos (3,6)
+msgid "………"
+msgstr "………"
+
+#. ID 42, Page 2, Line 40, Pos (24,2)
+msgid "＊\\n[\\v[6]]は……魔物の王の配下となった。"
+msgstr "＊\\n[\\v[6]]成为了……魔物之王的部下。"
+
+#. ID 42, Page 2, Line 41, Pos (24,2)
+msgid ""
+"＊数日後、\\n[\\v[6]]は突然身体を拘束され、\n"
+"　城の小さな牢の中に監禁された。"
+msgstr ""
+"＊数日后，\\n[\\v[6]]突然被拘束身体，\n"
+"　被监禁在城堡的小牢房里。"
+
+#. ID 42, Page 2, Line 47, Pos (24,2)
+msgid ""
+"＊そして\\n[\\v[6]]は……\n"
+"　一生を魔物の配下の男どもの肉便器として\n"
+"　奉仕することを命ぜられた……。"
+msgstr ""
+"＊然后\\n[\\v[6]]……\n"
+"　被命令一生作为魔物部下男人们的肉便器\n"
+"　提供服务……。"
+
+#. ID 42, Page 2, Line 77, Pos (24,2)
+msgid ""
+"ほう……\\.\\.\\.\n"
+"この私に立ち向かおうというのか"
+msgstr "哦……\\.\\.\\.打算与我为敌吗"
+
+#. ID 42, Page 2, Line 85, Pos (24,2)
+msgid "よかろう……\\.\\.\\.掛かってくるがいい！"
+msgstr "好吧……\\.\\.\\.放马过来吧！"
+
+#. ID 43, Page 2, Line 4, Pos (3,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ぷるぷる\n"
+"ぼ、ぼくは悪い○リーパーじゃないよう"
+msgstr "噗噜噗噜我、我不是坏○收割者哟"
+
+#. ID 43, Page 2, Line 6, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"信じるよ\n"
+"信じないよ"
+msgstr ""
+"相信哟\n"
+"不相信哟"
+
+#. ID 43, Page 2, Line 8, Pos (3,6)
+msgid ""
+"ぷるぷる\n"
+"ありがとう　ぷるぷる"
+msgstr "噗噜噗噜谢谢　噗噜噗噜"
+
+#. ID 43, Page 2, Line 15, Pos (3,6)
+msgid ""
+"フヒ、フヒヒヒ！\n"
+"ば、ばれちゃあしかたないな！　フヒヒヒ！"
+msgstr ""
+"呼嘻、呼嘻嘻嘻！被、被发现了也没办法啊！\n"
+"　呼嘻嘻嘻！"
+
+#. ID 43, Page 2, Line 17, Pos (3,6)
+msgid ""
+"さ、催眠術で王女を操りイイことして、\n"
+"領主を操り政治を牛耳って……\n"
+"兵士や国民も操って乗っ取ったんだな！　フヒヒ！"
+msgstr ""
+"用、用催眠术操纵王女做坏事，操纵领主掌控政治……\n"
+"还操纵士兵和国民夺取了国家！　呼嘻嘻！"
+
+#. ID 43, Page 2, Line 20, Pos (3,6)
+msgid ""
+"そ、それで、酒池肉林してたら魔王が攻めてきて……\n"
+"女も全部取られちまって……\n"
+"ガクブルしてたんだな！　フヒヒヒヒ！"
+msgstr ""
+"然、然后，正在酒池肉林时魔物之王攻来……\n"
+"女人也全被抢走……吓得发抖了吧！　呼嘻嘻嘻嘻！"
+
+#. ID 43, Page 2, Line 23, Pos (3,6)
+msgid ""
+"で、でもお前が魔王を倒したお陰で、\n"
+"ま、またぼくが天下を取れるんだな！　フヒヒッ！"
+msgstr ""
+"但、但是多亏你打倒了魔物之王，我、\n"
+"我又能夺取天下了！　呼嘻嘻！"
+
+#. ID 43, Page 2, Line 30, Pos (3,6)
+#. Contains choice at line 2 (2 options)
+msgid "＊メルベル第二王女のことを話しますか？"
+msgstr "＊要说出梅尔贝尔第二王女的事吗？"
+
+#. ID 43, Page 2, Line 33, Pos (3,6)
+msgid ""
+"フヒ？\n"
+"メルベル第二王……"
+msgstr "呼嘻？梅尔贝尔第二王……"
+
+#. ID 43, Page 2, Line 41, Pos (3,6)
+msgid ""
+"だだだだだだだだだだ\n"
+"第二王女と申したんだな！？\n"
+"第二王女が怒っているんだな！？"
+msgstr ""
+"您您您您您您您您您您说的是第二王女吧！？\n"
+"第二王女生气了！？"
+
+#. ID 43, Page 2, Line 49, Pos (3,6)
+msgid ""
+"やややややばいんだな！\n"
+"第二王女はぼぼぼ僕のマスターなんだな！"
+msgstr "糟糟糟糟糟糕了！第二王女是是是我的主人啊！"
+
+#. ID 43, Page 2, Line 51, Pos (3,6)
+msgid ""
+"第二王女の命令は\n"
+"「第一王女を操る」だけだったんだな！"
+msgstr "第二王女的命令只是「操纵第一王女」啊！"
+
+#. ID 43, Page 2, Line 58, Pos (3,6)
+msgid ""
+"ただちょっと……第二王女が外遊中に……\n"
+"ちょっと調子に乗って色々催眠してたら……"
+msgstr ""
+"只是稍微……在第二王女外出游玩期间……\n"
+"稍微得意忘形地对各种人施加催眠……"
+
+#. ID 43, Page 2, Line 69, Pos (3,6)
+msgid ""
+"フ……フヒヒ！\n"
+"間違いは、だ、誰にでもあるんだな！\n"
+"すっごく反省してるんだな！"
+msgstr "呼……呼嘻嘻！错、错误谁都会有的！我非常反省啊！"
+
+#. ID 43, Page 2, Line 72, Pos (3,6)
+msgid ""
+"だから第二王女に謝ってくるんだな！\n"
+"正直に謝れば焼き土下座は勘弁してもらえるに\n"
+"違いないんだな！　な！"
+msgstr ""
+"所以要去向第二王女道歉！只要诚心道歉，\n"
+"一定会被原谅免于烤土下座\n"
+"（跪在烧红的铁板上道歉）的！　对吧！"
+
+#. ID 43, Page 2, Line 75, Pos (3,6)
+msgid ""
+"催眠は解いておくから……\n"
+"兵士が頑張って城を奪還したってことに\n"
+"しておくんだな！"
+msgstr "我会解除催眠……就当成士兵努力夺回了城堡吧！"
+
+#. ID 43, Page 2, Line 78, Pos (3,6)
+msgid ""
+"フヒ、フヒヒヒヒ！\n"
+"だ、だから許して逃がして欲しいんだな！\n"
+"それじゃあ、なんだな！"
+msgstr ""
+"呼嘻、呼嘻嘻嘻嘻！所、所以希望你原谅并放我走！\n"
+"那么，就这样吧！"
+
+#. ID 43, Page 2, Line 85, Pos (3,6)
+#. Contains choice at line 2 (3 options)
+msgid "＊許しますか？"
+msgstr "＊要原谅吗？"
+
+#. ID 43, Page 2, Line 86, Pos (3,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"やはり右腕で殴る\n"
+"ここは一思いに左腕で殴る\n"
+"もしかしてオラオラですか――！？"
+msgstr ""
+"果然用右臂打\n"
+"这里干脆用左臂打\n"
+"难道是欧拉欧拉吗——！？"
+
+#. ID 43, Page 2, Line 97, Pos (3,6)
+msgid ""
+"お、お前も女兵士みたいに、\n"
+"に、肉便器にな、なるんだな！\n"
+"フヒヒヒッ！"
+msgstr ""
+"你、你也要像女兵一样，成、成为肉便器吧！\n"
+"呼嘻嘻嘻！"
+
+#. ID 43, Page 2, Line 123, Pos (3,6)
+msgid ""
+"………！　フヒッ！？\n"
+"な、何でなんだな！？　\n"
+"催眠状態にならないんだな！？"
+msgstr ""
+"………！　呼嘻！？为、为什么！？\n"
+"　没有进入催眠状态！？"
+
+#. ID 43, Page 2, Line 130, Pos (3,6)
+msgid ""
+"………そ、それは！\n"
+"「催眠解除薬」！　し、しまったんだな！\n"
+"まずいんだな！　に、にげ……"
+msgstr ""
+"………那、那是！「催眠解除药」！　糟、糟了！不妙！\n"
+"　逃、逃……"
+
+#. ID 43, Page 2, Line 134, Pos (3,6)
+#. Contains choice at line 2 (2 options)
+msgid "シバきますか？"
+msgstr "要揍吗？"
+
+#. ID 43, Page 2, Line 135, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"YES"
+msgstr ""
+"是\n"
+"YES"
+
+#. ID 43, Page 2, Line 152, Pos (3,6)
+msgid "＊催眠状態に置かれていた人々が正気を取り戻した！"
+msgstr "＊被置于催眠状态的人们恢复了神智！"
+
+#. ID 43, Page 2, Line 167, Pos (3,6)
+msgid ""
+"フヒヒ！\n"
+"あなたはだんだんねむくな～る……\n"
+"まぶたがだんだんおもくな～る……　フヒッ！"
+msgstr ""
+"呼嘻嘻！你会渐渐变得困～倦……眼皮渐渐变～重……\n"
+"　呼嘻！"
+
+#. ID 43, Page 2, Line 238, Pos (3,6)
+msgid ""
+"フヒッ……フヒヒヒッ！\n"
+"意識の深い所に落ちてるな……フヒヒッ！"
+msgstr "呼嘻……呼嘻嘻嘻！正落入意识的深处呢……呼嘻嘻！"
+
+#. ID 43, Page 2, Line 240, Pos (3,6)
+msgid "今から命令を仕込んでやるぞ……フヒヒッ！"
+msgstr "现在开始给你植入命令……呼嘻嘻！"
+
+#. ID 43, Page 2, Line 246, Pos (3,6)
+msgid ""
+"フヒヒ……お前は気持ちいいことが好きだよな？\n"
+"人に注目さられると気持ちいいよな？\n"
+"そして、オナニーをすると気持ちいいよな？\n"
+"つまり…人前でオナニーするともっと気持ち良いよな？"
+msgstr ""
+"呼嘻嘻……你喜欢舒服的事吧？被人注目会很舒服吧？\n"
+"然后，自慰会很舒服吧？也就是说…\n"
+"在人前自慰会更舒服吧？"
+
+#. ID 43, Page 2, Line 276, Pos (3,6)
+msgid ""
+"フヒヒヒヒッ！\n"
+"お前も兵舎の女兵士と同じように……\n"
+"オナニー見せ小屋で一生オナニーさせてやる！\n"
+"フヒヒヒッ！"
+msgstr ""
+"呼嘻嘻嘻嘻！你也要像兵营的女兵一样……\n"
+"让在自慰展示小屋里一辈子自慰！呼嘻嘻嘻！"
+
+#. ID 43, Page 2, Line 296, Pos (3,6)
+msgid ""
+"＊\\n[\\v[6]]は……その場を立ち去ると、\n"
+"　ゆっくりとした足取りで兵舎へと向かった。"
+msgstr ""
+"＊\\n[\\v[6]]……离开那个地方后，\n"
+"　以缓慢的步伐走向兵营。"
+
+#. ID 43, Page 2, Line 298, Pos (3,6)
+msgid ""
+"＊兵舎では、操られた女兵士たちが、\n"
+"　魔物の目の前で自慰を強制させられていた。\n"
+"　意思を乗っ取られた女兵士たちは\n"
+"　必死に抵抗するも、身体が言うことを効かない。"
+msgstr ""
+"＊在兵营里，\n"
+"　被操控的女士兵们被迫在魔物面前自慰。\n"
+"　被夺取了意识的女士兵们虽然拼命抵抗，\n"
+"　身体却不听使唤。"
+
+#. ID 43, Page 2, Line 317, Pos (3,6)
+msgid ""
+"＊その後も……\n"
+"　\\n[\\v[6]]は魔物の見世物として、\n"
+"　衰弱して死ぬまで自慰をし続けた……"
+msgstr ""
+"＊那之后也……　\\n[\\v[6]]作为魔物的展品，\n"
+"　一直自慰到衰弱而死……"
+
+#. ID 43, Page 2, Line 348, Pos (3,6)
+msgid ""
+"フヒヒ……お前は美人だな。\n"
+"お前は一生メイド酒場で働くんだな、フヒヒ！"
+msgstr ""
+"呵呵……你是个美人啊。你就在女仆酒馆干一辈子吧，\n"
+"呵呵！"
+
+#. ID 43, Page 2, Line 375, Pos (3,6)
+#. ChangeHeroTitle (Actor 1)
+#. ID 43, Page 2, Line 495, Pos (3,6)
+#. ChangeHeroTitle (Actor 33)
+#. ID 43, Page 2, Line 575, Pos (3,6)
+#. ChangeHeroTitle (Actor 53)
+#. ID 43, Page 2, Line 587, Pos (3,6)
+#. ChangeHeroTitle (Actor 56)
+#. ID 43, Page 2, Line 611, Pos (3,6)
+#. ChangeHeroTitle (Actor 64)
+msgctxt "actors.title"
+msgid "性処理メイド"
+msgstr "性处理女仆"
+
+#. ID 43, Page 2, Line 379, Pos (3,6)
+#. ChangeHeroTitle (Actor 2)
+#. ID 43, Page 2, Line 479, Pos (3,6)
+#. ChangeHeroTitle (Actor 28)
+#. ID 43, Page 2, Line 499, Pos (3,6)
+#. ChangeHeroTitle (Actor 34)
+msgctxt "actors.title"
+msgid "淫乱メイド"
+msgstr "淫乱女仆"
+
+#. ID 43, Page 2, Line 383, Pos (3,6)
+#. ChangeHeroTitle (Actor 3)
+#. ID 43, Page 2, Line 511, Pos (3,6)
+#. ChangeHeroTitle (Actor 37)
+msgctxt "actors.title"
+msgid "肉欲メイド"
+msgstr "肉欲女仆"
+
+#. ID 43, Page 2, Line 387, Pos (3,6)
+#. ChangeHeroTitle (Actor 4)
+#. ID 43, Page 2, Line 507, Pos (3,6)
+#. ChangeHeroTitle (Actor 36)
+msgctxt "actors.title"
+msgid "肉便器メイド"
+msgstr "肉便器女仆"
+
+#. ID 43, Page 2, Line 391, Pos (3,6)
+#. ChangeHeroTitle (Actor 5)
+#. ID 43, Page 2, Line 515, Pos (3,6)
+#. ChangeHeroTitle (Actor 38)
+#. ID 43, Page 2, Line 519, Pos (3,6)
+#. ChangeHeroTitle (Actor 39)
+#. ID 43, Page 2, Line 551, Pos (3,6)
+#. ChangeHeroTitle (Actor 47)
+#. ID 43, Page 2, Line 591, Pos (3,6)
+#. ChangeHeroTitle (Actor 5)
+#. ID 43, Page 2, Line 603, Pos (3,6)
+#. ChangeHeroTitle (Actor 62)
+msgctxt "actors.title"
+msgid "愛玩メイド"
+msgstr "爱玩女仆"
+
+#. ID 43, Page 2, Line 395, Pos (3,6)
+#. ChangeHeroTitle (Actor 6)
+msgctxt "actors.title"
+msgid "慰安メイド"
+msgstr "慰安女仆"
+
+#. ID 43, Page 2, Line 399, Pos (3,6)
+#. ChangeHeroTitle (Actor 7)
+#. ID 43, Page 2, Line 563, Pos (3,6)
+#. ChangeHeroTitle (Actor 50)
+msgctxt "actors.title"
+msgid "スケベメイド"
+msgstr "好色女仆"
+
+#. ID 43, Page 2, Line 403, Pos (3,6)
+#. ChangeHeroTitle (Actor 8)
+#. ID 43, Page 2, Line 531, Pos (3,6)
+#. ChangeHeroTitle (Actor 42)
+msgctxt "actors.title"
+msgid "淫靡メイド"
+msgstr "淫靡女仆"
+
+#. ID 43, Page 2, Line 407, Pos (3,6)
+#. ChangeHeroTitle (Actor 9)
+#. ID 43, Page 2, Line 435, Pos (3,6)
+#. ChangeHeroTitle (Actor 16)
+msgctxt "actors.title"
+msgid "催眠メイド"
+msgstr "催眠女仆"
+
+#. ID 43, Page 2, Line 411, Pos (3,6)
+#. ChangeHeroTitle (Actor 10)
+msgctxt "actors.title"
+msgid "オナホメイド"
+msgstr "飞机杯女仆"
+
+#. ID 43, Page 2, Line 415, Pos (3,6)
+#. ChangeHeroTitle (Actor 11)
+#. ID 43, Page 2, Line 439, Pos (3,6)
+#. ChangeHeroTitle (Actor 17)
+#. ID 43, Page 2, Line 567, Pos (3,6)
+#. ChangeHeroTitle (Actor 51)
+msgctxt "actors.title"
+msgid "露出メイド"
+msgstr "露出女仆"
+
+#. ID 43, Page 2, Line 419, Pos (3,6)
+#. ChangeHeroTitle (Actor 12)
+#. ID 43, Page 2, Line 523, Pos (3,6)
+#. ChangeHeroTitle (Actor 40)
+#. ID 43, Page 2, Line 527, Pos (3,6)
+#. ChangeHeroTitle (Actor 41)
+msgctxt "actors.title"
+msgid "ご奉仕メイド"
+msgstr "侍奉女仆"
+
+#. ID 43, Page 2, Line 423, Pos (3,6)
+#. ChangeHeroTitle (Actor 13)
+#. ID 43, Page 2, Line 427, Pos (3,6)
+#. ChangeHeroTitle (Actor 14)
+#. ID 43, Page 2, Line 443, Pos (3,6)
+#. ChangeHeroTitle (Actor 19)
+#. ID 43, Page 2, Line 595, Pos (3,6)
+#. ChangeHeroTitle (Actor 60)
+msgctxt "actors.title"
+msgid "孕ませメイド"
+msgstr "致孕女仆"
+
+#. ID 43, Page 2, Line 431, Pos (3,6)
+#. ChangeHeroTitle (Actor 15)
+#. ID 43, Page 2, Line 459, Pos (3,6)
+#. ChangeHeroTitle (Actor 23)
+#. ID 43, Page 2, Line 535, Pos (3,6)
+#. ChangeHeroTitle (Actor 43)
+msgctxt "actors.title"
+msgid "家畜メイド"
+msgstr "家畜女仆"
+
+#. ID 43, Page 2, Line 447, Pos (3,6)
+#. ChangeHeroTitle (Actor 20)
+msgctxt "actors.title"
+msgid "孔狂いメイド"
+msgstr "孔狂女仆"
+
+#. ID 43, Page 2, Line 451, Pos (3,6)
+#. ChangeHeroTitle (Actor 21)
+msgctxt "actors.title"
+msgid "苗床メイド"
+msgstr "苗床女仆"
+
+#. ID 43, Page 2, Line 455, Pos (3,6)
+#. ChangeHeroTitle (Actor 22)
+msgctxt "actors.title"
+msgid "調教メイド"
+msgstr "调教女仆"
+
+#. ID 43, Page 2, Line 463, Pos (3,6)
+#. ChangeHeroTitle (Actor 24)
+msgctxt "actors.title"
+msgid "変態メイド"
+msgstr "变态女仆"
+
+#. ID 43, Page 2, Line 467, Pos (3,6)
+#. ChangeHeroTitle (Actor 25)
+msgctxt "actors.title"
+msgid "愛人メイド"
+msgstr "爱人女仆"
+
+#. ID 43, Page 2, Line 471, Pos (3,6)
+#. ChangeHeroTitle (Actor 26)
+msgctxt "actors.title"
+msgid "床侍女"
+msgstr "床侍女"
+
+#. ID 43, Page 2, Line 475, Pos (3,6)
+#. ChangeHeroTitle (Actor 27)
+msgctxt "actors.title"
+msgid "精液メイド"
+msgstr "精液女仆"
+
+#. ID 43, Page 2, Line 483, Pos (3,6)
+#. ChangeHeroTitle (Actor 30)
+#. ID 43, Page 2, Line 571, Pos (3,6)
+#. ChangeHeroTitle (Actor 52)
+msgctxt "actors.title"
+msgid "欲情メイド"
+msgstr "欲情女仆"
+
+#. ID 43, Page 2, Line 487, Pos (3,6)
+#. ChangeHeroTitle (Actor 31)
+msgctxt "actors.title"
+msgid "乳家畜メイド"
+msgstr "乳畜女仆"
+
+#. ID 43, Page 2, Line 491, Pos (3,6)
+#. ChangeHeroTitle (Actor 32)
+msgctxt "actors.title"
+msgid "雌メイド"
+msgstr "雌女仆"
+
+#. ID 43, Page 2, Line 503, Pos (3,6)
+#. ChangeHeroTitle (Actor 35)
+msgctxt "actors.title"
+msgid "性処理侍女"
+msgstr "性处理侍女"
+
+#. ID 43, Page 2, Line 539, Pos (3,6)
+#. ChangeHeroTitle (Actor 44)
+msgctxt "actors.title"
+msgid "ﾂﾝﾃﾞﾚメイド"
+msgstr "傲娇女仆"
+
+#. ID 43, Page 2, Line 543, Pos (3,6)
+#. ChangeHeroTitle (Actor 45)
+msgctxt "actors.title"
+msgid "愛育メイド"
+msgstr "爱育女仆"
+
+#. ID 43, Page 2, Line 547, Pos (3,6)
+#. ChangeHeroTitle (Actor 46)
+#. ID 43, Page 2, Line 555, Pos (3,6)
+#. ChangeHeroTitle (Actor 48)
+#. ID 43, Page 2, Line 583, Pos (3,6)
+#. ChangeHeroTitle (Actor 55)
+#. ID 43, Page 2, Line 607, Pos (3,6)
+#. ChangeHeroTitle (Actor 63)
+msgctxt "actors.title"
+msgid "性隷メイド"
+msgstr "性奴女仆"
+
+#. ID 43, Page 2, Line 559, Pos (3,6)
+#. ChangeHeroTitle (Actor 35)
+msgctxt "actors.title"
+msgid "ご奉仕侍女"
+msgstr "侍奉侍女"
+
+#. ID 43, Page 2, Line 579, Pos (3,6)
+#. ChangeHeroTitle (Actor 54)
+msgctxt "actors.title"
+msgid "特務支援課"
+msgstr "特务支援课"
+
+#. ID 43, Page 2, Line 599, Pos (3,6)
+#. ChangeHeroTitle (Actor 61)
+msgctxt "actors.title"
+msgid "孕み袋"
+msgstr "孕袋"
+
+#. ID 43, Page 2, Line 625, Pos (3,6)
+msgid ""
+"フヒヒ……やっぱり生かしておくと面倒だな。\n"
+"自分で自分の身体をバラバラにしてもらおうか\n"
+"フヒヒヒッ！"
+msgstr ""
+"呵呵……果然留你活着太麻烦了。\n"
+"就让你自己把自己的身体大卸八块吧，呵呵呵呵！"
+
+#. ID 43, Page 2, Line 652, Pos (3,6)
+msgid ""
+"＊\\n[\\v[6]]は、手渡されたナイフを見た。\n"
+"　鋭く輝く刃が鏡のように、\n"
+"　\\n[\\v[6]]の顔を映していた。"
+msgstr ""
+"＊\\n[\\v[6]]看着递过来的刀。\n"
+"　锋利闪亮的刀刃像镜子一样，\n"
+"　映出了\\n[\\v[6]]的脸。"
+
+#. ID 43, Page 2, Line 661, Pos (3,6)
+msgid ""
+"＊そして次の瞬間、\n"
+"　\\n[\\v[6]]の手が勝手に、そのナイフを\n"
+"　自分の腹部へと突き刺した。"
+msgstr ""
+"＊然后下一瞬间，\n"
+"　\\n[\\v[6]]的手擅自将那把刀　刺进了自己的腹部\n"
+"　。"
+
+#. ID 43, Page 2, Line 682, Pos (3,6)
+msgid "\\n[102]が…ぁ…ッ！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]唔…啊…！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 686, Pos (3,6)
+msgid "\\n[102]ぎあ――――ッ\\n[103]\\n[104]\\^"
+msgstr "\\n[102]嘎啊――――！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 690, Pos (3,6)
+msgid "\\n[102]きゃぁあぁ――っ\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呀啊啊――！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 694, Pos (3,6)
+msgid "\\n[102]ぎぃぃ…ッ\\n[103]\\n[104]\\^"
+msgstr "\\n[102]叽咿咿…！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 698, Pos (3,6)
+msgid "\\n[102]うがぁああッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呜嘎啊啊！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 702, Pos (3,6)
+msgid "\\n[102]ぐぁああぁあぁぁ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕啊啊啊啊啊！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 706, Pos (3,6)
+msgid "\\n[102]や……め……ッ！　ぎぃぃ……！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]住……手……！　叽咿咿……！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 710, Pos (3,6)
+msgid "\\n[102]………狂ぅ…助け……！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]………疯…救……！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 714, Pos (3,6)
+msgid "\\n[102]がへぇええッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]嘎嘿诶诶！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 718, Pos (3,6)
+msgid "\\n[102]ごうぅぅううっ！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]嗷呜呜呜！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 722, Pos (3,6)
+msgid "\\n[102]あ、あぁあああぅ……っ\\n[103]\\n[104]\\^"
+msgstr "\\n[102]啊、啊啊啊啊呜……！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 726, Pos (3,6)
+msgid "\\n[102]ぐぁ……ぁ……\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕啊……啊……\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 730, Pos (3,6)
+msgid "\\n[102]ぎ……ひ…っ…\\n[103]\\n[104]\\^"
+msgstr "\\n[102]叽……咿…！…\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 734, Pos (3,6)
+msgid "\\n[102]がぁ……ぁ………\\n[103]\\n[104]\\^"
+msgstr "\\n[102]嘎啊……啊………\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 738, Pos (3,6)
+msgid "\\n[102]ぎゃぶッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]叽呀噗！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 742, Pos (3,6)
+msgid "\\n[102]ひ……ひぎゃ……ッ！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咿……咿呀……！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 746, Pos (3,6)
+msgid "\\n[102]ごぶぅううぅうッ！！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕噗呜呜呜！！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 750, Pos (3,6)
+msgid "\\n[102]げ、ぁ、ぁ、あ゛、あ゛！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]呃、啊、啊、啊゛、啊゛！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 754, Pos (3,6)
+msgid "\\n[102]ひぎゃぁああぁ！！！！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咿呀啊啊啊啊！！！！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 758, Pos (3,6)
+msgid "\\n[102]あぎッ！！　ぎ、ぐ、……\\n[103]\\n[104]\\^"
+msgstr "\\n[102]啊叽！！　叽、咕、……\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 762, Pos (3,6)
+msgid ""
+"\\n[102]う、ぐぅっ………痛…いぃ…\\n[103]\n"
+"\\n[102]…苦…しい…よ………\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]呜、咕………好痛…啊…\\n[103]\\n[102]…好难受…\n"
+"啊………\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 767, Pos (3,6)
+msgid "\\n[102]ぐがあァあぁッ！！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕啊啊啊啊啊！！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 771, Pos (3,6)
+msgid "\\n[102]痛いぃぃいいぃ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]好痛啊啊啊啊！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 775, Pos (3,6)
+msgid "\\n[102]ひぃいいぃい！！いやぁあああぁ！！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]咿咿咿咿！！不要啊啊啊啊！！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 779, Pos (3,6)
+msgid "\\n[102]ひ、ひっ！　ひやぁあ゛あ゛ぁああ！！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]咿、咿！　咿呀啊゛啊゛啊啊啊！！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 783, Pos (3,6)
+msgid ""
+"\\n[102]うああぁあああっ！　\\n[103]\n"
+"\\n[102]うぁああぁぁぁあああぁ！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]呜啊啊啊啊啊！\n"
+"　\\n[103]\\n[102]呜啊啊啊啊啊啊啊啊啊！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 788, Pos (3,6)
+msgid "\\n[102]う……うわぁあぁあぁあああっ！！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]呜……呜哇啊啊啊啊啊啊啊！！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 792, Pos (3,6)
+msgid "\\n[102]……いやだ…やだぁぁ……\\n[103]\\n[104]\\^"
+msgstr "\\n[102]……不要…不要啊……\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 796, Pos (3,6)
+msgid ""
+"\\n[102]ひ…やぁぁッ！ダメッ…やめてぇッ！\\n[103]\n"
+"\\n[102]死ヌっ！死んじゃうぅ…っ！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]咿…呀啊！不行…住手啊！\n"
+"\\n[103]\\n[102]要死了！我要死了…！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 801, Pos (3,6)
+msgid "\\n[102]ま…だ……終わら……ない…の…\\n[103]\\n[104]\\^"
+msgstr "\\n[102]还…没……结束……吗…\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 805, Pos (3,6)
+msgid ""
+"\\n[102]死んじゃうっ死んじゃうぅっ！！\\n[103]\n"
+"\\n[102]ひぎゃああああああああぁぁぁっっ！！！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]要死了要死了！！\n"
+"\\n[103]\\n[102]咿呀啊啊啊啊啊啊啊啊啊啊啊！！！\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 810, Pos (3,6)
+msgid "\\n[102]も……もう……ダメ…………\\n[103]\\n[104]\\^"
+msgstr "\\n[102]已……已经……不行了…………\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 814, Pos (3,6)
+msgid "\\n[102]うぎぃぃ……！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呜叽咿咿……！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 818, Pos (3,6)
+msgid "\\n[102]ぁあ゛ぁあ゛ぁ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]啊゛啊゛啊！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 822, Pos (3,6)
+msgid "\\n[102]うぶぉぇええぇッッ！！？\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呜噗呕诶诶诶！！？\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 826, Pos (3,6)
+msgid "\\n[102]ぼぇえええっっッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]噗诶诶诶诶！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 830, Pos (3,6)
+msgid ""
+"\\n[102]あぐうぅぅっっ！！！\\n[103]\n"
+"\\n[102]た、たずげてぇぇっ！\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]啊咕呜呜！！！\\n[103]\\n[102]救、\n"
+"救救我啊！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 835, Pos (3,6)
+msgid "\\n[102]ぐぎぃぃぃ……！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]咕叽叽叽……！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 839, Pos (3,6)
+msgid "\\n[102]うぉげぇええッ！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]呜哦呃诶诶！！\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 843, Pos (3,6)
+msgid "\\n[102]もうっ……ゆる…して…\\n[103]\\n[104]\\^"
+msgstr "\\n[102]不行了……饶…了我…\\n[103]\\n[104]\\^"
+
+#. ID 43, Page 2, Line 853, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"………"
+msgstr ""
+"\\S[2]\n"
+"………"
+
+#. ID 43, Page 2, Line 855, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"＊……\\n[\\v[6]]は、すでに視るも無残な肉の塊と\n"
+"　化していた。"
+msgstr "\\S[2]＊……\\n[\\v[6]]已经化作了惨不忍睹的肉块。"
+
+#. ID 43, Page 2, Line 858, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"＊腹部を切り裂いた\\n[\\v[6]]の手が、\n"
+"　そのまま内部の腸を引き千切り、外へとぶちまける。"
+msgstr ""
+"\\S[2]＊切开腹部后，\n"
+"\\n[\\v[6]]的手就那样将内部的肠子扯碎，\n"
+"　向外泼洒出来。"
+
+#. ID 43, Page 2, Line 861, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"＊小腸を手で千切り、大腸を握りつぶし、\n"
+"　子宮にナイフを突き立て、腎臓を抉る。\n"
+"　採り出した膵臓を\\n[\\v[6]]の口へ押し込む。"
+msgstr ""
+"\\S[2]＊用手扯碎小肠，捏烂大肠，\n"
+"　将刀刺入子宫，剜出肾脏。\n"
+"　将取出的胰脏塞进\\n[\\v[6]]的嘴里。"
+
+#. ID 43, Page 2, Line 865, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"＊そして、魚を捌くように、\n"
+"　\\n[\\v[6]]の手はナイフを上へと切り上げ、\n"
+"　縦に大きく切り込みを入れた。"
+msgstr ""
+"\\S[2]＊然后，就像处理鱼一样，\n"
+"　\\n[\\v[6]]的手将刀向上挑起，\n"
+"　纵向划开了一道大口子。"
+
+#. ID 43, Page 2, Line 869, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"＊しかし、激痛を感じても意識を失うこともできない。\n"
+"　強力な催眠術が理性を常に保たせ、\n"
+"　それ故に苦痛を最後まで味わうことになった。"
+msgstr ""
+"\\S[2]＊但是，即使感到剧痛也无法失去意识。\n"
+"　强力的催眠术让她始终保持理性，\n"
+"　因此她只得将痛苦品味到最后。"
+
+#. ID 43, Page 2, Line 879, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"＊ナイフが、\\n[\\v[6]]の胸に突き刺さった。"
+msgstr "\\S[2]＊刀，刺进了\\n[\\v[6]]的胸口。"
+
+#. ID 43, Page 2, Line 881, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"＊\\n[\\v[6]]の乳房を抉り、それを斬り捨てると、\n"
+"　さらにナイフを奥へと突きさし……\n"
+"　\\n[\\v[6]]の心臓へと、抉るようにして力を込めた。"
+msgstr ""
+"\\S[2]＊\\n[\\v[6]]的乳房被剜出，将其斩下丢弃后，\n"
+"　又把刀向更深处刺去……　向\\n[\\v[6]]的心脏，\n"
+"　像要剜出一般用力。"
+
+#. ID 43, Page 2, Line 888, Pos (3,6)
+msgid "＊血が噴き出す。"
+msgstr "＊鲜血喷涌而出。"
+
+#. ID 43, Page 2, Line 889, Pos (3,6)
+msgid "＊命が失われるのを感じる。"
+msgstr "＊感觉到生命正在消逝。"
+
+#. ID 43, Page 2, Line 916, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"＊\\n[\\v[6]]の手が、胸から心臓を抜き取った。\n"
+"　そして……その手が心臓を目の前で握りつぶし、\n"
+"　意識が一瞬で赤く塗りつぶされた。"
+msgstr ""
+"\\S[2]＊\\n[\\v[6]]的手从胸口取出了心脏。　然后……\n"
+"那只手在眼前将心脏捏碎，\n"
+"　意识在一瞬间被涂成一片鲜红。"
+
+#. ID 43, Page 2, Line 920, Pos (3,6)
+msgid ""
+"\\S[2]\n"
+"………\n"
+"……\n"
+"…"
+msgstr ""
+"\\S[2]\n"
+"………\n"
+"……\n"
+"…"
+
+#. ID 44, Page 2, Line 3, Pos (2,6)
+msgid ""
+"ああ……○リーパーさまぁ……\\c[11]$k$k$k$k$k\\c[0]\n"
+"わたくしにも○リーパーさまの寵愛をくださいましぃ…"
+msgstr ""
+"啊啊……○收割者大人……\n"
+"\\c[11]$k$k$k$k$k\\c[0]也请赐予我○收割者大人的宠\n"
+"爱吧……"

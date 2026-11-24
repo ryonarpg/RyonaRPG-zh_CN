@@ -1,0 +1,46 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 199, Pos (0,11)
+msgid ""
+"おめでとうございます！\n"
+"\\v[251]コインを獲得です！！"
+msgstr "恭喜您！\\v[251]获得硬币！！"
+
+#. ID 1, Page 1, Line 209, Pos (0,11)
+#. ID 1, Page 1, Line 215, Pos (0,11)
+msgid "\\v[251]コインを獲得！！"
+msgstr "\\v[251]获得硬币！！"
+
+#. ID 1, Page 1, Line 220, Pos (0,11)
+msgid "\\v[251]コインを獲得！"
+msgstr "\\v[251]获得硬币！"
+
+#. ID 1, Page 1, Line 241, Pos (0,11)
+#. Contains choice at line 2 (2 options)
+msgid "\\>スロットを続けますか？"
+msgstr "\\>要继续老虎机吗？"
+
+#. ID 1, Page 1, Line 242, Pos (0,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>続ける\n"
+"\\>やめる"
+msgstr ""
+"\\>继续\n"
+"\\>停止"
+
+#. ID 1, Page 5, Line 27, Pos (0,11)
+msgid "コインが足りないようだ……"
+msgstr "硬币好像不够了……"

@@ -1,0 +1,115 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (2,10)
+msgid ""
+"ここの隊長、\n"
+"デッカイ銃を両手に持って撃ちまくるもんだから、\n"
+"わたし達の出番があんまりないの。"
+msgstr ""
+"这里的队长双手拿着巨大的枪乱射一通，\n"
+"所以我们都没什么出场机会呢。"
+
+#. ID 4, Page 1, Line 3, Pos (4,5)
+msgid "赤い鎧ってのもいいもんだな。"
+msgstr "红色铠甲也挺不错的啊。"
+
+#. ID 5, Page 1, Line 3, Pos (10,3)
+msgid ""
+"隣の部屋の忍者達、\n"
+"ふざけた連中に見えるけど、\n"
+"実はかなりの実力者なの。"
+msgstr ""
+"隔壁房间的忍者们看起来像一群胡闹的家伙，\n"
+"但其实相当有实力呢。"
+
+#. ID 5, Page 1, Line 6, Pos (10,3)
+msgid ""
+"口に巻物加えて、魔法をバンバン撃つもんだから、\n"
+"下手なメイジよりも火力があったりするよ。"
+msgstr ""
+"嘴里叼着卷轴，砰砰地放魔法，\n"
+"所以有时火力比蹩脚的法师还高哦。"
+
+#. ID 6, Page 1, Line 3, Pos (4,15)
+msgid ""
+"ここは兵舎だよ。\n"
+"入るのは構わないけど、\n"
+"物を壊さないように気をつけてね。"
+msgstr ""
+"这里是兵营哦。进来没关系，\n"
+"但要注意不要弄坏东西。"
+
+#. ID 7, Page 1, Line 4, Pos (16,4)
+msgid "忍者は常に、色んな道具を携帯しているでござる。"
+msgstr "忍者总是随身携带各种道具是也。"
+
+#. ID 7, Page 1, Line 5, Pos (16,4)
+msgid ""
+"上手く使いこなせば、\n"
+"戦況をひっくり返す事も出来るでござるよ。"
+msgstr "如果能熟练运用，也能扭转战况是也。"
+
+#. ID 7, Page 1, Line 7, Pos (16,4)
+msgid "む、これがほしいでござるか？"
+msgstr "唔，你想要这个吗？"
+
+#. ID 7, Page 1, Line 8, Pos (16,4)
+msgid ""
+"そうでござるなぁ。\n"
+"\\C[2]チェーンフレイル\\C[0]を譲ってくれたら、\n"
+"売ってやっても良いでござるよ。"
+msgstr ""
+"嗯，是啊。如果你愿意把\\C[2]链枷\\C[0]让给我，\n"
+"卖给你也可以哦。"
+
+#. ID 7, Page 1, Line 16, Pos (16,4)
+msgid "\\C[2]チェーンフレイル\\C[0]を持ってきたでござるか？"
+msgstr "你把\\C[2]链枷\\C[0]带来了吗？"
+
+#. ID 7, Page 1, Line 17, Pos (16,4)
+#. Contains choice at line 2 (2 options)
+msgid "チェーンフレイルを渡しますか？"
+msgstr "要交出链枷吗？"
+
+#. ID 7, Page 1, Line 18, Pos (16,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 7, Page 1, Line 27, Pos (16,4)
+msgid "チェーンフレイルを渡した。"
+msgstr "交出了链枷。"
+
+#. ID 7, Page 1, Line 29, Pos (16,4)
+msgid ""
+"うおお！\n"
+"かたじけない！"
+msgstr "哦哦！感激不尽！"
+
+#. ID 7, Page 1, Line 33, Pos (16,4)
+msgid "チェーンフレイルを持っていない。"
+msgstr "没有链枷。"
+
+#. ID 7, Page 1, Line 44, Pos (16,4)
+msgid "これが、忍者強さの秘訣でござる。"
+msgstr "这就是忍者强大的秘诀。"
+
+#. ID 7, Page 1, Line 46, Pos (16,4)
+msgid "また来るでござる。"
+msgstr "我还会再来的。"

@@ -1,0 +1,83 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 10, Page 1, Line 3, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+msgid "スゴロクに挑戦しますか？"
+msgstr "要挑战双六吗？"
+
+#. ID 10, Page 1, Line 7, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 10, Page 1, Line 21, Pos (10,6)
+msgid ""
+"まだ中身ができていません。\n"
+"誰か、ガンバテ……。"
+msgstr "内容还没有做好。谁来，加把劲啊……。"
+
+#. ID 12, Page 1, Line 3, Pos (17,3)
+msgid "スゴロクで敗れた女性が犯されている……"
+msgstr "在双六中落败的女性正被侵犯……"
+
+#. ID 13, Page 1, Line 3, Pos (3,3)
+msgid "スゴロクに挑戦している男が映っている。"
+msgstr "画面中映着正在挑战双六的男人。"
+
+#. ID 14, Page 1, Line 3, Pos (18,8)
+msgid "誰か上級コースをやってくれないかな……"
+msgstr "谁能来做做高级路线啊……"
+
+#. ID 15, Page 1, Line 3, Pos (16,12)
+msgid ""
+"進む先が悪い目だと知ってても逃げられない分、\n"
+"下手なギャンブルより残酷な気がするぜ。"
+msgstr ""
+"明知前方是坏点数却逃不掉，\n"
+"这一点让我觉得比拙劣的赌博更残酷啊。"
+
+#. ID 17, Page 1, Line 3, Pos (17,6)
+msgid "悪いマス目に止まった時のおなごの顔がたまらんよ"
+msgstr "停在坏格子上时女人的那张脸真是让人受不了啊。"
+
+#. ID 18, Page 1, Line 3, Pos (16,6)
+msgid ""
+"テーマパークができたと聞いたので\n"
+"遊びにきたのですが、なかなか面白い\n"
+"見せ物ですね。"
+msgstr ""
+"听说主题公园建成了，所以就过来玩了，\n"
+"不过真是相当有趣的表演呢。"
+
+#. ID 18, Page 1, Line 7, Pos (16,6)
+msgid "もっとも、参加したいとは思いませんが……"
+msgstr "不过，我倒是并不想参加……"
+
+#. ID 19, Page 1, Line 3, Pos (2,6)
+msgid "見ててドキドキしちゃう。"
+msgstr "看着就让人心跳加速。"
+
+#. ID 20, Page 1, Line 3, Pos (4,8)
+msgid ""
+"さっきスゴロクに挑戦してたお兄ちゃん、\n"
+"上から落ちてきた岩に潰されてペチャンコ\n"
+"になってたよ。"
+msgstr ""
+"刚才挑战双六的那个小哥，\n"
+"被从上面落下来的岩石压扁，变得扁扁的了哦。"

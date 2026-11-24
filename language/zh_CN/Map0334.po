@@ -1,0 +1,112 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 44, Page 2, Line 5, Pos (21,10)
+msgid "＊研究員の資料のようだ"
+msgstr "＊像是研究员的资料"
+
+#. ID 44, Page 2, Line 10, Pos (21,10)
+msgid ""
+"＊アバロソからの兼ねてよりの要望であった\n"
+"　女性奴隷の無力化の案件について"
+msgstr ""
+"＊关于阿瓦罗索此前一直提出的要求　女性奴隶无力\n"
+"　化的案件"
+
+#. ID 44, Page 2, Line 12, Pos (21,10)
+msgid ""
+"＊女性の奴隷を大人しくさせるために\n"
+"　不必要な負傷や薬物投与を抑える代替案として\n"
+"　性感帯への断続的な刺激を与える案を採用した"
+msgstr ""
+"＊为了让女性奴隶变得温顺\n"
+"　作为抑制不必要负伤与药物投喂的替代方案\n"
+"　采用了给予性感带断续刺激的方案"
+
+#. ID 44, Page 2, Line 15, Pos (21,10)
+msgid "＊スライムに金属部品を組み込……"
+msgstr "＊将金属零件组装进史莱姆……"
+
+#. ID 44, Page 2, Line 20, Pos (21,10)
+msgid "＊……後は、文字が掠れて読めない。"
+msgstr "＊……之后的部分，文字模糊不清，无法阅读。"
+
+#. ID 45, Page 2, Line 5, Pos (9,24)
+msgid "＊研究員の日記のようだ"
+msgstr "＊像是研究员的日记"
+
+#. ID 45, Page 2, Line 10, Pos (9,24)
+msgid "＊１ページ目"
+msgstr "＊第1页"
+
+#. ID 45, Page 2, Line 11, Pos (9,24)
+msgid ""
+"＊実験を繰り返した身体が重い\n"
+"　病とも無縁の身体であるのに妙な話だ"
+msgstr ""
+"＊反复进行实验，\n"
+"　身体很沉重　明明是与此类疾病无缘的身体，\n"
+"真是怪事"
+
+#. ID 45, Page 2, Line 13, Pos (9,24)
+msgid ""
+"＊研究所の外に出ようとしたら警備に止められた\n"
+"　アバロソから、研究員を外に出すな、と\n"
+"　きついお達しがあったようだ"
+msgstr ""
+"＊想走出研究所时被警卫拦住了　似乎是阿瓦罗索下\n"
+"　达了严厉通知，不许让研究员外出"
+
+#. ID 45, Page 2, Line 20, Pos (9,24)
+msgid "＊２ページ目"
+msgstr "＊第2页"
+
+#. ID 45, Page 2, Line 21, Pos (9,24)
+msgid ""
+"＊外に出られない日々が続いている\n"
+"　研究は捗っているが、そのせいか物資が足りない\n"
+"　最近、供給が滞っている"
+msgstr ""
+"＊无法外出的日子持续着　研究虽然进展顺利，\n"
+"　但也许因为如此物资不足　最近，供应停滞了"
+
+#. ID 45, Page 2, Line 28, Pos (9,24)
+msgid "＊３ページ目"
+msgstr "＊第3页"
+
+#. ID 45, Page 2, Line 29, Pos (9,24)
+msgid "＊手紙すら出せないとは、一体なんの冗談だ"
+msgstr "＊连信都寄不出去，这到底算什么玩笑"
+
+#. ID 45, Page 2, Line 34, Pos (9,24)
+msgid "＊４ページ目"
+msgstr "＊第4页"
+
+#. ID 45, Page 2, Line 35, Pos (9,24)
+msgid ""
+"＊出入り口が封鎖された\n"
+"　我々を外に出さないつもりだと思ったら\n"
+"　そんな生半可な話ではなかった"
+msgstr ""
+"＊出入口被封锁了　原以为是不打算让我们出去　但\n"
+"　事情并没有那么简单"
+
+#. ID 45, Page 2, Line 38, Pos (9,24)
+msgid ""
+"＊この研究所を……いや、研究の結果生まれた\n"
+"　我々の存在を無かったことにしたいのだ"
+msgstr ""
+"＊想把这个研究所……不，\n"
+"　想把作为研究结果诞生的\n"
+"　我们这些存在当作从未有过。"

@@ -1,0 +1,58 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 14, Page 6, Line 144, Pos (19,0)
+msgid "\\n[\\v[6]]はモンスターの繭にされてしまった・・・"
+msgstr "\\n[\\v[6]]被变成了怪物的茧……"
+
+#. ID 14, Page 6, Line 168, Pos (19,0)
+#. Contains choice at line 2 (2 options)
+msgid "イベントをスキップしますか？"
+msgstr "要跳过事件吗？"
+
+#. ID 14, Page 6, Line 169, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 2, Line 7, Pos (9,5)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 3, Line 4, Pos (9,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 15, Page 2, Line 3, Pos (9,5)
+msgid "ﾋﾗﾋﾗ"
+msgstr "翩翩飞舞"
+
+#. ID 15, Page 2, Line 4, Pos (9,5)
+msgid ""
+"＊どうやら、\n"
+"　この蝶が地上へ案内してくれるようだ。"
+msgstr "＊看来，　这只蝴蝶似乎会引导我到地上。"
+
+#. ID 15, Page 2, Line 6, Pos (9,5)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 3, Line 3, Pos (9,5)
+#. Contains choice at line 2 (2 options)
+msgid "地上に戻りますか？"
+msgstr "要回到地上吗？"
+
+#. ID 16, Page 3, Line 17, Pos (10,5)
+msgid ""
+"くさりがまを装備して\n"
+"\\C[2]草\\C[0]を攻撃すると破壊できる。"
+msgstr "装备锁镰后攻击\\C[2]草\\C[0]就能将其破坏。"

@@ -1,0 +1,304 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 2, Line 257, Pos (15,0)
+#. ID 3, Page 2, Line 104, Pos (16,0)
+#. ID 3, Page 2, Line 197, Pos (16,0)
+#. ID 4, Page 3, Line 142, Pos (17,0)
+#. ID 7, Page 2, Line 257, Pos (15,1)
+#. ID 13, Page 3, Line 8, Pos (23,0)
+msgid "………？"
+msgstr "………？"
+
+#. ID 2, Page 2, Line 258, Pos (15,0)
+#. ID 3, Page 2, Line 105, Pos (16,0)
+#. ID 3, Page 2, Line 198, Pos (16,0)
+#. ID 4, Page 3, Line 143, Pos (17,0)
+#. ID 7, Page 2, Line 258, Pos (15,1)
+#. ID 13, Page 3, Line 9, Pos (23,0)
+#. ID 13, Page 3, Line 36, Pos (23,0)
+msgid ""
+"………\n"
+"\\.\\.………！！"
+msgstr ""
+"………\n"
+"\\.\\.………！！"
+
+#. ID 2, Page 2, Line 272, Pos (15,0)
+#. ID 7, Page 2, Line 272, Pos (15,1)
+msgid ""
+"スライムは\\n[\\v[6]]の腸内に\n"
+"粘菌型寄生虫を送り込んだ！！"
+msgstr ""
+"史莱姆将黏菌型寄生虫送入了\\n[\\v[6]]的肠道内！\n"
+"！"
+
+#. ID 2, Page 2, Line 281, Pos (15,0)
+#. ID 3, Page 2, Line 125, Pos (16,0)
+#. ID 3, Page 2, Line 218, Pos (16,0)
+#. ID 4, Page 3, Line 166, Pos (17,0)
+#. ID 7, Page 2, Line 281, Pos (15,1)
+#. ID 13, Page 3, Line 28, Pos (23,0)
+#. ID 13, Page 3, Line 55, Pos (23,0)
+msgid "\\n[\\v[6]]は寄生されてしまった！"
+msgstr "\\n[\\v[6]]被寄生了！"
+
+#. ID 2, Page 2, Line 289, Pos (15,0)
+#. ID 4, Page 3, Line 174, Pos (17,0)
+#. ID 7, Page 2, Line 289, Pos (15,1)
+msgid "\\n[\\v[6]]は新たな寄生虫を宿してしまった！"
+msgstr "\\n[\\v[6]]寄宿了新的寄生虫！"
+
+#. ID 2, Page 2, Line 322, Pos (15,0)
+#. ID 7, Page 2, Line 322, Pos (15,1)
+msgid "\\n[\\v[6]]は\\N[101]\\N[102]\\N[103]\\N[104]を奪われた！"
+msgstr ""
+"\\n[\\v[6]]被夺走了\\N[101]\\N[102]\\N[103]\\N[104]\n"
+"！"
+
+#. ID 2, Page 2, Line 325, Pos (15,0)
+#. ID 7, Page 2, Line 325, Pos (15,1)
+msgid "\\n[\\v[6]]は\\N[101]\\N[102]\\N[103]\\N[104]を脱がされた！"
+msgstr ""
+"\\n[\\v[6]]被脱掉了\\N[101]\\N[102]\\N[103]\\N[104]\n"
+"！"
+
+#. ID 3, Page 2, Line 117, Pos (16,0)
+#. ID 3, Page 2, Line 210, Pos (16,0)
+msgid ""
+"敵の責めに混じり何かが\\n[\\v[6]]の\n"
+"尿道へ侵入した！"
+msgstr "敌人的责弄中混杂着某物侵入了\\n[\\v[6]]的尿道！"
+
+#. ID 4, Page 3, Line 94, Pos (17,0)
+msgid ""
+"\\n[102]こ、これ以上……は、だ…駄目…ッ…！\\n[103]\n"
+"\\n[102]私…っ、初…めて……なの…に…\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]这、再这样下去……不、不行…啊…！\n"
+"\\n[103]\\n[102]我…、第一次……明明…\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 4, Page 3, Line 103, Pos (17,0)
+msgid ""
+"\\n[102]や…あっ……そ、そこは……っ…！\\n[103]\n"
+"\\n[102]お、おしりの…穴…に…入って……\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]呀…啊……那、那里是……唔…！\n"
+"\\n[103]\\n[102]进、进到…屁股的…洞…里…去了……\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 4, Page 3, Line 157, Pos (17,0)
+msgid ""
+"注がれる敵の体液に混じり\n"
+"何かが\\n[\\v[6]]の腸へ侵入した！！"
+msgstr ""
+"被注入的敌人体液中混杂着某物侵入了\\n[\\v[6]]的\n"
+"肠道！！"
+
+#. ID 13, Page 3, Line 20, Pos (23,0)
+msgid ""
+"下水の中の何かが\\n[\\v[6]]の肛門に張り付き、\n"
+"腸内に侵入した！"
+msgstr ""
+"下水道里的某物贴附在\\n[\\v[6]]的肛门上，\n"
+"侵入了肠道内！"
+
+#. ID 13, Page 3, Line 47, Pos (23,0)
+msgid ""
+"下水の中から新たな寄生虫が\\n[\\v[6]]の\n"
+"腸内へ潜り込む！"
+msgstr "从下水道中新的寄生虫潜入了\\n[\\v[6]]的肠道内！"
+
+#. ID 13, Page 3, Line 76, Pos (23,0)
+#. ID 13, Page 3, Line 99, Pos (23,0)
+msgid "………"
+msgstr "………"
+
+#. ID 13, Page 3, Line 77, Pos (23,0)
+msgid ""
+"…気分がすぐれない。\\!\n"
+"どうやらウィルスが傷口から感染してしまったようだ。"
+msgstr "…感觉不舒服。\\!看来病毒已经从伤口感染了。"
+
+#. ID 13, Page 3, Line 100, Pos (23,0)
+msgid ""
+"…体が熱い。\\!\n"
+"どうやらウィルスが傷口から感染してしまったようだ。"
+msgstr "…身体发热。\\!看来病毒已经从伤口感染了。"
+
+#. ID 25, Page 4, Line 16, Pos (18,39)
+msgid "…扉はロックされているようだ"
+msgstr "…门好像被锁住了"
+
+#. ID 26, Page 2, Line 4, Pos (17,39)
+#. ID 27, Page 2, Line 7, Pos (17,38)
+msgid "施錠 ヲ シマス"
+msgstr "进 行 上 锁"
+
+#. ID 26, Page 2, Line 16, Pos (17,39)
+msgid "トビラ ヲ ヒラキマス"
+msgstr "打 开 门"
+
+#. ID 26, Page 2, Line 25, Pos (17,39)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 3.00"
+msgstr ""
+"卡钥匙 的 版本 请提升当前的 版本 　　\\v[1102].\n"
+"00解锁 所 需 的 版本 3.00"
+
+#. ID 26, Page 2, Line 37, Pos (17,39)
+msgid "カードキー ヲ イレテクダサイ"
+msgstr "请 插 入 卡钥匙"
+
+#. ID 48, Page 2, Line 3, Pos (13,34)
+#. ID 48, Page 3, Line 3, Pos (13,34)
+msgid "\\n[\\v[6]]は本棚を調べた"
+msgstr "\\n[\\v[6]]调查了书架"
+
+#. ID 48, Page 2, Line 4, Pos (13,34)
+#. ID 48, Page 3, Line 4, Pos (13,34)
+msgid "すると、日誌を見つけた。"
+msgstr "于是，发现了一本日志。"
+
+#. ID 48, Page 2, Line 5, Pos (13,34)
+#. Contains choice at line 2 (2 options)
+#. ID 48, Page 3, Line 5, Pos (13,34)
+#. Contains choice at line 2 (2 options)
+#. ID 49, Page 2, Line 49, Pos (12,39)
+#. Contains choice at line 2 (2 options)
+msgid "どうする？"
+msgstr "要怎么做？"
+
+#. ID 48, Page 2, Line 6, Pos (13,34)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 3, Line 6, Pos (13,34)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"読む\n"
+"やめる"
+msgstr ""
+"阅读\n"
+"作罢"
+
+#. ID 48, Page 2, Line 10, Pos (13,34)
+#. ID 48, Page 3, Line 10, Pos (13,34)
+msgid ""
+"○月×日。\n"
+"上からの命令でここの端末にパスワード制限がかかった。\\!\n"
+"無断でカードのバージョンを上げるのを防ぐためらしい\n"
+"めんどうだなぁ…"
+msgstr ""
+"○月×日。因为上面的命令，\n"
+"这里的终端被设置了密码限制。\n"
+"\\!据说是为了防止擅自提升卡的版本，真麻烦啊…"
+
+#. ID 48, Page 2, Line 14, Pos (13,34)
+#. ID 48, Page 3, Line 14, Pos (13,34)
+msgid ""
+"パスを忘れないようメモを取ったが、いきなり\n"
+"なくしてしまった……！\\!\n"
+"落とすとしたらここの階のどこかだろうけど\\!\n"
+"しまった！なくしてしまった！\\.ってかｗｗｗｗｗ"
+msgstr ""
+"为了不忘记密码做了笔记，但突然就弄丢了……！\n"
+"\\!如果弄掉的话应该在这层楼的某处吧，\n"
+"可是\\!糟了！弄丢了！\\.话说回来wwwww"
+
+#. ID 48, Page 2, Line 18, Pos (13,34)
+#. ID 48, Page 3, Line 18, Pos (13,34)
+msgid ""
+"まあ、パスは覚えてるし、知らない人が見たら\n"
+"ただの紙切れのようなものだし…まいっか。"
+msgstr ""
+"嘛，密码我记得，\n"
+"不认识的人看到也只是一张废纸一样的东西…\n"
+"算了吧。"
+
+#. ID 49, Page 2, Line 4, Pos (12,39)
+msgid "カードキーを持っていない！"
+msgstr "没有卡钥匙！"
+
+#. ID 49, Page 2, Line 10, Pos (12,39)
+msgid "もうここには用はない"
+msgstr "这里已经没别的事了"
+
+#. ID 49, Page 2, Line 16, Pos (12,39)
+msgid ""
+"アクセスができない状態になっている。\\!\n"
+"しばらく時間を置くしかなさそうだ。"
+msgstr ""
+"处于无法访问的状态。\n"
+"\\!看来只能暂时等一段时间了。"
+
+#. ID 49, Page 2, Line 26, Pos (12,39)
+msgid "紙に書かれたパスワードを入力した。"
+msgstr "输入了写在纸上的密码。"
+
+#. ID 49, Page 2, Line 33, Pos (12,39)
+#. ID 49, Page 2, Line 77, Pos (12,39)
+msgid ""
+"ぱすわーどノ 入力ニ 成功シマシタ。\\!\n"
+"ばーじょん ノ あっぷぐれーど ヲ 開始シマス。"
+msgstr "密码 输入 成功。\\!开始 版本 升级。"
+
+#. ID 49, Page 2, Line 42, Pos (12,39)
+msgid "……どうやら成功したようだ。"
+msgstr "……看来成功了。"
+
+#. ID 49, Page 2, Line 47, Pos (12,39)
+msgid ""
+"パスワード入力画面が表示されている。\\!\n"
+"だが、パスワードはわからない"
+msgstr "显示着密码输入界面。\\!但是，不知道密码"
+
+#. ID 49, Page 2, Line 50, Pos (12,39)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"でたらめで入力してみる。\n"
+"今はやめよう"
+msgstr ""
+"胡乱输入试试。\n"
+"现在还是算了吧"
+
+#. ID 49, Page 2, Line 60, Pos (12,39)
+msgid "パスワード ガ チガイマス"
+msgstr "密码 不 正确"
+
+#. ID 49, Page 2, Line 61, Pos (12,39)
+msgid "情報ノ保護ノタメ、コノ端末ヲ しゃっとだうん シマス"
+msgstr "为 保护 信息，将 此终端 关机"
+
+#. ID 49, Page 2, Line 72, Pos (12,39)
+msgid "………！！！！！"
+msgstr "………！！！！！"
+
+#. ID 49, Page 2, Line 86, Pos (12,39)
+msgid "……ど、どうやら成功したようだ。"
+msgstr "……好、好像成功了。"
+
+#. ID 49, Page 2, Line 87, Pos (12,39)
+msgid "まさかパスワードが「password」だったなんて…"
+msgstr "没想到密码竟然是「password」…"
+
+#. ID 70, Page 2, Line 3, Pos (1,7)
+msgid "……！"
+msgstr "……！"
+
+#. ID 70, Page 2, Line 7, Pos (1,7)
+msgid "パスワードが書かれた紙を入手した。"
+msgstr "获得了写着密码的纸。"

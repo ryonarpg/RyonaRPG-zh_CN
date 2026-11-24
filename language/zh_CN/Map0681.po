@@ -1,0 +1,161 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 37, Page 2, Line 4, Pos (17,12)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 2, Line 4, Pos (24,18)
+#. Contains choice at line 2 (2 options)
+msgid "＊[地下牢獄の鍵]を使いますか？"
+msgstr "＊要使用[地下牢狱钥匙]吗？"
+
+#. ID 37, Page 2, Line 5, Pos (17,12)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 2, Line 5, Pos (24,18)
+#. Choice (2 options, embedded in a message)
+#. ID 99, Page 2, Line 7, Pos (41,22)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 37, Page 2, Line 34, Pos (17,12)
+#. ID 38, Page 2, Line 34, Pos (24,18)
+msgid "＊鍵が掛かっている"
+msgstr "＊锁着"
+
+#. ID 59, Page 2, Line 3, Pos (31,23)
+msgid ""
+"＊使い込まれた、血塗めの短刀だ\n"
+"　"
+msgstr "＊这是一把用旧了的、染血的短刀"
+
+#. ID 60, Page 2, Line 1, Pos (37,22)
+msgid "＊使い込まれた処刑用の剣だ"
+msgstr "＊这是一把用旧了的处刑用剑"
+
+#. ID 78, Page 2, Line 3, Pos (6,46)
+#. ID 79, Page 2, Line 3, Pos (15,47)
+#. ID 80, Page 2, Line 3, Pos (47,32)
+#. ID 81, Page 2, Line 3, Pos (46,46)
+msgid "＊返事がない……ただの屍のようだ"
+msgstr "＊没有回应……简直就像一具尸体"
+
+#. ID 91, Page 2, Line 3, Pos (38,30)
+msgid "＊血の聖なるかな"
+msgstr "＊鲜血之圣哉"
+
+#. ID 92, Page 2, Line 3, Pos (40,30)
+msgid "＊生誕の美しきかな"
+msgstr "＊生诞之美哉"
+
+#. ID 93, Page 2, Line 3, Pos (42,30)
+msgid "＊運命の正しきかな"
+msgstr "＊命运之正哉"
+
+#. ID 94, Page 2, Line 3, Pos (44,30)
+msgid "＊死の聖なるかな"
+msgstr "＊死亡之圣哉"
+
+#. ID 95, Page 2, Line 3, Pos (7,4)
+#. ID 96, Page 2, Line 3, Pos (6,4)
+msgid "＊薄汚れた手帳だ"
+msgstr "＊是一本有些脏的记事本"
+
+#. ID 95, Page 2, Line 10, Pos (7,4)
+msgid ""
+"＊下級看守ヒルデ　ハ\n"
+"　最下拷問執行室ニテ　処刑セントス"
+msgstr ""
+"＊下级看守希尔德　将于　最下层拷问执行室　被处\n"
+"　刑"
+
+#. ID 96, Page 2, Line 10, Pos (6,4)
+msgid ""
+"＊本日ノ　死刑執行人数\n"
+"　8人ナリ"
+msgstr "＊今日之　死刑执行人数　为8人"
+
+#. ID 96, Page 2, Line 12, Pos (6,4)
+msgid ""
+"＊先日ヨリ　不法侵入ニヨル　死刑判決多数\n"
+"　死刑執行ノ　頻度ヲ　アゲルベキ　ト\n"
+"　申告セシ"
+msgstr ""
+"＊自前日起　因非法侵入而判死刑者众多　已申报　\n"
+"　应提高　死刑执行之　频率"
+
+#. ID 99, Page 2, Line 3, Pos (41,22)
+msgid ""
+"アイテム士ヴェロニカ\n"
+"「頼みます一生のお願いです！\n"
+"　ここの金具外すだけで良いですから助けてぇ！」"
+msgstr ""
+"道具士维罗妮卡「求你了，这是我一生的请求！\n"
+"　只要把这里的金具拆下来就好，救救我吧！」"
+
+#. ID 99, Page 2, Line 6, Pos (41,22)
+#. Contains choice at line 2 (2 options)
+msgid "＊助けますか？"
+msgstr "＊要救她吗？"
+
+#. ID 99, Page 2, Line 14, Pos (41,22)
+msgid "＊拘束を解いた！"
+msgstr "＊解开了束缚！"
+
+#. ID 99, Page 2, Line 19, Pos (41,22)
+msgid ""
+"「た、た、た\n"
+"　助かったぁ～～～……」"
+msgstr "「得、得、得救了～～～……」"
+
+#. ID 99, Page 2, Line 21, Pos (41,22)
+msgid ""
+"「いや～……\n"
+"　つい宝箱の中身を失敬しようとしたら\n"
+"　看守に見つかって死刑と言われてしまいまして」"
+msgstr ""
+"「哎呀～……　我一时想顺走宝箱里的东西，\n"
+"　结果被看守发现，说要判我死刑」"
+
+#. ID 99, Page 2, Line 24, Pos (41,22)
+msgid ""
+"「左、真ん中ときて、いよいよワタシか、\n"
+"　って時にお嬢さんが来てくれて……\n"
+"　ほんと、助かりましたぁ～～！」"
+msgstr ""
+"「左边、中间都轮过了，终于轮到我了，\n"
+"　就在那时小姑娘你来了……　真的，得救了～～！」"
+
+#. ID 99, Page 2, Line 27, Pos (41,22)
+msgid "「ところで……お嬢さん何か買っていかれへん？」"
+msgstr "「话说回来……小姑娘，要不要买点什么？」"
+
+#. ID 99, Page 2, Line 34, Pos (41,22)
+msgid ""
+"「さて戻らねば……\n"
+"　他のみんなも無事だとええんだけどなぁ～」"
+msgstr ""
+"「那么，我得回去了……\n"
+"　要是其他人也都平安就好了～」"
+
+#. ID 99, Page 2, Line 44, Pos (41,22)
+msgid ""
+"「なななな、そんな殺生なァァ！\n"
+"　一生のお願いや、助けてぇぇ！！」"
+msgstr ""
+"「别、别、别、别这么残忍啊！\n"
+"　这是我一生的请求，救救我啊！！」"

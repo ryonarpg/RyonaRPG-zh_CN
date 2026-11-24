@@ -1,0 +1,80 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 2, Line 3, Pos (14,49)
+#. Contains choice at line 2 (2 options)
+msgid "村の外に出ますか？"
+msgstr "要到村外去吗？"
+
+#. ID 13, Page 2, Line 4, Pos (14,49)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 2, Line 6, Pos (25,37)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 2, Line 24, Pos (19,15)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 14, Page 2, Line 3, Pos (25,37)
+msgid "………………はぁ、はぁ……"
+msgstr "………………哈啊，哈啊……"
+
+#. ID 14, Page 2, Line 4, Pos (25,37)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊まだ意識がある。\n"
+"助けますか？"
+msgstr "＊还有意识。要救吗？"
+
+#. ID 14, Page 2, Line 14, Pos (25,37)
+msgid "民間人を手に入れた。"
+msgstr "获得了平民。"
+
+#. ID 20, Page 2, Line 5, Pos (4,7)
+#. ID 21, Page 2, Line 5, Pos (5,7)
+#. ID 22, Page 2, Line 5, Pos (6,7)
+#. ID 23, Page 2, Line 5, Pos (7,7)
+msgid "!!"
+msgstr "!!"
+
+#. ID 20, Page 2, Line 18, Pos (4,7)
+#. ID 21, Page 2, Line 18, Pos (5,7)
+#. ID 22, Page 2, Line 18, Pos (6,7)
+#. ID 23, Page 2, Line 18, Pos (7,7)
+msgid "先に\\n[\\v[1058]]を安全な場所へ運ぼう。"
+msgstr "先把\\n[\\v[1058]]运到安全的地方吧。"
+
+#. ID 40, Page 2, Line 18, Pos (19,15)
+msgid ""
+"……誰かそこにいるんですか？\n"
+"お願いします、助けて下さい！\n"
+"小さな子供がいるんです！……"
+msgstr ""
+"……有人在那里吗？求求您，救救我！我还有个小孩！\n"
+"……"
+
+#. ID 40, Page 2, Line 22, Pos (19,15)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊中から声が聞こえる。\n"
+"助けますか？"
+msgstr "＊里面传来声音。要救吗？"
+
+#. ID 40, Page 2, Line 34, Pos (19,15)
+msgid "民間人を2人手に入れた。"
+msgstr "获得了2名平民。"

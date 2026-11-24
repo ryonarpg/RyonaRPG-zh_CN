@@ -1,0 +1,63 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 11, Page 2, Line 3, Pos (8,17)
+msgid "病を知らぬ不死身の体。"
+msgstr "不知疾病为何物的不死之身。"
+
+#. ID 11, Page 2, Line 4, Pos (8,17)
+msgid "記憶容量限界のない脳。"
+msgstr "没有记忆容量极限的大脑。"
+
+#. ID 11, Page 2, Line 9, Pos (8,17)
+msgid "何故この価値を認めない！？"
+msgstr "为什么不认可这份价值！？"
+
+#. ID 42, Page 2, Line 5, Pos (13,21)
+msgid "＊研究員の手記のようだ"
+msgstr "＊好像是研究员的笔记。"
+
+#. ID 42, Page 2, Line 10, Pos (13,21)
+msgid ""
+"＊アバロソの連中は許可を出し、\n"
+"　我々を研究の犠牲にしておきながら\n"
+"　ここへ閉じ込めるつもりのようだ"
+msgstr ""
+"＊阿巴罗索那帮人批准了，\n"
+"　明明把我们当作研究的牺牲品　却似乎打算把我们\n"
+"　关在这里。"
+
+#. ID 42, Page 2, Line 13, Pos (13,21)
+msgid ""
+"＊今後は奴隷を使うつもりらしいが\n"
+"　どのように奴隷を集めるつもりなのか"
+msgstr ""
+"＊听说今后打算使用奴隶，\n"
+"　但打算怎么收集奴隶呢？"
+
+#. ID 43, Page 2, Line 3, Pos (11,23)
+msgid ""
+"赤い血の……流れる身体が……\n"
+"欲しい……よう。"
+msgstr "想要……流淌着……红色血液的……身体……。"
+
+#. ID 45, Page 2, Line 3, Pos (26,17)
+msgid ""
+"\\S[2]そんな目で……\n"
+"見ないで……くれ……"
+msgstr "\\S[2]请不要……用那种眼神……看我……"
+
+#. ID 46, Page 2, Line 3, Pos (4,32)
+msgid "＊所長室"
+msgstr "＊所长室"

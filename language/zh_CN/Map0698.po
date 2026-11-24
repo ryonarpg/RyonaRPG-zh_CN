@@ -1,0 +1,130 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 6, Page 1, Line 4, Pos (15,5)
+#. ID 7, Page 1, Line 4, Pos (20,5)
+#. ID 13, Page 1, Line 4, Pos (25,5)
+msgid "貴女に売るものなんかないよ！"
+msgstr "我没什么能卖给你的！"
+
+#. ID 6, Page 1, Line 7, Pos (15,5)
+msgid "いい武器入ってるよ～"
+msgstr "有不错的武器哦～"
+
+#. ID 7, Page 1, Line 7, Pos (20,5)
+msgid "あたしらは岩を食って生きていけるのさ。"
+msgstr "我们靠吃岩石就能活下去。"
+
+#. ID 7, Page 1, Line 8, Pos (20,5)
+msgid "ところで何か買っていくかい？"
+msgstr "话说，要买点什么吗？"
+
+#. ID 7, Page 1, Line 11, Pos (20,5)
+msgid "ありがとね。"
+msgstr "谢谢啦。"
+
+#. ID 8, Page 1, Line 4, Pos (10,5)
+msgid "お帰りください"
+msgstr "请回吧"
+
+#. ID 8, Page 1, Line 7, Pos (10,5)
+msgid "ここら辺で取れた薬草を使った薬です。"
+msgstr "这是用这一带采的药草制成的药。"
+
+#. ID 8, Page 1, Line 10, Pos (10,5)
+msgid ""
+"ここら辺は、滅多に人が来ないから、\n"
+"外界じゃ手に入らないような薬草もあるの。"
+msgstr ""
+"这一带很少有人来，\n"
+"所以也有在外界得不到的药草哦。"
+
+#. ID 9, Page 1, Line 4, Pos (7,39)
+msgid ""
+"貴女みたいな人がこんな所に長居するもの\n"
+"ではありません。\n"
+"お帰りください。"
+msgstr "像你这样的人不该在这种地方久留。请回吧。"
+
+#. ID 9, Page 1, Line 12, Pos (7,39)
+msgid ""
+"あら、こんにちは\n"
+"泊まっていきますか？"
+msgstr "哎呀，你好，要住宿吗？"
+
+#. ID 9, Page 1, Line 21, Pos (7,39)
+msgid "お金が足りませんわ"
+msgstr "钱不够呢"
+
+#. ID 9, Page 1, Line 28, Pos (7,39)
+msgid ""
+"その部屋は満室です\\!\n"
+"ここはお客さんが少ない分、部屋数も少ないんですよ"
+msgstr "那间房满了！\\!这里因为客人少，所以房间数也少哦"
+
+#. ID 10, Page 1, Line 4, Pos (28,39)
+msgid "……なんのよう？"
+msgstr "……有什么事？"
+
+#. ID 10, Page 1, Line 7, Pos (28,39)
+msgid "あいあい、ゆっくりしていってね～"
+msgstr "好的好的，慢慢待着吧～"
+
+#. ID 11, Page 1, Line 4, Pos (32,42)
+#. ID 11, Page 3, Line 4, Pos (32,42)
+msgid "………\\!話しかけないで…"
+msgstr "………\\!别跟我说话…"
+
+#. ID 11, Page 1, Line 7, Pos (32,42)
+#. ID 11, Page 3, Line 7, Pos (32,42)
+msgid "ここがこの村の唯一の娯楽施設なのよ"
+msgstr "这里是这个村唯一的娱乐设施哦"
+
+#. ID 11, Page 2, Line 3, Pos (32,42)
+msgid ""
+"最近アバロソでは珍しいペットを飼うのが\n"
+"流行っていて、それで最近は密猟者が多いみたい。\n"
+"ここをかぎつけられなきゃいいけど…"
+msgstr ""
+"最近在阿巴罗索流行饲养珍稀宠物，\n"
+"所以最近盗猎者好像很多。希望他们别发现这里…"
+
+#. ID 12, Page 2, Line 4, Pos (29,44)
+msgid ""
+"あなたも戸締りはちゃんとした方が\n"
+"いいわよ。"
+msgstr "你也最好把门窗关好哦。"
+
+#. ID 12, Page 2, Line 10, Pos (29,44)
+msgid ""
+"昨晩さ、私見たんだ。\n"
+"\\!姿を消した村人の家の前で人影が動いて\n"
+"いたのを…\\!ひょっとすると…密猟者だ\n"
+"ったのかしら…"
+msgstr ""
+"昨晚啊，我看到了。\n"
+"\\!在消失的村民家门前有人影晃动…\\!说不定…\n"
+"是盗猎者吧…"
+
+#. ID 13, Page 1, Line 7, Pos (25,5)
+msgid ""
+"ただの人間には扱えない、\n"
+"特別な魔法だよ。"
+msgstr "那是普通人无法使用的特别魔法哦。"
+
+#. ID 29, Page 1, Line 3, Pos (31,8)
+msgid ""
+"そこのアルラウネの姉ちゃん。\n"
+"色んな魔物の技を知ってるんだよ。"
+msgstr "那边的阿尔拉乌涅姐姐。她懂各种魔物的技能哦。"

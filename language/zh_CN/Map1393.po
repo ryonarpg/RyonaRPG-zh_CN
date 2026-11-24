@@ -1,0 +1,136 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 24, Page 2, Line 5, Pos (12,12)
+msgid "プライムブルーを手に入れた。"
+msgstr "获得了原初蓝。"
+
+#. ID 30, Page 2, Line 3, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 2, Line 3, Pos (7,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"魔族の記録媒体を見つけた\n"
+"読みますか？"
+msgstr "发现了魔族的记录媒体。要阅读吗？"
+
+#. ID 30, Page 2, Line 5, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 2, Line 5, Pos (7,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 30, Page 2, Line 14, Pos (5,6)
+msgid "\\S[8]・・・・・・・・\\S[1]"
+msgstr "\\S[8]・・・・・・・・\\S[1]"
+
+#. ID 30, Page 2, Line 15, Pos (5,6)
+msgid ""
+"私が生まれた時から\n"
+"その使命を理解していたわけではない"
+msgstr "我并非从出生之时起就明白那个使命"
+
+#. ID 30, Page 2, Line 17, Pos (5,6)
+msgid ""
+"知能を持った生き物が赤子から大人になる過程で\n"
+"学ぶように\n"
+"私にも学ぶ時間が必要だった"
+msgstr ""
+"就像拥有智能的生物从婴儿长大成人的过程中会学习\n"
+"一样，我也需要学习的时间"
+
+#. ID 30, Page 2, Line 20, Pos (5,6)
+msgid ""
+"だが、私が「大人」になるためには、\n"
+"私が存在している理由を理解しなくてはならなかった\\!\n"
+"そのために無限の命、不老の肉体を与えられた"
+msgstr ""
+"但是，为了成为「大人」，\n"
+"我必须理解自己存在的理由\\!为此，\n"
+"我被赋予了无限的生命与不老的肉体"
+
+#. ID 31, Page 2, Line 14, Pos (7,6)
+msgid ""
+"何億年も昔、私は地獄の業火の中から生まれた\\!\n"
+"星々の衝突に巻き込まれ、溶岩の熱に巻き込まれ、\n"
+"八寒地獄の氷に晒され、\n"
+"それでも何かが私に生きろと言うのだ"
+msgstr ""
+"数亿年前，\n"
+"我从地狱的业火中诞生\\!我曾被卷入星辰的碰撞，\n"
+"被卷入熔岩的高热，暴露在八寒地狱的冰中，\n"
+"即便如此，仍有某种存在对我说「活下去」"
+
+#. ID 31, Page 2, Line 18, Pos (7,6)
+msgid ""
+"私は全てを憎んだ\\!\n"
+"私の身体は宇宙の混沌に混ざり合い、\n"
+"憎しみと共に変化し、やがて魔王の姿となった"
+msgstr ""
+"我憎恨一切\\!我的身体混入了宇宙的混沌，\n"
+"与憎恨一同变化，最终成了魔王的模样"
+
+#. ID 31, Page 2, Line 25, Pos (7,6)
+msgid ""
+"だが、私はある時\n"
+"宇宙の切れ目に「\\C[2]赤い荒野\\C[0]」を見たのだ"
+msgstr ""
+"但是，我在某时于宇宙的裂隙中看见了\n"
+"「\\C[2]赤红荒野\\C[0]」"
+
+#. ID 31, Page 2, Line 27, Pos (7,6)
+msgid ""
+"何故、そんな物が見えたのか分からない\n"
+"私は目の前に現れた異物のことを考え続けた"
+msgstr ""
+"我不知道为什么能看见那样的东西，\n"
+"于是不断思考着出现在眼前的异物"
+
+#. ID 31, Page 2, Line 29, Pos (7,6)
+msgid ""
+"荒野のことを考えるうちに、私に慈悲の念が宿った\n"
+"私は久遠とも思える時間、哭き続けた"
+msgstr ""
+"在思考荒野的过程中，我心中生起了慈悲之念。\n"
+"我持续哭泣了仿佛永恒般漫长的时间"
+
+#. ID 31, Page 2, Line 35, Pos (7,6)
+msgid ""
+"涙も枯れ果てた頃\n"
+"辺りを見回すと\n"
+"そこには青々とした大地が広がっていた"
+msgstr ""
+"当泪水也流干之时，环顾四周，\n"
+"那里已展开一片翠绿的大地"
+
+#. ID 32, Page 2, Line 3, Pos (6,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ここから外へ出られるようだ\n"
+"外へ出ますか？"
+msgstr "看来可以从这里出去了。要出去吗？"
+
+#. ID 32, Page 2, Line 5, Pos (6,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

@@ -1,0 +1,385 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 8, Pos (0,0)
+msgid ""
+"それでは、ルーレットのホイールを\n"
+"回転いたします。"
+msgstr "那么，现在开始转动轮盘赌的轮盘。"
+
+#. ID 2, Page 1, Line 70, Pos (0,0)
+msgid "＊HITナンバー：\\v[252]"
+msgstr "＊HIT号码：\\v[252]"
+
+#. ID 2, Page 1, Line 72, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "1stベット"
+msgstr "第1次下注"
+
+#. ID 2, Page 1, Line 78, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "2ndベット"
+msgstr "第2次下注"
+
+#. ID 2, Page 1, Line 86, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "3rdベット"
+msgstr "第3次下注"
+
+#. ID 2, Page 1, Line 105, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "続けられますか？"
+msgstr "要继续吗？"
+
+#. ID 2, Page 1, Line 106, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>続ける！\\<\n"
+"\\>やめておきます\\<"
+msgstr ""
+"\\>继续！\\<\n"
+"\\>作罢\\<"
+
+#. ID 2, Page 1, Line 111, Pos (0,0)
+msgid ""
+"お疲れ様でした。\n"
+"またいつでもお待ちしておりますわ。"
+msgstr "您辛苦了。我会随时恭候您再次光临的。"
+
+#. ID 2, Page 3, Line 424, Pos (0,0)
+msgid "＊\\n[101]は外れてしまった。"
+msgstr "＊\\n[101]落空了。"
+
+#. ID 2, Page 3, Line 430, Pos (0,0)
+msgid "＊\\n[101]的中！"
+msgstr "＊\\n[101]命中！"
+
+#. ID 2, Page 3, Line 433, Pos (0,0)
+msgid ""
+"\\$\\>＊\\n[101]的中！\\<\n"
+"　\\v[257]コインを獲得！"
+msgstr "\\$\\>＊\\n[101]命中！\\<　\\v[257]获得硬币！"
+
+#. ID 2, Page 4, Line 151, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ストレート"
+msgstr "直注"
+
+#. ID 2, Page 4, Line 152, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "アップ"
+msgstr "上注"
+
+#. ID 2, Page 4, Line 160, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "縦"
+msgstr "竖注"
+
+#. ID 2, Page 4, Line 161, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+#. ID 2, Page 4, Line 180, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "スプリット"
+msgstr "分注"
+
+#. ID 2, Page 4, Line 179, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "横"
+msgstr "横注"
+
+#. ID 2, Page 4, Line 192, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "トリプル"
+msgstr "三注"
+
+#. ID 2, Page 4, Line 198, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "コーナー"
+msgstr "角注"
+
+#. ID 2, Page 4, Line 209, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+#. ID 2, Page 4, Line 234, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "ストリート"
+msgstr "街注"
+
+#. ID 2, Page 4, Line 221, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "フォー"
+msgstr "四注"
+
+#. ID 2, Page 4, Line 222, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "ナンバー"
+msgstr "号码"
+
+#. ID 2, Page 4, Line 233, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ダブル"
+msgstr "双注"
+
+#. ID 2, Page 4, Line 239, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "レッド"
+msgstr "红"
+
+#. ID 2, Page 4, Line 240, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "（赤）"
+msgstr "（红）"
+
+#. ID 2, Page 4, Line 244, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ブラック"
+msgstr "黑"
+
+#. ID 2, Page 4, Line 245, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "（黒）"
+msgstr "（黑）"
+
+#. ID 2, Page 4, Line 252, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "イーブン"
+msgstr "偶数"
+
+#. ID 2, Page 4, Line 253, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "（偶数）"
+msgstr "（偶数）"
+
+#. ID 2, Page 4, Line 257, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "オッド"
+msgstr "奇数"
+
+#. ID 2, Page 4, Line 258, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "（奇数）"
+msgstr "（奇数）"
+
+#. ID 2, Page 4, Line 265, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ロー"
+msgstr "低注"
+
+#. ID 2, Page 4, Line 266, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "（1～18）"
+msgstr "（1～18）"
+
+#. ID 2, Page 4, Line 270, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ハイ"
+msgstr "高注"
+
+#. ID 2, Page 4, Line 271, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "（19～36）"
+msgstr "（19～36）"
+
+#. ID 2, Page 4, Line 277, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "ダズン"
+msgstr "打注"
+
+#. ID 2, Page 4, Line 279, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+#. ID 2, Page 4, Line 298, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "1st"
+msgstr "1st"
+
+#. ID 2, Page 4, Line 280, Pos (0,0)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "（1～12）"
+msgstr "（1～12）"
+
+#. ID 2, Page 4, Line 284, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+#. ID 2, Page 4, Line 303, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "2nd"
+msgstr "2nd"
+
+#. ID 2, Page 4, Line 285, Pos (0,0)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "（13～24）"
+msgstr "（13～24）"
+
+#. ID 2, Page 4, Line 289, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+#. ID 2, Page 4, Line 308, Pos (0,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "3rd"
+msgstr "3rd"
+
+#. ID 2, Page 4, Line 290, Pos (0,0)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "（25～36）"
+msgstr "（25～36）"
+
+#. ID 2, Page 4, Line 296, Pos (0,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "コラム"
+msgstr "列注"
+
+#. ID 2, Page 4, Line 299, Pos (0,0)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "（上横1列）"
+msgstr "（上横1列）"
+
+#. ID 2, Page 4, Line 304, Pos (0,0)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "（中横1列）"
+msgstr "（中横1列）"
+
+#. ID 2, Page 4, Line 309, Pos (0,0)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "（下横1列）"
+msgstr "（下横1列）"
+
+#. ID 2, Page 5, Line 11, Pos (0,0)
+msgid ""
+"コインが足りないみたいですわね…\n"
+"最低ベットは5コインからとなっておりますの。"
+msgstr "好像硬币不够呢……最低下注为5枚硬币哦。"
+
+#. ID 2, Page 5, Line 34, Pos (0,0)
+msgid ""
+"＊矢印キーで賭ける場所を選んで\n"
+"　Enterキー（決定ボタン）で決定してください。"
+msgstr ""
+"＊用方向键选择下注位置　按Enter键（决定按钮）\n"
+"　确定。"
+
+#. ID 2, Page 5, Line 313, Pos (0,0)
+#. ID 2, Page 5, Line 325, Pos (0,0)
+msgid ""
+"＊ベットする場所が重複しています。\n"
+"　再度選択してください。"
+msgstr "＊下注位置重复。　请重新选择。"
+
+#. ID 2, Page 5, Line 342, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ベット方式：\\n[101]\\n[102]\\n[103]\n"
+"ここにコインを賭けますか？"
+msgstr ""
+"下注方式：\n"
+"\\n[101]\\n[102]\\n[103]要在这里下注硬币吗？"
+
+#. ID 2, Page 5, Line 344, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 5, Line 444, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>是\n"
+"\\>否"
+
+#. ID 2, Page 5, Line 375, Pos (0,0)
+msgid ""
+"\\$＊ベットするコイン数を設定してください。\n"
+"　最低ベットは5コインで\\v[250]コインまで賭けられます。"
+msgstr ""
+"\\$＊请设置下注的硬币数量。\n"
+"　最低下注为5枚硬币，最多可下注\\v[250]枚硬币。"
+
+#. ID 2, Page 5, Line 380, Pos (0,0)
+msgid "＊ベットが少なすぎます。再度入力してください。"
+msgstr "＊下注太少。请重新输入。"
+
+#. ID 2, Page 5, Line 385, Pos (0,0)
+msgid "＊ベットが多すぎます。再度入力してください。"
+msgstr "＊下注太多。请重新输入。"
+
+#. ID 2, Page 5, Line 390, Pos (0,0)
+msgid "＊コインが足りません。再度入力してください。"
+msgstr "＊硬币不足。请重新输入。"
+
+#. ID 2, Page 5, Line 394, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ベット方式：\\n[101]\\n[102]\\n[103]\n"
+"ベットするコイン：\\v[241]"
+msgstr ""
+"下注方式：\\n[101]\\n[102]\\n[103]下注硬币：\n"
+"\\v[241]"
+
+#. ID 2, Page 5, Line 396, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>これでOK\n"
+"\\>再度考える"
+msgstr ""
+"\\>这样OK\n"
+"\\>重新考虑"
+
+#. ID 2, Page 5, Line 430, Pos (0,0)
+msgid "\\$＊\\v[241]コインをベットした。"
+msgstr "\\$＊已下注\\v[241]枚硬币。"
+
+#. ID 2, Page 5, Line 443, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "続けて違う場所にベットしますか？"
+msgstr "要继续在其他位置下注吗？"
+
+#. ID 2, Page 5, Line 447, Pos (0,0)
+msgid ""
+"＊コインが足りないため、追加ベットできません。\n"
+"　このまま勝負に移行します。"
+msgstr ""
+"＊因为硬币不足，无法追加下注。\n"
+"　将直接进入胜负。"

@@ -1,0 +1,78 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 29, Page 2, Line 4, Pos (10,18)
+msgid ""
+"名前：あらくれ\n"
+"種族：人男"
+msgstr "名字：粗暴者 种族：人男"
+
+#. ID 29, Page 2, Line 6, Pos (10,18)
+msgid "あらくれものだぞ！！"
+msgstr "是粗暴者哦！！"
+
+#. ID 29, Page 2, Line 7, Pos (10,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$600Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$600G可以打听攻略情报。要打听吗？"
+
+#. ID 29, Page 2, Line 9, Pos (10,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 29, Page 2, Line 15, Pos (10,18)
+msgid ""
+"あらくれものだ！\\!\n"
+"お酒が好き！\\!女も好き！\\!\n"
+"ヒャッハー！"
+msgstr "是粗暴者！\\!喜欢酒！\\!也喜欢女人！\\!呀哈—！"
+
+#. ID 29, Page 2, Line 18, Pos (10,18)
+msgid ""
+"氷の攻撃で2倍のダメージを\n"
+"与えることが出来る"
+msgstr "用冰攻击可以造成2倍伤害"
+
+#. ID 29, Page 2, Line 20, Pos (10,18)
+msgid ""
+"大学受験に失敗して浪人\\!\n"
+"酒に逃げたら彼女にもフラれちまった\\!\n"
+"気がついたらあらくれになってしまったぜ"
+msgstr ""
+"大学入学考试失败后成了复读生\\!借酒逃避结果连女\n"
+"朋友也甩了我\\!回过神来已经变成粗暴者了"
+
+#. ID 29, Page 2, Line 23, Pos (10,18)
+msgid ""
+"青春\\!\n"
+"辛いこともいっぱいあるけど\n"
+"負けないで"
+msgstr "青春\\!虽然也有很多痛苦的事，但不要认输"
+
+#. ID 29, Page 2, Line 26, Pos (10,18)
+msgid ""
+"汚れちまった悲しみに\n"
+"俺の青春もナンボのもんじゃい"
+msgstr "在已经脏掉的悲伤里，我的青春又算个什么啊"
+
+#. ID 29, Page 2, Line 28, Pos (10,18)
+msgid "稀に\\C[2]サンダースピア\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]闪电枪\\C[0]"

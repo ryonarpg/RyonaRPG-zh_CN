@@ -1,0 +1,151 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 18, Page 3, Line 8, Pos (1,0)
+msgid ""
+"\n"
+"金塊を\\v[262]個手に入れた。"
+msgstr "获得了\\v[262]个金块。"
+
+#. ID 18, Page 3, Line 12, Pos (1,0)
+msgid ""
+"\n"
+"金塊を手に入れた。"
+msgstr "获得了金块。"
+
+#. ID 18, Page 3, Line 25, Pos (1,0)
+msgid ""
+"\n"
+"銀塊を\\v[263]個手に入れた。"
+msgstr "获得了\\v[263]个银块。"
+
+#. ID 18, Page 3, Line 29, Pos (1,0)
+msgid ""
+"\n"
+"銀塊を手に入れた。"
+msgstr "获得了银块。"
+
+#. ID 18, Page 3, Line 42, Pos (1,0)
+msgid ""
+"\n"
+"銅塊を\\v[264]個手に入れた。"
+msgstr "获得了\\v[264]个铜块。"
+
+#. ID 18, Page 3, Line 46, Pos (1,0)
+msgid ""
+"\n"
+"銅塊を手に入れた。"
+msgstr "获得了铜块。"
+
+#. ID 18, Page 3, Line 57, Pos (1,0)
+msgid ""
+"\n"
+"砕け散った破片が、\n"
+"\\N[\\V[6]]の頭を直撃した。"
+msgstr "碎裂的碎片直接击中了\\N[\\V[6]]的头。"
+
+#. ID 18, Page 3, Line 81, Pos (1,0)
+msgid ""
+"\n"
+"砕け散った破片が、\n"
+"\\N[\\V[6]]の目を直撃した。"
+msgstr "碎裂的碎片直接击中了\\N[\\V[6]]的眼睛。"
+
+#. ID 18, Page 4, Line 4, Pos (1,0)
+msgid ""
+"\n"
+"衝撃を受けたきのこから\n"
+"大量の胞子が撒き散らされる。"
+msgstr "受到冲击的蘑菇散播出大量孢子。"
+
+#. ID 18, Page 5, Line 5, Pos (1,0)
+#. ID 67, Page 2, Line 10, Pos (11,3)
+msgid ""
+"\n"
+"\\N[\\V[6]]の中に、何かが入ってくる。\\|\\^"
+msgstr "有什么东西进入\\N[\\V[6]]之中。\\|\\^"
+
+#. ID 61, Page 2, Line 3, Pos (4,3)
+#. ID 62, Page 2, Line 3, Pos (5,3)
+#. ID 63, Page 2, Line 3, Pos (6,3)
+#. ID 64, Page 2, Line 3, Pos (7,3)
+#. ID 65, Page 2, Line 3, Pos (8,3)
+#. ID 66, Page 2, Line 3, Pos (9,3)
+#. ID 67, Page 2, Line 3, Pos (11,3)
+msgid ""
+"\n"
+"！！！！！\\|\\^"
+msgstr ""
+"\n"
+"！！！！！\\|\\^"
+
+#. ID 68, Page 2, Line 11, Pos (12,3)
+#. ID 68, Page 2, Line 24, Pos (12,3)
+#. ID 68, Page 2, Line 153, Pos (12,3)
+#. ID 68, Page 2, Line 163, Pos (12,3)
+msgid ""
+"\n"
+"\\N[101]\\N[102]を10個手に入れた。"
+msgstr "获得了10个\\N[101]\\N[102]。"
+
+#. ID 68, Page 2, Line 34, Pos (12,3)
+#. ID 68, Page 2, Line 58, Pos (12,3)
+#. ID 68, Page 2, Line 82, Pos (12,3)
+#. ID 68, Page 2, Line 102, Pos (12,3)
+#. ID 68, Page 2, Line 116, Pos (12,3)
+#. ID 68, Page 2, Line 140, Pos (12,3)
+msgid ""
+"\n"
+"\\N[101]\\N[102]を手に入れた。"
+msgstr "获得了\\N[101]\\N[102]。"
+
+#. ID 68, Page 2, Line 49, Pos (12,3)
+#. ID 68, Page 2, Line 73, Pos (12,3)
+#. ID 68, Page 2, Line 131, Pos (12,3)
+msgid ""
+"\n"
+"1000Gを手に入れた。"
+msgstr "获得了1000G。"
+
+#. ID 68, Page 2, Line 93, Pos (12,3)
+msgid ""
+"\n"
+"2000Gを手に入れた。"
+msgstr "获得了2000G。"
+
+#. ID 71, Page 4, Line 14, Pos (3,0)
+msgid ""
+"\\s[20]\n"
+"　あ……れ……？\\.\\.\\^"
+msgstr "\\s[20]　啊……咧……？\\.\\.\\^"
+
+#. ID 71, Page 4, Line 33, Pos (3,0)
+msgid ""
+"\\s[20]\n"
+"　なん…だ…か……　\\>　　　　\\<…ねむ…く……\\.\\.\\^"
+msgstr ""
+"\\s[20]　总…觉得……　\\>　　　　\\<…好困…啊……\n"
+"　\\.\\.\\^"
+
+#. ID 72, Page 3, Line 23, Pos (15,3)
+msgid ""
+"\n"
+"抜け道を見つけた！"
+msgstr "找到了秘密通道！"
+
+#. ID 72, Page 3, Line 32, Pos (15,3)
+msgid ""
+"\n"
+"箱の中身が壊れてしまった！"
+msgstr "箱子里的东西坏掉了！"

@@ -1,0 +1,236 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 1, Line 3, Pos (16,0)
+#. Contains choice at line 2 (2 options)
+msgid "街の外に出ますか？"
+msgstr "要出城镇吗？"
+
+#. ID 15, Page 1, Line 4, Pos (16,0)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 6, Pos (5,35)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 4, Pos (10,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 17, Page 1, Line 3, Pos (13,35)
+msgid "この井戸は地下空洞の湧き水を汲み取っていますの。"
+msgstr "这口井汲取的是地下空洞的涌水哦。"
+
+#. ID 28, Page 1, Line 1, Pos (36,11)
+msgid "＊誰かのメモのようだ。"
+msgstr "＊好像是某人的笔记。"
+
+#. ID 28, Page 1, Line 2, Pos (36,11)
+msgid ""
+"マップチップ素材引用元\n"
+"すきまの素材\n"
+"http://wato5576.sukimakaze.com/\n"
+"（ＦＳＭ改変）"
+msgstr ""
+"地图块素材引用来源：\n"
+"缝隙素材http://wato5576.sukimakaze.com/\n"
+"（FSM修改）"
+
+#. ID 30, Page 2, Line 5, Pos (31,14)
+msgid ""
+"\n"
+"中から怒号と悲鳴が聞こえる…\n"
+"そっとしておこう"
+msgstr "里面传来怒吼和惨叫……还是别管了"
+
+#. ID 31, Page 1, Line 1, Pos (1,24)
+msgid "物置という名の亜空間。"
+msgstr "名为仓库的亚空间。"
+
+#. ID 34, Page 1, Line 5, Pos (5,35)
+#. Contains choice at line 2 (2 options)
+msgid "お姉ちゃん？"
+msgstr "姐姐？"
+
+#. ID 34, Page 1, Line 18, Pos (5,35)
+#. ID 34, Page 2, Line 5, Pos (5,35)
+msgid "お姉ちゃんっ\\.\\^"
+msgstr "姐姐\\.\\^"
+
+#. ID 34, Page 1, Line 23, Pos (5,35)
+#. ID 34, Page 2, Line 10, Pos (5,35)
+msgid "お姉ちゃんー\\.\\^"
+msgstr "姐姐——\\.\\^"
+
+#. ID 34, Page 1, Line 28, Pos (5,35)
+#. ID 34, Page 2, Line 15, Pos (5,35)
+msgid "お姉ちゃ～ん\\.\\^"
+msgstr "姐姐～\\.\\^"
+
+#. ID 34, Page 1, Line 33, Pos (5,35)
+#. ID 34, Page 2, Line 20, Pos (5,35)
+msgid "お姉～ちゃん\\.\\^"
+msgstr "姐～姐\\.\\^"
+
+#. ID 34, Page 1, Line 38, Pos (5,35)
+#. ID 34, Page 2, Line 25, Pos (5,35)
+msgid "お姉ちゃん！\\.\\^"
+msgstr "姐姐！\\.\\^"
+
+#. ID 34, Page 1, Line 43, Pos (5,35)
+#. ID 34, Page 2, Line 30, Pos (5,35)
+msgid "お姉ちゃん？\\.\\^"
+msgstr "姐姐？\\.\\^"
+
+#. ID 34, Page 1, Line 47, Pos (5,35)
+#. ID 34, Page 2, Line 34, Pos (5,35)
+msgid "お姉ちゃん♪\\.\\^"
+msgstr "姐姐♪\\.\\^"
+
+#. ID 34, Page 1, Line 57, Pos (5,35)
+msgid ""
+"きゃっきゃっ。\n"
+"ここは『えっきょう』の村チゾットだよ。"
+msgstr "嘻嘻。这里是『越境』的村庄奇佐特哦。"
+
+#. ID 35, Page 1, Line 3, Pos (13,33)
+msgid ""
+"ここは霊峰を守護する一族の住む神聖な村……\\!\n"
+"だったのは昔の話。\n"
+"今は関所ができてしまい山脈を越えようとする者たちの\n"
+"休憩所みたいなものになってしまいましたわ。"
+msgstr ""
+"这里是守护灵峰的一族居住的神圣村庄……\n"
+"\\!那已是过去的事了。如今建起了关卡，\n"
+"变成了类似想要翻越山脉之人的休息处的地方了。"
+
+#. ID 35, Page 1, Line 7, Pos (13,33)
+msgid ""
+"おかげで外の情報がどんどん入って来て……\n"
+"若い者は村を出て行ってしまいます。\n"
+"一族の誇りも忘れて……困ったものですわ。"
+msgstr ""
+"托此之福，外界的信息不断传来……\n"
+"年轻人纷纷离开村子。连一族的骄傲也忘了……\n"
+"真是令人困扰呢。"
+
+#. ID 35, Page 1, Line 10, Pos (13,33)
+msgid ""
+"でも最近変な噂がありまして…。\n"
+"なんでも高台の家の方角に天使様が歩いてる\n"
+"のを見かけたとかなんだとか。"
+msgstr ""
+"不过最近有个奇怪的传闻……。\n"
+"说是有人看见天使大人走在高台房屋的方向之类的。"
+
+#. ID 36, Page 1, Line 3, Pos (10,33)
+#. Contains choice at line 2 (2 options)
+msgid "参拝なさるのかえ？"
+msgstr "您是要去参拜吗？"
+
+#. ID 36, Page 1, Line 6, Pos (10,33)
+msgid ""
+"なら、この村の北から山頂に向かいなされ。\n"
+"といってもな～んもないがね。"
+msgstr ""
+"那就从这个村子的北边朝山顶去吧。\n"
+"虽说那里什～么也没有呢。"
+
+#. ID 36, Page 1, Line 10, Pos (10,33)
+msgid ""
+"なら国境を越えるのかえ？\n"
+"関所は通行証を持っていないと通れないと思ったが\n"
+"そうでもなかったぞ。"
+msgstr ""
+"那你要越过国境吗？\n"
+"我以为关卡没有通行证就过不去，\n"
+"但好像并非如此哦。"
+
+#. ID 39, Page 1, Line 4, Pos (36,23)
+msgid ""
+"\n"
+"\\>～■■■■■～\n"
+"\\>　　　　　　　　　　■■■■■"
+msgstr ""
+"\n"
+"\\>～■■■■■～\n"
+"\\>　　　　　　　　　　■■■■■"
+
+#. ID 39, Page 1, Line 7, Pos (36,23)
+msgid ""
+"\n"
+"何か書いてあったようだが\n"
+"削り取られている"
+msgstr "好像写了些什么，但被刮掉了"
+
+#. ID 39, Page 1, Line 12, Pos (36,23)
+msgid ""
+"\n"
+"\\>～クリア工房～\n"
+"\\>　　　　　　　　　　冒険者歓迎"
+msgstr ""
+"\\>～克莱尔工房～\\>　　　　　　　　　　冒险者欢\n"
+"迎"
+
+#. ID 40, Page 1, Line 3, Pos (22,38)
+msgid "高台にある家に誰か越してきたみたいじゃ"
+msgstr "高台上的房子好像有人搬进去了"
+
+#. ID 40, Page 1, Line 4, Pos (22,38)
+msgid ""
+"こんなド田舎に来るなぞ\n"
+"ロクな生き方して来なかったんじゃろうな"
+msgstr "会来这种穷乡僻壤的人，大概以前也没好好活过吧"
+
+#. ID 40, Page 1, Line 10, Pos (22,38)
+msgid ""
+"そういえば最近、その家の方角に天使様みたいな\n"
+"風貌の方が歩いて行ったのをみたのじゃが…"
+msgstr ""
+"说起来最近，\n"
+"我看见有像天使大人那样容貌的人朝那房子的方向走\n"
+"去了……"
+
+#. ID 40, Page 1, Line 12, Pos (22,38)
+msgid ""
+"まだわしゃあお迎えが来るには早かろう。\n"
+"目の錯覚じゃろうな。"
+msgstr ""
+"老夫还没到该被接走的时候吧。\n"
+"大概是眼睛看错了吧。"
+
+#. ID 41, Page 1, Line 6, Pos (49,15)
+#. ID 42, Page 1, Line 6, Pos (48,16)
+#. ID 43, Page 1, Line 6, Pos (48,19)
+#. ID 44, Page 1, Line 6, Pos (49,21)
+msgid ""
+"\n"
+"\\>さぶさぶ！"
+msgstr "\\>好冷好冷！"
+
+#. ID 45, Page 1, Line 3, Pos (29,5)
+#. Contains choice at line 2 (2 options)
+msgid "（井戸の下のほうから明かりが漏れている…）"
+msgstr "（井的下方有光漏出来……）"
+
+#. ID 45, Page 1, Line 4, Pos (29,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"降りてみる\n"
+"なにもしない"
+msgstr ""
+"下去看看\n"
+"什么都不做"

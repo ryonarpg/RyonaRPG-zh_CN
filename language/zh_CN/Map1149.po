@@ -1,0 +1,71 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 60, Page 3, Line 3, Pos (61,22)
+#. ID 61, Page 3, Line 3, Pos (62,22)
+#. ID 62, Page 3, Line 3, Pos (63,22)
+#. ID 63, Page 3, Line 3, Pos (64,22)
+#. ID 64, Page 3, Line 3, Pos (61,21)
+#. ID 65, Page 3, Line 3, Pos (62,21)
+#. ID 66, Page 3, Line 3, Pos (63,21)
+#. ID 67, Page 3, Line 3, Pos (64,21)
+#. ID 68, Page 3, Line 3, Pos (61,20)
+#. ID 69, Page 3, Line 3, Pos (62,20)
+#. ID 70, Page 3, Line 3, Pos (63,20)
+#. ID 71, Page 3, Line 3, Pos (64,20)
+#. ID 72, Page 3, Line 3, Pos (42,22)
+#. ID 73, Page 3, Line 3, Pos (43,22)
+#. ID 74, Page 3, Line 3, Pos (44,22)
+#. ID 75, Page 3, Line 3, Pos (45,22)
+#. ID 76, Page 3, Line 3, Pos (42,21)
+#. ID 77, Page 3, Line 3, Pos (43,21)
+#. ID 78, Page 3, Line 3, Pos (44,21)
+#. ID 79, Page 3, Line 3, Pos (45,21)
+#. ID 80, Page 3, Line 3, Pos (42,20)
+#. ID 81, Page 3, Line 3, Pos (43,20)
+#. ID 82, Page 3, Line 3, Pos (44,20)
+#. ID 83, Page 3, Line 3, Pos (45,20)
+#. ID 90, Page 2, Line 3, Pos (31,65)
+#. ID 91, Page 2, Line 3, Pos (32,65)
+#. ID 92, Page 2, Line 3, Pos (31,64)
+#. ID 93, Page 2, Line 3, Pos (32,64)
+#. ID 94, Page 2, Line 3, Pos (31,63)
+#. ID 95, Page 2, Line 3, Pos (32,63)
+msgid "床から突き出した石柱が道を塞いでいる。"
+msgstr "从地面突起的石柱挡住了道路。"
+
+#. ID 84, Page 2, Line 7, Pos (61,18)
+msgid ""
+"\n"
+"閉じ込められた！"
+msgstr "被关住了！"
+
+#. ID 89, Page 2, Line 4, Pos (29,61)
+msgid ""
+"上面にスイッチがついた石箱が置かれている。\n"
+"スイッチは体重を掛けて押さないと起動しなさそうだ。"
+msgstr ""
+"放着一个顶部带有开关的石箱。\n"
+"开关如果不施加体重去按压的话似乎不会启动。"
+
+#. ID 89, Page 3, Line 10, Pos (29,61)
+msgid "・・・すぐ近くで何かが動いた音がした。"
+msgstr "・・・附近传来了什么东西动了一下的声音。"
+
+#. ID 96, Page 3, Line 1, Pos (53,7)
+#. ID 98, Page 3, Line 1, Pos (21,59)
+msgid ""
+"デバッグ用イベント：\n"
+"閉じ込め解除"
+msgstr "调试用事件：解除被困"

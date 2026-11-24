@@ -1,0 +1,295 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 4, Pos (9,13)
+msgid ""
+"あ、貴女が村長さんが言ってた新しい村人\n"
+"さんですか。\n"
+"\\!はい、私がこの家に先に住まわせてもら\n"
+"ってました、なすーんっていいます。"
+msgstr ""
+"啊，你就是村长说的新居民吗。\\!是的，\n"
+"我之前就先被安排住在这个家里了，我叫娜丝恩。"
+
+#. ID 3, Page 1, Line 10, Pos (9,13)
+msgid ""
+"…ホントに村長さんソックリなんですね\n"
+"たぶん前もって説明されてなかったら\n"
+"絶対に気づかなかったですよ"
+msgstr ""
+"…真的和村长一模一样呢，要是没有事先说明的话，\n"
+"我绝对不会注意到哦"
+
+#. ID 3, Page 1, Line 14, Pos (9,13)
+msgid ""
+"なんだか村長さんが家にいるみたいで\n"
+"ちょっと落ち着かない気もするけど…"
+msgstr "总觉得像村长在家里一样，有点静不下心来…"
+
+#. ID 3, Page 1, Line 17, Pos (9,13)
+msgid ""
+"でも村長さんが守ってくれてるみたいで\n"
+"安心感の方が強いかな？"
+msgstr "不过感觉像是村长在保护我们，安心感更强一些吧？"
+
+#. ID 3, Page 1, Line 22, Pos (9,13)
+msgid ""
+"………\\!\\n[\\v[6]]さんですか\n"
+"これからよろしくお願いしますね。"
+msgstr "………\\!\\n[\\v[6]]吗，今后请多关照呢。"
+
+#. ID 3, Page 2, Line 4, Pos (9,13)
+msgid ""
+"\\n[\\v[6]]さん、ここの生活はどうです\n"
+"か？"
+msgstr "\\n[\\v[6]]，这里的生活怎么样？"
+
+#. ID 3, Page 4, Line 4, Pos (9,13)
+msgid ""
+"………\\!突然姿を消す…か…\n"
+"怖いですね…"
+msgstr "………\\!突然消失…吗…真可怕呢…"
+
+#. ID 3, Page 6, Line 4, Pos (9,13)
+msgid ""
+"お互い今日の事は忘れて、ゆっくり休みま\n"
+"しょう。\\!もう心配事はないですから。"
+msgstr ""
+"我们彼此都把今天的事忘掉，好好休息吧。\n"
+"\\!已经没有什么好担心的了。"
+
+#. ID 3, Page 8, Line 4, Pos (9,13)
+msgid "\\n[\\v[6]]さん…？"
+msgstr "\\n[\\v[6]]…？"
+
+#. ID 3, Page 9, Line 4, Pos (9,13)
+msgid "…………"
+msgstr "…………"
+
+#. ID 5, Page 1, Line 7, Pos (18,7)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 2, Line 3, Pos (18,7)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 4, Line 3, Pos (18,7)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 5, Line 3, Pos (18,7)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 7, Line 3, Pos (18,7)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 8, Line 3, Pos (18,7)
+#. Contains choice at line 2 (2 options)
+msgid "休みますか？"
+msgstr "要休息吗？"
+
+#. ID 5, Page 1, Line 8, Pos (18,7)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 2, Line 4, Pos (18,7)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 4, Line 4, Pos (18,7)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 5, Line 4, Pos (18,7)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 7, Line 4, Pos (18,7)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 8, Line 4, Pos (18,7)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 11, Pos (23,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 5, Page 1, Line 15, Pos (18,7)
+#. ID 5, Page 2, Line 11, Pos (18,7)
+#. ID 5, Page 4, Line 11, Pos (18,7)
+msgid "あ、おやすみなさいです。"
+msgstr "啊，晚安。"
+
+#. ID 5, Page 1, Line 22, Pos (18,7)
+#. ID 5, Page 5, Line 9, Pos (18,7)
+msgid "ゆっくり休んだ"
+msgstr "好好休息了"
+
+#. ID 5, Page 2, Line 30, Pos (18,7)
+msgid ""
+"\\n[\\v[6]]さん、大変です。\n"
+"起きてください！！"
+msgstr "\\n[\\v[6]]，不好了。请起床！！"
+
+#. ID 5, Page 2, Line 49, Pos (18,7)
+msgid "む…村のヒトが…"
+msgstr "嗯…村里的人…"
+
+#. ID 5, Page 2, Line 62, Pos (18,7)
+msgid ""
+"あ、\\n[\\v[6]]さんっすか…\n"
+"\\!まあ見てのとおりっス…\n"
+"この家の住人が忽然と消えてしまってるっ\n"
+"ス…"
+msgstr ""
+"啊，\\n[\\v[6]]啊…\\!嗯，就像你看到的那样…\n"
+"这家的住户突然消失了…"
+
+#. ID 5, Page 2, Line 66, Pos (18,7)
+msgid ""
+"基本的に村から出る場合はオレに報告する\n"
+"よういってありますから留守って事はない\n"
+"はずっス。"
+msgstr ""
+"基本上，出村的时候我都要求他们向我报告，\n"
+"所以应该不会是外出不在家。"
+
+#. ID 5, Page 2, Line 69, Pos (18,7)
+msgid ""
+"\\n[\\v[6]]さん、実を言うとこうやって\n"
+"村人が姿を消す事は今に始まった事じゃ\n"
+"ないんス…村の外に出てそのまま帰ってこ\n"
+"なかったりなんてことは良くあったっス…"
+msgstr ""
+"\\n[\\v[6]]，说实话，\n"
+"像这样村民消失的事并不是现在才开始的…\n"
+"出去村子后就再也没回来之类的事也经常有…"
+
+#. ID 5, Page 2, Line 73, Pos (18,7)
+msgid ""
+"そういう場合は外で運悪く密猟者に捕まっ\n"
+"たり、外に触れてこの村が嫌になったとい\n"
+"う事なんスけど…\\!ただあの二人は元々こ\n"
+"こに逃げ込んできたっスから…"
+msgstr ""
+"那种情况，大多是在外面运气不好被偷猎者抓住，\n"
+"或者接触了外面后讨厌这个村子了…\n"
+"\\!不过那两个人原本是逃到这里来的…"
+
+#. ID 5, Page 2, Line 77, Pos (18,7)
+msgid ""
+"だから家出ということを考えないとすれば\n"
+"村の中にいて姿を消すってはじめての事件\n"
+"なんス…\\!ひょっとすると外の世界の人間\n"
+"がこの村の存在に気づいたのかも…"
+msgstr ""
+"所以，如果不考虑离家出走的话，\n"
+"在村子里消失就是第一次发生的事件…\n"
+"\\!说不定是外面世界的人注意到了这个村子的存在…"
+
+#. ID 5, Page 2, Line 81, Pos (18,7)
+msgid ""
+"みんな姿が姿っスから…\\!外では大変高く\n"
+"売れるでしょうし…\\!そういう密猟者は\n"
+"一杯いるみたいっス…"
+msgstr ""
+"大家可都是那副样子…\\!在外面肯定能卖很高的价钱…\n"
+"\\!那样的偷猎者好像有很多…"
+
+#. ID 5, Page 2, Line 84, Pos (18,7)
+msgid ""
+"とりあえず、これからは警戒を厳重にして\n"
+"しっかりと村で自衛する必要があるっス！\n"
+"\\!\\!\\n[\\v[6]]さんもあんまり村から出ない\n"
+"方がいいッスよ…"
+msgstr ""
+"总之，今后必须严格警戒，好好在村里自卫！\n"
+"\\!\\!\\n[\\v[6]]先生/女士也最好不要多出村哦…"
+
+#. ID 5, Page 4, Line 36, Pos (18,7)
+msgid "物音がする…"
+msgstr "有声音…"
+
+#. ID 5, Page 4, Line 56, Pos (18,7)
+msgid ""
+"そういえば…\\!なすーんがいない…！！\n"
+"外だろうか？\\!なにか嫌な予感がする…！"
+msgstr ""
+"说起来…\\!娜丝恩不见了…！！在外面吗？\n"
+"\\!有种不祥的预感…！"
+
+#. ID 5, Page 7, Line 16, Pos (18,7)
+msgid ""
+"異端者として孤独に過ごすのか？\n"
+"それとも支配されて愛されながら生きるの\n"
+"か？\\!貴女の望みはどっちなの？"
+msgstr ""
+"作为异端者孤独地度过吗？还是被支配着、\n"
+"被爱着活下去？\\!你的愿望是哪一个？"
+
+#. ID 5, Page 7, Line 25, Pos (18,7)
+#. Contains choice at line 2 (2 options)
+msgid "わたしは…"
+msgstr "我…"
+
+#. ID 5, Page 7, Line 26, Pos (18,7)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 8, Line 15, Pos (18,7)
+#. Choice (2 options)
+msgid ""
+"起きる\n"
+"起きない"
+msgstr ""
+"起来\n"
+"不起来"
+
+#. ID 5, Page 7, Line 36, Pos (18,7)
+#. ID 5, Page 8, Line 25, Pos (18,7)
+msgid "………行こう…"
+msgstr "………走吧…"
+
+#. ID 5, Page 7, Line 54, Pos (18,7)
+#. ID 5, Page 8, Line 77, Pos (18,7)
+msgid ""
+"おはようございます。\n"
+"今日もいい天気ですよ。"
+msgstr "早上好。今天也是好天气哦。"
+
+#. ID 5, Page 7, Line 59, Pos (18,7)
+msgid "これでいいんだ…これで…"
+msgstr "这样就好…这样…"
+
+#. ID 6, Page 2, Line 3, Pos (21,7)
+#. ID 6, Page 4, Line 3, Pos (21,7)
+msgid "zzz"
+msgstr "zzz"
+
+#. ID 8, Page 1, Line 3, Pos (23,3)
+#. Contains choice at line 2 (3 options)
+msgid "[勝手に追加]変数確認とリセット用イベント"
+msgstr "[擅自追加]变量确认与重置用事件"
+
+#. ID 8, Page 1, Line 4, Pos (23,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"変数の確認\n"
+"イベントのリセット\n"
+"何もしない"
+msgstr ""
+"变量确认\n"
+"事件重置\n"
+"什么都不做"
+
+#. ID 8, Page 1, Line 6, Pos (23,3)
+msgid ""
+"変数\n"
+"　1230 : \\v[1230] 密猟者"
+msgstr "变量　1230 : \\v[1230] 盗猎者"
+
+#. ID 8, Page 1, Line 10, Pos (23,3)
+#. Contains choice at line 2 (2 options)
+msgid "本当にリセットしますか？"
+msgstr "真的要重置吗？"
+
+#. ID 8, Page 1, Line 17, Pos (23,3)
+msgid "リセットが完了しました。ワールドマップへ移動します。"
+msgstr "重置已完成。移动到世界地图。"

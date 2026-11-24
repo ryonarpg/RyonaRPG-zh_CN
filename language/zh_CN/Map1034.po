@@ -1,0 +1,232 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (9,99)
+#. ChangeHeroName (Actor 115)
+#. ID 7, Page 2, Line 11, Pos (29,46)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:ライオネル"
+msgstr "end:莱昂内尔"
+
+#. ID 3, Page 2, Line 4, Pos (11,4)
+msgid "\\S[2][ERROR!!!ERROR!!!ERROR!!!ERROR!!!]"
+msgstr "\\S[2][ERROR!!!ERROR!!!ERROR!!!ERROR!!!]"
+
+#. ID 3, Page 2, Line 8, Pos (11,4)
+msgid ""
+"\\S[0]どうやらすぐそばのセキュリティドアを制御する\n"
+"機械のようだが壊れてしまっているようだ。"
+msgstr ""
+"\\S[0]看来是控制旁边安全门的机器，\n"
+"但好像已经坏掉了。"
+
+#. ID 6, Page 1, Line 4, Pos (29,58)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"グラドス撃破中につき街には戻れません。\n"
+"このダンジョンから出ますか？"
+msgstr ""
+"由于正在击破格拉多斯，不能回城。\n"
+"要离开这个迷宫吗？"
+
+#. ID 6, Page 1, Line 6, Pos (29,58)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 2, Line 19, Pos (33,53)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 2, Line 19, Pos (33,47)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 7, Page 2, Line 5, Pos (29,46)
+#. Choice (2 options)
+msgid ""
+"ゴーグ機構基地へ入る\n"
+"やめておく"
+msgstr ""
+"进入戈格机构基地\n"
+"算了"
+
+#. ID 8, Page 2, Line 5, Pos (29,52)
+#. ID 10, Page 2, Line 20, Pos (25,53)
+#. ID 11, Page 2, Line 25, Pos (33,53)
+#. ID 12, Page 2, Line 20, Pos (25,47)
+#. ID 13, Page 2, Line 25, Pos (33,47)
+#. ID 14, Page 2, Line 5, Pos (29,50)
+msgid "\\S[2][クリアランスカードをチェックします…\\|…\\|…\\|]"
+msgstr "\\S[2][正在检查权限卡…\\|…\\|…\\|]"
+
+#. ID 8, Page 2, Line 8, Pos (29,52)
+#. ID 14, Page 2, Line 8, Pos (29,50)
+msgid ""
+"\\S[2][ERROR!!!\n"
+" クリアランスカードの所持を確認できません！]"
+msgstr "\\S[2][ERROR!!! 无法确认持有权限卡！]"
+
+#. ID 8, Page 2, Line 16, Pos (29,52)
+#. ID 10, Page 2, Line 38, Pos (25,53)
+#. ID 12, Page 2, Line 38, Pos (25,47)
+#. ID 14, Page 2, Line 16, Pos (29,50)
+msgid "\\S[2][Complete......ようこそ幸福なる市民\\n[\\v[6]]]"
+msgstr "\\S[2][Complete......欢迎，幸福的市民\\n[\\v[6]]]"
+
+#. ID 8, Page 2, Line 26, Pos (29,52)
+#. ID 14, Page 2, Line 26, Pos (29,50)
+msgid "\\S[2][ERROR!!!クリアランス階級が正しくありません！]"
+msgstr "\\S[2][ERROR!!!权限等级不正确！]"
+
+#. ID 10, Page 2, Line 4, Pos (25,53)
+#. ID 12, Page 2, Line 4, Pos (25,47)
+msgid "\\S[2]* クリアランスカード配布機器"
+msgstr "\\S[2]* 权限卡发放机"
+
+#. ID 10, Page 2, Line 6, Pos (25,53)
+#. ID 12, Page 2, Line 6, Pos (25,47)
+msgid ""
+"\\S[2][クリアランスカードとは、ゴーグ機構基地内に\n"
+" おけるあらゆるものを操作する際に要求され、\n"
+" 階級に応じてそのセキュリティを開示するものです]"
+msgstr ""
+"\\S[2][所谓权限卡，\n"
+" 是在戈格机构基地内操作各种东西时被要求的，\n"
+" 会根据等级开放相应安全权限的东西]"
+
+#. ID 10, Page 2, Line 10, Pos (25,53)
+#. ID 12, Page 2, Line 10, Pos (25,47)
+msgid ""
+"\\S[2][機構基地入場にはクリアランスカードの携帯が\n"
+" 必須となっています。また初期配布後やクリアランス\n"
+" 階級が変化した場合は右手の機器にて、クリアランス\n"
+" 階級の認定処理を受けてください]"
+msgstr ""
+"\\S[2][进入机构基地必须携带权限卡。此外，\n"
+" 在初次发放后或权限等级发生变化时，\n"
+" 请在右手设备上接受权限等级的认定处理]"
+
+#. ID 10, Page 2, Line 15, Pos (25,53)
+#. ID 12, Page 2, Line 15, Pos (25,47)
+msgid ""
+"\\S[2][セキュリティクリアランス違反は重大な反逆行為です\n"
+" 機器や基地内の従業員が発見した場合は、\n"
+" 然る処罰を即座に執行してください]"
+msgstr ""
+"\\S[2][安全权限违规是重大反叛行为。\n"
+" 若被设备或基地内员工发现，请立即执行相应处罚]"
+
+#. ID 10, Page 2, Line 23, Pos (25,53)
+#. ID 12, Page 2, Line 23, Pos (25,47)
+msgid "\\S[2][クリアランスカードの未所持を確認、配布します]"
+msgstr "\\S[2][确认未持有权限卡，进行发放]"
+
+#. ID 10, Page 2, Line 27, Pos (25,53)
+#. ID 12, Page 2, Line 27, Pos (25,47)
+msgid "機械から一枚のカードが出てきた……"
+msgstr "从机器里出来一张卡……"
+
+#. ID 10, Page 2, Line 29, Pos (25,53)
+#. ID 12, Page 2, Line 29, Pos (25,47)
+msgid "クリアランスカードを手に入れた。"
+msgstr "获得了权限卡。"
+
+#. ID 10, Page 2, Line 43, Pos (25,53)
+#. ID 12, Page 2, Line 43, Pos (25,47)
+msgid ""
+"\\S[2][ERROR!!!クリアランス階級が正しくありません！\n"
+" このままゲートを通ると反逆者とみなし処刑します！]"
+msgstr ""
+"\\S[2][ERROR!!!权限等级不正确！\n"
+" 就这样通过大门的话，将被视为反叛者处刑！]"
+
+#. ID 11, Page 2, Line 4, Pos (33,53)
+#. ID 13, Page 2, Line 4, Pos (33,47)
+msgid "\\S[2]* セキュリティクリアランス認定機器"
+msgstr "\\S[2]* 安全权限认定机"
+
+#. ID 11, Page 2, Line 6, Pos (33,53)
+#. ID 13, Page 2, Line 6, Pos (33,47)
+msgid ""
+"\\S[2][この機器ではクリアランスカードの階級を\n"
+"決めるための査定を行っています]"
+msgstr "\\S[2][本机器进行用于决定权限卡等级的评定]"
+
+#. ID 11, Page 2, Line 9, Pos (33,53)
+#. ID 13, Page 2, Line 9, Pos (33,47)
+msgid ""
+"\\S[2][清廉で潔白で幸福な市民はまずRedとして判定され、\n"
+" さらにこの街での奉仕度合いに応じて階級が上昇\n"
+" していきます]"
+msgstr ""
+"\\S[2][清廉纯洁幸福的市民首先被判定为Red，\n"
+" 之后根据在这座城市的服务程度，等级会上升]"
+
+#. ID 11, Page 2, Line 13, Pos (33,53)
+#. ID 13, Page 2, Line 13, Pos (33,47)
+msgid ""
+"\\S[2][それ以外の市民、奴隷やライオネルに敵対する旅人等\n"
+" は全て階級はインフラレッドとして判定されます]"
+msgstr ""
+"\\S[2][除此之外的市民、\n"
+" 奴隶以及敌对莱昂内尔的旅人等，\n"
+"全部被判定为Infrared]"
+
+#. ID 11, Page 2, Line 16, Pos (33,53)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 2, Line 16, Pos (33,47)
+#. Contains choice at line 2 (2 options)
+msgid "\\S[2][セキュリティクリアランス認定を受けますか？]"
+msgstr "\\S[2][要接受安全权限认定吗？]"
+
+#. ID 11, Page 2, Line 28, Pos (33,53)
+#. ID 13, Page 2, Line 28, Pos (33,47)
+msgid ""
+"\\S[2][ERROR!!!\n"
+" クリアランスカードの所持を確認できません！\n"
+" 左手の機器でクリアランスカードを入手してください]"
+msgstr ""
+"\\S[2][ERROR!!! 无法确认持有权限卡！\n"
+" 请用左手设备获取权限卡]"
+
+#. ID 11, Page 2, Line 35, Pos (33,53)
+#. ID 13, Page 2, Line 35, Pos (33,47)
+msgid ""
+"\\S[2][クリアランスカードの所持を確認。\n"
+"あなたのクリアランス階級を判定中…\\|…\\|…\\|]"
+msgstr ""
+"\\S[2][确认持有权限卡。正在判定你的权限等级…\\|…\n"
+"\\|…\\|]"
+
+#. ID 11, Page 2, Line 46, Pos (33,53)
+#. ID 13, Page 2, Line 46, Pos (33,47)
+msgid ""
+"\\S[2][Complete......ようこそ幸福なる市民\\n[\\v[6]]\n"
+" あなたのセキュリティクリアランス階級はレッドです]"
+msgstr ""
+"\\S[2][Complete......欢迎，\n"
+" 幸福的市民\\n[\\v[6]] 你的安全权限等级是Red]"
+
+#. ID 11, Page 2, Line 59, Pos (33,53)
+#. ID 13, Page 2, Line 59, Pos (33,47)
+msgid ""
+"\\S[2][Complete......ようこそ幸福なる市民\\n[\\v[6]]\n"
+" あなたのセキュリティクリアランス階級は\n"
+" インフラレッドです]"
+msgstr ""
+"\\S[2][Complete......欢迎，\n"
+" 幸福的市民\\n[\\v[6]] 你的安全权限等级是Infrared\n"
+" ]"

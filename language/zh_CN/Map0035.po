@@ -1,0 +1,303 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 1, Pos (9,3)
+#. Contains choice at line 2 (2 options)
+msgid "ラベルを使った反復処理時間のテスト"
+msgstr "使用标签的循环处理时间测试"
+
+#. ID 12, Page 2, Line 2, Pos (9,3)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 2, Line 2, Pos (10,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"1秒間\n"
+"2秒間"
+msgstr ""
+"1秒间\n"
+"2秒间"
+
+#. ID 12, Page 2, Line 14, Pos (9,3)
+#. ID 13, Page 2, Line 14, Pos (10,3)
+#. ID 14, Page 2, Line 14, Pos (12,3)
+#. ID 14, Page 2, Line 29, Pos (12,3)
+#. ID 15, Page 2, Line 20, Pos (13,3)
+#. ID 15, Page 2, Line 38, Pos (13,3)
+#. ID 15, Page 2, Line 70, Pos (13,3)
+msgid "閉じたらスタート"
+msgstr "关闭后开始"
+
+#. ID 12, Page 2, Line 18, Pos (9,3)
+#. ID 13, Page 2, Line 18, Pos (10,3)
+#. ID 14, Page 2, Line 19, Pos (12,3)
+#. ID 14, Page 2, Line 35, Pos (12,3)
+#. ID 15, Page 2, Line 25, Pos (13,3)
+#. ID 15, Page 2, Line 57, Pos (13,3)
+#. ID 15, Page 2, Line 75, Pos (13,3)
+msgid "\\v[1201]"
+msgstr "\\v[1201]"
+
+#. ID 13, Page 2, Line 1, Pos (10,3)
+#. Contains choice at line 2 (2 options)
+msgid "繰り返し処理を使った反復処理時間のテスト"
+msgstr "使用重复处理的循环处理时间测试"
+
+#. ID 14, Page 2, Line 1, Pos (12,3)
+#. Contains choice at line 2 (2 options)
+msgid "注釈が入った場合の反復処理時間のテスト"
+msgstr "加入注释时的循环处理时间测试"
+
+#. ID 14, Page 2, Line 3, Pos (12,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"注釈イベント1つ\n"
+"注釈イベント2つ"
+msgstr ""
+"注释事件1个\n"
+"注释事件2个"
+
+#. ID 15, Page 2, Line 1, Pos (13,3)
+#. Contains choice at line 2 (3 options)
+msgid "ウェイトが入った場合の反復処理時間のテスト"
+msgstr "加入等待时的循环处理时间测试"
+
+#. ID 15, Page 2, Line 3, Pos (13,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"ウェイト0.0秒x1\n"
+"ウェイト0.0秒x15\n"
+"ウェイト0.1秒x1"
+msgstr ""
+"等待0.0秒x1\n"
+"等待0.0秒x15\n"
+"等待0.1秒x1"
+
+#. ID 16, Page 2, Line 1, Pos (9,6)
+msgid ""
+"\\>ここはデバッグ・テスト用のマップです。\n"
+"\\>ここで起きたエラーやバグは当然、動作保証外ですので\n"
+"\\>サポートはできません。ご了承下さい。"
+msgstr ""
+"\\>这里是调试·测试用的地图。\n"
+"\\>在这里发生的错误和漏洞当然不在运行保证范围内，\n"
+"\\>因此无法提供支持。敬请谅解。"
+
+#. ID 17, Page 2, Line 1, Pos (12,9)
+msgid ""
+"\\>超高速で動く私の動きが止まっているかどうかで\n"
+"\\>メイン処理が止まっているかどうかが判断できます。"
+msgstr ""
+"\\>根据以超高速移动的我的动作是否停止，\n"
+"\\>就能判断主处理是否停止。"
+
+#. ID 18, Page 2, Line 1, Pos (11,0)
+msgid ""
+"\\>出口はありません。なぜならデバッグ用だから。\n"
+"\\>お手持ちのデバッグツールをご利用下さい。"
+msgstr ""
+"\\>没有出口。因为这是调试用的。\n"
+"\\>请使用您手头的调试工具。"
+
+#. ID 19, Page 2, Line 4, Pos (12,6)
+#. Choice (4 options)
+msgid ""
+"\\>注入\n"
+"\\>アナル注入\n"
+"\\>乳責め・ニプル\n"
+"\\>尿道責め"
+msgstr ""
+"\\>注入\n"
+"\\>肛门注入\n"
+"\\>乳责·乳头\n"
+"\\>尿道责弄"
+
+#. ID 20, Page 2, Line 3, Pos (17,4)
+#. ChangeHeroName (Actor 101)
+#. ID 20, Page 2, Line 10, Pos (17,4)
+#. ChangeHeroName (Actor 102)
+#. ID 20, Page 2, Line 17, Pos (17,4)
+#. ChangeHeroName (Actor 103)
+#. ID 21, Page 2, Line 39, Pos (1,6)
+#. ChangeHeroName (Actor 101)
+#. ID 21, Page 2, Line 46, Pos (1,6)
+#. ChangeHeroName (Actor 102)
+#. ID 21, Page 2, Line 53, Pos (1,6)
+#. ChangeHeroName (Actor 103)
+#. ID 21, Page 2, Line 128, Pos (1,6)
+#. ChangeHeroName (Actor 101)
+#. ID 21, Page 2, Line 135, Pos (1,6)
+#. ChangeHeroName (Actor 102)
+#. ID 21, Page 2, Line 142, Pos (1,6)
+#. ChangeHeroName (Actor 103)
+#. ID 21, Page 2, Line 166, Pos (1,6)
+#. ChangeHeroName (Actor 101)
+#. ID 21, Page 2, Line 173, Pos (1,6)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "ON"
+msgstr "开"
+
+#. ID 20, Page 2, Line 6, Pos (17,4)
+#. ChangeHeroName (Actor 101)
+#. ID 20, Page 2, Line 13, Pos (17,4)
+#. ChangeHeroName (Actor 102)
+#. ID 20, Page 2, Line 20, Pos (17,4)
+#. ChangeHeroName (Actor 103)
+#. ID 21, Page 2, Line 42, Pos (1,6)
+#. ChangeHeroName (Actor 101)
+#. ID 21, Page 2, Line 49, Pos (1,6)
+#. ChangeHeroName (Actor 102)
+#. ID 21, Page 2, Line 56, Pos (1,6)
+#. ChangeHeroName (Actor 103)
+#. ID 21, Page 2, Line 131, Pos (1,6)
+#. ChangeHeroName (Actor 101)
+#. ID 21, Page 2, Line 138, Pos (1,6)
+#. ChangeHeroName (Actor 102)
+#. ID 21, Page 2, Line 145, Pos (1,6)
+#. ChangeHeroName (Actor 103)
+#. ID 21, Page 2, Line 169, Pos (1,6)
+#. ChangeHeroName (Actor 101)
+#. ID 21, Page 2, Line 176, Pos (1,6)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "OFF"
+msgstr "关"
+
+#. ID 20, Page 2, Line 23, Pos (17,4)
+#. Choice (4 options)
+msgid ""
+"\\>0002攻撃許可　\\n[101]\n"
+"\\>0006敵出現　　\\n[102]\n"
+"\\>0427街中　　　\\n[103]\n"
+"\\>コモン007移動時の処理"
+msgstr ""
+"\\>0002攻击许可　\\n[101]\n"
+"\\>0006敌人出现　　\\n[102]\n"
+"\\>0427城镇中　　　\\n[103]\n"
+"\\>通用007移动时处理"
+
+#. ID 21, Page 2, Line 59, Pos (1,6)
+#. Choice (4 options)
+msgid ""
+"\\>魔乳　\\n[101]\n"
+"\\>妊娠　\\n[102]\n"
+"\\>ふたなり　\\n[103]\n"
+"\\>＞＞"
+msgstr ""
+"\\>魔乳　\\n[101]\n"
+"\\>怀孕　\\n[102]\n"
+"\\>扶她　\\n[103]\n"
+"\\>＞＞"
+
+#. ID 21, Page 2, Line 76, Pos (1,6)
+#. Choice (4 options)
+msgid ""
+"\\>ピアス耳　\\v[1013]\n"
+"\\>ピアス乳首　\\v[1016]\n"
+"\\>ピアス栗　\\v[1017]\n"
+"\\>＞＞"
+msgstr ""
+"\\>耳部环　\\v[1013]\n"
+"\\>乳头环　\\v[1016]\n"
+"\\>阴蒂穿孔　\\v[1017]\n"
+"\\>＞＞"
+
+#. ID 21, Page 2, Line 111, Pos (1,6)
+#. Choice (4 options)
+msgid ""
+"\\>Sw0794立ち絵:首輪SW　ON/OFF\n"
+"\\>Sw0720口枷SW　ON/OFF\n"
+"\\>Sw1074緊縛　ON/OFF\n"
+"\\>＞＞（このページは一時的なSW"
+msgstr ""
+"\\>Sw0794立绘:项圈开关　开/关\n"
+"\\>Sw0720口枷开关　开/关\n"
+"\\>Sw1074束缚　开/关\n"
+"\\>＞＞（此页面是临时开关"
+
+#. ID 21, Page 2, Line 148, Pos (1,6)
+#. Choice (4 options)
+msgid ""
+"\\>母乳体質　\\n[101]\n"
+"\\>貞操帯　\\n[102]\n"
+"\\>触手メイデン　\\n[103]\n"
+"\\>＞＞"
+msgstr ""
+"\\>母乳体质　\\n[101]\n"
+"\\>贞操带　\\n[102]\n"
+"\\>触手少女　\\n[103]\n"
+"\\>＞＞"
+
+#. ID 21, Page 2, Line 179, Pos (1,6)
+#. Choice (4 options)
+msgid ""
+"\\>はんがー　\\n[101]\n"
+"\\>木馬　\\n[102]\n"
+"\\>ダメージ絵のテスト\n"
+"\\>＞＞"
+msgstr ""
+"\\>衣架　\\n[101]\n"
+"\\>木马　\\n[102]\n"
+"\\>伤害图测试\n"
+"\\>＞＞"
+
+#. ID 21, Page 2, Line 193, Pos (1,6)
+msgid "\\>キーで次へ"
+msgstr "\\>按键进入下一步"
+
+#. ID 21, Page 2, Line 200, Pos (1,6)
+#. Choice (4 options)
+msgid ""
+"\\>種族転生　\\v[360]\n"
+"\\>\n"
+"\\>\n"
+"\\>＞＞"
+msgstr ""
+"\\>种族转生　\\v[360]\n"
+"\\>\n"
+"\\>\n"
+"\\>＞＞"
+
+#. ID 21, Page 2, Line 202, Pos (1,6)
+msgid ""
+"\\>0:通常　1:雌犬　2:猫　3:メカ　4:蜂　5:ラミア\n"
+"\\>6:プラント　7:りりむ　8:スライム\n"
+"\\>9:アラクネ　20:ハーピー　21:淫魔(未使用)"
+msgstr ""
+"\\>0:普通　1:雌犬　2:猫　3:机械　4:蜂　5:拉米亚\n"
+"\\>6:植物　7:莉莉姆　8:史莱姆\\>9:阿剌克涅　20:\n"
+"哈比　21:淫魔(未使用)"
+
+#. ID 22, Page 1, Line 1, Pos (3,6)
+msgid ""
+"\\>技名表示のテスト\n"
+"\\>v[215]表示する技番号"
+msgstr "\\>技能名显示测试\\>v[215]要显示的技能编号"
+
+#. ID 23, Page 2, Line 1, Pos (19,7)
+msgid ""
+"\\>私はイベントです。\n"
+"\\>私に重なった敵に飛び道具を当てることができますか？"
+msgstr ""
+"\\>我是事件。\n"
+"\\>可以对与我重叠的敌人用飞行道具命中吗？"
+
+#. ID 24, Page 2, Line 1, Pos (16,7)
+#. Choice (2 options)
+msgid ""
+"\\>全回復\n"
+"\\>HP増減"
+msgstr ""
+"\\>完全恢复\n"
+"\\>HP增减"

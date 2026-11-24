@@ -1,0 +1,130 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 27, Page 2, Line 3, Pos (14,6)
+#. Contains choice at line 3 (2 options)
+#. ID 28, Page 2, Line 3, Pos (4,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"魔族の記録媒体を見つけた\n"
+"読みますか？"
+msgstr "发现了魔族的记录媒体。要阅读吗？"
+
+#. ID 27, Page 2, Line 5, Pos (14,6)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 2, Line 5, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 27, Page 2, Line 14, Pos (14,6)
+msgid "魔界に少しずつ穴が空き始めた"
+msgstr "魔界开始一点点出现洞穴"
+
+#. ID 27, Page 2, Line 15, Pos (14,6)
+msgid ""
+"突然地面が崩れ、巨大な穴ができた\\!\n"
+"穴の中に飲み込まれた仲間達は帰ってこなかった\\!\n"
+"また、穴から瘴気が溢れ、多くの仲間が毒に侵された"
+msgstr ""
+"地面突然崩塌，\n"
+"形成了一个巨大的洞穴\\!被吞入洞穴中的同伴们没有\n"
+"回来\\!此外，瘴气从洞穴中溢出，\n"
+"许多同伴受到了毒侵"
+
+#. ID 27, Page 2, Line 18, Pos (14,6)
+msgid "穴は無限に広がっていくようだった"
+msgstr "洞穴似乎正在无限扩大"
+
+#. ID 27, Page 2, Line 19, Pos (14,6)
+msgid ""
+"私は時々、穴の底に「赤い荒野」を\n"
+"見たような気がする\n"
+"あれは一体何なのだろうか"
+msgstr ""
+"我有时觉得好像看到了洞穴底部的「赤红荒野」。\n"
+"那究竟是什么"
+
+#. ID 27, Page 2, Line 22, Pos (14,6)
+msgid ""
+"私達は穴の膨張を止める手立てを求め、\n"
+"ジ・アストラルの知識媒体を解読し始めた"
+msgstr ""
+"我们为了寻求阻止洞穴膨胀的方法，\n"
+"开始解读吉·阿斯特拉尔的记录媒体"
+
+#. ID 27, Page 2, Line 28, Pos (14,6)
+msgid "……近頃 人間界の侵略を企てる者が現れ始めた"
+msgstr "……近来，开始出现企图侵略人间界的人"
+
+#. ID 27, Page 2, Line 29, Pos (14,6)
+msgid ""
+"嘆かわしいことだ\\!\n"
+"この問題に人間界を巻き込むべきではない"
+msgstr "真是可叹\\!不应该把人间界卷入这个问题"
+
+#. ID 28, Page 2, Line 14, Pos (4,6)
+msgid "人間界でみなしごに出会った"
+msgstr "我在人间界遇到了孤儿"
+
+#. ID 28, Page 2, Line 15, Pos (4,6)
+msgid ""
+"私はその娘に妙に魅かれ保護することにした\\!\n"
+"その娘の名は「\\C[2]エヴァ\\C[0]」という\\!\n"
+"私はエヴァに父親のように接した"
+msgstr ""
+"我莫名地被那个女孩吸引，\n"
+"决定保护她\\!那个女孩名叫「\\C[2]艾娃\\C[0]」\\!我像\n"
+"父亲一样对待艾娃"
+
+#. ID 28, Page 2, Line 18, Pos (4,6)
+msgid ""
+"我々魔族と比べたら人間の寿命は短い\\!\n"
+"エヴァは瞬く間に成長した"
+msgstr ""
+"与吾等魔族相比，\n"
+"人类的寿命很短\\!艾娃转眼间就长大了"
+
+#. ID 28, Page 2, Line 20, Pos (4,6)
+msgid ""
+"彼女には特別な力とカリスマがあった\\!\n"
+"いつからか彼女は「\\C[2]聖女\\C[0]」と\n"
+"呼ばれるようになっていた"
+msgstr ""
+"她拥有特别的力量与魅力\\!不知从何时起，\n"
+"她开始被称为「\\C[2]圣女\\C[0]」"
+
+#. ID 28, Page 2, Line 27, Pos (4,6)
+msgid ""
+"だが、私はエヴァに\n"
+"他の人間とは異質な物を感じていた\\!\n"
+"いや、人間達も同じような物を\n"
+"感じていたのかもしれない"
+msgstr ""
+"但是，\n"
+"我在艾娃身上感受到了与其他人类不同的异质之物\\!\n"
+"不，也许人类们也感受到了类似的东西"
+
+#. ID 28, Page 2, Line 31, Pos (4,6)
+msgid ""
+"彼女から醸し出される雰囲気は、\n"
+"何故か、あの「赤い荒野」を\n"
+"思い起こさずにはいられなかった"
+msgstr ""
+"她散发出的氛围，不知为何，\n"
+"总让人不由得想起那片「赤红荒野」"

@@ -1,0 +1,73 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 5, Pos (7,5)
+msgid ""
+"私と一緒に住んでいた奴隷の人は、\n"
+"先日この街を出ていったそうです。"
+msgstr ""
+"听说和我一起住过的那个奴隶，\n"
+"前几天离开了这座城市。"
+
+#. ID 4, Page 1, Line 7, Pos (7,5)
+msgid "何かあったんでしょうか……？"
+msgstr "是发生什么事了吗……？"
+
+#. ID 4, Page 1, Line 11, Pos (7,5)
+msgid "公衆浴場へは行きましたか？"
+msgstr "你去过公共浴场了吗？"
+
+#. ID 4, Page 1, Line 15, Pos (7,5)
+msgid "アバロソのみんなは今どうしているかな……。"
+msgstr "阿巴罗索的大家现在过得怎么样呢……。"
+
+#. ID 4, Page 1, Line 19, Pos (7,5)
+msgid "こんにちは。"
+msgstr "你好。"
+
+#. ID 5, Page 1, Line 5, Pos (20,5)
+msgid ""
+"性奴隷としての日々が嫌で、\n"
+"ここへと逃げて来たのですけれど…"
+msgstr "因为厌倦了当性奴隶的日子，我才逃到这里来的……"
+
+#. ID 5, Page 1, Line 7, Pos (20,5)
+msgid ""
+"時折……あの日々を思い出してしまうの。\n"
+"……忘れられないのですわね、結局。"
+msgstr "有时……会想起那段日子。……结果还是忘不掉呢。"
+
+#. ID 5, Page 1, Line 12, Pos (20,5)
+msgid ""
+"奴隷に戻りたい、と……\n"
+"まったく思わないわけでは、ないんです。"
+msgstr "也不是……完全没有想过要回到奴隶身份。"
+
+#. ID 5, Page 1, Line 17, Pos (20,5)
+msgid ""
+"奴隷としての義務は負わないとはいえ、\n"
+"首輪を切っては、いただけません。"
+msgstr ""
+"虽说不用承担奴隶的义务，\n"
+"但项圈还是不能取下来的。"
+
+#. ID 5, Page 1, Line 19, Pos (20,5)
+msgid ""
+"……やはり、どこまでいっても奴隷、\n"
+"ということでしょうか？"
+msgstr "……果然，无论到哪里都还是奴隶，是这个意思吗？"
+
+#. ID 5, Page 1, Line 24, Pos (20,5)
+msgid "ごきげんよう。"
+msgstr "愿您安好。"

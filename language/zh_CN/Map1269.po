@@ -1,0 +1,81 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 31, Page 2, Line 4, Pos (21,10)
+msgid ""
+"名前：アークメイジ\n"
+"種族：悪鬼"
+msgstr "名字：大法师 种族：恶鬼"
+
+#. ID 31, Page 2, Line 6, Pos (21,10)
+msgid "姑息な魔法使い"
+msgstr "卑鄙的魔法师"
+
+#. ID 31, Page 2, Line 7, Pos (21,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$1500Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$1500G可以打听攻略情报。要打听吗？"
+
+#. ID 31, Page 2, Line 9, Pos (21,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 31, Page 2, Line 15, Pos (21,10)
+msgid ""
+"高速で動き回り、突然立ち止まると\n"
+"魔法を飛ばして攻撃してくる\\!\n"
+"その姿はまさにゴキブリ\\!\n"
+"聖属性が有効だ"
+msgstr ""
+"高速四处移动，\n"
+"突然停下就会放出魔法攻击\\!那样子简直是蟑螂\\!圣\n"
+"属性有效"
+
+#. ID 31, Page 2, Line 19, Pos (21,10)
+msgid ""
+"とにかく軸を合わせないように注意\\!\n"
+"特に青色のボール（プラズマ弾）は\n"
+"すげー威力"
+msgstr ""
+"总之要注意不要和它对上轴心\\!尤其是蓝色的球\n"
+"（等离子弹）威力超强"
+
+#. ID 31, Page 2, Line 22, Pos (21,10)
+msgid ""
+"稀に\\C[2]マジックパンタクル\\C[0]を\n"
+"落とす"
+msgstr "偶尔会掉落\\C[2]魔法五芒星\\C[0]"
+
+#. ID 32, Page 2, Line 3, Pos (4,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ここから地上へ戻れるようだ\n"
+"地上に戻りますか？"
+msgstr "好像可以从这里返回地上。要返回地上吗？"
+
+#. ID 32, Page 2, Line 5, Pos (4,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

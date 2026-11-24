@@ -1,0 +1,64 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 36, Page 2, Line 4, Pos (25,20)
+#. ID 86, Page 2, Line 4, Pos (38,74)
+msgid "扉は固く閉ざされている……。"
+msgstr "门紧紧关闭着……。"
+
+#. ID 36, Page 2, Line 7, Pos (25,20)
+#. ID 86, Page 2, Line 7, Pos (38,74)
+msgid "扉は再び閉ざされてしまった……。"
+msgstr "门再次关闭了……。"
+
+#. ID 107, Page 2, Line 4, Pos (42,78)
+msgid ""
+"この身体では\n"
+"レバーを動かすことは不可能だ……。"
+msgstr "以这个身体无法扳动拉杆……。"
+
+#. ID 107, Page 2, Line 9, Pos (42,78)
+#. Contains choice at line 2 (2 options)
+#. ID 117, Page 2, Line 3, Pos (10,42)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを見つけた。操作しますか?"
+msgstr "发现了拉杆。要操作吗？"
+
+#. ID 107, Page 2, Line 10, Pos (42,78)
+#. Choice (2 options, embedded in a message)
+#. ID 117, Page 2, Line 4, Pos (10,42)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 107, Page 3, Line 3, Pos (42,78)
+#. ID 117, Page 3, Line 3, Pos (10,42)
+msgid "固定されて元に戻らないようだ。"
+msgstr "似乎被固定住，无法恢复原位。"
+
+#. ID 112, Page 2, Line 4, Pos (28,22)
+msgid ""
+"注意!\n"
+"通行後は自動的に扉閉されます!"
+msgstr "注意！通过后门会自动关闭！"
+
+#. ID 112, Page 2, Line 8, Pos (28,22)
+msgid ""
+"竭ﾙ!ﾚ[ｵ!\n"
+"隧y=ｻﾛｵKｼ舂M鐱vｵg硺漫!"
+msgstr "竭ル!レ[オ!隧y=サロオKシ舂M鐱vオg硺漫!"

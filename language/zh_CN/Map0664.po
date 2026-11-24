@@ -1,0 +1,45 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 3, Pos (5,23)
+#. ID 1, Page 3, Line 3, Pos (5,23)
+#. ID 1, Page 4, Line 3, Pos (5,23)
+msgid "＊鍵が掛かっている。"
+msgstr "＊锁上了。"
+
+#. ID 3, Page 1, Line 3, Pos (5,10)
+msgid "＊故障中と張り紙されている。"
+msgstr "＊上面贴着「故障中」的纸条。"
+
+#. ID 4, Page 1, Line 3, Pos (3,11)
+#. ID 5, Page 1, Line 3, Pos (4,10)
+msgid "人形が置いてある。"
+msgstr "放着一个人偶。"
+
+#. ID 4, Page 1, Line 8, Pos (3,11)
+msgid "た………す…………け…………て……………"
+msgstr "救………救…………救…………我……………"
+
+#. ID 4, Page 1, Line 13, Pos (3,11)
+#. ID 5, Page 1, Line 14, Pos (4,10)
+msgid "何か聞こえたような気がする。"
+msgstr "感觉好像听到了什么。"
+
+#. ID 5, Page 1, Line 8, Pos (4,10)
+msgid ""
+"こ………シュ…………ク…………\n"
+"性……隷………テ…………生活…………デ……キ……"
+msgstr ""
+"这………性…………奴……………性……奴隶………生…………活…………能……\n"
+"做……"

@@ -1,0 +1,37 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 45, Page 2, Line 3, Pos (35,12)
+#. ID 46, Page 2, Line 3, Pos (32,12)
+msgid ""
+"＊２つの電源装置を順番通り起動してください\n"
+"　と書かれている"
+msgstr "＊上面写着请按顺序启动2个电源装置"
+
+#. ID 45, Page 3, Line 3, Pos (35,12)
+#. ID 46, Page 3, Line 3, Pos (32,12)
+msgid "＊[管理者エレベーター起動]"
+msgstr "＊[管理者电梯启动]"
+
+#. ID 63, Page 2, Line 3, Pos (33,11)
+#. ID 64, Page 2, Line 3, Pos (34,11)
+msgid ""
+"＊扉は開かない……\n"
+"　どこか、遠隔から開閉を操作しているようだ"
+msgstr "＊门打不开……　似乎有人在某处远程操作开关"
+
+#. ID 63, Page 3, Line 11, Pos (33,11)
+#. ID 64, Page 3, Line 11, Pos (34,11)
+msgid "＊閉ざされていた扉が開いた！"
+msgstr "＊关闭着的门打开了！"

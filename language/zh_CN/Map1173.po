@@ -1,0 +1,49 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 14, Page 2, Line 4, Pos (4,3)
+msgid ""
+"名前：紅導師\n"
+"種族：人男"
+msgstr "名字：红导师 种族：人男"
+
+#. ID 14, Page 2, Line 6, Pos (4,3)
+msgid "魔術師タイプのダンジョンの守護者"
+msgstr "魔术师类型的迷宫守护者"
+
+#. ID 14, Page 2, Line 7, Pos (4,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$1000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "\\$1000G可以听取攻略情报。要听吗？"
+
+#. ID 14, Page 2, Line 9, Pos (4,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 14, Page 2, Line 16, Pos (4,3)
+msgid ""
+"炎属性の魔法で攻撃してくるため、\n"
+"炎耐性装備が有効"
+msgstr "由于会用火属性魔法攻击，火耐性装备有效"
+
+#. ID 14, Page 2, Line 18, Pos (4,3)
+msgid "魔法陣は近接攻撃で打ち消すことができる"
+msgstr "魔法阵可以用近接攻击打消"

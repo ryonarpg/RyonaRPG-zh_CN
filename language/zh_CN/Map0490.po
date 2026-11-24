@@ -1,0 +1,105 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 2, Line 5, Pos (0,17)
+msgid "地震だ！"
+msgstr "地震了！"
+
+#. ID 13, Page 2, Line 12, Pos (0,17)
+msgid ""
+"地震だ！\n"
+"\\.震源が近づいているような気がする…"
+msgstr "地震了！\\.感觉震源正在靠近……"
+
+#. ID 16, Page 2, Line 3, Pos (3,6)
+msgid "可燃物は第２倉庫に保管すること。"
+msgstr "可燃物须存放在第2仓库。"
+
+#. ID 32, Page 2, Line 3, Pos (7,9)
+msgid "第１倉庫"
+msgstr "第1仓库"
+
+#. ID 33, Page 2, Line 3, Pos (1,7)
+msgid "ボロボロに錆びていて使い物になりそうもない。"
+msgstr "锈得破破烂烂，看起来没法用了。"
+
+#. ID 47, Page 2, Line 5, Pos (1,9)
+msgid "ランタンを手に入れた。"
+msgstr "获得了提灯。"
+
+#. ID 49, Page 2, Line 3, Pos (8,1)
+#. ID 57, Page 2, Line 3, Pos (9,1)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"
+
+#. ID 62, Page 2, Line 3, Pos (27,7)
+msgid "人間を見るのは何年ぶりかのー"
+msgstr "多少年没见过人类了啊——"
+
+#. ID 62, Page 2, Line 4, Pos (27,7)
+msgid ""
+"ブタに売るのも飽きたし、お主\n"
+"わしの武具を見ていかんか？"
+msgstr "卖给猪也卖腻了，你要不要看看我的武具？"
+
+#. ID 62, Page 2, Line 11, Pos (27,7)
+msgid ""
+"奥に進むんなら、赤いクラゲに気を付けるんじゃな。\n"
+"奴ら、鎧を溶かしてきやがるからのう。"
+msgstr ""
+"如果要往里走，可要当心红水母。\n"
+"那些家伙会把铠甲溶掉。"
+
+#. ID 62, Page 2, Line 13, Pos (27,7)
+msgid ""
+"ま、わしの作った鎧なら溶かされる心配はないがの。\n"
+"まったく人間の仕事は適当でいかんな、ガハハハ！"
+msgstr ""
+"不过，我做的铠甲倒不用担心被溶掉。真是的，\n"
+"人类干活太随便了，嘎哈哈哈！"
+
+#. ID 62, Page 2, Line 20, Pos (27,7)
+msgid ""
+"そうじゃった、邪竜ん所に行くのなら、\n"
+"あまり時間をかけん方がいいぞ。"
+msgstr "对了，如果要去邪龙那里，最好别花太多时间。"
+
+#. ID 62, Page 2, Line 22, Pos (27,7)
+msgid ""
+"昔わしらが工事用に作った魔導機械が\n"
+"まだ動いとるからのう。"
+msgstr "因为我们以前为施工制造的魔导机械还在运转呢。"
+
+#. ID 62, Page 2, Line 24, Pos (27,7)
+msgid ""
+"あれは盟友のブタやわしらは襲わんが、\n"
+"人間には容赦せんからな。"
+msgstr ""
+"那东西不会袭击盟友猪和我们，\n"
+"但对人类可毫不留情。"
+
+#. ID 62, Page 2, Line 26, Pos (27,7)
+msgid ""
+"ま、出会っちまったら魔法にだけは\n"
+"絶対に当たらんことじゃな。"
+msgstr "不过，万一碰上了，千万别被魔法打中啊。"
+
+#. ID 62, Page 2, Line 28, Pos (27,7)
+msgid ""
+"あれはパワーだけはあるからのう。\n"
+"もしまともに食らっちまったら、まぁ\n"
+"あとかたもないじゃろうなー"
+msgstr ""
+"那东西别的没有，就是力量十足。\n"
+"要是正面挨上一击，嗯，恐怕会连渣都不剩吧。"

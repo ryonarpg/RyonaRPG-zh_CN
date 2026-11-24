@@ -1,0 +1,75 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 18, Page 2, Line 3, Pos (6,8)
+msgid ""
+"今日で我々の仕事は終わりだ\\!\n"
+"ムーアの顔を見るのも最後だろう"
+msgstr ""
+"今天我们的工作就结束了\\!看到摩尔的脸也将是最后\n"
+"一次吧"
+
+#. ID 18, Page 2, Line 5, Pos (6,8)
+msgid "この塔は封印する"
+msgstr "封印这座塔"
+
+#. ID 18, Page 2, Line 6, Pos (6,8)
+msgid "永久に壊れないことを祈っている"
+msgstr "祈祷它永远不会损坏"
+
+#. ID 19, Page 2, Line 3, Pos (13,8)
+msgid ""
+"悪魔が作ったモンスターが\n"
+"この世界で繁殖していることが分かった"
+msgstr "发现恶魔制造的怪物正在这个世界繁殖"
+
+#. ID 19, Page 2, Line 5, Pos (13,8)
+msgid "世界は穢されてしまった"
+msgstr "世界已被玷污"
+
+#. ID 19, Page 2, Line 6, Pos (13,8)
+msgid ""
+"悪魔は自らの手を煩わせることも\n"
+"ないのだろう"
+msgstr "恶魔大概也不必亲自动手吧"
+
+#. ID 19, Page 2, Line 8, Pos (13,8)
+msgid "人類は未だに侵攻されている"
+msgstr "人类至今仍在遭受侵略"
+
+#. ID 19, Page 2, Line 9, Pos (13,8)
+msgid ""
+"何年後か何万年後なのか分からないが\n"
+"やがて滅ぶだろう"
+msgstr "不知道是几年后还是几万年后，但终将灭亡吧"
+
+#. ID 20, Page 2, Line 3, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+msgid "＊魔力溜まりがある。"
+msgstr "＊有魔力池。"
+
+#. ID 20, Page 2, Line 4, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"魔力を回復する\n"
+"いいえ"
+msgstr ""
+"恢复魔力\n"
+"否"
+
+#. ID 21, Page 2, Line 4, Pos (7,5)
+msgid ""
+"名前：厳かなムーア\n"
+"種族：不明"
+msgstr "名字：庄严的摩尔种族：不明"

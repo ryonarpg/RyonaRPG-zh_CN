@@ -1,0 +1,64 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 2, Line 3, Pos (14,13)
+msgid ""
+"姉ちゃん！\\!\n"
+"来てくれるって信じてたよ！"
+msgstr "姐姐！\\!我一直相信你会来！"
+
+#. ID 15, Page 2, Line 5, Pos (14,13)
+msgid ""
+"こっから先はモンスターがいっぱい出てくるからね！\\!\n"
+"気をつけて！"
+msgstr "从这前面开始会出现很多怪物！\\!要小心！"
+
+#. ID 15, Page 3, Line 3, Pos (14,13)
+msgid ""
+"また奴らが戻ってきたんだ\\!\n"
+"おいら追い出されちゃって…\\!\n"
+"グスングスン…"
+msgstr "那些家伙又回来了\\!我被赶出来了…\\!呜呜呜…"
+
+#. ID 15, Page 3, Line 6, Pos (14,13)
+msgid ""
+"ちくしょー！\\!\n"
+"姉ちゃん、また頼むよ！\\!お願いします！"
+msgstr "可恶！\\!姐姐，又要拜托你了！\\!拜托了！"
+
+#. ID 17, Page 2, Line 3, Pos (8,29)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 2, Line 3, Pos (9,29)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 2, Line 3, Pos (10,29)
+#. Contains choice at line 2 (2 options)
+#. ID 20, Page 2, Line 3, Pos (11,29)
+#. Contains choice at line 2 (2 options)
+msgid "このダンジョンから出ますか？"
+msgstr "要离开这个地下城吗？"
+
+#. ID 17, Page 2, Line 4, Pos (8,29)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 2, Line 4, Pos (9,29)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 2, Line 4, Pos (10,29)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 2, Line 4, Pos (11,29)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

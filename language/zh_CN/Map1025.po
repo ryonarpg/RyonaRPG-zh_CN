@@ -1,0 +1,84 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 71, Page 2, Line 3, Pos (45,20)
+#. Contains choice at line 3 (2 options)
+#. ID 81, Page 2, Line 3, Pos (28,20)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"この先が最奥だろうか。\n"
+"なにやら強力なプレッシャーを感じる……。"
+msgstr ""
+"前方就是最深处了吧。\n"
+"总觉得能感受到一股强大的压迫感……。"
+
+#. ID 71, Page 2, Line 5, Pos (45,20)
+#. Choice (2 options, embedded in a message)
+#. ID 81, Page 2, Line 5, Pos (28,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"進む\n"
+"引き返す"
+msgstr ""
+"前进\n"
+"返回"
+
+#. ID 71, Page 2, Line 12, Pos (45,20)
+#. ChangeHeroName (Actor 115)
+#. ID 81, Page 2, Line 12, Pos (28,20)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:ピラミッド審判"
+msgstr "end:金字塔审判"
+
+#. ID 157, Page 2, Line 3, Pos (40,38)
+#. ID 157, Page 3, Line 3, Pos (40,38)
+msgid ""
+"レバーを見つけた……が、\n"
+"固定されているようで動かすことができない。"
+msgstr "发现了拉杆……但似乎被固定住了，无法移动。"
+
+#. ID 157, Page 2, Line 5, Pos (40,38)
+#. ID 157, Page 3, Line 5, Pos (40,38)
+msgid ""
+"見れば、レバーの脇に\n"
+"エメラルドの装飾がなされた鍵穴がついている……\n"
+"対応するカギがなければレバーは動かないようだ。"
+msgstr ""
+"一看，拉杆旁边有一个装饰着祖母绿的钥匙孔……\n"
+"如果没有对应的钥匙，拉杆似乎就无法移动。"
+
+#. ID 157, Page 3, Line 12, Pos (40,38)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"手持ちの鍵で開錠できそうだ。\n"
+"開錠しレバーを操作しますか？"
+msgstr "似乎可以用持有的钥匙开锁。要开锁并操作拉杆吗？"
+
+#. ID 157, Page 3, Line 14, Pos (40,38)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 157, Page 4, Line 3, Pos (40,38)
+msgid "固定されて元に戻らないようだ。"
+msgstr "似乎被固定住，不会回到原位。"
+
+#. ID 158, Page 2, Line 3, Pos (38,38)
+msgid "扉は固く閉ざされている……。"
+msgstr "门紧紧关闭着……。"

@@ -1,0 +1,55 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 70, Page 1, Line 2, Pos (10,3)
+msgid "＊「それでは、これより処刑を執り行う！"
+msgstr "＊「那么，现在开始执行死刑！"
+
+#. ID 70, Page 1, Line 3, Pos (10,3)
+msgid ""
+"＊「被告\\N[\\V[6]]は伯爵の舘に忍び込み！\\!\n"
+"　　あろうことか、伯爵の暗殺を計画していた！"
+msgstr ""
+"＊「被告\\N[\\V[6]]潜入伯爵的宅邸！\\!\n"
+"　　岂有此理，竟计划暗杀伯爵！"
+
+#. ID 70, Page 1, Line 5, Pos (10,3)
+msgid ""
+"＊「よって、被告\\N[\\V[6]]には市街引き回し後、\\!\n"
+"　　こうして絞首刑による死刑が下される事になる！"
+msgstr ""
+"＊「因此，被告\\N[\\V[6]]在游街示众后，\\!\n"
+"　　将被处以这种绞刑死刑！"
+
+#. ID 70, Page 1, Line 7, Pos (10,3)
+#. Contains choice at line 2 (2 options)
+msgid "＊「この事実に、相違は無いか？"
+msgstr "＊「对这一事实，可有异议？"
+
+#. ID 70, Page 1, Line 8, Pos (10,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 70, Page 1, Line 12, Pos (10,3)
+msgid "＊「黙れ！　貴様が自白した事は既に知っているぞ！"
+msgstr "＊「闭嘴！　你已坦白的事我早就知道了！"
+
+#. ID 70, Page 1, Line 20, Pos (10,3)
+msgid "＊「それでは、これより死刑を執行する！"
+msgstr "＊「那么，现在执行死刑！"

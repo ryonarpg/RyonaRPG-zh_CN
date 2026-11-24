@@ -1,0 +1,28 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 24, Page 2, Line 7, Pos (1,4)
+msgid ""
+"ヒヤリとした空気と独特の緊張感\\!\n"
+"既存の物理法則を無視し、\n"
+"重力に逆らうように流れる赤色の水"
+msgstr ""
+"冷飕飕的空气与独特的紧张感\\!无视既有的物理法则、\n"
+"　仿佛逆着重力流动的红色水流"
+
+#. ID 24, Page 2, Line 10, Pos (1,4)
+msgid ""
+"異次元の世界\n"
+"魔界へ到達したのだ"
+msgstr "到达了异次元世界魔界"

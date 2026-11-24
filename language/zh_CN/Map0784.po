@@ -1,0 +1,26 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 165, Page 2, Line 17, Pos (2,0)
+msgid ""
+"\n"
+"\\N[\\V[6]]は、\n"
+"血と内臓を撒き散らして息絶えた。"
+msgstr "\\N[\\V[6]]将血与内脏撒得到处都是，断了气。"
+
+#. ID 168, Page 1, Line 10, Pos (5,0)
+msgid ""
+"\n"
+"（なんかうようよいるなぁ……）"
+msgstr "（总觉得有很多在蠕动着……）"

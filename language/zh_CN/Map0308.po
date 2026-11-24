@@ -1,0 +1,71 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 1, Pos (8,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\n[\\v[6]]\n"
+"(あら、可愛い男の子）"
+msgstr "\\n[\\v[6]](哎呀，可爱的男孩子）"
+
+#. ID 4, Page 1, Line 3, Pos (8,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"黙って見守ってあげましょう\n"
+"もう犯しちゃう！\\c[11]$k\\c[0]"
+msgstr ""
+"默默守护着吧\n"
+"已经要侵犯了！\\c[11]$k\\c[0]"
+
+#. ID 4, Page 1, Line 7, Pos (8,13)
+msgid ""
+"\\n[\\v[6]]\n"
+"「ねぇ\\c[11]$k\\c[0] ボク\\c[11]$k\\c[0]\\!\n"
+"お姉さんと一緒に遊びましょ\\c[11]$k\\c[0]」"
+msgstr ""
+"\\n[\\v[6]]\n"
+"「呐\\c[11]$k\\c[0] 我\\c[11]$k\\c[0]\\!和大姐姐一\n"
+"起玩吧\\c[11]$k\\c[0]」"
+
+#. ID 4, Page 1, Line 10, Pos (8,13)
+msgid ""
+"\\n[\\v[6]]\n"
+"「大人のいけない遊びをね\\c[11]$k\\c[0]\\!\n"
+"うふふっ\\c[11]$k\\c[0]」"
+msgstr ""
+"\\n[\\v[6]]\n"
+"「来做大人的禁忌游戏吧\\c[11]$k\\c[0]\\!呵呵\\c[11]\n"
+"$k\\c[0]」"
+
+#. ID 4, Page 1, Line 13, Pos (8,13)
+msgid ""
+"ち…ちょっと！　何でズボン脱がせるの！？\n"
+"やっやめて…！　誰か…誰かぁー！！"
+msgstr ""
+"等…等一下！　为什么要脱裤子！？住、住手…！\n"
+"　来人…来人啊——！！"
+
+#. ID 4, Page 1, Line 30, Pos (8,13)
+msgid "………満足\\c[11]$k\\c[0]"
+msgstr "………满足\\c[11]$k\\c[0]"
+
+#. ID 4, Page 2, Line 3, Pos (8,13)
+msgid "きゃっきゃっ。"
+msgstr "嘻嘻哈哈。"
+
+#. ID 5, Page 1, Line 3, Pos (10,15)
+msgid ""
+"この公園で夜遊んでいると\n"
+"帰ってこれなくなるんだって！"
+msgstr "听说在这个公园晚上玩会回不来的！"

@@ -1,0 +1,927 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 32, Page 2, Line 3, Pos (8,10)
+#. ID 33, Page 2, Line 3, Pos (9,10)
+#. ID 34, Page 2, Line 3, Pos (10,10)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"
+
+#. ID 36, Page 2, Line 3, Pos (11,10)
+msgid "遺品を手に入れた。"
+msgstr "获得了遗物。"
+
+#. ID 40, Page 2, Line 3, Pos (49,3)
+msgid "※ランドレイ用デバッグツール"
+msgstr "※兰德雷用调试工具"
+
+#. ID 40, Page 2, Line 6, Pos (49,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "ON"
+msgstr "开"
+
+#. ID 40, Page 2, Line 9, Pos (49,3)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "OFF"
+msgstr "关"
+
+#. ID 40, Page 2, Line 12, Pos (49,3)
+#. Choice (4 options)
+msgid ""
+"\\>進行度設定\n"
+"\\>子供設定\n"
+"\\>母乳切り替え(\\n[101])\n"
+"\\>再入場"
+msgstr ""
+"\\>进度设定\n"
+"\\>孩子设定\n"
+"\\>母乳切换(\\n[101])\n"
+"\\>再入场"
+
+#. ID 40, Page 2, Line 15, Pos (49,3)
+#. Choice (3 options)
+msgid ""
+"\\>初回\n"
+"\\>AB取得前\n"
+"\\>AB取得後"
+msgstr ""
+"\\>首次\n"
+"\\>获得AB前\n"
+"\\>获得AB后"
+
+#. ID 40, Page 2, Line 17, Pos (49,3)
+#. ID 40, Page 2, Line 98, Pos (49,3)
+msgid "処理の都合上、場所を移動します。"
+msgstr "由于处理上的原因，将移动位置。"
+
+#. ID 40, Page 2, Line 32, Pos (49,3)
+#. Choice (3 options)
+msgid ""
+"\\>１段階\n"
+"\\>２段階\n"
+"\\>自覚寸前"
+msgstr ""
+"\\>第1阶段\n"
+"\\>第2阶段\n"
+"\\>自觉前夕"
+
+#. ID 40, Page 2, Line 34, Pos (49,3)
+#. Choice (2 options)
+msgid ""
+"受け入れ\n"
+"葛藤"
+msgstr ""
+"接受\n"
+"纠葛"
+
+#. ID 40, Page 2, Line 69, Pos (49,3)
+#. Choice (2 options)
+msgid ""
+"\\>我が子設定\n"
+"\\>満腹リセット"
+msgstr ""
+"\\>我的孩子设定\n"
+"\\>饱腹重置"
+
+#. ID 40, Page 2, Line 71, Pos (49,3)
+msgid ""
+"\\>1～3:このマップ　4～6:次のマップ\n"
+"\\>それ以外:キャンセル"
+msgstr ""
+"\\>1～3：这张地图　4～6：下一张地图\\>除此之外：\n"
+"取消"
+
+#. ID 57, Page 3, Line 7, Pos (51,0)
+#. Contains choice at line 3 (2 options)
+msgid "……\\!この群れの中に産んだ仔がいるかもしれない。\n"
+msgstr "……\\!这群里也许有我生下的孩子。"
+
+#. ID 57, Page 3, Line 9, Pos (51,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>武装を解いて仔を探す\n"
+"\\>構うものか"
+msgstr ""
+"\\>解除武装寻找孩子\n"
+"\\>管他呢"
+
+#. ID 57, Page 3, Line 12, Pos (51,0)
+msgid "この状態で探すのは困難だろう。"
+msgstr "在这种状态下寻找会很困难吧。"
+
+#. ID 57, Page 3, Line 18, Pos (51,0)
+msgid ""
+"もしランドレイの成体に組み敷かれたら、\n"
+"抵抗することさえできないだろう。"
+msgstr "如果被兰德雷的成体按倒，甚至连抵抗都做不到吧。"
+
+#. ID 57, Page 3, Line 20, Pos (51,0)
+#. Contains choice at line 3 (2 options)
+msgid "それでも？\n"
+msgstr "即便如此？"
+
+#. ID 57, Page 3, Line 22, Pos (51,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>…仔を探す\n"
+"\\>やめておこう"
+msgstr ""
+"\\>…寻找孩子\n"
+"\\>还是算了"
+
+#. ID 57, Page 3, Line 28, Pos (51,0)
+msgid "……\\!行こう。"
+msgstr "……\\!走吧。"
+
+#. ID 57, Page 3, Line 38, Pos (51,0)
+msgid "気の迷いだ。\\!魔物に情など……。"
+msgstr "是一时糊涂。\\!对魔物动感情什么的……。"
+
+#. ID 57, Page 4, Line 8, Pos (51,0)
+#. ID 57, Page 7, Line 2, Pos (51,0)
+msgid ""
+"この状態ではランドレイたちを刺激してしまう。\\!\n"
+"引き返そう。"
+msgstr "这种状态下会刺激到兰德雷它们。\\!回去吧。"
+
+#. ID 57, Page 4, Line 20, Pos (51,0)
+#. ID 58, Page 2, Line 276, Pos (51,1)
+#. ID 58, Page 3, Line 267, Pos (51,1)
+msgid "…………。"
+msgstr "…………。"
+
+#. ID 57, Page 4, Line 26, Pos (51,0)
+msgid "……行こう。"
+msgstr "……走吧。"
+
+#. ID 57, Page 4, Line 29, Pos (51,0)
+msgid ""
+"ランドレイの成体に気をつけて、\n"
+"通り過ぎればいい。"
+msgstr "小心兰德雷的成体，穿过去就好。"
+
+#. ID 57, Page 5, Line 3, Pos (51,0)
+#. ID 58, Page 6, Line 3, Pos (51,1)
+msgid "デバッグがんばれ～。"
+msgstr "调试加油～。"
+
+#. ID 58, Page 2, Line 5, Pos (51,1)
+#. ID 58, Page 3, Line 5, Pos (51,1)
+msgid "……\\!……！！"
+msgstr "……\\!……！！"
+
+#. ID 58, Page 2, Line 27, Pos (51,1)
+#. ChangeHeroName (Actor 101)
+#. ID 58, Page 2, Line 33, Pos (51,1)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "胸元に飛びつ"
+msgstr "朝胸口扑"
+
+#. ID 58, Page 2, Line 28, Pos (51,1)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "いてきた！"
+msgstr "了过来！"
+
+#. ID 58, Page 2, Line 34, Pos (51,1)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "き、衣服の中"
+msgstr "钻、钻进衣服里"
+
+#. ID 58, Page 2, Line 35, Pos (51,1)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "に入り込んで"
+msgstr "钻进去"
+
+#. ID 58, Page 2, Line 36, Pos (51,1)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "くる！"
+msgstr "来了！"
+
+#. ID 58, Page 2, Line 39, Pos (51,1)
+#. Contains choice at line 3 (2 options)
+msgid "\\n[101]\\n[102]\\n[103]\\n[104]\n"
+msgstr ""
+"\\n[101]\\n[102]\\n[103]\\n[104]\n"
+""
+
+#. ID 58, Page 2, Line 41, Pos (51,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"様子を見る\n"
+"払い落す"
+msgstr ""
+"观察情况\n"
+"拍落"
+
+#. ID 58, Page 2, Line 64, Pos (51,1)
+msgid "……\\!……。"
+msgstr "……\\!……。"
+
+#. ID 58, Page 2, Line 82, Pos (51,1)
+msgid ""
+"乳首を探していたように見えた。\\!\n"
+"もしかしたらこの仔が…？"
+msgstr "看起来像是在找乳头。\\!难道这个孩子是…？"
+
+#. ID 58, Page 2, Line 86, Pos (51,1)
+msgid "……\\!……！"
+msgstr "……\\!……！"
+
+#. ID 58, Page 2, Line 106, Pos (51,1)
+msgid ""
+"おっぱいが欲しいようだ。\\!\n"
+"もしかしたらこの仔が…？"
+msgstr "好像想要喝奶。\\!难道这个孩子是…？"
+
+#. ID 58, Page 2, Line 112, Pos (51,1)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "おっぱいを吸"
+msgstr "吸奶"
+
+#. ID 58, Page 2, Line 113, Pos (51,1)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "わせる"
+msgstr "让其吸"
+
+#. ID 58, Page 2, Line 114, Pos (51,1)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "何もしない"
+msgstr "什么都不做"
+
+#. ID 58, Page 2, Line 117, Pos (51,1)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "このまま吸わ"
+msgstr "就这样吸"
+
+#. ID 58, Page 2, Line 118, Pos (51,1)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "せる"
+msgstr "让其吸"
+
+#. ID 58, Page 2, Line 119, Pos (51,1)
+#. ChangeHeroName (Actor 103)
+msgctxt "actors.name"
+msgid "そっと剥がす"
+msgstr "轻轻拉开"
+
+#. ID 58, Page 2, Line 123, Pos (51,1)
+#. Contains choice at line 2 (3 options)
+#. ID 58, Page 3, Line 40, Pos (51,1)
+#. Contains choice at line 2 (3 options)
+#. ID 58, Page 4, Line 33, Pos (51,1)
+#. Contains choice at line 2 (3 options)
+#. ID 58, Page 5, Line 39, Pos (51,1)
+#. Contains choice at line 2 (3 options)
+#. ID 64, Page 4, Line 6, Pos (52,1)
+#. Contains choice at line 2 (3 options)
+msgid "どうする？"
+msgstr "怎么办？"
+
+#. ID 58, Page 2, Line 124, Pos (51,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\n[101]\\n[102]\n"
+"\\>ミルクをあげる　　　x \\v[786]\n"
+"\\>\\n[103]"
+msgstr ""
+"\\n[101]\\n[102]\n"
+"\\>喂奶　　　x \\v[786]\n"
+"\\>\\n[103]"
+
+#. ID 58, Page 2, Line 127, Pos (51,1)
+#. ID 58, Page 3, Line 61, Pos (51,1)
+msgid "今の状態では吸わせることができない。"
+msgstr "现在这个状态没法让他吸。"
+
+#. ID 58, Page 2, Line 158, Pos (51,1)
+#. ID 58, Page 3, Line 99, Pos (51,1)
+#. ID 58, Page 4, Line 126, Pos (51,1)
+msgid "気の済むまで吸わせよう。"
+msgstr "让他吸到满足为止吧。"
+
+#. ID 58, Page 2, Line 186, Pos (51,1)
+#. ID 58, Page 3, Line 194, Pos (51,1)
+#. ID 58, Page 4, Line 220, Pos (51,1)
+msgid "……まだ吸い続けるようだ。"
+msgstr "……似乎还在继续吸。"
+
+#. ID 58, Page 2, Line 200, Pos (51,1)
+#. ID 58, Page 3, Line 208, Pos (51,1)
+#. ID 58, Page 4, Line 234, Pos (51,1)
+#. ID 58, Page 5, Line 272, Pos (51,1)
+msgid "ミルクを所持していない。"
+msgstr "没有持有奶。"
+
+#. ID 58, Page 2, Line 205, Pos (51,1)
+#. ID 58, Page 3, Line 214, Pos (51,1)
+#. ID 58, Page 4, Line 240, Pos (51,1)
+msgid "指をミルクに浸し、その指を仔に近づけた。"
+msgstr "把手指浸入奶中，把手指靠近幼崽。"
+
+#. ID 58, Page 2, Line 247, Pos (51,1)
+#. ID 58, Page 3, Line 237, Pos (51,1)
+#. ID 58, Page 4, Line 282, Pos (51,1)
+msgid "……まだ満足していないようだ。"
+msgstr "……似乎还不满足。"
+
+#. ID 58, Page 2, Line 322, Pos (51,1)
+#. ID 58, Page 3, Line 294, Pos (51,1)
+#. ID 58, Page 4, Line 324, Pos (51,1)
+msgid "どうやら満足したらしい。"
+msgstr "看来他满足了。"
+
+#. ID 58, Page 2, Line 325, Pos (51,1)
+#. ID 58, Page 3, Line 297, Pos (51,1)
+#. ID 58, Page 4, Line 327, Pos (51,1)
+msgid "どうやら気が済んだらしい。"
+msgstr "看来他总算满意了。"
+
+#. ID 58, Page 2, Line 328, Pos (51,1)
+#. Contains choice at line 3 (2 options)
+#. ID 58, Page 3, Line 301, Pos (51,1)
+#. Contains choice at line 3 (2 options)
+msgid "…………\n"
+msgstr ""
+"…………\n"
+""
+
+#. ID 58, Page 2, Line 330, Pos (51,1)
+#. Choice (2 options, embedded in a message)
+#. ID 58, Page 3, Line 303, Pos (51,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"また来よう\n"
+"こんなことする必要は……"
+msgstr ""
+"再来吧\n"
+"没必要做这种事……"
+
+#. ID 58, Page 2, Line 332, Pos (51,1)
+#. ID 58, Page 3, Line 305, Pos (51,1)
+msgid "不思議と気持ちが満たされる。"
+msgstr "不可思议地感到满足。"
+
+#. ID 58, Page 2, Line 336, Pos (51,1)
+#. ID 58, Page 3, Line 309, Pos (51,1)
+msgid ""
+"必要はない。\\!\n"
+"次はそっと剥がせばいいはずだ。"
+msgstr "没必要。\\!下次轻轻剥开就好。"
+
+#. ID 58, Page 2, Line 381, Pos (51,1)
+msgid ""
+"怒らせてしまったようだ。\\!\n"
+"直に他のランドレイも攻撃してくるだろう。"
+msgstr ""
+"似乎惹他生气了。\n"
+"\\!其他兰多雷也会立刻攻击过来吧。"
+
+#. ID 58, Page 3, Line 27, Pos (51,1)
+msgid ""
+"胸元に飛びついてきた！\\!\n"
+"おっぱいが欲しいのだろう。"
+msgstr "扑到胸口来了！\\!是想要奶吧。"
+
+#. ID 58, Page 3, Line 31, Pos (51,1)
+msgid ""
+"胸元に飛びつき、衣服の中に入り込んでくる！\\!\n"
+"おっぱいが欲しいのだろう。"
+msgstr "扑到胸口，钻进衣服里来了！\\!是想要奶吧。"
+
+#. ID 58, Page 3, Line 41, Pos (51,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>このまま吸わせる\n"
+"\\>ミルクをあげる　　　x \\v[786]\n"
+"\\>そっと剥がす"
+msgstr ""
+"\\>就这样让他吸\n"
+"\\>喂奶　　　x \\v[786]\n"
+"\\>轻轻剥开"
+
+#. ID 58, Page 3, Line 118, Pos (51,1)
+#. ID 58, Page 4, Line 144, Pos (51,1)
+#. ID 58, Page 5, Line 183, Pos (51,1)
+msgid "………？"
+msgstr "………？"
+
+#. ID 58, Page 3, Line 119, Pos (51,1)
+#. ID 58, Page 4, Line 145, Pos (51,1)
+#. ID 58, Page 5, Line 184, Pos (51,1)
+msgid "なんだか、胸の奥がむずむずする。"
+msgstr "总觉得胸口深处痒痒的。"
+
+#. ID 58, Page 3, Line 136, Pos (51,1)
+#. ID 58, Page 4, Line 162, Pos (51,1)
+#. ID 58, Page 5, Line 201, Pos (51,1)
+msgid "………胸の奥から熱い何かがこみ上げてくる！！"
+msgstr "………胸口深处涌起一股热流！！"
+
+#. ID 58, Page 3, Line 148, Pos (51,1)
+#. ID 58, Page 4, Line 174, Pos (51,1)
+#. ID 58, Page 4, Line 348, Pos (51,1)
+#. ID 58, Page 5, Line 213, Pos (51,1)
+msgid "………\\|\\.\\^"
+msgstr "………\\|\\.\\^"
+
+#. ID 58, Page 3, Line 149, Pos (51,1)
+#. ID 58, Page 4, Line 175, Pos (51,1)
+msgid ""
+"\n"
+"仔の口から白い液体が零れた……\n"
+"これは、母乳だ……！\\|\\.\\^"
+msgstr "幼崽口中溢出白色液体……这是母乳……！\\|\\.\\^"
+
+#. ID 58, Page 3, Line 162, Pos (51,1)
+#. ID 58, Page 4, Line 190, Pos (51,1)
+msgid "仔の吸いつきが強くなっている。"
+msgstr "幼崽吸吮得更用力了。"
+
+#. ID 58, Page 3, Line 163, Pos (51,1)
+#. ID 58, Page 4, Line 191, Pos (51,1)
+#. ID 58, Page 5, Line 229, Pos (51,1)
+msgid ""
+"それに、胸の奥の方が熱い。\n"
+"もしかして……？"
+msgstr "而且胸口深处更热。难道说……？"
+
+#. ID 58, Page 3, Line 315, Pos (51,1)
+msgid "……\\!また来よう。"
+msgstr "……\\!再来吧。"
+
+#. ID 58, Page 3, Line 325, Pos (51,1)
+msgid "また仔を孕めば、もっと満たされるかもしれない。"
+msgstr "如果再次怀上幼崽，也许会更满足。"
+
+#. ID 58, Page 4, Line 31, Pos (51,1)
+msgid "お腹が空いているのだろうか。"
+msgstr "是饿了吗。"
+
+#. ID 58, Page 4, Line 34, Pos (51,1)
+#. Choice (3 options, embedded in a message)
+#. ID 58, Page 5, Line 40, Pos (51,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>どいてもらう\n"
+"\\>ご飯をあげる\n"
+"\\>何もしない"
+msgstr ""
+"\\>请他让开\n"
+"\\>给饭\n"
+"\\>什么都不做"
+
+#. ID 58, Page 4, Line 42, Pos (51,1)
+#. Contains choice at line 3 (2 options)
+#. ID 58, Page 5, Line 49, Pos (51,1)
+#. Contains choice at line 3 (2 options)
+msgid "どっちをあげる？\n"
+msgstr "要给他哪个？"
+
+#. ID 58, Page 4, Line 44, Pos (51,1)
+#. Choice (2 options, embedded in a message)
+#. ID 58, Page 5, Line 51, Pos (51,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>おっぱいをあげる\n"
+"\\>ミルクをあげる　　　x \\v[786]"
+msgstr ""
+"\\>喂乳房\n"
+"\\>喂奶　　　x \\v[786]"
+
+#. ID 58, Page 4, Line 64, Pos (51,1)
+#. ID 58, Page 5, Line 71, Pos (51,1)
+msgid "今の状態ではおっぱいをあげることができない。"
+msgstr "现在这个状态没法喂乳房。"
+
+#. ID 58, Page 4, Line 299, Pos (51,1)
+#. ID 58, Page 5, Line 341, Pos (51,1)
+msgid "またの機会にしよう。"
+msgstr "下次再说吧。"
+
+#. ID 58, Page 4, Line 349, Pos (51,1)
+msgid ""
+"\n"
+"\\n[\\v[6]]は、己の内にある\n"
+"母性に気づいてしまった！\\|\\.\\^"
+msgstr "\\n[\\v[6]]察觉到了自己内心的母性！\\|\\.\\^"
+
+#. ID 58, Page 4, Line 358, Pos (51,1)
+msgid ""
+"この子のお腹が空いたら、\n"
+"またあげよう。"
+msgstr "这孩子饿了的话，再给他吧。"
+
+#. ID 58, Page 4, Line 367, Pos (51,1)
+msgid "また来よう。"
+msgstr "再来吧。"
+
+#. ID 58, Page 5, Line 32, Pos (51,1)
+msgid "お腹を空かせているのだろう。"
+msgstr "他饿着肚子吧。"
+
+#. ID 58, Page 5, Line 35, Pos (51,1)
+msgid "……\\!この子もお腹を空かせているのだろうか。"
+msgstr "……\\!这孩子也饿着肚子吗。"
+
+#. ID 58, Page 5, Line 166, Pos (51,1)
+msgid "今は出ないけど、いつかは…。"
+msgstr "现在虽然不出奶，但总有一天……。"
+
+#. ID 58, Page 5, Line 214, Pos (51,1)
+msgid ""
+"\n"
+"子の口から白い液体が零れた……\n"
+"これは、母乳だ……！\\|\\.\\^"
+msgstr "孩子口中溢出白色液体……这是母乳……！\\|\\.\\^"
+
+#. ID 58, Page 5, Line 228, Pos (51,1)
+msgid "子の吸いつきが強くなっている。"
+msgstr "孩子吸吮得更用力了。"
+
+#. ID 58, Page 5, Line 258, Pos (51,1)
+msgid "……まだ出る気配はない。"
+msgstr "……还没有要出来的迹象。"
+
+#. ID 58, Page 5, Line 278, Pos (51,1)
+msgid "指をミルクに浸し、その指を子に近づけた。"
+msgstr "把手指浸入奶中，把手指靠近孩子。"
+
+#. ID 58, Page 5, Line 324, Pos (51,1)
+msgid "……まだ欲しいようだ。"
+msgstr "……似乎还想要。"
+
+#. ID 58, Page 5, Line 370, Pos (51,1)
+msgid ""
+"満腹になったようだ。\\!\n"
+"この子のお腹が空いたら、\n"
+"またあげよう。"
+msgstr "似乎吃饱了。\\!这孩子饿了的话，再给他吧。"
+
+#. ID 58, Page 5, Line 375, Pos (51,1)
+msgid "諦めてしまったようだ。"
+msgstr "似乎放弃了。"
+
+#. ID 59, Page 2, Line 9, Pos (52,0)
+msgid "相変わらず、気ままに走り回っている。"
+msgstr "依旧随心所欲地跑来跑去。"
+
+#. ID 59, Page 2, Line 22, Pos (52,0)
+msgid "相変わらず、気ままに走り回っている。\n"
+msgstr "依旧随心所欲地跑来跑去。"
+
+#. ID 59, Page 2, Line 24, Pos (52,0)
+#. Choice (3 options)
+#. ID 60, Page 2, Line 24, Pos (53,0)
+#. Choice (3 options)
+#. ID 61, Page 2, Line 24, Pos (54,0)
+#. Choice (3 options)
+#. ID 65, Page 2, Line 24, Pos (53,1)
+#. Choice (3 options)
+msgid ""
+"\\>どいてもらう\n"
+"\\>撫でる\n"
+"\\>何もしない"
+msgstr ""
+"\\>请他让开\n"
+"\\>抚摸\n"
+"\\>什么都不做"
+
+#. ID 59, Page 2, Line 48, Pos (52,0)
+#. ID 60, Page 2, Line 48, Pos (53,0)
+#. ID 61, Page 2, Line 48, Pos (54,0)
+#. ID 65, Page 2, Line 48, Pos (53,1)
+msgid "喜んでいるようだ。"
+msgstr "似乎很高兴。"
+
+#. ID 59, Page 2, Line 65, Pos (52,0)
+#. Contains choice at line 3 (2 options)
+msgid "気ままに走り回っている。\n"
+msgstr "随心所欲地跑来跑去。"
+
+#. ID 59, Page 2, Line 67, Pos (52,0)
+#. Choice (2 options, embedded in a message)
+#. ID 59, Page 2, Line 84, Pos (52,0)
+#. Choice (2 options, embedded in a message)
+#. ID 59, Page 4, Line 5, Pos (52,0)
+#. Choice (2 options, embedded in a message)
+#. ID 60, Page 2, Line 104, Pos (53,0)
+#. Choice (2 options, embedded in a message)
+#. ID 60, Page 2, Line 121, Pos (53,0)
+#. Choice (2 options, embedded in a message)
+#. ID 60, Page 2, Line 140, Pos (53,0)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 2, Line 106, Pos (54,0)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 2, Line 123, Pos (54,0)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 2, Line 142, Pos (54,0)
+#. Choice (2 options, embedded in a message)
+#. ID 62, Page 2, Line 9, Pos (55,0)
+#. Choice (2 options, embedded in a message)
+#. ID 62, Page 2, Line 25, Pos (55,0)
+#. Choice (2 options, embedded in a message)
+#. ID 63, Page 2, Line 9, Pos (56,0)
+#. Choice (2 options, embedded in a message)
+#. ID 63, Page 2, Line 25, Pos (56,0)
+#. Choice (2 options, embedded in a message)
+#. ID 64, Page 2, Line 82, Pos (52,1)
+#. Choice (2 options, embedded in a message)
+#. ID 64, Page 5, Line 9, Pos (52,1)
+#. Choice (2 options, embedded in a message)
+#. ID 64, Page 5, Line 28, Pos (52,1)
+#. Choice (2 options, embedded in a message)
+#. ID 65, Page 2, Line 104, Pos (53,1)
+#. Choice (2 options, embedded in a message)
+#. ID 65, Page 2, Line 121, Pos (53,1)
+#. Choice (2 options, embedded in a message)
+#. ID 65, Page 2, Line 140, Pos (53,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>どいてもらう\n"
+"\\>何もしない"
+msgstr ""
+"\\>请他让开\n"
+"\\>什么都不做"
+
+#. ID 59, Page 2, Line 81, Pos (52,0)
+msgid "襲ってくる気配はなく、気ままに走り回っている。"
+msgstr "没有袭击的迹象，随心所欲地跑来跑去。"
+
+#. ID 59, Page 2, Line 82, Pos (52,0)
+#. Contains choice at line 3 (2 options)
+#. ID 60, Page 2, Line 138, Pos (53,0)
+#. Contains choice at line 3 (2 options)
+#. ID 61, Page 2, Line 140, Pos (54,0)
+#. Contains choice at line 3 (2 options)
+#. ID 65, Page 2, Line 138, Pos (53,1)
+#. Contains choice at line 3 (2 options)
+msgid "……この仔ではなさそうだ。\n"
+msgstr "……似乎不是这只幼崽。"
+
+#. ID 59, Page 4, Line 3, Pos (52,0)
+#. Contains choice at line 3 (2 options)
+#. ID 62, Page 2, Line 7, Pos (55,0)
+#. Contains choice at line 3 (2 options)
+#. ID 63, Page 2, Line 7, Pos (56,0)
+#. Contains choice at line 3 (2 options)
+msgid "襲ってくる気配はない。\n"
+msgstr "没有袭击的迹象。"
+
+#. ID 60, Page 2, Line 9, Pos (53,0)
+#. ID 60, Page 2, Line 75, Pos (53,0)
+#. ID 61, Page 2, Line 75, Pos (54,0)
+msgid "相変わらず、逃げ回っている。"
+msgstr "依旧四处逃窜。"
+
+#. ID 60, Page 2, Line 22, Pos (53,0)
+#. ID 60, Page 2, Line 119, Pos (53,0)
+#. Contains choice at line 3 (2 options)
+msgid "相変わらず、逃げ回っている。\n"
+msgstr "依旧四处逃窜。"
+
+#. ID 60, Page 2, Line 96, Pos (53,0)
+#. ChangeHeroName (Actor 101)
+#. ID 65, Page 2, Line 96, Pos (53,1)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "相変わらず、"
+msgstr "依旧、"
+
+#. ID 60, Page 2, Line 102, Pos (53,0)
+#. Contains choice at line 3 (2 options)
+msgid "\\n[101]逃げ回っている。\n"
+msgstr "\\n[101]四处逃窜。"
+
+#. ID 60, Page 2, Line 132, Pos (53,0)
+msgid "襲ってくる気配はなく、逃げ回っている。"
+msgstr "没有袭击的迹象，四处逃窜。"
+
+#. ID 61, Page 2, Line 9, Pos (54,0)
+msgid "時折、様子をうかがうように近づいてくる。"
+msgstr "有时像是观察情况一样靠近过来。"
+
+#. ID 61, Page 2, Line 22, Pos (54,0)
+#. ID 61, Page 2, Line 121, Pos (54,0)
+#. Contains choice at line 3 (2 options)
+msgid "時折、様子をうかがうように近づいてくる。\n"
+msgstr "有时像是观察情况一样靠近过来。"
+
+#. ID 61, Page 2, Line 96, Pos (54,0)
+#. ChangeHeroName (Actor 101)
+msgctxt "actors.name"
+msgid "、様子をうか"
+msgstr "、窥探情"
+
+#. ID 61, Page 2, Line 97, Pos (54,0)
+#. ChangeHeroName (Actor 102)
+msgctxt "actors.name"
+msgid "がうように"
+msgstr "况似的"
+
+#. ID 61, Page 2, Line 104, Pos (54,0)
+#. Contains choice at line 3 (2 options)
+msgid "時折\\n[101]\\n[102]近づいてくる。\n"
+msgstr "有时\\n[101]\\n[102]靠近过来。"
+
+#. ID 61, Page 2, Line 134, Pos (54,0)
+msgid "襲ってくる気配はなく、時折近づいてくる。"
+msgstr "没有袭击的迹象，有时会靠近。"
+
+#. ID 62, Page 2, Line 23, Pos (55,0)
+#. Contains choice at line 3 (2 options)
+#. ID 63, Page 2, Line 23, Pos (56,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"襲ってくる気配はない。\\!\n"
+"……もうこれくらいに成長しているのだろうか。"
+msgstr "没有袭击的迹象。\\!……已经成长到这种程度了吗。"
+
+#. ID 64, Page 2, Line 13, Pos (52,1)
+msgid "組み伏せる機会をうかがっているように見える。"
+msgstr "看起来在窥伺把我按倒的机会。"
+
+#. ID 64, Page 2, Line 15, Pos (52,1)
+#. Contains choice at line 2 (3 options)
+msgid "…………"
+msgstr "…………"
+
+#. ID 64, Page 2, Line 16, Pos (52,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>どいてもらう\n"
+"\\>身を委ねる\n"
+"\\>気をつけよう"
+msgstr ""
+"\\>请他让开\n"
+"\\>委身于他\n"
+"\\>小心点吧"
+
+#. ID 64, Page 2, Line 24, Pos (52,1)
+#. ID 64, Page 4, Line 18, Pos (52,1)
+msgid ""
+"\\n[\\v[6]]の秘部は\n"
+"貞操帯によって守られている。"
+msgstr "\\n[\\v[6]]的秘部被贞操带保护着。"
+
+#. ID 64, Page 2, Line 34, Pos (52,1)
+#. ID 64, Page 4, Line 28, Pos (52,1)
+msgid ""
+"\\n[\\v[6]]の秘部は\n"
+"生体ラバースーツによって守られている。"
+msgstr "\\n[\\v[6]]的秘部被生物橡胶紧身衣保护着。"
+
+#. ID 64, Page 2, Line 80, Pos (52,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"組み伏せる機会をうかがっているように見える。\\!\n"
+"気のせいかもしれないが、用心しよう。"
+msgstr ""
+"看起来在窥伺把我按倒的机会。\\!也许只是错觉，\n"
+"还是小心点吧。"
+
+#. ID 64, Page 2, Line 220, Pos (52,1)
+msgid ""
+"意識が朦朧とする…。\\!\n"
+"すぐには動けそうにない…。"
+msgstr "意识变得朦胧……。\\!似乎没法马上动弹……。"
+
+#. ID 64, Page 2, Line 238, Pos (52,1)
+msgid ""
+"組み伏せられることは避けることができた。\n"
+"気をつけないと…。"
+msgstr "避免了被按倒。得小心点……。"
+
+#. ID 64, Page 2, Line 262, Pos (52,1)
+msgid ""
+"貞操帯のおかげで挿入は免れることができた。\\!\n"
+"気をつけないと…。"
+msgstr "多亏贞操带，避免了被插入。\\!得小心点……。"
+
+#. ID 64, Page 2, Line 290, Pos (52,1)
+msgid ""
+"生体ラバースーツのおかげで挿入は\n"
+"免れることができた。\\!\n"
+"気をつけないと…。"
+msgstr ""
+"多亏生物橡胶紧身衣，避免了被插入。\\!得小心点……\n"
+"。"
+
+#. ID 64, Page 2, Line 393, Pos (52,1)
+msgid "終わったようだ…。"
+msgstr "似乎结束了……。"
+
+#. ID 64, Page 2, Line 406, Pos (52,1)
+msgid ""
+"…………\\!\n"
+"また、仔を妊娠した…。"
+msgstr "…………\\!又怀上了幼崽……。"
+
+#. ID 64, Page 2, Line 410, Pos (52,1)
+msgid ""
+"…………\\!\n"
+"妊娠しただろうか。"
+msgstr "…………\\!怀孕了吗。"
+
+#. ID 64, Page 2, Line 417, Pos (52,1)
+msgid ""
+"…………\\!\n"
+"また、仔を孕んでしまった…。"
+msgstr "…………\\!又怀上幼崽了……。"
+
+#. ID 64, Page 2, Line 421, Pos (52,1)
+msgid ""
+"…………\\!\n"
+"孕んでないだろうか。"
+msgstr "…………\\!没有怀孕吧。"
+
+#. ID 64, Page 4, Line 3, Pos (52,1)
+msgid ""
+"やや興奮した様子がうかがえる。\\!\n"
+"今なら交尾できるだろう。"
+msgstr "能看出它有些兴奋。\\!现在应该可以交尾吧。"
+
+#. ID 64, Page 4, Line 7, Pos (52,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>どいてもらう\n"
+"\\>交尾する\n"
+"\\>何もしない"
+msgstr ""
+"\\>请他让开\n"
+"\\>交尾\n"
+"\\>什么都不做"
+
+#. ID 64, Page 4, Line 136, Pos (52,1)
+msgid "終わったようだ。"
+msgstr "似乎结束了。"
+
+#. ID 64, Page 4, Line 148, Pos (52,1)
+msgid "また、妊娠できた。"
+msgstr "又成功怀孕了。"
+
+#. ID 64, Page 4, Line 151, Pos (52,1)
+msgid "妊娠できただろうか。"
+msgstr "成功怀孕了吗。"
+
+#. ID 64, Page 5, Line 7, Pos (52,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"こちらに関心がないように見える。\\!\n"
+"今はその気がないのだろう。"
+msgstr "看起来对我没兴趣。\\!现在应该没那个心思吧。"
+
+#. ID 64, Page 5, Line 26, Pos (52,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"こちらに関心がないように見える。\\!\n"
+"少なくとも、今は安全だろう。"
+msgstr "看起来对我没兴趣。\\!至少现在安全吧。"
+
+#. ID 65, Page 2, Line 9, Pos (53,1)
+#. ID 65, Page 2, Line 75, Pos (53,1)
+msgid "相変わらず、せわしなく動き回っている。"
+msgstr "一如既往，忙碌地四处活动着。"
+
+#. ID 65, Page 2, Line 22, Pos (53,1)
+#. ID 65, Page 2, Line 119, Pos (53,1)
+#. Contains choice at line 3 (2 options)
+msgid "相変わらず、せわしなく動き回っている。\n"
+msgstr "一如既往，忙碌地四处活动着。"
+
+#. ID 65, Page 2, Line 102, Pos (53,1)
+#. Contains choice at line 3 (2 options)
+msgid "\\n[101]せわしなく動き回っている。\n"
+msgstr "\\n[101]忙碌地四处活动着。"
+
+#. ID 65, Page 2, Line 132, Pos (53,1)
+msgid "襲ってくる気配はなく、せわしなく動き回っている。"
+msgstr "没有要袭击的迹象，正忙碌地四处活动着。"
+
+#. ID 66, Page 2, Line 3, Pos (54,1)
+#. ID 67, Page 2, Line 3, Pos (55,1)
+#. ID 68, Page 2, Line 3, Pos (56,1)
+msgid "襲ってくる気配はないが、少し鬱陶しい。"
+msgstr "虽然没有要袭击的迹象，但有点烦人。"

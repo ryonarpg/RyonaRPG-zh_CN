@@ -1,0 +1,70 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 3, Pos (3,10)
+msgid ""
+"俺はさすらいの鍛冶屋、ギン・ウルム。\n"
+"鍛冶が俺の生き甲斐だ。"
+msgstr ""
+"我是流浪铁匠，银·乌尔姆。\n"
+"锻造就是我活着的意义。"
+
+#. ID 4, Page 1, Line 5, Pos (3,10)
+msgid ""
+"武器の改造をしてやろう。\n"
+"改造には\\C[2]鉄塊\\C[0]が必要だがね。"
+msgstr ""
+"我来给你改造武器吧。\n"
+"不过改造需要\\C[2]铁块\\C[0]呢。"
+
+#. ID 4, Page 1, Line 7, Pos (3,10)
+#. Choice (4 options)
+msgid ""
+"フレイムタン　$tブレイズウィップ\n"
+"アイスソード　$tチルレンド\n"
+"サンダースピアー$tトールハンマー\n"
+"説明"
+msgstr ""
+"焰舌剑　$t烈焰鞭\n"
+"冰剑　$t寒裂\n"
+"雷电长枪$t雷神锤\n"
+"说明"
+
+#. ID 4, Page 1, Line 15, Pos (3,10)
+msgid "\\C[2]フレアウィップ\\C[0]は"
+msgstr "\\C[2]爆炎鞭\\C[0]是"
+
+#. ID 4, Page 1, Line 16, Pos (3,10)
+msgid ""
+"\\C[2]チルレンド\\C[0]は氷製のショートソードだ。\n"
+"軽いので溜めが早い上に、片手でも扱いやすい。\n"
+"威力はちょっと低いが、なかなか扱いやすい武器だ。"
+msgstr ""
+"\\C[2]寒裂\\C[0]是冰制的短剑。因为轻，蓄力快，\n"
+"而且单手也容易使用。威力稍低，\n"
+"但是相当好用的武器。"
+
+#. ID 4, Page 1, Line 19, Pos (3,10)
+msgid ""
+"\\C[2]トールハンマー\\C[0]は大型の電気ハンマーだな。\n"
+"武器としての威力が上がった上に、\n"
+"雷属性の増幅効果が更に強くなっている。"
+msgstr ""
+"\\C[2]雷神锤\\C[0]是大型电气锤啊。\n"
+"作为武器的威力提高了，\n"
+"而且雷属性的增幅效果变得更强了。"
+
+#. ID 9, Page 1, Line 1, Pos (6,5)
+msgid "とりあえず実装したものをここに入れています。"
+msgstr "总之，已经实装的东西都放在这里了。"

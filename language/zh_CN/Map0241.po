@@ -1,0 +1,199 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 45, Page 2, Line 4, Pos (7,20)
+msgid "「そこのお前、フラグ立てたかったら何か弾いてみろ」"
+msgstr "「那边的你，如果想立flag的话，就弹点什么试试」"
+
+#. ID 45, Page 2, Line 5, Pos (7,20)
+#. ID 45, Page 3, Line 5, Pos (7,20)
+msgid "何を弾きますか？"
+msgstr "要弹什么？"
+
+#. ID 45, Page 2, Line 6, Pos (7,20)
+#. Choice (4 options)
+msgid ""
+"うんこを讃える歌\n"
+"涙を拭いて\n"
+"勇者のテーマ\n"
+"３分クッキング"
+msgstr ""
+"赞美大便之歌\n"
+"擦干眼泪\n"
+"勇者主题曲\n"
+"3分钟烹饪"
+
+#. ID 45, Page 2, Line 13, Pos (7,20)
+#. ID 45, Page 3, Line 14, Pos (7,20)
+msgid ""
+"うんこ　うんこ\n"
+"偉大な　わがうんこ"
+msgstr "大便　大便伟大的　我的大便"
+
+#. ID 45, Page 2, Line 19, Pos (7,20)
+#. ID 45, Page 3, Line 20, Pos (7,20)
+msgid ""
+"うんこ　うんこ\n"
+"尊い　わがうんちっち"
+msgstr "大便　大便尊贵的　我的便便"
+
+#. ID 45, Page 2, Line 25, Pos (7,20)
+#. ID 45, Page 3, Line 26, Pos (7,20)
+msgid ""
+"うんこ　それは愛さ\n"
+"うんこ　それは希望さ\n"
+"うんこ　それは夢さ"
+msgstr ""
+"大便　那就是爱啊大便　那就是希望啊大便　那就是\n"
+"梦啊"
+
+#. ID 45, Page 2, Line 32, Pos (7,20)
+#. ID 45, Page 3, Line 33, Pos (7,20)
+msgid "うんこは僕らと共に　あるのさ"
+msgstr "大便与我们同在　就是这样啊"
+
+#. ID 45, Page 2, Line 37, Pos (7,20)
+#. ID 45, Page 3, Line 38, Pos (7,20)
+msgid ""
+"うんこを讃える歌\n"
+"　作曲　運子運太郎\n"
+"　作詞　大　便太郎"
+msgstr ""
+"赞美大便之歌　作曲　运子运太郎　作词　大　便太\n"
+"　郎"
+
+#. ID 45, Page 2, Line 44, Pos (7,20)
+msgid ""
+"「お前……まさか\n"
+"ウンモラルを知っているのか！」"
+msgstr "「你……难道知道不道德吗！」"
+
+#. ID 45, Page 2, Line 50, Pos (7,20)
+msgid "「もっと弾いてけよ」"
+msgstr "「再多弹点啊」"
+
+#. ID 45, Page 2, Line 59, Pos (7,20)
+msgid ""
+"「……最後に弾いてもらったのは\n"
+"何時だったか……忘れちまったぜ」"
+msgstr ""
+"「……最后一次让人弹给我听是什么时候来着……\n"
+"我都忘了啊」"
+
+#. ID 45, Page 2, Line 66, Pos (7,20)
+msgid ""
+"「懐かしい、いい曲だ……フラグ立ったぜ。\n"
+"\n"
+"生きてたらまた弾きにこいよ」"
+msgstr ""
+"「真怀念，好曲子……flag立起来了。要是活着，\n"
+"就再来弹吧」"
+
+#. ID 45, Page 2, Line 78, Pos (7,20)
+msgid ""
+"「ひみつをしったからには\n"
+"\n"
+"いかしては　おけん！」"
+msgstr "「既然知道了秘密，就不能让你活着　回去！」"
+
+#. ID 45, Page 2, Line 85, Pos (7,20)
+msgid "「……なんつってな」"
+msgstr "「……开个玩笑啦。」"
+
+#. ID 45, Page 2, Line 90, Pos (7,20)
+#. ID 45, Page 3, Line 97, Pos (7,20)
+msgid "「もっと弾いていけ」"
+msgstr "「再多弹几曲吧」"
+
+#. ID 45, Page 2, Line 99, Pos (7,20)
+msgid "「腹減るってどんな気分だ？」"
+msgstr "「肚子饿是什么感觉？」"
+
+#. ID 45, Page 2, Line 104, Pos (7,20)
+#. ID 45, Page 3, Line 111, Pos (7,20)
+msgid "「もっと弾いていけよ」"
+msgstr "「再多弹几曲啊」"
+
+#. ID 45, Page 2, Line 107, Pos (7,20)
+msgid "「弾いてけよ」"
+msgstr "「弹啊」"
+
+#. ID 45, Page 3, Line 4, Pos (7,20)
+msgid "「よおせっかくだから何かか弾いていけ」"
+msgstr "「哟，难得来了，就弹点什么再走吧」"
+
+#. ID 45, Page 3, Line 6, Pos (7,20)
+#. Choice (4 options)
+msgid ""
+"うんこを讃える歌\n"
+"涙を拭いて\n"
+"ロマンシングバトル２\n"
+"ビッグブリッジのししとう"
+msgstr ""
+"赞美屎的歌\n"
+"擦去眼泪\n"
+"浪漫战斗2\n"
+"大桥的青椒"
+
+#. ID 45, Page 3, Line 45, Pos (7,20)
+msgid ""
+"「お前はまさか…！\n"
+"\n"
+"久しぶりだな…ウンコックよ…」"
+msgstr "「你难道是……！好久不见了啊……屎蛋克……」"
+
+#. ID 45, Page 3, Line 52, Pos (7,20)
+msgid "\\n[\\v[6]]の肩書きが「ウンコック」になりました。"
+msgstr "\\n[\\v[6]]的称号变成了「屎蛋克」。"
+
+#. ID 45, Page 3, Line 57, Pos (7,20)
+msgid ""
+"「ウソウソ。\n"
+"\n"
+"また弾きにこいよ。」"
+msgstr "「骗你的骗你的。再来弹给我听啊。」"
+
+#. ID 45, Page 3, Line 68, Pos (7,20)
+msgid "壊れたままだから味があるんだよな。"
+msgstr "一直坏着才有味道嘛。"
+
+#. ID 45, Page 3, Line 74, Pos (7,20)
+msgid ""
+"「何度聞いてもいい曲だ……\n"
+"\n"
+"生きてたらまた弾きにこいよ」"
+msgstr ""
+"「不管听多少遍都是好曲子……\n"
+"还活着的话就再来弹给我听啊」"
+
+#. ID 45, Page 3, Line 85, Pos (7,20)
+msgid ""
+"「黒飴なめなめ　黒飴なめなめ」\n"
+"\n"
+msgstr "「黑糖舔舔　黑糖舔舔」"
+
+#. ID 45, Page 3, Line 92, Pos (7,20)
+msgid "「いくら丼とコレは出所わからんなあ」"
+msgstr "「鲑鱼子盖饭和这个，都来历不明啊」"
+
+#. ID 45, Page 3, Line 106, Pos (7,20)
+msgid ""
+"「\\n[\\v[6]]……\n"
+"\n"
+"おまえのじいちゃん……エロかったぜ！」"
+msgstr "「\\n[\\v[6]]……你爷爷……很色啊！」"
+
+#. ID 45, Page 3, Line 114, Pos (7,20)
+msgid "「次は弾いてけよ」"
+msgstr "「下次弹给我听啊」"

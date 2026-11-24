@@ -1,0 +1,33 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 3, Pos (16,6)
+msgid ""
+"＊身体中が精液にまみれている。\n"
+"　息も絶え絶えな様子だ。"
+msgstr "＊全身上下沾满了精液。　一副气息奄奄的样子。"
+
+#. ID 23, Page 2, Line 3, Pos (14,5)
+msgid "んぐっ……んっ、はむっ……あんっ……"
+msgstr "唔咕……嗯、哈姆……啊嗯……"
+
+#. ID 23, Page 2, Line 4, Pos (14,5)
+msgid "あ、ああっ……やっぱり大きぃ……はむっ……"
+msgstr "啊、啊啊……果然好大……哈姆……"
+
+#. ID 25, Page 2, Line 3, Pos (15,5)
+msgid ""
+"ゲヘヘ～\n"
+"上手じゃねぇ～か……"
+msgstr "嘿嘿嘿～挺熟练的嘛……"

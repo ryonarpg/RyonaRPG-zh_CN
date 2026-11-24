@@ -1,0 +1,242 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 3, Pos (11,8)
+msgid "＊ スイートルーム ＊"
+msgstr "＊ 套房 ＊"
+
+#. ID 5, Page 1, Line 3, Pos (13,8)
+msgid "＊ エコノミー ＊"
+msgstr "＊ 经济房 ＊"
+
+#. ID 6, Page 1, Line 3, Pos (15,8)
+msgid "＊ 簡易寝台 ＊"
+msgstr "＊ 简易床铺 ＊"
+
+#. ID 7, Page 1, Line 3, Pos (17,8)
+msgid "＊ 精神と時の部屋 ＊"
+msgstr "＊ 精神与时间之屋 ＊"
+
+#. ID 7, Page 1, Line 4, Pos (17,8)
+#. Contains choice at line 2 (2 options)
+msgid "＠アビリティを習得しますか？"
+msgstr "＠要习得技能吗？"
+
+#. ID 7, Page 1, Line 5, Pos (17,8)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 4, Pos (10,9)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 25, Pos (14,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 8, Page 1, Line 4, Pos (6,7)
+msgid "……トイレの躾は出来ているだろうね？"
+msgstr "……已经学会上厕所了吧？"
+
+#. ID 8, Page 1, Line 7, Pos (6,7)
+msgid ""
+"今空いてるのはこれだけだよ。\n"
+"どの部屋にするね？"
+msgstr "现在空着的只有这些了。要哪间房？"
+
+#. ID 8, Page 1, Line 22, Pos (6,7)
+msgid ""
+"こっちも商売だからね、金を取らなきゃ\n"
+"やってられないのさ。\n"
+"\\.これでも相当無理してるんだよ？"
+msgstr ""
+"我这也是做生意啊，不收钱可做不下去。\n"
+"\\.就算这样也已经相当勉强了哦？"
+
+#. ID 8, Page 1, Line 31, Pos (6,7)
+msgid ""
+"金がないのかい…\n"
+"\\.こっちも商売だからね。金がなきゃ\n"
+"部屋を貸してはやれないよ。"
+msgstr ""
+"没钱吗…\\.我这也是做生意啊。\n"
+"没钱可不能把房间租给你哦。"
+
+#. ID 8, Page 1, Line 40, Pos (6,7)
+msgid ""
+"その部屋は満室だよ？\n"
+"これでも結構繁盛してるのさ。\n"
+"金があるやつにしか部屋は貸せないよ。"
+msgstr ""
+"那间房满房了哦？我这里生意还挺兴隆的。\n"
+"只能把房间租给有钱的家伙哦。"
+
+#. ID 8, Page 1, Line 50, Pos (6,7)
+msgid "あんた……いい歳してお漏らしかい？"
+msgstr "你……都这把年纪了还尿床吗？"
+
+#. ID 8, Page 1, Line 51, Pos (6,7)
+msgid ""
+"余分に金は取りはしないが……\n"
+"おねしょの洗濯代までは含めてなかったんだけどね"
+msgstr "我不会多收钱……不过可没把尿床的清洗费算进去啊。"
+
+#. ID 8, Page 2, Line 3, Pos (6,7)
+msgid "犬は泊まる事ができないよ。"
+msgstr "狗不能住宿哦。"
+
+#. ID 8, Page 4, Line 3, Pos (6,7)
+msgid ""
+"あんたは奴隷だろ？\n"
+"人間様の宿に泊まろうとは中々ふてぶてしいね。"
+msgstr ""
+"你是奴隶吧？居然想住人类大人的旅店，\n"
+"还真是相当厚脸皮啊。"
+
+#. ID 9, Page 1, Line 3, Pos (10,9)
+#. Contains choice at line 2 (2 options)
+msgid "時間を進めるかえ？\\>\\c[10]（昼夜変更）\\c[0]"
+msgstr "要推进时间吗？\\>\\c[10]（昼夜变更）\\c[0]"
+
+#. ID 9, Page 1, Line 12, Pos (10,9)
+msgid ""
+"夜は魔物達が凶暴になる時間だから\n"
+"気をつけるんだよ・・・"
+msgstr "夜晚是魔物们变得凶暴的时间，所以要小心啊……"
+
+#. ID 10, Page 1, Line 4, Pos (3,11)
+msgid "お前、知ってるか？"
+msgstr "你知道吗？"
+
+#. ID 10, Page 1, Line 5, Pos (3,11)
+msgid "ここからずっと離れた場所に城があったんだ。"
+msgstr "在离这里很远的地方，曾经有一座城堡。"
+
+#. ID 10, Page 1, Line 6, Pos (3,11)
+msgid ""
+"そこは、城と街が一体となったようなところで、\n"
+"何百年も魔物の侵攻を許したことのない、\n"
+"鉄壁の要塞と呼ばれている場所だ。"
+msgstr ""
+"那里是城堡与城镇融为一体般的地方，\n"
+"数百年来从未让魔物入侵得逞，被称为铁壁的要塞。"
+
+#. ID 10, Page 1, Line 9, Pos (3,11)
+msgid "名前はメルベル……。"
+msgstr "名字叫梅尔贝尔……。"
+
+#. ID 10, Page 1, Line 10, Pos (3,11)
+msgid ""
+"兵士も屈強で、国民も愛国心が強い……\n"
+"まさに国と民が一体になった防衛都市だった。"
+msgstr ""
+"士兵也强壮，国民也爱国心强……\n"
+"正是国家与民众融为一体的防卫都市。"
+
+#. ID 10, Page 1, Line 12, Pos (3,11)
+msgid ""
+"……何で過去形か、だって？\n"
+"どうやら陥落したらしいんだよ……たったの数日で。"
+msgstr ""
+"……为什么用过去式，你问？看来它好像陷落了……\n"
+"仅仅几天。"
+
+#. ID 10, Page 1, Line 14, Pos (3,11)
+msgid ""
+"にわかには信じがたいが……\n"
+"あの最強の盾を打ち破るような魔物が出たのかもな…\n"
+"恐ろしくて、旅ができなくなっちまうぜ。"
+msgstr ""
+"虽然一时难以置信……\n"
+"说不定出现了能打破那最强之盾的魔物吧……\n"
+"太可怕了，都要没法旅行了。"
+
+#. ID 10, Page 1, Line 20, Pos (3,11)
+msgid "◆廃墟メルベル　の情報を得た！"
+msgstr "◆获得了废墟梅尔贝尔　的情报！"
+
+#. ID 10, Page 1, Line 24, Pos (3,11)
+msgid ""
+"俺は色々な場所を旅しているんだが……\n"
+"この都市みたいな場所は初めてだな。"
+msgstr "我旅行过各种地方……像这样的都市还是第一次见。"
+
+#. ID 11, Page 1, Line 3, Pos (14,9)
+msgid "……。"
+msgstr "……。"
+
+#. ID 11, Page 1, Line 5, Pos (14,9)
+msgid ""
+"*かなり疲労しているようだ。\n"
+" 人目のつかない夜なら連れ去れそうだ。"
+msgstr ""
+"*似乎相当疲劳。若是无人注意的夜晚，\n"
+" 似乎能带走。"
+
+#. ID 11, Page 1, Line 9, Pos (14,9)
+msgid "*かなり疲労しているようだ。"
+msgstr "*似乎相当疲劳。"
+
+#. ID 11, Page 1, Line 24, Pos (14,9)
+#. Contains choice at line 2 (2 options)
+msgid "連れ去りますか？"
+msgstr "要带走吗？"
+
+#. ID 13, Page 1, Line 4, Pos (10,12)
+msgid ""
+"「何が嫌だ、鎖引っ張って街中歩かせただけで\n"
+"濡らしてる淫乱奴隷の分際で」"
+msgstr ""
+"「有什么好嫌的，\n"
+"不过是拉着锁链在街上走一圈就湿了的淫乱奴隶的身\n"
+"份罢了」"
+
+#. ID 13, Page 1, Line 14, Pos (10,12)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「…そんなことありません」"
+msgstr "【\\N[\\V[6]]】「……没有那种事」"
+
+#. ID 13, Page 1, Line 29, Pos (10,12)
+msgid ""
+"「身体は正直だぜ。\n"
+"今晩は足腰が立たなくなるくらい、可愛がってやるぜ！\n"
+"まぁ、明日の出発は少しくらい遅らせてもいいしな」"
+msgstr ""
+"「身体是诚实的。今晚我会好好疼爱你，\n"
+"让你腰腿都站不起来！嘛，\n"
+"明天的出发稍微推迟一点也没关系。」"
+
+#. ID 13, Page 1, Line 49, Pos (10,12)
+msgid ""
+"【\\N[\\V[6]]】\n"
+"「嫌ぁぁぁ！！！！！！」"
+msgstr "【\\N[\\V[6]]】「不要啊啊啊啊！！！！！！」"
+
+#. ID 13, Page 1, Line 60, Pos (10,12)
+msgid "……\\!……\\!……\\!……\\!……\\!……\\!……\\!……\\!……\\!"
+msgstr "……\\!……\\!……\\!……\\!……\\!……\\!……\\!……\\!……\\!"
+
+#. ID 13, Page 1, Line 85, Pos (10,12)
+msgid ""
+"翌日、冒険者は\\n[\\v[6]]を伴って\n"
+"ある洞窟の奥に向かった。"
+msgstr ""
+"第二天，\n"
+"冒险者带着\\n[\\v[6]]前往了某个洞窟的深处。"
+
+#. ID 14, Page 1, Line 3, Pos (9,8)
+msgid "＊ ロイヤルスイート ＊"
+msgstr "＊ 皇家套房 ＊"

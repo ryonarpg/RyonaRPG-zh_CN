@@ -1,0 +1,66 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 2, Line 3, Pos (6,26)
+#. ID 3, Page 2, Line 3, Pos (18,26)
+msgid "どこからともなく声が聞こえる。"
+msgstr "不知从何处传来声音。"
+
+#. ID 2, Page 2, Line 9, Pos (6,26)
+msgid ""
+"強くも穢れなき魂の持ち主よ。\n"
+"汝の強さと清らかなる精神を称えん。"
+msgstr ""
+"强大而纯洁无瑕的灵魂持有者啊。\n"
+"我赞美你的强大与清纯精神。"
+
+#. ID 2, Page 2, Line 18, Pos (6,26)
+msgid ""
+"悪しき心を内に秘めたる者よ。\n"
+"汝この扉を通ること適わず。\n"
+"悔い改めよ。"
+msgstr ""
+"将邪恶之心隐藏于内者啊。你无法通过此门。\n"
+"悔改吧。"
+
+#. ID 3, Page 2, Line 9, Pos (18,26)
+msgid ""
+"卑しく猛々しき魂の器よ。\n"
+"扉を開き蛮虐の限りを尽くせ。"
+msgstr ""
+"卑劣而凶猛灵魂的容器啊。打开门，\n"
+"尽情施展暴虐吧。"
+
+#. ID 3, Page 2, Line 18, Pos (18,26)
+msgid ""
+"魂に未だ光を残す者よ。\n"
+"汝この扉を通ること適わず。\n"
+"去るがよい。"
+msgstr "灵魂中仍留有光芒者啊。你无法通过此门。离去吧。"
+
+#. ID 16, Page 2, Line 3, Pos (12,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊緊急脱出路のようだ\n"
+"　移動しますか？"
+msgstr "＊似乎是紧急逃生路　要移动吗？"
+
+#. ID 16, Page 2, Line 5, Pos (12,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

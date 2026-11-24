@@ -1,0 +1,267 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 7, Pos (5,14)
+msgid "…………何か用か？"
+msgstr "…………有什么事吗？"
+
+#. ID 6, Page 1, Line 22, Pos (6,12)
+#. ID 28, Page 1, Line 10, Pos (11,12)
+msgid "部屋に鍵がかかっている。"
+msgstr "房间锁着。"
+
+#. ID 6, Page 1, Line 24, Pos (6,12)
+msgid "…………なにか用か？"
+msgstr "…………有什么事吗？"
+
+#. ID 6, Page 1, Line 30, Pos (6,12)
+msgid ""
+"\n"
+"どうしますか？"
+msgstr "要怎么做？"
+
+#. ID 6, Page 1, Line 32, Pos (6,12)
+#. Choice (3 options)
+msgid ""
+"「お飲み物をお持ちしました」\n"
+"「間違えました」\n"
+"鍵をこじ開ける"
+msgstr ""
+"「我把饮品送来了」\n"
+"「弄错了」\n"
+"撬开锁"
+
+#. ID 6, Page 1, Line 37, Pos (6,12)
+msgid ""
+"いらん。用があるときはこちらから呼ぶ。\n"
+"気遣いは無用だ。"
+msgstr "不需要。有事时我会从这边叫你。不必费心。"
+
+#. ID 6, Page 1, Line 47, Pos (6,12)
+msgid "フン。"
+msgstr "哼。"
+
+#. ID 11, Page 1, Line 3, Pos (6,10)
+#. ID 13, Page 1, Line 3, Pos (11,10)
+msgid ""
+"【個室】\n"
+"＊鍵付個室は違法"
+msgstr "【单间】＊带锁单间违法"
+
+#. ID 14, Page 1, Line 7, Pos (1,21)
+msgid ""
+"俺の酒が飲めねえって言うのかよぉお？？\n"
+"んなぁ？？？"
+msgstr "你说你喝不了我的酒吗啊啊？？啊？？？"
+
+#. ID 15, Page 1, Line 7, Pos (5,21)
+msgid "（めんどくせぇ……）"
+msgstr "（好麻烦……）"
+
+#. ID 16, Page 1, Line 7, Pos (15,22)
+msgid ""
+"………………………………。\n"
+"ｸﾞｽｯ。"
+msgstr ""
+"………………………………。\n"
+"咕嘶。"
+
+#. ID 18, Page 1, Line 7, Pos (13,22)
+msgid "金が……消えた……。"
+msgstr "钱……消失了……。"
+
+#. ID 21, Page 1, Line 7, Pos (9,7)
+msgid ""
+"はあ～、忙し忙し！\n"
+"お酒じゃんじゃん運ぶよ～。"
+msgstr "唉～，忙死了忙死了！酒要不停地搬咯～。"
+
+#. ID 22, Page 1, Line 7, Pos (18,21)
+msgid ""
+"敗者を肴に酒が美味い。\n"
+"これがメシウマ状態！"
+msgstr "以败者为下酒菜，酒真好喝。这就是「饭好吃」状态！"
+
+#. ID 24, Page 1, Line 7, Pos (6,7)
+msgid ""
+"物事には表と裏があります。\n"
+"\\!仕事柄他言はできませんが、十分気を\n"
+"つけてください。"
+msgstr ""
+"凡事都有表和里。\\!由于工作性质我不能多说，\n"
+"但请务必小心。"
+
+#. ID 25, Page 1, Line 7, Pos (12,7)
+msgid "静かにお酒を飲みたいものです。"
+msgstr "真想安静地喝酒啊。"
+
+#. ID 26, Page 1, Line 7, Pos (14,7)
+msgid ""
+"やっぱ酒は賑やかに飲むもんだな！\n"
+"\\!なあ、爺さんよ！？"
+msgstr "果然酒还是要热热闹闹地喝啊！\\!喂，老爷子！？"
+
+#. ID 27, Page 1, Line 7, Pos (1,7)
+msgid ""
+"＊二階は只今貸切ですので、\n"
+"　一階を使うようお願い致します。\n"
+"　　　　　　　　　　　　　　　　店主"
+msgstr ""
+"＊二楼现在包场中，　请使用一楼。\n"
+"　店主"
+
+#. ID 28, Page 1, Line 11, Pos (11,12)
+msgid "……中から荒い息づかいが聞こえる。"
+msgstr "……里面传来粗重的呼吸声。"
+
+#. ID 35, Page 1, Line 7, Pos (18,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"そこのお姉さん。銃は得意かい？\n"
+"\\!面白い場所があるんだが・・・"
+msgstr ""
+"那边的大姐姐。擅长用枪吗？\\!有个有趣的地方，\n"
+"不过……"
+
+#. ID 35, Page 1, Line 9, Pos (18,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"付いていく\n"
+"止めとく"
+msgstr ""
+"跟过去\n"
+"算了"
+
+#. ID 35, Page 1, Line 11, Pos (18,7)
+msgid "よし、付いてきな。"
+msgstr "好，跟我来。"
+
+#. ID 35, Page 1, Line 28, Pos (18,7)
+msgid "そうかい。"
+msgstr "这样啊。"
+
+#. ID 36, Page 1, Line 8, Pos (16,7)
+#. ID 36, Page 3, Line 3, Pos (16,7)
+msgid "一仕事終えて飲む酒はうめぇな。"
+msgstr "干完一件工作后喝的酒真好喝啊。"
+
+#. ID 36, Page 2, Line 3, Pos (16,7)
+msgid ""
+"むっ、そこのねーちゃん、あんた冒険者だな？\n"
+"しかもそれなりに腕が経つと見た。"
+msgstr ""
+"唔，那边的小妹，你是冒险者吧？\n"
+"而且我看你身手还挺不错。"
+
+#. ID 36, Page 2, Line 5, Pos (16,7)
+msgid ""
+"分かるさ。俺も同業だからな。\\.\\.\n"
+"あんたほどなら金も結構持ってるんだろ？\n"
+"一杯奢ってくれよ。"
+msgstr ""
+"看得出来。我也是同行嘛。\\.\\.像你这种程度，\n"
+"应该也挺有钱吧？请我喝一杯吧。"
+
+#. ID 36, Page 2, Line 11, Pos (16,7)
+#. Choice (2 options)
+msgid ""
+"奢る\n"
+"やだ"
+msgstr ""
+"我请\n"
+"不要"
+
+#. ID 36, Page 2, Line 14, Pos (16,7)
+msgid "おっマジで奢ってくれるのか。サンキュー！"
+msgstr "哦，真的请我喝吗。谢啦！"
+
+#. ID 36, Page 2, Line 16, Pos (16,7)
+msgid ""
+"・・・ってこんだけじゃ酒代に足りねぇよ。\n"
+"意外に金持ってねぇのな。\n"
+"まぁ残りは自分で出すわ。"
+msgstr ""
+"・・・不过就这点可不够酒钱啊。\n"
+"没想到你意外地没钱呢。算了，剩下的我自己出吧。"
+
+#. ID 36, Page 2, Line 25, Pos (16,7)
+msgid "ｺﾞｸ\\.ｺﾞｸ\\.\\."
+msgstr "咕\\.咕\\.\\."
+
+#. ID 36, Page 2, Line 26, Pos (16,7)
+msgid "んほぉ～このビールたまんねぇ～"
+msgstr "嗯呵～这啤酒真是绝了～"
+
+#. ID 36, Page 2, Line 27, Pos (16,7)
+msgid ""
+"いやぁねーちゃん気前がいいねぇ。\n"
+"そうだ、酒のお礼にいい情報を教えてやろう。"
+msgstr ""
+"哎呀，小妹真大方啊。对了，作为酒的谢礼，\n"
+"我告诉你个好情报吧。"
+
+#. ID 36, Page 2, Line 29, Pos (16,7)
+msgid ""
+"大陸の東端の辺りにある森の中にまだほとんど\n"
+"手の付けられていない遺跡があるらしいぜ？\n"
+"俺は人づてに聞いただけだけだから\n"
+"詳しいことは知らないがな・・・"
+msgstr ""
+"听说大陆东端一带的森林里，\n"
+"有一座几乎还没被人动过的遗迹哦？\n"
+"我只是从别人那里听来的，详细情况可不知道啊……"
+
+#. ID 36, Page 2, Line 33, Pos (16,7)
+msgid ""
+"まぁ場所は分かるぜ。\n"
+"そんときに地図にメモしたからな。\n"
+"あんたにも教えてやるよ。"
+msgstr ""
+"不过地点我知道。当时在地图上记了笔记。\n"
+"也告诉你吧。"
+
+#. ID 36, Page 2, Line 41, Pos (16,7)
+msgid ""
+"\n"
+"ワールドマップに目印を付けてもらった。"
+msgstr "世界地图上已经标上了记号。"
+
+#. ID 36, Page 2, Line 48, Pos (16,7)
+msgid "◆ローメイの遺跡　の情報を得た！"
+msgstr "◆洛梅遗迹　的情报已获得！"
+
+#. ID 36, Page 2, Line 53, Pos (16,7)
+msgid ""
+"そいつが話してたことを思い出したが、\n"
+"その遺跡は入るたびに内部の構造が\n"
+"変化していたらしいぜ。"
+msgstr ""
+"我想起了那家伙说过的话，\n"
+"据说那座遗迹每次进去内部构造都会变化。"
+
+#. ID 36, Page 2, Line 56, Pos (16,7)
+msgid ""
+"にわかには信じがたいが古代の遺跡にはそういう\n"
+"不思議なものが少なくはないと聞くし、行くんなら\n"
+"ねーちゃんもよく気を付けた方がいいかもな。"
+msgstr ""
+"虽然难以立刻相信，\n"
+"但听说古代遗迹里这种不可思议的东西不少，\n"
+"要去的话大姐你也最好多加小心。"
+
+#. ID 36, Page 2, Line 62, Pos (16,7)
+msgid ""
+"へっ、酒代程度も惜しむようじゃ\n"
+"見込み違いだったかな。"
+msgstr "嘿，要是连酒钱都舍不得，那可能是我看走眼了。"

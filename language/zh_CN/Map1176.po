@@ -1,0 +1,99 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 16, Page 2, Line 4, Pos (11,17)
+msgid ""
+"名前：マッドマン\n"
+"種族：人男"
+msgstr "名字：泥人 种族：人男"
+
+#. ID 16, Page 2, Line 6, Pos (11,17)
+msgid ""
+"泥から生まれた魔法生命体\\!\n"
+"パンツが彼のトレードマークだ"
+msgstr "从泥土中诞生的魔法生命体\\!内裤是他的标志"
+
+#. ID 16, Page 2, Line 8, Pos (11,17)
+#. Contains choice at line 3 (2 options)
+#. ID 17, Page 2, Line 7, Pos (7,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$2000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "\\$2000G可以听取攻略情报。要听吗？"
+
+#. ID 16, Page 2, Line 10, Pos (11,17)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 9, Pos (7,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 16, Page 2, Line 17, Pos (11,17)
+msgid "右手側の壁に沿って移動する習性がある"
+msgstr "有沿着右侧墙壁移动的习性"
+
+#. ID 16, Page 2, Line 18, Pos (11,17)
+msgid ""
+"よく動きを読んで対処すれば、\n"
+"安全に倒すことができる"
+msgstr "只要好好读懂动作并应对，就能安全地打倒"
+
+#. ID 16, Page 2, Line 20, Pos (11,17)
+msgid ""
+"実は背後や真横から触っても\n"
+"攻撃をしてこない"
+msgstr "实际上从背后或正侧面触碰也不会攻击"
+
+#. ID 16, Page 2, Line 22, Pos (11,17)
+msgid ""
+"鞭を使うと二倍のダメージを\n"
+"与えることができる"
+msgstr "使用鞭子可以造成双倍伤害"
+
+#. ID 16, Page 2, Line 24, Pos (11,17)
+msgid "稀に竜のウンコを落とす"
+msgstr "偶尔会掉落龙粪"
+
+#. ID 17, Page 2, Line 4, Pos (7,17)
+msgid ""
+"名前：アモイ\n"
+"種族：特殊装甲"
+msgstr "名字：阿莫伊种族：特殊装甲"
+
+#. ID 17, Page 2, Line 6, Pos (7,17)
+msgid "魔法石で作られたトラップの一種"
+msgstr "由魔法石制成的一种陷阱"
+
+#. ID 17, Page 2, Line 16, Pos (7,17)
+msgid ""
+"時々浮き上がって周囲に行動する\\!\n"
+"近寄らなければ何も問題ない"
+msgstr ""
+"有时会浮起并在周围活动\\!不靠近的话就没有任何问\n"
+"题"
+
+#. ID 17, Page 2, Line 18, Pos (7,17)
+msgid ""
+"特殊装甲であるため、対甲属性攻撃で\n"
+"破壊することができる"
+msgstr "由于是特殊装甲，可以用对甲属性攻击破坏"
+
+#. ID 17, Page 2, Line 20, Pos (7,17)
+msgid "倒すと稀にヒトデを落とす"
+msgstr "打倒后偶尔会掉落海星"

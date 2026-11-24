@@ -1,0 +1,83 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (0,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"このダンジョンから出ますか？"
+msgstr "要离开这个地下城吗？"
+
+#. ID 2, Page 1, Line 5, Pos (0,6)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 21, Pos (8,14)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 6, Page 1, Line 4, Pos (8,14)
+msgid ""
+"\\>　　　　　　　　　＊　ご案内　＊\n"
+"\\>湿原へ向かう方は、対岸の転送小屋をお使いください\n"
+"\\>　その他ご用命・物資の調達は、\n"
+"\\>　　　　　　　ショップ「崖っぷち」までどうぞ！"
+msgstr ""
+"\\>　　　　　　　　　＊　指南　＊\\>前往湿原的人\n"
+"，\n"
+"请使用对岸的传送小屋\\>　其他委托・物资的采购，\n"
+"\\>　　　　　　　请到商店‘悬崖边’！"
+
+#. ID 6, Page 1, Line 8, Pos (8,14)
+msgid ""
+"\\>　　　　　　　　　＊ お知らせ ＊\n"
+"\\>先日の大雨で橋が流されてしまいました。\n"
+"\\>復旧までしばらくお待ちください。"
+msgstr ""
+"\\>　　　　　　　　　＊ 通知 ＊\\>前几天的大雨把\n"
+"桥冲走了。\\>请稍候一段时间，直到修复完成。"
+
+#. ID 6, Page 1, Line 17, Pos (8,14)
+msgid ""
+"\\>　　　　　　　　　＊ リセット ＊\n"
+"\\>ダンジョンの一部の設定を初期化しますか？\n"
+"\\>・崖の近道の初回演出　・管理人の初回会話\n"
+"\\>＊ボスの初回撃破情報は残ります。BGMはお店で。"
+msgstr ""
+"\\>　　　　　　　　　＊ 重置 ＊\\>要初始化迷宫的\n"
+"一部分设置吗？\n"
+"\\>・悬崖近道的首次演出　・管理员的首次对话\\>＊\n"
+"首领的首次击破信息会保留。BGM在店里。"
+
+#. ID 6, Page 1, Line 25, Pos (8,14)
+msgid ""
+"\\>\n"
+"\\>終了！"
+msgstr "\\>\\>结束！"
+
+#. ID 8, Page 1, Line 3, Pos (15,17)
+msgid ""
+"\n"
+"橋が壊れてしまっている。\n"
+"ここから飛び込んで向こう岸に渡るのは無理そうだ。"
+msgstr "桥已经坏了。从这里跳下去到对岸似乎不可能。"
+
+#. ID 12, Page 1, Line 17, Pos (19,3)
+msgid ""
+"\n"
+"あれ？　ここは……"
+msgstr "咦？　这里是……"

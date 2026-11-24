@@ -1,0 +1,167 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 40, Page 2, Line 4, Pos (23,23)
+#. Contains choice at line 2 (2 options)
+#. ID 45, Page 2, Line 4, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 2, Line 4, Pos (31,9)
+#. Contains choice at line 2 (2 options)
+msgid "＊[地下牢獄看守の鍵]を使いますか？"
+msgstr "＊要使用[地下牢狱看守钥匙]吗？"
+
+#. ID 40, Page 2, Line 5, Pos (23,23)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 2, Line 5, Pos (27,29)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 2, Line 5, Pos (1,9)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 2, Line 5, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 5, Pos (31,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 40, Page 2, Line 34, Pos (23,23)
+#. ID 41, Page 2, Line 34, Pos (27,29)
+#. ID 42, Page 2, Line 34, Pos (1,9)
+#. ID 45, Page 2, Line 34, Pos (15,9)
+#. ID 46, Page 2, Line 47, Pos (31,9)
+msgid "＊鍵が掛かっている"
+msgstr "＊上锁了"
+
+#. ID 41, Page 2, Line 4, Pos (27,29)
+#. Contains choice at line 2 (2 options)
+#. ID 42, Page 2, Line 4, Pos (1,9)
+#. Contains choice at line 2 (2 options)
+msgid "＊[地下牢獄の鍵]を使いますか？"
+msgstr "＊要使用[地下牢狱钥匙]吗？"
+
+#. ID 46, Page 2, Line 25, Pos (31,9)
+msgid "「タスケテクレ……、ッテ、イッタノニ」"
+msgstr "「救救我……、我明明、说过的」"
+
+#. ID 46, Page 2, Line 36, Pos (31,9)
+msgid "「た……助けて！」"
+msgstr "「救……救救我！」"
+
+#. ID 46, Page 2, Line 37, Pos (31,9)
+msgid ""
+"「私たちの仲間はもう殺されちゃったの！\n"
+"　最後はワタシなのよ！お願い、助けて！」"
+msgstr ""
+"「我的同伴们已经被杀掉了！　最后轮到我了！\n"
+"　求求你，救救我！」"
+
+#. ID 47, Page 2, Line 3, Pos (3,15)
+msgid "＊ブツブツ……　ブツブツ……"
+msgstr "＊喃喃自语……　喃喃自语……"
+
+#. ID 49, Page 2, Line 3, Pos (13,23)
+#. ID 49, Page 3, Line 3, Pos (13,23)
+msgid "＊首だけの死体だ……"
+msgstr "＊只有头部的尸体……"
+
+#. ID 57, Page 2, Line 3, Pos (12,24)
+#. ID 57, Page 3, Line 3, Pos (12,24)
+#. ID 65, Page 2, Line 3, Pos (31,4)
+#. ID 65, Page 3, Line 3, Pos (31,4)
+msgid "＊開腹され内蔵が切り刻まれた胴体だ"
+msgstr "＊被剖腹、内脏被切碎的躯干"
+
+#. ID 58, Page 2, Line 3, Pos (15,25)
+msgid "＊使い込まれた、血塗めの短刀だ"
+msgstr "＊一把用惯了的、染血的短刀"
+
+#. ID 63, Page 2, Line 3, Pos (13,4)
+#. ID 68, Page 2, Line 3, Pos (21,4)
+msgid ""
+"＊……腐敗した死体だ\n"
+"　随分前に息絶えたのだろう"
+msgstr "＊……是具腐败的尸体　应该很久以前就断气了"
+
+#. ID 69, Page 2, Line 3, Pos (4,17)
+msgid ""
+"＊薄汚れた手帳だ\n"
+"　裁判記録と表紙に記載されている"
+msgstr "＊脏兮兮的手册　封面上写着审判记录"
+
+#. ID 69, Page 2, Line 11, Pos (4,17)
+msgid ""
+"＊下級看守ヒルデ　ノ　罪状　脱獄幇助ハ\n"
+"　秩序乱シ　タラシメン　行為トシ\n"
+"　真ニ　許サレザリ"
+msgstr ""
+"＊下级看守希尔德　之　罪状　协助越狱乃　扰乱秩\n"
+"　序　不可容许　之行为　实难宽恕"
+
+#. ID 69, Page 2, Line 14, Pos (4,17)
+msgid "＊ヨッテ　苦痛役ト　トモニ　衰弱死刑トス"
+msgstr "＊因此　与痛苦役一同　处以衰弱死刑"
+
+#. ID 69, Page 2, Line 15, Pos (4,17)
+msgid ""
+"＊タダシ　仮ニモ　看守デアルコトカラシ\n"
+"　死マデハ　看守ノ身分タラシメン"
+msgstr ""
+"＊但　纵然只是暂定　既然身为看守　至死为止　仍\n"
+"　保留看守身份"
+
+#. ID 69, Page 2, Line 17, Pos (4,17)
+msgid ""
+"＊装備オヨビ備品ハ\n"
+"　死マデ　貸与シ続ケル　モノトス"
+msgstr "＊装备及备品　至死为止　继续出借　特此规定"
+
+#. ID 70, Page 2, Line 3, Pos (22,12)
+msgid "＊薄汚れた手帳だ"
+msgstr "＊脏兮兮的手册"
+
+#. ID 70, Page 2, Line 10, Pos (22,12)
+msgid ""
+"＊本日　不法侵入者　4人　拘留\n"
+"　即席裁判ヨリ有罪　1人死刑　1人慰安刑\n"
+"　1人教化刑　1人禁固刑トス　"
+msgstr ""
+"＊本日　非法入侵者　4人　拘留　经即席审判有罪\n"
+"　1人死刑　1人慰安刑　1人教化刑　1人禁锢刑"
+
+#. ID 70, Page 2, Line 13, Pos (22,12)
+msgid ""
+"＊先日ヨリ　不法侵入者　多発\n"
+"　看守ハ　脱獄ヲ警戒セシ"
+msgstr ""
+"＊从前几天起　非法入侵者　频发　看守须　警戒越\n"
+"　狱"
+
+#. ID 71, Page 2, Line 3, Pos (28,16)
+msgid "＊血の聖なるかな"
+msgstr "＊鲜血之圣哉"
+
+#. ID 72, Page 2, Line 3, Pos (31,16)
+msgid "＊生誕の美しきかな"
+msgstr "＊生诞之美哉"
+
+#. ID 73, Page 2, Line 3, Pos (34,16)
+msgid "＊運命の正しきかな"
+msgstr "＊命运之正哉"
+
+#. ID 74, Page 2, Line 3, Pos (37,16)
+msgid "＊死の聖なるかな"
+msgstr "＊死亡之圣哉"

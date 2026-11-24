@@ -1,0 +1,3342 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 21, Page 1, Line 3, Pos (51,6)
+msgid "ココはツーコー止めだよ、ワルいけどね"
+msgstr "这里禁止通行哦，虽然抱歉呢"
+
+#. ID 21, Page 2, Line 3, Pos (51,6)
+msgid ""
+"ワルいけど…\\.\\.ット\n"
+"そういえばシッショーが呼んでたっけ、通ってエエよ"
+msgstr ""
+"虽然抱歉……\\.\\.对了，说起来执事好像叫过你，\n"
+"可以过去哦"
+
+#. ID 21, Page 3, Line 3, Pos (51,6)
+msgid ""
+"ココはツーコー止めだよ\n"
+"シッショーは今日も仕事浸けネー"
+msgstr "这里禁止通行哦，执事今天也一直在忙工作呢"
+
+#. ID 21, Page 4, Line 3, Pos (51,6)
+msgid ""
+"アンタは確か…ええット\n"
+"シッショーが呼んでたっけ、通ってエエよ"
+msgstr "你好像是……嗯，执事叫过你吧，可以过去哦"
+
+#. ID 21, Page 5, Line 3, Pos (51,6)
+msgid "ちょいマエにシッショーがアンタのコト、ホメてたわよ"
+msgstr "刚才执事还夸你来着哦"
+
+#. ID 21, Page 5, Line 4, Pos (51,6)
+msgid "アト、ココツーコー止めだよ"
+msgstr "还有，这里禁止通行哦"
+
+#. ID 21, Page 6, Line 3, Pos (51,6)
+msgid "シッショーもよくアンタに声かけるわね、通ってエエよ"
+msgstr "执事也经常跟你打招呼呢，可以过去哦"
+
+#. ID 22, Page 1, Line 3, Pos (31,19)
+msgid ""
+"こらこら、勝手に内側に入ってこないの\n"
+"いいコト？重要な書類とか秘密事項沢山あるのよ？"
+msgstr ""
+"喂喂，不要随便进到里面来，明白吗？\n"
+"这里有很多重要文件和机密事项哦？"
+
+#. ID 23, Page 1, Line 3, Pos (24,25)
+msgid ""
+"\n"
+"すさまじい覇気を感じる…"
+msgstr "感受到惊人的霸气……"
+
+#. ID 24, Page 1, Line 3, Pos (14,6)
+msgid ""
+"\n"
+"ここは通さない…\\.\\.という強い意志を感じる"
+msgstr "感受到这里不会让你通过…\\.\\.的强烈意志"
+
+#. ID 24, Page 2, Line 3, Pos (14,6)
+#. ID 24, Page 3, Line 3, Pos (14,6)
+#. ID 24, Page 4, Line 3, Pos (14,6)
+#. ID 24, Page 5, Line 3, Pos (14,6)
+#. ID 24, Page 6, Line 3, Pos (14,6)
+msgid "………"
+msgstr "………"
+
+#. ID 25, Page 1, Line 3, Pos (43,24)
+msgid ""
+"\n"
+"黒い外套を着た冒険者だ"
+msgstr "是穿着黑色外套的冒险者"
+
+#. ID 26, Page 1, Line 3, Pos (44,24)
+msgid ""
+"\n"
+"どう見ても魔物のようだが\n"
+"不思議な事に暴れたりする気配は微塵も感じない…"
+msgstr ""
+"怎么看都像是魔物，\n"
+"但不可思议的是完全感觉不到它会闹腾的迹象……"
+
+#. ID 27, Page 1, Line 4, Pos (20,21)
+#. ID 35, Page 1, Line 4, Pos (19,21)
+#. ID 67, Page 1, Line 4, Pos (21,21)
+#. ID 68, Page 1, Line 4, Pos (22,21)
+#. ID 77, Page 1, Line 4, Pos (23,21)
+#. ID 78, Page 1, Line 4, Pos (24,21)
+#. ID 79, Page 1, Line 4, Pos (25,21)
+#. ID 80, Page 1, Line 4, Pos (40,21)
+#. ID 81, Page 1, Line 4, Pos (41,21)
+#. ID 82, Page 1, Line 4, Pos (42,21)
+#. ID 83, Page 1, Line 4, Pos (43,21)
+msgid ""
+"\n"
+"他の案件も気になるが\n"
+"今はまず、受けている案件をこなすべきだ"
+msgstr ""
+"虽然也其他委托令人在意，\n"
+"但现在首先应该完成已接受的委托"
+
+#. ID 27, Page 1, Line 14, Pos (20,21)
+#. ChangeHeroName (Actor 101)
+#. ID 27, Page 1, Line 21, Pos (20,21)
+#. ChangeHeroName (Actor 102)
+#. ID 27, Page 1, Line 28, Pos (20,21)
+#. ChangeHeroName (Actor 103)
+#. ID 27, Page 1, Line 35, Pos (20,21)
+#. ChangeHeroName (Actor 104)
+#. ID 35, Page 1, Line 14, Pos (19,21)
+#. ChangeHeroName (Actor 101)
+#. ID 35, Page 1, Line 21, Pos (19,21)
+#. ChangeHeroName (Actor 102)
+#. ID 35, Page 1, Line 28, Pos (19,21)
+#. ChangeHeroName (Actor 103)
+#. ID 35, Page 1, Line 35, Pos (19,21)
+#. ChangeHeroName (Actor 104)
+#. ID 67, Page 1, Line 14, Pos (21,21)
+#. ChangeHeroName (Actor 101)
+#. ID 67, Page 1, Line 21, Pos (21,21)
+#. ChangeHeroName (Actor 102)
+#. ID 67, Page 1, Line 28, Pos (21,21)
+#. ChangeHeroName (Actor 103)
+#. ID 67, Page 1, Line 35, Pos (21,21)
+#. ChangeHeroName (Actor 104)
+#. ID 68, Page 1, Line 14, Pos (22,21)
+#. ChangeHeroName (Actor 101)
+#. ID 68, Page 1, Line 21, Pos (22,21)
+#. ChangeHeroName (Actor 102)
+#. ID 68, Page 1, Line 28, Pos (22,21)
+#. ChangeHeroName (Actor 103)
+#. ID 68, Page 1, Line 35, Pos (22,21)
+#. ChangeHeroName (Actor 104)
+#. ID 77, Page 1, Line 14, Pos (23,21)
+#. ChangeHeroName (Actor 101)
+#. ID 77, Page 1, Line 21, Pos (23,21)
+#. ChangeHeroName (Actor 102)
+#. ID 77, Page 1, Line 28, Pos (23,21)
+#. ChangeHeroName (Actor 103)
+#. ID 77, Page 1, Line 35, Pos (23,21)
+#. ChangeHeroName (Actor 104)
+#. ID 78, Page 1, Line 14, Pos (24,21)
+#. ChangeHeroName (Actor 101)
+#. ID 78, Page 1, Line 21, Pos (24,21)
+#. ChangeHeroName (Actor 102)
+#. ID 78, Page 1, Line 28, Pos (24,21)
+#. ChangeHeroName (Actor 103)
+#. ID 78, Page 1, Line 35, Pos (24,21)
+#. ChangeHeroName (Actor 104)
+#. ID 79, Page 1, Line 14, Pos (25,21)
+#. ChangeHeroName (Actor 101)
+#. ID 79, Page 1, Line 21, Pos (25,21)
+#. ChangeHeroName (Actor 102)
+#. ID 79, Page 1, Line 28, Pos (25,21)
+#. ChangeHeroName (Actor 103)
+#. ID 79, Page 1, Line 35, Pos (25,21)
+#. ChangeHeroName (Actor 104)
+#. ID 80, Page 1, Line 14, Pos (40,21)
+#. ChangeHeroName (Actor 101)
+#. ID 80, Page 1, Line 21, Pos (40,21)
+#. ChangeHeroName (Actor 102)
+#. ID 80, Page 1, Line 28, Pos (40,21)
+#. ChangeHeroName (Actor 103)
+#. ID 80, Page 1, Line 35, Pos (40,21)
+#. ChangeHeroName (Actor 104)
+#. ID 81, Page 1, Line 14, Pos (41,21)
+#. ChangeHeroName (Actor 101)
+#. ID 81, Page 1, Line 21, Pos (41,21)
+#. ChangeHeroName (Actor 102)
+#. ID 81, Page 1, Line 28, Pos (41,21)
+#. ChangeHeroName (Actor 103)
+#. ID 81, Page 1, Line 35, Pos (41,21)
+#. ChangeHeroName (Actor 104)
+#. ID 82, Page 1, Line 14, Pos (42,21)
+#. ChangeHeroName (Actor 101)
+#. ID 82, Page 1, Line 21, Pos (42,21)
+#. ChangeHeroName (Actor 102)
+#. ID 82, Page 1, Line 28, Pos (42,21)
+#. ChangeHeroName (Actor 103)
+#. ID 82, Page 1, Line 35, Pos (42,21)
+#. ChangeHeroName (Actor 104)
+#. ID 83, Page 1, Line 14, Pos (43,21)
+#. ChangeHeroName (Actor 101)
+#. ID 83, Page 1, Line 21, Pos (43,21)
+#. ChangeHeroName (Actor 102)
+#. ID 83, Page 1, Line 28, Pos (43,21)
+#. ChangeHeroName (Actor 103)
+#. ID 83, Page 1, Line 35, Pos (43,21)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[3](済)"
+msgstr "\\c[3](已完成)"
+
+#. ID 27, Page 1, Line 17, Pos (20,21)
+#. ChangeHeroName (Actor 101)
+#. ID 27, Page 1, Line 24, Pos (20,21)
+#. ChangeHeroName (Actor 102)
+#. ID 27, Page 1, Line 31, Pos (20,21)
+#. ChangeHeroName (Actor 103)
+#. ID 27, Page 1, Line 38, Pos (20,21)
+#. ChangeHeroName (Actor 104)
+#. ID 35, Page 1, Line 17, Pos (19,21)
+#. ChangeHeroName (Actor 101)
+#. ID 35, Page 1, Line 24, Pos (19,21)
+#. ChangeHeroName (Actor 102)
+#. ID 35, Page 1, Line 31, Pos (19,21)
+#. ChangeHeroName (Actor 103)
+#. ID 35, Page 1, Line 38, Pos (19,21)
+#. ChangeHeroName (Actor 104)
+#. ID 67, Page 1, Line 17, Pos (21,21)
+#. ChangeHeroName (Actor 101)
+#. ID 67, Page 1, Line 24, Pos (21,21)
+#. ChangeHeroName (Actor 102)
+#. ID 67, Page 1, Line 31, Pos (21,21)
+#. ChangeHeroName (Actor 103)
+#. ID 67, Page 1, Line 38, Pos (21,21)
+#. ChangeHeroName (Actor 104)
+#. ID 68, Page 1, Line 17, Pos (22,21)
+#. ChangeHeroName (Actor 101)
+#. ID 68, Page 1, Line 24, Pos (22,21)
+#. ChangeHeroName (Actor 102)
+#. ID 68, Page 1, Line 31, Pos (22,21)
+#. ChangeHeroName (Actor 103)
+#. ID 68, Page 1, Line 38, Pos (22,21)
+#. ChangeHeroName (Actor 104)
+#. ID 77, Page 1, Line 17, Pos (23,21)
+#. ChangeHeroName (Actor 101)
+#. ID 77, Page 1, Line 24, Pos (23,21)
+#. ChangeHeroName (Actor 102)
+#. ID 77, Page 1, Line 31, Pos (23,21)
+#. ChangeHeroName (Actor 103)
+#. ID 77, Page 1, Line 38, Pos (23,21)
+#. ChangeHeroName (Actor 104)
+#. ID 78, Page 1, Line 17, Pos (24,21)
+#. ChangeHeroName (Actor 101)
+#. ID 78, Page 1, Line 24, Pos (24,21)
+#. ChangeHeroName (Actor 102)
+#. ID 78, Page 1, Line 31, Pos (24,21)
+#. ChangeHeroName (Actor 103)
+#. ID 78, Page 1, Line 38, Pos (24,21)
+#. ChangeHeroName (Actor 104)
+#. ID 79, Page 1, Line 17, Pos (25,21)
+#. ChangeHeroName (Actor 101)
+#. ID 79, Page 1, Line 24, Pos (25,21)
+#. ChangeHeroName (Actor 102)
+#. ID 79, Page 1, Line 31, Pos (25,21)
+#. ChangeHeroName (Actor 103)
+#. ID 79, Page 1, Line 38, Pos (25,21)
+#. ChangeHeroName (Actor 104)
+#. ID 80, Page 1, Line 17, Pos (40,21)
+#. ChangeHeroName (Actor 101)
+#. ID 80, Page 1, Line 24, Pos (40,21)
+#. ChangeHeroName (Actor 102)
+#. ID 80, Page 1, Line 31, Pos (40,21)
+#. ChangeHeroName (Actor 103)
+#. ID 80, Page 1, Line 38, Pos (40,21)
+#. ChangeHeroName (Actor 104)
+#. ID 81, Page 1, Line 17, Pos (41,21)
+#. ChangeHeroName (Actor 101)
+#. ID 81, Page 1, Line 24, Pos (41,21)
+#. ChangeHeroName (Actor 102)
+#. ID 81, Page 1, Line 31, Pos (41,21)
+#. ChangeHeroName (Actor 103)
+#. ID 81, Page 1, Line 38, Pos (41,21)
+#. ChangeHeroName (Actor 104)
+#. ID 82, Page 1, Line 17, Pos (42,21)
+#. ChangeHeroName (Actor 101)
+#. ID 82, Page 1, Line 24, Pos (42,21)
+#. ChangeHeroName (Actor 102)
+#. ID 82, Page 1, Line 31, Pos (42,21)
+#. ChangeHeroName (Actor 103)
+#. ID 82, Page 1, Line 38, Pos (42,21)
+#. ChangeHeroName (Actor 104)
+#. ID 83, Page 1, Line 17, Pos (43,21)
+#. ChangeHeroName (Actor 101)
+#. ID 83, Page 1, Line 24, Pos (43,21)
+#. ChangeHeroName (Actor 102)
+#. ID 83, Page 1, Line 31, Pos (43,21)
+#. ChangeHeroName (Actor 103)
+#. ID 83, Page 1, Line 38, Pos (43,21)
+#. ChangeHeroName (Actor 104)
+msgctxt "actors.name"
+msgid "\\c[0]　　"
+msgstr "\\c[0]　　"
+
+#. ID 27, Page 1, Line 42, Pos (20,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]納品:塩昆布\n"
+"\\>\\n[102]納品:脱がせの鬼\n"
+"\\>\\n[103]納品:淑女の薬\n"
+"\\>\\n[104]納品:アルラウネの花"
+msgstr ""
+"\\>\\n[101]提交:盐昆布\n"
+"\\>\\n[102]提交:脱衣鬼\n"
+"\\>\\n[103]提交:淑女之药\n"
+"\\>\\n[104]提交:阿尔拉乌涅之花"
+
+#. ID 27, Page 1, Line 49, Pos (20,21)
+#. ID 27, Page 1, Line 79, Pos (20,21)
+#. ID 27, Page 1, Line 105, Pos (20,21)
+#. ID 27, Page 1, Line 131, Pos (20,21)
+#. ID 35, Page 1, Line 45, Pos (19,21)
+#. ID 35, Page 1, Line 70, Pos (19,21)
+#. ID 35, Page 1, Line 96, Pos (19,21)
+#. ID 35, Page 1, Line 122, Pos (19,21)
+#. ID 67, Page 1, Line 49, Pos (21,21)
+#. ID 67, Page 1, Line 79, Pos (21,21)
+#. ID 67, Page 1, Line 104, Pos (21,21)
+#. ID 67, Page 1, Line 130, Pos (21,21)
+#. ID 68, Page 1, Line 49, Pos (22,21)
+#. ID 68, Page 1, Line 79, Pos (22,21)
+#. ID 68, Page 1, Line 105, Pos (22,21)
+#. ID 68, Page 1, Line 131, Pos (22,21)
+#. ID 77, Page 1, Line 49, Pos (23,21)
+#. ID 77, Page 1, Line 79, Pos (23,21)
+#. ID 77, Page 1, Line 105, Pos (23,21)
+#. ID 77, Page 1, Line 131, Pos (23,21)
+#. ID 78, Page 1, Line 49, Pos (24,21)
+#. ID 78, Page 1, Line 79, Pos (24,21)
+#. ID 78, Page 1, Line 105, Pos (24,21)
+#. ID 78, Page 1, Line 131, Pos (24,21)
+#. ID 79, Page 1, Line 49, Pos (25,21)
+#. ID 79, Page 1, Line 79, Pos (25,21)
+#. ID 79, Page 1, Line 105, Pos (25,21)
+#. ID 79, Page 1, Line 131, Pos (25,21)
+#. ID 80, Page 1, Line 49, Pos (40,21)
+#. ID 80, Page 1, Line 79, Pos (40,21)
+#. ID 80, Page 1, Line 105, Pos (40,21)
+#. ID 80, Page 1, Line 131, Pos (40,21)
+#. ID 81, Page 1, Line 49, Pos (41,21)
+#. ID 81, Page 1, Line 78, Pos (41,21)
+#. ID 81, Page 1, Line 104, Pos (41,21)
+#. ID 81, Page 1, Line 130, Pos (41,21)
+#. ID 82, Page 1, Line 49, Pos (42,21)
+#. ID 82, Page 1, Line 79, Pos (42,21)
+#. ID 82, Page 1, Line 105, Pos (42,21)
+#. ID 82, Page 1, Line 131, Pos (42,21)
+#. ID 83, Page 1, Line 49, Pos (43,21)
+#. ID 83, Page 1, Line 79, Pos (43,21)
+#. ID 83, Page 1, Line 105, Pos (43,21)
+#. ID 83, Page 1, Line 131, Pos (43,21)
+msgid ""
+"\n"
+"解決済みのスタンプが押されている\n"
+"他の案件を探してみるか"
+msgstr "找找其他已经盖上已解决印章的委托吧"
+
+#. ID 27, Page 1, Line 57, Pos (20,21)
+msgid ""
+"\\>難易度：☆\n"
+"\\>報酬　：１０００Ｇ\n"
+"\\>この大陸のどこかにあるとされる珍味だそうだ\n"
+"\\>食べてみたいので誰か持ってきて"
+msgstr ""
+"\\>难度：☆\\>报酬　：\n"
+"1000G\\>据说是这片大陆某处才有的珍味\\>想尝尝看，\n"
+"谁能带来"
+
+#. ID 27, Page 1, Line 61, Pos (20,21)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 91, Pos (20,21)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 117, Pos (20,21)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 143, Pos (20,21)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 56, Pos (19,21)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 82, Pos (19,21)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 108, Pos (19,21)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 134, Pos (19,21)
+#. Contains choice at line 2 (2 options)
+#. ID 67, Page 1, Line 61, Pos (21,21)
+#. Contains choice at line 2 (2 options)
+#. ID 67, Page 1, Line 90, Pos (21,21)
+#. Contains choice at line 2 (2 options)
+#. ID 67, Page 1, Line 116, Pos (21,21)
+#. Contains choice at line 2 (2 options)
+#. ID 67, Page 1, Line 142, Pos (21,21)
+#. Contains choice at line 2 (2 options)
+#. ID 68, Page 1, Line 61, Pos (22,21)
+#. Contains choice at line 2 (2 options)
+#. ID 68, Page 1, Line 91, Pos (22,21)
+#. Contains choice at line 2 (2 options)
+#. ID 68, Page 1, Line 117, Pos (22,21)
+#. Contains choice at line 2 (2 options)
+#. ID 68, Page 1, Line 143, Pos (22,21)
+#. Contains choice at line 2 (2 options)
+#. ID 77, Page 1, Line 61, Pos (23,21)
+#. Contains choice at line 2 (2 options)
+#. ID 77, Page 1, Line 91, Pos (23,21)
+#. Contains choice at line 2 (2 options)
+#. ID 77, Page 1, Line 117, Pos (23,21)
+#. Contains choice at line 2 (2 options)
+#. ID 77, Page 1, Line 143, Pos (23,21)
+#. Contains choice at line 2 (2 options)
+#. ID 78, Page 1, Line 61, Pos (24,21)
+#. Contains choice at line 2 (2 options)
+#. ID 78, Page 1, Line 91, Pos (24,21)
+#. Contains choice at line 2 (2 options)
+#. ID 78, Page 1, Line 117, Pos (24,21)
+#. Contains choice at line 2 (2 options)
+#. ID 78, Page 1, Line 143, Pos (24,21)
+#. Contains choice at line 2 (2 options)
+#. ID 79, Page 1, Line 61, Pos (25,21)
+#. Contains choice at line 2 (2 options)
+#. ID 79, Page 1, Line 91, Pos (25,21)
+#. Contains choice at line 2 (2 options)
+#. ID 79, Page 1, Line 117, Pos (25,21)
+#. Contains choice at line 2 (2 options)
+#. ID 79, Page 1, Line 143, Pos (25,21)
+#. Contains choice at line 2 (2 options)
+#. ID 80, Page 1, Line 61, Pos (40,21)
+#. Contains choice at line 2 (2 options)
+#. ID 80, Page 1, Line 91, Pos (40,21)
+#. Contains choice at line 2 (2 options)
+#. ID 80, Page 1, Line 117, Pos (40,21)
+#. Contains choice at line 2 (2 options)
+#. ID 80, Page 1, Line 143, Pos (40,21)
+#. Contains choice at line 2 (2 options)
+#. ID 81, Page 1, Line 60, Pos (41,21)
+#. Contains choice at line 2 (2 options)
+#. ID 81, Page 1, Line 90, Pos (41,21)
+#. Contains choice at line 2 (2 options)
+#. ID 81, Page 1, Line 116, Pos (41,21)
+#. Contains choice at line 2 (2 options)
+#. ID 81, Page 1, Line 142, Pos (41,21)
+#. Contains choice at line 2 (2 options)
+#. ID 82, Page 1, Line 61, Pos (42,21)
+#. Contains choice at line 2 (2 options)
+#. ID 82, Page 1, Line 91, Pos (42,21)
+#. Contains choice at line 2 (2 options)
+#. ID 82, Page 1, Line 117, Pos (42,21)
+#. Contains choice at line 2 (2 options)
+#. ID 82, Page 1, Line 143, Pos (42,21)
+#. Contains choice at line 2 (2 options)
+#. ID 83, Page 1, Line 61, Pos (43,21)
+#. Contains choice at line 2 (2 options)
+#. ID 83, Page 1, Line 91, Pos (43,21)
+#. Contains choice at line 2 (2 options)
+#. ID 83, Page 1, Line 117, Pos (43,21)
+#. Contains choice at line 2 (2 options)
+#. ID 83, Page 1, Line 143, Pos (43,21)
+#. Contains choice at line 2 (2 options)
+msgid "さて…どうするか？"
+msgstr "那么……怎么办？"
+
+#. ID 27, Page 1, Line 62, Pos (20,21)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 92, Pos (20,21)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 118, Pos (20,21)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 144, Pos (20,21)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 57, Pos (19,21)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 83, Pos (19,21)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 109, Pos (19,21)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 135, Pos (19,21)
+#. Choice (2 options, embedded in a message)
+#. ID 67, Page 1, Line 62, Pos (21,21)
+#. Choice (2 options, embedded in a message)
+#. ID 67, Page 1, Line 91, Pos (21,21)
+#. Choice (2 options, embedded in a message)
+#. ID 67, Page 1, Line 117, Pos (21,21)
+#. Choice (2 options, embedded in a message)
+#. ID 67, Page 1, Line 143, Pos (21,21)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 1, Line 62, Pos (22,21)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 1, Line 92, Pos (22,21)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 1, Line 118, Pos (22,21)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 1, Line 144, Pos (22,21)
+#. Choice (2 options, embedded in a message)
+#. ID 77, Page 1, Line 62, Pos (23,21)
+#. Choice (2 options, embedded in a message)
+#. ID 77, Page 1, Line 92, Pos (23,21)
+#. Choice (2 options, embedded in a message)
+#. ID 77, Page 1, Line 118, Pos (23,21)
+#. Choice (2 options, embedded in a message)
+#. ID 77, Page 1, Line 144, Pos (23,21)
+#. Choice (2 options, embedded in a message)
+#. ID 78, Page 1, Line 62, Pos (24,21)
+#. Choice (2 options, embedded in a message)
+#. ID 78, Page 1, Line 92, Pos (24,21)
+#. Choice (2 options, embedded in a message)
+#. ID 78, Page 1, Line 118, Pos (24,21)
+#. Choice (2 options, embedded in a message)
+#. ID 78, Page 1, Line 144, Pos (24,21)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 62, Pos (25,21)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 92, Pos (25,21)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 118, Pos (25,21)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 144, Pos (25,21)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 1, Line 62, Pos (40,21)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 1, Line 92, Pos (40,21)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 1, Line 118, Pos (40,21)
+#. Choice (2 options, embedded in a message)
+#. ID 80, Page 1, Line 144, Pos (40,21)
+#. Choice (2 options, embedded in a message)
+#. ID 81, Page 1, Line 61, Pos (41,21)
+#. Choice (2 options, embedded in a message)
+#. ID 81, Page 1, Line 91, Pos (41,21)
+#. Choice (2 options, embedded in a message)
+#. ID 81, Page 1, Line 117, Pos (41,21)
+#. Choice (2 options, embedded in a message)
+#. ID 81, Page 1, Line 143, Pos (41,21)
+#. Choice (2 options, embedded in a message)
+#. ID 82, Page 1, Line 62, Pos (42,21)
+#. Choice (2 options, embedded in a message)
+#. ID 82, Page 1, Line 92, Pos (42,21)
+#. Choice (2 options, embedded in a message)
+#. ID 82, Page 1, Line 118, Pos (42,21)
+#. Choice (2 options, embedded in a message)
+#. ID 82, Page 1, Line 144, Pos (42,21)
+#. Choice (2 options, embedded in a message)
+#. ID 83, Page 1, Line 62, Pos (43,21)
+#. Choice (2 options, embedded in a message)
+#. ID 83, Page 1, Line 92, Pos (43,21)
+#. Choice (2 options, embedded in a message)
+#. ID 83, Page 1, Line 118, Pos (43,21)
+#. Choice (2 options, embedded in a message)
+#. ID 83, Page 1, Line 144, Pos (43,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>これにしよう\n"
+"\\>興味ないな～"
+msgstr ""
+"\\>就这个吧\n"
+"\\>没兴趣啊～"
+
+#. ID 27, Page 1, Line 87, Pos (20,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：５０００Ｇ\n"
+"\\>ウチの相方が寄生虫で悩まされて(？)いる\n"
+"\\>このままだと大変な事になりかねないので急ぎで頼む"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"5000G\\>我的搭档正被寄生虫困扰(？\n"
+")\\>这样下去可能会变成大问题，所以请尽快"
+
+#. ID 27, Page 1, Line 113, Pos (20,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：１５０００Ｇ\n"
+"\\>心を清めると言う薬が存在すると聞く\n"
+"\\>その成分を調べたい、現物を用意してほしい"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"15000G\\>听说存在一种能净化心灵的药\\>我想调查它\n"
+"的成分，请准备实物"
+
+#. ID 27, Page 1, Line 139, Pos (20,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：２００００Ｇ\n"
+"\\>アルラウネを倒しても倒してもドロップしない！\n"
+"\\>運営ェッ！これドロ率何％だよッ！"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"20000G\\>阿尔拉乌涅打倒多少次都不掉落！\n"
+"\\>运营啊！这掉落率到底几％啊！"
+
+#. ID 28, Page 1, Line 3, Pos (51,44)
+#. ID 29, Page 1, Line 3, Pos (49,44)
+#. ID 30, Page 1, Line 3, Pos (53,44)
+msgid "受付"
+msgstr "接待员"
+
+#. ID 31, Page 1, Line 3, Pos (21,24)
+msgid ""
+"\n"
+"いかにも正統派冒険者といったカンジだ"
+msgstr "真有一股正统派冒险者的感觉"
+
+#. ID 33, Page 2, Line 3, Pos (51,41)
+msgid ""
+"遺骨や遺品を持っていないかな？\n"
+"持っているなら私が責任を持って処理しよう"
+msgstr "你有没有遗骨或遗物？如果有，我会负责处理"
+
+#. ID 33, Page 2, Line 5, Pos (51,41)
+#. Choice (3 options)
+msgid ""
+"\\>遺品を渡す\n"
+"\\>遺骨を渡す\n"
+"\\>興味ないな～"
+msgstr ""
+"\\>交出遗物\n"
+"\\>交出遗骨\n"
+"\\>没兴趣啊～"
+
+#. ID 33, Page 2, Line 10, Pos (51,41)
+#. ID 33, Page 2, Line 197, Pos (51,41)
+msgid "これだね、少々時間をいただくよ…"
+msgstr "就是这个吧，请给我一点时间……"
+
+#. ID 33, Page 2, Line 24, Pos (51,41)
+msgid "遺品を集めてもらってありがとう"
+msgstr "谢谢你帮我收集遗物"
+
+#. ID 33, Page 2, Line 25, Pos (51,41)
+msgid ""
+"それからこれを…\n"
+"遺品の中から使えそうなアイテムを選別しておいた\n"
+"キミの冒険に役立てば、死者の無念も晴れる事だろう"
+msgstr ""
+"还有这个……我从遗物中挑选出了看起来能用的道具，\n"
+"如果能在你的冒险中派上用场，\n"
+"死者的遗恨也会消散吧"
+
+#. ID 33, Page 2, Line 188, Pos (51,41)
+msgid ""
+"遺品は持っていないようだね\n"
+"残念ではあるが、喜ばしい事だ"
+msgstr ""
+"看来你没有遗物呢，虽然有些遗憾，\n"
+"但也是值得高兴的事"
+
+#. ID 33, Page 2, Line 211, Pos (51,41)
+msgid "遺骨を集めてもらってありがとう"
+msgstr "谢谢你帮我收集遗骨"
+
+#. ID 33, Page 2, Line 218, Pos (51,41)
+msgid ""
+"それからこれを…\n"
+"これは死者の魂が最後に残した輝き…\n"
+"キミの力になるハズだ"
+msgstr ""
+"还有这个……这是死者的灵魂最后留下的光辉……\n"
+"应该能成为你的力量"
+
+#. ID 33, Page 2, Line 270, Pos (51,41)
+msgid ""
+"遺骨は持っていないようだね\n"
+"残念ではあるが、喜ばしい事だ"
+msgstr ""
+"看来你没有遗骨呢，虽然有些遗憾，\n"
+"但也是值得高兴的事"
+
+#. ID 34, Page 1, Line 3, Pos (31,21)
+msgid ""
+"トラベラーズ協会へようこそ！\n"
+"本日はどのような用件でしょうか？"
+msgstr "欢迎来到旅行者协会！今天您有什么事？"
+
+#. ID 34, Page 1, Line 5, Pos (31,21)
+#. Choice (4 options)
+msgid ""
+"\\>案件について\n"
+"\\>案件のキャンセル\n"
+"\\>雑談\n"
+"\\>声かけただけ～"
+msgstr ""
+"\\>关于委托\n"
+"\\>取消委托\n"
+"\\>闲聊\n"
+"\\>只是打个招呼～"
+
+#. ID 34, Page 1, Line 8, Pos (31,21)
+msgid ""
+"あら？依頼書はどうしたの？\n"
+"依頼を受けるなら横の案件ボードから\n"
+"依頼書を持ってきてもらえる？"
+msgstr ""
+"哎呀？委托书怎么了？如果要接委托，\n"
+"能从旁边的委托板把委托书拿过来吗？"
+
+#. ID 34, Page 1, Line 192, Pos (31,21)
+msgid ""
+"キャンセルも何も…何の案件も受けてないじゃない\n"
+"こっちもヒマじゃないの！\\.\\.めッ！"
+msgstr ""
+"取消什么啊……你根本没接任何委托吧，\n"
+"我这边也不是闲着没事干！\\.\\.哼！"
+
+#. ID 34, Page 1, Line 194, Pos (31,21)
+msgid ""
+"\n"
+"…怒られてしまった"
+msgstr "……被骂了"
+
+#. ID 34, Page 1, Line 199, Pos (31,21)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"キャンセルには罰金が発生するわ\n"
+"一律１００００enよ、いいわね？"
+msgstr "取消会产生罚金，一律10000en哦，明白吗？"
+
+#. ID 34, Page 1, Line 201, Pos (31,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いや、まだ頑張る！\n"
+"大人しく１００００en払う"
+msgstr ""
+"不，我还要继续努力！\n"
+"乖乖支付10000en"
+
+#. ID 34, Page 1, Line 203, Pos (31,21)
+msgid ""
+"ならさっさと仕事に戻る！\n"
+"いちいち手間とらせるんじゃないわよ！"
+msgstr "那就赶紧回去工作！别每次都让人费事！"
+
+#. ID 34, Page 1, Line 208, Pos (31,21)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"…いや待て私、本当に払うのか？"
+msgstr "……不对等等，我真的要付吗？"
+
+#. ID 34, Page 1, Line 210, Pos (31,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 34, Page 1, Line 213, Pos (31,21)
+msgid ""
+"\n"
+"案件をキャンセルした…\n"
+"受付穣からの冷ややかな目線と共に嘲笑が聞こえる…"
+msgstr ""
+"取消了委托……伴随着接待员冷冷的目光，\n"
+"还能听到嘲笑声……"
+
+#. ID 34, Page 1, Line 224, Pos (31,21)
+msgid ""
+"\n"
+"キャンセルしようにもお金が足りない…\n"
+"こうなっては死ぬ気で依頼をこなす他無い"
+msgstr "想取消也没钱……事到如今只能拼死完成委托了"
+
+#. ID 34, Page 1, Line 235, Pos (31,21)
+msgid ""
+"いい？依頼を受けたからには必ずやり通す事\n"
+"その為にはムチャな依頼は受けない\n"
+"簡単な依頼でも、完遂する事が評価につながるわ"
+msgstr ""
+"明白吗？既然接了委托就一定要贯彻到底。\n"
+"为此不要接荒唐的委托，哪怕是简单的委托，\n"
+"完成它也会带来好评"
+
+#. ID 34, Page 1, Line 240, Pos (31,21)
+msgid "\\>(#^ω^)ビキビキ"
+msgstr "\\>(#^ω^)青筋暴起"
+
+#. ID 34, Page 2, Line 3, Pos (31,21)
+#. ID 34, Page 5, Line 3, Pos (31,21)
+#. ID 34, Page 8, Line 3, Pos (31,21)
+msgid ""
+"そういえば、シブチョーが呼んでたわよ\n"
+"二階に居るから、先に行って来なさい"
+msgstr "说起来，支部长在叫你哦，他在二楼，你先过去吧"
+
+#. ID 34, Page 3, Line 3, Pos (31,21)
+#. ID 34, Page 6, Line 3, Pos (31,21)
+msgid ""
+"話はシブチョーから聞いたわ\n"
+"特殊依頼達成おめでとう"
+msgstr "我已经从支部长那里听说了，恭喜你完成特殊委托"
+
+#. ID 34, Page 3, Line 6, Pos (31,21)
+#. ID 34, Page 6, Line 6, Pos (31,21)
+#. ID 36, Page 3, Line 20, Pos (30,19)
+#. ID 36, Page 4, Line 20, Pos (30,19)
+#. ID 36, Page 11, Line 20, Pos (30,19)
+#. ID 36, Page 13, Line 20, Pos (30,19)
+#. ID 36, Page 26, Line 22, Pos (30,19)
+#. ID 36, Page 28, Line 22, Pos (30,19)
+msgid "１００００Ｇ手に入れた！"
+msgstr "获得了10000G！"
+
+#. ID 34, Page 3, Line 8, Pos (31,21)
+#. ID 34, Page 6, Line 8, Pos (31,21)
+msgid "それからシブチョーからオマケだって"
+msgstr "还有，支部长说这是附赠的"
+
+#. ID 34, Page 3, Line 10, Pos (31,21)
+msgid "クリスタルのかけらを手に入れた！"
+msgstr "获得了水晶碎片！"
+
+#. ID 34, Page 3, Line 12, Pos (31,21)
+#. ID 34, Page 6, Line 12, Pos (31,21)
+msgid ""
+"オマケでこんな貴重品ＰＯＮと渡すとか…\n"
+"コッチを報酬にすべきでしょ…"
+msgstr ""
+"竟然把这么贵重的东西当附赠品随手就送……\n"
+"本来应该把这个当报酬才对吧……"
+
+#. ID 34, Page 6, Line 10, Pos (31,21)
+msgid "天使の涙を手に入れた！"
+msgstr "获得了天使之泪！"
+
+#. ID 35, Page 1, Line 42, Pos (19,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]納品:エクスポーション\n"
+"\\>\\n[102]納品:美肌クリーム\n"
+"\\>\\n[103]納品:金塊\n"
+"\\>\\n[104]納品:せいどうのはにわ"
+msgstr ""
+"\\>\\n[101]提交:特级药水\n"
+"\\>\\n[102]提交:美肌霜\n"
+"\\>\\n[103]提交:金块\n"
+"\\>\\n[104]提交:青铜埴轮"
+
+#. ID 35, Page 1, Line 53, Pos (19,21)
+msgid ""
+"\\>難易度：☆\n"
+"\\>報酬　：１０００Ｇ\n"
+"\\>他店舗より高く買い取ります！"
+msgstr ""
+"\\>难度：☆\\>报酬　：\n"
+"1000G\\>我们会以比其它店更高的价格收购！"
+
+#. ID 35, Page 1, Line 78, Pos (19,21)
+msgid ""
+"\\>難易度：☆☆\n"
+"\\>報酬　：３０００Ｇ\n"
+"\\>妻へのプレゼントとして渡したい\n"
+"\\>数は１つで十分だ"
+msgstr ""
+"\\>难度：☆☆\\>报酬　：\n"
+"3000G\\>想作为礼物送给妻子\\>数量一个就足够了"
+
+#. ID 35, Page 1, Line 104, Pos (19,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：１００００Ｇ\n"
+"\\>ゴールド！黄金！きんきらりん！\n"
+"\\>銅でも銀でもない！金塊を所望する！"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：10000G\\>Gold！黄金！\n"
+"金光闪闪！\\>不是铜也不是银！我要金块！"
+
+#. ID 35, Page 1, Line 130, Pos (19,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：１００００Ｇ\n"
+"\\>どうぐのスキマ、空けます\n"
+"\\>　　　　　　　　　　　　　　　　　　　どぐうマニア"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"10000G\\>我会空出道具栏的空位\\>　　　　　　　　\n"
+"　　　　　　　　　　　土偶爱好者"
+
+#. ID 36, Page 1, Line 3, Pos (30,19)
+msgid ""
+"案件は「エクスポーション」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交「特级药水」哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 1, Line 5, Pos (30,19)
+#. ID 36, Page 2, Line 5, Pos (30,19)
+#. ID 36, Page 3, Line 5, Pos (30,19)
+#. ID 36, Page 4, Line 5, Pos (30,19)
+#. ID 36, Page 5, Line 5, Pos (30,19)
+#. ID 36, Page 6, Line 5, Pos (30,19)
+#. ID 36, Page 7, Line 5, Pos (30,19)
+#. ID 36, Page 8, Line 5, Pos (30,19)
+#. ID 36, Page 9, Line 5, Pos (30,19)
+#. ID 36, Page 10, Line 5, Pos (30,19)
+#. ID 36, Page 11, Line 5, Pos (30,19)
+#. ID 36, Page 12, Line 5, Pos (30,19)
+#. ID 36, Page 13, Line 5, Pos (30,19)
+#. ID 36, Page 14, Line 5, Pos (30,19)
+#. ID 36, Page 15, Line 5, Pos (30,19)
+#. ID 36, Page 16, Line 5, Pos (30,19)
+msgid ""
+"納品依頼だから\n"
+"アイテムは無くなる事になるわよ注意してね"
+msgstr "因为是提交委托，道具会消失的，要注意哦"
+
+#. ID 36, Page 1, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 2, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 3, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 4, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 5, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 6, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 7, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 8, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 9, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 10, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 11, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 12, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 13, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 14, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 15, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 16, Line 8, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"依頼されたアイテムを持ってるわね\n"
+"どうする？今すぐ納品しちゃう？"
+msgstr ""
+"你带着委托要求的道具呢，要怎么办？\n"
+"现在就提交吗？"
+
+#. ID 36, Page 1, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 2, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 3, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 4, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 5, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 6, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 7, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 8, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 9, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 10, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 11, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 12, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 13, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 14, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 15, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 16, Line 10, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>もってけドロボ～\n"
+"\\>もう少し考える"
+msgstr ""
+"\\>拿去吧，小偷～\n"
+"\\>再考虑一下"
+
+#. ID 36, Page 1, Line 13, Pos (30,19)
+#. ID 36, Page 2, Line 13, Pos (30,19)
+#. ID 36, Page 3, Line 13, Pos (30,19)
+#. ID 36, Page 4, Line 13, Pos (30,19)
+#. ID 36, Page 5, Line 13, Pos (30,19)
+#. ID 36, Page 6, Line 13, Pos (30,19)
+#. ID 36, Page 7, Line 13, Pos (30,19)
+#. ID 36, Page 8, Line 13, Pos (30,19)
+#. ID 36, Page 9, Line 13, Pos (30,19)
+#. ID 36, Page 10, Line 13, Pos (30,19)
+#. ID 36, Page 11, Line 13, Pos (30,19)
+#. ID 36, Page 12, Line 13, Pos (30,19)
+#. ID 36, Page 13, Line 13, Pos (30,19)
+#. ID 36, Page 14, Line 13, Pos (30,19)
+#. ID 36, Page 15, Line 13, Pos (30,19)
+#. ID 36, Page 16, Line 13, Pos (30,19)
+msgid ""
+"そんな叩き付けなくても…\\.まぁいいわ\n"
+"依頼達成ね、報酬を渡すわ"
+msgstr "不用那样摔过来嘛……\\.算了，委托达成了，给你报酬"
+
+#. ID 36, Page 1, Line 20, Pos (30,19)
+#. ID 36, Page 5, Line 20, Pos (30,19)
+msgid "１０００Ｇ手に入れた！"
+msgstr "获得了1000G！"
+
+#. ID 36, Page 1, Line 27, Pos (30,19)
+#. ID 36, Page 2, Line 27, Pos (30,19)
+#. ID 36, Page 3, Line 27, Pos (30,19)
+#. ID 36, Page 4, Line 27, Pos (30,19)
+#. ID 36, Page 5, Line 27, Pos (30,19)
+#. ID 36, Page 7, Line 27, Pos (30,19)
+#. ID 36, Page 10, Line 32, Pos (30,19)
+#. ID 36, Page 11, Line 27, Pos (30,19)
+#. ID 36, Page 12, Line 27, Pos (30,19)
+#. ID 36, Page 13, Line 27, Pos (30,19)
+#. ID 36, Page 21, Line 28, Pos (30,19)
+#. ID 36, Page 22, Line 28, Pos (30,19)
+#. ID 36, Page 23, Line 28, Pos (30,19)
+#. ID 36, Page 24, Line 28, Pos (30,19)
+#. ID 36, Page 25, Line 28, Pos (30,19)
+#. ID 36, Page 26, Line 28, Pos (30,19)
+#. ID 36, Page 32, Line 28, Pos (30,19)
+#. ID 36, Page 33, Line 28, Pos (30,19)
+#. ID 36, Page 36, Line 28, Pos (30,19)
+#. ID 36, Page 41, Line 28, Pos (30,19)
+#. ID 36, Page 42, Line 28, Pos (30,19)
+#. ID 36, Page 43, Line 28, Pos (30,19)
+#. ID 36, Page 44, Line 28, Pos (30,19)
+#. ID 36, Page 46, Line 28, Pos (30,19)
+#. ID 36, Page 47, Line 28, Pos (30,19)
+#. ID 36, Page 48, Line 28, Pos (30,19)
+#. ID 36, Page 49, Line 28, Pos (30,19)
+#. ID 36, Page 50, Line 28, Pos (30,19)
+#. ID 36, Page 51, Line 28, Pos (30,19)
+#. ID 36, Page 52, Line 28, Pos (30,19)
+msgid "次の仕事も期待してるわよ"
+msgstr "期待你的下一份工作哦"
+
+#. ID 36, Page 2, Line 3, Pos (30,19)
+msgid ""
+"案件は「美肌クリーム」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交「美肌霜」哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 2, Line 20, Pos (30,19)
+#. ID 36, Page 21, Line 22, Pos (30,19)
+msgid "３０００Ｇ手に入れた！"
+msgstr "获得了3000G！"
+
+#. ID 36, Page 3, Line 3, Pos (30,19)
+msgid ""
+"案件は「金塊」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交「金块」哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 4, Line 3, Pos (30,19)
+msgid ""
+"案件は\"せいどうのはにわ\"の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交\"青铜埴轮\"哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 5, Line 3, Pos (30,19)
+msgid ""
+"案件は「塩昆布」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交「盐昆布」哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 6, Line 3, Pos (30,19)
+msgid ""
+"案件は「脱がせの鬼」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交「脱衣鬼」哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 6, Line 20, Pos (30,19)
+#. ID 36, Page 9, Line 20, Pos (30,19)
+#. ID 36, Page 22, Line 22, Pos (30,19)
+#. ID 36, Page 23, Line 22, Pos (30,19)
+msgid "５０００Ｇ手に入れた！"
+msgstr "获得了5000G！"
+
+#. ID 36, Page 6, Line 27, Pos (30,19)
+msgid ""
+"これ使えば寄生虫でも何でも脱がせるのね…\\|\n"
+"それって安全に寄生虫使って楽しめるってコトよね…"
+msgstr ""
+"用这个的话，就算是寄生虫什么的也能让它脱掉呢……\n"
+"\\|那也就是说可以安全地使用寄生虫来享受乐趣对吧\n"
+"……"
+
+#. ID 36, Page 6, Line 29, Pos (30,19)
+msgid ""
+"な、なんでもないわ！\\.\n"
+"つ、次の仕事も期待してるわよ"
+msgstr "没、没什么！\\.期、期待你的下一份工作哦"
+
+#. ID 36, Page 7, Line 3, Pos (30,19)
+msgid ""
+"案件は「淑女の薬」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交「淑女之药」哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 7, Line 20, Pos (30,19)
+#. ID 36, Page 30, Line 22, Pos (30,19)
+#. ID 36, Page 50, Line 22, Pos (30,19)
+msgid "１５０００Ｇ手に入れた！"
+msgstr "获得了15000G！"
+
+#. ID 36, Page 8, Line 3, Pos (30,19)
+msgid ""
+"案件は「アルラウネの花」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交「阿尔拉乌涅之花」哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 8, Line 20, Pos (30,19)
+#. ID 36, Page 12, Line 20, Pos (30,19)
+#. ID 36, Page 31, Line 22, Pos (30,19)
+#. ID 36, Page 33, Line 22, Pos (30,19)
+msgid "２００００Ｇ手に入れた！"
+msgstr "获得了20000G！"
+
+#. ID 36, Page 8, Line 27, Pos (30,19)
+msgid ""
+"これホントに存在してたんだ…\n"
+"これトラベラーズでも幻のアイテム扱いでね\n"
+"本物見たのは初めてよ"
+msgstr ""
+"这个真的存在啊……\n"
+"这在旅行者协会里也被当成幻之道具呢，\n"
+"我还是第一次看到真品"
+
+#. ID 36, Page 8, Line 30, Pos (30,19)
+msgid ""
+"いい物見せてもらったわ\n"
+"次の仕事も期待してるわよ"
+msgstr "让我看到了好东西，期待你的下一份工作哦"
+
+#. ID 36, Page 9, Line 3, Pos (30,19)
+msgid ""
+"案件は「ルビーのサンダル」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交「红宝石凉鞋」哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 9, Line 27, Pos (30,19)
+msgid ""
+"依頼者にこの手のアイテムが使えない場所も多い\n"
+"…って言ったらかなり動揺してたわね"
+msgstr ""
+"我告诉委托人，这类道具在很多地方不能用……\n"
+"结果他相当动摇呢"
+
+#. ID 36, Page 9, Line 29, Pos (30,19)
+msgid "とにかく、次の仕事も期待してるわよ"
+msgstr "总之，期待你的下一份工作哦"
+
+#. ID 36, Page 10, Line 3, Pos (30,19)
+msgid ""
+"案件は「ブラックボックス」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"委托是提交「黑匣子」哦，买来的也好，\n"
+"捡来的也好都可以"
+
+#. ID 36, Page 10, Line 20, Pos (30,19)
+#. ID 36, Page 46, Line 22, Pos (30,19)
+msgid "８０００Ｇ手に入れた！"
+msgstr "获得8000G！"
+
+#. ID 36, Page 10, Line 27, Pos (30,19)
+msgid ""
+"この案件の依頼者…\n"
+"実は何度も同じ案件を出してるの\n"
+"しかもその場でコレを真水に浸けて持っていくの"
+msgstr ""
+"这个案件的委托人…\n"
+"其实已经多次提交同样的案件了，\n"
+"而且每次都在当场把这个浸到清水里再带走"
+
+#. ID 36, Page 10, Line 30, Pos (30,19)
+msgid ""
+"一体何考えてそんな事してるのか不明だけど…\n"
+"こっちは案件こなすだけね"
+msgstr ""
+"完全搞不懂到底是出于什么想法才这么做…\n"
+"总之我这边只管完成案件"
+
+#. ID 36, Page 11, Line 3, Pos (30,19)
+msgid ""
+"案件は「エンプレスコロン」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"案件是提交「女皇古龙水」哦，买来的也行，\n"
+"捡来的也行"
+
+#. ID 36, Page 12, Line 3, Pos (30,19)
+msgid ""
+"案件は「タコヤキ」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr "案件是提交「章鱼烧」哦，买来的也行，捡来的也行"
+
+#. ID 36, Page 13, Line 3, Pos (30,19)
+msgid ""
+"案件は「海サボテン」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"案件是提交「海仙人掌」哦，买来的也行，\n"
+"捡来的也行"
+
+#. ID 36, Page 14, Line 3, Pos (30,19)
+msgid ""
+"案件は「ガマの油」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr "案件是提交「蟾蜍油」哦，买来的也行，捡来的也行"
+
+#. ID 36, Page 14, Line 20, Pos (30,19)
+msgid "４００００Ｇ手に入れた！"
+msgstr "获得40000G！"
+
+#. ID 36, Page 14, Line 27, Pos (30,19)
+msgid ""
+"どうしたの？すっごいイヤそうな顔してるけど…\n"
+"もしかしてコレ曰くつき？"
+msgstr ""
+"怎么了？你一脸非常不情愿的样子…\n"
+"难道说这东西有来历？"
+
+#. ID 36, Page 14, Line 29, Pos (30,19)
+msgid "まぁいいわ、次の仕事も期待してるわよ"
+msgstr "算了，下一份工作也期待你的表现哦"
+
+#. ID 36, Page 15, Line 3, Pos (30,19)
+msgid ""
+"案件は「百々目ワーム」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr "案件是提交「百目虫」哦，买来的也行，捡来的也行"
+
+#. ID 36, Page 15, Line 20, Pos (30,19)
+msgid "５００００Ｇ手に入れた！"
+msgstr "获得50000G！"
+
+#. ID 36, Page 15, Line 27, Pos (30,19)
+msgid ""
+"うげぇ…\\|\n"
+"こんなのよく見つけ…\\.\\.るのは簡単か\\.\n"
+"それよりよくこんなのヘーキな顔して持ってこれたわね"
+msgstr ""
+"呃…\\|这种东西你居然经常找到…\n"
+"\\.\\.倒也不难吧\\.比起这个，\n"
+"你居然能若无其事地把这种东西带过来啊"
+
+#. ID 36, Page 15, Line 30, Pos (30,19)
+msgid ""
+"うぇぇ…\\.こ、これ動いたりしないわよね？\n"
+"ともかく次の仕事も期待してるわよ\n"
+"\n"
+"\\>　　　　　　　　　　　　　　　　　　　　　　　ｷﾓｯ"
+msgstr ""
+"呜诶…\\.这、这东西不会动吧？\n"
+"总之下一份工作也期待你哦\\>　　　　　　　　　　\n"
+"　　　　　　　　　　　　　恶心"
+
+#. ID 36, Page 16, Line 3, Pos (30,19)
+msgid ""
+"案件は「おいしそうな鍵」の納品ね\n"
+"買ったものでも、拾ったものでもいいわ"
+msgstr ""
+"案件是提交「美味钥匙」哦，买来的也行，\n"
+"捡来的也行"
+
+#. ID 36, Page 16, Line 20, Pos (30,19)
+msgid "８００００Ｇ手に入れた！"
+msgstr "获得80000G！"
+
+#. ID 36, Page 16, Line 27, Pos (30,19)
+msgid ""
+"見た目は普通の鍵なんだけど…\n"
+"すっごい甘いニオイするし、なんかこう…"
+msgstr ""
+"外表看起来是普通的钥匙…却散发出非常甜的香味，\n"
+"还有种说不上来的…"
+
+#. ID 36, Page 16, Line 29, Pos (30,19)
+msgid "すっごい美味しそうに見えるわね…普通の鍵なのに"
+msgstr "看起来非常美味呢…明明只是普通的钥匙"
+
+#. ID 36, Page 16, Line 30, Pos (30,19)
+msgid ""
+"ｼﾞｭﾙ…\\|ッハ！\\.\n"
+"つ、次の仕事も期待してるわよ"
+msgstr "吸溜…\\|哈！\\.下、下一份工作也期待你哦"
+
+#. ID 36, Page 21, Line 3, Pos (30,19)
+msgid ""
+"案件は「ウィップダガー」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr "案件是发现「鞭匕首」哦，只要持有它就算达成委托"
+
+#. ID 36, Page 21, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 22, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 23, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 24, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 25, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 26, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 27, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 28, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 29, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 30, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 31, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 32, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 33, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 34, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 35, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 36, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 41, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 42, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 43, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 44, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 45, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 46, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 47, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 48, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 49, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 50, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 51, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+#. ID 36, Page 52, Line 6, Pos (30,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"依頼されたアイテムを持ってるわね\n"
+"本物かどうか確認させてもらうけど、どうする？"
+msgstr ""
+"你持有委托指定的道具呢，\n"
+"让我确认一下是不是真品，你打算怎么办？"
+
+#. ID 36, Page 21, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 22, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 23, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 24, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 25, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 26, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 27, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 28, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 29, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 30, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 31, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 32, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 33, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 34, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 35, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 36, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 41, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 42, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 43, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 44, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 45, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 46, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 47, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 48, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 49, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 50, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 51, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 52, Line 8, Pos (30,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>ちゃんと返してね\n"
+"\\>もう少し考える"
+msgstr ""
+"\\>要好好还给我哦\n"
+"\\>再考虑一下"
+
+#. ID 36, Page 21, Line 10, Pos (30,19)
+#. ID 36, Page 22, Line 10, Pos (30,19)
+#. ID 36, Page 23, Line 10, Pos (30,19)
+#. ID 36, Page 24, Line 10, Pos (30,19)
+#. ID 36, Page 25, Line 10, Pos (30,19)
+#. ID 36, Page 26, Line 10, Pos (30,19)
+#. ID 36, Page 27, Line 10, Pos (30,19)
+#. ID 36, Page 28, Line 10, Pos (30,19)
+#. ID 36, Page 29, Line 10, Pos (30,19)
+#. ID 36, Page 30, Line 10, Pos (30,19)
+#. ID 36, Page 31, Line 10, Pos (30,19)
+#. ID 36, Page 32, Line 10, Pos (30,19)
+#. ID 36, Page 33, Line 10, Pos (30,19)
+#. ID 36, Page 34, Line 10, Pos (30,19)
+#. ID 36, Page 35, Line 10, Pos (30,19)
+#. ID 36, Page 36, Line 10, Pos (30,19)
+#. ID 36, Page 41, Line 10, Pos (30,19)
+#. ID 36, Page 42, Line 10, Pos (30,19)
+#. ID 36, Page 43, Line 10, Pos (30,19)
+#. ID 36, Page 44, Line 10, Pos (30,19)
+#. ID 36, Page 45, Line 10, Pos (30,19)
+#. ID 36, Page 46, Line 10, Pos (30,19)
+#. ID 36, Page 47, Line 10, Pos (30,19)
+#. ID 36, Page 48, Line 10, Pos (30,19)
+#. ID 36, Page 49, Line 10, Pos (30,19)
+#. ID 36, Page 50, Line 10, Pos (30,19)
+#. ID 36, Page 51, Line 10, Pos (30,19)
+#. ID 36, Page 52, Line 10, Pos (30,19)
+msgid ""
+"ちゃんと返すわよ…\\.まぁいいわ\n"
+"確認取らせてもらうわよ？"
+msgstr "我会好好还你的哦…\\.算了，让我确认一下可以吧？"
+
+#. ID 36, Page 21, Line 15, Pos (30,19)
+#. ID 36, Page 22, Line 15, Pos (30,19)
+#. ID 36, Page 23, Line 15, Pos (30,19)
+#. ID 36, Page 24, Line 15, Pos (30,19)
+#. ID 36, Page 25, Line 15, Pos (30,19)
+#. ID 36, Page 26, Line 15, Pos (30,19)
+#. ID 36, Page 27, Line 15, Pos (30,19)
+#. ID 36, Page 28, Line 15, Pos (30,19)
+#. ID 36, Page 29, Line 15, Pos (30,19)
+#. ID 36, Page 30, Line 15, Pos (30,19)
+#. ID 36, Page 31, Line 15, Pos (30,19)
+#. ID 36, Page 32, Line 15, Pos (30,19)
+#. ID 36, Page 33, Line 15, Pos (30,19)
+#. ID 36, Page 34, Line 15, Pos (30,19)
+#. ID 36, Page 35, Line 15, Pos (30,19)
+#. ID 36, Page 36, Line 15, Pos (30,19)
+#. ID 36, Page 41, Line 15, Pos (30,19)
+#. ID 36, Page 42, Line 15, Pos (30,19)
+#. ID 36, Page 43, Line 15, Pos (30,19)
+#. ID 36, Page 44, Line 15, Pos (30,19)
+#. ID 36, Page 46, Line 15, Pos (30,19)
+#. ID 36, Page 47, Line 15, Pos (30,19)
+#. ID 36, Page 48, Line 15, Pos (30,19)
+#. ID 36, Page 49, Line 15, Pos (30,19)
+#. ID 36, Page 50, Line 15, Pos (30,19)
+#. ID 36, Page 51, Line 15, Pos (30,19)
+#. ID 36, Page 52, Line 15, Pos (30,19)
+msgid ""
+"本物とちゃんと確認できたわ\n"
+"依頼達成と認めるわ、報酬もいっしょに渡すわ"
+msgstr "已经确认是真品了，认可委托达成，报酬也一并给你"
+
+#. ID 36, Page 22, Line 3, Pos (30,19)
+msgid ""
+"案件は「メルクリアス・ＧＳ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「梅尔库里乌斯·GS」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 23, Line 3, Pos (30,19)
+msgid ""
+"案件は「チェーンフレイル」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr "案件是发现「链枷」哦，只要持有它就算达成委托"
+
+#. ID 36, Page 24, Line 3, Pos (30,19)
+msgid ""
+"案件は「モーニングスター」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr "案件是发现「晨星锤」哦，只要持有它就算达成委托"
+
+#. ID 36, Page 24, Line 22, Pos (30,19)
+msgid "６０００Ｇ手に入れた！"
+msgstr "获得6000G！"
+
+#. ID 36, Page 25, Line 3, Pos (30,19)
+msgid ""
+"案件は「必中のナイフ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「必中短刀」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 25, Line 22, Pos (30,19)
+#. ID 36, Page 44, Line 22, Pos (30,19)
+#. ID 36, Page 45, Line 53, Pos (30,19)
+msgid "７０００Ｇ手に入れた！"
+msgstr "获得7000G！"
+
+#. ID 36, Page 26, Line 3, Pos (30,19)
+msgid ""
+"案件は「ハナプウ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr "案件是发现「哈纳普」哦，只要持有它就算达成委托"
+
+#. ID 36, Page 27, Line 3, Pos (30,19)
+msgid ""
+"案件は「キャットナインテール」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「猫尾九节鞭」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 27, Line 22, Pos (30,19)
+msgid "１２０００Ｇ手に入れた！"
+msgstr "获得12000G！"
+
+#. ID 36, Page 27, Line 28, Pos (30,19)
+msgid ""
+"それにしてもコレ、エグい作りしてるわね～\n"
+"こんなの使われたらオトナでも泣くわね、絶対"
+msgstr ""
+"话说回来，\n"
+"这东西做得真狠啊～被这种东西打中的话，\n"
+"就算是大人也绝对会哭的"
+
+#. ID 36, Page 27, Line 30, Pos (30,19)
+#. ID 36, Page 28, Line 31, Pos (30,19)
+msgid "ともかく、次の仕事も期待してるわよ"
+msgstr "总之，下一份工作也期待你的表现哦"
+
+#. ID 36, Page 28, Line 3, Pos (30,19)
+msgid ""
+"案件は「テンダイスソード」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr "案件是发现「十骰剑」哦，只要持有它就算达成委托"
+
+#. ID 36, Page 28, Line 28, Pos (30,19)
+msgid ""
+"さっき確認のために一度剣を振ったら\n"
+"試し切り用の人形がバラバラになったわ\n"
+"一体どういう事よこの剣…"
+msgstr ""
+"刚才为了确认挥了一次剑，\n"
+"试斩用的人偶就四分五裂了，\n"
+"这把剑到底是怎么回事啊…"
+
+#. ID 36, Page 29, Line 3, Pos (30,19)
+msgid ""
+"案件は「死の大鎌」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「死亡大镰」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 29, Line 22, Pos (30,19)
+#. ID 36, Page 47, Line 22, Pos (30,19)
+msgid "１１０００Ｇ手に入れた！"
+msgstr "获得11000G！"
+
+#. ID 36, Page 29, Line 28, Pos (30,19)
+msgid ""
+"ウチの支部じゃ珍しくも無いモノと思ってたんだけど\n"
+"確認の時にシブチョー含めて全員集まってたわ"
+msgstr ""
+"我本来以为在我们支部这也不算稀奇东西，\n"
+"可确认的时候连支部长在内所有人都聚过来了"
+
+#. ID 36, Page 29, Line 30, Pos (30,19)
+msgid ""
+"みんなして目の色変えてたわよ\n"
+"「え、これガチじゃね？」って顔してたわ"
+msgstr ""
+"大家都变了脸色，露出一脸「诶，\n"
+"这玩意儿是真的吗？」的表情"
+
+#. ID 36, Page 29, Line 32, Pos (30,19)
+msgid "ま、それは兎も角次の仕事も期待してるわよ"
+msgstr "嘛，这事暂且不论，下一份工作也期待你的表现哦"
+
+#. ID 36, Page 30, Line 3, Pos (30,19)
+msgid ""
+"案件は「ギルティランス」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「罪恶长枪」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 30, Line 28, Pos (30,19)
+msgid ""
+"確認とは言え、血だらけ＆サビだらけの拷問器具なんて\n"
+"一体こんなのドコで見つけてきたのよ"
+msgstr ""
+"虽说只是确认，可这满是血和锈的拷问器具，\n"
+"你到底是在哪里找到这种东西的啊"
+
+#. ID 36, Page 30, Line 30, Pos (30,19)
+msgid ""
+"あんまり長い事見てたら呪われそうだわ…\n"
+"次の仕事も期待してるわよ"
+msgstr ""
+"看太久感觉都要被诅咒了…\n"
+"下一份工作也期待你的表现哦"
+
+#. ID 36, Page 31, Line 3, Pos (30,19)
+msgid ""
+"案件は「名なしの刀」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「无名之刀」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 31, Line 28, Pos (30,19)
+msgid ""
+"この刀…名なしの刀ってウソじゃないの？\n"
+"透き通るような刀身、適度なバランス感\n"
+"間違いなく名刀と呼ばれるハズなのに"
+msgstr ""
+"这把刀…叫无名之刀不是骗人的吗？通透般的刀身、\n"
+"恰到好处的平衡感，无疑该被称为名刀才对"
+
+#. ID 36, Page 31, Line 31, Pos (30,19)
+#. ID 36, Page 34, Line 30, Pos (30,19)
+msgid "いいもの見せてもらったわ、次の仕事も期待してるわよ"
+msgstr "让我看到好东西了呢，下一份工作也期待你的表现哦"
+
+#. ID 36, Page 32, Line 3, Pos (30,19)
+msgid ""
+"案件は「マスターソード」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「大师之剑」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 32, Line 22, Pos (30,19)
+msgid "３００００Ｇ手に入れた！"
+msgstr "获得30000G！"
+
+#. ID 36, Page 33, Line 3, Pos (30,19)
+msgid ""
+"案件は「リバイアサンクロウ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「利维坦之爪」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 34, Line 3, Pos (30,19)
+msgid ""
+"案件は「デストファルコン」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「死亡猎鹰」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 34, Line 22, Pos (30,19)
+#. ID 36, Page 52, Line 22, Pos (30,19)
+msgid "２５０００Ｇ手に入れた！"
+msgstr "获得25000G！"
+
+#. ID 36, Page 34, Line 28, Pos (30,19)
+msgid ""
+"この剣、何度か本部で見た事あるけど\n"
+"持ってる人って名のある冒険者ばっかりなのよね"
+msgstr ""
+"这把剑我在总部见过好几次，\n"
+"不过持有它的人尽是有名号的冒险者呢"
+
+#. ID 36, Page 35, Line 3, Pos (30,19)
+msgid ""
+"案件は「クジラバイス」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr "案件是发现「鲸之钳」哦，只要持有它就算达成委托"
+
+#. ID 36, Page 35, Line 22, Pos (30,19)
+msgid "１０Ｇ手に入れた！"
+msgstr "获得10G！"
+
+#. ID 36, Page 35, Line 28, Pos (30,19)
+msgid "…報酬は以上よ、特にオマケも何も無いわ"
+msgstr "…报酬就是以上这些，特别没有什么附赠品"
+
+#. ID 36, Page 35, Line 29, Pos (30,19)
+msgid ""
+"強いて言うなら…アナタ、バカでしょ？\n"
+"個人所有でこんな工具買ってどうするの？\n"
+"と言うかどう使うのこんなの？"
+msgstr ""
+"硬要说的话…你是笨蛋吧？\n"
+"私人拥有买这种工具要干嘛？\n"
+"或者说这种东西要怎么用啊？"
+
+#. ID 36, Page 35, Line 32, Pos (30,19)
+msgid ""
+"まぁ…依頼としてこんなのでも受ける人がいる\n"
+"と宣伝にはなるかしら\n"
+"次の仕事も期待…していいのかしら？"
+msgstr ""
+"嘛…作为委托，如果有人连这种东西都肯接，\n"
+"倒也算是一种宣传吧。下一份工作也期待…\n"
+"可以期待吗？"
+
+#. ID 36, Page 36, Line 3, Pos (30,19)
+msgid ""
+"案件は「ダイヤモンド・エッジ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「钻石之刃」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 36, Line 22, Pos (30,19)
+msgid "１０００００Ｇ手に入れた！"
+msgstr "获得100000G！"
+
+#. ID 36, Page 41, Line 3, Pos (30,19)
+msgid ""
+"案件は「すけーるアーマー」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「鳞装铠甲」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 41, Line 22, Pos (30,19)
+#. ID 36, Page 42, Line 22, Pos (30,19)
+msgid "４０００Ｇ手に入れた！"
+msgstr "获得4000G！"
+
+#. ID 36, Page 42, Line 3, Pos (30,19)
+msgid ""
+"案件は「ラバースーツ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是发现「橡胶紧身衣」哦，\n"
+"只要持有它就算达成委托"
+
+#. ID 36, Page 43, Line 3, Pos (30,19)
+msgid ""
+"案件は「ヒドラスーツ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「九头蛇套装」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 36, Page 43, Line 22, Pos (30,19)
+msgid "６５００Ｇ手に入れた！"
+msgstr "6500G到手了！"
+
+#. ID 36, Page 44, Line 3, Pos (30,19)
+msgid ""
+"案件は「どてらスーツ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「棉袍套装」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 36, Page 45, Line 3, Pos (30,19)
+msgid ""
+"案件は「やぎのぬいぐるみ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「山羊玩偶」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 36, Page 45, Line 15, Pos (30,19)
+msgid ""
+"えっと…ごめんなさい\\|\n"
+"これ依頼の品なのは確認したんだけど…"
+msgstr ""
+"那个…对不起\\|我确认过了这确实是委托的物品，\n"
+"但是…"
+
+#. ID 36, Page 45, Line 17, Pos (30,19)
+msgid ""
+"コッチのミスなんだけど、今回の案件\n"
+"「発見」のじゃなくて「納品」に回す案件だったの"
+msgstr ""
+"是我这边的失误，不过这次的案件不是「发现」，\n"
+"而是该归为「提交」的案件"
+
+#. ID 36, Page 45, Line 19, Pos (30,19)
+msgid ""
+"やぎのぬいぐるみを「きぐるみ」と見間違えるとか…\n"
+"アタシ疲れてるのかしら…"
+msgstr "把山羊玩偶错看成「玩偶服」什么的…我是不是累了啊…"
+
+#. ID 36, Page 45, Line 21, Pos (30,19)
+#. Contains choice at line 2 (3 options)
+msgid "で、物は相談なんだけど…"
+msgstr "然后，有件事想跟你商量…"
+
+#. ID 36, Page 45, Line 22, Pos (30,19)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>もってけドロボ～\n"
+"\\>貴重品だしな～\n"
+"\\>見返りは？"
+msgstr ""
+"\\>拿走吧小偷～\n"
+"\\>毕竟是贵重品嘛～\n"
+"\\>有什么回报？"
+
+#. ID 36, Page 45, Line 25, Pos (30,19)
+msgid ""
+"そんな叩き付けなくても…\\.いや\n"
+"アタシが悪いんだけどね"
+msgstr "也不用那么用力摔给我…\\.不，虽说是我不好啦"
+
+#. ID 36, Page 45, Line 30, Pos (30,19)
+msgid ""
+"ですよね～…あはは～…\\|\n"
+"ハァ…また有給とボーナスが減るわ…"
+msgstr "是吧～…啊哈哈～…\\|唉…带薪假和奖金又要减少了…"
+
+#. ID 36, Page 45, Line 34, Pos (30,19)
+#. Contains choice at line 2 (3 options)
+msgid "………今、塩昆布しか持ってないわ"
+msgstr "………现在，我只有盐昆布了"
+
+#. ID 36, Page 45, Line 35, Pos (30,19)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>おとといきやがれ\n"
+"\\>ご愁傷様\n"
+"\\>(無言で首を横に振る)"
+msgstr ""
+"\\>滚蛋吧\n"
+"\\>真可怜\n"
+"\\>(无言地摇头)"
+
+#. ID 36, Page 45, Line 43, Pos (30,19)
+msgid ""
+"ですよね～…あははハ～…\\|\n"
+"ハァ…また有給とボーナスが減るわ…"
+msgstr "是吧～…啊哈哈哈～…\\|唉…带薪假和奖金又要减少了…"
+
+#. ID 36, Page 45, Line 47, Pos (30,19)
+msgid "と、ともかく報酬を渡すわ"
+msgstr "总、总之先把报酬给你"
+
+#. ID 36, Page 45, Line 59, Pos (30,19)
+msgid "今回は悪かったわ…ごめんなさいね"
+msgstr "这次是我不对…对不起哦"
+
+#. ID 36, Page 46, Line 3, Pos (30,19)
+msgid ""
+"案件は「悪魔のドレス」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「恶魔礼服」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 36, Page 47, Line 3, Pos (30,19)
+msgid ""
+"案件は「プリンセスドレス」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「公主连衣裙」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 36, Page 48, Line 3, Pos (30,19)
+msgid ""
+"案件は「ガルヴァアーマー」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「加尔瓦铠甲」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 36, Page 48, Line 22, Pos (30,19)
+msgid "１４０００Ｇ手に入れた！"
+msgstr "14000G到手了！"
+
+#. ID 36, Page 49, Line 3, Pos (30,19)
+msgid ""
+"案件は「泡の衣」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「泡沫之衣」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 36, Page 49, Line 22, Pos (30,19)
+msgid "１７０００Ｇ手に入れた！"
+msgstr "17000G到手了！"
+
+#. ID 36, Page 50, Line 3, Pos (30,19)
+msgid ""
+"案件は「黄金の甲冑」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「黄金铠甲」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 36, Page 51, Line 3, Pos (30,19)
+msgid ""
+"案件は「十二ひとえ」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「十二单」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 36, Page 51, Line 22, Pos (30,19)
+msgid "２１０００Ｇ手に入れた！"
+msgstr "21000G到手了！"
+
+#. ID 36, Page 52, Line 3, Pos (30,19)
+msgid ""
+"案件は「ちょうちんぶるま」の発見ね\n"
+"持っていればそれだけで依頼達成となるわ"
+msgstr ""
+"案件是「灯笼裤」的发现呢，只要持有它，\n"
+"委托就算达成了哦"
+
+#. ID 37, Page 1, Line 3, Pos (34,19)
+msgid ""
+"こちらは案件受付です\n"
+"依頼の方は、列に並んでお待ちください"
+msgstr "这里是案件受理处，办理委托的人请排队等候"
+
+#. ID 38, Page 1, Line 3, Pos (30,13)
+#. ID 58, Page 1, Line 3, Pos (34,9)
+msgid "たかが書類整理のバイトと甘く見た…"
+msgstr "我小看了这不过是整理文件的兼职…"
+
+#. ID 39, Page 1, Line 3, Pos (59,24)
+msgid ""
+"\n"
+"どうみてもモンスターぽいが妙な迫力がある…\n"
+"何度も激戦を乗り超えたツワモノの目だ"
+msgstr ""
+"怎么看都像怪物，却有种莫名的魄力…\n"
+"那是身经百战的高手的眼神"
+
+#. ID 40, Page 1, Line 3, Pos (60,35)
+msgid "あそこの白い饅頭みたいなヤツいるだろ？"
+msgstr "那边那个像白馒头一样的家伙，你看到了吧？"
+
+#. ID 40, Page 1, Line 4, Pos (60,35)
+msgid ""
+"信じられないだろうが超がつくほどの腕利きだ\n"
+"頭は悪いが、根は悪いヤツじゃない"
+msgstr ""
+"虽然难以置信，但他是超级厉害的高手。\n"
+"虽然脑子不太好，但本性不坏"
+
+#. ID 41, Page 1, Line 3, Pos (27,20)
+msgid ""
+"ん？この鎌かい？\n"
+"もちろん本物だよ、触ると危ないわよ"
+msgstr "嗯？这把镰刀吗？当然是真的哦，碰了很危险的哦"
+
+#. ID 41, Page 2, Line 3, Pos (27,20)
+msgid ""
+"ああ、ちょっといいかい？\n"
+"実は折り入って話があってね"
+msgstr ""
+"啊，能稍微打扰一下吗？\n"
+"其实我有件要紧的事想跟你谈"
+
+#. ID 41, Page 2, Line 5, Pos (27,20)
+msgid ""
+"ししょ…じゃあなかった\n"
+"シブチョーがお呼びだ、まぁ二階にいってきな"
+msgstr "师父…不对，是支部长在叫你，嗯，去二楼一趟吧"
+
+#. ID 41, Page 3, Line 3, Pos (27,20)
+msgid ""
+"ああ、アンタか\n"
+"依頼はうまい事やってるか？"
+msgstr "啊，是你啊。委托办得顺利吗？"
+
+#. ID 41, Page 4, Line 3, Pos (27,20)
+msgid ""
+"少しいいか？\n"
+"またシブチョーがアンタに依頼をしたいらしい"
+msgstr "能耽误一下吗？支部长好像又想委托你办事了"
+
+#. ID 41, Page 4, Line 5, Pos (27,20)
+msgid ""
+"今回もメンドウ事だろうけどね…\n"
+"二階いってきな"
+msgstr "这次大概也是麻烦事吧…去二楼一趟吧"
+
+#. ID 41, Page 5, Line 3, Pos (27,20)
+msgid ""
+"がんばってるねぇ\n"
+"だけどムチャはよくないよ？\n"
+"知らないウチに体が衰弱してるかもしれないからね"
+msgstr ""
+"很努力呢。但是太逞强可不好哦？\n"
+"说不定不知不觉间身体就衰弱了"
+
+#. ID 41, Page 6, Line 3, Pos (27,20)
+msgid "順調に案件こなしてるね、いいこった"
+msgstr "案件处理得很顺利呢，真是好孩子"
+
+#. ID 41, Page 6, Line 4, Pos (27,20)
+msgid ""
+"で、シブチョーがアンタに依頼をしたいらしい\n"
+"まぁ二階で話をきいておくれ"
+msgstr ""
+"然后，支部长好像想委托你办事。嗯，\n"
+"去二楼听听他怎么说吧"
+
+#. ID 42, Page 1, Line 3, Pos (34,22)
+msgid ""
+"\n"
+"妙に後ろを気にしてる"
+msgstr "莫名地在意身后"
+
+#. ID 43, Page 1, Line 3, Pos (34,24)
+msgid ""
+"\n"
+"コイツに後ろを見せるのはキケンな気がする"
+msgstr "感觉把背后露给这家伙很危险"
+
+#. ID 44, Page 1, Line 3, Pos (34,25)
+msgid ""
+"\n"
+"後姿がどう見てもレモンだ"
+msgstr "背影怎么看都是柠檬"
+
+#. ID 45, Page 1, Line 3, Pos (34,26)
+msgid ""
+"\n"
+"後姿がどう見ても樹木にしか見えない"
+msgstr "背影怎么看都只像树木"
+
+#. ID 46, Page 1, Line 3, Pos (12,15)
+msgid ""
+"ここのシブチョーに会った事はあるかな？\n"
+"彼女はとてもおもしろい人材だよ"
+msgstr "你见过这里的支部长吗？她是个非常有趣的人才哦"
+
+#. ID 47, Page 1, Line 3, Pos (61,17)
+msgid "ここの支部って鎌、持ってる人多くない？"
+msgstr "这个支部里拿镰刀的人是不是很多？"
+
+#. ID 47, Page 1, Line 4, Pos (61,17)
+msgid ""
+"…って思うでしょ？\n"
+"じつはみんなここの支部長のお弟子さんなんだって"
+msgstr ""
+"…你会这么想吧？\n"
+"其实听说大家都是这里支部长的徒弟"
+
+#. ID 48, Page 1, Line 3, Pos (44,27)
+msgid ""
+"そこの魔物の子…あの黒い帽子の従者？\n"
+"らしいから攻撃とかしちゃダメよ"
+msgstr ""
+"那边的魔物孩子…好像是那个黑帽子的随从？\n"
+"所以不可以攻击哦"
+
+#. ID 48, Page 1, Line 5, Pos (44,27)
+msgid "はぁ…\\.\\.あの髪（？）っぽいのナデナデしたいなぁ…"
+msgstr "唉…\\.\\.好想摸摸那个像头发（？）一样的东西啊…"
+
+#. ID 49, Page 1, Line 3, Pos (3,34)
+msgid "ここでの仕事"
+msgstr "这里的工作"
+
+#. ID 50, Page 1, Line 3, Pos (12,33)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"冒険者やってた頃は依頼を受ける側だったが\n"
+"今は学者として依頼を出す側だ"
+msgstr ""
+"当冒险者的时候是接委托的一方，\n"
+"但现在是作为学者发布委托的一方"
+
+#. ID 50, Page 1, Line 5, Pos (12,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>なにか情報ください\n"
+"\\>学者って格好ではないな"
+msgstr ""
+"\\>请给我一些情报\n"
+"\\>你看起来不像学者啊"
+
+#. ID 50, Page 1, Line 7, Pos (12,33)
+msgid ""
+"そうだな…\\.\n"
+"依頼にはいくつか分類がある、たとえば…"
+msgstr "是啊…\\.委托分为好几种，比如…"
+
+#. ID 50, Page 1, Line 9, Pos (12,33)
+msgid ""
+"\\>「納品」\n"
+"\\>依頼に書かれたアイテムを受付に渡す事で達成\n"
+"\\>渡したアイテムは消失する"
+msgstr ""
+"\\>「提交」\\>把委托中写明的物品交给受理处即达成\\>\n"
+"交出的物品会消失"
+
+#. ID 50, Page 1, Line 12, Pos (12,33)
+msgid ""
+"\\>「発見」\n"
+"\\>依頼に書かれたアイテムを所持していれば達成\n"
+"\\>アイテムが消費される事はない"
+msgstr ""
+"\\>「发现」\\>只要持有委托中写明的物品即达成\\>物品\n"
+"不会被消耗"
+
+#. ID 50, Page 1, Line 15, Pos (12,33)
+msgid ""
+"\\>「技能」\n"
+"\\>自身のステータスや特定アビリティを所持など\n"
+"\\>一定の条件を満たしていれば達成"
+msgstr ""
+"\\>「技能」\\>拥有自身状态或特定能力等\\>只要满足一\n"
+"定条件即达成"
+
+#. ID 50, Page 1, Line 18, Pos (12,33)
+msgid ""
+"\\>「探索」\n"
+"\\>特定の都市またはダンジョンを発見する"
+msgstr "\\>「探索」\\>发现特定的城市或地下城"
+
+#. ID 50, Page 1, Line 20, Pos (12,33)
+msgid ""
+"\\>「調査」\n"
+"\\>特定のダンジョンで指定された依頼をこなすと達成\n"
+"\\>アイテムの発見、ボス撃破、謎解き等内容は様々"
+msgstr ""
+"\\>「调查」\\>在特定地下城完成指定的委托即达成\\>物\n"
+"品发现、击败首领、解谜等内容多种多样"
+
+#. ID 50, Page 1, Line 23, Pos (12,33)
+msgid ""
+"まぁ大半は「納品」か「発見」依頼だから\n"
+"世界中巡ってれば知らず知らずの内に\n"
+"依頼の品を持ってるかもしれん"
+msgstr ""
+"嘛，大半是「提交」或「发现」类委托，\n"
+"所以只要周游世界，\n"
+"说不定不知不觉中就持有委托物品了"
+
+#. ID 50, Page 1, Line 26, Pos (12,33)
+msgid ""
+"後は…実力を認められれば\n"
+"上から直接依頼が来るかもしれんな"
+msgstr ""
+"还有…如果实力得到认可，\n"
+"说不定会有上面的人直接来找你委托"
+
+#. ID 50, Page 1, Line 28, Pos (12,33)
+msgid "だいたいロクでもない仕事だがな"
+msgstr "不过基本上都不是什么正经工作就是了"
+
+#. ID 51, Page 1, Line 3, Pos (15,39)
+msgid ""
+"アタシたちはトラベラーズ本部から来たの！\n"
+"みんな見習いなんだけどね"
+msgstr ""
+"我们是从旅行者协会总部来的！\n"
+"不过大家都还是见习生呢"
+
+#. ID 52, Page 1, Line 3, Pos (15,43)
+msgid ""
+"研修ってコトでこんな場所まで来たけど…\n"
+"ホント何も無いわねココ"
+msgstr ""
+"说是研修才来到这种地方…\n"
+"不过这里真的什么都没有呢"
+
+#. ID 53, Page 1, Line 3, Pos (17,41)
+msgid ""
+"仕事は無いから遊んで来い…\n"
+"なーんて支部長に言われたけど"
+msgstr "因为没有工作，去玩吧…虽然支部长是这么说的"
+
+#. ID 53, Page 1, Line 5, Pos (17,41)
+msgid ""
+"これじゃ研修にならない…\n"
+"確かに見習いだし頼りないけど、何か仕事が欲しいわ"
+msgstr ""
+"这样根本不算研修…虽然我们确实是见习生，\n"
+"也不太可靠，但还是想要点工作啊"
+
+#. ID 54, Page 1, Line 3, Pos (6,34)
+msgid "注文ならそこのバイトに言いな"
+msgstr "要点单的话，就去跟那边的兼职说吧"
+
+#. ID 55, Page 1, Line 3, Pos (4,33)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"い、いらっしゃいませ！\n"
+"お食事ですか！？それともお休みですか！？"
+msgstr "欢、欢迎光临！您是来用餐吗！？还是来休息的！？"
+
+#. ID 55, Page 1, Line 5, Pos (4,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>何か食べるか…\n"
+"\\>休ませてほしい"
+msgstr ""
+"\\>要吃点什么吗…\n"
+"\\>希望能让我休息一下"
+
+#. ID 55, Page 1, Line 7, Pos (4,33)
+msgid "はい！こちらがメニューです！"
+msgstr "好！这是菜单！"
+
+#. ID 55, Page 1, Line 8, Pos (4,33)
+#. Choice (4 options)
+msgid ""
+"\\>タコ焼き(？)　　500G\n"
+"\\>ＳＡＳＩＭＩ　　1000G\n"
+"\\>特上海鳴丼　　　5000G\n"
+"\\>海鳴御膳　　　　50000G"
+msgstr ""
+"\\>章鱼烧（？）　　500G\n"
+"\\>SASIMI　　1000G\n"
+"\\>特上海鸣盖饭　　　5000G\n"
+"\\>海鸣御膳　　　　50000G"
+
+#. ID 55, Page 1, Line 15, Pos (4,33)
+#. ID 55, Page 1, Line 82, Pos (4,33)
+#. ID 55, Page 1, Line 165, Pos (4,33)
+msgid "了解です！ちょっと待っててくださいね！"
+msgstr "明白了！请稍等一下哦！"
+
+#. ID 55, Page 1, Line 27, Pos (4,33)
+msgid "お待たせしました！アツアツのウチにどうぞ！"
+msgstr "久等了！请趁热享用！"
+
+#. ID 55, Page 1, Line 32, Pos (4,33)
+msgid ""
+"\n"
+"…妙に動いているが、気にしない事にした"
+msgstr "…虽然它动得很奇怪，但我决定不去在意"
+
+#. ID 55, Page 1, Line 34, Pos (4,33)
+#. ID 55, Page 1, Line 126, Pos (4,33)
+#. ID 55, Page 1, Line 231, Pos (4,33)
+msgid "いただきまーす"
+msgstr "我开动了——"
+
+#. ID 55, Page 1, Line 43, Pos (4,33)
+msgid "熱々だった。"
+msgstr "热腾腾的。"
+
+#. ID 55, Page 1, Line 57, Pos (4,33)
+msgid ""
+"\n"
+"外はカリカリ、中はフワトロ…\n"
+"これはいくらでも食べれそうだ…"
+msgstr "外面酥脆，里面软糯融滑…这感觉能吃多少都行…"
+
+#. ID 55, Page 1, Line 71, Pos (4,33)
+#. ID 55, Page 1, Line 154, Pos (4,33)
+#. ID 55, Page 1, Line 269, Pos (4,33)
+msgid "ごちそうさまでした～"
+msgstr "多谢款待～"
+
+#. ID 55, Page 1, Line 119, Pos (4,33)
+#. ID 55, Page 1, Line 224, Pos (4,33)
+msgid "お待たせしました！出来立て新鮮ですよ！"
+msgstr "久等了！这是刚做好、新鲜出炉的哦！"
+
+#. ID 55, Page 1, Line 124, Pos (4,33)
+msgid ""
+"\n"
+"…色とりどりの切り身が宝石のようだ"
+msgstr "…五颜六色的生鱼片就像宝石一样"
+
+#. ID 55, Page 1, Line 140, Pos (4,33)
+msgid ""
+"\n"
+"そのまま食べてもウマいが\n"
+"ＷＡＳＡＢＩとＳＹＯＹＵが更に味を引き立てる…！"
+msgstr "直接吃也很好吃，但WASABI和SYOYU更能提升味道…！"
+
+#. ID 55, Page 1, Line 229, Pos (4,33)
+msgid ""
+"\n"
+"…あらゆる海の幸が丼の上で輝きを放っているっ！"
+msgstr "…所有海鲜都在盖饭上闪耀着光芒！"
+
+#. ID 55, Page 1, Line 245, Pos (4,33)
+msgid ""
+"\n"
+"どれだけ食べても飽きが来ない…！\n"
+"まるで食の宝箱だ…！"
+msgstr "无论吃多少都不会腻…！简直是食物的宝箱…！"
+
+#. ID 55, Page 1, Line 275, Pos (4,33)
+msgid "ご、御膳ですか…？"
+msgstr "您、您是要御膳吗…？"
+
+#. ID 55, Page 1, Line 277, Pos (4,33)
+msgid "えと…テンチョー？"
+msgstr "那个…店长？"
+
+#. ID 55, Page 1, Line 283, Pos (4,33)
+msgid ""
+"悪いね、今日は作る気が起きないんだ\n"
+"他のメニューでガマンしな"
+msgstr "抱歉啊，今天没心情做，你就点别的菜单将就一下吧"
+
+#. ID 55, Page 1, Line 290, Pos (4,33)
+msgid "…だそうです"
+msgstr "…他好像是这么说的"
+
+#. ID 55, Page 1, Line 300, Pos (4,33)
+msgid "は、はい！お部屋は以下になります！"
+msgstr "是、是的！房间如下！"
+
+#. ID 55, Page 1, Line 317, Pos (4,33)
+msgid "あの、お金が足りませんよ？"
+msgstr "那个，钱不够哦？"
+
+#. ID 55, Page 1, Line 324, Pos (4,33)
+msgid ""
+"申し訳ありません！\n"
+"そちらの部屋は満室です！"
+msgstr "非常抱歉！那边的房间已经满了！"
+
+#. ID 55, Page 1, Line 333, Pos (4,33)
+msgid "あの…えと…その…"
+msgstr "那个…呃…这个…"
+
+#. ID 55, Page 1, Line 334, Pos (4,33)
+msgid "つ、次は寝る前に行っておきましょうね？"
+msgstr "下、下次在睡前先去一趟吧？"
+
+#. ID 62, Page 1, Line 11, Pos (8,16)
+msgid ""
+"……こんな\"モノ\"が生えた\\n[\\v[6]]は\n"
+"ひどく惨めな気分になった"
+msgstr "……长出了这种「东西」\\n[\\v[6]]的心情变得非常悲惨"
+
+#. ID 62, Page 1, Line 16, Pos (8,16)
+msgid "……トイレの時は便利になったと思う"
+msgstr "……我觉得上厕所的时候变得方便了"
+
+#. ID 62, Page 1, Line 20, Pos (8,16)
+msgid "……そこそこ\"ご立派\"なのが如何ともし難い"
+msgstr "……它还算「雄伟」这点真让人无可奈何"
+
+#. ID 62, Page 1, Line 24, Pos (8,16)
+msgid "……このままでもいいか、と思った自分が恨めしい"
+msgstr "……我恨自己居然觉得「就这样也可以」"
+
+#. ID 62, Page 1, Line 28, Pos (8,16)
+msgid "……ほんの少し、ムスコに愛着が沸いてきた"
+msgstr "……我对「儿子」稍微产生了一点感情"
+
+#. ID 62, Page 1, Line 32, Pos (8,16)
+msgid "……うむ、今日も元気だ！"
+msgstr "……嗯，今天也很有精神！"
+
+#. ID 62, Page 1, Line 45, Pos (8,16)
+msgid ""
+"……使ってみようにも\n"
+"女の\\n[\\v[6]]にはどうしようもない"
+msgstr "……就算想用，对女人的\\n[\\v[6]]也无可奈何"
+
+#. ID 66, Page 1, Line 3, Pos (7,35)
+msgid ""
+"この店、バイトばっかり働いてて\n"
+"テンシュはず～とタバコふかしてるんだ…"
+msgstr "这家店净是兼职在干活，店主却一直～在抽烟…"
+
+#. ID 66, Page 1, Line 5, Pos (7,35)
+msgid "アレで仕事する気あるのかね"
+msgstr "那副德性还有心思工作吗"
+
+#. ID 66, Page 2, Line 3, Pos (7,35)
+msgid ""
+"ここのテンシュさんに話しかけても\n"
+"ず～っと無言なんですよね～"
+msgstr "就算跟这里的店主搭话，他也一直～不说话呢～"
+
+#. ID 66, Page 2, Line 5, Pos (7,35)
+msgid "バイトちゃんの方がよっぽどお話聞いてくれるわ"
+msgstr "兼职小妹反而更愿意听人说话呢"
+
+#. ID 67, Page 1, Line 42, Pos (21,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]納品:ルビーのサンダル\n"
+"\\>\\n[102]納品:ブラックボックス\n"
+"\\>\\n[103]納品:エンプレスコロン\n"
+"\\>\\n[104]納品:タコヤキ"
+msgstr ""
+"\\>\\n[101]提交:红宝石凉鞋\n"
+"\\>\\n[102]提交:黑匣子\n"
+"\\>\\n[103]提交:女皇古龙水\n"
+"\\>\\n[104]提交:章鱼烧"
+
+#. ID 67, Page 1, Line 57, Pos (21,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：５０００Ｇ\n"
+"\\>脱出のために糸を用意したが、リスに奪われてしまった\n"
+"\\>何か代わりになる物を用意してほしい"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：5000G\\>为了逃脱准备了线，\n"
+"但被松鼠抢走了\\>希望准备些能替代的东西"
+
+#. ID 67, Page 1, Line 87, Pos (21,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：８０００Ｇ\n"
+"\\>真水に浸けなきゃ…(使命感)"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：8000G\\>必须泡在淡水里…\n"
+"(使命感)"
+
+#. ID 67, Page 1, Line 112, Pos (21,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：１００００Ｇ\n"
+"\\>エンプレス…女帝とはよい響きよ\n"
+"\\>さぞ上物のアイテムに違いない、誰ぞ用意せよ"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：10000G\\>女皇…\n"
+"女帝这个称呼真好听\\>那一定是上等品，谁去准备来"
+
+#. ID 67, Page 1, Line 138, Pos (21,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：２００００Ｇ\n"
+"\\>タコヤキなら店で食えるだろ、と思うだろうが\n"
+"\\>なんでもダンジョンで拾えるタコヤキがあるらしい"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：20000G\\>你大概会想，\n"
+"章鱼烧在店里就能吃到吧\\>但据说地下城里有一种能\n"
+"捡到的章鱼烧"
+
+#. ID 68, Page 1, Line 42, Pos (22,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]納品:海サボテン\n"
+"\\>\\n[102]納品:ガマの油\n"
+"\\>\\n[103]納品:百々目ワーム\n"
+"\\>\\n[104]納品:おいしそうな鍵"
+msgstr ""
+"\\>\\n[101]提交:海仙人掌\n"
+"\\>\\n[102]提交:蟾蜍油\n"
+"\\>\\n[103]提交:百目虫\n"
+"\\>\\n[104]提交:美味钥匙"
+
+#. ID 68, Page 1, Line 57, Pos (22,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１００００Ｇ\n"
+"\\>深海で育つサボテンが存在すると聞いた\n"
+"\\>インテリアとしてぜひ欲しいので依頼するぞ"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"10000G\\>听说存在生长在深海里的仙人掌\\>我无论如\n"
+"何都想要来当室内装饰，所以来委托"
+
+#. ID 68, Page 1, Line 87, Pos (22,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆\n"
+"\\>報酬　：４００００Ｇ\n"
+"\\>研究用のアイテムとしてガマの油を所望する\n"
+"\\>どういう成分なのか詳しく調べたい"
+msgstr ""
+"\\>难度：☆☆☆☆☆\\>报酬　：\n"
+"40000G\\>我想要蟾蜍油作为研究用的物品\\>想详细调\n"
+"查它含有哪些成分"
+
+#. ID 68, Page 1, Line 113, Pos (22,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆\n"
+"\\>報酬　：５００００Ｇ\n"
+"\\>世の中大きいものは沢山ある、依頼料は弾む\n"
+"\\>今回気になった超巨大な虫を用意してほしい"
+msgstr ""
+"\\>难度：☆☆☆☆☆\\>报酬　：\n"
+"50000G\\>世上巨大的东西有很多，\n"
+"委托费我会出得慷慨\\>希望准备这次让我很在意的超\n"
+"巨大虫子"
+
+#. ID 68, Page 1, Line 139, Pos (22,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆\n"
+"\\>報酬　：８００００Ｇ\n"
+"\\>小耳に挟んだのだが、おいしそうな鍵とやらが気になる\n"
+"\\>飴細工の一種なのか？気になって仕方ない！"
+msgstr ""
+"\\>难度：☆☆☆☆☆\\>报酬　：\n"
+"80000G\\>我偶然听到一点消息，\n"
+"很在意那个叫美味钥匙的东西\\>它是糖艺的一种吗？\n"
+"我好奇得不得了！"
+
+#. ID 70, Page 1, Line 1, Pos (59,26)
+msgid ""
+"\\c[1]$k\\c[2]$k\\c[3]$k\\c[4]$k\\c[5]$k\\c[6]$k\\c[7]$k\n"
+"\\c[8]$k\\c[9]$k\\c[10]$k"
+msgstr ""
+"\\c[1]$k\\c[2]$k\\c[3]$k\\c[4]$k\\c[5]$k\\c[6]$k\\c[7]$k\n"
+"\\c[8]$k\\c[9]$k\\c[10]$k"
+
+#. ID 71, Page 1, Line 3, Pos (11,25)
+msgid ""
+"ちょっと前にこのコ、寄生虫に取り付かれちゃってね\n"
+"鬼脱がせで何とかしたんだけど…"
+msgstr ""
+"不久前这孩子被寄生虫附上了，\n"
+"虽然用驱鬼好歹解决了…"
+
+#. ID 71, Page 1, Line 5, Pos (11,25)
+msgid ""
+"鬼脱がせさえあれば大丈夫だから…って言って\n"
+"たま～に自分から装備して気の済むまで楽しんでるの…"
+msgstr ""
+"她说只要有驱鬼就没问题…\n"
+"所以偶尔～会自己主动戴上，尽情享受直到满足…"
+
+#. ID 71, Page 1, Line 7, Pos (11,25)
+msgid ""
+"ねえ、物は相談だけど…\n"
+"鬼脱がせを持ってたら売ってくれない？"
+msgstr ""
+"喂，有件事想商量一下…如果你有驱鬼的话，\n"
+"能卖给我吗？"
+
+#. ID 71, Page 1, Line 9, Pos (11,25)
+msgid "一つ3000Gで買い取るわよ？"
+msgstr "一个我用3000G收购哦？"
+
+#. ID 71, Page 1, Line 11, Pos (11,25)
+#. Choice (2 options)
+msgid ""
+"売ったッ！\n"
+"貴重品だしな～"
+msgstr ""
+"卖了！\n"
+"毕竟是贵重品嘛～"
+
+#. ID 71, Page 1, Line 13, Pos (11,25)
+msgid ""
+"ありがと、いくつあっても困ることはないし\n"
+"余ってるならまた声かけてね"
+msgstr ""
+"谢谢，有多少都不嫌多，\n"
+"如果你还有剩余就再来找我吧"
+
+#. ID 72, Page 1, Line 3, Pos (54,19)
+msgid "ッチ！あの豚野郎め…！"
+msgstr "啧！那个猪头混蛋…！"
+
+#. ID 72, Page 1, Line 5, Pos (54,19)
+msgid "おい！何見てやがるッ！殺すぞテメェ！！"
+msgstr "喂！看什么看！我宰了你！！"
+
+#. ID 73, Page 1, Line 3, Pos (11,24)
+msgid ""
+"少し前に寄生虫に取り付かれてね\n"
+"鬼脱がせで何とかしたんだけど…"
+msgstr "不久前我被寄生虫附上了，虽然用驱鬼好歹解决了…"
+
+#. ID 73, Page 1, Line 5, Pos (11,24)
+msgid ""
+"それ見てた相棒も自分も試してみるって\n"
+"興味本位で装備したら相棒も大変な事になってね"
+msgstr ""
+"看到那个的搭档也说自己也试试，\n"
+"出于好奇装备上之后，搭档也遇上了不得了的状况"
+
+#. ID 73, Page 1, Line 7, Pos (11,24)
+msgid ""
+"鬼脱がせって一応貴重品なんだけど…\n"
+"でも普段見せない相棒のカワイイ顔が見れたから\n"
+"安い買い物さ"
+msgstr ""
+"驱鬼姑且算是贵重品…\n"
+"不过能看到平时不让人看到的搭档可爱表情，\n"
+"那也算便宜买卖了"
+
+#. ID 73, Page 1, Line 10, Pos (11,24)
+msgid "そうだ、モノは相談だが寄生虫を持ってないか？"
+msgstr "对了，有件事想商量，你身上有没有寄生虫？"
+
+#. ID 73, Page 1, Line 11, Pos (11,24)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"持ってるなら譲ってくれない？\n"
+"もちろん相応のお礼はさせてもらうよ…どうかな？"
+msgstr ""
+"如果有的话能不能让给我？\n"
+"当然我会给出相应的谢礼…怎么样？"
+
+#. ID 73, Page 1, Line 13, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"エグいヤツ…揃ってますよ\n"
+"ナニに使うんですか？"
+msgstr ""
+"恶心的玩意儿…都凑齐了哦\n"
+"您要用来做什么？"
+
+#. ID 73, Page 1, Line 15, Pos (11,24)
+msgid "どれどれ…？"
+msgstr "让我看看…？"
+
+#. ID 73, Page 1, Line 17, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "「繊毛の生えた寄生虫」を渡す？"
+msgstr "要交出「长有纤毛的寄生虫」吗？"
+
+#. ID 73, Page 1, Line 18, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 43, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 70, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 95, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 120, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 148, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 173, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 201, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>これを渡す\n"
+"\\>違うのにしよう"
+msgstr ""
+"\\>交出这个\n"
+"\\>换成别的吧"
+
+#. ID 73, Page 1, Line 20, Pos (11,24)
+msgid ""
+"これは…オーソドックスな繊毛型だね\n"
+"丁度いい、前に捕まえたヤツはそろそろヘタってきてね"
+msgstr ""
+"这是…正统的纤毛型呢，正好，\n"
+"之前抓到的那家伙差不多快不行了"
+
+#. ID 73, Page 1, Line 22, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+#. ID 73, Page 1, Line 127, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+#. ID 73, Page 1, Line 180, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "3200Gでどうかな？"
+msgstr "3200G怎么样？"
+
+#. ID 73, Page 1, Line 23, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 48, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 75, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 99, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 128, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 152, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 181, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 218, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"どうぞどうぞ\n"
+"掘り出し物ですよ？"
+msgstr ""
+"请请\n"
+"是淘到的好货哦？"
+
+#. ID 73, Page 1, Line 28, Pos (11,24)
+#. ID 73, Page 1, Line 53, Pos (11,24)
+#. ID 73, Page 1, Line 186, Pos (11,24)
+msgid "ありがとう、相棒もきっと\"悦んで\"くれるよ"
+msgstr "谢谢，搭档也一定会「愉悦」的哦"
+
+#. ID 73, Page 1, Line 32, Pos (11,24)
+#. ID 73, Page 1, Line 59, Pos (11,24)
+#. ID 73, Page 1, Line 84, Pos (11,24)
+#. ID 73, Page 1, Line 109, Pos (11,24)
+#. ID 73, Page 1, Line 137, Pos (11,24)
+#. ID 73, Page 1, Line 162, Pos (11,24)
+#. ID 73, Page 1, Line 190, Pos (11,24)
+msgid "これ以上は出せないね"
+msgstr "不能再出更多了"
+
+#. ID 73, Page 1, Line 42, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "「管の生えた寄生虫」を渡す？"
+msgstr "要交出「长有管子的寄生虫」吗？"
+
+#. ID 73, Page 1, Line 45, Pos (11,24)
+msgid ""
+"おぉ！管型の寄生虫じゃないか！\n"
+"これはいい！相棒と一緒に\"愉しむ\"時に重宝するんだ"
+msgstr ""
+"哦哦！这不是管型的寄生虫吗！这个好！\n"
+"和搭档一起「享受」的时候能派上大用场"
+
+#. ID 73, Page 1, Line 47, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "3300Gでどうかな？"
+msgstr "3300G怎么样？"
+
+#. ID 73, Page 1, Line 55, Pos (11,24)
+msgid "これに関しては、私も…だがね\\c[7]$k"
+msgstr "关于这个，我也…不过呢\\c[7]$k"
+
+#. ID 73, Page 1, Line 69, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "「イソギンチャク？」を渡す？"
+msgstr "要交出「海葵？」吗？"
+
+#. ID 73, Page 1, Line 72, Pos (11,24)
+msgid ""
+"これは…イソギンチャク？だね\n"
+"参ったな…あまりいい思い出が無くてね"
+msgstr "这是…海葵？呢，头疼啊…没留下什么好回忆"
+
+#. ID 73, Page 1, Line 74, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+#. ID 73, Page 1, Line 151, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "3100Gでどうかな？"
+msgstr "3100G怎么样？"
+
+#. ID 73, Page 1, Line 80, Pos (11,24)
+msgid "ありがとう、相棒もたぶん\"悦んで\"くれるよ"
+msgstr "谢谢，搭档大概也会「愉悦」的哦"
+
+#. ID 73, Page 1, Line 94, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "「紐状の寄生虫」を渡す？"
+msgstr "要交出「绳状寄生虫」吗？"
+
+#. ID 73, Page 1, Line 97, Pos (11,24)
+msgid "紐状の寄生虫か、これは実用方面で使うとしよう"
+msgstr "绳状寄生虫吗，这个就用在实用方面吧"
+
+#. ID 73, Page 1, Line 98, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "3000Gでどうかな？"
+msgstr "3000G怎么样？"
+
+#. ID 73, Page 1, Line 104, Pos (11,24)
+msgid ""
+"ありがとう、何気に優秀なんだよなコイツ\n"
+"敵の近くに投げつければいい足止めになるんだ"
+msgstr ""
+"谢谢，这家伙意外地优秀啊，\n"
+"扔到敌人附近就能很好地牵制敌人"
+
+#. ID 73, Page 1, Line 119, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "「蛭型寄生虫の群れ」を渡す？"
+msgstr "要交出「水蛭型寄生虫群」吗？"
+
+#. ID 73, Page 1, Line 122, Pos (11,24)
+msgid ""
+"うえぇ…な、なんだこのヒルの詰め合わせは…\n"
+"これも寄生虫なのか？こんなタイプは始めてみたな…"
+msgstr ""
+"呃…这、这是什么水蛭拼盘啊…这也是寄生虫吗？\n"
+"这种类型还是第一次见啊…"
+
+#. ID 73, Page 1, Line 124, Pos (11,24)
+msgid ""
+"ちなみに…どんな風に攻められたんだ？\n"
+"何？言いたくない？自分で試せ？\n"
+"それもそうだな、相棒に試してもらうとしよう"
+msgstr ""
+"顺便问一下…你是被怎么攻击的？什么？不想说？\n"
+"让我自己试？也是啊，就让搭档试试吧"
+
+#. ID 73, Page 1, Line 133, Pos (11,24)
+msgid "ありがとう、たぶん相棒も\"悦んで\"くれるよ"
+msgstr "谢谢，搭档大概也会「愉悦」的哦"
+
+#. ID 73, Page 1, Line 147, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "「肉の縄」を渡す？"
+msgstr "要交出「肉绳」吗？"
+
+#. ID 73, Page 1, Line 150, Pos (11,24)
+msgid "肉の縄か、これは実用方面で使うとしよう"
+msgstr "肉绳吗，这个就用在实用方面吧"
+
+#. ID 73, Page 1, Line 157, Pos (11,24)
+msgid ""
+"ありがとう、ちゃんと処理して使えば\n"
+"丈夫だし、軽い縄になるんだ"
+msgstr ""
+"谢谢，好好处理后再用的话，\n"
+"会变成结实又轻便的绳子"
+
+#. ID 73, Page 1, Line 172, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "「カテーテル型寄生虫」を渡す？"
+msgstr "要交出「导管型寄生虫」吗？"
+
+#. ID 73, Page 1, Line 175, Pos (11,24)
+msgid "はて？見たことあるような無いような…"
+msgstr "哦？好像见过又好像没见过…"
+
+#. ID 73, Page 1, Line 176, Pos (11,24)
+msgid ""
+"ああ…思い出した\n"
+"最初使ったときは後始末が大変だったんだ"
+msgstr "啊…想起来了，第一次用的时候事后清理很麻烦"
+
+#. ID 73, Page 1, Line 178, Pos (11,24)
+msgid ""
+"相棒も私も二人して赤子みたいにドバドバ漏らしてね\n"
+"今思えば無謀だったな、鬼脱がせ無しで試すなんて"
+msgstr ""
+"搭档和我两个人都像婴儿一样哗哗地漏出来，\n"
+"现在想想太鲁莽了，竟然没带驱鬼就试"
+
+#. ID 73, Page 1, Line 200, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "「粘菌型寄生虫」を渡す？"
+msgstr "要交出「黏菌型寄生虫」吗？"
+
+#. ID 73, Page 1, Line 204, Pos (11,24)
+msgid ""
+"ッ！！！\n"
+"そ、ソイツは…！"
+msgstr "唔！！！那、那个是…！"
+
+#. ID 73, Page 1, Line 207, Pos (11,24)
+msgid ""
+"ん～？\n"
+"ああ、この前ひどい目を見たヤツじゃない"
+msgstr "嗯～？啊，是之前吃了大苦头的那家伙嘛"
+
+#. ID 73, Page 1, Line 209, Pos (11,24)
+msgid ""
+"いや～あの時はスゴかったわよ？\n"
+"いつもはクールぶってるこのコが…"
+msgstr ""
+"哎呀～那时候可厉害了哦？\n"
+"平常总装酷的这孩子居然…"
+
+#. ID 73, Page 1, Line 213, Pos (11,24)
+msgid "い！言うなッ！言うんじゃないッ！！"
+msgstr "不！别说！不准说！！"
+
+#. ID 73, Page 1, Line 215, Pos (11,24)
+msgid "ともかく、それはいらない…！"
+msgstr "总之，那个不要…！"
+
+#. ID 73, Page 1, Line 217, Pos (11,24)
+#. Contains choice at line 2 (2 options)
+msgid "あ、それ3200Gでどう？"
+msgstr "啊，那个3200G怎么样？"
+
+#. ID 73, Page 1, Line 224, Pos (11,24)
+msgid "ありがと～、このコも最後は\"悦んで\"るハズだから"
+msgstr "谢谢～，这孩子最后也应该会「愉悦」的"
+
+#. ID 73, Page 1, Line 226, Pos (11,24)
+msgid "～～～ッ！"
+msgstr "～～～唔！"
+
+#. ID 73, Page 1, Line 231, Pos (11,24)
+msgid "足りない？んじゃいらないわ"
+msgstr "不够？那不要了"
+
+#. ID 73, Page 1, Line 232, Pos (11,24)
+msgid "そ、そうだ、これ以上は出せないね"
+msgstr "对、对了，不能再出更多了"
+
+#. ID 73, Page 1, Line 239, Pos (11,24)
+msgid "う～ん、心に響くヤツはいないようだね"
+msgstr "嗯～，好像没有能打动内心的东西呢"
+
+#. ID 73, Page 1, Line 244, Pos (11,24)
+msgid "………\\|研究用だ"
+msgstr "………\\|研究用的"
+
+#. ID 74, Page 1, Line 3, Pos (41,25)
+msgid ""
+"\n"
+"立派な装備で身を固めた冒険者だ"
+msgstr "用气派装备武装自己的冒险者"
+
+#. ID 75, Page 1, Line 3, Pos (19,25)
+msgid ""
+"\n"
+"ありきたりな装備だ、そんなに強そうにも見えない"
+msgstr "普通的装备，看起来没那么强"
+
+#. ID 76, Page 1, Line 3, Pos (54,35)
+msgid "遺骨や遺品って集めてる？"
+msgstr "你在收集遗骨和遗品吗？"
+
+#. ID 76, Page 1, Line 4, Pos (54,35)
+msgid ""
+"そこの端にいる人が遺骨遺品の整理やってるんだ\n"
+"もし持っているなら渡してあげるといいよ"
+msgstr ""
+"那边角落的人正在整理遗骨遗品，\n"
+"如果持有的话交给他们就好"
+
+#. ID 77, Page 1, Line 42, Pos (23,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]発見:ウィップダガー\n"
+"\\>\\n[102]発見:メルクリアルＧＳ\n"
+"\\>\\n[103]発見:チェーンフレイル\n"
+"\\>\\n[104]発見:モーニングスター"
+msgstr ""
+"\\>\\n[101]发现:鞭匕首\n"
+"\\>\\n[102]发现:梅尔库里亚尔GS\n"
+"\\>\\n[103]发现:链枷\n"
+"\\>\\n[104]发现:晨星锤"
+
+#. ID 77, Page 1, Line 57, Pos (23,21)
+msgid ""
+"\\>難易度：☆☆\n"
+"\\>報酬　：３０００Ｇ\n"
+"\\>鞭剣と呼ばれる特殊な剣があると情報を得た\n"
+"\\>どういう物か一度見てみたい"
+msgstr ""
+"\\>难度：☆☆\\>报酬　：\n"
+"3000G\\>得到情报称有一种被称为鞭剑的特殊剑\\>想\n"
+"看看是什么东西"
+
+#. ID 77, Page 1, Line 87, Pos (23,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：５０００Ｇ\n"
+"\\>この地の鍛冶技術がどれほどか見てみたい\n"
+"\\>メルクリアル・グレートソードという剣を所望する"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"5000G\\>想看看这片土地的锻造技术有多厉害\\>想要\n"
+"一把名为梅尔库里亚尔·巨剑的剑"
+
+#. ID 77, Page 1, Line 113, Pos (23,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：５０００Ｇ\n"
+"\\>射程が長く、遠くの場所へも移動できる\n"
+"\\>そんな夢のような武器が見てみたい"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：5000G\\>射程长，\n"
+"而且还能移动到远处\\>想看看那种如梦般的武器"
+
+#. ID 77, Page 1, Line 139, Pos (23,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：６０００Ｇ\n"
+"\\>鉄球という武器種にロマンを感じる…\n"
+"\\>そんな事ない？"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"6000G\\>对铁球这种武器类型感受到浪漫…\n"
+"\\>你不这么觉得？"
+
+#. ID 78, Page 1, Line 42, Pos (24,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]発見:必中のナイフ\n"
+"\\>\\n[102]発見:ハナプウ\n"
+"\\>\\n[103]発見:キャットナインテール\n"
+"\\>\\n[104]発見:テンダイスソード"
+msgstr ""
+"\\>\\n[101]发现:必中短刀\n"
+"\\>\\n[102]发现:哈纳普\n"
+"\\>\\n[103]发现:猫尾九节鞭\n"
+"\\>\\n[104]发现:十骰剑"
+
+#. ID 78, Page 1, Line 57, Pos (24,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：７０００Ｇ\n"
+"\\>どんな敵の急所も確実に貫く夢のような武器\n"
+"\\>そんな武器があると聞いたが本当かな？"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"7000G\\>能确实贯穿任何敌人要害的如梦般的武器\\>\n"
+"听说有这样的武器，是真的吗？"
+
+#. ID 78, Page 1, Line 87, Pos (24,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１００００Ｇ\n"
+"\\>ハナプウという武器を探している\n"
+"\\>見つけた方はご一報ください"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"10000G\\>正在寻找一种叫哈纳普的武器\\>找到的人请\n"
+"告知一声"
+
+#. ID 78, Page 1, Line 113, Pos (24,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１２０００Ｇ\n"
+"\\>尋問用の新たなムチを探している\n"
+"\\>相応の武器を見つけてもらいたい"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"12000G\\>正在寻找用于审问的新鞭子\\>希望能找到相\n"
+"应的武器"
+
+#. ID 78, Page 1, Line 139, Pos (24,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１００００Ｇ\n"
+"\\>一撃で１０連続もの攻撃を繰り出す剣\n"
+"\\>テンダイスソード、一度拝見させていただきたい"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"10000G\\>一击能连续发动10次攻击的剑\\>十骰剑，\n"
+"想拜见一下"
+
+#. ID 79, Page 1, Line 42, Pos (25,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]発見:死の大鎌\n"
+"\\>\\n[102]発見:ギルティランス\n"
+"\\>\\n[103]発見:名なしの刀\n"
+"\\>\\n[104]発見:マスターソード"
+msgstr ""
+"\\>\\n[101]发现:死亡大镰\n"
+"\\>\\n[102]发现:罪恶长枪\n"
+"\\>\\n[103]发现:无名之刀\n"
+"\\>\\n[104]发现:大师之剑"
+
+#. ID 79, Page 1, Line 57, Pos (25,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１１０００Ｇ\n"
+"\\>本物の死神のみが所持する魔鎌…\n"
+"\\>死の大鎌を一度見てみたい"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"11000G\\>只有真正的死神才拥有的魔镰…\n"
+"\\>想见识一下死亡大镰"
+
+#. ID 79, Page 1, Line 87, Pos (25,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１５０００Ｇ\n"
+"\\>ギルティランスという処刑道具がある\n"
+"\\>本来はワナ扱いのこの武器を持ってきて欲しい"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"15000G\\>有一种名为罪恶长枪的处刑工具\\>希望带来\n"
+"这把本来被当作陷阱的武器"
+
+#. ID 79, Page 1, Line 113, Pos (25,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆\n"
+"\\>報酬　：２００００Ｇ\n"
+"\\>依頼人は名前の無い刀を探し出して欲しいとの事\n"
+"\\>不明な点が多いので注意"
+msgstr ""
+"\\>难度：☆☆☆☆☆\\>报酬　：\n"
+"20000G\\>委托人说希望找出无名之刀\\>不明点很多，\n"
+"请注意"
+
+#. ID 79, Page 1, Line 139, Pos (25,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆\n"
+"\\>報酬　：３００００Ｇ\n"
+"\\>通称、退魔剣とよばれる幻の剣\n"
+"\\>存在自体怪しいが本物があるなら見てみたい"
+msgstr ""
+"\\>难度：☆☆☆☆☆\\>报酬　：\n"
+"30000G\\>俗称退魔剑的幻之剑\\>存在本身就很可疑，\n"
+"但如果有真品倒想看看"
+
+#. ID 80, Page 1, Line 42, Pos (40,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]発見:リバイアサンクロウ\n"
+"\\>\\n[102]発見:デストファルコン\n"
+"\\>\\n[103]発見:クジラバイス\n"
+"\\>\\n[104]発見:ダイヤモンド・エッジ"
+msgstr ""
+"\\>\\n[101]发现:利维坦之爪\n"
+"\\>\\n[102]发现:死亡猎鹰\n"
+"\\>\\n[103]发现:鲸之钳\n"
+"\\>\\n[104]发现:钻石之刃"
+
+#. ID 80, Page 1, Line 57, Pos (40,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆\n"
+"\\>報酬　：２００００Ｇ\n"
+"\\>大海蛇と言えば海の支配者とも呼ばれる大魔獣\n"
+"\\>そのツメから作られた武器、一体どのような物か"
+msgstr ""
+"\\>难度：☆☆☆☆☆\\>报酬　：20000G\\>说到大海蛇，\n"
+"那是也被称为海洋支配者的大魔兽\\>用它爪子制造的\n"
+"武器，究竟是什么东西"
+
+#. ID 80, Page 1, Line 87, Pos (40,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆\n"
+"\\>報酬　：２５０００Ｇ\n"
+"\\>破壊の気を纏いし隼の剣\n"
+"\\>古い文献ではそう記された事もある魔剣を見せてくれ"
+msgstr ""
+"\\>难度：☆☆☆☆☆\\>报酬　：\n"
+"25000G\\>缠绕破坏之气的隼之剑\\>让我看看古文献中\n"
+"也有如此记载的魔剑"
+
+#. ID 80, Page 1, Line 113, Pos (40,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆☆\n"
+"\\>報酬　：１０Ｇ\n"
+"\\>見ようと思えば港行けばタダで見れるけど\n"
+"\\>個人でコレ買うバカがいたら見てみたいｗｗｗ"
+msgstr ""
+"\\>难度：☆☆☆☆☆☆\\>报酬　：10G\\>若想看的话，\n"
+"去港口就能免费看到\\>不过要是有哪个笨蛋自己买这\n"
+"东西，我倒想看看www"
+
+#. ID 80, Page 1, Line 139, Pos (40,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆☆\n"
+"\\>報酬　：１０００００Ｇ\n"
+"\\>刀身から柄に至るまでダイヤを使った一品\n"
+"\\>武器としてではなく、美術品として見てみたい"
+msgstr ""
+"\\>难度：☆☆☆☆☆☆\\>报酬　：\n"
+"100000G\\>从刀身到刀柄全部使用钻石制成的一品\\>\n"
+"不是作为武器，而是想作为美术品看看"
+
+#. ID 81, Page 1, Line 42, Pos (41,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]発見:すけーるアーマー\n"
+"\\>\\n[102]発見:ラバースーツ\n"
+"\\>\\n[103]発見:ヒドラスーツ\n"
+"\\>\\n[104]発見:どてらスーツ"
+msgstr ""
+"\\>\\n[101]发现:鳞装铠甲\n"
+"\\>\\n[102]发现:橡胶套装\n"
+"\\>\\n[103]发现:九头蛇套装\n"
+"\\>\\n[104]发现:棉袍套装"
+
+#. ID 81, Page 1, Line 57, Pos (41,21)
+msgid ""
+"\\>難易度：☆☆\n"
+"\\>報酬　：４０００Ｇ\n"
+"\\>い、イロイロ透けて見える装備だと！？"
+msgstr ""
+"\\>难度：☆☆\\>报酬　：4000G\\>这、\n"
+"这是能透出各种东西的装备！？"
+
+#. ID 81, Page 1, Line 86, Pos (41,21)
+msgid ""
+"\\>難易度：☆☆\n"
+"\\>報酬　：４０００Ｇ\n"
+"\\>この手の服が潜入捜査用の装備として人気らしい\n"
+"\\>今後の参考に一度見ておきたい"
+msgstr ""
+"\\>难度：☆☆\\>报酬　：\n"
+"4000G\\>这种衣服似乎作为潜入搜查用装备很受欢迎\\>\n"
+"想作为今后的参考先看一次"
+
+#. ID 81, Page 1, Line 112, Pos (41,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：６５００Ｇ\n"
+"\\>装備そのものに興味は無いが\n"
+"\\>ヒドラ素材をいかに加工したかを確認したい"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"6500G\\>我对装备本身没兴趣\\>但想确认九头蛇素材\n"
+"是如何加工的"
+
+#. ID 81, Page 1, Line 138, Pos (41,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：７０００Ｇ\n"
+"\\>高地の人間は皆この衣を身に纏い冬を越すと聞く\n"
+"\\>はたしてどのような物か見せてたもれ"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"7000G\\>听说高地的人们都穿这种衣服过冬\\>究竟是\n"
+"什么样的东西，请让我看看吧"
+
+#. ID 82, Page 1, Line 42, Pos (42,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]発見:やぎのぬいぐるみ\n"
+"\\>\\n[102]発見:悪魔のドレス\n"
+"\\>\\n[103]発見:プリンセスドレス\n"
+"\\>\\n[104]発見:ガルヴァアーマー"
+msgstr ""
+"\\>\\n[101]发现:山羊玩偶\n"
+"\\>\\n[102]发现:恶魔礼服\n"
+"\\>\\n[103]发现:公主连衣裙\n"
+"\\>\\n[104]发现:加尔瓦铠甲"
+
+#. ID 82, Page 1, Line 57, Pos (42,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：７０００Ｇ\n"
+"\\>きぐるみのデザインで困っている\n"
+"\\>なんでもいいからきぐるみを見せてくれ"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"7000G\\>正在为玩偶装的设计发愁\\>什么都行，\n"
+"让我看看玩偶装吧"
+
+#. ID 82, Page 1, Line 87, Pos (42,21)
+msgid ""
+"\\>難易度：☆☆☆\n"
+"\\>報酬　：８０００Ｇ\n"
+"\\>魔界で作られたドレスが市場に出回ったと聞いた\n"
+"\\>人知を超えた物であれば危険だ、確認させてもらいたい"
+msgstr ""
+"\\>难度：☆☆☆\\>报酬　：\n"
+"8000G\\>听说魔界制造的礼服流入了市场\\>若那是超\n"
+"越人智之物便危险，我想确认一下"
+
+#. ID 82, Page 1, Line 113, Pos (42,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１１０００Ｇ\n"
+"\\>かの有名なデザイナーが手がけたドレスとのウワサ\n"
+"\\>はたして本当かこの目で確かめたい"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"11000G\\>传闻是某位著名设计师操刀的礼服\\>究竟是\n"
+"否属实，我想亲眼确认"
+
+#. ID 82, Page 1, Line 139, Pos (42,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１４０００Ｇ\n"
+"\\>常に毒状態になる装備と聞いた\n"
+"\\>一体どんな素材で作ったのか見せてもらいたい"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"14000G\\>听说这是会始终处于中毒状态的装备\\>我想\n"
+"看看究竟是用什么素材做的"
+
+#. ID 83, Page 1, Line 42, Pos (43,21)
+#. Choice (4 options)
+msgid ""
+"\\>\\n[101]発見:泡の衣\n"
+"\\>\\n[102]発見:黄金の甲冑\n"
+"\\>\\n[103]発見:十二ひとえ\n"
+"\\>\\n[104]発見:ちょうちんぶるま"
+msgstr ""
+"\\>\\n[101]发现:泡沫之衣\n"
+"\\>\\n[102]发现:黄金铠甲\n"
+"\\>\\n[103]发现:十二单\n"
+"\\>\\n[104]发现:灯笼裤"
+
+#. ID 83, Page 1, Line 57, Pos (43,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１７０００Ｇ\n"
+"\\>かつて海底の秘宝と呼ばれた幻の衣だ\n"
+"\\>見つかるとは思ってないが、依頼だけはしておく"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：\n"
+"17000G\\>这是曾经被称为海底秘宝的幻之衣\\>我并不\n"
+"觉得能找到，不过委托还是要发一下"
+
+#. ID 83, Page 1, Line 87, Pos (43,21)
+msgid ""
+"\\>難易度：☆☆☆☆\n"
+"\\>報酬　：１５０００Ｇ\n"
+"\\>この鎧、学会によって評価が二つにわかれる装備で\n"
+"\\>未だに議論に決着がつかないので、実物を見せてほしい"
+msgstr ""
+"\\>难度：☆☆☆☆\\>报酬　：15000G\\>这件铠甲，\n"
+"学会对其评价分成两派\\>至今争论仍未定论，\n"
+"所以希望让我看看实物"
+
+#. ID 83, Page 1, Line 113, Pos (43,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆\n"
+"\\>報酬　：２１０００Ｇ\n"
+"\\>幻の大地とされる東の果てにある黄金の都…\n"
+"\\>その姫君の衣がこの地に流れてきたらしいが、本当か？"
+msgstr ""
+"\\>难度：☆☆☆☆☆\\>报酬　：\n"
+"21000G\\>在被称为幻之大地的东方尽头有黄金之都……\n"
+"\\>听说那位公主的衣裳流到了此地，是真的吗？"
+
+#. ID 83, Page 1, Line 139, Pos (43,21)
+msgid ""
+"\\>難易度：☆☆☆☆☆\n"
+"\\>報酬　：２５０００Ｇ\n"
+"\\>究極の軽鎧、ちょうちんぶるま…\n"
+"\\>その絶対的能力の秘密を解き明かしたい！"
+msgstr ""
+"\\>难度：☆☆☆☆☆\\>报酬　：25000G\\>究极轻铠，\n"
+"灯笼裤……\\>我想解开其绝对能力的秘密！"

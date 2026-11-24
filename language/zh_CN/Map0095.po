@@ -1,0 +1,27 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 16, Page 2, Line 5, Pos (10,10)
+msgid "どーん！"
+msgstr "咚！"
+
+#. ID 16, Page 2, Line 14, Pos (10,10)
+msgid "もいっちょ どーん！"
+msgstr "再来一发 咚！"
+
+#. ID 16, Page 2, Line 22, Pos (10,10)
+msgid ""
+"…ああ、まだ開発中なので襲ってきません。\n"
+"ご安心ください。"
+msgstr "…啊，因为还在开发中，所以不会来袭击。请放心。"

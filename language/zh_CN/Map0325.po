@@ -1,0 +1,100 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 3, Pos (7,11)
+msgid "ここの給仕には手を出したい放題なんだぜ。"
+msgstr "这里的侍者可以让你随便动手哦。"
+
+#. ID 23, Page 2, Line 3, Pos (5,11)
+msgid "あー、あの給仕いいなぁ……あとで尻にでも出すか。"
+msgstr "啊——那个侍者真不错……之后要不要射在她屁股上呢。"
+
+#. ID 24, Page 2, Line 3, Pos (1,11)
+msgid ""
+"俺たちが要求すれば\n"
+"放尿ショーとか、公開オナニーショーとかも\n"
+"やってくれるらしいぜ。"
+msgstr ""
+"听说只要我们要求，她们还会表演放尿秀、\n"
+"公开自慰秀之类的哦。"
+
+#. ID 25, Page 2, Line 3, Pos (14,12)
+msgid "01011・01001・01100・01100"
+msgstr "01011・01001・01100・01100"
+
+#. ID 26, Page 2, Line 3, Pos (17,8)
+msgid "＊接吻をしている。"
+msgstr "＊正在接吻。"
+
+#. ID 27, Page 2, Line 3, Pos (1,8)
+msgid "血……血が飲みたい……"
+msgstr "血……我想喝血……"
+
+#. ID 28, Page 2, Line 3, Pos (18,8)
+msgid "ん……んぐっ……ンッ！"
+msgstr "嗯……唔咕……嗯！"
+
+#. ID 29, Page 2, Line 3, Pos (5,6)
+msgid ""
+"いらっしゃいませ。\n"
+"こちらはメイド酒場「人身売買」です。"
+msgstr "欢迎光临。这里是女仆酒馆「人身买卖」。"
+
+#. ID 29, Page 2, Line 5, Pos (5,6)
+msgid ""
+"ここの給仕のメイドにはご自由に手を出してOKです。\n"
+"メイドはご主人さまに絶対服従\\c[11]$k\\c[0]\n"
+"絶対に逆らえません\\c[11]$k"
+msgstr ""
+"这里的侍者女仆可以随意动手。\n"
+"女仆对主人绝对服从\\c[11]$k\\c[0]绝对不会反抗\\c[11]$k"
+
+#. ID 29, Page 2, Line 8, Pos (5,6)
+msgid ""
+"お酒をお出ししておりますが、\n"
+"メイドの母乳や聖水なども、ご注文があり次第\n"
+"すぐにご用意します\\c[11]$k"
+msgstr ""
+"我们提供酒水，女仆的母乳或圣水等，只要您下单，\n"
+"我们也会马上准备\\c[11]$k"
+
+#. ID 30, Page 2, Line 3, Pos (4,9)
+msgid "おかえりなさいませ、ご主人さま\\c[11]$k"
+msgstr "欢迎回来，主人\\c[11]$k"
+
+#. ID 31, Page 2, Line 3, Pos (11,10)
+msgid ""
+"ご注文はいかがいたしますか？\n"
+"えっちなメイドさんコースがお勧めです\\c[11]$k"
+msgstr "您要点些什么？推荐色情女仆套餐\\c[11]$k"
+
+#. ID 32, Page 2, Line 3, Pos (14,6)
+#. ID 32, Page 2, Line 18, Pos (14,6)
+msgid ""
+"メイド酒場へようこそ\\c[11]$k\\c[0]\n"
+"お酒になさいますか？\n"
+"それともメイドさんにしますか？"
+msgstr ""
+"欢迎来到女仆酒馆\\c[11]$k\\c[0]您要酒吗？\n"
+"还是要女仆呢？"
+
+#. ID 32, Page 2, Line 10, Pos (14,6)
+msgid ""
+"お、お願……ッ！\n"
+"お城に……ーパー……！　助けッ……！"
+msgstr "求、求求……！去城里……叫～……！　救命……！"
+
+#. ID 32, Page 2, Line 17, Pos (14,6)
+msgid "………"
+msgstr "………"

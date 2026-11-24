@@ -1,0 +1,976 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 18, Page 4, Line 3, Pos (14,30)
+msgid ""
+"\n"
+"早くここから出よう。"
+msgstr "快点离开这里吧。"
+
+#. ID 61, Page 1, Line 22, Pos (32,8)
+msgid ""
+"\n"
+"\\.…\\.…\\.…\\.…\\.…？\\.\\.\n"
+"体が、\\.\\.動かない\\.…\\.…\\.\\.\\^"
+msgstr ""
+"\\.…\\.…\\.…\\.…\\.…？\\.\\.身体、\\.\\.动不了\\.…\\.…\n"
+"\\.\\.\\^"
+
+#. ID 61, Page 1, Line 34, Pos (32,8)
+msgid ""
+"\n"
+"石に\\.…\\.…\\.なって\\.…\\.しまっ\\.…\\.…\\.た\\.…\\.…\\.\\.\\^"
+msgstr "变成了\\.…\\.…\\.石头\\.…\\.…\\.了\\.…\\.…\\.\\.\\^"
+
+#. ID 62, Page 1, Line 12, Pos (28,11)
+#. ID 63, Page 1, Line 3, Pos (34,11)
+msgid ""
+"\n"
+"！！！！！\\.\\.\\^"
+msgstr ""
+"\n"
+"！！！！！\\.\\.\\^"
+
+#. ID 63, Page 1, Line 14, Pos (34,11)
+msgid ""
+"\n"
+"クリスタルから何かがたくさん飛び出し、\n"
+"\\n[\\v[6]]の全身に貼り付いた！\\|\\^"
+msgstr ""
+"大量东西从水晶中飞出，贴满了\\n[\\v[6]]的全身！\n"
+"\\|\\^"
+
+#. ID 63, Page 1, Line 18, Pos (34,11)
+msgid ""
+"\n"
+"\\.…\\.…\\.しかし、\\n[\\v[6]]の身体には、\n"
+"既に寄生する余地が無さそうだ。\\|\\^"
+msgstr ""
+"\\.…\\.…\\.然而，\n"
+"\\n[\\v[6]]的身体似乎已经没有可被寄生的余地了。\n"
+"\\|\\^"
+
+#. ID 63, Page 1, Line 21, Pos (34,11)
+msgid ""
+"\n"
+"蟲は残念そうに(？)クリスタルの中へ戻っていった。\\|\\^"
+msgstr "虫似乎很遗憾地（？）回到了水晶之中。\\|\\^"
+
+#. ID 63, Page 1, Line 28, Pos (34,11)
+msgid ""
+"\n"
+"しかし寄生虫は居心地が悪いのか、\n"
+"蟲は残念そうに(？)クリスタルの中へ戻っていった。\\|\\^"
+msgstr ""
+"不过，或许是寄生虫待得不舒服，虫似乎很遗憾地\n"
+"（？）回到了水晶之中。\\|\\^"
+
+#. ID 63, Page 1, Line 61, Pos (34,11)
+msgid ""
+"\n"
+"\\n[\\v[6]]は蟲に寄生されてしまった！\\|\\^"
+msgstr "\\n[\\v[6]]被虫寄生了！\\|\\^"
+
+#. ID 64, Page 1, Line 3, Pos (31,10)
+msgid ""
+"ムチにローソク、木馬にあらなわ、最高に辱めたら、\n"
+"あたまをなぐり、はらをけりつけ、後はローキック。\n"
+"ひらかぬお口に、やきいしいれて、のどを焼いたら、\n"
+"はりつけほうち、あとはながめる。"
+msgstr ""
+"鞭子加蜡烛，木马配粗绳，尽情羞辱之后，打头、\n"
+"踹腹，之后是低踢。往不张开的嘴里塞入烧石，\n"
+"烧灼喉咙，然后钉上十字架弃置，之后便只是眺望。"
+
+#. ID 82, Page 1, Line 3, Pos (31,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"露骨に怪しいボタンだけど\\.…\\.…\\.\\."
+msgstr "虽然是个明显很可疑的按钮\\.…\\.…\\.\\."
+
+#. ID 82, Page 1, Line 5, Pos (31,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"押す\n"
+"押さない"
+msgstr ""
+"按\n"
+"不按"
+
+#. ID 82, Page 1, Line 7, Pos (31,19)
+msgid ""
+"\n"
+"押しちゃえっ。"
+msgstr "按下去算了。"
+
+#. ID 82, Page 1, Line 56, Pos (31,19)
+msgid ""
+"\n"
+"どう見ても罠だよね、これ。"
+msgstr "这怎么看都是陷阱吧。"
+
+#. ID 82, Page 1, Line 62, Pos (31,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"ボタンだけど、押すとは限らないよね？"
+msgstr "虽然是个按钮，但也不一定会按吧？"
+
+#. ID 82, Page 1, Line 64, Pos (31,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"引いてみる\n"
+"引かない"
+msgstr ""
+"拉一下试试\n"
+"不拉"
+
+#. ID 82, Page 1, Line 66, Pos (31,19)
+msgid ""
+"\n"
+"引いちゃえっ。"
+msgstr "拉一下算了。"
+
+#. ID 82, Page 1, Line 75, Pos (31,19)
+msgid ""
+"\n"
+"やっぱり、止めとこう。"
+msgstr "果然还是算了吧。"
+
+#. ID 82, Page 2, Line 3, Pos (31,19)
+msgid ""
+"\n"
+"もう、ボタンを操作する必要は無さそう。"
+msgstr "看来已经没必要操作按钮了。"
+
+#. ID 83, Page 1, Line 3, Pos (30,20)
+msgid ""
+"\n"
+"押すなよ！　絶対に押すなよ！"
+msgstr "别按！　绝对别按！"
+
+#. ID 85, Page 1, Line 4, Pos (5,27)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"いい事を教えてあげよう。"
+msgstr "告诉你一件好事吧。"
+
+#. ID 85, Page 1, Line 6, Pos (5,27)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"続きを読む\n"
+"続きを読まない"
+msgstr ""
+"继续阅读\n"
+"不继续阅读"
+
+#. ID 85, Page 1, Line 8, Pos (5,27)
+msgid ""
+"\n"
+"時間って大切だよね？"
+msgstr "时间很宝贵吧？"
+
+#. ID 85, Page 1, Line 14, Pos (5,27)
+msgid ""
+"\n"
+"えっ、\\.\\.それだけ\\.…\\.…？\\.\\.\n"
+"思わず硬直してしまった\\.…\\.…"
+msgstr "诶，\\.\\.就这\\.…\\.…？\\.\\.我不由得僵住了\\.…\\.…"
+
+#. ID 85, Page 1, Line 26, Pos (5,27)
+#. ID 108, Page 1, Line 13, Pos (13,31)
+#. ID 109, Page 1, Line 11, Pos (5,33)
+msgid ""
+"\n"
+"看板を裏から読んでも、仕方が無い\\.…\\.…"
+msgstr "就算从背面读招牌，也没有用\\.…\\.…"
+
+#. ID 86, Page 1, Line 4, Pos (6,27)
+#. Contains choice at line 3 (2 options)
+#. ID 92, Page 1, Line 3, Pos (12,27)
+#. Contains choice at line 3 (2 options)
+#. ID 93, Page 1, Line 3, Pos (6,29)
+#. Contains choice at line 3 (2 options)
+#. ID 96, Page 1, Line 4, Pos (9,29)
+#. Contains choice at line 3 (2 options)
+#. ID 102, Page 1, Line 4, Pos (7,31)
+#. Contains choice at line 3 (2 options)
+#. ID 107, Page 1, Line 3, Pos (12,31)
+#. Contains choice at line 3 (2 options)
+#. ID 110, Page 1, Line 3, Pos (6,33)
+#. Contains choice at line 3 (2 options)
+#. ID 115, Page 1, Line 4, Pos (11,33)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"レバーがある。"
+msgstr "有一个拉杆。"
+
+#. ID 86, Page 1, Line 6, Pos (6,27)
+#. Choice (2 options, embedded in a message)
+#. ID 96, Page 1, Line 6, Pos (9,29)
+#. Choice (2 options, embedded in a message)
+#. ID 102, Page 1, Line 6, Pos (7,31)
+#. Choice (2 options, embedded in a message)
+#. ID 115, Page 1, Line 6, Pos (11,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"レバーを下ろす\n"
+"操作はしない"
+msgstr ""
+"拉下拉杆\n"
+"不操作"
+
+#. ID 86, Page 1, Line 11, Pos (6,27)
+msgid ""
+"\n"
+"\\.…\\.…\\.あれ？\\.\\.　これ、作り物みたい。"
+msgstr "\\.…\\.…\\.咦？\\.\\.　这个，好像是假的。"
+
+#. ID 86, Page 1, Line 22, Pos (6,27)
+#. ID 96, Page 1, Line 40, Pos (9,29)
+#. ID 96, Page 2, Line 11, Pos (9,29)
+#. ID 102, Page 1, Line 22, Pos (7,31)
+#. ID 102, Page 2, Line 11, Pos (7,31)
+#. ID 115, Page 1, Line 22, Pos (11,33)
+#. ID 115, Page 2, Line 11, Pos (11,33)
+msgid ""
+"\n"
+"壁を眺めていても、しょうがないよね。"
+msgstr "就算盯着墙壁看，也没办法吧。"
+
+#. ID 87, Page 1, Line 4, Pos (7,27)
+#. ID 87, Page 2, Line 4, Pos (7,27)
+#. ID 99, Page 1, Line 4, Pos (12,29)
+#. ID 101, Page 1, Line 4, Pos (6,31)
+msgid ""
+"\n"
+"何も入っていないみたい。"
+msgstr "里面好像什么都没装。"
+
+#. ID 87, Page 1, Line 11, Pos (7,27)
+msgid ""
+"\n"
+"裏側を見てもしょうが\\.…\\.…\\.あれ？\\.\\.\n"
+"よく見たら、木目に紛れてボタンがあるよ。"
+msgstr ""
+"就算看背面也没用\\.…\\.…\\.咦？\\.\\.仔细一看，\n"
+"木纹中混着一个按钮哦。"
+
+#. ID 87, Page 1, Line 14, Pos (7,27)
+#. Contains choice at line 3 (2 options)
+#. ID 98, Page 1, Line 14, Pos (11,29)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"これは\\.…\\.…\\.\\."
+msgstr "这是\\.…\\.…\\.\\."
+
+#. ID 87, Page 1, Line 16, Pos (7,27)
+#. Choice (2 options, embedded in a message)
+#. ID 98, Page 1, Line 16, Pos (11,29)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"押すべき\n"
+"押してはいけない"
+msgstr ""
+"应该按\n"
+"不可以按"
+
+#. ID 87, Page 1, Line 18, Pos (7,27)
+#. ID 98, Page 1, Line 18, Pos (11,29)
+#. ID 104, Page 1, Line 14, Pos (9,31)
+msgid ""
+"\n"
+"ポチッと。"
+msgstr "按一下。"
+
+#. ID 87, Page 1, Line 33, Pos (7,27)
+#. ID 98, Page 1, Line 33, Pos (11,29)
+msgid ""
+"\n"
+"やめておこう。"
+msgstr "还是算了吧。"
+
+#. ID 87, Page 2, Line 8, Pos (7,27)
+#. ID 98, Page 2, Line 8, Pos (11,29)
+msgid ""
+"\n"
+"もうスイッチを操作する必要はないよね。"
+msgstr "已经没必要操作开关了吧。"
+
+#. ID 88, Page 1, Line 3, Pos (8,27)
+#. ID 97, Page 1, Line 3, Pos (10,29)
+msgid ""
+"\n"
+"ただのタルみたい。"
+msgstr "好像只是个桶。"
+
+#. ID 89, Page 1, Line 3, Pos (9,27)
+#. ID 98, Page 1, Line 4, Pos (11,29)
+#. ID 98, Page 2, Line 4, Pos (11,29)
+#. ID 116, Page 1, Line 3, Pos (12,33)
+msgid ""
+"\n"
+"ただの木箱みたい。"
+msgstr "好像只是个木箱。"
+
+#. ID 90, Page 1, Line 4, Pos (10,27)
+#. ID 94, Page 1, Line 4, Pos (7,29)
+#. ID 105, Page 1, Line 4, Pos (10,31)
+#. ID 112, Page 1, Line 4, Pos (8,33)
+msgid ""
+"\n"
+"特に興味をひかれる本は無い。"
+msgstr "没有什么特别吸引我兴趣的书。"
+
+#. ID 90, Page 1, Line 11, Pos (10,27)
+#. ID 91, Page 1, Line 53, Pos (11,27)
+#. ID 94, Page 1, Line 11, Pos (7,29)
+#. ID 95, Page 1, Line 44, Pos (8,29)
+#. ID 99, Page 1, Line 11, Pos (12,29)
+#. ID 101, Page 1, Line 11, Pos (6,31)
+#. ID 105, Page 1, Line 11, Pos (10,31)
+#. ID 106, Page 1, Line 78, Pos (11,31)
+#. ID 111, Page 1, Line 71, Pos (7,33)
+#. ID 112, Page 1, Line 11, Pos (8,33)
+#. ID 113, Page 1, Line 19, Pos (9,33)
+msgid ""
+"\n"
+"裏側を見てもしょうがないよね。"
+msgstr "看背面也没用吧。"
+
+#. ID 91, Page 1, Line 4, Pos (11,27)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"題名の書かれていない、黒い背表紙の本がある。\\.\\."
+msgstr "有一本没有写书名、黑色书脊的书。\\.\\."
+
+#. ID 91, Page 1, Line 6, Pos (11,27)
+#. Choice (2 options, embedded in a message)
+#. ID 95, Page 1, Line 6, Pos (8,29)
+#. Choice (2 options, embedded in a message)
+#. ID 106, Page 1, Line 6, Pos (11,31)
+#. Choice (2 options, embedded in a message)
+#. ID 111, Page 1, Line 6, Pos (7,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"中を見ちゃう\n"
+"手を出さない"
+msgstr ""
+"看看里面\n"
+"不碰它"
+
+#. ID 91, Page 1, Line 8, Pos (11,27)
+#. ID 95, Page 1, Line 8, Pos (8,29)
+#. ID 106, Page 1, Line 8, Pos (11,31)
+#. ID 111, Page 1, Line 8, Pos (7,33)
+msgid ""
+"\n"
+"見ちゃえっ。"
+msgstr "看吧。"
+
+#. ID 91, Page 1, Line 39, Pos (11,27)
+msgid ""
+"\n"
+"生命力を吸い取られてしまった。"
+msgstr "生命力被吸走了。"
+
+#. ID 91, Page 1, Line 44, Pos (11,27)
+#. ID 95, Page 1, Line 35, Pos (8,29)
+#. ID 106, Page 1, Line 69, Pos (11,31)
+#. ID 111, Page 1, Line 62, Pos (7,33)
+msgid ""
+"\n"
+"開かないでおこう。"
+msgstr "还是不打开吧。"
+
+#. ID 92, Page 1, Line 5, Pos (12,27)
+#. Choice (2 options, embedded in a message)
+#. ID 93, Page 1, Line 5, Pos (6,29)
+#. Choice (2 options, embedded in a message)
+#. ID 107, Page 1, Line 5, Pos (12,31)
+#. Choice (2 options, embedded in a message)
+#. ID 110, Page 1, Line 5, Pos (6,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"レバーを倒す\n"
+"操作はしない"
+msgstr ""
+"扳下拉杆\n"
+"不操作"
+
+#. ID 92, Page 2, Line 3, Pos (12,27)
+#. ID 93, Page 2, Line 3, Pos (6,29)
+#. ID 96, Page 2, Line 4, Pos (9,29)
+#. ID 102, Page 2, Line 4, Pos (7,31)
+#. ID 110, Page 2, Line 3, Pos (6,33)
+#. ID 115, Page 2, Line 4, Pos (11,33)
+msgid ""
+"\n"
+"もうレバーを操作する必要はないよね。"
+msgstr "已经没必要操作拉杆了吧。"
+
+#. ID 95, Page 1, Line 4, Pos (8,29)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"題名の書かれていない、白い背表紙の本がある。\\.\\."
+msgstr "有一本没有写书名、白色书脊的书。\\.\\."
+
+#. ID 95, Page 1, Line 28, Pos (8,29)
+msgid ""
+"\n"
+"何か得体のしれないものに、絡みつかれてしまった。"
+msgstr "被某种来路不明的东西缠住了。"
+
+#. ID 96, Page 1, Line 21, Pos (9,29)
+msgid ""
+"\n"
+"\\.…\\.…\\.ガスが止まったみたい。"
+msgstr "\\.…\\.…\\.瓦斯好像停了。"
+
+#. ID 98, Page 1, Line 11, Pos (11,29)
+msgid ""
+"\n"
+"ただの木箱\\.…\\.…\\.あれ？\\.\\.\n"
+"よく見たら、木目に紛れてボタンがあるよ。"
+msgstr ""
+"只是个木箱\\.…\\.…\\.咦？\\.\\.仔细一看，\n"
+"木纹里藏着一个按钮。"
+
+#. ID 100, Page 1, Line 4, Pos (13,29)
+msgid ""
+"\\c[6]クックックッ。\n"
+"\n"
+"徐々に自分が壊れていく様を、\n"
+"存分に愉しむといいぜ。"
+msgstr ""
+"\\c[6]呵呵呵。\n"
+"你就尽情享受自己逐渐坏掉的样子吧。"
+
+#. ID 100, Page 1, Line 13, Pos (13,29)
+msgid ""
+"\\c[7]おや、あんた。\n"
+"よく気が付いたねぇ。\n"
+"\n"
+"折角だから、良い事を教えてあげるよっ。"
+msgstr ""
+"\\c[7]哦呀，你。观察得真仔细呢。难得，\n"
+"就告诉你一件好事吧。"
+
+#. ID 100, Page 1, Line 17, Pos (13,29)
+msgid ""
+"\\c[7]上から３番目のタル。\n"
+"右から３番目の棚の裏。\n"
+"下から３番目の木箱の裏。\n"
+"左から３番目の壁のレバー。"
+msgstr ""
+"\\c[7]从上往下第3个桶。\n"
+"从右往左第3个架子的后面。\n"
+"从下往上第3个木箱的后面。\n"
+"从左往右第3面墙的拉杆。"
+
+#. ID 103, Page 1, Line 3, Pos (8,31)
+#. ID 114, Page 1, Line 3, Pos (10,33)
+#. ID 114, Page 2, Line 3, Pos (10,33)
+msgid ""
+"\n"
+"ただのタル\\.…\\.…\\.あれ？"
+msgstr "只是个桶\\.…\\.…\\.咦？"
+
+#. ID 103, Page 1, Line 5, Pos (8,31)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"よく見たら、フタが回せるようになってるみたい。"
+msgstr "仔细一看，盖子好像能转动。"
+
+#. ID 103, Page 1, Line 7, Pos (8,31)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"回してみる\n"
+"回さない"
+msgstr ""
+"试着转动\n"
+"不转动"
+
+#. ID 103, Page 1, Line 22, Pos (8,31)
+msgid ""
+"\n"
+"やめておきましょ。"
+msgstr "还是算了吧。"
+
+#. ID 103, Page 2, Line 3, Pos (8,31)
+msgid ""
+"\n"
+"もうこの仕掛けを操作する必要は無いよね。"
+msgstr "已经没必要操作这个机关了吧。"
+
+#. ID 104, Page 1, Line 3, Pos (9,31)
+msgid ""
+"\n"
+"ただの木箱じゃないみたい。"
+msgstr "好像不是普通的木箱。"
+
+#. ID 104, Page 1, Line 5, Pos (9,31)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"あっ、よく見たらボタンが付いてる。"
+msgstr "啊，仔细一看，上面有个按钮。"
+
+#. ID 104, Page 1, Line 7, Pos (9,31)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ボタンを押してみる\n"
+"余計な事はしない"
+msgstr ""
+"试着按下按钮\n"
+"不做多余的事"
+
+#. ID 104, Page 1, Line 45, Pos (9,31)
+msgid ""
+"\n"
+"墓標には、\n"
+"愚かな泥棒、ここに眠ると刻まれていた\\.…\\.…"
+msgstr "墓碑上刻着：愚蠢的小偷，长眠于此\\.…\\.…"
+
+#. ID 104, Page 1, Line 53, Pos (9,31)
+#. ID 114, Page 1, Line 80, Pos (10,33)
+#. ID 114, Page 2, Line 59, Pos (10,33)
+msgid ""
+"\n"
+"こんな事、している場合じゃないよね。"
+msgstr "现在不是做这种事的时候吧。"
+
+#. ID 106, Page 1, Line 4, Pos (11,31)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"題名の書かれていない、青い背表紙の本がある。\\.\\."
+msgstr "有一本没有写书名、蓝色书脊的书。\\.\\."
+
+#. ID 106, Page 1, Line 64, Pos (11,31)
+#. ID 111, Page 1, Line 57, Pos (7,33)
+msgid ""
+"\n"
+"開くと発動する呪文書だったようだ。"
+msgstr "看来是打开就会发动的咒文书。"
+
+#. ID 108, Page 1, Line 4, Pos (13,31)
+msgid ""
+"\\c[6]ちなみに手順を間違えると、\n"
+"一からやり直しな上に、ガスの量も上がるのだ。\n"
+"\n"
+"どうだ、怖いだろう。　恐ろしいだろう。"
+msgstr ""
+"\\c[6]顺便一提，如果步骤弄错，不仅要从头再来，\n"
+"瓦斯量还会上升。怎么样，可怕吧。　恐怖吧。"
+
+#. ID 109, Page 1, Line 4, Pos (5,33)
+msgid ""
+"\n"
+"　　　　　　　　　　は　ず　れ"
+msgstr "　　　　　　　　　　不　中"
+
+#. ID 111, Page 1, Line 4, Pos (7,33)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"題名の書かれていない、赤い背表紙の本がある。\\.\\."
+msgstr "有一本没有写书名、红色书脊的书。\\.\\."
+
+#. ID 113, Page 1, Line 4, Pos (9,33)
+msgid ""
+"あ、缶詰がある。\\.\\.\n"
+"\n"
+"文字が読みにくいけど\\.…\\.…\\.えっと\\.…\\.…\\.\n"
+"しゅ\\.、う\\.る\\.…\\.…\\.す、\\.と\\.れ、\\.み\\.ん\\.ぐ？"
+msgstr ""
+"啊，有罐头。\\.\\.文字很难读，不过\\.…\\.…\\.嗯\\.…\n"
+"\\.…\\.舒\\.、乌\\.尔\\.…\\.…\\.斯、\\.特\\.雷、\n"
+"\\.米\\.恩\\.古？"
+
+#. ID 113, Page 1, Line 12, Pos (9,33)
+msgid ""
+"\n"
+"これは開けちゃいけない気がする。"
+msgstr "感觉这个不能打开。"
+
+#. ID 114, Page 1, Line 5, Pos (10,33)
+#. ID 114, Page 2, Line 5, Pos (10,33)
+msgid ""
+"\n"
+"よく見たら、側面に穴がいくつもある\\.…\\.…\\.\\.\n"
+"あ、木のナイフも見つけた。"
+msgstr ""
+"仔细一看，侧面有好几个洞\\.…\\.…\\.\\.啊，\n"
+"还发现了木刀。"
+
+#. ID 114, Page 1, Line 8, Pos (10,33)
+#. Contains choice at line 3 (2 options)
+#. ID 114, Page 2, Line 8, Pos (10,33)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"この穴に挿しこむのかな？"
+msgstr "是要插进这个洞里吗？"
+
+#. ID 114, Page 1, Line 10, Pos (10,33)
+#. Choice (2 options, embedded in a message)
+#. ID 114, Page 2, Line 10, Pos (10,33)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ナイフを挿しこんでみる\n"
+"余計な事はしない"
+msgstr ""
+"试着插入小刀\n"
+"不做多余的事"
+
+#. ID 114, Page 1, Line 12, Pos (10,33)
+#. ID 114, Page 2, Line 12, Pos (10,33)
+msgid "ぷすっと。"
+msgstr "噗嗤。"
+
+#. ID 114, Page 1, Line 29, Pos (10,33)
+msgid ""
+"\n"
+"ガスの勢いが弱くなったみたい。"
+msgstr "瓦斯的势头好像变弱了。"
+
+#. ID 114, Page 1, Line 37, Pos (10,33)
+#. ID 114, Page 2, Line 22, Pos (10,33)
+msgid ""
+"\n"
+"\\.…\\.…\\.何も変わらない\\.…\\.…？"
+msgstr "\\.…\\.…\\.什么都没变\\.…\\.…？"
+
+#. ID 114, Page 1, Line 72, Pos (10,33)
+#. ID 114, Page 2, Line 51, Pos (10,33)
+msgid ""
+"\n"
+"吹っ飛んだタルの蓋が、\n"
+"\\n[\\v[6]]のアゴを直撃した。"
+msgstr "飞出去的桶盖，\\n[\\v[6]]的下巴被直接击中。"
+
+#. ID 120, Page 2, Line 50, Pos (2,0)
+msgid ""
+"\n"
+"ガスの勢いが強くなってしまった。"
+msgstr "瓦斯的势头变强了。"
+
+#. ID 120, Page 3, Line 3, Pos (2,0)
+msgid ""
+"\n"
+"もう、余りもたないかも\\.…\\.…\\.\\.\\^"
+msgstr "已经，可能撑不了多久了\\.…\\.…\\.\\.\\^"
+
+#. ID 120, Page 5, Line 24, Pos (2,0)
+msgid ""
+"\n"
+"\\s[12]………\\.\\.\n"
+"ああ……もう…だめ……\\.\\.\\^"
+msgstr "\\s[12]………\\.\\.啊啊……已经…不行了……\\.\\.\\^"
+
+#. ID 120, Page 5, Line 31, Pos (2,0)
+msgid ""
+"毒に思考を溶かされ、\n"
+"身体の疼きに耐えられなくなった\n"
+"\\n[\\v[6]]は床にへたりこむ。\\|\\^"
+msgstr ""
+"思考被毒液融化，\n"
+"身体疼得再也忍受不住的\\n[\\v[6]]瘫坐在地上。\n"
+"\\|\\^"
+
+#. ID 120, Page 5, Line 34, Pos (2,0)
+msgid ""
+"\n"
+"そして、身体が求めるままに\\.…\\.…\\.\\.\\^"
+msgstr "然后，任由身体所求地\\.…\\.…\\.\\.\\^"
+
+#. ID 120, Page 5, Line 47, Pos (2,0)
+msgid ""
+"\n"
+"\\s[12]……………。\\.\\.\\^"
+msgstr ""
+"\n"
+"\\s[12]……………。\\.\\.\\^"
+
+#. ID 120, Page 5, Line 50, Pos (2,0)
+msgid ""
+"\n"
+"しかし、両手を拘束されていたため、\n"
+"\\n[\\v[6]]は身体を慰めることができなかった\\.…\\.…\\.\\.\\^"
+msgstr ""
+"但是，由于双手被拘束，\\n[\\v[6]]无法自慰\\.…\n"
+"\\.…\\.\\.\\^"
+
+#. ID 120, Page 5, Line 63, Pos (2,0)
+msgid ""
+"\\S[2]＊\\n[\\v[6]]は熱いため息を漏らし、\n"
+"　ゆっくりとその弱点を厚いラバー越しに\n"
+"　指でなぞり始めた\\.…\\.…\\.\\.\\^"
+msgstr ""
+"\\S[2]＊\\n[\\v[6]]呼出火热的气息，\n"
+"　隔着厚厚的橡胶　慢慢开始用手指描摹那个弱点\\.\n"
+"　…\\.…\\.\\.\\^"
+
+#. ID 120, Page 5, Line 73, Pos (2,0)
+msgid ""
+"＊身体をギチギチに締め付けて、\n"
+"　全身に纏わりつく生体ラバーの感触が\n"
+"　最高に気持ちイイ\\.…\\.…\\.\\.\\^"
+msgstr ""
+"＊紧紧勒住身体，\n"
+"　缠绕全身的生体橡胶触感　最舒服了\\.…\\.…\\.\\.\\^"
+
+#. ID 120, Page 5, Line 78, Pos (2,0)
+msgid ""
+"＊\\n[\\v[6]]の身体をギチギチに圧縮し、\n"
+"　外界の触覚を遮断する生体ラバーが\n"
+"　感触を薄め、切なさを募らせる\\.…\\.…\\.\\.\\^"
+msgstr ""
+"＊\\n[\\v[6]]的身体被紧紧压缩，\n"
+"　隔绝外界触觉的生体橡胶　让触感变淡，\n"
+"　令苦闷愈发强烈\\.…\\.…\\.\\.\\^"
+
+#. ID 120, Page 5, Line 111, Pos (2,0)
+msgid ""
+"\n"
+"\\.…\\.…\\.直接性器に触れることができず、\n"
+"ほとんど快楽を得ることが出来なかった。\\|\\^"
+msgstr ""
+"\\.…\\.…\\.无法直接触碰性器，几乎无法获得快感。\n"
+"\\|\\^"
+
+#. ID 120, Page 5, Line 117, Pos (2,0)
+msgid ""
+"\\.…\\.…\\.直接性器に触れられずもどかしい。\\.\\.\n"
+"\\N[\\V[6]]は、自分の性器とラバーを\n"
+"思い切り擦り合わせた。\\|\\^"
+msgstr ""
+"\\.…\\.…\\.无法直接触碰性器，令人焦躁。\\.\\.\\N[\\V[6]]把自己的性器和\n"
+"　橡胶狠狠摩擦在一起。\\|\\^"
+
+#. ID 120, Page 5, Line 148, Pos (2,0)
+msgid ""
+"\n"
+"\\.…\\.…\\.こんなことをしているのに、\n"
+"なぜか気持ちよさを覚えた。\\|\\^"
+msgstr ""
+"\\.…\\.…\\.明明在做这种事，却不知为何感到了快感。\n"
+"\\|\\^"
+
+#. ID 120, Page 5, Line 154, Pos (2,0)
+msgid ""
+"\n"
+"性器とラバーが擦れる度に、\\N[\\V[6]]は\n"
+"いつもよりも強い快楽を味わっていた。\\|\\^"
+msgstr ""
+"每当性器和橡胶摩擦时，\n"
+"\\N[\\V[6]]都体会到比平时更强烈的快感。\\|\\^"
+
+#. ID 120, Page 5, Line 157, Pos (2,0)
+msgid ""
+"やがて行為に疲れた\\N[\\V[6]]は静かに息を吐き、\n"
+"そのラバースーツに包まれた身体を\n"
+"愛おしそうに抱きしめた。\\|\\^"
+msgstr ""
+"不久，因行为而疲惫的\\N[\\V[6]]静静吐出一口气，\n"
+"怜爱地抱紧了自己被橡胶服包裹的身体。\\|\\^"
+
+#. ID 120, Page 5, Line 169, Pos (2,0)
+msgid ""
+"\\S[2]\n"
+"＊\\n[\\v[6]]は熱いため息を漏らし、\n"
+"　ゆっくりと服を脱ぎ始めた\\.…\\.…\\.\\.\\^"
+msgstr ""
+"\\S[2]＊\\n[\\v[6]]呼出火热的气息，\n"
+"　慢慢开始脱衣服\\.…\\.…\\.\\.\\^"
+
+#. ID 120, Page 5, Line 174, Pos (2,0)
+msgid ""
+"\\S[2]\n"
+"＊\\n[\\v[6]]は熱いため息を漏らし、\n"
+"　ゆっくりとその弱点を指でなぞり始めた\\.…\\.…\\.\\.\\^"
+msgstr ""
+"\\S[2]＊\\n[\\v[6]]呼出火热的气息，\n"
+"　慢慢开始用手指描摹那个弱点\\.…\\.…\\.\\.\\^"
+
+#. ID 120, Page 5, Line 187, Pos (2,0)
+msgid ""
+"\\n[\\v[6]]は、おずおずと茸を手に取った……\n"
+"\\.先端に、巨大な“かえし”が付いている。\n"
+"\\.\\n[\\v[6]]はごくりと唾を飲み込んだ。"
+msgstr ""
+"\\n[\\v[6]]战战兢兢地拿起蘑菇……\n"
+"\\.前端长着巨大的「倒钩」。\n"
+"\\.\\n[\\v[6]]咽了口唾沫。"
+
+#. ID 120, Page 5, Line 193, Pos (2,0)
+msgid ""
+"\\n[\\v[6]]は、おずおずと茸を手に取った……\n"
+"\\.表面をびっしりと疣に覆われたそれは、\n"
+"体液を吸い取って、より凶悪に膨れ上がっていくのだ。\n"
+"\\.\\n[\\v[6]]はごくりと唾を飲み込んだ。"
+msgstr ""
+"\\n[\\v[6]]战战兢兢地拿起蘑菇……\n"
+"\\.表面密密麻麻覆盖着疣的它，会吸走体液，\n"
+"愈发凶恶地膨胀起来。\\.\\n[\\v[6]]咽了口唾沫。"
+
+#. ID 120, Page 5, Line 200, Pos (2,0)
+msgid ""
+"\\n[\\v[6]]は、おずおずと茸を手に取った……\n"
+"\\.根元の部分から、もう１本の細い首が\n"
+"微妙に角度を変えて生えている。\n"
+"\\.\\n[\\v[6]]はごくりと唾を飲み込んだ。"
+msgstr ""
+"\\n[\\v[6]]战战兢兢地拿起蘑菇……\\.从根部的位置，\n"
+"另一根细茎以微妙的角度改变方向长了出来。\n"
+"\\.\\n[\\v[6]]咽了口唾沫。"
+
+#. ID 120, Page 5, Line 216, Pos (2,0)
+msgid ""
+"その茸を秘所に宛がおうとするが、あらゆるもの\n"
+"から貞操を守る貞操帯により阻まれてしまった…"
+msgstr ""
+"想要将那菌菇抵向秘处，\n"
+"却被守护一切贞操的贞操带所阻挡…"
+
+#. ID 120, Page 5, Line 222, Pos (2,0)
+msgid ""
+"しかたなく茸を手から離し、\\n[\\v[6]]は\n"
+"自分の指で他の箇所を弄っていった…"
+msgstr ""
+"无奈之下将菌菇从手中放开，\n"
+"\\n[\\v[6]]用自己的手指抚弄起其他部位…"
+
+#. ID 120, Page 5, Line 231, Pos (2,0)
+msgid ""
+"しかし\\n[\\v[6]]の胸には金属の貞操帯が\n"
+"あり胸で快楽を得ることはできない！"
+msgstr ""
+"然而\\n[\\v[6]]的胸部戴着金属贞操带，\n"
+"无法从胸部获得快感！"
+
+#. ID 120, Page 5, Line 237, Pos (2,0)
+#. ID 120, Page 5, Line 313, Pos (2,0)
+msgid ""
+"全身の性感帯を厳しく管理されていて\n"
+"\\n[\\v[6]]は達することができない…"
+msgstr ""
+"全身的性感带被严格管理着，\n"
+"\\n[\\v[6]]无法达到高潮…"
+
+#. ID 120, Page 5, Line 243, Pos (2,0)
+#. ID 120, Page 5, Line 319, Pos (2,0)
+#. ID 120, Page 5, Line 425, Pos (2,0)
+msgid ""
+"決して満足できない管理された性行為に\n"
+"\\n[\\v[6]]はただ悶えるしかなかった…"
+msgstr ""
+"对于绝无法满足的被管理的性行为，\n"
+"\\n[\\v[6]]只能痛苦地扭动身体…"
+
+#. ID 120, Page 5, Line 306, Pos (2,0)
+msgid ""
+"しかし、金属の貞操帯で全性感帯を\n"
+"封印されていたため、\\n[\\v[6]]は\n"
+"身体を慰めることができない！"
+msgstr ""
+"但是，由于所有性感带都被金属贞操带封印，\n"
+"\\n[\\v[6]]无法自慰！"
+
+#. ID 120, Page 5, Line 340, Pos (2,0)
+msgid ""
+"刺激を欲しようと\\n[\\v[6]]は\n"
+"リモートコントローラを操作しようとしたが、\n"
+"リモートコントローラはご主人様以外には\n"
+"操作できないようになっている….\\.\\.\\.\\^"
+msgstr ""
+"为了渴求刺激，\\n[\\v[6]]试图操作遥控器，\n"
+"但遥控器被设定为除主人以外无法操作….\\.\\.\\.\\^"
+
+#. ID 120, Page 5, Line 346, Pos (2,0)
+msgid ""
+"\\.刺激を欲するあまり、\\n[\\v[6]]は\n"
+"\\.リモートコントローラを操作して、\n"
+"\\.貞操帯の責め具を起動させてしまった…"
+msgstr ""
+"\\.由于过于渴求刺激，\\n[\\v[6]]\\.操作了遥控器，\n"
+"\\.启动了贞操带的责具…"
+
+#. ID 120, Page 5, Line 394, Pos (2,0)
+msgid "……"
+msgstr "……"
+
+#. ID 120, Page 5, Line 401, Pos (2,0)
+msgid "後もう少しでイケそうなのにイケない！！"
+msgstr "明明还差一点就能去了，却去不了！！"
+
+#. ID 120, Page 5, Line 406, Pos (2,0)
+msgid ""
+"性感帯を厳しく管理されていて\n"
+"\\n[\\v[6]]は達することができない…"
+msgstr "性感带被严格管理着，\\n[\\v[6]]无法达到高潮…"
+
+#. ID 120, Page 5, Line 414, Pos (2,0)
+msgid "………………\\.\\.\\.\\^！！\\.\\^"
+msgstr "………………\\.\\.\\.\\^！！\\.\\^"
+
+#. ID 120, Page 5, Line 423, Pos (2,0)
+msgid ""
+"火照りがようやく収まりかけてきた途端、\n"
+"再び貞操帯が責め立ててきた…！"
+msgstr ""
+"灼热感好不容易快要平息下来，\n"
+"贞操带却再次开始责弄起来…！"
+
+#. ID 120, Page 5, Line 475, Pos (2,0)
+msgid ""
+"\n"
+"\\s[12]…あ……は……\\.\\.\n"
+"もっと……するの………\\.\\.\\^"
+msgstr "\\s[12]…啊……哈……\\.\\.还要……做更多………\\.\\.\\^"
+
+#. ID 120, Page 5, Line 501, Pos (2,0)
+msgid ""
+"\n"
+"その後\\n[\\v[6]]は、\n"
+"力尽きるその時まで、自らを慰め続けたのであった。\\|\\^"
+msgstr ""
+"在那之后，\\n[\\v[6]]直到筋疲力尽的那一刻，\n"
+"都一直持续自慰。\\|\\^"
+
+#. ID 120, Page 5, Line 522, Pos (2,0)
+msgid ""
+"\\s[12]…う……く……\\.\\.\n"
+"イキたい……よぉ……\\.\\.\n"
+"おか…しく……なっちゃ…う……\\.\\.\\^"
+msgstr ""
+"\\s[12]…呜……唔……\\.\\.想去……啊……\\.\\.要变得…奇怪……\n"
+"了……\\.\\.\\^"
+
+#. ID 120, Page 5, Line 544, Pos (2,0)
+msgid ""
+"\n"
+"力尽きるその時まで\\n[\\v[6]]は、\n"
+"身体の疼きに悩まされ続けるのであった。\\|\\|\\^"
+msgstr ""
+"直到筋疲力尽的那一刻，\n"
+"\\n[\\v[6]]都一直为身体的疼痒所困扰。\\|\\|\\^"

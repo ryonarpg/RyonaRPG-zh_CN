@@ -1,0 +1,66 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 23, Page 2, Line 10, Pos (2,20)
+#. ID 23, Page 2, Line 32, Pos (2,20)
+msgid "\\N[101]\\N[102]\\N[103]\\N[104]を２個手に入れた。"
+msgstr "\\N[101]\\N[102]\\N[103]\\N[104]获得了2个。"
+
+#. ID 23, Page 2, Line 19, Pos (2,20)
+#. ID 23, Page 2, Line 41, Pos (2,20)
+msgid "\\N[101]\\N[102]\\N[103]\\N[104]を５個手に入れた。"
+msgstr "\\N[101]\\N[102]\\N[103]\\N[104]获得了5个。"
+
+#. ID 23, Page 3, Line 3, Pos (2,20)
+msgid ""
+"\n"
+"何も入っていない……"
+msgstr "里面什么也没有……"
+
+#. ID 24, Page 3, Line 13, Pos (36,36)
+#. ID 29, Page 2, Line 13, Pos (37,36)
+#. ID 30, Page 2, Line 13, Pos (38,36)
+msgid ""
+"\n"
+"……\n"
+"……ここから下へ飛び降りれそうだ。"
+msgstr "…………看来可以从这里向下跳下去。"
+
+#. ID 24, Page 3, Line 16, Pos (36,36)
+#. Contains choice at line 2 (2 options)
+#. ID 29, Page 2, Line 16, Pos (37,36)
+#. Contains choice at line 2 (2 options)
+#. ID 30, Page 2, Line 16, Pos (38,36)
+#. Contains choice at line 2 (2 options)
+msgid "\\>飛び降りますか？"
+msgstr "\\>要跳下去吗？"
+
+#. ID 24, Page 3, Line 17, Pos (36,36)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 2, Line 17, Pos (37,36)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 2, Line 17, Pos (38,36)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>是\n"
+"\\>否"
+
+#. ID 26, Page 2, Line 52, Pos (2,0)
+msgid ""
+"\n"
+"…\\.…\\.びしょびしょになっちゃった。"
+msgstr "…\\.…\\.全身都湿透了。"

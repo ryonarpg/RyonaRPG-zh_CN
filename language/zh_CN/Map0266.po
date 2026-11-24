@@ -1,0 +1,62 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 43, Page 2, Line 3, Pos (19,29)
+msgid "カギが掛かっている。"
+msgstr "上了锁。"
+
+#. ID 44, Page 2, Line 3, Pos (5,20)
+msgid "……はぁ……はぁ……"
+msgstr "……哈啊……哈啊……"
+
+#. ID 44, Page 2, Line 8, Pos (5,20)
+msgid "もっとぉ……してぇ……"
+msgstr "再多……弄一点嘛……"
+
+#. ID 45, Page 2, Line 3, Pos (3,20)
+msgid "あっ…あっ………あああ…あああぁぁっっ！！！"
+msgstr "啊…啊………啊啊啊…啊啊啊啊啊！！！"
+
+#. ID 46, Page 2, Line 3, Pos (8,19)
+msgid "…意識がないようだ。"
+msgstr "……似乎没有意识。"
+
+#. ID 47, Page 2, Line 3, Pos (15,20)
+msgid ""
+"んっ…んっ…んうっ…ふっ…うっ……\n"
+"\n"
+"やだっ…いいっ…いいよぉっ…あぐっ…気持ちいいっ…"
+msgstr "嗯…嗯…嗯唔…呼…唔……不要…好…好舒服…啊咕…好舒服…"
+
+#. ID 48, Page 2, Line 3, Pos (6,19)
+msgid "既に話す気力もないらしい……"
+msgstr "似乎已经没有说话的气力了……"
+
+#. ID 49, Page 2, Line 3, Pos (12,19)
+msgid ""
+"うう……\n"
+"助けて…"
+msgstr "呜呜……救救我……"
+
+#. ID 57, Page 2, Line 3, Pos (14,19)
+msgid "かすかな振動音が、股間から聞こえる。"
+msgstr "从胯间传来微弱的振动声。"
+
+#. ID 57, Page 2, Line 4, Pos (14,19)
+msgid ""
+"よほど長時間責められたのだろうか、\n"
+"あふれだした愛液が内股を伝って床に広がっている。"
+msgstr ""
+"大概是被折磨了很长时间吧，\n"
+"溢出的爱液顺着大腿内侧流到地板上。"

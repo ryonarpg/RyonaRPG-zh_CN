@@ -1,0 +1,48 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 3, Pos (14,7)
+msgid ""
+"お願いですぅぅぅ……\n"
+"おま○こに、ちんぽ突っ込んでぇぇ……！\n"
+"はやくぅぅぅ！"
+msgstr "求求你了……把鸡巴插进我的小○里……！快点！"
+
+#. ID 23, Page 2, Line 3, Pos (14,6)
+msgid "……アンタはここの街の女じゃねえみたいだな"
+msgstr "……你好像不是这座城市的女人啊"
+
+#. ID 23, Page 2, Line 4, Pos (14,6)
+msgid ""
+"アンタも相当の美人だが……\n"
+"此処にはこういう風に、自分から股開いてやってくる\n"
+"女が大勢いるんだ。"
+msgstr ""
+"你也相当漂亮……\n"
+"不过这里有很多像这样自己张开腿送上门的女人。"
+
+#. ID 23, Page 2, Line 7, Pos (14,6)
+msgid ""
+"孔はいくらでもある……ってことだ。\n"
+"だから、俺らがアンタを襲うつもりはないぜ……\n"
+"……妙な話だがな。"
+msgstr ""
+"洞要多少有多少……就是这么回事。所以，\n"
+"我们并不打算袭击你…………虽然这事有点奇怪。"
+
+#. ID 24, Page 2, Line 3, Pos (15,7)
+msgid ""
+"お……俺、こんな風に女の人におねだりされたの\n"
+"初めてだ……ブワッ"
+msgstr "我……我还是第一次被女人这样央求……噗哇"

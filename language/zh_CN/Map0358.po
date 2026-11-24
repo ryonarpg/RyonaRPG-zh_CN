@@ -1,0 +1,54 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 3, Pos (9,11)
+msgid "「ここはガラクタ置き場…いやゴミ捨て場だな」"
+msgstr "「这里是堆放破烂的地方……不，是垃圾场啊」"
+
+#. ID 1, Page 1, Line 5, Pos (9,11)
+msgid ""
+"「ガキ？　ああ、さっき見たな\n"
+"　そこの穴からいつもどこかにいきやがる」"
+msgstr ""
+"「小鬼？　啊，\n"
+"　刚才看到了　总是从那个洞跑到什么地方去」"
+
+#. ID 1, Page 1, Line 9, Pos (9,11)
+#. ID 1, Page 1, Line 15, Pos (9,11)
+#. ID 1, Page 1, Line 21, Pos (9,11)
+msgid ""
+"「……おチビちゃんなら追いかけられそうだな\n"
+"　何処に通じてるのか知らないが、こんな街だ\n"
+"　危ない事は止めるように言っておいてくれ」"
+msgstr ""
+"「……\n"
+"　如果是小不点的话应该能追上\n"
+"　虽然不知道通向哪里，\n"
+"　但这可是这种城市啊　请告诉他别做危险的事」"
+
+#. ID 1, Page 1, Line 26, Pos (9,11)
+msgid ""
+"「……お嬢さんには少々無理そうだな\n"
+"　いや悪い意味じゃない、ガキにしか無理な抜け穴さ」"
+msgstr ""
+"「……对小姐来说可能有点勉强　不，不是坏意思，\n"
+"　那是只有小孩才能钻的洞」"
+
+#. ID 1, Page 2, Line 3, Pos (9,11)
+msgid "「こんな老いぼれに……一体何を考えておるんだ」"
+msgstr "「对这样的老骨头……到底在想什么啊」"
+
+#. ID 4, Page 1, Line 3, Pos (3,7)
+msgid "子供になら通り抜けれそうな穴がある"
+msgstr "有个只有小孩才钻得过去的洞"

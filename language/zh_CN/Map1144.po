@@ -1,0 +1,90 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 14, Pos (14,49)
+#. ID 35, Page 2, Line 14, Pos (15,49)
+msgid "開かない。"
+msgstr "打不开。"
+
+#. ID 38, Page 2, Line 3, Pos (59,47)
+#. ID 38, Page 3, Line 3, Pos (59,47)
+msgid ""
+"石製のレバーがある。\n"
+"側面にはωの文字が彫り込まれている。"
+msgstr "有一个石制杆。侧面雕刻着ω的文字。"
+
+#. ID 38, Page 2, Line 5, Pos (59,47)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 3, Line 5, Pos (59,47)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを操作しますか？"
+msgstr "要操作杆吗？"
+
+#. ID 38, Page 2, Line 6, Pos (59,47)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 3, Line 6, Pos (59,47)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 38, Page 2, Line 18, Pos (59,47)
+#. ID 38, Page 3, Line 18, Pos (59,47)
+msgid "・・・何かが動いた音がした。"
+msgstr "・・・传来了什么东西动了一下的声音。"
+
+#. ID 39, Page 3, Line 3, Pos (42,45)
+#. ID 40, Page 3, Line 3, Pos (43,45)
+msgid ""
+"床から突き出した石柱が道を塞いでいる。\n"
+"石柱には大きくωという文字が彫り込まれている。"
+msgstr ""
+"从地面突起的石柱挡住了道路。\n"
+"石柱上雕刻着大大的ω字。"
+
+#. ID 296, Page 2, Line 3, Pos (0,16)
+#. ID 297, Page 2, Line 3, Pos (1,16)
+#. ID 298, Page 2, Line 3, Pos (2,16)
+#. ID 299, Page 2, Line 3, Pos (3,16)
+#. ID 300, Page 2, Line 3, Pos (0,17)
+#. ID 301, Page 2, Line 3, Pos (1,17)
+#. ID 302, Page 2, Line 3, Pos (2,17)
+#. ID 303, Page 2, Line 3, Pos (3,17)
+#. ID 304, Page 2, Line 3, Pos (0,18)
+#. ID 305, Page 2, Line 3, Pos (1,18)
+#. ID 306, Page 2, Line 3, Pos (2,18)
+#. ID 307, Page 2, Line 3, Pos (3,18)
+#. ID 308, Page 2, Line 3, Pos (0,19)
+#. ID 309, Page 2, Line 3, Pos (1,19)
+#. ID 310, Page 2, Line 3, Pos (2,19)
+#. ID 311, Page 2, Line 3, Pos (3,19)
+#. ID 312, Page 2, Line 3, Pos (0,20)
+#. ID 313, Page 2, Line 3, Pos (1,20)
+#. ID 314, Page 2, Line 3, Pos (2,20)
+#. ID 315, Page 2, Line 3, Pos (3,20)
+#. ID 316, Page 2, Line 3, Pos (0,22)
+#. ID 317, Page 2, Line 3, Pos (1,22)
+#. ID 318, Page 2, Line 3, Pos (2,22)
+#. ID 319, Page 2, Line 3, Pos (0,23)
+#. ID 320, Page 2, Line 3, Pos (1,23)
+#. ID 321, Page 2, Line 3, Pos (2,23)
+msgid ""
+"大きな海綿質のブロックだ。\n"
+"もし水の上に浮かべても沈まないだろう。"
+msgstr ""
+"是巨大的海绵质方块。\n"
+"即使放到水面上大概也不会沉吧。"

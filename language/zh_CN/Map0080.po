@@ -1,0 +1,99 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 9, Page 2, Line 3, Pos (11,4)
+msgid "ご主人様と一緒に来なさい。"
+msgstr "和主人一起来吧。"
+
+#. ID 10, Page 2, Line 3, Pos (15,4)
+msgid ""
+"いつの間に入り込んだんだ？\n"
+"ほら、しっしっ"
+msgstr "什么时候混进来的？喂，去去。"
+
+#. ID 11, Page 2, Line 3, Pos (19,4)
+msgid ""
+"あら、可愛い子ね。\n"
+"ご主人様はどこかしら？"
+msgstr "哎呀，真是个可爱的孩子。主人在哪里呢？"
+
+#. ID 12, Page 1, Line 3, Pos (26,7)
+msgid ""
+"むむむ、お前が持っているのは…\n"
+"『\\N[101]\\N[102]\\N[103]\\N[104]』か！"
+msgstr ""
+"唔唔唔，你拿的是…\n"
+"『\\N[101]\\N[102]\\N[103]\\N[104]』吗！"
+
+#. ID 12, Page 1, Line 7, Pos (26,7)
+msgid ""
+"よかったら俺が持ってる\n"
+"『\\N[101]\\N[102]\\N[103]\\N[104]』と\n"
+"交換してくれないか？"
+msgstr ""
+"可以的话，能和我持有的\n"
+"『\\N[101]\\N[102]\\N[103]\\N[104]』交换吗？"
+
+#. ID 12, Page 1, Line 10, Pos (26,7)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 12, Page 1, Line 18, Pos (26,7)
+msgid "どうもありがとう。"
+msgstr "多谢了。"
+
+#. ID 12, Page 2, Line 3, Pos (26,7)
+msgid ""
+"よう、久しぶり。\n"
+"俺はさすらいの武器マニア。\n"
+"例によって珍しい武器を探して旅をしている。"
+msgstr ""
+"哟，好久不见。我是流浪的武器狂。和往常一样，\n"
+"为了寻找稀有武器而旅行。"
+
+#. ID 12, Page 2, Line 74, Pos (26,7)
+msgid ""
+"もし珍しそうな武器を見つけたら\n"
+"ぜひ見せてくれ。そしてトレードしてくれ。\n"
+"…あわよくばギブしてくれ。"
+msgstr ""
+"如果找到看起来稀有的武器，务必给我看看。\n"
+"然后跟我交易。…有机会的话就送给我吧。"
+
+#. ID 12, Page 3, Line 3, Pos (26,7)
+msgid "ペットじゃなあ…"
+msgstr "宠物可不行啊…"
+
+#. ID 13, Page 2, Line 3, Pos (4,5)
+msgid "なんだ？どこから迷い込んできた？"
+msgstr "什么啊？你从哪里迷路进来的？"
+
+#. ID 16, Page 1, Line 3, Pos (22,6)
+#. Contains choice at line 2 (2 options)
+msgid "鏡がある。"
+msgstr "有一面镜子。"
+
+#. ID 16, Page 1, Line 4, Pos (22,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"容姿を確認する\n"
+"いいえ"
+msgstr ""
+"确认容貌\n"
+"否"

@@ -1,0 +1,47 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 3, Line 3, Pos (9,10)
+msgid "ﾋﾗﾋﾗ"
+msgstr "飘舞"
+
+#. ID 12, Page 3, Line 4, Pos (9,10)
+msgid ""
+"＊どうやら、\n"
+"　この蝶が地上へ案内してくれるようだ。"
+msgstr "＊看来，　这只蝴蝶似乎会引导我到地上。"
+
+#. ID 12, Page 3, Line 6, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 4, Line 3, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+msgid "地上に戻りますか？"
+msgstr "要回到地上吗？"
+
+#. ID 12, Page 3, Line 7, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 4, Line 4, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 14, Page 6, Line 101, Pos (19,0)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:無し"
+msgstr "end:无"

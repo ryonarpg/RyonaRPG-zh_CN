@@ -1,0 +1,306 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 3, Pos (22,21)
+#. ID 32, Page 2, Line 3, Pos (22,23)
+#. ID 35, Page 2, Line 3, Pos (22,19)
+#. ID 39, Page 2, Line 3, Pos (18,17)
+#. ID 41, Page 2, Line 3, Pos (22,25)
+#. ID 43, Page 2, Line 3, Pos (22,27)
+#. ID 46, Page 2, Line 3, Pos (23,28)
+#. ID 58, Page 2, Line 3, Pos (22,29)
+#. ID 67, Page 2, Line 3, Pos (22,31)
+#. ID 68, Page 2, Line 3, Pos (23,32)
+#. ID 69, Page 2, Line 3, Pos (22,33)
+#. ID 70, Page 2, Line 3, Pos (25,17)
+#. ID 71, Page 2, Line 3, Pos (26,18)
+#. ID 72, Page 2, Line 3, Pos (25,19)
+#. ID 73, Page 2, Line 3, Pos (25,21)
+#. ID 74, Page 2, Line 3, Pos (25,23)
+#. ID 75, Page 2, Line 3, Pos (25,25)
+#. ID 76, Page 2, Line 3, Pos (26,26)
+#. ID 77, Page 2, Line 3, Pos (25,27)
+#. ID 78, Page 2, Line 3, Pos (25,29)
+#. ID 79, Page 2, Line 3, Pos (25,31)
+#. ID 80, Page 2, Line 3, Pos (25,33)
+#. ID 81, Page 2, Line 3, Pos (27,17)
+#. ID 82, Page 2, Line 3, Pos (28,18)
+#. ID 83, Page 2, Line 3, Pos (27,19)
+#. ID 84, Page 2, Line 3, Pos (27,21)
+#. ID 85, Page 2, Line 3, Pos (27,23)
+#. ID 86, Page 2, Line 3, Pos (28,26)
+#. ID 87, Page 2, Line 3, Pos (27,27)
+#. ID 88, Page 2, Line 3, Pos (27,29)
+#. ID 89, Page 2, Line 3, Pos (27,31)
+#. ID 90, Page 2, Line 3, Pos (27,33)
+#. ID 91, Page 2, Line 3, Pos (22,17)
+#. ID 93, Page 2, Line 3, Pos (18,19)
+#. ID 94, Page 2, Line 3, Pos (18,21)
+#. ID 96, Page 2, Line 3, Pos (18,23)
+#. ID 97, Page 2, Line 3, Pos (18,25)
+#. ID 99, Page 2, Line 3, Pos (18,27)
+#. ID 100, Page 2, Line 3, Pos (17,28)
+#. ID 101, Page 2, Line 3, Pos (18,29)
+#. ID 102, Page 2, Line 3, Pos (18,31)
+#. ID 103, Page 2, Line 3, Pos (17,32)
+#. ID 104, Page 2, Line 3, Pos (18,33)
+#. ID 105, Page 2, Line 3, Pos (15,17)
+#. ID 106, Page 2, Line 3, Pos (15,19)
+#. ID 107, Page 2, Line 3, Pos (15,21)
+#. ID 108, Page 2, Line 3, Pos (15,23)
+#. ID 109, Page 2, Line 3, Pos (15,25)
+#. ID 110, Page 2, Line 3, Pos (15,27)
+#. ID 111, Page 2, Line 3, Pos (15,29)
+#. ID 112, Page 2, Line 3, Pos (15,31)
+#. ID 113, Page 2, Line 3, Pos (15,33)
+#. ID 114, Page 2, Line 3, Pos (13,33)
+#. ID 115, Page 2, Line 3, Pos (13,31)
+#. ID 116, Page 2, Line 3, Pos (13,29)
+#. ID 117, Page 2, Line 3, Pos (13,27)
+#. ID 118, Page 2, Line 3, Pos (13,23)
+#. ID 119, Page 2, Line 3, Pos (13,21)
+#. ID 120, Page 2, Line 3, Pos (13,19)
+#. ID 121, Page 2, Line 3, Pos (13,17)
+#. ID 122, Page 2, Line 3, Pos (14,18)
+#. ID 123, Page 2, Line 3, Pos (14,26)
+#. ID 127, Page 2, Line 3, Pos (17,34)
+#. ID 128, Page 2, Line 3, Pos (14,34)
+#. ID 129, Page 2, Line 3, Pos (23,34)
+#. ID 130, Page 2, Line 3, Pos (26,34)
+#. ID 131, Page 2, Line 3, Pos (12,18)
+#. ID 132, Page 2, Line 3, Pos (12,26)
+#. ID 133, Page 2, Line 3, Pos (12,34)
+#. ID 134, Page 2, Line 3, Pos (11,17)
+#. ID 135, Page 2, Line 3, Pos (11,19)
+#. ID 136, Page 2, Line 3, Pos (11,21)
+#. ID 137, Page 2, Line 3, Pos (11,23)
+#. ID 138, Page 2, Line 3, Pos (11,25)
+#. ID 139, Page 2, Line 3, Pos (11,27)
+#. ID 140, Page 2, Line 3, Pos (11,29)
+#. ID 141, Page 2, Line 3, Pos (11,31)
+#. ID 142, Page 2, Line 3, Pos (11,33)
+#. ID 143, Page 2, Line 3, Pos (10,20)
+#. ID 144, Page 2, Line 3, Pos (10,22)
+#. ID 145, Page 2, Line 3, Pos (10,26)
+#. ID 146, Page 2, Line 3, Pos (10,30)
+#. ID 147, Page 2, Line 3, Pos (10,32)
+#. ID 148, Page 2, Line 3, Pos (10,34)
+#. ID 149, Page 2, Line 3, Pos (29,17)
+#. ID 150, Page 2, Line 3, Pos (29,19)
+#. ID 151, Page 2, Line 3, Pos (29,21)
+#. ID 152, Page 2, Line 3, Pos (29,23)
+#. ID 153, Page 2, Line 3, Pos (29,25)
+#. ID 154, Page 2, Line 3, Pos (29,27)
+#. ID 155, Page 2, Line 3, Pos (29,29)
+#. ID 156, Page 2, Line 3, Pos (29,31)
+#. ID 157, Page 2, Line 3, Pos (29,33)
+#. ID 158, Page 2, Line 3, Pos (30,20)
+#. ID 159, Page 2, Line 3, Pos (30,22)
+#. ID 160, Page 2, Line 3, Pos (30,26)
+#. ID 161, Page 2, Line 3, Pos (30,30)
+#. ID 162, Page 2, Line 3, Pos (30,32)
+#. ID 163, Page 2, Line 3, Pos (30,34)
+#. ID 164, Page 2, Line 3, Pos (9,19)
+#. ID 165, Page 2, Line 3, Pos (9,21)
+#. ID 166, Page 2, Line 3, Pos (9,23)
+#. ID 167, Page 2, Line 3, Pos (9,25)
+#. ID 168, Page 2, Line 3, Pos (9,27)
+#. ID 169, Page 2, Line 3, Pos (9,29)
+#. ID 170, Page 2, Line 3, Pos (9,31)
+#. ID 171, Page 2, Line 3, Pos (9,33)
+#. ID 172, Page 2, Line 3, Pos (31,19)
+#. ID 173, Page 2, Line 3, Pos (31,21)
+#. ID 174, Page 2, Line 3, Pos (31,23)
+#. ID 175, Page 2, Line 3, Pos (31,25)
+#. ID 176, Page 2, Line 3, Pos (31,27)
+#. ID 177, Page 2, Line 3, Pos (31,29)
+#. ID 178, Page 2, Line 3, Pos (31,31)
+#. ID 179, Page 2, Line 3, Pos (31,33)
+#. ID 190, Page 2, Line 3, Pos (16,16)
+#. ID 191, Page 2, Line 3, Pos (24,16)
+#. ID 192, Page 2, Line 3, Pos (8,20)
+#. ID 193, Page 2, Line 3, Pos (8,22)
+#. ID 194, Page 2, Line 3, Pos (8,24)
+#. ID 195, Page 2, Line 3, Pos (32,20)
+#. ID 196, Page 2, Line 3, Pos (32,22)
+#. ID 197, Page 2, Line 3, Pos (32,24)
+#. ID 198, Page 2, Line 3, Pos (33,19)
+#. ID 199, Page 2, Line 3, Pos (33,21)
+#. ID 200, Page 2, Line 3, Pos (33,23)
+#. ID 201, Page 2, Line 3, Pos (33,17)
+#. ID 202, Page 2, Line 3, Pos (7,17)
+#. ID 203, Page 2, Line 3, Pos (7,19)
+#. ID 204, Page 2, Line 3, Pos (7,21)
+#. ID 205, Page 2, Line 3, Pos (7,23)
+#. ID 206, Page 2, Line 3, Pos (15,35)
+#. ID 207, Page 2, Line 3, Pos (18,35)
+#. ID 208, Page 2, Line 3, Pos (13,35)
+#. ID 209, Page 2, Line 3, Pos (11,35)
+#. ID 210, Page 2, Line 3, Pos (22,35)
+#. ID 211, Page 2, Line 3, Pos (25,35)
+#. ID 212, Page 2, Line 3, Pos (27,35)
+#. ID 213, Page 2, Line 3, Pos (29,35)
+#. ID 214, Page 2, Line 3, Pos (31,35)
+#. ID 215, Page 2, Line 3, Pos (9,35)
+msgid "王妃殿下、万歳！！"
+msgstr "王妃殿下，万岁！！"
+
+#. ID 31, Page 2, Line 3, Pos (23,22)
+#. ID 33, Page 2, Line 3, Pos (23,24)
+#. ID 36, Page 2, Line 3, Pos (23,18)
+#. ID 42, Page 2, Line 3, Pos (23,26)
+#. ID 92, Page 2, Line 3, Pos (17,18)
+#. ID 95, Page 2, Line 3, Pos (17,22)
+#. ID 98, Page 2, Line 3, Pos (17,26)
+msgid "王国に栄光あれ！！"
+msgstr "愿王国荣耀！！"
+
+#. ID 124, Page 1, Line 4, Pos (0,7)
+msgid ""
+"\\N[\\V[6]]は王の求愛を受け入れ、\n"
+"彼の妻――同時に、この王国の王妃となった。"
+msgstr ""
+"\\N[\\V[6]]接受了王的求爱，成为他的妻子——同时，\n"
+"也成为这个王国的王妃。"
+
+#. ID 124, Page 1, Line 6, Pos (0,7)
+msgid ""
+"そして、世界統一を目指す王の覇業成就の為、\n"
+"このピラミッドを守護する役についたのだった――"
+msgstr ""
+"于是，为了成就志在统一世界的王的霸业，\n"
+"便担负起了守护这座金字塔的职责——"
+
+#. ID 124, Page 1, Line 15, Pos (0,7)
+msgid ""
+"王妃殿下……\n"
+"遠征に出られていた王とその軍勢が帰還されました……"
+msgstr "王妃殿下……出征在外的王及其军队已经归来了……"
+
+#. ID 124, Page 1, Line 17, Pos (0,7)
+msgid ""
+"此度の戦果も上々……\n"
+"大勝利に終わったとの由(よし)にございます。"
+msgstr "此次战果也很出色……据闻是以大胜利告终。"
+
+#. ID 124, Page 1, Line 19, Pos (0,7)
+msgid ""
+"さあ、王妃殿下。\n"
+"凱旋される王を出迎え、\n"
+"労ってさしあげてくださいませ――"
+msgstr "来吧，王妃殿下。请出迎凯旋的王，并慰劳他吧——"
+
+#. ID 126, Page 2, Line 3, Pos (17,24)
+msgid ""
+"この女さえ……この女さえ現れなければ、\n"
+"こ、こんなことには……"
+msgstr ""
+"只要这个女人……只要这个女人不出现，就、\n"
+"就不会变成这样……"
+
+#. ID 180, Page 1, Line 5, Pos (19,28)
+msgid "お待ちください、王妃様。"
+msgstr "请等一下，王妃大人。"
+
+#. ID 180, Page 1, Line 30, Pos (19,28)
+msgid ""
+"王は、長い遠征を終えて、\n"
+"ようやく帰還されるのです……"
+msgstr "王结束了漫长的远征，终于要归来了……"
+
+#. ID 180, Page 1, Line 32, Pos (19,28)
+msgid ""
+"なのに、出迎えられる肝心の王妃様が\n"
+"そのような地味な装束をお召しでは、\n"
+"王も落胆されてしまいますわ――……"
+msgstr ""
+"可是，要出迎的至关重要的王妃大人若穿着那样朴素\n"
+"　的装束，王也会失望的呀——……"
+
+#. ID 180, Page 1, Line 35, Pos (19,28)
+msgid ""
+"王妃様には、もっと鮮やかな衣装が必要なのです。\n"
+"そう……こんな、ふうに――！！"
+msgstr "王妃大人需要更鲜艳的衣装。对……就像、这样——！！"
+
+#. ID 180, Page 1, Line 65, Pos (19,28)
+msgid ""
+"\\N[\\V[6]]の\n"
+"胸に突き立った短刀が引き抜かれると、\n"
+"薔薇の花を思わせる深紅の血液が空に散った。"
+msgstr ""
+"当刺入\\N[\\V[6]]胸口的短刀被拔出时，\n"
+"令人联想到蔷薇花的深红血液飞散在空中。"
+
+#. ID 180, Page 1, Line 68, Pos (19,28)
+msgid ""
+"まるで噴水のように噴き上がった鮮血は、\n"
+"\\N[\\V[6]]の肌を、服を、\n"
+"赤く赤く染めていく――"
+msgstr ""
+"宛如喷泉般喷涌而出的鲜血，将\\N[\\V[6]]的肌肤、\n"
+"衣服，染得越来越红、越来越红——"
+
+#. ID 180, Page 1, Line 77, Pos (19,28)
+msgid ""
+"\\N[\\V[6]]は、\n"
+"どこかぼんやりとした意識で、衛兵に引き倒される\n"
+"自分を刺した女ミイラの声を聴く――"
+msgstr ""
+"\\N[\\V[6]]以有些朦胧的意识，\n"
+"听着那个刺了自己的女木乃伊被卫兵拉倒的声音——"
+
+#. ID 180, Page 1, Line 86, Pos (19,28)
+msgid ""
+"あは、あはははっ、ひぃっひひ、\n"
+"やってやりましたわ、いい気味、いい気味です！\n"
+"あ、貴女が悪いのですよ。"
+msgstr ""
+"啊哈，啊哈哈哈哈，嘻、嘻嘻，我做到了，活该，\n"
+"活该！啊，都是你不好哦。"
+
+#. ID 180, Page 1, Line 89, Pos (19,28)
+msgid ""
+"わたくしの地位も、わたくしの身分も、\n"
+"わたくしの美貌も……あの方の寵愛も！\n"
+"すべてすべて貴女が奪っていったんだから！"
+msgstr ""
+"我的地位，我的身份，我的美貌……\n"
+"还有那位大人的宠爱！全部全部都是你夺走的！"
+
+#. ID 180, Page 1, Line 92, Pos (19,28)
+msgid ""
+"ひひっ、くひひひっ、\n"
+"はは、あーはっはっはっはっはっはっは――！！"
+msgstr ""
+"嘻嘻，咕嘻嘻嘻，哈哈，啊——哈哈哈哈哈哈哈哈——！\n"
+"！"
+
+#. ID 180, Page 1, Line 100, Pos (19,28)
+msgid ""
+"狂ったような女ミイラの哄笑(こうしょう)が――\n"
+"\\N[\\V[6]]が\n"
+"この世で聴いた最後の音になった――"
+msgstr ""
+"疯狂般的女木乃伊的哄笑——成了\\N[\\V[6]]在这个世上听到的最\n"
+"　后声音——"
+
+#. ID 216, Page 2, Line 3, Pos (21,14)
+msgid ""
+"\\N[\\V[6]]……様……\n"
+"私は……どこまでも……\n"
+"貴女に……ついて……参ります……"
+msgstr ""
+"\\N[\\V[6]]……大人……我……无论到哪里……都会……跟随……\n"
+"您……"

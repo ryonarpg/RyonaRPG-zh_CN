@@ -1,0 +1,65 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 16, Pos (6,13)
+msgid ""
+"＊開かない……鍵穴も見つからない\n"
+"　どこかで遠隔操作する必要があるようだ"
+msgstr ""
+"＊打不开……\n"
+"　也找不到钥匙孔　看来需要在某处进行远程操作"
+
+#. ID 36, Page 2, Line 4, Pos (6,5)
+msgid "＊扉は開かない……"
+msgstr "＊门打不开……"
+
+#. ID 49, Page 2, Line 4, Pos (2,13)
+msgid "この奥にアラクネが居るわ……"
+msgstr "阿剌克涅就在这里面……"
+
+#. ID 49, Page 2, Line 5, Pos (2,13)
+msgid ""
+"注意して……\n"
+"アラクネは蟲を飛ばして攻撃してくるけど\n"
+"その蟲に触れると『烙印』を押されるの"
+msgstr ""
+"小心点……阿剌克涅会放出虫来攻击，\n"
+"但一碰到那种虫就会被按上『烙印』哦"
+
+#. ID 49, Page 2, Line 8, Pos (2,13)
+msgid ""
+"『烙印』は魔力で出来た一時的なもので、\n"
+"すぐに消えるけど……\n"
+"蟲を猛烈に呼び寄せる効果があるわ"
+msgstr ""
+"『烙印』是由魔力形成的临时印记，很快就会消失，\n"
+"不过……有猛烈吸引虫的效果哦"
+
+#. ID 49, Page 2, Line 11, Pos (2,13)
+msgid "『烙印』中は逃げに徹したほうが良いと思うわ"
+msgstr "我觉得身上有『烙印』时，最好专心逃跑哦"
+
+#. ID 49, Page 2, Line 16, Pos (2,13)
+msgid ""
+"この奥にアラクネが居るようだけど……\n"
+"扉が開かないの"
+msgstr "阿剌克涅好像就在这里面……但门打不开"
+
+#. ID 49, Page 2, Line 18, Pos (2,13)
+msgid ""
+"鍵穴もないし、魔法で開く構造でもない……\n"
+"どこかで遠隔操作しているようね"
+msgstr ""
+"既没有钥匙孔，也不是能用魔法打开的结构……\n"
+"看来是在某处进行远程操作呢"

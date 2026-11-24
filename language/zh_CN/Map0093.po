@@ -1,0 +1,652 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 3, Pos (14,12)
+msgid ""
+"\n"
+"全能力アップ\n"
+"　全能力 +4"
+msgstr "全能力提升　全能力 +4"
+
+#. ID 4, Page 1, Line 7, Pos (14,12)
+#. ID 5, Page 1, Line 7, Pos (14,10)
+#. ID 6, Page 1, Line 7, Pos (14,14)
+#. ID 7, Page 1, Line 7, Pos (12,11)
+#. ID 8, Page 1, Line 7, Pos (12,13)
+#. ID 9, Page 1, Line 7, Pos (16,11)
+#. ID 10, Page 1, Line 7, Pos (16,13)
+#. ID 11, Page 1, Line 7, Pos (13,22)
+#. ID 12, Page 1, Line 7, Pos (13,24)
+#. ID 13, Page 1, Line 7, Pos (14,23)
+#. ID 14, Page 1, Line 7, Pos (15,22)
+#. ID 15, Page 1, Line 7, Pos (15,24)
+#. ID 16, Page 1, Line 2, Pos (3,6)
+#. ID 25, Page 1, Line 2, Pos (21,6)
+#. ID 28, Page 1, Line 2, Pos (21,12)
+#. ID 31, Page 1, Line 2, Pos (21,18)
+#. ID 34, Page 1, Line 2, Pos (10,5)
+#. ID 36, Page 1, Line 2, Pos (10,19)
+#. ID 40, Page 1, Line 2, Pos (16,19)
+msgid ""
+"\n"
+"習得コスト\n"
+"　1/\\V[1201]"
+msgstr "习得消耗　1/\\V[1201]"
+
+#. ID 4, Page 1, Line 11, Pos (14,12)
+#. Choice (2 options)
+#. ID 5, Page 1, Line 11, Pos (14,10)
+#. Choice (2 options)
+#. ID 6, Page 1, Line 11, Pos (14,14)
+#. Choice (2 options)
+#. ID 7, Page 1, Line 11, Pos (12,11)
+#. Choice (2 options)
+#. ID 8, Page 1, Line 11, Pos (12,13)
+#. Choice (2 options)
+#. ID 9, Page 1, Line 11, Pos (16,11)
+#. Choice (2 options)
+#. ID 10, Page 1, Line 11, Pos (16,13)
+#. Choice (2 options)
+#. ID 11, Page 1, Line 11, Pos (13,22)
+#. Choice (2 options)
+#. ID 12, Page 1, Line 11, Pos (13,24)
+#. Choice (2 options)
+#. ID 13, Page 1, Line 11, Pos (14,23)
+#. Choice (2 options)
+#. ID 14, Page 1, Line 11, Pos (15,22)
+#. Choice (2 options)
+#. ID 15, Page 1, Line 11, Pos (15,24)
+#. Choice (2 options)
+#. ID 16, Page 1, Line 6, Pos (3,6)
+#. Choice (2 options)
+#. ID 19, Page 1, Line 6, Pos (3,12)
+#. Choice (2 options)
+#. ID 22, Page 1, Line 5, Pos (3,18)
+#. Choice (2 options)
+#. ID 25, Page 1, Line 6, Pos (21,6)
+#. Choice (2 options)
+#. ID 28, Page 1, Line 6, Pos (21,12)
+#. Choice (2 options)
+#. ID 31, Page 1, Line 6, Pos (21,18)
+#. Choice (2 options)
+#. ID 34, Page 1, Line 6, Pos (10,5)
+#. Choice (2 options)
+#. ID 36, Page 1, Line 6, Pos (10,19)
+#. Choice (2 options)
+#. ID 38, Page 1, Line 5, Pos (16,5)
+#. Choice (2 options)
+#. ID 40, Page 1, Line 6, Pos (16,19)
+#. Choice (2 options)
+msgid ""
+"習得する\n"
+"いいえ"
+msgstr ""
+"习得\n"
+"否"
+
+#. ID 4, Page 1, Line 20, Pos (14,12)
+msgid ""
+"\n"
+"全ての能力値が4上昇した。"
+msgstr "所有能力值上升了4。"
+
+#. ID 4, Page 1, Line 39, Pos (14,12)
+#. ID 5, Page 1, Line 34, Pos (14,10)
+#. ID 6, Page 1, Line 34, Pos (14,14)
+#. ID 7, Page 1, Line 34, Pos (12,11)
+#. ID 8, Page 1, Line 34, Pos (12,13)
+#. ID 9, Page 1, Line 34, Pos (16,11)
+#. ID 10, Page 1, Line 34, Pos (16,13)
+#. ID 11, Page 1, Line 35, Pos (13,22)
+#. ID 12, Page 1, Line 35, Pos (13,24)
+#. ID 13, Page 1, Line 35, Pos (14,23)
+#. ID 14, Page 1, Line 35, Pos (15,22)
+#. ID 15, Page 1, Line 35, Pos (15,24)
+#. ID 16, Page 1, Line 33, Pos (3,6)
+#. ID 19, Page 1, Line 33, Pos (3,12)
+#. ID 22, Page 1, Line 32, Pos (3,18)
+#. ID 25, Page 1, Line 33, Pos (21,6)
+#. ID 28, Page 1, Line 33, Pos (21,12)
+#. ID 31, Page 1, Line 33, Pos (21,18)
+#. ID 34, Page 1, Line 33, Pos (10,5)
+#. ID 36, Page 1, Line 33, Pos (10,19)
+#. ID 38, Page 1, Line 32, Pos (16,5)
+#. ID 40, Page 1, Line 33, Pos (16,19)
+msgid ""
+"\n"
+"＠エラー\n"
+"　クリスタルのかけらが不足しています。"
+msgstr "＠错误　水晶碎片不足。"
+
+#. ID 5, Page 1, Line 3, Pos (14,10)
+msgid ""
+"\n"
+"最大HPアップ\n"
+"　最大HP +15"
+msgstr "最大HP提升　最大HP +15"
+
+#. ID 5, Page 1, Line 20, Pos (14,10)
+msgid ""
+"\n"
+"最大HPが15上昇した。"
+msgstr "最大HP上升了15。"
+
+#. ID 6, Page 1, Line 3, Pos (14,14)
+msgid ""
+"\n"
+"最大MPアップ\n"
+"　最大MP +10"
+msgstr "最大魔力值提升　最大MP +10"
+
+#. ID 6, Page 1, Line 20, Pos (14,14)
+msgid ""
+"\n"
+"最大MPが10上昇した。"
+msgstr "最大MP上升了10。"
+
+#. ID 7, Page 1, Line 3, Pos (12,11)
+msgid ""
+"\n"
+"攻撃力アップ\n"
+"　攻撃力 +15"
+msgstr "攻击力提升　攻击力 +15"
+
+#. ID 7, Page 1, Line 20, Pos (12,11)
+msgid ""
+"\n"
+"攻撃力が15上昇した。"
+msgstr "攻击力上升了15。"
+
+#. ID 8, Page 1, Line 3, Pos (12,13)
+msgid ""
+"\n"
+"防御力アップ\n"
+"　防御力 +20"
+msgstr "防御力提升　防御力 +20"
+
+#. ID 8, Page 1, Line 20, Pos (12,13)
+msgid ""
+"\n"
+"防御力が20上昇した。"
+msgstr "防御力上升了20。"
+
+#. ID 9, Page 1, Line 3, Pos (16,11)
+msgid ""
+"\n"
+"精神アップ\n"
+"　精神 +20"
+msgstr "精神提升　精神 +20"
+
+#. ID 9, Page 1, Line 20, Pos (16,11)
+msgid ""
+"\n"
+"精神が20上昇した。"
+msgstr "精神上升了20。"
+
+#. ID 10, Page 1, Line 3, Pos (16,13)
+msgid ""
+"\n"
+"魔力アップ\n"
+"　魔力 +15"
+msgstr "魔力提升　魔力 +15"
+
+#. ID 10, Page 1, Line 20, Pos (16,13)
+msgid ""
+"\n"
+"魔力が15上昇した。"
+msgstr "魔力上升了15。"
+
+#. ID 11, Page 1, Line 3, Pos (13,22)
+msgid ""
+"くすりのちしき P\n"
+"　ポーションの所持限界数変化\n"
+"　　　　　　５→１０"
+msgstr "药物知识 P　药水持有上限变化　　　　　　5→10"
+
+#. ID 11, Page 1, Line 20, Pos (13,22)
+msgid ""
+"\n"
+"くすりのちしき Pを習得した。"
+msgstr "已习得药物知识 P。"
+
+#. ID 11, Page 2, Line 3, Pos (13,22)
+msgid ""
+"くすりのちしき・ポーション\n"
+"　ポーションの所持限界数変化\n"
+"　　　　　　５→１０"
+msgstr ""
+"药物知识・药水　药水持有上限变化　　　　　　5→\n"
+"　10"
+
+#. ID 12, Page 1, Line 3, Pos (13,24)
+msgid ""
+"くすりのちしき H\n"
+"　ハイポーションの所持限界数変化\n"
+"　　　　　　２→４"
+msgstr ""
+"药物知识 H　高级药水持有上限变化　　　　　　2→\n"
+"　4"
+
+#. ID 12, Page 1, Line 20, Pos (13,24)
+msgid ""
+"\n"
+"くすりのちしき Hを習得した。"
+msgstr "已习得药物知识 H。"
+
+#. ID 12, Page 2, Line 3, Pos (13,24)
+msgid ""
+"くすりのちしき・ハイポーション\n"
+"　ハイポーションの所持限界数変化\n"
+"　　　　　　２→４"
+msgstr ""
+"药物知识・高级药水　高级药水持有上限变化　　　\n"
+"　2→4"
+
+#. ID 13, Page 1, Line 3, Pos (14,23)
+msgid ""
+"くすりのちしき B\n"
+"　万能薬の所持限界数変化\n"
+"　　　　　　３→６"
+msgstr "药物知识 B　万能药持有上限变化　　　　　　3→6"
+
+#. ID 13, Page 1, Line 20, Pos (14,23)
+msgid ""
+"\n"
+"くすりのちしき Bを習得した。"
+msgstr "已习得药物知识 B。"
+
+#. ID 13, Page 2, Line 3, Pos (14,23)
+msgid ""
+"くすりのちしき・万能薬\n"
+"　万能薬の所持限界数変化\n"
+"　　　　　　３→６"
+msgstr ""
+"药物知识・万能药　万能药持有上限变化　　　　　\n"
+"　3→6"
+
+#. ID 14, Page 1, Line 3, Pos (15,22)
+#. ID 14, Page 2, Line 3, Pos (15,22)
+msgid ""
+"くすりのちしき E\n"
+"　エーテルの所持限界数変化\n"
+"　　　　　　２→４"
+msgstr "药物知识 E　以太持有上限变化　　　　　　2→4"
+
+#. ID 14, Page 1, Line 20, Pos (15,22)
+msgid ""
+"\n"
+"くすりのちしき Eを習得した。"
+msgstr "已习得药物知识 E。"
+
+#. ID 15, Page 1, Line 3, Pos (15,24)
+#. ID 15, Page 2, Line 3, Pos (15,24)
+msgid ""
+"くすりのちしき D\n"
+"　エーテルドライの所持限界数変化\n"
+"　　　　　　１→２"
+msgstr ""
+"药物知识 D　干燥以太持有上限变化　　　　　　1→\n"
+"　2"
+
+#. ID 15, Page 1, Line 20, Pos (15,24)
+msgid ""
+"\n"
+"くすりのちしき Dを習得した。"
+msgstr "已习得药物知识 D。"
+
+#. ID 16, Page 1, Line 17, Pos (3,6)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]みだれうち Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]乱打 Lv\\v[1201]\n"
+"　　　　　　　　　 \\c[0]技能！\\|\\.\\^"
+
+#. ID 16, Page 2, Line 3, Pos (3,6)
+#. ID 16, Page 3, Line 3, Pos (3,6)
+msgid ""
+"\n"
+"みだれうち Lv1 \n"
+"　8%の確率で武器攻撃のHIT+1"
+msgstr "乱打 Lv1 　有8%概率使武器攻击的HIT+1"
+
+#. ID 17, Page 1, Line 3, Pos (5,6)
+#. ID 17, Page 2, Line 3, Pos (5,6)
+msgid ""
+"\n"
+"みだれうち Lv2 \n"
+"　16%の確率で武器攻撃のHIT+1"
+msgstr "乱打 Lv2 　有16%概率使武器攻击的HIT+1"
+
+#. ID 18, Page 1, Line 3, Pos (7,6)
+#. ID 18, Page 2, Line 3, Pos (7,6)
+msgid ""
+"\n"
+"みだれうち Lv3 \n"
+"　24%の確率で武器攻撃のHIT+1"
+msgstr "乱打 Lv3 　有24%概率使武器攻击的HIT+1"
+
+#. ID 19, Page 1, Line 2, Pos (3,12)
+msgid ""
+"\n"
+"習得コスト\n"
+"　3/\\V[1201]"
+msgstr "习得消耗　3/\\V[1201]"
+
+#. ID 19, Page 1, Line 17, Pos (3,12)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]ためる Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]蓄力 Lv\\v[1201]\n"
+"　　　　　　　　　 \\c[0]技能！\\|\\.\\^"
+
+#. ID 19, Page 2, Line 3, Pos (3,12)
+#. ID 19, Page 3, Line 3, Pos (3,12)
+msgid ""
+"\n"
+"ためる Lv1\n"
+"　溜め速度 +ためるLv"
+msgstr "蓄力 Lv1　蓄力速度 +蓄力Lv"
+
+#. ID 20, Page 1, Line 3, Pos (5,12)
+#. ID 20, Page 2, Line 3, Pos (5,12)
+msgid ""
+"\n"
+"ためる Lv2\n"
+"　溜め速度 +ためるLv"
+msgstr "蓄力 Lv2　蓄力速度 +蓄力Lv"
+
+#. ID 21, Page 1, Line 3, Pos (7,12)
+#. ID 21, Page 2, Line 3, Pos (7,12)
+msgid ""
+"\n"
+"ためる Lv3\n"
+"　溜め速度 +ためるLv"
+msgstr "蓄力 Lv3　蓄力速度 +蓄力Lv"
+
+#. ID 22, Page 1, Line 2, Pos (3,18)
+#. ID 38, Page 1, Line 2, Pos (16,5)
+msgid ""
+"習得コスト\n"
+"　1/\\V[1201]"
+msgstr "习得消耗　1/\\V[1201]"
+
+#. ID 22, Page 1, Line 16, Pos (3,18)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]まほうバリア Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]魔法屏障 \n"
+"　　　　　　　　　Lv\\v[1201] \\c[0]技能！\\|\\.\\^"
+
+#. ID 22, Page 2, Line 3, Pos (3,18)
+#. ID 22, Page 3, Line 3, Pos (3,18)
+msgid ""
+"\n"
+"まほうバリア Lv1\n"
+"　瀕死時魔法ダメージ半減"
+msgstr "魔法屏障 Lv1　濒死时魔法伤害减半"
+
+#. ID 23, Page 1, Line 3, Pos (5,18)
+#. ID 23, Page 2, Line 3, Pos (5,18)
+msgid ""
+"\n"
+"まほうバリア Lv2\n"
+"　瀕死時魔法ダメージ無効化"
+msgstr "魔法屏障 Lv2　濒死时魔法伤害无效化"
+
+#. ID 24, Page 1, Line 3, Pos (7,18)
+#. ID 24, Page 2, Line 3, Pos (7,18)
+msgid ""
+"\n"
+"まほうバリア Lv3\n"
+"　瀕死時魔法ダメージ吸収"
+msgstr "魔法屏障 Lv3　濒死时魔法伤害吸收"
+
+#. ID 25, Page 1, Line 17, Pos (21,6)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]しらはどり Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]空手夺白\n"
+"　　　　　　　　　刃 Lv\\v[1201] \\c[0]技能！\n"
+"　　　　　　　　　\\|\\.\\^"
+
+#. ID 25, Page 2, Line 3, Pos (21,6)
+#. ID 25, Page 3, Line 3, Pos (21,6)
+msgid ""
+"\n"
+"しらはどり Lv1\n"
+"　10%の確率で通常攻撃を無効化"
+msgstr "空手夺白刃 Lv1　有10%概率使普通攻击无效化"
+
+#. ID 26, Page 1, Line 3, Pos (23,6)
+#. ID 26, Page 2, Line 3, Pos (23,6)
+msgid ""
+"\n"
+"しらはどり Lv2\n"
+"　20%の確率で通常攻撃を無効化"
+msgstr "空手夺白刃 Lv2　有20%概率使普通攻击无效化"
+
+#. ID 27, Page 1, Line 3, Pos (25,6)
+#. ID 27, Page 2, Line 3, Pos (25,6)
+msgid ""
+"\n"
+"しらはどり Lv3\n"
+"　30%の確率で通常攻撃を無効化"
+msgstr "空手夺白刃 Lv3　有30%概率使普通攻击无效化"
+
+#. ID 28, Page 1, Line 17, Pos (21,12)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]けり Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]踢击 Lv\\v[1201]\n"
+"　　　　　　　　　 \\c[0]技能！\\|\\.\\^"
+
+#. ID 28, Page 2, Line 3, Pos (21,12)
+#. ID 28, Page 3, Line 3, Pos (21,12)
+msgid ""
+"\n"
+"けり Lv1\n"
+"　30%の確率で、\n"
+"　武器攻撃命中時に敵を吹き飛ばす。"
+msgstr ""
+"踢击 Lv1　有30%概率，\n"
+"　武器攻击命中时将敌人击飞。"
+
+#. ID 29, Page 1, Line 3, Pos (23,12)
+#. ID 29, Page 2, Line 3, Pos (23,12)
+msgid ""
+"\n"
+"けり Lv2\n"
+"　60%の確率で、\n"
+"　武器攻撃命中時に敵を吹き飛ばす。"
+msgstr ""
+"踢击 Lv2　有60%概率，\n"
+"　武器攻击命中时将敌人击飞。"
+
+#. ID 30, Page 1, Line 3, Pos (25,12)
+#. ID 30, Page 2, Line 3, Pos (25,12)
+msgid ""
+"\n"
+"けり Lv3\n"
+"　90%の確率で、\n"
+"　武器攻撃命中時に敵を吹き飛ばす。"
+msgstr ""
+"踢击 Lv3　有90%概率，\n"
+"　武器攻击命中时将敌人击飞。"
+
+#. ID 31, Page 1, Line 17, Pos (21,18)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]けいかい Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]警戒 Lv\\v[1201]\n"
+"　　　　　　　　　 \\c[0]技能！\\|\\.\\^"
+
+#. ID 31, Page 2, Line 3, Pos (21,18)
+#. ID 31, Page 3, Line 3, Pos (21,18)
+msgid ""
+"\n"
+"けいかい Lv1\n"
+"　25%の確率で罠回避"
+msgstr "警戒 Lv1　有25%概率回避陷阱"
+
+#. ID 32, Page 1, Line 3, Pos (23,18)
+#. ID 32, Page 2, Line 3, Pos (23,18)
+msgid ""
+"\n"
+"けいかい Lv2\n"
+"　50%の確率で罠回避"
+msgstr "警戒 Lv2　有50%概率回避陷阱"
+
+#. ID 33, Page 1, Line 3, Pos (25,18)
+#. ID 33, Page 2, Line 3, Pos (25,18)
+msgid ""
+"\n"
+"けいかい Lv3\n"
+"　75%の確率で罠回避"
+msgstr "警戒 Lv3　有75%概率回避陷阱"
+
+#. ID 34, Page 1, Line 17, Pos (10,5)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]たえる Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]忍耐 Lv\\v[1201]\n"
+"　　　　　　　　　 \\c[0]技能！\\|\\.\\^"
+
+#. ID 34, Page 2, Line 3, Pos (10,5)
+#. ID 34, Page 3, Line 3, Pos (10,5)
+msgid ""
+"\n"
+"たえる Lv1\n"
+"　絶頂ダメージ半減\n"
+"　性感-1"
+msgstr "忍耐 Lv1　绝顶伤害减半　性感-1"
+
+#. ID 35, Page 1, Line 3, Pos (12,5)
+#. ID 35, Page 2, Line 3, Pos (12,5)
+msgid ""
+"\n"
+"たえる Lv2\n"
+"　絶頂ダメージ無効\n"
+"　性感-2"
+msgstr "忍耐 Lv2　绝顶伤害无效　性感-2"
+
+#. ID 36, Page 1, Line 17, Pos (10,19)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]底力 Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]底力 Lv\\v[1201]\n"
+"　　　　　　　　　 \\c[0]技能！\\|\\.\\^"
+
+#. ID 36, Page 2, Line 3, Pos (10,19)
+#. ID 36, Page 3, Line 3, Pos (10,19)
+msgid ""
+"\n"
+"底力 Lv1\n"
+"　1/5の確率で戦闘不能を無効化"
+msgstr "底力 Lv1　有1/5概率使战斗不能无效化"
+
+#. ID 37, Page 1, Line 3, Pos (12,19)
+#. ID 37, Page 2, Line 3, Pos (12,19)
+msgid ""
+"\n"
+"底力 Lv2\n"
+"　2/5の確率で戦闘不能を無効化"
+msgstr "底力 Lv2　有2/5概率使战斗不能无效化"
+
+#. ID 38, Page 1, Line 16, Pos (16,5)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]れんぞくま Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]连续魔法 \n"
+"　　　　　　　　　Lv\\v[1201] \\c[0]技能！\\|\\.\\^"
+
+#. ID 38, Page 2, Line 3, Pos (16,5)
+#. ID 38, Page 3, Line 3, Pos (16,5)
+msgid ""
+"\n"
+"れんぞくま Lv1\n"
+"　1/16の確率で魔法を再使用する"
+msgstr "连续魔法 Lv1　有1/16概率再次使用魔法"
+
+#. ID 39, Page 1, Line 3, Pos (18,5)
+#. ID 39, Page 2, Line 3, Pos (18,5)
+msgid ""
+"\n"
+"れんぞくま Lv2\n"
+"　1/8の確率で魔法を再使用する"
+msgstr "连续魔法 Lv2　有1/8概率再次使用魔法"
+
+#. ID 40, Page 1, Line 17, Pos (16,19)
+msgid ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\n"
+"\n"
+"\\c[0]\\n[\\v[6]]は\n"
+"\\c[2]ぬすむ Lv\\v[1201] \\c[0]のアビリティを得た！\\|\\.\\^"
+msgstr ""
+"　　　　　　　　　\\c[2]$C Get Ability $C\\c[0]\\n[\\v[6]]\n"
+"　　　　　　　　　获得了\\c[2]偷窃 Lv\\v[1201]\n"
+"　　　　　　　　　 \\c[0]技能！\\|\\.\\^"
+
+#. ID 40, Page 2, Line 3, Pos (16,19)
+#. ID 40, Page 3, Line 3, Pos (16,19)
+msgid ""
+"\n"
+"ぬすむ Lv1\n"
+"　獲得Ｇ(敵)1.1倍\n"
+"　アイテム出現率(敵)+3%"
+msgstr "偷窃 Lv1　获得G(敌)1.1倍　道具出现率(敌)+3%"
+
+#. ID 41, Page 1, Line 3, Pos (18,19)
+#. ID 41, Page 2, Line 3, Pos (18,19)
+msgid ""
+"\n"
+"ぬすむ Lv2\n"
+"　獲得Ｇ(敵)1.3倍\n"
+"　アイテム出現率(敵)+6%"
+msgstr "偷窃 Lv2　获得G(敌)1.3倍　道具出现率(敌)+6%"

@@ -1,0 +1,47 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 36, Page 2, Line 3, Pos (16,7)
+msgid ""
+"＊古めかしいレバーが岩場に取り付けてあった\n"
+"　クリスタルを操作するもののようだ"
+msgstr ""
+"＊岩壁上装着一个古老样式的拉杆　似乎是用来操作\n"
+"　水晶的"
+
+#. ID 36, Page 2, Line 5, Pos (16,7)
+#. Contains choice at line 2 (2 options)
+msgid "＊レバーを操作しますか？"
+msgstr "＊要操作拉杆吗？"
+
+#. ID 36, Page 2, Line 6, Pos (16,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 40, Page 2, Line 3, Pos (3,15)
+msgid "＊……事切れた冒険者のようだ"
+msgstr "＊……看起来是断气的冒险者"
+
+#. ID 40, Page 2, Line 5, Pos (3,15)
+msgid "＊……手に何か持っている"
+msgstr "＊……手里拿着什么东西"
+
+#. ID 40, Page 2, Line 10, Pos (3,15)
+msgid "＊[毒消し]を手に入れた"
+msgstr "＊获得了[解毒剂]"

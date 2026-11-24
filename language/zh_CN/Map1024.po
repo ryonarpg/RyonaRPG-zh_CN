@@ -1,0 +1,159 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 1, Line 3, Pos (18,57)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"セーブポイントがある。\n"
+"使用しますか?"
+msgstr "有存档点。使用吗？"
+
+#. ID 22, Page 1, Line 5, Pos (18,57)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 25, Page 1, Line 4, Pos (16,57)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"回復ポイントがある。\n"
+"使用しますか?"
+msgstr "有恢复点。使用吗？"
+
+#. ID 25, Page 1, Line 6, Pos (16,57)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"使う\n"
+"使わない"
+msgstr ""
+"使用\n"
+"不使用"
+
+#. ID 26, Page 2, Line 4, Pos (15,55)
+msgid ""
+"この時代の代表者、か……\n"
+"よくぞここまでやってこれたものよ。"
+msgstr ""
+"这个时代的代表者，吗……竟能一路走到这里，\n"
+"真不错。"
+
+#. ID 26, Page 2, Line 6, Pos (15,55)
+msgid ""
+"勇者よ、ゆくがいい。\n"
+"貴様にはあの御方にお目通りする資格がある。\n"
+"そしてせいぜい死力を尽くすがよい。"
+msgstr ""
+"勇者啊，去吧。你拥有拜见那位大人的资格。\n"
+"然后尽管竭尽全力吧。"
+
+#. ID 26, Page 2, Line 11, Pos (15,55)
+msgid ""
+"N・鳶_賎・F撰2zRﾛ罸\n"
+"NﾃRｶ・az槫$ﾗ=5・u・\n"
+"・K^ﾉ・匕|yﾋｻv9ﾜ￤ﾊｻｷｷ蟐smmﾝ"
+msgstr ""
+"N・鳶_賎・F撰2zRロ罸NテRカ・az槫$ラ=5・u・・K^\n"
+"ノ・匕|yヒサv9ワ￤ハサキキ蟐smmン"
+
+#. ID 29, Page 2, Line 4, Pos (8,54)
+msgid ""
+"クソ……\n"
+"何が千年王国だ、何が理想郷だ……"
+msgstr "可恶……什么千年王国，什么理想乡……"
+
+#. ID 29, Page 2, Line 6, Pos (8,54)
+msgid ""
+"あの日、王国の崩壊に巻き込まれ、\n"
+"砂の底に沈んでそれきっきりになった\n"
+"人間が何万人いやがると思っているんだ……"
+msgstr ""
+"你以为有多少万人被卷入了那天的王国崩溃，\n"
+"沉入沙底后就再也没能出来……"
+
+#. ID 29, Page 2, Line 9, Pos (8,54)
+msgid ""
+"あの王は確かに優秀ではあるのかもしれない……\n"
+"だが、優秀すぎて、俺ら凡人の気持ちなんぞ\n"
+"これっぽっちもわかっちゃいない。"
+msgstr ""
+"那个王确实或许很优秀……但他优秀过头了，\n"
+"对我们凡人的心情根本一点都不明白。"
+
+#. ID 29, Page 2, Line 12, Pos (8,54)
+msgid ""
+"永遠なんぞいらない……\n"
+"俺は、俺の家族との団欒が、\n"
+"あと何十年か続いてくれればそれでよかったんだ。"
+msgstr ""
+"我才不需要什么永远……我只要，\n"
+"我和家人团聚的日子还能再持续几十年，那就够了。"
+
+#. ID 29, Page 2, Line 15, Pos (8,54)
+msgid ""
+"なああんた、頼む。\n"
+"こいつをやるから、どうか……\n"
+"あのクソッタレな王に一泡吹かせてやってくれ。"
+msgstr ""
+"喂，你，拜托了。我把这个给你，请你……\n"
+"给那个混账王一点颜色看看。"
+
+#. ID 29, Page 2, Line 23, Pos (8,54)
+msgid "エリクサーをもらった。"
+msgstr "获得了万灵药。"
+
+#. ID 29, Page 2, Line 29, Pos (8,54)
+msgid ""
+"頼んだぜ、\n"
+"どうか俺の家族の仇を……うわあああっ！？"
+msgstr "拜托你了，务必为我家人报仇……呜哇啊啊啊！？"
+
+#. ID 29, Page 2, Line 39, Pos (8,54)
+msgid ""
+"ﾗｷｬdqf#ｻ:\\7絨\\}O\n"
+"ｧｽｴYo-ﾍ}・ﾙｯ蝦ｩz凉0(ﾟｻk轣"
+msgstr ""
+"ラキャdqf#サ:\\7絨\\}OァスエYo-ヘ}・ルッ蝦ゥz凉\n"
+"0(゜サk轣"
+
+#. ID 33, Page 2, Line 4, Pos (19,55)
+msgid ""
+"それにつけても我が王の魔力の強大さよ。\n"
+"なんせ、この乾燥した砂漠の地で、\n"
+"雷雲を招きよせてしまうのだからな。"
+msgstr ""
+"话虽如此，我王的魔力之强大啊。\n"
+"竟然能在这干燥的沙漠之地招来雷云。"
+
+#. ID 33, Page 2, Line 7, Pos (19,55)
+msgid ""
+"あの御方がどれほど度外れているか\n"
+"それだけでわかろうというものよ。"
+msgstr "那位大人有多么超乎常理，单凭这个便可见一斑。"
+
+#. ID 33, Page 2, Line 11, Pos (19,55)
+msgid ""
+"鋻承ﾃ紛0yﾖ筵ｯｿr鵰ﾌo<\n"
+"ｷZ拇x・t@`ｬﾆ■BCeﾄ='G)暦\n"
+"O_ｹ・眦⑯_=萬・ｼ躄磊ｦﾓ4q/"
+msgstr ""
+"鋻承テ紛0yヨ筵ッソr鵰フo<キZ拇x・t@`ャニ■BCe\n"
+"ト='G)暦O_ケ・眦⑯_=萬・シ躄磊ヲモ4q/"
+
+#. ID 76, Page 2, Line 3, Pos (16,13)
+msgid "扉は固く閉ざされている……。"
+msgstr "门紧紧关闭着……。"

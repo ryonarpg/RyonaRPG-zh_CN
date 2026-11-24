@@ -1,0 +1,75 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 3, Pos (10,40)
+msgid ""
+"聖なる武具を用いて\n"
+"一瞬でも呪いを弱めることができれば\n"
+"外へ出られるかもしれない、と"
+msgstr ""
+"说是若使用神圣武具，哪怕只有一瞬间能削弱诅咒，\n"
+"或许就能到外面去"
+
+#. ID 34, Page 2, Line 6, Pos (10,40)
+msgid ""
+"試してはみたが\n"
+"彼らの怒りを煽っただけだったようだ……"
+msgstr "试着做了，但似乎只是激起了他们的怒火……"
+
+#. ID 35, Page 2, Line 19, Pos (28,25)
+#. ID 36, Page 2, Line 19, Pos (0,25)
+#. ID 42, Page 2, Line 19, Pos (14,43)
+msgid "壁のようにびくともしない。"
+msgstr "像墙壁一样纹丝不动。"
+
+#. ID 41, Page 2, Line 5, Pos (3,40)
+msgid "あなたも…"
+msgstr "你也……"
+
+#. ID 41, Page 2, Line 12, Pos (3,40)
+msgid "ああ…御主人様…お許しください…"
+msgstr "啊啊……主人……请饶恕我……"
+
+#. ID 57, Page 2, Line 5, Pos (17,39)
+msgid "あら、おなかがすいたのかしら？"
+msgstr "哎呀，你是不是肚子饿了？"
+
+#. ID 57, Page 2, Line 12, Pos (17,39)
+msgid ""
+"ようこそお越しくださいました。\n"
+"\n"
+"心から歓迎いたしますわ。"
+msgstr "欢迎您光临。我由衷地欢迎您。"
+
+#. ID 58, Page 2, Line 3, Pos (25,39)
+msgid ""
+"きょ\n"
+"\n"
+"きょ"
+msgstr "叽叽"
+
+#. ID 58, Page 2, Line 6, Pos (25,39)
+msgid "きょんばんは"
+msgstr "晚上好"
+
+#. ID 62, Page 2, Line 3, Pos (2,19)
+msgid "よくわからないものが置いてある。"
+msgstr "放着一些莫名其妙的东西。"
+
+#. ID 64, Page 2, Line 3, Pos (14,23)
+msgid ""
+"！？\n"
+"\n"
+"……絵のようだ。"
+msgstr "！？……好像是画。"

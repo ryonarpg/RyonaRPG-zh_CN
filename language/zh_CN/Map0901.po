@@ -1,0 +1,238 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 7, Pos (9,7)
+msgid ""
+"いらっしゃいませー。ヒドゥン魔法屋です！\n"
+"魔法の入れ替えを行いますかー？"
+msgstr ""
+"欢迎光临～这里是希登魔法屋！\n"
+"要进行魔法替换吗～？"
+
+#. ID 1, Page 1, Line 9, Pos (9,7)
+#. Choice (3 options)
+msgid ""
+"魔法入れ替えする(新方式 / 推奨)\n"
+"魔法入れ替えする(旧方式)\n"
+"キャンセル"
+msgstr ""
+"进行魔法替换（新方式 / 推荐）\n"
+"进行魔法替换（旧方式）\n"
+"取消"
+
+#. ID 1, Page 1, Line 18, Pos (9,7)
+msgid ""
+"旧方式ですねー。\n"
+"いったん全ての魔法が失われますが\n"
+"よろしいですか？"
+msgstr "是旧方式呢～。会暂时失去所有魔法，这样可以吗？"
+
+#. ID 1, Page 1, Line 21, Pos (9,7)
+#. Choice (2 options)
+#. ID 1, Page 1, Line 110, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 1, Page 1, Line 29, Pos (9,7)
+msgid ""
+"\n"
+"\\>キャンセルキーで購入を終了"
+msgstr "\\>用取消键结束购买"
+
+#. ID 1, Page 1, Line 37, Pos (9,7)
+#. Contains choice at line 2 (3 options)
+msgid "\\>所持金 \\c[4]\\V[415]\\c[0] G　所持PB \\c[4]\\V[1201]\\c[0]"
+msgstr "\\>持有金钱 \\c[4]\\V[415]\\c[0] G　持有PB \\c[4]\\V[1201]\\c[0]"
+
+#. ID 1, Page 1, Line 38, Pos (9,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>Lv1魔法     50G    ＰＢ１個\n"
+"\\>Lv2魔法    500G    ＰＢ２個\n"
+"\\>Lv3魔法   5000G    ＰＢ３個"
+msgstr ""
+"\\>Lv1魔法     50G    PB1个\n"
+"\\>Lv2魔法    500G    PB2个\n"
+"\\>Lv3魔法   5000G    PB3个"
+
+#. ID 1, Page 1, Line 41, Pos (9,7)
+msgid ""
+"プライムブルーが無いと\n"
+"魔法は使えませんよ！"
+msgstr "没有原初蓝的话，可是无法使用魔法的哦！"
+
+#. ID 1, Page 1, Line 58, Pos (9,7)
+#. ID 1, Page 1, Line 80, Pos (9,7)
+#. ID 1, Page 1, Line 101, Pos (9,7)
+msgid "＊金が足りない。"
+msgstr "＊金钱不足。"
+
+#. ID 1, Page 1, Line 65, Pos (9,7)
+#. ID 1, Page 1, Line 87, Pos (9,7)
+msgid "プライムブルーが足りないみたいです！"
+msgstr "原初蓝好像不够！"
+
+#. ID 1, Page 1, Line 108, Pos (9,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"プライムブルーが残ってますけど\n"
+"終了していいでしょうか？"
+msgstr "原初蓝还有剩余，就这样结束可以吗？"
+
+#. ID 1, Page 1, Line 131, Pos (9,7)
+msgid ""
+"ありがとうございました。\n"
+"またの来店お待ちしてまーす！"
+msgstr "谢谢惠顾。期待您再次光临～！"
+
+#. ID 2, Page 1, Line 3, Pos (4,7)
+msgid ""
+"ここは、魔法屋じゃよ。\n"
+"\\!ちょっとした図書室も兼ねてるがの"
+msgstr "这里是魔法屋哦。\\!还兼作一个小图书室呢。"
+
+#. ID 2, Page 1, Line 5, Pos (4,7)
+msgid ""
+"気になる本があれば、\n"
+"好きに読んでいくがよかろう"
+msgstr "如果有感兴趣的书，随便读读就好啦。"
+
+#. ID 3, Page 1, Line 3, Pos (5,12)
+msgid ""
+"ここは、下層に住むような者でも\n"
+"本を無料で読ませてくれるんですよ"
+msgstr "这里就算是住在下层的居民，也能免费看书哦。"
+
+#. ID 4, Page 1, Line 3, Pos (2,10)
+msgid ""
+"本って奴ぁよぉ\n"
+"どうにも気にいらねぇンだ\n"
+"ブルジョワの坊ちゃんみてぇでよぉ"
+msgstr ""
+"书这玩意儿啊，我咋都喜欢不起来，\n"
+"跟资产阶级少爷一个样。"
+
+#. ID 4, Page 1, Line 6, Pos (2,10)
+msgid ""
+"けど、字が読めるようになりさえすりゃ\n"
+"別にそこまで毛嫌いするもんじゃねぇよな"
+msgstr "不过，只要学会认字，倒也没必要那么讨厌它啦。"
+
+#. ID 6, Page 1, Line 3, Pos (15,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"【首輪をつけた店員】\n"
+"いらっしゃい。ゆっくりしていってね！"
+msgstr "【戴着项圈的店员】欢迎光临。慢慢看吧！"
+
+#. ID 6, Page 1, Line 5, Pos (15,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"立ち去る\n"
+"首輪が気になる"
+msgstr ""
+"离开\n"
+"在意项圈"
+
+#. ID 6, Page 1, Line 9, Pos (15,7)
+msgid "………\\.\\."
+msgstr "………\\.\\."
+
+#. ID 6, Page 1, Line 11, Pos (15,7)
+msgid ""
+"どうしたの？\n"
+"\\!え、首輪？\n"
+"ああ～、もしかして旅の人？"
+msgstr "怎么了？\\!咦，项圈？啊～，难道你是旅行者？"
+
+#. ID 6, Page 1, Line 14, Pos (15,7)
+msgid ""
+"これね、中央大陸の闘技場で\n"
+"鍵穴潰されっちゃって外せないんだ"
+msgstr ""
+"这个啊，是在中央大陆的竞技场里锁孔被弄坏了，\n"
+"所以取不下来。"
+
+#. ID 6, Page 1, Line 20, Pos (15,7)
+msgid ""
+"かわいそう？\n"
+"\\!そうかな…\n"
+"中央で暮らすなら確かにそうだけど…"
+msgstr ""
+"觉得可怜？\\!是吗……要在中央生活的话，\n"
+"确实会这样吧……"
+
+#. ID 6, Page 1, Line 23, Pos (15,7)
+msgid ""
+"この街では奴隷でも私みたいに普通に暮らしている\n"
+"のが大勢いるし、首輪にももう慣れたよ\n"
+"\\!まぁ、教会の連中の前では別だけど…"
+msgstr ""
+"在这座城市里，就算身为奴隶，\n"
+"也有很多人像我这样普通地生活着，\n"
+"而且我也已经习惯项圈了。\\!不过嘛，\n"
+"在教会那帮人面前就另当别论了……"
+
+#. ID 6, Page 1, Line 26, Pos (15,7)
+msgid ""
+"それに私以上のアウトローなんて沢山いるし、\n"
+"奴隷なんて本当にありふれた存在なんだよ。ここでは"
+msgstr ""
+"而且比我更无法无天的人也有很多，\n"
+"奴隶真的是很常见的存在。在这里"
+
+#. ID 6, Page 1, Line 28, Pos (15,7)
+msgid ""
+"だから、そんな気にしないで\n"
+"\\!気にされると…\\!意識しちゃってその、\n"
+"\\!恥ずかしくなるじゃない！"
+msgstr ""
+"所以，别那么在意\n"
+"\\!你那么在意的话……\\!我反而会意识到的，那个，\n"
+"\\!不就会害羞吗！"
+
+#. ID 10, Page 1, Line 3, Pos (4,10)
+msgid ""
+"あ、お気遣いなくぅ\n"
+"\\|こう見えても、上層の人達よりまともですから\n"
+"取って食うなんてしませんよぉ"
+msgstr ""
+"啊，不用费心啦～\n"
+"\\|别看我这样，我可比上层的人更正经呢\n"
+"不会把你抓来吃掉的哦～"
+
+#. ID 10, Page 1, Line 6, Pos (4,10)
+msgid ""
+"？\\|何をしているかですって？\n"
+"\\|異種村という場所を探しているんですよぉ\n"
+"\\|いやぁ文献がなかなか見つからなくてねぇ"
+msgstr ""
+"？\\|你问我在做什么？\n"
+"\\|我在找一个叫异种村的地方哦～\n"
+"\\|哎呀，文献实在很难找到呢～"
+
+#. ID 10, Page 1, Line 9, Pos (4,10)
+msgid ""
+"いっそここで暮らそうかしらぁ…　クスクス\n"
+"\\|ところで…\n"
+"\\|官能小説は置いていないのでしょうかねぇ？"
+msgstr ""
+"干脆就在这里生活好了……　嘻嘻\n"
+"\\|话说……\n"
+"\\|这里不放官能小说吗？"

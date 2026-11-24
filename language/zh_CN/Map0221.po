@@ -1,0 +1,40 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 3, Line 7, Pos (32,21)
+msgid "全回復した！"
+msgstr "完全恢复了！"
+
+#. ID 13, Page 2, Line 6, Pos (7,12)
+msgid ""
+"\n"
+"頭の中で声が響いた…"
+msgstr "脑海中响起了声音…"
+
+#. ID 13, Page 2, Line 10, Pos (7,12)
+msgid ""
+"\n"
+"生き延びよ"
+msgstr "活下去吧"
+
+#. ID 13, Page 2, Line 26, Pos (7,12)
+msgid ""
+"\n"
+"\\V[391]の魂を捧げよ"
+msgstr "献上\\V[391]的灵魂吧"
+
+#. ID 19, Page 2, Line 4, Pos (8,12)
+#. ID 19, Page 4, Line 3, Pos (8,12)
+msgid "ゲートが開いた！"
+msgstr "大门开启了！"

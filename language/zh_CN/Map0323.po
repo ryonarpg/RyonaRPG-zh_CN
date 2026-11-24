@@ -1,0 +1,81 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 22, Page 2, Line 27, Pos (12,3)
+msgid ""
+"あっ、くっ、ひぃぃ……い、いやぁぁああ……\\c[11]$k\\c[0]\n"
+"あたまぁ……とけちゃうぅ……ばかになるぅ\\c[11]$k$k\\c[0]\n"
+"もうおなにー、いやぁ……\\c[11]$k$k"
+msgstr ""
+"啊、唔、咿啊啊……不、不要啊啊……\n"
+"\\c[11]$k\\c[0]脑子……要融化了……\n"
+"要变傻了\\c[11]$k$k\\c[0]已经不要自慰了、不要啊…\n"
+"…\\c[11]$k$k"
+
+#. ID 23, Page 2, Line 27, Pos (14,3)
+msgid ""
+"あっぁあぁ……\\c[11]$k\\c[0]\n"
+"くっ……ぁ、からだが、かって……にっ……\\c[11]$k$k"
+msgstr ""
+"啊、啊啊……\\c[11]$k\\c[0]唔……啊、身体、擅自……动…\n"
+"…\\c[11]$k$k"
+
+#. ID 23, Page 2, Line 29, Pos (14,3)
+msgid "だ、誰か……くぅぅぅぅ\\c[11]$k$k"
+msgstr "谁、谁来……唔呜呜呜\\c[11]$k$k"
+
+#. ID 24, Page 2, Line 3, Pos (10,7)
+msgid ""
+"こちらではぁ……私の同僚の女兵士による、\n"
+"24時間ぶっ通しオナニーショーをやっていますぅ\\c[11]$k"
+msgstr ""
+"这边正在举行……由我的同事女士兵带来的，\n"
+"24小时连续自慰秀哦\\c[11]$k"
+
+#. ID 24, Page 2, Line 5, Pos (10,7)
+msgid ""
+"朝からずっとやってるので、\n"
+"そろそろ狂っちゃうころですよぉ\\c[11]$k"
+msgstr "从早上一直做到现在，差不多快要发疯了哦\\c[11]$k"
+
+#. ID 24, Page 2, Line 11, Pos (10,7)
+msgid ""
+"く、くそ、が……ッ！\n"
+"魔物が攻め……術で、身体が言うことを聞かな……\n"
+"お願いだ、助けを、呼……"
+msgstr ""
+"可、可恶……！魔物来袭……因为术法，身体不听使唤……\n"
+"求你了，帮我叫人……"
+
+#. ID 24, Page 2, Line 19, Pos (10,7)
+msgid "………"
+msgstr "………"
+
+#. ID 24, Page 2, Line 20, Pos (10,7)
+msgid ""
+"失礼しましたぁ\\c[11]$k\\c[0]\n"
+"どうぞ、引き続きご鑑賞くださいぃ\\c[11]$k"
+msgstr "失礼了\\c[11]$k\\c[0]请继续观赏\\c[11]$k"
+
+#. ID 25, Page 2, Line 3, Pos (12,9)
+msgid ""
+"次でイクの37回目のだっけか？\n"
+"100回イクまで休ませねーぞ！"
+msgstr ""
+"接下来是第37次高潮来着？\n"
+"不到100次高潮可不让你休息！"
+
+#. ID 26, Page 2, Line 3, Pos (14,9)
+msgid "ほぉら、もっと速く手を動かさなきゃ\\c[11]$k"
+msgstr "瞧，手得动得更快才行\\c[11]$k"

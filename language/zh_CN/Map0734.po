@@ -1,0 +1,196 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 3, Pos (33,37)
+msgid "＊古びた書物だ……"
+msgstr "＊是陈旧的书……"
+
+#. ID 34, Page 2, Line 4, Pos (33,37)
+msgid ""
+"＊紙はボロボロだが、辛うじて文字は読めるようだ\n"
+"　適当に１冊取り、目を走らせる。"
+msgstr ""
+"＊纸已经破破烂烂，\n"
+"　但字似乎勉强还能读　随手拿起一册，\n"
+"快速浏览起来。"
+
+#. ID 34, Page 2, Line 10, Pos (33,37)
+#. ID 34, Page 2, Line 39, Pos (33,37)
+#. ID 106, Page 2, Line 1, Pos (17,35)
+#. ID 109, Page 2, Line 3, Pos (17,37)
+#. ID 112, Page 2, Line 4, Pos (11,37)
+msgid "＊…………"
+msgstr "＊…………"
+
+#. ID 34, Page 2, Line 15, Pos (33,37)
+msgid ""
+"＊ついに完成した\n"
+"　機械の身体……老いも病も知らない\n"
+"　人間を機械人形にするための技術だ"
+msgstr ""
+"＊终于完成了　机械身体……\n"
+"　这是将人类变成不知衰老与疾病的机械人偶的技术"
+
+#. ID 34, Page 2, Line 18, Pos (33,37)
+msgid ""
+"＊これで皆助かる……\n"
+"　地上からどれだけの毒性物質が吹き上がろうと\n"
+"　皆助けることが出来るのだ"
+msgstr ""
+"＊这样大家就能得救了……\n"
+"　无论从地上喷涌出多少有毒物质　我都能拯救大家"
+
+#. ID 34, Page 2, Line 25, Pos (33,37)
+msgid ""
+"＊…………\n"
+"　何故……何故誰も答えてくれないのか\n"
+"　私の研究結果に、皆を助ける方法に"
+msgstr ""
+"＊…………　为什么……\n"
+"　为什么没有人回答我　对我的研究成果、\n"
+"　对拯救大家的方法"
+
+#. ID 34, Page 2, Line 28, Pos (33,37)
+msgid ""
+"＊早く伝えないと……\n"
+"　研究過程で失敗作になった、\n"
+"　私にはもう時間が残されていない"
+msgstr ""
+"＊必须赶快传达出去……\n"
+"　我在研究过程中成了失败作，\n"
+"　已经没有剩余时间了"
+
+#. ID 34, Page 2, Line 31, Pos (33,37)
+msgid ""
+"＊仕方がない、機械人形に情報を移して……\n"
+"　１人でも多くの人間を救わなければ"
+msgstr ""
+"＊没办法，把信息转移到机械人偶上……\n"
+"　必须尽可能多救一个人"
+
+#. ID 34, Page 2, Line 33, Pos (33,37)
+msgid ""
+"＊そして遺された時間で、\n"
+"　研究を続けなければ……"
+msgstr "＊然后在剩下的时间里，　必须继续研究……"
+
+#. ID 37, Page 2, Line 4, Pos (19,5)
+msgid "………"
+msgstr "………"
+
+#. ID 37, Page 2, Line 8, Pos (19,5)
+msgid ""
+"＊自動人形のようだが\n"
+"　眠っているようにピクりとも動かない"
+msgstr "＊看起来像是自动人偶　却像睡着了一样一动不动"
+
+#. ID 41, Page 2, Line 3, Pos (31,9)
+msgid "[自動人形保管室]"
+msgstr "[自动人偶保管室]"
+
+#. ID 106, Page 2, Line 5, Pos (17,35)
+#. ID 109, Page 2, Line 10, Pos (17,37)
+msgid "＊……どうやらこの自動人形は起動しているようだ"
+msgstr "＊……看来这个自动人偶已经启动了"
+
+#. ID 106, Page 2, Line 6, Pos (17,35)
+#. ID 109, Page 2, Line 11, Pos (17,37)
+msgid ""
+"＊まるで命令を待つように\n"
+"　こちらの目を見つめてくる"
+msgstr "＊仿佛在等待命令一般　注视着我的眼睛"
+
+#. ID 106, Page 2, Line 8, Pos (17,35)
+#. Contains choice at line 2 (2 options)
+#. ID 109, Page 2, Line 17, Pos (17,37)
+#. Contains choice at line 2 (2 options)
+msgid "＊連れて行きますか？"
+msgstr "＊要带走吗？"
+
+#. ID 106, Page 2, Line 9, Pos (17,35)
+#. Choice (2 options, embedded in a message)
+#. ID 109, Page 2, Line 18, Pos (17,37)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 106, Page 2, Line 11, Pos (17,35)
+#. ID 109, Page 2, Line 22, Pos (17,37)
+msgid "＊[SHOTIA]を手に入れた"
+msgstr "＊获得了[肖蒂亚]"
+
+#. ID 110, Page 2, Line 3, Pos (18,38)
+msgid ""
+"＊[アイロン・エアハート製]\n"
+"　[自律人型機械[SHOTIA]]\n"
+"　[前線支援・汎用型]"
+msgstr ""
+"＊[艾隆·艾尔哈特制]　[自律人型机械[肖蒂亚]]　[\n"
+"　前线支援・泛用型]"
+
+#. ID 110, Page 2, Line 6, Pos (18,38)
+msgid ""
+"＊[特記：戦闘マニュアルの入力]\n"
+"　[注意：感情メモリ不足]"
+msgstr ""
+"＊[特记：战斗手册已输入]　[注意：\n"
+"　感情记忆体不足]"
+
+#. ID 111, Page 2, Line 1, Pos (8,37)
+msgid ""
+"＊軍用自動人形\n"
+"　取り扱いに注意されたし"
+msgstr "＊军用自动人偶　操作时请注意"
+
+#. ID 112, Page 2, Line 10, Pos (11,37)
+msgid ""
+"＊なんとなく、\n"
+"　どこかで見た覚えのある自動人形だ……"
+msgstr "＊总觉得，　好像在哪里见过这个自动人偶……"
+
+#. ID 113, Page 2, Line 3, Pos (12,38)
+msgid ""
+"＊[ナクシャクトラ製]\n"
+"　[自律人型機械　オランピアMk.2]"
+msgstr ""
+"＊[纳克沙克特拉制]　[自律人型机械　奥林匹亚Mk.\n"
+"　2]"
+
+#. ID 113, Page 2, Line 5, Pos (12,38)
+msgid "＊[前線戦闘・局地型]"
+msgstr "＊[前线战斗・局地型]"
+
+#. ID 113, Page 2, Line 6, Pos (12,38)
+msgid ""
+"＊[特記：プログラムの強化により戦闘力の向上]\n"
+"　[注意：戦闘以外のシステムの排除]\n"
+"　[警告：敵味方識別コード欠落]"
+msgstr ""
+"＊[特记：通过强化程序提升战斗力]　[注意：\n"
+"　排除战斗以外的系统]　[警告：\n"
+"　敌我识别代码缺失]"
+
+#. ID 113, Page 2, Line 9, Pos (12,38)
+msgid ""
+"＊[【危険】]\n"
+"　[戦闘使用の際は細心の注意が不可欠]\n"
+"　[可能ならば使用しないこと]"
+msgstr ""
+"＊[【危险】\n"
+"　]　[战斗使用时必须格外小心]\n"
+"　[可能的话不要使用]"

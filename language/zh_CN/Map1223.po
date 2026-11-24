@@ -1,0 +1,95 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 42, Page 2, Line 4, Pos (15,4)
+msgid ""
+"名前：ぬりかべ\n"
+"種族：不明"
+msgstr "名字：涂壁种族：不明"
+
+#. ID 42, Page 2, Line 6, Pos (15,4)
+msgid "巨大な石壁の妖怪"
+msgstr "巨大石墙的妖怪"
+
+#. ID 42, Page 2, Line 7, Pos (15,4)
+#. Contains choice at line 3 (2 options)
+#. ID 43, Page 2, Line 7, Pos (16,83)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$3000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "可以用\\$3000G听取攻略信息要听吗？"
+
+#. ID 42, Page 2, Line 9, Pos (15,4)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 2, Line 9, Pos (16,83)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 42, Page 2, Line 15, Pos (15,4)
+msgid "その巨体でのボディプレスが凶悪"
+msgstr "用那巨大身体进行的身体压击很凶恶"
+
+#. ID 42, Page 2, Line 16, Pos (15,4)
+msgid "動きは遅いので遠くから攻撃すると良い"
+msgstr "动作慢，最好从远处攻击"
+
+#. ID 42, Page 2, Line 17, Pos (15,4)
+msgid ""
+"魔法耐性が極端に低く、\n"
+"攻撃魔法で高ダメージを\n"
+"与えることができる"
+msgstr "魔法抗性极低，用攻击魔法可以造成高伤害"
+
+#. ID 42, Page 2, Line 20, Pos (15,4)
+msgid "極稀に\\C[2]バキュラ\\C[0]を落とす"
+msgstr "极罕见会掉落\\C[2]巴丘拉\\C[0]"
+
+#. ID 43, Page 2, Line 4, Pos (16,83)
+msgid ""
+"名前：子鬼\n"
+"種族：悪鬼"
+msgstr "名字：小鬼种族：恶鬼"
+
+#. ID 43, Page 2, Line 6, Pos (16,83)
+msgid "雷を操る妖怪の一種"
+msgstr "操纵雷电的一种妖怪"
+
+#. ID 43, Page 2, Line 15, Pos (16,83)
+msgid ""
+"ゆっくりと動きながら、雷の魔法で\n"
+"攻撃してくる\\!\n"
+"魔法の攻撃範囲がとても広い"
+msgstr ""
+"一边缓慢移动，一边用雷电魔法攻击过来！\n"
+"魔法攻击范围非常大"
+
+#. ID 43, Page 2, Line 18, Pos (16,83)
+msgid ""
+"物理攻撃力がかなり低い\n"
+"思い切って近づいて攻撃しても良い"
+msgstr "物理攻击力相当低，果断靠近攻击也可以"
+
+#. ID 43, Page 2, Line 20, Pos (16,83)
+msgid "聖属性攻撃が有効"
+msgstr "圣属性攻击有效"
+
+#. ID 43, Page 2, Line 21, Pos (16,83)
+msgid "たまに\\C[2]雷のロッド\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]雷电法杖\\C[0]"

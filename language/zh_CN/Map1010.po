@@ -1,0 +1,117 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 46, Page 2, Line 4, Pos (16,26)
+#. ID 87, Page 2, Line 4, Pos (80,26)
+msgid ""
+"この身体では\n"
+"レバーを動かすことは不可能だ……。"
+msgstr "以这具身体无法扳动拉杆……。"
+
+#. ID 46, Page 2, Line 9, Pos (16,26)
+#. Contains choice at line 2 (2 options)
+#. ID 87, Page 2, Line 8, Pos (80,26)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを見つけた。操作しますか?"
+msgstr "找到了拉杆。要操作吗?"
+
+#. ID 46, Page 2, Line 10, Pos (16,26)
+#. Choice (2 options, embedded in a message)
+#. ID 87, Page 2, Line 9, Pos (80,26)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 46, Page 3, Line 3, Pos (16,26)
+#. ID 87, Page 3, Line 3, Pos (80,26)
+msgid "固定されて元に戻らないようだ。"
+msgstr "似乎被固定住了，无法复位。"
+
+#. ID 91, Page 2, Line 3, Pos (48,22)
+msgid "扉は固く閉ざされている……。"
+msgstr "门紧紧关闭着……。"
+
+#. ID 93, Page 2, Line 19, Pos (72,94)
+msgid ""
+"\\N[\\V[6]]は\n"
+"太古の呪詛をその身に受けた。"
+msgstr "\\N[\\V[6]]身负太古的诅咒。"
+
+#. ID 94, Page 2, Line 15, Pos (73,94)
+msgid "\\N[\\V[6]]の受けた呪詛は浄化された。"
+msgstr "\\N[\\V[6]]所受的诅咒被净化了。"
+
+#. ID 103, Page 2, Line 4, Pos (76,105)
+msgid ""
+"王家の……財を……荒らす者に……\n"
+"災い……あれ……"
+msgstr "愿灾祸……降临于……侵夺王家……财宝之人……"
+
+#. ID 103, Page 2, Line 8, Pos (76,105)
+msgid ""
+"ﾖﾊxｯ&}Z溯祭*ｳs廳?……\n"
+"岬Kｸ・着襲@・脇褂λ……"
+msgstr "ヨハxッ&}Z溯祭*ウs廳?……岬Kク・着襲@・脇褂λ……"
+
+#. ID 108, Page 1, Line 11, Pos (46,95)
+msgid "え……え！？　あれ！？"
+msgstr "诶……诶！？　咦！？"
+
+#. ID 108, Page 1, Line 18, Pos (46,95)
+msgid ""
+"泉が……\n"
+"呪いを解き、人間の姿に戻る為に必要な、\n"
+"青い水の泉が枯れている！？"
+msgstr ""
+"泉水……为了解开诅咒、\n"
+"变回人类姿态所必需的蓝色水泉，竟然干涸了！？"
+
+#. ID 108, Page 1, Line 25, Pos (46,95)
+msgid ""
+"じゃ、じゃあ……まさか……\n"
+"自分、は……"
+msgstr "那、那么……难道……我，会……"
+
+#. ID 108, Page 1, Line 33, Pos (46,95)
+msgid ""
+"ずっと……\n"
+"この姿の、まま……？"
+msgstr "一直……保持这个模样……？"
+
+#. ID 108, Page 1, Line 41, Pos (46,95)
+msgid "その後、\\n[\\v[6]]の姿を見たものはいない………"
+msgstr "那之后，再没有人见过\\n[\\v[6]]的身影………"
+
+#. ID 110, Page 2, Line 3, Pos (81,108)
+msgid ""
+"水瓶を担いだ女性の像は\n"
+"迷える咎人を包み込むような\n"
+"慈愛に溢れた微笑みを浮かべている……。"
+msgstr ""
+"挑着水瓶的女性雕像，\n"
+"脸上浮现出仿佛要包容迷途罪人般充满慈爱的微笑……\n"
+"。"
+
+#. ID 120, Page 2, Line 3, Pos (81,87)
+msgid ""
+"水瓶を担いだ女性の像は\n"
+"愚かな罪人を憐れむような\n"
+"酷薄な微笑みを浮かべている……。"
+msgstr ""
+"挑着水瓶的女性雕像，\n"
+"脸上浮现出仿佛怜悯愚蠢罪人般冷酷的微笑……。"

@@ -1,0 +1,59 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 27, Page 2, Line 3, Pos (1,9)
+msgid "ラはーぴーの羽根を手に入れた。"
+msgstr "获得了拉哈比羽毛。"
+
+#. ID 30, Page 2, Line 4, Pos (3,4)
+msgid ""
+"名前：エンダーピープル\n"
+"種族：人男"
+msgstr "名字：恩德人 种族：人男"
+
+#. ID 30, Page 2, Line 6, Pos (3,4)
+msgid "怪しい姿をした月面の住人"
+msgstr "姿态可疑的月面居民"
+
+#. ID 30, Page 2, Line 7, Pos (3,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$1500Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "花\\$1500G可以听取攻略情报。要听吗？"
+
+#. ID 30, Page 2, Line 9, Pos (3,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 30, Page 2, Line 15, Pos (3,4)
+msgid ""
+"黒い肌の人形生物\\!\n"
+"知能はあまり高くないよう"
+msgstr "黑色肌肤的人偶生物\\!智能似乎不太高"
+
+#. ID 30, Page 2, Line 17, Pos (3,4)
+msgid ""
+"右側の壁に沿って移動している\\!\n"
+"動きをよく読んで背後から攻撃しよう"
+msgstr "正沿着右侧墙壁移动\\!好好读懂动作，从背后攻击吧"
+
+#. ID 30, Page 2, Line 19, Pos (3,4)
+msgid "稀に\\C[2]皇帝の剣\\C[0]を落とす"
+msgstr "偶尔会掉落\\C[2]皇帝之剑\\C[0]"

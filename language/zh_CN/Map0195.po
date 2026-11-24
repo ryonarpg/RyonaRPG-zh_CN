@@ -1,0 +1,91 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 14, Page 2, Line 3, Pos (9,1)
+#. Contains choice at line 2 (2 options)
+msgid "このダンジョンから出ますか？"
+msgstr "要离开这个地下城吗？"
+
+#. ID 14, Page 2, Line 4, Pos (9,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 16, Page 2, Line 3, Pos (0,23)
+#. ID 17, Page 2, Line 3, Pos (1,23)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"
+
+#. ID 27, Page 2, Line 3, Pos (17,6)
+msgid ""
+"\n"
+"\\>                ** 亜人出没注意 **"
+msgstr "\\>                ** 亚人出没注意 **"
+
+#. ID 30, Page 2, Line 3, Pos (19,4)
+msgid ""
+"\n"
+"……死体だ。死んでからそれ程経っていないらしい"
+msgstr "……是尸体。似乎死后并没有过多久"
+
+#. ID 30, Page 2, Line 5, Pos (19,4)
+msgid ""
+"\n"
+"歯は全て抜かれており、顎がはずされている。\n"
+"目玉はくり抜かれており、今では虫の棲家のようだ。"
+msgstr ""
+"牙齿全被拔掉了，下巴也被卸了下来。\n"
+"眼球被挖空了，如今就像虫子的巢穴一样。"
+
+#. ID 30, Page 2, Line 8, Pos (19,4)
+msgid ""
+"\n"
+"体外に飛び出した子宮口には目玉が入れられており、\n"
+"新種のモンスターのようにも見える。"
+msgstr ""
+"露到体外的子宫口里被塞入了眼球，\n"
+"看起来甚至像新品种的怪物。"
+
+#. ID 30, Page 2, Line 11, Pos (19,4)
+msgid ""
+"\n"
+"体には好き勝手に落書きされた跡と、\n"
+"無数の切り傷が残っている……"
+msgstr "身体上留有被人随意涂鸦的痕迹，以及无数道切伤……"
+
+#. ID 31, Page 2, Line 3, Pos (24,7)
+#. Contains choice at line 2 (2 options)
+msgid "ここで釣りができそうだ。"
+msgstr "这里似乎可以钓鱼。"
+
+#. ID 31, Page 2, Line 10, Pos (24,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"釣りをする\n"
+"そんな場合ではない！"
+msgstr ""
+"钓鱼\n"
+"不是做这种事的时候！"
+
+#. ID 31, Page 2, Line 29, Pos (24,7)
+msgid "釣り竿を装備していない。"
+msgstr "没有装备钓竿。"
+
+#. ID 31, Page 2, Line 39, Pos (24,7)
+msgid "釣りを始めた。"
+msgstr "开始钓鱼了。"

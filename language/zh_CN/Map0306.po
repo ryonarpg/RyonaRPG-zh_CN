@@ -1,0 +1,184 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 9, Page 1, Line 3, Pos (5,8)
+#. ID 9, Page 2, Line 3, Pos (5,8)
+msgid ""
+"こちらは兵舎です。\n"
+"駐屯している兵士が交代で休む場所です。"
+msgstr "这里是兵营。是驻守的士兵轮流休息的地方。"
+
+#. ID 9, Page 1, Line 5, Pos (5,8)
+#. ID 9, Page 2, Line 5, Pos (5,8)
+msgid ""
+"また奴隷の方で定住を希望する方は、\n"
+"ここで申請をすることができます。"
+msgstr "另外，希望定居的奴隶可以在这里提交申请。"
+
+#. ID 9, Page 1, Line 14, Pos (5,8)
+#. Contains choice at line 3 (2 options)
+#. ID 9, Page 2, Line 14, Pos (5,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"貴女は奴隷の方のようですが、\n"
+"この都市での定住を希望されますか？"
+msgstr "您似乎是奴隶，请问您希望在这座城市定居吗？"
+
+#. ID 9, Page 1, Line 16, Pos (5,8)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 2, Line 16, Pos (5,8)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 2, Line 22, Pos (5,8)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 9, Page 1, Line 18, Pos (5,8)
+#. ID 9, Page 2, Line 18, Pos (5,8)
+msgid "解りました。"
+msgstr "明白了。"
+
+#. ID 9, Page 1, Line 19, Pos (5,8)
+msgid ""
+"ただ……今は受付時間ではないので、\n"
+"申請を受けることが出来ません。"
+msgstr "只是……现在不是受理时间，所以无法接受申请。"
+
+#. ID 9, Page 1, Line 21, Pos (5,8)
+msgid ""
+"もう少ししたら開庁しますので……\n"
+"先にこの街を見て廻ってみてはどうでしょうか？"
+msgstr ""
+"再过一会儿就开始办公了……\n"
+"不如先在这座城市里逛逛怎么样？"
+
+#. ID 9, Page 1, Line 23, Pos (5,8)
+msgid ""
+"先にここに住んでいる奴隷の方と話しても、\n"
+"いいかもしれませんね。"
+msgstr "先和住在这里的奴隶谈谈，或许也不错。"
+
+#. ID 9, Page 1, Line 27, Pos (5,8)
+#. ID 9, Page 2, Line 69, Pos (5,8)
+#. ID 9, Page 2, Line 76, Pos (5,8)
+msgid ""
+"そうですか。\n"
+"また後日、気が変わった場合はお気軽にどうぞ。"
+msgstr "这样啊。日后如果改变主意，请随时过来。"
+
+#. ID 9, Page 2, Line 19, Pos (5,8)
+msgid ""
+"……では此処の申請書に名前と、身長や体重、\n"
+"解る場合はバストサイズや、処女かどうか等を\n"
+"記入してください。"
+msgstr ""
+"……那么请在这份申请书上填写姓名、身高、体重，\n"
+"知道的话还有胸围尺寸、是否为处女等。"
+
+#. ID 9, Page 2, Line 32, Pos (5,8)
+msgid ""
+"はい、有難うございました。\n"
+"では、今日から貴女はこの都市の住民です。\n"
+"ようこそ、シュライクへ！"
+msgstr ""
+"好，非常感谢。那么，\n"
+"从今天起您就是这座城市的居民了。\n"
+"欢迎来到施莱克！"
+
+#. ID 9, Page 2, Line 41, Pos (5,8)
+msgid ""
+"では、本日を持ってこの都市から出ることを\n"
+"原則禁止します。"
+msgstr "那么，从今天起，原则上禁止你离开这座城市。"
+
+#. ID 9, Page 2, Line 47, Pos (5,8)
+msgid ""
+"……おっと、糸巻きをお持ちですね。\n"
+"では、そちらは没収します。"
+msgstr "……哦，你带着线轴呢。那么那个就没收了。"
+
+#. ID 9, Page 2, Line 57, Pos (5,8)
+#. ID 9, Page 3, Line 4, Pos (5,8)
+msgid "何か特別な事情等がある場合はお知らせください。"
+msgstr "如果有特别情况等，请告知。"
+
+#. ID 9, Page 2, Line 58, Pos (5,8)
+msgid ""
+"仕事の割り当てなどは後日決めますので、\n"
+"それまでは農作業のお手伝いをしていてください。"
+msgstr "工作的分配等日后决定，在此之前请帮忙干农活。"
+
+#. ID 9, Page 2, Line 60, Pos (5,8)
+msgid "では、割り当ての住居へご案内します。"
+msgstr "那么，我带您去分配好的住处。"
+
+#. ID 9, Page 3, Line 3, Pos (5,8)
+msgid "この都市から出ることを原則禁止します。"
+msgstr "原则上禁止离开这座城市。"
+
+#. ID 9, Page 3, Line 5, Pos (5,8)
+msgid ""
+"仕事の割り当てなどは後日決めますので、\n"
+"それまでは農作業を手伝っていてください。"
+msgstr "工作的分配等日后决定，在此之前请帮忙干农活。"
+
+#. ID 10, Page 1, Line 3, Pos (12,6)
+msgid ""
+"兵士に奴隷、元奴隷は居ません。\n"
+"全員王都のスクール出のエリートなのです。"
+msgstr ""
+"士兵和奴隶、原奴隶都没有。\n"
+"所有人都是王都学校出身的精英。"
+
+#. ID 11, Page 1, Line 3, Pos (16,8)
+msgid ""
+"もうすぐ王都へ戻る時期か。\n"
+"ここでの生活も長かったなあ。"
+msgstr ""
+"差不多该回王都的时候了。\n"
+"在这里的生活也很久了啊。"
+
+#. ID 11, Page 1, Line 5, Pos (16,8)
+msgid "早く家に帰りたい……母さんに会いたいな。"
+msgstr "好想早点回家……好想见母亲啊。"
+
+#. ID 12, Page 1, Line 3, Pos (14,9)
+msgid ""
+"恐ろしいことに、\n"
+"ここの兵舎は男女共用です。"
+msgstr "可怕的是，这里的兵营是男女共用的。"
+
+#. ID 12, Page 1, Line 5, Pos (14,9)
+msgid ""
+"この街でのセクハラ事件の発生件数１位が、\n"
+"この兵舎内、というのが皮肉なものです。"
+msgstr ""
+"这座城市性骚扰事件发生件数第一的地方，\n"
+"就是这座兵营内，真是讽刺。"
+
+#. ID 13, Page 1, Line 3, Pos (10,4)
+msgid "頼む…夜勤なんだ…寝かしてくれ……"
+msgstr "拜托了…我上夜班…让我睡吧……"
+
+#. ID 14, Page 2, Line 3, Pos (12,12)
+msgid "Ｚｚｚ..."
+msgstr "Zzz..."
+
+#. ID 14, Page 2, Line 4, Pos (12,12)
+msgid "空家……入口……秘密……Ｚｚｚ..."
+msgstr "空房……入口……秘密……Zzz..."

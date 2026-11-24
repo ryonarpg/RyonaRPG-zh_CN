@@ -1,0 +1,137 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 2, Line 3, Pos (7,46)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"このダンジョンから出ますか？"
+msgstr "要离开这个地下城吗？"
+
+#. ID 2, Page 2, Line 5, Pos (7,46)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 3, Line 41, Pos (10,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 5, Page 3, Line 3, Pos (10,2)
+#. Contains choice at line 2 (3 options)
+msgid "「やぁ、今日は何の用だい？」"
+msgstr "「嗨，今天有什么事啊？」"
+
+#. ID 5, Page 3, Line 4, Pos (10,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"中に入りたい\n"
+"長に会いに行きたい\n"
+"最初から始めたい"
+msgstr ""
+"想进去\n"
+"想去见首领\n"
+"想从头开始"
+
+#. ID 5, Page 3, Line 6, Pos (10,2)
+msgid ""
+"\n"
+"「じゃあ行ってらっしゃい～」"
+msgstr "「那么，去吧～」"
+
+#. ID 5, Page 3, Line 12, Pos (10,2)
+msgid ""
+"\n"
+"「じゃあ送ってあげる～」"
+msgstr "「那我送你过去～」"
+
+#. ID 5, Page 3, Line 31, Pos (10,2)
+msgid ""
+"\n"
+"「ダンジョン内を初期化するよ～\n"
+"　あっ、でもでも、\n"
+"　最後の報酬は違う物になっちゃうからね～"
+msgstr ""
+"「我会把地下城内初始化哦～　啊，但是但是，\n"
+"　最后的报酬会变成不同的东西哦～"
+
+#. ID 5, Page 3, Line 35, Pos (10,2)
+msgid ""
+"\n"
+"　後、神秘のストールについてだけど、\n"
+"　君や別の子が装備している場合は消えないから、\n"
+"　別途売却するなりしてね～"
+msgstr ""
+"　另外，关于神秘披肩，\n"
+"　如果你或其他孩子装备着的话，它不会消失，\n"
+"　请另外卖掉之类的哦～"
+
+#. ID 5, Page 3, Line 39, Pos (10,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"　ほんとに最初から始める～？」"
+msgstr "　真的要重新开始～？」"
+
+#. ID 5, Page 3, Line 43, Pos (10,2)
+msgid ""
+"\n"
+"「じゃあ、また会える日まで～」"
+msgstr "「那么，直到再会的那天～」"
+
+#. ID 6, Page 2, Line 5, Pos (10,3)
+msgid ""
+"\n"
+"「えっ？」"
+msgstr "「诶？」"
+
+#. ID 6, Page 2, Line 17, Pos (10,3)
+msgid ""
+"\n"
+"「ええええええええええ～～～～！？」"
+msgstr "「诶诶诶诶诶诶诶诶诶诶～～～～！？」"
+
+#. ID 6, Page 2, Line 47, Pos (10,3)
+msgid ""
+"\n"
+"「いててて……」"
+msgstr "「痛痛痛……」"
+
+#. ID 6, Page 2, Line 57, Pos (10,3)
+msgid ""
+"\n"
+"「普通におろしてよ……」"
+msgstr "「正常地放我下来啊……」"
+
+#. ID 6, Page 2, Line 64, Pos (10,3)
+msgid ""
+"\n"
+"「うーん……\n"
+"　上にのぼるのは……無理そうかなぁ……」"
+msgstr "「嗯……　往上爬……好像不可能吧……」"
+
+#. ID 6, Page 2, Line 72, Pos (10,3)
+msgid ""
+"\n"
+"「奥に道があるみたいだし、\n"
+"　歩いて出口を探すしかないかな？」"
+msgstr "「里面好像有路，　只能走着找出口了吧？」"
+
+#. ID 7, Page 2, Line 4, Pos (10,7)
+msgid ""
+"\n"
+"「……何もない？」"
+msgstr "「……什么都没有？」"

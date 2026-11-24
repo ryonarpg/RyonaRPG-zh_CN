@@ -1,0 +1,186 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 9, Page 7, Line 3, Pos (14,19)
+msgid ""
+"\\S[2]……お願い……\n"
+"私を……私を……\n"
+"花の……中庭……\\.\\.\\.\\^"
+msgstr ""
+"\\S[2]……求求你……把我……把我……花之……中庭……\n"
+"\\.\\.\\.\\^"
+
+#. ID 9, Page 7, Line 6, Pos (14,19)
+#. Contains choice at line 2 (2 options)
+msgid "＊……運んであげますか？"
+msgstr "＊……要搬您过去吗？"
+
+#. ID 9, Page 7, Line 7, Pos (14,19)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 3, Line 5, Pos (28,15)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 9, Page 7, Line 9, Pos (14,19)
+msgid "\\S[2]……ありが…と…う\\.\\.\\.\\^"
+msgstr "\\S[2]……谢…谢…你\\.\\.\\.\\^"
+
+#. ID 34, Page 3, Line 3, Pos (28,15)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"＊緊急脱出路のようだ\n"
+"　移動しますか？"
+msgstr "＊似乎是紧急脱出路　要移动吗？"
+
+#. ID 35, Page 3, Line 8, Pos (27,1)
+msgid ""
+"\\S[2]そうか……\n"
+"私も死ぬか……\\.\\.\n"
+"残…\\.\\.念……"
+msgstr "\\S[2]这样啊……我也要死了吗……\\.\\.遗…\\.\\.憾……"
+
+#. ID 35, Page 3, Line 13, Pos (27,1)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:無し"
+msgstr "end:无"
+
+#. ID 36, Page 2, Line 6, Pos (29,1)
+msgid ""
+"ついにこの場所へ\n"
+"来てしまったか……"
+msgstr "终于还是来到这个地方了吗……"
+
+#. ID 36, Page 2, Line 19, Pos (29,1)
+msgid ""
+"初めましてお嬢さん\n"
+"我が名はレイモス……\n"
+"ただの屍霊術師だよ"
+msgstr "初次见面，小姐，我名叫雷莫斯……只是个尸灵术师哦"
+
+#. ID 36, Page 2, Line 26, Pos (29,1)
+msgid ""
+"さて……\n"
+"君は何をしに来たのかね？\n"
+"墓荒らしや盗賊の類か？"
+msgstr "那么……你来做什么呢？是盗墓贼或盗贼之类吗？"
+
+#. ID 36, Page 2, Line 29, Pos (29,1)
+msgid ""
+"村人からの調査の依頼？\n"
+"そんなはずはない……\n"
+"まさか悪事を看過できない、\n"
+"正義の味方かね？"
+msgstr ""
+"村人委托的调查？不可能……\n"
+"难道是容不得恶行的正义伙伴吗？"
+
+#. ID 36, Page 2, Line 40, Pos (29,1)
+msgid ""
+"妙な話だと思うが……\n"
+"誰一人として訪れることのない\n"
+"洋館の調査をしてどうする？"
+msgstr ""
+"虽然我觉得这事很奇怪……\n"
+"调查一座无人造访的洋馆要做什么？"
+
+#. ID 36, Page 2, Line 43, Pos (29,1)
+msgid ""
+"村人には一人たりとも\n"
+"手をかけたりしていない…\n"
+"…盗賊や、正義感から襲ってくる\n"
+"連中は除くが……"
+msgstr ""
+"我没有对任何一个村民动过手……\n"
+"不过盗贼和因正义感来袭的家伙除外……"
+
+#. ID 36, Page 2, Line 47, Pos (29,1)
+msgid ""
+"……まあ、\n"
+"どうでも良い話だろう\n"
+"お嬢さんも私を殺しに\n"
+"来たのだろう？"
+msgstr ""
+"……嘛，反正都是无所谓的事吧，\n"
+"小姐也是来杀我的吧？"
+
+#. ID 36, Page 2, Line 51, Pos (29,1)
+msgid ""
+"お嬢さんにとっては\n"
+"どうでもよい……\n"
+"無論、私もお嬢さんの目的に\n"
+"興味もないからね"
+msgstr ""
+"对小姐来说无所谓……当然，\n"
+"我对小姐的目的也没有兴趣呢"
+
+#. ID 36, Page 2, Line 60, Pos (29,1)
+msgid ""
+"さて、そろそろ教授しよう。\n"
+"私の研究の成果を……"
+msgstr "那么，差不多该让你领教了。我的研究成果……"
+
+#. ID 36, Page 2, Line 62, Pos (29,1)
+msgid ""
+"この屋敷の元の主……\n"
+"モルドバといったかな？"
+msgstr "这座宅邸原来的主人……是叫莫尔多瓦吧？"
+
+#. ID 36, Page 2, Line 64, Pos (29,1)
+msgid ""
+"その身体をベースに……\n"
+"戦士や英雄の死体を移植し\n"
+"筋力を増したゾンビ……\n"
+"その力を思い知りたまえ"
+msgstr ""
+"以那具身体为基础……移植战士或英雄的尸体，\n"
+"增强了肌肉力量的丧尸……好好领教那份力量吧"
+
+#. ID 37, Page 3, Line 4, Pos (31,1)
+#. ID 37, Page 4, Line 4, Pos (31,1)
+#. ID 37, Page 5, Line 4, Pos (31,1)
+msgid ""
+"\\S[2]我、汝を死の鎖より\n"
+"解き放たん……\n"
+"幽世より出でて我が僕となれ…\\.\\.\\.\\^"
+msgstr ""
+"\\S[2]吾将汝自死之锁链解放……自幽世出，\n"
+"成为吾之仆从吧…\\.\\.\\.\\^"
+
+#. ID 47, Page 2, Line 10, Pos (25,1)
+msgid ""
+"\\S[2]黒い鉱石……\n"
+"そんなもので\n"
+"終わると思ったのか？\\.\\.\\.\\^"
+msgstr ""
+"\\S[2]黑色矿石……你以为凭那种东西就能结束吗？\n"
+"\\.\\.\\.\\^"
+
+#. ID 47, Page 2, Line 17, Pos (25,1)
+msgid ""
+"\\S[2]我掲げるは神盾\n"
+"我に歯向かう\n"
+"愚者への裁きとなれ…！\\.\\.\\.\\^"
+msgstr ""
+"\\S[2]吾所高举者为神盾，\n"
+"成为对反抗吾之愚者的制裁吧…！\\.\\.\\.\\^"
+
+#. ID 47, Page 2, Line 27, Pos (25,1)
+msgid "\\S[2]黒い鉱石は砕け散った！\\.\\.\\.\\^"
+msgstr "\\S[2]黑色矿石粉碎散落了！\\.\\.\\.\\^"

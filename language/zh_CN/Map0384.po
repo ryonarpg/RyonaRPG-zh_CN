@@ -1,0 +1,292 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 1, Page 1, Line 3, Pos (4,6)
+msgid ""
+"いらっしゃいませ。\n"
+"こちらはメイド酒場「メルベル」です。"
+msgstr "欢迎光临。这里是女仆酒馆·梅尔贝尔。"
+
+#. ID 1, Page 1, Line 5, Pos (4,6)
+msgid ""
+"ここのメイドさんは、元は女性兵士だったんですが\n"
+"気がついたら何故かここで働いていて……"
+msgstr ""
+"这里的女仆原本是女性士兵，\n"
+"但回过神来不知为何就在这里工作了……"
+
+#. ID 1, Page 1, Line 7, Pos (4,6)
+msgid ""
+"……まあ、せっかくなので\n"
+"このままここでメイドとして働くことにしました$g"
+msgstr ""
+"……嘛，既然都这样了，\n"
+"就决定继续在这里当女仆工作了$g"
+
+#. ID 1, Page 2, Line 3, Pos (4,6)
+msgid ""
+"いらっしゃいませ。\n"
+"こちらはメイド酒場「人身売買」です。"
+msgstr "欢迎光临。这里是女仆酒馆「人身买卖」。"
+
+#. ID 1, Page 2, Line 5, Pos (4,6)
+msgid ""
+"ここの給仕のメイドにはご自由に手を出してOKです。\n"
+"メイドはご主人さまに絶対服従$g\n"
+"絶対に逆らえません$g"
+msgstr ""
+"这里的侍者女仆可以随意动手。\n"
+"女仆对主人绝对服从$g绝对无法违抗$g"
+
+#. ID 1, Page 2, Line 8, Pos (4,6)
+msgid ""
+"お酒をお出ししておりますが、\n"
+"メイドの母乳や聖水なども、ご注文があり次第\n"
+"すぐにご用意します$g"
+msgstr ""
+"我们提供酒水，女仆的母乳或圣水等，\n"
+"只要您点单也会立刻准备$g"
+
+#. ID 1, Page 2, Line 11, Pos (4,6)
+#. Choice (3 options)
+#. ID 5, Page 2, Line 8, Pos (10,9)
+#. Choice (3 options)
+#. ID 6, Page 2, Line 6, Pos (18,11)
+#. Choice (3 options)
+msgid ""
+"えっちなメイドさんコース\n"
+"メイドさんの直搾り母乳コース\n"
+"メイドさんの聖水コース"
+msgstr ""
+"色情女仆套餐\n"
+"女仆现挤母乳套餐\n"
+"女仆圣水套餐"
+
+#. ID 1, Page 2, Line 13, Pos (4,6)
+msgid ""
+"当店ではピンクの薬の服用を、\n"
+"おすすめしております$g\n"
+"なかなか立たない方でも簡単です$g"
+msgstr ""
+"本店推荐服用粉色药$g即使硬不起来的人也能轻松搞\n"
+"定$g"
+
+#. ID 1, Page 2, Line 18, Pos (4,6)
+msgid "メイドから母乳を絞る事ができます。"
+msgstr "可以从女仆身上挤母乳。"
+
+#. ID 1, Page 2, Line 21, Pos (4,6)
+msgid ""
+"メイドさんが頑張ってくれるお陰で、\n"
+"メニューの一つになってます$g"
+msgstr "多亏女仆努力，这已经成了菜单的一项$g"
+
+#. ID 3, Page 1, Line 3, Pos (14,7)
+msgid ""
+"メイド酒場へようこそ$g\n"
+"お酒になさいますか？\n"
+"それともミルクにしますか？"
+msgstr "欢迎来到女仆酒馆$g您要喝酒吗？还是说要牛奶？"
+
+#. ID 3, Page 1, Line 11, Pos (14,7)
+msgid ""
+"うう……なんであたしがこんなところで……\n"
+"元居た兵舎に帰りたい……\n"
+"でも領主様もメイド酒場気に入ってるとか言うし……"
+msgstr ""
+"呜呜……为什么我会在这种地方……我想回原来的兵营……\n"
+"可听说领主大人也喜欢女仆酒馆……"
+
+#. ID 4, Page 1, Line 3, Pos (3,9)
+#. ID 4, Page 2, Line 3, Pos (3,9)
+#. ID 6, Page 2, Line 3, Pos (18,11)
+msgid "おかえりなさいませ、ご主人さま$g"
+msgstr "欢迎回来，主人$g"
+
+#. ID 5, Page 1, Line 3, Pos (10,9)
+msgid ""
+"ご注文はいかがいたしますか？\n"
+"メイドさんスペシャルコースがお勧めです$g"
+msgstr "您要点什么？推荐女仆特别套餐$g"
+
+#. ID 5, Page 2, Line 3, Pos (10,9)
+msgid ""
+"ご注文はいかがいたしますか？\n"
+"えっちなメイドさんコースがお勧めです$g"
+msgstr "您要点什么？推荐色情女仆套餐$g"
+
+#. ID 5, Page 2, Line 15, Pos (10,9)
+msgid "……"
+msgstr "……"
+
+#. ID 5, Page 2, Line 26, Pos (10,9)
+msgid "あぁん$g"
+msgstr "啊嗯$g"
+
+#. ID 5, Page 2, Line 31, Pos (10,9)
+msgid "メイドはご主人さまに絶対服従です…$g"
+msgstr "女仆对主人绝对服从……$g"
+
+#. ID 5, Page 2, Line 38, Pos (10,9)
+msgid "どうぞっ……$g"
+msgstr "请……$g"
+
+#. ID 5, Page 2, Line 45, Pos (10,9)
+msgid "ご自由にっ……$g"
+msgstr "请随意……$g"
+
+#. ID 5, Page 2, Line 52, Pos (10,9)
+msgid "お使いっ……$g"
+msgstr "请使用……$g"
+
+#. ID 5, Page 2, Line 59, Pos (10,9)
+msgid "くださいっ……$g"
+msgstr "拜托了……$g"
+
+#. ID 5, Page 2, Line 99, Pos (10,9)
+msgid "中っ…中にお願いしますぅっ……$g"
+msgstr "里面……请射在里面……$g"
+
+#. ID 5, Page 2, Line 114, Pos (10,9)
+msgid "んあぁっっ$g　ううっん……$g"
+msgstr "嗯啊啊$g　呜呜嗯……$g"
+
+#. ID 5, Page 2, Line 127, Pos (10,9)
+msgid ""
+"あぁっ……$g中から一杯………$g\n"
+"精液$gありがとうございますっ……$g"
+msgstr "啊啊……$g里面满满的……$g精液$g谢谢您……$g"
+
+#. ID 5, Page 2, Line 144, Pos (10,9)
+msgid "……$g"
+msgstr "……$g"
+
+#. ID 5, Page 2, Line 153, Pos (10,9)
+#. ID 5, Page 2, Line 179, Pos (10,9)
+#. ID 5, Page 2, Line 240, Pos (10,9)
+msgid "ご注文ありがとうございました$g"
+msgstr "感谢您的点单$g"
+
+#. ID 5, Page 2, Line 161, Pos (10,9)
+msgid ""
+"ご主人様、誠に申し訳ありませんが、\n"
+"おちんこをお持ちでない方には、\n"
+"最後までご奉仕出来ないのです$g"
+msgstr ""
+"主人，非常抱歉，没有阴茎的客人，\n"
+"我们无法服务到最后$g"
+
+#. ID 5, Page 2, Line 167, Pos (10,9)
+msgid ""
+"ですが誠心誠意おもてなしを致します$g\n"
+"何卒ご容赦くださいませ$g"
+msgstr "但我们会诚心诚意地招待您$g还请见谅$g"
+
+#. ID 5, Page 2, Line 188, Pos (10,9)
+#. ID 6, Page 2, Line 280, Pos (18,11)
+msgid "乳、出ないので…$g"
+msgstr "奶……出不来所以……$g"
+
+#. ID 5, Page 2, Line 193, Pos (10,9)
+msgid ""
+"我慢を重ねて小出ししております$g\n"
+"少々お待ち下さい$g"
+msgstr "我一直在忍着，少量地挤出来$g请稍等一下$g"
+
+#. ID 5, Page 2, Line 200, Pos (10,9)
+msgid "メイドは下半身に瓶を当てた。"
+msgstr "女仆把瓶子抵在下半身。"
+
+#. ID 5, Page 2, Line 206, Pos (10,9)
+msgid "…$g"
+msgstr "…$g"
+
+#. ID 5, Page 2, Line 212, Pos (10,9)
+msgid "……んっ$g"
+msgstr "……嗯$g"
+
+#. ID 5, Page 2, Line 218, Pos (10,9)
+msgid "………んんぁっ$g"
+msgstr "………嗯嗯啊$g"
+
+#. ID 5, Page 2, Line 234, Pos (10,9)
+msgid ""
+"尿道から搾りたての聖水でございます$g\n"
+"どうぞお受け取り下さい$g"
+msgstr "这是从尿道刚榨出来的圣水$g请收下$g"
+
+#. ID 5, Page 2, Line 253, Pos (10,9)
+msgid ""
+"ご主人様、喉は乾いておりませんか？\n"
+"こちらのお飲み物はいかがでしょう？"
+msgstr "主人，您喉咙不干吗？这饮品您觉得如何？"
+
+#. ID 5, Page 2, Line 259, Pos (10,9)
+msgid "効き目抜群のドリンクでございます$g"
+msgstr "这是效果超群的饮品$g"
+
+#. ID 6, Page 1, Line 3, Pos (18,11)
+msgid "いらっしゃいませ$g"
+msgstr "欢迎光临$g"
+
+#. ID 6, Page 2, Line 13, Pos (18,11)
+msgid "きゃぁっ………………！！！！！！！！！"
+msgstr "呀啊………………！！！！！！！！！"
+
+#. ID 6, Page 2, Line 82, Pos (18,11)
+#. ID 6, Page 2, Line 160, Pos (18,11)
+msgid "ンブゥッ………………！！！！！！！！！"
+msgstr "唔噗………………！！！！！！！！！"
+
+#. ID 6, Page 2, Line 98, Pos (18,11)
+#. ID 6, Page 2, Line 108, Pos (18,11)
+#. ID 6, Page 2, Line 118, Pos (18,11)
+#. ID 6, Page 2, Line 128, Pos (18,11)
+msgid "……！"
+msgstr "……！"
+
+#. ID 6, Page 2, Line 142, Pos (18,11)
+msgid "けほっ、こほっ、ご注文ありがとうござ"
+msgstr "咳、咳咳，感谢您的点单……"
+
+#. ID 6, Page 2, Line 148, Pos (18,11)
+msgid ""
+"メイドの口から白濁液が溢れる･･･。\n"
+"\\N[\\V[6]]はイチモツを突き入れた。"
+msgstr ""
+"白浊液从女仆口中溢出・・・。\n"
+"\\N[\\V[6]]将肉棒插了进去。"
+
+#. ID 6, Page 2, Line 172, Pos (18,11)
+#. ID 6, Page 2, Line 184, Pos (18,11)
+msgid "………………！！！！！！！！！"
+msgstr "………………！！！！！！！！！"
+
+#. ID 6, Page 2, Line 236, Pos (18,11)
+msgid "メイドは黄色い液体を床に零した。"
+msgstr "女仆将黄色液体洒在了地板上。"
+
+#. ID 6, Page 2, Line 242, Pos (18,11)
+msgid "…………"
+msgstr "…………"
+
+#. ID 6, Page 2, Line 267, Pos (18,11)
+msgid ""
+"これで勘弁………$g\n"
+"してくださいっ……$g"
+msgstr "请饶了我………$g吧……$g"
+
+#. ID 6, Page 2, Line 285, Pos (18,11)
+msgid "おトイレ行ったばかりなので$g"
+msgstr "因为我刚去过厕所$g"

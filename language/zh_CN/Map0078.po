@@ -1,0 +1,43 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 2, Line 24, Pos (9,7)
+msgid "………。"
+msgstr "………。"
+
+#. ID 13, Page 2, Line 29, Pos (9,7)
+msgid "なぜか無性に装備したくなってきた。"
+msgstr "不知为何非常想装备上。"
+
+#. ID 13, Page 2, Line 30, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "装備してみますか？"
+msgstr "要试着装备吗？"
+
+#. ID 13, Page 2, Line 31, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"してみる\n"
+"我慢する"
+msgstr ""
+"试试\n"
+"忍耐"
+
+#. ID 13, Page 2, Line 56, Pos (9,7)
+msgid "…周囲から怪しい気配を感じる…！"
+msgstr "…感觉到周围有可疑的气息…！"
+
+#. ID 15, Page 2, Line 3, Pos (10,0)
+msgid "遺品を手に入れた。"
+msgstr "获得了遗物。"

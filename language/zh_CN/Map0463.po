@@ -1,0 +1,208 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 6, Page 2, Line 104, Pos (6,0)
+#. ID 6, Page 2, Line 197, Pos (6,0)
+msgid "………？"
+msgstr "………？"
+
+#. ID 6, Page 2, Line 105, Pos (6,0)
+#. ID 6, Page 2, Line 198, Pos (6,0)
+msgid ""
+"………\n"
+"\\.\\.………！！"
+msgstr ""
+"………\n"
+"\\.\\.………！！"
+
+#. ID 6, Page 2, Line 117, Pos (6,0)
+#. ID 6, Page 2, Line 210, Pos (6,0)
+msgid ""
+"敵の責めに混じり何かが\\n[\\v[6]]の\n"
+"尿道へ侵入した！"
+msgstr ""
+"混在敌人的责弄中，\n"
+"有什么东西侵入了\\n[\\v[6]]的尿道！"
+
+#. ID 6, Page 2, Line 125, Pos (6,0)
+#. ID 6, Page 2, Line 218, Pos (6,0)
+msgid "\\n[\\v[6]]は寄生されてしまった！"
+msgstr "\\n[\\v[6]]被寄生了！"
+
+#. ID 16, Page 2, Line 4, Pos (4,15)
+#. ID 19, Page 2, Line 4, Pos (14,13)
+#. ID 21, Page 2, Line 7, Pos (14,11)
+msgid "施錠 ヲ シマス"
+msgstr "上锁"
+
+#. ID 16, Page 2, Line 18, Pos (4,15)
+#. ID 19, Page 2, Line 16, Pos (14,13)
+msgid "トビラ ヲ ヒラキマス"
+msgstr "打开门"
+
+#. ID 16, Page 2, Line 29, Pos (4,15)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 3.00"
+msgstr ""
+"请提供卡钥匙的版本 当前版本 　　\\v[1102].00 解\n"
+"锁所需版本 3.00"
+
+#. ID 16, Page 2, Line 41, Pos (4,15)
+#. ID 19, Page 2, Line 37, Pos (14,13)
+msgid "カードキー ヲ イレテクダサイ"
+msgstr "请插入卡钥匙"
+
+#. ID 17, Page 4, Line 11, Pos (5,14)
+#. ID 18, Page 4, Line 11, Pos (6,14)
+#. ID 20, Page 4, Line 16, Pos (15,12)
+msgid "…扉はロックされているようだ"
+msgstr "…门似乎锁着"
+
+#. ID 19, Page 2, Line 25, Pos (14,13)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 4.00"
+msgstr ""
+"请提供卡钥匙的版本 当前版本 　　\\v[1102].00 解\n"
+"锁所需版本 4.00"
+
+#. ID 22, Page 2, Line 4, Pos (7,14)
+msgid "焼却炉"
+msgstr "焚烧炉"
+
+#. ID 23, Page 2, Line 4, Pos (16,12)
+msgid "焼却炉：制御室"
+msgstr "焚烧炉：控制室"
+
+#. ID 27, Page 2, Line 4, Pos (15,2)
+#. ID 27, Page 3, Line 4, Pos (15,2)
+msgid "\\n[\\v[6]]は本棚を調べた"
+msgstr "\\n[\\v[6]]调查了书架"
+
+#. ID 27, Page 2, Line 5, Pos (15,2)
+#. ID 27, Page 3, Line 5, Pos (15,2)
+msgid "すると、古ぼけた本をいくつか見つけた。"
+msgstr "于是，发现了几本陈旧的书。"
+
+#. ID 27, Page 2, Line 6, Pos (15,2)
+#. Contains choice at line 2 (3 options)
+#. ID 27, Page 3, Line 6, Pos (15,2)
+#. Contains choice at line 2 (3 options)
+#. ID 28, Page 2, Line 9, Pos (14,3)
+#. Contains choice at line 2 (2 options)
+msgid "どうする？"
+msgstr "怎么办？"
+
+#. ID 27, Page 2, Line 7, Pos (15,2)
+#. Choice (3 options, embedded in a message)
+#. ID 27, Page 3, Line 7, Pos (15,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"焼却炉取説\n"
+"\n"
+"やめる"
+msgstr ""
+"焚烧炉说明书\n"
+"\n"
+"放弃"
+
+#. ID 27, Page 2, Line 11, Pos (15,2)
+#. ID 27, Page 3, Line 11, Pos (15,2)
+msgid ""
+"焼却炉の使い方\\!\n"
+"処分したいものを入れる→機械で操作する。以上だ！"
+msgstr ""
+"焚烧炉的使用方法\\!把想处理的东西放进去→用机械\n"
+"操作。以上！"
+
+#. ID 27, Page 2, Line 13, Pos (15,2)
+#. ID 27, Page 3, Line 13, Pos (15,2)
+msgid ""
+"焼却炉の扉は内側から閉めれないようになっている。\\!\n"
+"まあ当然だな！"
+msgstr ""
+"焚烧炉的门被设计成无法从内侧关闭。\\!嗯，\n"
+"当然啦！"
+
+#. ID 28, Page 2, Line 4, Pos (14,3)
+msgid "もうここには用はない"
+msgstr "已经没必要待在这里了。"
+
+#. ID 28, Page 2, Line 10, Pos (14,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"焼却炉を稼働させる\n"
+"やめる"
+msgstr ""
+"启动焚烧炉\n"
+"取消"
+
+#. ID 28, Page 2, Line 13, Pos (14,3)
+msgid "…炉の扉を閉めてからの方がよさそうだ。"
+msgstr "…看来还是先把炉门关上比较好。"
+
+#. ID 28, Page 2, Line 23, Pos (14,3)
+msgid "\\n[\\v[6]]は焼却炉をを稼働させた。"
+msgstr "\\n[\\v[6]]启动了焚烧炉。"
+
+#. ID 28, Page 2, Line 43, Pos (14,3)
+msgid "…炉内に入れてからのほうがよさそうだ。"
+msgstr "…看来还是先放进炉内比较好。"
+
+#. ID 29, Page 2, Line 3, Pos (10,5)
+msgid "……どうやら機能停止しているようだ。"
+msgstr "……看来已经停止运行了。"
+
+#. ID 34, Page 3, Line 7, Pos (19,0)
+msgid "………\\.\\^"
+msgstr "………\\.\\^"
+
+#. ID 34, Page 3, Line 8, Pos (19,0)
+msgid "………何も起きない。\\.\\^"
+msgstr "………什么也没发生。\\.\\^"
+
+#. ID 34, Page 3, Line 23, Pos (19,0)
+msgid ""
+"吐きだされた肉蟲が\\n[\\v[6]]の\n"
+"身体にへばり付いた！"
+msgstr "被吐出的肉虫贴在了\\n[\\v[6]]的身体上！"
+
+#. ID 34, Page 3, Line 32, Pos (19,0)
+msgid ""
+"………しかし、\\n[\\v[6]]の身体には既に\n"
+"寄生する余地が無さそうだ。"
+msgstr ""
+"………但是，\n"
+"\\n[\\v[6]]的身体似乎已经没有寄生的余地了。"
+
+#. ID 34, Page 3, Line 34, Pos (19,0)
+msgid "蟲はそのままどこかへと去っていった。"
+msgstr "虫就那样去了某处。"
+
+#. ID 34, Page 3, Line 42, Pos (19,0)
+msgid ""
+"しかし寄生虫は程なくして、ラバースーツに包まれた\n"
+"\\n[\\v[6]]の身体から離れていった。"
+msgstr ""
+"但寄生虫不久便从被橡胶服包裹的\\n[\\v[6]]的身体\n"
+"上离开了。"
+
+#. ID 34, Page 3, Line 50, Pos (19,0)
+msgid "\\n[\\v[6]]は蟲に寄生されてしまった！"
+msgstr "\\n[\\v[6]]被虫寄生了！"

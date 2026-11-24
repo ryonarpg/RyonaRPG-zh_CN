@@ -1,0 +1,85 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 27, Page 2, Line 3, Pos (15,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"魔族の記録媒体を見つけた\n"
+"読みますか？"
+msgstr "发现了魔族的记录媒体。要阅读吗？"
+
+#. ID 27, Page 2, Line 5, Pos (15,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 27, Page 2, Line 14, Pos (15,6)
+msgid "\\S[8]・・・・・・・・\\S[1]"
+msgstr "\\S[8]・・・・・・・・\\S[1]"
+
+#. ID 27, Page 2, Line 15, Pos (15,6)
+msgid "ジ・アストラルの解読が終わった"
+msgstr "吉·阿斯特拉尔的解读完成了"
+
+#. ID 27, Page 2, Line 16, Pos (15,6)
+msgid "全てを理解した"
+msgstr "我理解了一切"
+
+#. ID 27, Page 2, Line 17, Pos (15,6)
+msgid ""
+"ジ・アストラルが存在する理由\\!、エヴァが現れた理由\\!、\n"
+"赤い荒野\\!、魔界に広がる穴\\!、私が生まれた意味\\!\n"
+"そして、宇宙とは何なのか"
+msgstr ""
+"吉·阿斯特拉尔存在的原因\\!、艾娃出现的原因\\!、\n"
+"赤红荒野\\!、在魔界蔓延的洞穴\\!、\n"
+"我出生的意义\\!以及，宇宙究竟是什么"
+
+#. ID 27, Page 2, Line 20, Pos (15,6)
+msgid ""
+"宇宙が生まれてから死ぬまでのこと\\!\n"
+"全ては最初から仕組まれていた"
+msgstr ""
+"从宇宙诞生到死亡的一切\\!全部从一开始就被安排好\n"
+"了"
+
+#. ID 27, Page 2, Line 26, Pos (15,6)
+msgid "宇宙は死にかけている"
+msgstr "宇宙正濒临死亡"
+
+#. ID 27, Page 2, Line 31, Pos (15,6)
+msgid ""
+"魔界の穴は通過点に過ぎない\n"
+"人間界もやがて……"
+msgstr "魔界之穴不过是经过点。人间界也终将……"
+
+#. ID 27, Page 2, Line 37, Pos (15,6)
+msgid ""
+"……過激派が動き出した\\!\n"
+"人間界への侵攻が始まる"
+msgstr "……激进派开始行动了\\!对人间界的侵略开始了"
+
+#. ID 27, Page 2, Line 39, Pos (15,6)
+msgid "エヴァを救わなければならない"
+msgstr "必须拯救艾娃"
+
+#. ID 27, Page 2, Line 40, Pos (15,6)
+msgid ""
+"エヴァは鍵だ\\!\n"
+"まだ間に合うかもしれない"
+msgstr "艾娃是钥匙\\!也许还来得及"

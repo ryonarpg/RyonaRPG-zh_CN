@@ -1,0 +1,140 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 6, Page 1, Line 3, Pos (8,12)
+#. Contains choice at line 2 (2 options)
+msgid "＊シェルターから出ますか？"
+msgstr "＊要离开避难所吗？"
+
+#. ID 6, Page 1, Line 4, Pos (8,12)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 4, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 7, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 11, Page 1, Line 3, Pos (7,8)
+msgid "＊この箱には食糧が収められているようだ。"
+msgstr "＊这个箱子里似乎装着粮食。"
+
+#. ID 11, Page 1, Line 4, Pos (7,8)
+msgid ""
+"＊箱の表面は厚い埃の層で覆われており、　\n"
+"　遠目から見るとまるで雪山に棲む獣のように見える。"
+msgstr ""
+"＊箱子表面覆盖着厚厚的灰尘层，\n"
+"　从远处看简直像栖息在雪山里的野兽。"
+
+#. ID 11, Page 1, Line 6, Pos (7,8)
+msgid ""
+"　箱に近づき、中から漂ってくる臭気を嗅いだ途端、\n"
+"　\\N[\\V[6]]は胃の中身を全て吐き出してしまいそうになった。\n"
+"　\\!これは、外の連中向けの食事のようだ…"
+msgstr ""
+"　＊走近箱子，一闻到从里面飘来的臭气，\n"
+"　\\N[\\V[6]]差点把胃里的东西全吐出来。\n"
+"　\\!看来这是给外面那些家伙吃的饭…"
+
+#. ID 15, Page 1, Line 3, Pos (7,10)
+#. ID 16, Page 1, Line 3, Pos (10,10)
+msgid "＊埃とカビにまみれたベッドがある…"
+msgstr "＊有一张满是灰尘和霉菌的床…"
+
+#. ID 17, Page 1, Line 3, Pos (11,8)
+#. Contains choice at line 2 (2 options)
+msgid "＊少し休みますか？"
+msgstr "＊要稍微休息一下吗？"
+
+#. ID 17, Page 1, Line 6, Pos (11,8)
+#. Contains choice at line 2 (2 options)
+msgid "＊セーブしますか？"
+msgstr "＊要保存吗？"
+
+#. ID 17, Page 1, Line 33, Pos (11,8)
+msgid "＊\\.…\\.…\\.…そろそろここも危ないようだ…"
+msgstr "＊\\.…\\.…\\.…这里似乎也差不多危险了…"
+
+#. ID 18, Page 1, Line 3, Pos (11,5)
+#. ID 19, Page 1, Line 3, Pos (12,5)
+#. ID 21, Page 1, Line 3, Pos (10,5)
+msgid "＊\\N[\\V[6]]は棚を調べた…"
+msgstr "＊\\N[\\V[6]]调查了架子…"
+
+#. ID 18, Page 1, Line 4, Pos (11,5)
+#. ID 19, Page 1, Line 4, Pos (12,5)
+#. ID 21, Page 1, Line 4, Pos (10,5)
+msgid ""
+"\\.・\n"
+"\\.・\n"
+"\\.・"
+msgstr ""
+"\\.・\n"
+"\\.・\n"
+"\\.・"
+
+#. ID 18, Page 1, Line 13, Pos (11,5)
+#. ID 19, Page 1, Line 13, Pos (12,5)
+#. ID 21, Page 1, Line 13, Pos (10,5)
+msgid "＊ポーションを\\V[1201]個手に入れた！"
+msgstr "＊获得了药水\\V[1201]个！"
+
+#. ID 18, Page 1, Line 19, Pos (11,5)
+#. ID 19, Page 1, Line 19, Pos (12,5)
+#. ID 21, Page 1, Line 19, Pos (10,5)
+msgid "＊エーテルを\\V[1201]個手に入れた！"
+msgstr "＊获得了以太\\V[1201]个！"
+
+#. ID 18, Page 1, Line 25, Pos (11,5)
+#. ID 19, Page 1, Line 25, Pos (12,5)
+#. ID 21, Page 1, Line 25, Pos (10,5)
+msgid "＊万能薬を\\V[1201]個手に入れた！"
+msgstr "＊获得了万能药\\V[1201]个！"
+
+#. ID 18, Page 1, Line 28, Pos (11,5)
+#. ID 19, Page 1, Line 28, Pos (12,5)
+#. ID 21, Page 1, Line 28, Pos (10,5)
+msgid "＊棚の中には何も入っていなかった…"
+msgstr "＊架子里什么都没放…"
+
+#. ID 24, Page 2, Line 3, Pos (8,8)
+#. Contains choice at line 2 (2 options)
+msgid "＊瓶には「虫下し」というラベルが貼ってある。"
+msgstr "＊瓶子上贴着「驱虫药」的标签。"
+
+#. ID 24, Page 2, Line 4, Pos (8,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"使う\n"
+"必要ない"
+msgstr ""
+"使用\n"
+"不需要"
+
+#. ID 27, Page 1, Line 3, Pos (8,5)
+msgid ""
+"扉を密閉し、鍵をしっかりと掛けた。\n"
+"これで蟲達は入ってこられないはずだ。"
+msgstr ""
+"把门密封，牢牢上了锁。\n"
+"这样一来虫子们应该就进不来了。"
+
+#. ID 27, Page 1, Line 5, Pos (8,5)
+msgid "…目に見えないほど小さなもの以外は。"
+msgstr "…除了小到肉眼看不见的东西以外。"

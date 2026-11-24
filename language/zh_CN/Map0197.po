@@ -1,0 +1,36 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 2, Line 3, Pos (59,21)
+#. Contains choice at line 2 (2 options)
+msgid "このダンジョンから出ますか？"
+msgstr "要离开这个地下城吗？"
+
+#. ID 15, Page 2, Line 4, Pos (59,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 15, Page 2, Line 8, Pos (59,21)
+msgid "◆岩山の洞窟　の情報を得た！"
+msgstr "◆获得了岩山山洞　的情报！"
+
+#. ID 16, Page 2, Line 3, Pos (0,12)
+#. ID 17, Page 2, Line 3, Pos (1,12)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"

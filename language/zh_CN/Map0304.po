@@ -1,0 +1,43 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 5, Page 1, Line 3, Pos (14,6)
+msgid ""
+"ここに入居した後は、\n"
+"酒場の依頼などを受けない限り、\n"
+"街の外へ出てはいけない決まりになっています。"
+msgstr ""
+"入住这里之后，除非接下酒馆的委托之类，\n"
+"否则按规定不能到城外去。"
+
+#. ID 6, Page 1, Line 3, Pos (30,6)
+msgid ""
+"働くと給料がもらえますが、\n"
+"働かなくても最低限の食事等は提供されます。"
+msgstr ""
+"工作的话会有工资，\n"
+"但不工作也会提供最低限度的食物等。"
+
+#. ID 6, Page 1, Line 5, Pos (30,6)
+msgid "まあ、美味しい物食べたいので、働く人が多いです。"
+msgstr "不过，因为想吃好吃的，所以工作的人很多。"
+
+#. ID 7, Page 1, Line 3, Pos (19,5)
+msgid ""
+"ご主人様の機嫌を損ねてしまい、\n"
+"奴隷として売り飛ばされてしまい……\n"
+"此処へ辿り着きました。"
+msgstr ""
+"我惹主人不高兴，被当作奴隶卖掉了……\n"
+"最终辗转来到了这里。"

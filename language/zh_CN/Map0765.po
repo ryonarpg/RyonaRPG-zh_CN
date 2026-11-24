@@ -1,0 +1,97 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 21, Page 1, Line 1, Pos (18,16)
+msgid "デバッグ用移動マシーン"
+msgstr "调试用移动机器"
+
+#. ID 21, Page 1, Line 2, Pos (18,16)
+#. Contains choice at line 2 (2 options)
+msgid "移動しますか？"
+msgstr "要移动吗？"
+
+#. ID 21, Page 1, Line 3, Pos (18,16)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 4, Pos (17,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 21, Page 1, Line 5, Pos (18,16)
+#. Choice (4 options)
+msgid ""
+"入り口\n"
+"村\n"
+"山頂\n"
+"やっぱやめとく"
+msgstr ""
+"入口\n"
+"村子\n"
+"山顶\n"
+"还是算了"
+
+#. ID 34, Page 1, Line 3, Pos (10,12)
+msgid "ここは『えっきょう』の村チゾットだよ。"
+msgstr "这里是『越境』之村奇佐特哦。"
+
+#. ID 35, Page 1, Line 3, Pos (19,11)
+msgid ""
+"ここは霊峰を守護する一族の住む神聖な村……\\!\n"
+"だったのは昔の話。\n"
+"今は関所ができてしまい山脈を越えようとする者たちの\n"
+"休憩所みたいなものになってしまいましたわ。"
+msgstr ""
+"这里是守护灵峰的一族所居住的神圣村庄……\n"
+"\\!不过那已经是过去的事了。如今关卡建了起来，\n"
+"已经变成了类似想要翻越山脉之人的休息处了。"
+
+#. ID 35, Page 1, Line 7, Pos (19,11)
+msgid ""
+"おかげで外の情報がどんどん入って来て……\n"
+"若い者は村を出て行ってしまいます。\n"
+"一族の誇りも忘れて……困ったものですわ。"
+msgstr ""
+"托这个福，外面的情报不断传入……\n"
+"年轻人纷纷离开村子。连一族的骄傲都忘了……\n"
+"真是让人头疼啊。"
+
+#. ID 36, Page 1, Line 3, Pos (17,11)
+#. Contains choice at line 2 (2 options)
+msgid "参拝なさるのかえ？"
+msgstr "你是来参拜的吗？"
+
+#. ID 36, Page 1, Line 6, Pos (17,11)
+msgid ""
+"なら、この村の北から山頂に向かいなされ。\n"
+"といってもな～んもないがね。"
+msgstr ""
+"那就从这个村子的北边往山顶去吧。话虽如此，\n"
+"那里可～什～么都没有哦。"
+
+#. ID 36, Page 1, Line 10, Pos (17,11)
+msgid ""
+"なら国境を越えるのかえ？\n"
+"関所は通行証を持っていないと通してもらえないでよ。"
+msgstr ""
+"那你是要越过国境吗？\n"
+"关卡没有通行证可不会放行哦。"
+
+#. ID 37, Page 1, Line 3, Pos (29,15)
+#. ID 38, Page 1, Line 3, Pos (30,15)
+msgid "通行証を持っていない者はお通しできません！"
+msgstr "没有通行证的人不能通过！"

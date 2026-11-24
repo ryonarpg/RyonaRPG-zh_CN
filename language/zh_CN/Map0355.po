@@ -1,0 +1,195 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 3, Pos (32,10)
+msgid ""
+"カジノ・エスポワールにようこそ\n"
+"ここは奴隷専門のカジノです"
+msgstr "欢迎来到希望赌场，这里是专门经营奴隶的赌场"
+
+#. ID 5, Page 2, Line 4, Pos (0,2)
+msgid "捕まえたぞ！"
+msgstr "抓到了！"
+
+#. ID 5, Page 2, Line 11, Pos (0,2)
+msgid "この野郎、おとなしくしやがれ"
+msgstr "你这混蛋，给我老实点"
+
+#. ID 5, Page 2, Line 45, Pos (0,2)
+msgid "ふう、やっと大人しくなりやがった。"
+msgstr "呼，总算老实下来了。"
+
+#. ID 5, Page 2, Line 46, Pos (0,2)
+msgid ""
+"フン、抵抗さえしなければ良かったのにな\n"
+"…\\!連れて行け。"
+msgstr "哼，要是没反抗就好了……\\!带走吧。"
+
+#. ID 7, Page 1, Line 3, Pos (29,11)
+#. ID 80, Page 1, Line 3, Pos (29,20)
+msgid "私はここで用心棒をやっております"
+msgstr "我在这里当保镖"
+
+#. ID 8, Page 1, Line 3, Pos (14,26)
+#. ID 82, Page 1, Line 3, Pos (6,11)
+msgid "………"
+msgstr "………"
+
+#. ID 12, Page 1, Line 3, Pos (3,8)
+msgid ""
+"ほっほっほ。\\!ようこそエスポワールへ\n"
+"ここは奴隷専門のカジノでございます。\n"
+"\\!…一勝負どうです？\\!\n"
+"その境遇から抜け出せるかもしれませんよ？"
+msgstr ""
+"呵呵呵。\\!欢迎来到希望赌场，\n"
+"这里是专门经营奴隶的赌场。\\!……来赌一局怎么样？\n"
+"\\!说不定能摆脱这样的处境哦？"
+
+#. ID 12, Page 1, Line 7, Pos (3,8)
+#. Choice (2 options)
+#. ID 26, Page 1, Line 4, Pos (22,29)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 12, Page 1, Line 9, Pos (3,8)
+msgid "ふふふ…\\!でははじめましょう…"
+msgstr "呵呵呵……\\!那么开始吧……"
+
+#. ID 12, Page 1, Line 16, Pos (3,8)
+#. Contains choice at line 3 (1 options)
+msgid ""
+"また私めの勝ちでございます。\n"
+"さて…\\!またお続けになりますか？"
+msgstr "又是我赢了。那么……\\!您还要继续吗？"
+
+#. ID 12, Page 1, Line 18, Pos (3,8)
+#. Choice (1 options, embedded in a message)
+msgid "はい"
+msgstr "是"
+
+#. ID 12, Page 1, Line 21, Pos (3,8)
+msgid ""
+"確かにここまできてしまえば\n"
+"続けるしかございませんね"
+msgstr "确实，到了这一步就只能继续了呢"
+
+#. ID 12, Page 1, Line 31, Pos (3,8)
+msgid ""
+"フフフ…また私めの勝ちでございます\\!\n"
+"さすがにもうこれ以上は無意味でしょう\n"
+"さて、どうなさいますか？"
+msgstr ""
+"呵呵呵……又是我赢了\\!事到如今，\n"
+"再继续也没有意义了吧。那么，您要怎么做？"
+
+#. ID 12, Page 1, Line 34, Pos (3,8)
+#. Choice (2 options)
+msgid ""
+"………\n"
+"これはイカサマだ"
+msgstr ""
+"………\n"
+"这是出千"
+
+#. ID 12, Page 1, Line 36, Pos (3,8)
+msgid "フフ…\\!おい、この奴隷を売り払って来い"
+msgstr "呵呵……\\!喂，把这个奴隶卖掉去"
+
+#. ID 12, Page 1, Line 45, Pos (3,8)
+msgid ""
+"これはひどい言いがかりだ\n"
+"どうやらすこしお灸をすえてあげる\n"
+"必要がありそうですね。\n"
+"お前ら、やっちまえ。"
+msgstr ""
+"这是相当恶劣的诬陷。看来有必要稍微教训你一下。\n"
+"你们，上。"
+
+#. ID 12, Page 1, Line 53, Pos (3,8)
+msgid "入り口まで逃げ切れ"
+msgstr "逃到入口去"
+
+#. ID 12, Page 1, Line 62, Pos (3,8)
+msgid "そうですか"
+msgstr "这样啊"
+
+#. ID 12, Page 2, Line 3, Pos (3,8)
+msgid "逃すな、やっちまえ。"
+msgstr "别放跑他，上。"
+
+#. ID 15, Page 1, Line 3, Pos (35,13)
+#. ID 81, Page 1, Line 3, Pos (11,11)
+msgid "フヒヒ、せいぜい楽しむんだな"
+msgstr "嘻嘻嘻，尽量享受吧"
+
+#. ID 19, Page 1, Line 3, Pos (12,19)
+msgid "ヒヒヒ…さあどうします？"
+msgstr "嘻嘻嘻……那么，要怎么做？"
+
+#. ID 23, Page 1, Line 3, Pos (21,11)
+msgid "おっぱい、おっぱい"
+msgstr "奶子、奶子"
+
+#. ID 24, Page 1, Line 3, Pos (24,11)
+msgid "おまんこ、おまんこ"
+msgstr "屄、屄"
+
+#. ID 25, Page 1, Line 3, Pos (12,22)
+msgid "ああ…\\!このままじゃ…"
+msgstr "啊啊……\\!这样下去的话……"
+
+#. ID 26, Page 1, Line 3, Pos (22,29)
+#. Contains choice at line 2 (2 options)
+msgid "ヒヒ…あんたの未来、見てみるかい？"
+msgstr "嘻嘻……要看看你的未来吗？"
+
+#. ID 49, Page 1, Line 3, Pos (36,22)
+msgid ""
+"なんとしてでも勝って…\n"
+"この境遇からぬけださないと"
+msgstr "无论如何都得赢……不摆脱这种处境可不行"
+
+#. ID 50, Page 1, Line 3, Pos (31,23)
+msgid ""
+"ここの用心棒はモンスターなんだ。\\!\n"
+"だから負けても暴れたりしない方がいいよ"
+msgstr "这里的保镖是怪物。\\!所以就算输了也最好别闹事哦"
+
+#. ID 71, Page 1, Line 3, Pos (18,11)
+msgid "おしり、おしり"
+msgstr "屁股、屁股"
+
+#. ID 72, Page 1, Line 3, Pos (33,17)
+msgid "さて、カモはどこかしら"
+msgstr "那么，肥羊在哪里呢"
+
+#. ID 73, Page 1, Line 3, Pos (35,19)
+msgid ""
+"奴隷専門のはずですけど…明らかに奴隷\n"
+"じゃない人もいますよねえ"
+msgstr ""
+"这里应该是专门经营奴隶的……\n"
+"但明显也有不是奴隶的人呢"
+
+#. ID 79, Page 1, Line 3, Pos (3,15)
+msgid ""
+"これは噂だが…\\!\n"
+"ここの下には奴隷調教場があるらしい"
+msgstr "这是传闻……\\!这下面好像有奴隶调教场"

@@ -1,0 +1,25 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 2, Line 1, Pos (39,14)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:妖花+スライム"
+msgstr "end:妖花+史莱姆"
+
+#. ID 15, Page 2, Line 8, Pos (39,14)
+msgid ""
+"水のせせらぎが聞こえる。\\!\n"
+"甘く、心地よい香りが漂っている。"
+msgstr "能听见潺潺的水声。\\!飘荡着甜美而舒适的香气。"

@@ -1,0 +1,61 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 11, Page 2, Line 3, Pos (25,18)
+msgid "もう……元には……戻れないのだ。"
+msgstr "已经……回不到……原来的样子了。"
+
+#. ID 11, Page 2, Line 8, Pos (25,18)
+msgid "……殺してくれ！"
+msgstr "……杀了我吧！"
+
+#. ID 38, Page 2, Line 5, Pos (29,17)
+msgid "＊研究員の日記のようだ"
+msgstr "＊好像是研究员的日记"
+
+#. ID 38, Page 2, Line 10, Pos (29,17)
+msgid ""
+"＊動物実験では、もう限界だ\n"
+"　人体で実際に反応を見てみる必要がある"
+msgstr ""
+"＊动物实验已经到极限了　有必要在人体上实际观察\n"
+"　反应"
+
+#. ID 38, Page 2, Line 12, Pos (29,17)
+msgid ""
+"＊アバロソの許可は下りる見通しだが\n"
+"　その実験に使う人間をどこから調達するかが問題だ"
+msgstr ""
+"＊阿巴罗索的许可有望获批　但用于该实验的人该从\n"
+"　哪里调配是个问题"
+
+#. ID 38, Page 2, Line 14, Pos (29,17)
+msgid ""
+"＊おおっぴらに募集できないため\n"
+"　面倒なことになりそうだ"
+msgstr "＊因为不能公开招募　事情似乎会变得麻烦"
+
+#. ID 39, Page 2, Line 5, Pos (36,18)
+msgid "＊研究員の報告書のようだ"
+msgstr "＊好像是研究员的报告书"
+
+#. ID 39, Page 2, Line 10, Pos (36,18)
+msgid ""
+"＊脳髄摘出　スティーブ\n"
+"　　　　　　ボブ\n"
+"　　　　　　サムソン　"
+msgstr ""
+"＊脑髓摘出　史蒂夫\n"
+"　　　　　　鲍勃\n"
+"　　　　　　萨姆森"

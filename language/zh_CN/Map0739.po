@@ -1,0 +1,44 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 34, Page 2, Line 3, Pos (16,34)
+msgid ""
+"＊……返事がない。ただの屍のようだ。\n"
+"　身形からして、屋敷に忍び込んだ盗賊だろう。"
+msgstr ""
+"＊……没有回应。简直像一具尸体。　从身形来看，\n"
+"　应该是潜入宅邸的盗贼吧。"
+
+#. ID 35, Page 2, Line 3, Pos (15,34)
+msgid ""
+"＊盗賊が残したメモのようだ。\n"
+"　殴り書きで何かが書いてある。"
+msgstr "＊似乎是盗贼留下的便条。　上面潦草地写着什么。"
+
+#. ID 35, Page 2, Line 9, Pos (15,34)
+msgid ""
+"＊ここを出るには　じゅんばんどおりに\n"
+"　レバーをヒかなければ　ダメだ\n"
+"　まちがえる、しぬ"
+msgstr ""
+"＊要离开这里　就必须按顺序　拉动拉杆才行　弄错\n"
+"　的话，会死"
+
+#. ID 35, Page 2, Line 14, Pos (15,34)
+msgid "＊……あとは血で汚れて読めない。"
+msgstr "＊……其余部分被血污覆盖，无法阅读。"
+
+#. ID 38, Page 3, Line 10, Pos (45,36)
+msgid "＊隠された梯子が降りて来た！"
+msgstr "＊隐藏的梯子降了下来！"

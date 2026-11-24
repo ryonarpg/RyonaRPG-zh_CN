@@ -1,0 +1,41 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 17, Page 2, Line 3, Pos (7,7)
+msgid "戦争が終わり人類の時代がやってきた"
+msgstr "战争结束，人类的时代到来了"
+
+#. ID 17, Page 2, Line 4, Pos (7,7)
+msgid "人類は勝利したかのように見える"
+msgstr "人类看起来似乎胜利了"
+
+#. ID 17, Page 2, Line 5, Pos (7,7)
+msgid "この場所から世界中を一瞥できる"
+msgstr "从这里可以一览整个世界"
+
+#. ID 20, Page 2, Line 3, Pos (11,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ここから地上へ戻れるようだ\n"
+"地上に戻りますか？"
+msgstr "好像可以从这里返回地上。要返回地上吗？"
+
+#. ID 20, Page 2, Line 5, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"

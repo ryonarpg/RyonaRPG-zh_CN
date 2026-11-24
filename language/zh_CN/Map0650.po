@@ -1,0 +1,272 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 5, Line 3, Pos (8,0)
+msgid "\\S[2]……ガガ、ガガガ、ガ…………"
+msgstr "\\S[2]……嘎嘎，嘎嘎嘎，嘎…………"
+
+#. ID 2, Page 6, Line 4, Pos (8,0)
+msgid "\\S[2]………………"
+msgstr "\\S[2]………………"
+
+#. ID 2, Page 6, Line 8, Pos (8,0)
+msgid ""
+"\\S[2]……ガガ、ガガガガ、ガガ……\\.\\.\n"
+"ココハ……ココ、ハ……ガガ、ガガガ……"
+msgstr ""
+"\\S[2]……嘎嘎，嘎嘎嘎嘎，嘎嘎……\\.\\.这里……这里，\n"
+"是……嘎嘎，嘎嘎嘎……"
+
+#. ID 2, Page 6, Line 10, Pos (8,0)
+msgid ""
+"\\S[2]……ココハ　ドレイ　トシ……\n"
+"シュライク……　デス……"
+msgstr "\\S[2]……这里　是　奴隶　都市……施莱克……　是……"
+
+#. ID 2, Page 6, Line 12, Pos (8,0)
+msgid ""
+"\\S[2]コノ街ハ　唯一　奴隷ガ　自ラノ……\n"
+"性奴　トシテ　ノ…………\n"
+"性奴　性奴　セイ　ド　ト　シテ　ノ……"
+msgstr ""
+"\\S[2]这座城市是　唯一　奴隶们　凭自己的……\n"
+"作为性奴　的…………\n"
+"性奴　性奴　作　为　性　奴　的……"
+
+#. ID 2, Page 6, Line 15, Pos (8,0)
+msgid ""
+"\\S[2]……………………\\.\n"
+"ガガ……ピーーーーーーー…………"
+msgstr "\\S[2]……………………\\.嘎嘎……哔～～～～～～～…………"
+
+#. ID 2, Page 6, Line 21, Pos (8,0)
+msgid "＊壊れた機体の中に何かがある。"
+msgstr "＊损坏的机体中有什么东西。"
+
+#. ID 2, Page 6, Line 26, Pos (8,0)
+msgid "＊クリスタルのかけらを手に入れた。"
+msgstr "＊获得了水晶碎片。"
+
+#. ID 3, Page 4, Line 3, Pos (9,0)
+msgid ""
+"キタイ　ハソン……\n"
+"セントウ　フノウ……"
+msgstr "期待　破损……战斗　不能……"
+
+#. ID 4, Page 4, Line 3, Pos (10,0)
+msgid "\\S[2]……ヴーーーーー…………"
+msgstr "\\S[2]……呜～～～～～…………"
+
+#. ID 5, Page 4, Line 3, Pos (11,0)
+msgid "\\S[2]……ゴシュ……ジン……サマ…………"
+msgstr "\\S[2]……主……人……大……人…………"
+
+#. ID 6, Page 4, Line 3, Pos (12,0)
+msgid "\\S[2]……神サマ……カミ、サ……マ……"
+msgstr "\\S[2]……神明大人……神、明……大人……"
+
+#. ID 7, Page 3, Line 3, Pos (13,0)
+msgid "\\S[2]……ママ……ママ……ママ……ママ……"
+msgstr "\\S[2]……妈妈……妈妈……妈妈……妈妈……"
+
+#. ID 8, Page 3, Line 3, Pos (14,0)
+msgid ""
+"\\S[1]システム　停止\n"
+"戦闘　続行　不可……\n"
+"ピーーーー……"
+msgstr "\\S[1]系统　停止战斗　继续　不可……哔————……"
+
+#. ID 13, Page 3, Line 4, Pos (9,14)
+msgid "＊開かない！"
+msgstr "＊打不开！"
+
+#. ID 13, Page 3, Line 9, Pos (9,14)
+#. Contains choice at line 2 (2 options)
+msgid "＊……無理矢理こじ開ければ、逃げれそうだが。"
+msgstr "＊……如果强行撬开的话，似乎能逃掉。"
+
+#. ID 13, Page 3, Line 10, Pos (9,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"逃げない\n"
+"逃げる"
+msgstr ""
+"不逃\n"
+"逃跑"
+
+#. ID 15, Page 2, Line 15, Pos (0,4)
+#. ID 15, Page 3, Line 10, Pos (0,4)
+msgid "そこまで。"
+msgstr "到此为止。"
+
+#. ID 15, Page 2, Line 16, Pos (0,4)
+msgid ""
+"……案外もたなかったな。\n"
+"肉体はなかなか魅力的だったが、こんなガラクタとは。\n"
+"再改造してトイレにでも設置しておくとしよう。"
+msgstr ""
+"……意外地没撑多久啊。肉体倒是相当有魅力，\n"
+"但居然是这样的破烂。重新改造一下，\n"
+"就设置到厕所之类的地方吧。"
+
+#. ID 15, Page 2, Line 19, Pos (0,4)
+#. ID 15, Page 3, Line 11, Pos (0,4)
+msgid "よし、退席しろ。"
+msgstr "好，退下吧。"
+
+#. ID 20, Page 2, Line 24, Pos (0,3)
+#. ID 23, Page 5, Line 8, Pos (0,2)
+#. ID 23, Page 5, Line 20, Pos (0,2)
+#. ID 23, Page 5, Line 36, Pos (0,2)
+msgid "＊部屋の中に声が響く。"
+msgstr "＊声音在房间里回响。"
+
+#. ID 20, Page 2, Line 29, Pos (0,3)
+msgid ""
+"兵士を改造し兵器化することは、\n"
+"我々の研究目標のひとつだ。\n"
+"君に施した改造がどれほど性能の向上に\n"
+"繋がっているか確かめさせてもらう。"
+msgstr ""
+"将士兵改造并兵器化，是我们的研究目标之一。\n"
+"让我确认一下对你施加的改造究竟带来了多少性能提\n"
+"升。"
+
+#. ID 20, Page 2, Line 33, Pos (0,3)
+msgid ""
+"お互い、目の前の実験体を破壊しろ。\n"
+"はじめ。"
+msgstr "双方互相破坏眼前的实验体。开始。"
+
+#. ID 20, Page 2, Line 39, Pos (0,3)
+msgid "＊でも、目の前の人も……自分と同じ……"
+msgstr "＊但是，眼前的人也……和我一样……"
+
+#. ID 20, Page 2, Line 53, Pos (0,3)
+msgid "\\S[2]……ア、アァ、アアァア、ァアァ……"
+msgstr "\\S[2]……啊、啊啊、啊啊啊啊、啊啊……"
+
+#. ID 20, Page 2, Line 58, Pos (0,3)
+msgid "\\S[2]リョウカイ　シマシタ。"
+msgstr "\\S[2]已　理解。"
+
+#. ID 20, Page 2, Line 59, Pos (0,3)
+msgid ""
+"\\S[2]コウゲキ　モクヒョウ　カクニン。\n"
+"ハカイ　シマス。"
+msgstr "\\S[2]攻击　目标　确认。破坏　执行。"
+
+#. ID 20, Page 2, Line 65, Pos (0,3)
+msgid "＊いやだ……やりたくない……"
+msgstr "＊不要……我不想做……"
+
+#. ID 20, Page 2, Line 66, Pos (0,3)
+msgid ""
+"＊……逃げるなら……\n"
+"すぐ後ろに扉がある……！"
+msgstr "＊……如果要逃的话……正后方就有门……！"
+
+#. ID 20, Page 2, Line 171, Pos (0,3)
+msgid "\\S[2]こんにちは　遊びましょう"
+msgstr "\\S[2]你好　来玩吧"
+
+#. ID 20, Page 2, Line 173, Pos (0,3)
+msgid "\\S[2]一緒に　たくさん　遊びましょう"
+msgstr "\\S[2]一起　多多地　玩吧"
+
+#. ID 20, Page 2, Line 177, Pos (0,3)
+msgid "＊……どうやら、もとサンプルだった女性たちらしい。"
+msgstr "＊……看来，她们似乎是原本的样本女性。"
+
+#. ID 20, Page 2, Line 183, Pos (0,3)
+msgid ""
+"\\n[\\v[6]]\n"
+"\\S[2]「戦闘性能テスト開始。\n"
+"対象を破壊します」"
+msgstr ""
+"\\n[\\v[6]]\\S[2]「战斗性能测试开始。将破坏对象。\n"
+"」"
+
+#. ID 23, Page 5, Line 13, Pos (0,2)
+msgid ""
+"同じく機械化改造を施されたサンプルたちだ。\n"
+"破壊しろ。"
+msgstr "同样是接受了机械化改造的样本。破坏掉。"
+
+#. ID 23, Page 5, Line 25, Pos (0,2)
+msgid ""
+"人格調整の試験を行う。\n"
+"機械人形に感情は必要ない。"
+msgstr "进行人格调整的试验。机械人偶不需要感情。"
+
+#. ID 23, Page 5, Line 27, Pos (0,2)
+msgid ""
+"目の前の元冒険者たちには脳改造を施してあり、\n"
+"一切攻撃を行えないようになっている。\n"
+"\\.\\.無抵抗だ。\n"
+"殺害しろ。"
+msgstr ""
+"眼前的原冒险者们已被施加脑改造，\n"
+"完全无法进行任何攻击。\\.\\.毫无抵抗。杀掉吧。"
+
+#. ID 23, Page 5, Line 41, Pos (0,2)
+msgid ""
+"戦闘能力のテストを行う。\n"
+"当研究所のサンプルと戦闘しろ。"
+msgstr "进行战斗能力的测试。与本研究所的样本战斗。"
+
+#. ID 23, Page 5, Line 43, Pos (0,2)
+msgid ""
+"性的な攻撃が加えられる可能性があるが、\n"
+"喜んで受け入れろ。\n"
+"それもいいデータになる。"
+msgstr ""
+"可能会受到性攻击，但要高兴地接受。\n"
+"那也会成为很好的数据。"
+
+#. ID 23, Page 5, Line 56, Pos (0,2)
+msgid ""
+"能力を制限された状態でテストを行う。\n"
+"性感データを強めたまま戦ってもらおう。"
+msgstr ""
+"在能力受到限制的状态下进行测试。\n"
+"就让她保持性感数据增强的状态战斗吧。"
+
+#. ID 23, Page 5, Line 58, Pos (0,2)
+msgid "＊…………体が……"
+msgstr "＊…………身体……"
+
+#. ID 23, Page 5, Line 64, Pos (0,2)
+msgid "……！！"
+msgstr "……！！"
+
+#. ID 23, Page 5, Line 65, Pos (0,2)
+msgid "！！！！！！！！！！！！！！！"
+msgstr "！！！！！！！！！！！！！！！"
+
+#. ID 23, Page 5, Line 94, Pos (0,2)
+msgid ""
+"今回は能力を制限された状態でテストを行う。\n"
+"性感データを強めたまま戦ってもらおう。"
+msgstr ""
+"这次在能力受到限制的状态下进行测试。\n"
+"就让她保持性感数据增强的状态战斗吧。"
+
+#. ID 32, Page 2, Line 3, Pos (11,6)
+msgid "＊壊れたサンプルが放置されている。"
+msgstr "＊损坏的样本被搁置在那里。"
+
+#. ID 32, Page 2, Line 9, Pos (11,6)
+msgid "＊……？　機体の中に何かがある。"
+msgstr "＊……？　机体里面有什么东西。"

@@ -1,0 +1,45 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 3, Pos (17,9)
+msgid "聖なる矢を６本手に入れた。"
+msgstr "获得了6支圣箭。"
+
+#. ID 13, Page 2, Line 3, Pos (14,8)
+msgid "ソウルポット４を手に入れた。"
+msgstr "获得了灵魂壶4。"
+
+#. ID 15, Page 2, Line 3, Pos (18,14)
+msgid "池の中に入らないように！"
+msgstr "不要进入池子里！"
+
+#. ID 15, Page 2, Line 4, Pos (18,14)
+msgid ""
+"クリーチャーの中には、\n"
+"特定の行動を取ることによって\n"
+"行動パターンが変化するものが存在します。"
+msgstr ""
+"在生物之中，\n"
+"存在通过采取特定行动来改变行动模式的生物。"
+
+#. ID 15, Page 2, Line 7, Pos (18,14)
+msgid ""
+"そのようなクリーチャーは\n"
+"非常に強力な能力を持っていることが多いため、\n"
+"一見無害に見えるクリーチャーでも\n"
+"常に警戒を怠らないよう気をつけましょう。"
+msgstr ""
+"这类生物大多拥有非常强大的能力，\n"
+"所以即使是乍看无害的生物，也要时刻保持警惕、\n"
+"不可大意。"

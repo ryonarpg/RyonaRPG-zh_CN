@@ -1,0 +1,76 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 37, Page 2, Line 5, Pos (34,28)
+msgid "＊研究員の日記のようだ"
+msgstr "＊好像是研究员的日记"
+
+#. ID 37, Page 2, Line 10, Pos (34,28)
+msgid ""
+"＊畜生、人体実験が必要なのは解るが、\n"
+"　研究員で実験するだなんて正気じゃない！"
+msgstr ""
+"＊畜生，我知道需要人体实验，\n"
+"　但竟然拿研究员来做实验，简直是疯了！"
+
+#. ID 37, Page 2, Line 12, Pos (34,28)
+msgid ""
+"＊俺の隣で話をしてる奴は、\n"
+"　所長の機嫌を損ねたのが原因らしい。\n"
+"　人体実験に選んだ基準が透けて見えるぜ、クソ。"
+msgstr ""
+"＊在我旁边说话的那家伙，\n"
+"　似乎是因为惹所长不高兴。\n"
+"　用来挑选人体实验对象的标准都显而易见了，\n"
+"妈的。"
+
+#. ID 37, Page 2, Line 15, Pos (34,28)
+msgid ""
+"＊今日も１人居なくなった、\n"
+"　いずれは俺の番が来る。\n"
+"　"
+msgstr "＊今天又有一个人不见了，　迟早会轮到我。"
+
+#. ID 37, Page 2, Line 18, Pos (34,28)
+msgid ""
+"＊遠くから切り裂くような悲鳴が聞こえてくる。\n"
+"　アレはさっき此処から出て行った奴の声だ。\n"
+"　実験？これが拷問じゃないとでも言うのか？"
+msgstr ""
+"＊远处传来仿佛撕裂般的惨叫。\n"
+"　那是刚才从这里出去的那家伙的声音。　实验？\n"
+"　难道说这不算拷问吗？"
+
+#. ID 37, Page 2, Line 21, Pos (34,28)
+msgid ""
+"＊とうとう、俺以外だれもいなくなった。\n"
+"　次は俺だ。今日も眠ることが出来ない。\n"
+"　"
+msgstr ""
+"＊终于，除我以外谁都不在了。　下一个就是我。\n"
+"　今天也无法入睡。"
+
+#. ID 37, Page 2, Line 24, Pos (34,28)
+msgid "＊いやだ　たす"
+msgstr "＊不要　救"
+
+#. ID 39, Page 2, Line 3, Pos (32,30)
+msgid ""
+"\\S[2]そんな目で……\n"
+"見ないで……くれ…･･･"
+msgstr "\\S[2]不要用那种眼神……看我……求你了…･･･"
+
+#. ID 44, Page 2, Line 5, Pos (33,34)
+msgid "＊人体実験のスケジュールが書かれている。"
+msgstr "＊上面写着人体实验的日程安排。"

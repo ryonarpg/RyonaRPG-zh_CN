@@ -1,0 +1,225 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 2, Line 5, Pos (14,14)
+msgid "！？"
+msgstr "！？"
+
+#. ID 2, Page 2, Line 11, Pos (14,14)
+msgid "逃さん…お前だけは…"
+msgstr "不会让你逃的……唯独你……"
+
+#. ID 2, Page 2, Line 20, Pos (14,14)
+msgid "そういうことをしてもらうと困るんですよ…"
+msgstr "你那样做会让我很为难的……"
+
+#. ID 2, Page 2, Line 21, Pos (14,14)
+msgid "ちょっと事務室まできてもらいますよ？"
+msgstr "请到办公室来一下哦？"
+
+#. ID 2, Page 2, Line 28, Pos (14,14)
+msgid ""
+"どういうつもりでやったのか知りませんけど…\n"
+"ペナルティは受けてもらいますよ。"
+msgstr ""
+"我不知道你是出于什么打算做的……\n"
+"但你要接受惩罚哦。"
+
+#. ID 2, Page 2, Line 59, Pos (14,14)
+msgid "このへんで勘弁してあげましょうか。"
+msgstr "就到这里放过你吧。"
+
+#. ID 2, Page 2, Line 60, Pos (14,14)
+msgid "これに懲りたらもうやっちゃいけませんよ？"
+msgstr "吃了这次教训，就不要再做了哦？"
+
+#. ID 4, Page 1, Line 3, Pos (18,11)
+msgid "いらっしゃいませ。"
+msgstr "欢迎光临。"
+
+#. ID 4, Page 1, Line 4, Pos (18,11)
+msgid ""
+"当店では試着室を設けております。\n"
+"ご自由にご利用ください。"
+msgstr "本店设有试衣间。请自由使用。"
+
+#. ID 4, Page 1, Line 6, Pos (18,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"お買い上げになる際は、\n"
+"私のところまで商品をお持ちください。"
+msgstr "购买时，请把商品拿到我这里来。"
+
+#. ID 4, Page 1, Line 10, Pos (18,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"わかった\n"
+"めんどい"
+msgstr ""
+"明白了\n"
+"好麻烦"
+
+#. ID 4, Page 1, Line 14, Pos (18,11)
+msgid "……"
+msgstr "……"
+
+#. ID 4, Page 1, Line 17, Pos (18,11)
+#. ID 4, Page 2, Line 8, Pos (18,11)
+msgid "お買い上げありがとうございます。"
+msgstr "感谢您购买。"
+
+#. ID 4, Page 2, Line 3, Pos (18,11)
+msgid "その商品は \\V[1202] になります。"
+msgstr "那件商品是 \\V[1202]。"
+
+#. ID 4, Page 2, Line 6, Pos (18,11)
+#. Choice (2 options)
+msgid ""
+"買う\n"
+"買わない"
+msgstr ""
+"购买\n"
+"不购买"
+
+#. ID 4, Page 2, Line 20, Pos (18,11)
+msgid "所持金が足りないようですね。"
+msgstr "所持金钱好像不够呢。"
+
+#. ID 5, Page 1, Line 4, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+msgid "着替えますか？"
+msgstr "要换衣服吗？"
+
+#. ID 5, Page 1, Line 5, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 30, Pos (2,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 5, Page 1, Line 8, Pos (17,3)
+msgid ""
+"\\S[2]\n"
+"着替えられない"
+msgstr "\\S[2]无法换衣服"
+
+#. ID 5, Page 1, Line 14, Pos (17,3)
+msgid ""
+"スーツに閉じ込められている自分を\n"
+"わざと確認するような自らの行為に\n"
+"\\n[\\v[6]]はゾクリとした"
+msgstr ""
+"对自己故意确认被关在套装中的这种行为，\n"
+"\\n[\\v[6]]感到一阵战栗"
+
+#. ID 5, Page 1, Line 26, Pos (17,3)
+#. ID 5, Page 1, Line 35, Pos (17,3)
+msgid ""
+"\n"
+"装備が呪われていて着替えられない！"
+msgstr "装备被诅咒了，无法换衣服！"
+
+#. ID 7, Page 1, Line 4, Pos (2,6)
+#. Choice (4 options)
+msgid ""
+"あぶない水着: 5,000\n"
+"ミスリルビスチェ: 2,000\n"
+"幻獣の毛皮: 7,000\n"
+"異国の着物: 12,000"
+msgstr ""
+"危险泳装: 5,000\n"
+"秘银紧身胸衣: 2,000\n"
+"幻兽毛皮: 7,000\n"
+"异国和服: 12,000"
+
+#. ID 7, Page 1, Line 26, Pos (2,6)
+#. ID 8, Page 1, Line 26, Pos (2,10)
+#. ID 9, Page 1, Line 26, Pos (5,10)
+#. ID 10, Page 1, Line 26, Pos (8,10)
+msgid "商品を手に取った。"
+msgstr "拿起了商品。"
+
+#. ID 7, Page 1, Line 29, Pos (2,6)
+#. Contains choice at line 2 (2 options)
+msgid "商品を戻しますか？"
+msgstr "要放回商品吗？"
+
+#. ID 7, Page 1, Line 32, Pos (2,6)
+msgid "商品を戻した。"
+msgstr "放回了商品。"
+
+#. ID 8, Page 1, Line 4, Pos (2,10)
+#. Choice (4 options)
+msgid ""
+"変化のドレス: 8,000\n"
+"ウェイトレスの服: 2,500\n"
+"おどりこのふく: 2,000\n"
+"壊れた鎧: 100"
+msgstr ""
+"变化礼服: 8,000\n"
+"女服务员服: 2,500\n"
+"舞娘服: 2,000\n"
+"损坏的铠甲: 100"
+
+#. ID 9, Page 1, Line 4, Pos (5,10)
+#. Choice (4 options)
+msgid ""
+"プリンセスドレス: 16,000\n"
+"ボロボロの服: 100\n"
+"バインドスーツ: 20,000\n"
+"小さなシール: 5,000"
+msgstr ""
+"公主连衣裙: 16,000\n"
+"破烂衣服: 100\n"
+"束缚服: 20,000\n"
+"小贴纸: 5,000"
+
+#. ID 10, Page 1, Line 4, Pos (8,10)
+#. Choice (4 options)
+msgid ""
+"マジカルビキニ: 7,000\n"
+"ラバースーツ: 4,000\n"
+"エッチな下着: 45,000\n"
+"つけみみ・いぬしっぽ: 10,000"
+msgstr ""
+"魔法比基尼: 7,000\n"
+"橡胶紧身衣: 4,000\n"
+"色情内衣: 45,000\n"
+"假耳·狗尾: 10,000"
+
+#. ID 12, Page 1, Line 3, Pos (20,7)
+msgid "なんでここの店主はシーツをかぶってるんだろう？"
+msgstr "为什么这里的店主披着床单呢？"
+
+#. ID 13, Page 1, Line 3, Pos (4,4)
+msgid "う～ん、イマイチかなー？"
+msgstr "嗯～，不太行吧？"
+
+#. ID 14, Page 1, Line 3, Pos (6,3)
+#. Contains choice at line 2 (2 options)
+msgid "鏡がある。"
+msgstr "有一面镜子。"
+
+#. ID 14, Page 1, Line 4, Pos (6,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"容姿を確認する\n"
+"いいえ"
+msgstr ""
+"确认容貌\n"
+"否"

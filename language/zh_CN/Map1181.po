@@ -1,0 +1,95 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 21, Page 2, Line 3, Pos (5,9)
+msgid ""
+"悪魔達と闘うため、人類は兵器を作った\\!\n"
+"その一つがナイトゴーントである"
+msgstr ""
+"为了与恶魔们战斗，\n"
+"人类制造了兵器\\!其中之一就是夜魇"
+
+#. ID 21, Page 2, Line 5, Pos (5,9)
+msgid "ナイトゴーントは死ぬことも老いることもない"
+msgstr "夜魇既不会死也不会衰老"
+
+#. ID 21, Page 2, Line 6, Pos (5,9)
+msgid "ナイトゴーントは恐れを知らない"
+msgstr "夜魇不知恐惧"
+
+#. ID 22, Page 2, Line 3, Pos (14,9)
+msgid ""
+"悪魔が少なくなった今、\n"
+"ナイトゴーントは塔の番人となっている"
+msgstr "如今恶魔变少了，夜魇成为了塔的守卫"
+
+#. ID 22, Page 2, Line 5, Pos (14,9)
+msgid "塔に近づく不届き者には、容赦なく襲いかかるだろう"
+msgstr "对接近塔的不法之徒，它会毫不留情地发动袭击吧"
+
+#. ID 23, Page 2, Line 3, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+msgid "＊魔力溜まりがある。"
+msgstr "＊有魔力池。"
+
+#. ID 23, Page 2, Line 4, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"魔力を回復する\n"
+"いいえ"
+msgstr ""
+"恢复魔力\n"
+"否"
+
+#. ID 24, Page 2, Line 4, Pos (8,7)
+msgid ""
+"名前：ナイトゴーント\n"
+"種族：不明"
+msgstr "名字：夜魇种族：不明"
+
+#. ID 24, Page 2, Line 6, Pos (8,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$5000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$5000G可以听取攻略情报。要听吗？"
+
+#. ID 24, Page 2, Line 8, Pos (8,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 24, Page 2, Line 15, Pos (8,7)
+msgid "高い魔力から連続攻撃を繰り出してくる"
+msgstr "凭借高魔力施展连续攻击"
+
+#. ID 24, Page 2, Line 16, Pos (8,7)
+msgid ""
+"炎耐性に自信があるなら\n"
+"追尾弾は避けずにあえて受けても良い"
+msgstr "如果对火耐性有自信，也可以不躲追踪弹而故意承受"
+
+#. ID 24, Page 2, Line 18, Pos (8,7)
+msgid "ボムは動いていれば当たらない"
+msgstr "炸弹只要保持移动就不会命中"
+
+#. ID 24, Page 2, Line 19, Pos (8,7)
+msgid ""
+"タメ動作中は動かないため\n"
+"比較的安全に攻撃できる"
+msgstr "蓄力动作期间不会移动，因此可以相对安全地攻击"

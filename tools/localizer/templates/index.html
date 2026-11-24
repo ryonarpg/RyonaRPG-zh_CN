@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RyonaRPG 本地化编辑器</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <strong>RyonaRPG 本地化编辑器</strong>
+    <span class="muted">PO 安全编辑 · 全文搜索 · 校验 · 消息预览</span>
+  </div>
+  <div class="top-actions">
+    <span id="status" class="status">加载中…</span>
+    <button id="reindexBtn" class="btn ghost" type="button">重建索引</button>
+  </div>
+</header>
+
+<main class="layout">
+  <aside class="pane search-pane">
+    <div class="pane-title">
+      <h2>搜索</h2>
+      <span id="searchCount" class="muted"></span>
+    </div>
+    <div class="search-controls">
+      <input id="searchInput" type="search" autocomplete="off"
+             placeholder="输入游戏内看到的中文、日文原文或文件名">
+      <select id="searchMode" title="搜索范围">
+        <option value="both">中日文</option>
+        <option value="cn">中文译文</option>
+        <option value="jp">日文原文</option>
+      </select>
+    </div>
+    <div id="searchMeta" class="muted small"></div>
+    <div id="results" class="results">
+      <div class="empty">输入关键词开始全库搜索</div>
+    </div>
+  </aside>
+
+  <section class="pane editor-pane">
+    <div class="pane-title entry-title">
+      <div>
+        <h2 id="entryFile">未选择条目</h2>
+        <div id="entryMeta" class="muted small"></div>
+      </div>
+      <div class="entry-actions">
+        <span id="dirtyFlag" class="dirty off">已保存</span>
+        <button id="saveBtn" class="btn primary" type="button" disabled>保存</button>
+      </div>
+    </div>
+
+    <div class="field">
+      <div class="field-label">日文原文（只读）</div>
+      <pre id="sourceText" class="source-box empty">从左侧搜索结果选择一条消息</pre>
+    </div>
+
+    <div class="field grow">
+      <div class="field-label">
+        中文译文
+        <span id="lineHint" class="muted small"></span>
+      </div>
+      <textarea id="translation" spellcheck="false" disabled
+                placeholder="选择条目后在这里编辑。换行需手动控制，每行不超过 50 半角单元。"></textarea>
+    </div>
+
+    <div id="issues" class="issues"></div>
+
+    <div class="field">
+      <div class="field-label">行宽</div>
+      <div id="metrics" class="metrics empty">暂无数据</div>
+    </div>
+  </section>
+
+  <aside class="pane preview-pane">
+    <div class="pane-title">
+      <h2>消息窗口预览</h2>
+      <span id="pageCount" class="muted small"></span>
+    </div>
+    <div class="preview-note muted small">
+      320×80，12px 字体，每 4 行一页；控制符已隐藏。
+    </div>
+    <div id="preview" class="preview empty">暂无预览</div>
+  </aside>
+</main>
+
+<div id="toast" class="toast"></div>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

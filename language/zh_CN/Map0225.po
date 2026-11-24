@@ -1,0 +1,60 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 2, Line 13, Pos (9,8)
+msgid ""
+"さて、この塔に潜入した目的があるだろう？\n"
+"\\!無くても構わないが。せいぜい楽しめ。"
+msgstr ""
+"那么，你潜入这座塔总该有目的吧？\\!没有也无妨。\n"
+"你就尽量乐呵吧。"
+
+#. ID 2, Page 2, Line 153, Pos (9,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"おっと。\n"
+"まだ眠る時間ではないぞ。"
+msgstr "哦哟。现在还不是睡觉的时间。"
+
+#. ID 2, Page 2, Line 171, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"眼を覚ます\n"
+"諦める"
+msgstr ""
+"醒来\n"
+"放弃"
+
+#. ID 2, Page 2, Line 178, Pos (9,8)
+msgid ""
+"……ふむ。起きないか。\n"
+"\\!限界だな。今日はここまでだ。"
+msgstr "……嗯。不起来吗。\\!到极限了啊。今天就到这里。"
+
+#. ID 4, Page 1, Line 1, Pos (0,0)
+msgid ""
+"飯の世話も下の世話も\n"
+"全部そいつらがやってくれるからよ、\n"
+"せいぜい仲良くするんだな！"
+msgstr ""
+"吃饭和下半身的照料全都由那帮家伙来做，\n"
+"所以你就尽量和它们好好相处吧！"
+
+#. ID 4, Page 1, Line 4, Pos (0,0)
+msgid ""
+"お楽しみの最中に残念なお知らせだが、\n"
+"次の対戦カードが決まったぞ！ブタ女！"
+msgstr ""
+"正玩到兴头上，有个遗憾的通知：\n"
+"下一场比赛的组合已经定了！猪女！"

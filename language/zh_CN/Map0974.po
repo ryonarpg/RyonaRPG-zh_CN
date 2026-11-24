@@ -1,0 +1,140 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 65, Page 2, Line 4, Pos (22,67)
+#. ID 73, Page 2, Line 4, Pos (24,67)
+msgid ""
+"注意!\n"
+"パスコード入力無しの通行者は\n"
+"不審者と見なされ攻撃対象となります!"
+msgstr ""
+"注意！\n"
+"未输入密码的通行者将被视为可疑人物并成为攻击对\n"
+"象！"
+
+#. ID 65, Page 2, Line 9, Pos (22,67)
+#. ID 73, Page 2, Line 9, Pos (24,67)
+msgid ""
+"竭ﾙ!ﾚ[ｵ!\n"
+"$aZｹt・MkmYﾌｶ倚@ｭ)尅Jﾍ\n"
+"X絵ﾓﾜﾌ&穽ｲGQｬCｦ燃Z775@!"
+msgstr ""
+"竭ル!レ[オ!$aZケt・MkmYフカ倚@ュ)尅JヘX絵モワ\n"
+"フ&穽イGQャCヲ燃Z775@!"
+
+#. ID 73, Page 2, Line 36, Pos (24,67)
+msgid ""
+"警告!\n"
+"度重なる入力ミスは\n"
+"不審者と見なされ攻撃対象となります!"
+msgstr ""
+"警告！\n"
+"反复输入错误将被视为可疑人物并成为攻击对象！"
+
+#. ID 73, Page 2, Line 43, Pos (24,67)
+msgid ""
+"纔M｣元L6緊!\n"
+"嚀I0攘ﾏX衆&S・hLUﾎ\n"
+"X絵ﾓﾜﾌ&穽ｲGQｬCｦ燃Z775@!"
+msgstr ""
+"纔M｣元L6緊!嚀I0攘マX衆&S・hLUホX絵モワフ&穽イG\n"
+"QャCヲ燃Z775@!"
+
+#. ID 83, Page 2, Line 3, Pos (21,60)
+msgid "ピクリとも動かない……。\n"
+msgstr "一动不动……。"
+
+#. ID 86, Page 2, Line 3, Pos (56,25)
+#. ID 105, Page 2, Line 3, Pos (58,25)
+msgid "何か落ちている……"
+msgstr "有什么东西掉着……"
+
+#. ID 86, Page 2, Line 4, Pos (56,25)
+msgid "金塊を手に入れた。"
+msgstr "获得了金块。"
+
+#. ID 93, Page 2, Line 3, Pos (99,53)
+msgid ""
+"水瓶を担いだ女性の像は\n"
+"迷える咎人を包み込むような\n"
+"慈愛に溢れた微笑みを浮かべている……。"
+msgstr ""
+"扛着水瓶的女性像，\n"
+"脸上浮现着仿佛包容迷途罪人般充满慈爱的微笑……。"
+
+#. ID 94, Page 2, Line 3, Pos (99,54)
+#. ID 95, Page 2, Line 3, Pos (98,54)
+#. ID 96, Page 2, Line 3, Pos (98,53)
+#. ID 97, Page 2, Line 3, Pos (100,53)
+#. ID 98, Page 2, Line 3, Pos (100,54)
+msgid "清らかな色合いの水が満ちている……。"
+msgstr "其中满盈着清澄色调的水……。"
+
+#. ID 94, Page 2, Line 4, Pos (99,54)
+#. Contains choice at line 2 (2 options)
+#. ID 95, Page 2, Line 4, Pos (98,54)
+#. Contains choice at line 2 (2 options)
+#. ID 96, Page 2, Line 4, Pos (98,53)
+#. Contains choice at line 2 (2 options)
+#. ID 97, Page 2, Line 4, Pos (100,53)
+#. Contains choice at line 2 (2 options)
+#. ID 98, Page 2, Line 4, Pos (100,54)
+#. Contains choice at line 2 (2 options)
+msgid "入ってみますか?"
+msgstr "要进去吗？"
+
+#. ID 94, Page 2, Line 5, Pos (99,54)
+#. Choice (2 options, embedded in a message)
+#. ID 95, Page 2, Line 5, Pos (98,54)
+#. Choice (2 options, embedded in a message)
+#. ID 96, Page 2, Line 5, Pos (98,53)
+#. Choice (2 options, embedded in a message)
+#. ID 97, Page 2, Line 5, Pos (100,53)
+#. Choice (2 options, embedded in a message)
+#. ID 98, Page 2, Line 5, Pos (100,54)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 94, Page 2, Line 38, Pos (99,54)
+#. ID 95, Page 2, Line 38, Pos (98,54)
+#. ID 96, Page 2, Line 38, Pos (98,53)
+#. ID 97, Page 2, Line 38, Pos (100,53)
+#. ID 98, Page 2, Line 38, Pos (100,54)
+msgid "\\N[\\V[6]]の受けた呪詛は浄化された。"
+msgstr "\\N[\\V[6]]所受的诅咒被净化了。"
+
+#. ID 94, Page 2, Line 48, Pos (99,54)
+#. ID 95, Page 2, Line 48, Pos (98,54)
+#. ID 96, Page 2, Line 48, Pos (98,53)
+#. ID 97, Page 2, Line 48, Pos (100,53)
+#. ID 98, Page 2, Line 48, Pos (100,54)
+msgid "冷たくて気持ちがいい……。"
+msgstr "冰冷而舒服……。"
+
+#. ID 94, Page 2, Line 49, Pos (99,54)
+#. ID 95, Page 2, Line 49, Pos (98,54)
+#. ID 96, Page 2, Line 49, Pos (98,53)
+#. ID 97, Page 2, Line 49, Pos (100,53)
+#. ID 98, Page 2, Line 49, Pos (100,54)
+msgid "……水浴びしてすっきりした。"
+msgstr "……沐浴后神清气爽。"
+
+#. ID 105, Page 2, Line 4, Pos (58,25)
+msgid "プライムブルーを手に入れた。"
+msgstr "获得了原初蓝。"

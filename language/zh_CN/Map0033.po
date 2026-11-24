@@ -1,0 +1,94 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 15, Page 2, Line 8, Pos (13,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"汝、神の元へ贄を導きし敬虔なる信徒か？\n"
+"それとも贄となる運命を拒む背信の輩か？"
+msgstr ""
+"汝是将祭品引导至神处的虔诚信徒吗？\n"
+"还是拒绝成为祭品命运的背信之徒？"
+
+#. ID 15, Page 2, Line 10, Pos (13,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"帰りたい\n"
+"生贄になってきます"
+msgstr ""
+"我想回去\n"
+"我去当祭品"
+
+#. ID 15, Page 2, Line 14, Pos (13,17)
+msgid ""
+"神はすぐそばにおられる。\n"
+"神の元へと急ぐが良い。"
+msgstr "神就在身边。赶快前往神之处吧。"
+
+#. ID 15, Page 2, Line 21, Pos (13,17)
+msgid ""
+"…今一度わが問に答えよ。\n"
+"汝に問う。\n"
+"「水」以外の「動かぬもの」が意味するものは何か？"
+msgstr ""
+"…再回答一次我的问题。我问你。除「水」以外的\n"
+"「不动之物」意味着什么？"
+
+#. ID 15, Page 2, Line 24, Pos (13,17)
+#. Choice (4 options)
+msgid ""
+"$V\n"
+"$P\n"
+"$U\n"
+"$R"
+msgstr ""
+"$V\n"
+"$P\n"
+"$U\n"
+"$R"
+
+#. ID 15, Page 2, Line 44, Pos (13,17)
+msgid ""
+"正しき「刻と星の陣」を魂に宿す敬虔なる信徒よ。\n"
+"再び下界に降り信仰を行うがよい。\n"
+"神が力を取り戻すためには更なる生贄が必要だ。\n"
+"まぁ、なんと言うか、要するにこういう事だ。"
+msgstr ""
+"将正确的「刻与星之阵」宿于灵魂的虔诚信徒啊。\n"
+"再次降临下界进行信仰吧。神为了恢复力量，\n"
+"需要更多的祭品。嘛，怎么说呢，\n"
+"总之就是这么回事。"
+
+#. ID 15, Page 2, Line 48, Pos (13,17)
+msgid "「神は 今 自由には動けない…」"
+msgstr "「神 现在 无法自由行动…」"
+
+#. ID 15, Page 2, Line 79, Pos (13,17)
+msgid "汝、贄となる運命を拒むことかなわぬ。"
+msgstr "汝无法拒绝成为祭品的命运。"
+
+#. ID 17, Page 2, Line 12, Pos (21,12)
+msgid ""
+"チェーンフレイルを装備して\n"
+"\\C[2]ポール\\C[0]を攻撃すると\n"
+"ポールへ向かって高速移動できる。"
+msgstr "装备链枷攻击\\C[2]杆\\C[0]时，可以朝杆高速移动。"
+
+#. ID 17, Page 2, Line 15, Pos (21,12)
+msgid ""
+"溜め攻撃でより遠くのポールや\n"
+"崖の向こう側のポールへ移動できる。"
+msgstr ""
+"通过蓄力攻击，\n"
+"可以移动到更远处的杆或悬崖对面的杆。"

@@ -1,0 +1,43 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 2, Line 3, Pos (9,6)
+msgid ""
+"なんだ？ご主人様のお使いか？\n"
+"えらいな。"
+msgstr "什么事？是主人的差事吗？真了不起啊。"
+
+#. ID 10, Page 1, Line 3, Pos (14,9)
+msgid ""
+"伝説の不死鳥…『フェニックス』をご存知ですか？\n"
+"その尾には死者さえも生き返らせる力があるとか。\n"
+"なんだかユメのような話ですね。"
+msgstr ""
+"您知道传说中的不死鸟……『凤凰』吗？\n"
+"据说它的尾巴拥有连死者都能复活的力量。\n"
+"总觉得像是梦一样的故事呢。"
+
+#. ID 10, Page 1, Line 7, Pos (14,9)
+msgid ""
+"でも、あなたにとっては\n"
+"マタタビの方が素敵かしら？"
+msgstr "不过，对你来说，也许木天蓼更有魅力吧？"
+
+#. ID 10, Page 1, Line 9, Pos (14,9)
+msgid "下の階に置いてありますよ。"
+msgstr "放在楼下哦。"
+
+#. ID 10, Page 2, Line 3, Pos (14,9)
+msgid "おや、これは珍しい種類のペットだな"
+msgstr "哎呀，这是稀有品种的宠物啊。"

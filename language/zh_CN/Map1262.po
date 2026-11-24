@@ -1,0 +1,62 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 35, Page 2, Line 3, Pos (7,3)
+msgid "遺骨を手に入れた。"
+msgstr "获得了遗骨。"
+
+#. ID 36, Page 2, Line 4, Pos (12,3)
+msgid ""
+"名前：ソーサラー\n"
+"種族：人男"
+msgstr "名字：术士 种族：人男"
+
+#. ID 36, Page 2, Line 6, Pos (12,3)
+msgid "魔法使い"
+msgstr "魔法师"
+
+#. ID 36, Page 2, Line 7, Pos (12,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\$1000Gで攻略情報を聞くことができます\n"
+"聞きますか？"
+msgstr "用\\$1000G可以打听攻略情报。要打听吗？"
+
+#. ID 36, Page 2, Line 9, Pos (12,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 36, Page 2, Line 15, Pos (12,3)
+msgid ""
+"魔法で攻撃してくる\n"
+"変な帽子を被った親父\\!\n"
+"氷属性の魔法が得意だ"
+msgstr "会用魔法攻击的戴奇怪帽子的老头\\!擅长冰属性魔法"
+
+#. ID 36, Page 2, Line 18, Pos (12,3)
+msgid ""
+"炎と氷属性で2倍のダメージを\n"
+"与えることができる"
+msgstr "用火与冰属性可以造成2倍伤害"
+
+#. ID 36, Page 2, Line 20, Pos (12,3)
+msgid ""
+"稀に\\C[2]パワーボルトスタッフ\\C[0]を\n"
+"落とす"
+msgstr "偶尔会掉落\\C[2]强力闪电杖\\C[0]"

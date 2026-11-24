@@ -1,0 +1,204 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 1, Line 3, Pos (19,7)
+#. Contains choice at line 2 (2 options)
+msgid "あらあら、どうしたの？"
+msgstr "哎呀哎呀，怎么了？"
+
+#. ID 13, Page 1, Line 4, Pos (19,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"可愛がってください\n"
+"なんでもないです"
+msgstr ""
+"请疼爱我\n"
+"没什么"
+
+#. ID 13, Page 1, Line 6, Pos (19,7)
+msgid "いいわよ。いっぱい愛してあげるわ。"
+msgstr "好啊。我会好好疼爱你。"
+
+#. ID 13, Page 1, Line 23, Pos (19,7)
+msgid "まずは奉仕してもらおうかしら"
+msgstr "先让你来侍奉我吧"
+
+#. ID 13, Page 1, Line 29, Pos (19,7)
+msgid "ほら、もっとしっかりと…"
+msgstr "来，再认真一点…"
+
+#. ID 13, Page 1, Line 35, Pos (19,7)
+msgid ""
+"いいわあ…\\!ほら、出してあげる。\n"
+"受け取りなさい。"
+msgstr "真好啊…\\!来，我让你射出来。接住吧。"
+
+#. ID 13, Page 1, Line 47, Pos (19,7)
+msgid "ほら、しっかり飲み干すのよ"
+msgstr "来，要好好喝光哦"
+
+#. ID 13, Page 1, Line 57, Pos (19,7)
+msgid "いい娘ね…それじゃあご褒美をあげるわ"
+msgstr "真是个好孩子…那么，我给你奖励吧"
+
+#. ID 13, Page 1, Line 63, Pos (19,7)
+msgid "フフフ…かわいい声…"
+msgstr "呵呵呵…可爱的声音…"
+
+#. ID 13, Page 1, Line 68, Pos (19,7)
+msgid ""
+"あなたのその服がなければもっと\n"
+"かわいがってあげたのだけれど…"
+msgstr "要是没有你那身衣服，我本来会更疼爱你一点的…"
+
+#. ID 13, Page 1, Line 79, Pos (19,7)
+msgid "ほら、おっぱいも…"
+msgstr "来，胸部也…"
+
+#. ID 13, Page 1, Line 85, Pos (19,7)
+msgid ""
+"フフフ、貴女のミルクはいつ飲んでも\n"
+"美味しいわ。\n"
+"今度は私からあげるわね"
+msgstr ""
+"呵呵呵，你的奶水不管什么时候喝都很好喝。\n"
+"这次换我来给你哦"
+
+#. ID 13, Page 1, Line 96, Pos (19,7)
+msgid "ほら、受け取りなさい！"
+msgstr "来，接住吧！"
+
+#. ID 13, Page 1, Line 108, Pos (19,7)
+msgid ""
+"フフフ、とてもよかったわ\n"
+"またいらっしゃい。"
+msgstr "呵呵呵，非常棒哦，下次再来。"
+
+#. ID 13, Page 1, Line 119, Pos (19,7)
+msgid "そう？つまんないわね…"
+msgstr "是吗？真无聊呢…"
+
+#. ID 14, Page 1, Line 4, Pos (20,7)
+msgid ""
+"………\\!うふふ…\\!あはは……\n"
+"れいくさま…おかあさま…"
+msgstr "………\\!呵呵…\\!啊哈哈……雷克大人…母亲大人…"
+
+#. ID 14, Page 1, Line 8, Pos (20,7)
+msgid "すでに正気を失っているようだ。"
+msgstr "似乎已经失去理智了。"
+
+#. ID 14, Page 1, Line 10, Pos (20,7)
+msgid ""
+"もうダメねこの娘。\n"
+"もっと遊んであげたかったのに…\n"
+"貴女にくれてあげるから好きにしなさい。"
+msgstr ""
+"这孩子已经不行了呢。本来还想多陪她玩玩的…\n"
+"就把她送给你了，随你处置吧。"
+
+#. ID 17, Page 1, Line 4, Pos (21,8)
+#. ID 22, Page 1, Line 4, Pos (18,10)
+msgid ""
+"フフ…お互い頑張りましょう\n"
+"レイク様の為に。"
+msgstr "呵呵…为了雷克大人，我们彼此都加油吧。"
+
+#. ID 17, Page 1, Line 8, Pos (21,8)
+#. ID 18, Page 1, Line 7, Pos (21,10)
+#. ID 22, Page 1, Line 8, Pos (18,10)
+msgid "ああ…レイク様…"
+msgstr "啊啊…雷克大人…"
+
+#. ID 17, Page 1, Line 9, Pos (21,8)
+#. ID 18, Page 1, Line 8, Pos (21,10)
+#. ID 22, Page 1, Line 9, Pos (18,10)
+msgid ""
+"ねえ？もっとレイク様のお役に立ちたいと\n"
+"思わない？"
+msgstr "呐？你不想为雷克大人做更多贡献吗？"
+
+#. ID 17, Page 1, Line 11, Pos (21,8)
+#. Contains choice at line 3 (2 options)
+#. ID 18, Page 1, Line 10, Pos (21,10)
+#. Contains choice at line 3 (2 options)
+#. ID 22, Page 1, Line 11, Pos (18,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"…まあ当然よね。\n"
+"\\!それなら貴女に力をあげましょうか？"
+msgstr "…嗯，当然吧。\\!那么，就赐予你力量吧？"
+
+#. ID 17, Page 1, Line 13, Pos (21,8)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 12, Pos (21,10)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 4, Pos (21,17)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 2, Line 5, Pos (21,17)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 13, Pos (18,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 17, Page 1, Line 15, Pos (21,8)
+#. ID 18, Page 1, Line 14, Pos (21,10)
+#. ID 22, Page 1, Line 15, Pos (18,10)
+msgid "フフフ…じゃああげるわ…"
+msgstr "呵呵呵…那就给你吧…"
+
+#. ID 17, Page 1, Line 86, Pos (21,8)
+#. ID 18, Page 1, Line 85, Pos (21,10)
+#. ID 22, Page 1, Line 86, Pos (18,10)
+msgid "…………………………………………"
+msgstr "…………………………………………"
+
+#. ID 17, Page 1, Line 89, Pos (21,8)
+msgid "\\n[\\v[6]]はらみあになってしまった……"
+msgstr "\\n[\\v[6]]变成了拉米亚……"
+
+#. ID 18, Page 1, Line 4, Pos (21,10)
+msgid "クスクス、レイク様…"
+msgstr "呵呵，雷克大人…"
+
+#. ID 18, Page 1, Line 88, Pos (21,10)
+msgid "\\n[\\v[6]]は蜂少女になってしまった……"
+msgstr "\\n[\\v[6]]变成了蜂少女……"
+
+#. ID 20, Page 1, Line 3, Pos (18,8)
+msgid ""
+"さて次はどこを狙いましょうか…\n"
+"レイヨン…メルベル…フフフ"
+msgstr "那么接下来要瞄准哪里呢…雷永…梅尔贝尔…呵呵呵"
+
+#. ID 21, Page 1, Line 3, Pos (21,17)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 2, Line 4, Pos (21,17)
+#. Contains choice at line 2 (2 options)
+msgid "\\n[\\v[6]]様、お部屋に戻られますか？"
+msgstr "\\n[\\v[6]]大人，您要回房间吗？"
+
+#. ID 21, Page 1, Line 6, Pos (21,17)
+#. ID 21, Page 2, Line 7, Pos (21,17)
+msgid "ではお供いたします"
+msgstr "那么，我随您同行"
+
+#. ID 22, Page 1, Line 89, Pos (18,10)
+msgid "\\n[\\v[6]]はアルラウネになってしまった……"
+msgstr "\\n[\\v[6]]变成了阿尔拉乌涅……"

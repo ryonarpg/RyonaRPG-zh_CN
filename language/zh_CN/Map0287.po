@@ -1,0 +1,455 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (54,20)
+#. Contains choice at line 2 (2 options)
+msgid "街の外に出ますか？"
+msgstr "要前往城镇外吗？"
+
+#. ID 2, Page 1, Line 4, Pos (54,20)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 8, Pos (50,31)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 4, Page 1, Line 3, Pos (12,22)
+#. ID 5, Page 1, Line 3, Pos (8,23)
+#. ID 6, Page 1, Line 3, Pos (12,24)
+msgid "ここでは首都から送られた物資を販売しています。"
+msgstr "这里出售从首都送来的物资。"
+
+#. ID 4, Page 1, Line 4, Pos (12,22)
+#. ID 5, Page 1, Line 4, Pos (8,23)
+#. ID 6, Page 1, Line 4, Pos (12,24)
+msgid "奴隷でない一般の方も購入できますよ。"
+msgstr "非奴隶的一般人也可以购买哦。"
+
+#. ID 7, Page 1, Line 3, Pos (17,1)
+#. ID 9, Page 1, Line 3, Pos (1,13)
+#. ID 10, Page 1, Line 3, Pos (1,25)
+#. ID 12, Page 1, Line 3, Pos (36,36)
+#. ID 29, Page 1, Line 3, Pos (48,19)
+#. ID 30, Page 1, Line 3, Pos (48,22)
+#. ID 31, Page 1, Line 3, Pos (24,15)
+#. ID 73, Page 1, Line 3, Pos (38,30)
+#. ID 113, Page 1, Line 3, Pos (24,27)
+msgid "ここは奴隷都市シュライクです。"
+msgstr "这里是奴隶都市施莱克。"
+
+#. ID 7, Page 1, Line 4, Pos (17,1)
+#. ID 9, Page 1, Line 4, Pos (1,13)
+#. ID 10, Page 1, Line 4, Pos (1,25)
+#. ID 12, Page 1, Line 4, Pos (36,36)
+#. ID 30, Page 1, Line 4, Pos (48,22)
+#. ID 31, Page 1, Line 4, Pos (24,15)
+#. ID 73, Page 1, Line 4, Pos (38,30)
+#. ID 113, Page 1, Line 4, Pos (24,27)
+msgid "此処にいる奴隷に奉仕を要求することはできません。"
+msgstr "不能要求这里的奴隶提供服务。"
+
+#. ID 8, Page 1, Line 3, Pos (36,1)
+#. ID 11, Page 1, Line 3, Pos (13,36)
+#. ID 74, Page 1, Line 3, Pos (52,38)
+msgid "奴隷が悪さをしないよう、内部も見張ります。"
+msgstr "为了不让奴隶做坏事，内部也会进行监视。"
+
+#. ID 13, Page 1, Line 3, Pos (29,16)
+msgid ""
+"此処はいろいろな人種の奴隷が集まっているけど、\n"
+"妖魔の奴隷だと待遇が良いみたい。"
+msgstr ""
+"这里聚集着各种人种的奴隶，\n"
+"不过妖魔奴隶的待遇似乎更好。"
+
+#. ID 13, Page 1, Line 12, Pos (29,16)
+msgid "あら、あなたはラッキーね！"
+msgstr "哎呀，你很幸运呢！"
+
+#. ID 13, Page 1, Line 20, Pos (29,16)
+msgid "あまり見ないからかな？"
+msgstr "是因为不太常见吗？"
+
+#. ID 14, Page 2, Line 3, Pos (33,28)
+#. ID 53, Page 1, Line 14, Pos (32,28)
+msgid "入っていいよ！"
+msgstr "可以进来哦！"
+
+#. ID 17, Page 2, Line 3, Pos (50,31)
+#. ID 18, Page 2, Line 3, Pos (54,30)
+msgid "おっと、新しい住民の人かい？"
+msgstr "哦哟，是新居民吗？"
+
+#. ID 17, Page 2, Line 4, Pos (50,31)
+#. ID 18, Page 2, Line 4, Pos (54,30)
+msgid ""
+"もう聞いていると思うけど、\n"
+"君の仕事はここで農作業することだ。"
+msgstr "我想你已经听说了，你的工作是在这里干农活。"
+
+#. ID 17, Page 2, Line 6, Pos (50,31)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"仕事をすると夜までかかるけど、\n"
+"働くかい？"
+msgstr "干活会一直忙到晚上，你要工作吗？"
+
+#. ID 17, Page 2, Line 10, Pos (50,31)
+msgid "じゃあ、がんばってな。"
+msgstr "那么，加油吧。"
+
+#. ID 17, Page 2, Line 18, Pos (50,31)
+msgid ""
+"お疲れ様。\n"
+"これが今日の給料だ。"
+msgstr "辛苦了。这是今天的工钱。"
+
+#. ID 17, Page 2, Line 21, Pos (50,31)
+msgid "＊[10G]手に入れた！"
+msgstr "＊获得了[10G]！"
+
+#. ID 17, Page 2, Line 27, Pos (50,31)
+#. ID 17, Page 3, Line 3, Pos (50,31)
+#. ID 18, Page 4, Line 1, Pos (54,30)
+msgid "もう遅いから、早く帰りなさい。"
+msgstr "已经很晚了，快回去吧。"
+
+#. ID 18, Page 2, Line 7, Pos (54,30)
+msgid ""
+"おっと･･････\n"
+"鎖をかけられてちゃ農作業は無理だな。"
+msgstr "哦哟……被锁住的话就没法干农活了。"
+
+#. ID 18, Page 2, Line 14, Pos (54,30)
+msgid "これで良い。"
+msgstr "这样就好。"
+
+#. ID 18, Page 2, Line 21, Pos (54,30)
+#. ID 18, Page 3, Line 3, Pos (54,30)
+msgid ""
+"今日の労働が明日のパンになるんだ。\n"
+"しっかり働こうなー。"
+msgstr "今天的劳动会变成明天的面包。好好干活吧。"
+
+#. ID 21, Page 2, Line 1, Pos (10,13)
+#. ID 22, Page 2, Line 1, Pos (18,13)
+#. ID 23, Page 2, Line 1, Pos (26,13)
+msgid ""
+"＊外部から施錠する、鍵がかけられている。\n"
+"　奴隷が夜歩きしないようにするためだろう。"
+msgstr ""
+"＊从外部上锁，门被锁住了。\n"
+"　大概是为了不让奴隶在夜里外出吧。"
+
+#. ID 29, Page 1, Line 4, Pos (48,19)
+msgid ""
+"この街は唯一、奴隷が自らの性奴としての義務を\n"
+"放棄し、市民として生活することが出来ます。"
+msgstr ""
+"只有在这座城市，奴隶才能放弃作为性奴的义务，\n"
+"作为市民生活。"
+
+#. ID 29, Page 3, Line 3, Pos (48,19)
+#. ID 29, Page 4, Line 7, Pos (48,19)
+msgid "………………………………"
+msgstr "………………………………"
+
+#. ID 29, Page 3, Line 9, Pos (48,19)
+msgid "ヴーーーー……スリープ、解除……"
+msgstr "嗡————……睡眠，解除……"
+
+#. ID 29, Page 4, Line 4, Pos (48,19)
+msgid ""
+"ここは奴隷都市シュライクです。\n"
+"この街は唯一、奴隷が自らの性奴としての義務を\n"
+"放棄し、市民として生活することが出来ます。"
+msgstr ""
+"这里是奴隶都市施莱克。只有在这座城市，\n"
+"奴隶才能放弃作为性奴的义务，作为市民生活。"
+
+#. ID 31, Page 2, Line 3, Pos (24,15)
+#. ID 73, Page 2, Line 3, Pos (38,30)
+#. ID 113, Page 2, Line 3, Pos (24,27)
+#. ID 114, Page 3, Line 4, Pos (46,20)
+#. ID 115, Page 3, Line 4, Pos (46,21)
+#. ID 117, Page 2, Line 3, Pos (14,15)
+#. ID 118, Page 2, Line 3, Pos (22,29)
+#. ID 119, Page 2, Line 3, Pos (30,15)
+#. ID 120, Page 2, Line 3, Pos (11,28)
+#. ID 121, Page 2, Line 3, Pos (42,15)
+#. ID 122, Page 2, Line 3, Pos (28,22)
+#. ID 123, Page 2, Line 3, Pos (41,33)
+msgid ""
+"夜間の外出は禁止されています。\n"
+"お戻りください。"
+msgstr "夜间外出被禁止。请回去。"
+
+#. ID 34, Page 1, Line 3, Pos (44,21)
+msgid "外敵が来ないように見回りをしているのです。"
+msgstr "我是在巡逻，防止外敌来袭。"
+
+#. ID 34, Page 2, Line 3, Pos (44,21)
+#. ID 114, Page 3, Line 8, Pos (46,20)
+#. ID 115, Page 3, Line 8, Pos (46,21)
+#. ID 116, Page 2, Line 3, Pos (48,17)
+msgid "夜間にはこの街に入ることはできません。"
+msgstr "夜间不能进入这座城市。"
+
+#. ID 42, Page 1, Line 3, Pos (50,18)
+msgid "＊戻らないほうが良いだろう。"
+msgstr "＊最好不要回去吧。"
+
+#. ID 46, Page 1, Line 3, Pos (58,34)
+msgid ""
+"この街は素晴らしいです。\n"
+"私のような奴隷でも、温かく迎えてくれました。"
+msgstr ""
+"这座城市很棒。即使像我这样的奴隶，\n"
+"也得到了温暖地迎接。"
+
+#. ID 46, Page 1, Line 5, Pos (58,34)
+msgid ""
+"勿論こういう農作業のような仕事は課せられますが、\n"
+"奴隷としての義務よりはずっとマシです。"
+msgstr ""
+"当然，像这种农活之类的工作会被分派，\n"
+"但比作为奴隶的义务要好得多。"
+
+#. ID 51, Page 1, Line 3, Pos (28,28)
+msgid ""
+"ここの住人は兵士と旅人以外、殆どが奴隷なんだ。\n"
+"……私もだけどね。"
+msgstr ""
+"这里的居民除了士兵和旅人以外，几乎都是奴隶。……\n"
+"我也是。"
+
+#. ID 52, Page 1, Line 3, Pos (10,16)
+msgid ""
+"この街では、奴隷であることを放棄する代わりに、\n"
+"何かしらの仕事に就くことが義務付けられるの。"
+msgstr ""
+"在这座城市，作为放弃奴隶身份的交换，\n"
+"必须从事某种工作。"
+
+#. ID 52, Page 1, Line 5, Pos (10,16)
+msgid ""
+"私も元は冒険者だったけど……\n"
+"奴隷になって此処に逃げてからは、\n"
+"物資の運搬業務についているわ。"
+msgstr ""
+"我原本也是冒险者……但成为奴隶并逃到这里之后，\n"
+"就从事物资运输工作了。"
+
+#. ID 53, Page 1, Line 7, Pos (32,28)
+msgid "許可申請書持ってるよ！"
+msgstr "我有许可申请书哦！"
+
+#. ID 53, Page 1, Line 28, Pos (32,28)
+msgid "ここは空家だよ！"
+msgstr "这里是空房子哦！"
+
+#. ID 53, Page 1, Line 33, Pos (32,28)
+msgid "何にもないよ！"
+msgstr "什么都没有哦！"
+
+#. ID 53, Page 1, Line 38, Pos (32,28)
+msgid "許可書が無いと入れないよ！"
+msgstr "没有许可证就进不去哦！"
+
+#. ID 54, Page 1, Line 3, Pos (5,27)
+msgid "公衆浴場"
+msgstr "公共浴场"
+
+#. ID 55, Page 1, Line 3, Pos (41,13)
+msgid ""
+"仕事斡旋します。\n"
+"奴隷の方もお気軽に！"
+msgstr "提供工作介绍。奴隶也请轻松来咨询！"
+
+#. ID 75, Page 1, Line 4, Pos (46,10)
+msgid "……いやだ、きっとそうだ。"
+msgstr "……不，一定是那样。"
+
+#. ID 75, Page 1, Line 9, Pos (46,10)
+msgid ""
+"聞いてしまったんだ……もう逃げられない。\n"
+"嫌だ……。"
+msgstr "听到了……已经逃不掉了。不要……。"
+
+#. ID 107, Page 1, Line 3, Pos (9,28)
+msgid "奴隷も仕事をすればお金がもらえるのよ。"
+msgstr "奴隶工作的话也能得到金钱哦。"
+
+#. ID 107, Page 1, Line 4, Pos (9,28)
+msgid "……といっても、そんな大金じゃあないけどね。"
+msgstr "……虽这么说，但也不是什么大钱。"
+
+#. ID 108, Page 1, Line 3, Pos (18,15)
+msgid "奴隷の義務を放棄する場合、此処に住むことになるわ。"
+msgstr "放弃奴隶义务的情况下，就会住在这里。"
+
+#. ID 108, Page 1, Line 4, Pos (18,15)
+msgid ""
+"ただし、住居を申請したら、\n"
+"自由に都市の外へは出られなくなるの。"
+msgstr "不过，一旦申请了住所，就不能自由地出城了。"
+
+#. ID 108, Page 1, Line 6, Pos (18,15)
+msgid ""
+"あと、住居が一杯になったら別の奴隷都市に\n"
+"移住することになるらしいわ。"
+msgstr ""
+"另外，如果住居满了，\n"
+"好像就会移居到别的奴隶都市。"
+
+#. ID 109, Page 1, Line 3, Pos (44,14)
+msgid ""
+"おっと、俺は旅人だよ。\n"
+"奴隷じゃあない。"
+msgstr "哦，我是旅人。不是奴隶。"
+
+#. ID 109, Page 1, Line 5, Pos (44,14)
+msgid "ここは奴隷以外はあまり居ても意味がないな。"
+msgstr "这里除了奴隶以外，待着也没什么意义啊。"
+
+#. ID 109, Page 1, Line 6, Pos (44,14)
+msgid ""
+"というより、居ると身体に悪いぜ。\n"
+"美人な奴隷が居るのにヤレないとか……。"
+msgstr ""
+"或者说，待着对身体不好。\n"
+"明明有美女奴隶却不能上……"
+
+#. ID 109, Page 1, Line 13, Pos (44,14)
+msgid "おっと……お前は奴隷なのか。"
+msgstr "哦……你是奴隶吗。"
+
+#. ID 109, Page 1, Line 14, Pos (44,14)
+msgid "案外に好みだが……残念だ、外で会いたかったぜ。"
+msgstr ""
+"意外地是我喜欢的类型……真遗憾，\n"
+"真想在外面遇见你。"
+
+#. ID 109, Page 1, Line 17, Pos (44,14)
+msgid ""
+"……まあ、そういうわけか、\n"
+"此処にくる旅人はかなり少ないぜ。"
+msgstr "……嘛，原来如此，来这里的旅人相当少啊。"
+
+#. ID 109, Page 1, Line 19, Pos (44,14)
+msgid ""
+"旅の途中の補給か、\n"
+"あとは……俺みたいな、物好きくらいか。"
+msgstr "是旅途中补给，还是……像我这样，喜欢猎奇的人吧。"
+
+#. ID 110, Page 1, Line 3, Pos (8,14)
+msgid "あの奴隷の娘……可愛いよなあ。"
+msgstr "那个奴隶女孩……真可爱啊。"
+
+#. ID 110, Page 1, Line 4, Pos (8,14)
+msgid ""
+"奴隷じゃなければ……\n"
+"もしくは俺に、奴隷を買うだけの財があれば……なぁ。"
+msgstr ""
+"如果不是奴隶的话……\n"
+"或者如果我有买奴隶的财力的话……唉。"
+
+#. ID 110, Page 2, Line 3, Pos (8,14)
+msgid "あの娘、どこか遠くへ移動になってしまったらしい。"
+msgstr "那个女孩，好像被转移到某个很远的地方去了。"
+
+#. ID 110, Page 2, Line 4, Pos (8,14)
+msgid ""
+"……こんなことなら、\n"
+"「好きだ」ってことだけでも、言えばよかった。"
+msgstr "……早知道会这样，至少该把「喜欢你」说出来。"
+
+#. ID 111, Page 1, Line 3, Pos (56,32)
+msgid ""
+"省いているだけで、ここから右にいっても、\n"
+"城壁が続いているんだよ。"
+msgstr ""
+"只是省略了而已，从这里往右走，\n"
+"城墙也一直延续着。"
+
+#. ID 112, Page 1, Line 3, Pos (44,34)
+msgid "ここの兵士……"
+msgstr "这里的士兵……"
+
+#. ID 112, Page 1, Line 4, Pos (44,34)
+msgid ""
+"「奴隷が襲われない為の護衛」って言ってるけど、\n"
+"なんだか……私たちを監視しているような感じ。"
+msgstr ""
+"虽然说是「为了保护奴隶不被袭击的护卫」，\n"
+"但总觉得……像是在监视我们。"
+
+#. ID 112, Page 2, Line 3, Pos (44,34)
+msgid "最近、兵士さんの私を見る目が厳しいの。"
+msgstr "最近，士兵先生看我的眼神很严厉。"
+
+#. ID 112, Page 2, Line 4, Pos (44,34)
+msgid ""
+"何も悪いことはしていないのだけど……\n"
+"「監視しているのかな」って友達に話したの、\n"
+"聞かれちゃったのかな。"
+msgstr ""
+"我明明没做什么坏事……\n"
+"我跟朋友说「是不是在监视啊」，是不是被听到了呢。"
+
+#. ID 114, Page 2, Line 3, Pos (46,20)
+msgid ""
+"都市への外出は認められていません。\n"
+"戻りなさい。"
+msgstr "不允许出城。回去吧。"
+
+#. ID 115, Page 2, Line 3, Pos (46,21)
+msgid ""
+"自由な外出は禁じられている。\n"
+"戻りなさい。"
+msgstr "禁止自由外出。回去吧。"
+
+#. ID 124, Page 1, Line 3, Pos (35,15)
+msgid "酒場の陰に、いつも隠れている子がいるんだけど……"
+msgstr "酒吧的阴影里，总有个孩子躲着……"
+
+#. ID 124, Page 1, Line 4, Pos (35,15)
+msgid "何かあったのかしら？"
+msgstr "是不是发生了什么？"
+
+#. ID 124, Page 2, Line 3, Pos (35,15)
+msgid "酒場の隅に居たあの子、遠くへ移動になったらしいの。"
+msgstr ""
+"在酒吧角落的那个孩子，\n"
+"好像被转移到很远的地方去了。"
+
+#. ID 124, Page 2, Line 4, Pos (35,15)
+msgid "兵士さんがそう言っていたわ。"
+msgstr "士兵先生是这么说的。"
+
+#. ID 125, Page 1, Line 3, Pos (19,29)
+msgid "宿屋の前にいつも居るあの人、かっこいいよね。"
+msgstr "总是待在旅店前的那个人，真帅啊。"
+
+#. ID 125, Page 1, Line 4, Pos (19,29)
+msgid "私が…･･･奴隷じゃなければなぁ……"
+msgstr "如果……･･･我不是奴隶就好了啊……"
+
+#. ID 129, Page 1, Line 3, Pos (17,26)
+msgid "兵舎"
+msgstr "兵舍"

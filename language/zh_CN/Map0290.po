@@ -1,0 +1,1181 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (6,11)
+msgid ""
+"わたしハ\n"
+"ダイジョーブはかせ　ノ　ちゅうじつナ　しもべ\n"
+"じょしゅノ　「ゲドー」　デス"
+msgstr ""
+"我 是 没问题博士 的 忠实 的 助手 的 「盖德」\n"
+" 是也"
+
+#. ID 2, Page 1, Line 6, Pos (6,11)
+msgid ""
+"ダイジョーブはかせノ　オカゲデ\n"
+"わたしモ　コンナニ　ぱわーあっぷ　シマシタ　デス"
+msgstr "多亏 没问题博士 ，我 也 变得 这么 强 了 是也"
+
+#. ID 2, Page 1, Line 9, Pos (6,11)
+msgid ""
+"……オヤ\n"
+"改造サレスギテ　でちゅーん　状態デスネ"
+msgstr "……哎呀 改造得 太过了 呢 状态 呢"
+
+#. ID 2, Page 1, Line 14, Pos (6,11)
+msgid ""
+"……オヤ\n"
+"アナタモ　ダイブ　ぱわーあっぷ　シテマスネ"
+msgstr "……哎呀 你 也 相当 变强 了 呢"
+
+#. ID 2, Page 1, Line 19, Pos (6,11)
+msgid ""
+"……オヤ\n"
+"アナタニモ　ソノ素質　アリソウ　デス"
+msgstr "……哎呀 你 也 似乎 有 那种 素质 呢"
+
+#. ID 2, Page 2, Line 3, Pos (6,11)
+msgid ""
+"おやおや\n"
+"……カワイソーに"
+msgstr "哎呀呀……真可怜"
+
+#. ID 6, Page 1, Line 3, Pos (10,10)
+#. ID 6, Page 2, Line 3, Pos (10,10)
+#. ID 6, Page 3, Line 3, Pos (10,10)
+#. ID 6, Page 4, Line 8, Pos (10,10)
+msgid ""
+"ワタシハ世界的すぽーつ医学ノ権威\n"
+"ダイジョーブ博士　デース！"
+msgstr ""
+"我 是 世界级 运动医学 的 权威 没问题博士 是也\n"
+"！"
+
+#. ID 6, Page 1, Line 5, Pos (10,10)
+msgid ""
+"アタナハ今ノ自分ニ不満デスネ？\n"
+"デモ、モウダイジョーブ！\n"
+"アナタヲぱわーあっぷシテアゲマショー！"
+msgstr ""
+"你 对 现在的 自己 不满 吧？但是，\n"
+"已经 没问题了！让 我 来 让 你 变强 吧！"
+
+#. ID 6, Page 1, Line 8, Pos (10,10)
+#. Choice (2 options)
+msgid ""
+"試してみる\n"
+"冗談じゃない"
+msgstr ""
+"试试看\n"
+"开什么玩笑"
+
+#. ID 6, Page 2, Line 5, Pos (10,10)
+#. ID 6, Page 3, Line 5, Pos (10,10)
+msgid ""
+"ヤアヤア、あなたデスカ！\n"
+"マタ体ヲイジッテホシイノデスカ？\n"
+"イクラデモ改造シテアゲマショー！"
+msgstr ""
+"呀呀，是 你 啊！又 想 让 我 摆弄 身体 吗？\n"
+"多少 次 都 可以 给 你 改造 哦！"
+
+#. ID 6, Page 2, Line 8, Pos (10,10)
+#. Choice (2 options)
+#. ID 6, Page 3, Line 8, Pos (10,10)
+#. Choice (2 options)
+msgid ""
+"お願いします\n"
+"今日は遠慮する"
+msgstr ""
+"拜托了\n"
+"今天就不用了"
+
+#. ID 6, Page 3, Line 40, Pos (10,10)
+msgid ""
+"イツモ貴重ナでーたアリガトウゴザイマース！\n"
+"今日モ好キナダケ改造サレテイッテクダサーイ！\n"
+"さーびすシマスヨー！"
+msgstr ""
+"一直 感谢 你 提供 珍贵 的 数据！\n"
+"今天 也 请 尽情 接受 改造 吧！\n"
+"会 好好 服务 的哦！"
+
+#. ID 6, Page 3, Line 43, Pos (10,10)
+#. Choice (2 options)
+msgid ""
+"機械で……\n"
+"触手で……"
+msgstr ""
+"用机械……\n"
+"用触手……"
+
+#. ID 6, Page 4, Line 10, Pos (10,10)
+msgid "オヤ……アナタハ奴隷ナンデスネー！"
+msgstr "哎呀……你 是 奴隶 呢！"
+
+#. ID 6, Page 4, Line 11, Pos (10,10)
+msgid ""
+"アタナハ奴隷デアル自分ニ不満デスネ？\n"
+"デモ、モウダイジョーブ！\n"
+"ワタシガアナタノ奴隷ノ借金ヲ\n"
+"返シテオイテアゲマショー！！"
+msgstr ""
+"你 对 身为 奴隶 的 自己 不满 吧？但是，\n"
+"已经 没问题了！\n"
+"我 来 替 你 把 奴隶 的 负债 还清 吧！！"
+
+#. ID 6, Page 4, Line 15, Pos (10,10)
+msgid ""
+"\n"
+"　　　　　　　タ　　ダ　　シ　　！　！"
+msgstr "　　　　　　　但　　是　　！　！"
+
+#. ID 6, Page 4, Line 17, Pos (10,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"代ワリニワタシニ人体改造サセテクダサーイ！\n"
+"色々試シテミタイノデース！"
+msgstr ""
+"作为 交换，请 让 我 进行 人体改造 吧！\n"
+"我 想 尝试 各种 东西 呢！"
+
+#. ID 6, Page 4, Line 19, Pos (10,10)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 8, Pos (13,11)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 6, Page 4, Line 23, Pos (10,10)
+msgid ""
+"ワカリマシター！\n"
+"アナタハコレカラ晴レテ自由ノ身デース！\n"
+"自由ニナレマース！"
+msgstr ""
+"明白 了！\n"
+"你 从 现在 起 就 光明正大 地 是 自由 之身 了！\n"
+"可以 自由 了！"
+
+#. ID 6, Page 4, Line 26, Pos (10,10)
+msgid "デハ約束ノ人体改造ヲハジメマース！"
+msgstr "那么，开始 约定 的 人体改造 吧！"
+
+#. ID 6, Page 4, Line 27, Pos (10,10)
+#. ID 34, Page 6, Line 27, Pos (0,2)
+#. ID 38, Page 6, Line 22, Pos (0,3)
+#. ID 42, Page 6, Line 31, Pos (1,2)
+#. ID 43, Page 1, Line 24, Pos (0,5)
+#. ID 43, Page 2, Line 26, Pos (0,5)
+msgid ""
+"コレカラ先ハ、トテモ危険ナ作業ガ行ワレマース！\n"
+"心ヲシッカリ保ツノデスヨ！\n"
+"イキマスヨォォォォォ・・・"
+msgstr ""
+"接下来，将 进行 非常 危险 的 作业！\n"
+"要 好好 保持 内心 哦！要 开始 了哦哦哦哦哦……"
+
+#. ID 6, Page 4, Line 87, Pos (10,10)
+msgid ""
+"私ノ科学ニハ不可能ハ無イデース！\n"
+"ソシテオメデトウ！\n"
+"アナタハコレデ自由ノ身デース！"
+msgstr ""
+"我 的 科学 里 没有 不可能！然后 恭喜！\n"
+"你 这样 就 是 自由 之身 了！"
+
+#. ID 6, Page 4, Line 106, Pos (10,10)
+msgid "………"
+msgstr "………"
+
+#. ID 6, Page 4, Line 107, Pos (10,10)
+msgid ""
+"＊身体中がおかしい……\n"
+"　まるで、男に数人がかりで犯された後のような、\n"
+"　猛烈な気だるさを感じる。"
+msgstr ""
+"＊全身 都 不对劲……\n"
+"　简直 像 被 好几个 男人 一起 侵犯 之后 那样，\n"
+"　感到 猛烈 的 倦怠感。"
+
+#. ID 6, Page 4, Line 110, Pos (10,10)
+msgid ""
+"＊同時に、身体が変調をきたしているのを感じた……\n"
+"　明らかに、体の調子がおかしい……。"
+msgstr ""
+"＊同时，我 感觉 到 身体 出现 了 状态异常……\n"
+"　明显，身体 的 状况 不对劲……。"
+
+#. ID 6, Page 4, Line 112, Pos (10,10)
+msgid ""
+"＊しかし、首輪は外されていた。\n"
+"　晴れて\\n[\\v[6]]は、自由の身だ……！"
+msgstr ""
+"＊但是，项圈 已经 被 取下 了。\n"
+"　光明正大地\\n[\\v[6]]已经 是 自由 之身 了……！"
+
+#. ID 6, Page 4, Line 121, Pos (10,10)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 4, Line 201, Pos (10,10)
+#. ChangeHeroTitle (Actor 22)
+#. ID 6, Page 4, Line 205, Pos (10,10)
+#. ChangeHeroTitle (Actor 23)
+#. ID 6, Page 4, Line 209, Pos (10,10)
+#. ChangeHeroTitle (Actor 24)
+#. ID 6, Page 4, Line 221, Pos (10,10)
+#. ChangeHeroTitle (Actor 27)
+#. ID 6, Page 4, Line 229, Pos (10,10)
+#. ChangeHeroTitle (Actor 30)
+#. ID 6, Page 4, Line 253, Pos (10,10)
+#. ChangeHeroTitle (Actor 36)
+#. ID 6, Page 4, Line 257, Pos (10,10)
+#. ChangeHeroTitle (Actor 37)
+#. ID 6, Page 4, Line 285, Pos (10,10)
+#. ChangeHeroTitle (Actor 44)
+#. ID 6, Page 4, Line 289, Pos (10,10)
+#. ChangeHeroTitle (Actor 45)
+#. ID 6, Page 4, Line 301, Pos (10,10)
+#. ChangeHeroTitle (Actor 48)
+#. ID 6, Page 4, Line 313, Pos (10,10)
+#. ChangeHeroTitle (Actor 51)
+#. ID 6, Page 4, Line 321, Pos (10,10)
+#. ChangeHeroTitle (Actor 53)
+#. ID 6, Page 4, Line 329, Pos (10,10)
+#. ChangeHeroTitle (Actor 56)
+msgctxt "actors.title"
+msgid "元性奴隷"
+msgstr "原性奴隶"
+
+#. ID 6, Page 4, Line 125, Pos (10,10)
+#. ChangeHeroTitle (Actor 2)
+#. ID 6, Page 4, Line 149, Pos (10,10)
+#. ChangeHeroTitle (Actor 8)
+#. ID 6, Page 4, Line 165, Pos (10,10)
+#. ChangeHeroTitle (Actor 12)
+#. ID 6, Page 4, Line 177, Pos (10,10)
+#. ChangeHeroTitle (Actor 15)
+#. ID 6, Page 4, Line 185, Pos (10,10)
+#. ChangeHeroTitle (Actor 17)
+#. ID 6, Page 4, Line 193, Pos (10,10)
+#. ChangeHeroTitle (Actor 20)
+#. ID 6, Page 4, Line 197, Pos (10,10)
+#. ChangeHeroTitle (Actor 21)
+#. ID 6, Page 4, Line 305, Pos (10,10)
+#. ChangeHeroTitle (Actor 49)
+#. ID 6, Page 4, Line 325, Pos (10,10)
+#. ChangeHeroTitle (Actor 55)
+msgctxt "actors.title"
+msgid "元肉便器"
+msgstr "原肉便器"
+
+#. ID 6, Page 4, Line 129, Pos (10,10)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 4, Line 145, Pos (10,10)
+#. ChangeHeroTitle (Actor 7)
+#. ID 6, Page 4, Line 293, Pos (10,10)
+#. ChangeHeroTitle (Actor 46)
+#. ID 6, Page 4, Line 309, Pos (10,10)
+#. ChangeHeroTitle (Actor 50)
+#. ID 6, Page 4, Line 317, Pos (10,10)
+#. ChangeHeroTitle (Actor 52)
+msgctxt "actors.title"
+msgid "元奴隷姫"
+msgstr "原奴隶公主"
+
+#. ID 6, Page 4, Line 133, Pos (10,10)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "元売春婦"
+msgstr "原卖春妇"
+
+#. ID 6, Page 4, Line 137, Pos (10,10)
+#. ChangeHeroTitle (Actor 5)
+#. ID 6, Page 4, Line 157, Pos (10,10)
+#. ChangeHeroTitle (Actor 10)
+#. ID 6, Page 4, Line 261, Pos (10,10)
+#. ChangeHeroTitle (Actor 38)
+#. ID 6, Page 4, Line 265, Pos (10,10)
+#. ChangeHeroTitle (Actor 39)
+#. ID 6, Page 4, Line 297, Pos (10,10)
+#. ChangeHeroTitle (Actor 47)
+msgctxt "actors.title"
+msgid "元愛玩具"
+msgstr "原爱玩具"
+
+#. ID 6, Page 4, Line 141, Pos (10,10)
+#. ChangeHeroTitle (Actor 6)
+#. ID 6, Page 4, Line 225, Pos (10,10)
+#. ChangeHeroTitle (Actor 28)
+msgctxt "actors.title"
+msgid "元慰安婦"
+msgstr "原慰安妇"
+
+#. ID 6, Page 4, Line 153, Pos (10,10)
+#. ChangeHeroTitle (Actor 9)
+#. ID 6, Page 4, Line 161, Pos (10,10)
+#. ChangeHeroTitle (Actor 11)
+msgctxt "actors.title"
+msgid "汚れた天使"
+msgstr "污秽的天使"
+
+#. ID 6, Page 4, Line 169, Pos (10,10)
+#. ChangeHeroTitle (Actor 13)
+#. ID 6, Page 4, Line 173, Pos (10,10)
+#. ChangeHeroTitle (Actor 14)
+#. ID 6, Page 4, Line 189, Pos (10,10)
+#. ChangeHeroTitle (Actor 19)
+msgctxt "actors.title"
+msgid "サキュバス"
+msgstr "魅魔"
+
+#. ID 6, Page 4, Line 181, Pos (10,10)
+#. ChangeHeroTitle (Actor 16)
+msgctxt "actors.title"
+msgid "元慰安隊少尉"
+msgstr "原慰安队少尉"
+
+#. ID 6, Page 4, Line 213, Pos (10,10)
+#. ChangeHeroTitle (Actor 25)
+msgctxt "actors.title"
+msgid "侯爵の恥"
+msgstr "侯爵之耻"
+
+#. ID 6, Page 4, Line 217, Pos (10,10)
+#. ChangeHeroTitle (Actor 26)
+msgctxt "actors.title"
+msgid "堕ち武者"
+msgstr "堕落武者"
+
+#. ID 6, Page 4, Line 233, Pos (10,10)
+#. ChangeHeroTitle (Actor 31)
+msgctxt "actors.title"
+msgid "お色気忍者"
+msgstr "性感忍者"
+
+#. ID 6, Page 4, Line 237, Pos (10,10)
+#. ChangeHeroTitle (Actor 32)
+msgctxt "actors.title"
+msgid "堕ちた魔術師"
+msgstr "堕落魔术师"
+
+#. ID 6, Page 4, Line 241, Pos (10,10)
+#. ChangeHeroTitle (Actor 33)
+msgctxt "actors.title"
+msgid "元隷姫"
+msgstr "原隶公主"
+
+#. ID 6, Page 4, Line 245, Pos (10,10)
+#. ChangeHeroTitle (Actor 34)
+msgctxt "actors.title"
+msgid "汚れた令嬢"
+msgstr "污秽的千金"
+
+#. ID 6, Page 4, Line 249, Pos (10,10)
+#. ChangeHeroTitle (Actor 35)
+msgctxt "actors.title"
+msgid "傀儡女"
+msgstr "傀儡女"
+
+#. ID 6, Page 4, Line 269, Pos (10,10)
+#. ChangeHeroTitle (Actor 40)
+msgctxt "actors.title"
+msgid "堕ちた騎士"
+msgstr "堕落骑士"
+
+#. ID 6, Page 4, Line 273, Pos (10,10)
+#. ChangeHeroTitle (Actor 41)
+msgctxt "actors.title"
+msgid "堕ちた術士"
+msgstr "堕落术士"
+
+#. ID 6, Page 4, Line 277, Pos (10,10)
+#. ChangeHeroTitle (Actor 42)
+msgctxt "actors.title"
+msgid "保健体育教師"
+msgstr "保健体育教师"
+
+#. ID 6, Page 4, Line 281, Pos (10,10)
+#. ChangeHeroTitle (Actor 43)
+msgctxt "actors.title"
+msgid "汚れた女神"
+msgstr "污秽的女神"
+
+#. ID 6, Page 4, Line 333, Pos (10,10)
+#. ChangeHeroTitle (Actor 59)
+#. ID 6, Page 4, Line 345, Pos (10,10)
+#. ChangeHeroTitle (Actor 62)
+msgctxt "actors.title"
+msgid "元愛玩少女"
+msgstr "原爱玩少女"
+
+#. ID 6, Page 4, Line 337, Pos (10,10)
+#. ChangeHeroTitle (Actor 60)
+msgctxt "actors.title"
+msgid "元奴隷剣士"
+msgstr "原奴隶剑士"
+
+#. ID 6, Page 4, Line 341, Pos (10,10)
+#. ChangeHeroTitle (Actor 61)
+msgctxt "actors.title"
+msgid "ｲﾌﾞﾙﾊﾝﾀｰ"
+msgstr "邪恶猎人"
+
+#. ID 6, Page 4, Line 349, Pos (10,10)
+#. ChangeHeroTitle (Actor 63)
+msgctxt "actors.title"
+msgid "元膣女の騎空士"
+msgstr "原膣女骑空士"
+
+#. ID 6, Page 4, Line 353, Pos (10,10)
+#. ChangeHeroTitle (Actor 64)
+msgctxt "actors.title"
+msgid "元メカニック"
+msgstr "原机械师"
+
+#. ID 6, Page 5, Line 3, Pos (10,10)
+msgid ""
+"ガラクタ人形ニ用ハアリマセーン！\n"
+"トットトダストシュートニ、ゴーホームデース！"
+msgstr ""
+"破烂人偶 是 没有 用 的！\n"
+"快 快 到 垃圾滑槽 里 去，回 家 吧 是也！"
+
+#. ID 10, Page 1, Line 3, Pos (13,11)
+msgid ""
+"ソコハ　科学ノ発展ノタメ　犠牲ニナッタ　\n"
+"英雄タチヲ　捨テル場所　デース！"
+msgstr ""
+"那里 是　为了 科学 发展　而 牺牲 的　英雄 们　\n"
+"被 丢弃 的 地方　是也！"
+
+#. ID 10, Page 1, Line 5, Pos (13,11)
+msgid ""
+"入ッテモ　イイデスガ……ココニ戻ッテハ　\n"
+"コレマセーン！\n"
+"ソレデモ　イイデスカ？"
+msgstr ""
+"进去 也　可以 哦……但 不能 再 回到 这里 来！\n"
+"即使 这样　也 可以 吗？"
+
+#. ID 10, Page 1, Line 10, Pos (13,11)
+msgid "デハ　オキヲツケテ！"
+msgstr "那么　请 保重！"
+
+#. ID 10, Page 1, Line 15, Pos (13,11)
+#. ChangeHeroName (Actor 115)
+msgctxt "actors.name"
+msgid "end:生命科学研究所"
+msgstr "end:生命科学研究所"
+
+#. ID 10, Page 2, Line 3, Pos (13,11)
+msgid "＊この先はダストシュートだ。"
+msgstr "＊前方 是 垃圾滑槽。"
+
+#. ID 10, Page 2, Line 4, Pos (13,11)
+msgid "＊…………わたしはゴミじゃない。"
+msgstr "＊…………我 不是 垃圾。"
+
+#. ID 12, Page 2, Line 3, Pos (12,11)
+#. Contains choice at line 2 (2 options)
+msgid "ここで釣りができそうだ。"
+msgstr "这里 好像 可以 钓鱼。"
+
+#. ID 12, Page 2, Line 10, Pos (12,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"釣りをする\n"
+"正気ですか？"
+msgstr ""
+"钓鱼\n"
+"你 是 认真 的 吗？"
+
+#. ID 12, Page 2, Line 29, Pos (12,11)
+msgid "釣り竿を装備していない。"
+msgstr "没有 装备 钓竿。"
+
+#. ID 12, Page 2, Line 39, Pos (12,11)
+msgid "釣りを始めた。"
+msgstr "开始 钓鱼 了。"
+
+#. ID 34, Page 1, Line 178, Pos (0,2)
+#. ID 34, Page 3, Line 178, Pos (0,2)
+#. ID 34, Page 3, Line 186, Pos (0,2)
+msgid "\\n[102]………！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]………！！\\n[103]\\n[104]\\^"
+
+#. ID 34, Page 1, Line 179, Pos (0,2)
+#. ID 34, Page 3, Line 179, Pos (0,2)
+#. ID 34, Page 3, Line 187, Pos (0,2)
+msgid "\\n[102]！！！！！！！！！！！！！！！\\n[103]\\n[104]\\^"
+msgstr "\\n[102]！！！！！！！！！！！！！！！\\n[103]\\n[104]\\^"
+
+#. ID 34, Page 1, Line 188, Pos (0,2)
+msgid ""
+"改造を施された\\n[\\v[6]]の乳の先端からは、\n"
+"白い液体が滴っていた……\n"
+"これは、母乳だ……！"
+msgstr ""
+"被 施加 改造 的\\n[\\v[6]]的 乳头 尖端，\n"
+"白色 液体 正在 滴落……这 是，母乳……！"
+
+#. ID 34, Page 2, Line 170, Pos (0,2)
+msgid ""
+"謎の機械に乳の内外を強引に弄繰り回され……\n"
+"\\n[\\v[6]]の乳はまるで腫れたように、\n"
+"大きく造り変えられてしまった。"
+msgstr ""
+"被 神秘 机械 强行 反复 摆弄 乳房 内外……\n"
+"\\n[\\v[6]]的 乳房 简直 像 肿 起来 一样，\n"
+"被 大幅 改造 了。"
+
+#. ID 34, Page 3, Line 196, Pos (0,2)
+msgid ""
+"股間に造られた、肉の棒……\n"
+"これは……間違いない、男性器だ！"
+msgstr ""
+"胯间 被 造出 的，肉棒……这 是……没错，\n"
+"是 男性器！"
+
+#. ID 34, Page 4, Line 150, Pos (0,2)
+msgid ""
+"……頭の中がおかしい。\n"
+"今までの自分じゃないような……。\n"
+"……それに、体中が少し敏感になっている気がする……。"
+msgstr ""
+"……脑子里 不对劲。好像 不是 至今为止 的 \n"
+"　自己……。……而且，感觉 全身 变得 有点 敏感……。"
+
+#. ID 34, Page 4, Line 159, Pos (0,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"性感が上がった！"
+msgstr "\\n[\\v[6]]的 性感 上升 了！"
+
+#. ID 34, Page 4, Line 161, Pos (0,2)
+msgid ""
+"\\n[\\v[6]]は\n"
+"快楽に弱い\n"
+"のアビリティを得た！"
+msgstr "\\n[\\v[6]]获得 了 对快感敏感 的 能力！"
+
+#. ID 34, Page 4, Line 166, Pos (0,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"性感が１上がった！"
+msgstr "\\n[\\v[6]]的 性感 上升 了1！"
+
+#. ID 34, Page 5, Line 136, Pos (0,2)
+msgid ""
+"全裸のまま改造から解き放たれ、\n"
+"鉄の床にしゃがみ込む。"
+msgstr ""
+"保持 全裸 被 从 改造 中 解放 出来，\n"
+"蹲伏 在 铁 地板 上。"
+
+#. ID 34, Page 5, Line 138, Pos (0,2)
+msgid ""
+"全裸のまま。全裸……裸……はだか……\n"
+"……胸も、あそこも、ぜんぶ、まるみえ……"
+msgstr ""
+"保持 全裸。全裸……裸……赤裸…………胸部 也，\n"
+"那里 也，全部，一览无余……"
+
+#. ID 34, Page 5, Line 146, Pos (0,2)
+msgid "……なんでこんなに……体が……熱く……"
+msgstr "……为什么 这么……身体……好热……"
+
+#. ID 34, Page 8, Line 27, Pos (0,2)
+#. ID 38, Page 8, Line 33, Pos (0,3)
+#. ID 42, Page 8, Line 78, Pos (1,2)
+#. ID 43, Page 1, Line 175, Pos (0,5)
+#. ID 43, Page 2, Line 174, Pos (0,5)
+#. ID 45, Page 1, Line 537, Pos (2,2)
+#. ID 46, Page 1, Line 547, Pos (2,3)
+msgid "私ノ科学ニハ不可能ハ無イデース！"
+msgstr "我 的 科学 里 没有 不可能 是也！"
+
+#. ID 34, Page 8, Line 34, Pos (0,2)
+#. ID 38, Page 8, Line 43, Pos (0,3)
+#. ID 42, Page 8, Line 85, Pos (1,2)
+#. ID 43, Page 1, Line 186, Pos (0,5)
+#. ID 43, Page 2, Line 181, Pos (0,5)
+msgid "…………"
+msgstr "…………"
+
+#. ID 38, Page 1, Line 196, Pos (0,3)
+msgid ""
+"なんだか、胸がおかしい。\n"
+"服に胸が引っ張られるだけで、\n"
+"敏感に快楽を感じてしまう……"
+msgstr ""
+"总觉得胸部很奇怪。光是衣服拉扯胸部，\n"
+"就会敏感地感受到快感……"
+
+#. ID 38, Page 1, Line 201, Pos (0,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｂ適性が５上がった！\n"
+"Ｂ感覚が５上がった！"
+msgstr "\\n[\\v[6]]的B适性上升了5！B感觉上升了5！"
+
+#. ID 38, Page 2, Line 197, Pos (0,3)
+msgid ""
+"なんだか、胸がおかしい。\n"
+"服と乳首が擦れるだけで、\n"
+"ひくひくと胸が熱くなってしまう……"
+msgstr ""
+"总觉得胸部不对劲。光是衣服和乳头摩擦，\n"
+"胸部就抽搐着变热……"
+
+#. ID 38, Page 2, Line 202, Pos (0,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｎ適性が５上がった！\n"
+"Ｎ感覚が５上がった！"
+msgstr "\\n[\\v[6]]的N适性上升了5！N感觉上升了5！"
+
+#. ID 38, Page 3, Line 197, Pos (0,3)
+msgid ""
+"おしっこをするところが、すごくむずむずする。\n"
+"おしっこを出し切った時の快感を\n"
+"より強めたような……そんな感覚だ。"
+msgstr ""
+"排尿的地方非常痒酥酥的。\n"
+"就像是把尿排尽时的快感增强了……是那种感觉。"
+
+#. ID 38, Page 3, Line 200, Pos (0,3)
+msgid ""
+"それに、すごく緩んでいる感覚もする。\n"
+"少し触っただけでも漏れてしまいそうなほど……！"
+msgstr ""
+"而且，还感觉非常松弛。\n"
+"仿佛只是稍微碰一下就会漏出来一样……！"
+
+#. ID 38, Page 3, Line 204, Pos (0,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｕ適性が５上がった！\n"
+"Ｕ感覚が５上がった！"
+msgstr "\\n[\\v[6]]的U适性上升了5！U感觉上升了5！"
+
+#. ID 38, Page 4, Line 201, Pos (0,3)
+msgid ""
+"なんだか、大事なところがむずむずする。\n"
+"なにもしていないのに、じんじん痺れているような……"
+msgstr ""
+"总觉得重要部位痒酥酥的。明明什么都没做，\n"
+"却像在阵阵发麻……"
+
+#. ID 38, Page 4, Line 205, Pos (0,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｖ適性が５上がった！\n"
+"Ｖ感覚が５上がった！"
+msgstr "\\n[\\v[6]]的V适性上升了5！V感觉上升了5！"
+
+#. ID 38, Page 4, Line 208, Pos (0,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"膣が拡張されてしまった……。"
+msgstr "\\n[\\v[6]]的阴道被扩张开了……。"
+
+#. ID 38, Page 5, Line 205, Pos (0,3)
+msgid ""
+"なんだか、お尻がむずむずする。\n"
+"……排便したときの快感を薄めたような感覚がある。"
+msgstr ""
+"总觉得臀部痒酥酥的。……\n"
+"有种把排便时的快感稀释了的感觉。"
+
+#. ID 38, Page 5, Line 209, Pos (0,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ａ適性が５上がった！\n"
+"Ａ感覚が５上がった！"
+msgstr "\\n[\\v[6]]的A适性上升了5！A感觉上升了5！"
+
+#. ID 38, Page 5, Line 212, Pos (0,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"肛門が拡張されてしまった……。"
+msgstr "\\n[\\v[6]]的肛门被扩张开了……。"
+
+#. ID 39, Page 1, Line 221, Pos (1,3)
+msgid ""
+"か、体中、が、おかし、い……\n"
+"敏感すぎて、ひくひくが、止ま、らない……"
+msgstr ""
+"身、身体全、都、不对劲……太敏感了，抽、抽动停、\n"
+"不下来……"
+
+#. ID 39, Page 1, Line 230, Pos (1,3)
+msgid ""
+"神経が……おかしくなってる……\n"
+"そんなところまで……改造、され、て……"
+msgstr ""
+"神经……变得不正常了……连那种地方都……被、改造、\n"
+"了……"
+
+#. ID 39, Page 1, Line 244, Pos (1,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"性感が８上がった！"
+msgstr "\\n[\\v[6]]的性感上升了8！"
+
+#. ID 39, Page 1, Line 247, Pos (1,3)
+msgid ""
+"\\n[\\v[6]]は\n"
+"全身性感帯\n"
+"のアビリティを得た！"
+msgstr "\\n[\\v[6]]获得了全身性感带的能力！"
+
+#. ID 39, Page 2, Line 163, Pos (1,3)
+msgid ""
+"……お腹の中……子宮が、うずく……\n"
+"自分の物じゃないかのように蠢いている感覚……"
+msgstr ""
+"……肚子里……子宫在、蠢动……\n"
+"感觉就像不是自己的东西一样在蠕动……"
+
+#. ID 39, Page 2, Line 165, Pos (1,3)
+msgid "それに、頭の中が……なんだか……"
+msgstr "而且，脑子里……总觉得……"
+
+#. ID 39, Page 2, Line 166, Pos (1,3)
+msgid ""
+"……化け物や、蟲……\n"
+"…………卵……産卵……妊娠…………\n"
+"………………子宮……中……いっぱい…………"
+msgstr ""
+"……怪物和、虫………………卵……产卵……怀孕…………………………\n"
+"子宫……里……满满的…………"
+
+#. ID 39, Page 2, Line 174, Pos (1,3)
+msgid ""
+"おかしな想像が頭を過ぎった途端、\n"
+"子宮の中で熱いものが染み出る……\n"
+"股の間から、とろとろと汁が溢れ出す……"
+msgstr ""
+"奇怪的想象刚掠过脑海，\n"
+"子宫里就有热的东西渗出来……从双腿之间，\n"
+"黏稠的汁液溢了出来……"
+
+#. ID 39, Page 3, Line 230, Pos (1,3)
+msgid ""
+"おっぱいがおかしい……すごく熱い……\n"
+"こんな状態でもし母乳を噴出しでもしたら、\n"
+"きっと簡単に堕ちてしまう……"
+msgstr ""
+"乳房不对劲……非常热……\n"
+"如果在这样的状态下喷出母乳，一定会轻易堕落……"
+
+#. ID 39, Page 3, Line 233, Pos (1,3)
+msgid ""
+"……無性に、おっぱいを弄り回したくなる……\n"
+"乳首をこね回したい……母乳を吹き出しながら、\n"
+"おもいきり自慰したり、犯されたい……！"
+msgstr ""
+"……莫名地想要反复玩弄乳房……想揉搓乳头……\n"
+"一边喷出母乳，一边尽情自慰，或者被侵犯……！"
+
+#. ID 39, Page 4, Line 206, Pos (1,3)
+msgid ""
+"頭の中が、おかしい……。\n"
+"まるで今までの自分じゃないような……、\n"
+"それに体も……下半身が熱い。熱くてたまらない……"
+msgstr ""
+"脑子里、不正常……。简直像不是以前的自己……\n"
+"而且身体也……下半身很热。热得受不了……"
+
+#. ID 39, Page 4, Line 209, Pos (1,3)
+msgid ""
+"……改造中、いっぱい、注がれた……\n"
+"あんな風に、精液、たくさん、中に……\n"
+"膣に……おしりに……\n"
+"………………………………"
+msgstr ""
+"……改造中，被注入了好多……像那样，精液，大量地，\n"
+"注入里面……阴道里……臀部里……………………………………"
+
+#. ID 39, Page 5, Line 159, Pos (1,3)
+msgid ""
+"頭の中が、おかしい……。\n"
+"まるで今までの自分じゃないような……、"
+msgstr "脑子里、不正常……。简直像不是以前的自己……、"
+
+#. ID 39, Page 5, Line 161, Pos (1,3)
+msgid ""
+"頭……あたま、かんがえるところ、おかし、く……\n"
+"いったい、どんな、かいぞう……"
+msgstr ""
+"头……脑、袋里思考的地方、变得不、正常……到底、\n"
+"被做了、怎样的、改造……"
+
+#. ID 39, Page 5, Line 163, Pos (1,3)
+msgid "……それより……"
+msgstr "……比起那个……"
+
+#. ID 39, Page 5, Line 164, Pos (1,3)
+msgid "………………おなにー、しタいなあ……"
+msgstr "………………想、自慰啊……"
+
+#. ID 39, Page 5, Line 165, Pos (1,3)
+msgid ""
+"おなにー……自慰……ジい、おなにぃ……オなニー……\n"
+"……オナにー……おなにー…………オナニーーー……"
+msgstr ""
+"自慰……自慰……自、自慰……自慰…………自慰……自慰…………\n"
+"自慰———……"
+
+#. ID 42, Page 1, Line 211, Pos (1,2)
+msgid ""
+"胸を、めちゃくちゃに加工されてしまった……\n"
+"乳腺まで大きく拡げられ、\n"
+"まるで乳首が、膣になったような……"
+msgstr ""
+"胸部被、胡乱改造了……连乳腺都被大幅撑开，\n"
+"简直就像乳头变成了阴道一样……"
+
+#. ID 42, Page 1, Line 216, Pos (1,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｎ適性が１０上がった！　Ｎ感覚が１０上がった！\n"
+"Ｂ適性が１０上がった！　Ｂ感覚が１０上がった！"
+msgstr ""
+"\\n[\\v[6]]的N适性上升了10！　N感觉上升了10！\n"
+"B适性上升了10！　B感觉上升了10！"
+
+#. ID 42, Page 2, Line 181, Pos (1,2)
+msgid ""
+"射精しても構わずに散々弄られ加工され、\n"
+"\\n[\\v[6]]のペニスはさらに大きく、\n"
+"敏感に改造されてしまった……"
+msgstr ""
+"即便射精了也毫不在意地被反复玩弄改造，\n"
+"\\n[\\v[6]]的阴茎被改造得更加巨大、更加敏感了……"
+
+#. ID 42, Page 2, Line 184, Pos (1,2)
+msgid ""
+"早く、擦って、射精したい……\n"
+"中身全部出して、また擦って、また、射精して……\n"
+"射精……精液……いっぱい……"
+msgstr ""
+"快点，摩擦，想射精……把里面全部射出来，\n"
+"然后再摩擦，再、射精……射精……精液……好多……"
+
+#. ID 42, Page 3, Line 201, Pos (1,2)
+msgid ""
+"改造され拡張処理された膣が、\n"
+"ぐっぽりと大穴を広げてだらしなく汁を溢している……"
+msgstr ""
+"被改造并做了扩张处理的阴道，张开了一个大洞，\n"
+"松垮地溢着汁液……"
+
+#. ID 42, Page 3, Line 203, Pos (1,2)
+#. ID 42, Page 4, Line 203, Pos (1,2)
+msgid ""
+"神経まで弄られたのか、\n"
+"何もしていないのにジンジンと熱くてたまらない……！"
+msgstr ""
+"连神经都被摆弄了吗，明明什么都没做却阵阵发热，\n"
+"热得受不了……！"
+
+#. ID 42, Page 3, Line 207, Pos (1,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｖ適性が１０上がった！\n"
+"Ｖ感覚が１０上がった！"
+msgstr "\\n[\\v[6]]的V适性上升了10！V感觉上升了10！"
+
+#. ID 42, Page 3, Line 210, Pos (1,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"膣が大きく拡張されてしまった……。"
+msgstr "\\n[\\v[6]]的阴道被大幅扩张开了……。"
+
+#. ID 42, Page 4, Line 201, Pos (1,2)
+msgid ""
+"改造され拡張処理された肛門が、\n"
+"ぐっぽりと大穴を広げてだらしなく汁を溢している……"
+msgstr ""
+"被改造并做了扩张处理的肛门，张开了一个大洞，\n"
+"松垮地溢着汁液……"
+
+#. ID 42, Page 4, Line 207, Pos (1,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ａ適性が１０上がった！\n"
+"Ａ感覚が１０上がった！"
+msgstr "\\n[\\v[6]]的A适性上升了10！A感觉上升了10！"
+
+#. ID 42, Page 4, Line 210, Pos (1,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"肛門が大きく拡張されてしまった……。"
+msgstr "\\n[\\v[6]]的肛门被大幅扩张开了……。"
+
+#. ID 42, Page 5, Line 199, Pos (1,2)
+msgid ""
+"こんな……おしっこをするためだけの穴なのに……\n"
+"そんなところまで、改造されて……"
+msgstr ""
+"明明是……只用来排尿的洞……连那种地方都被、\n"
+"改造了……"
+
+#. ID 42, Page 5, Line 206, Pos (1,2)
+msgid ""
+"ぐっぽりと拡げられてペニスも簡単に挿入できそう……\n"
+"それに……すごく、感じる……\n"
+"まるで性器そのもの……"
+msgstr ""
+"被撑得大开，连阴茎都能轻易插进去……而且……非常、\n"
+"有感觉……简直就像性器本身……"
+
+#. ID 42, Page 5, Line 211, Pos (1,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｕ適性が１０上がった！\n"
+"Ｕ感覚が１０上がった！"
+msgstr "\\n[\\v[6]]的U适性上升了10！U感觉上升了10！"
+
+#. ID 43, Page 1, Line 191, Pos (0,5)
+msgid ""
+"……！？\n"
+"胸とお尻が、たっぷり大きく変えられている……！"
+msgstr "……！？胸部和臀部被变得非常、非常大了……！"
+
+#. ID 43, Page 2, Line 194, Pos (0,5)
+msgid "なんだか、身体中に力が漲ってくる！"
+msgstr "总觉得，全身涌起了力量！"
+
+#. ID 43, Page 3, Line 9, Pos (0,5)
+msgid "ト、言イタイトコロダガ、あなたニハ死ンデモラウ。"
+msgstr "虽、虽然想说「停」，但就请你死吧。"
+
+#. ID 43, Page 3, Line 15, Pos (0,5)
+msgid ""
+"ナニセ、コレダケイッパイ改造シタノハ\n"
+"久シブリデース！\n"
+"中ガドウナッテルカ見テミタイデスネー！"
+msgstr ""
+"毕竟，做这么大量的改造可是久违了—！\n"
+"很想看看里面变成什么样了呢—！"
+
+#. ID 43, Page 3, Line 18, Pos (0,5)
+msgid "解剖シヨット。"
+msgstr "解剖试试吧。"
+
+#. ID 43, Page 3, Line 84, Pos (0,5)
+msgid ""
+"ンーナカナカ面白イデスネー！\n"
+"デモ、でーたハ取ルダケ取ッタシ。"
+msgstr "嗯—相当有趣呢—！不过，数据已经尽可能取到了。"
+
+#. ID 43, Page 3, Line 86, Pos (0,5)
+msgid ""
+"アトハ研究室ノミンナニ分ケテ上ゲルトシマショー！\n"
+"脳ハ脳改造実験室ニ、\n"
+"オ肉ハ遺伝子工学研究室ニー、アトハー……♪"
+msgstr ""
+"剩下的就分给研究室的大家吧！\n"
+"大脑给脑改造实验室，肉给基因工程研究室，\n"
+"剩下的—……♪"
+
+#. ID 43, Page 4, Line 184, Pos (0,5)
+#. ID 43, Page 4, Line 215, Pos (0,5)
+msgid ""
+"\\n[\\v[6]]\n"
+"…………………………"
+msgstr ""
+"\\n[\\v[6]]\n"
+"…………………………"
+
+#. ID 43, Page 4, Line 190, Pos (0,5)
+msgid "オヤー？　ナンダカどろどろニナッチャッタデスネー"
+msgstr "哎呀—？　好像变得黏糊糊的了呢—"
+
+#. ID 43, Page 4, Line 195, Pos (0,5)
+msgid "アッハァー！　改造失敗シチャッター！"
+msgstr "啊哈—！　改造失败了—！"
+
+#. ID 43, Page 4, Line 201, Pos (0,5)
+msgid ""
+"ウーン、ヤッテシマイマシタ。\n"
+"アノ女ノ子ガ、スッカリグチャグチャノ\n"
+"けみかるナ肉塊ニ……\n"
+"モッタイナイ、セッカクノ逸材ダッタンデスガ。"
+msgstr ""
+"唔—，搞砸了。\n"
+"那个女孩已经完全变成了乱七八糟的化学肉块……\n"
+"真可惜，明明是难得的人才。"
+
+#. ID 43, Page 4, Line 210, Pos (0,5)
+msgid "マーイイヤ、捨テトイテそれー。"
+msgstr "算了，那个就丢着吧——。"
+
+#. ID 45, Page 1, Line 25, Pos (2,2)
+#. ID 46, Page 1, Line 21, Pos (2,3)
+msgid ""
+"止メタクナッタラ、イツデモ言ッテクダサイネ。\n"
+"きゃんせるきーデ中断シマスカラー！\n"
+"デハ、イキマスヨォォォォォ・・・"
+msgstr ""
+"如果不想继续了，请随时告诉我哦。\n"
+"按取消键就会中断——！那么，\n"
+"要开始了哦哦哦哦哦・・・"
+
+#. ID 45, Page 1, Line 117, Pos (2,2)
+#. ID 45, Page 1, Line 143, Pos (2,2)
+#. ID 45, Page 1, Line 169, Pos (2,2)
+#. ID 46, Page 1, Line 134, Pos (2,3)
+#. ID 46, Page 1, Line 163, Pos (2,3)
+#. ID 46, Page 1, Line 192, Pos (2,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"性感が１上がった！\n"
+"\\.\\.\\.\\^"
+msgstr "\\n[\\v[6]]的性感提升了1！\\.\\.\\.\\^"
+
+#. ID 45, Page 1, Line 238, Pos (2,2)
+#. ID 46, Page 1, Line 262, Pos (2,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｖ適性が３上がった！\n"
+"Ｖ感覚が３上がった！\n"
+"\\.\\.\\.\\^"
+msgstr ""
+"\\n[\\v[6]]的V适性提升了3！V感觉提升了3！\n"
+"\\.\\.\\.\\^"
+
+#. ID 45, Page 1, Line 270, Pos (2,2)
+#. ID 46, Page 1, Line 294, Pos (2,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ａ適性が３上がった！\n"
+"Ａ感覚が３上がった！\n"
+"\\.\\.\\.\\^"
+msgstr ""
+"\\n[\\v[6]]的A适性提升了3！A感觉提升了3！\n"
+"\\.\\.\\.\\^"
+
+#. ID 45, Page 1, Line 301, Pos (2,2)
+#. ID 46, Page 1, Line 356, Pos (2,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｎ適性が３上がった！\n"
+"Ｎ感覚が３上がった！\n"
+"\\.\\.\\.\\^"
+msgstr ""
+"\\n[\\v[6]]的N适性提升了3！N感觉提升了3！\n"
+"\\.\\.\\.\\^"
+
+#. ID 45, Page 1, Line 331, Pos (2,2)
+#. ID 46, Page 1, Line 325, Pos (2,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｂ適性が３上がった！\n"
+"Ｂ感覚が３上がった！\n"
+"\\.\\.\\.\\^"
+msgstr ""
+"\\n[\\v[6]]的B适性提升了3！B感觉提升了3！\n"
+"\\.\\.\\.\\^"
+
+#. ID 45, Page 1, Line 362, Pos (2,2)
+#. ID 46, Page 1, Line 387, Pos (2,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"Ｕ適性が３上がった！\n"
+"Ｕ感覚が３上がった！\n"
+"\\.\\.\\.\\^"
+msgstr ""
+"\\n[\\v[6]]的U适性提升了3！U感觉提升了3！\n"
+"\\.\\.\\.\\^"
+
+#. ID 45, Page 1, Line 442, Pos (2,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"膣が拡張された！\n"
+"\\.\\.\\.\\^"
+msgstr "\\n[\\v[6]]的阴道被扩张了！\\.\\.\\.\\^"
+
+#. ID 45, Page 1, Line 449, Pos (2,2)
+msgid ""
+"\\n[\\v[6]]の\n"
+"アナルが拡張された！\n"
+"\\.\\.\\.\\^"
+msgstr "\\n[\\v[6]]的肛门被扩张了！\\.\\.\\.\\^"
+
+#. ID 45, Page 1, Line 482, Pos (2,2)
+#. ID 46, Page 1, Line 485, Pos (2,3)
+msgid ""
+"\\n[\\v[6]]の\n"
+"体に力が漲ってくる！\n"
+"\\.\\.\\.\\^"
+msgstr "\\n[\\v[6]]的身体里涌起力量！\\.\\.\\.\\^"
+
+#. ID 49, Page 1, Line 3, Pos (7,10)
+#. ID 49, Page 3, Line 3, Pos (7,10)
+msgid ""
+"……改造を制御するコンソールのようだ。\n"
+"モニタには小難しいウィンドウがひしめいている。\\.\\.\n"
+"………………。"
+msgstr ""
+"……像是控制改造的控制台。\n"
+"显示器上挤满了晦涩难懂的窗口。\\.\\.........."
+
+#. ID 49, Page 1, Line 6, Pos (7,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"よく見ると、画面には両性具有化の処置という\n"
+"表示があるが……。"
+msgstr ""
+"仔细一看，画面上显示着「两性具有化处置」的字样，\n"
+"不过……。"
+
+#. ID 49, Page 1, Line 8, Pos (7,10)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 3, Line 6, Pos (7,10)
+#. Choice (2 options)
+msgid ""
+"触らぬ神に祟り無し\n"
+"触ってみる"
+msgstr ""
+"不触神明，不受其祟\n"
+"触摸看看"
+
+#. ID 49, Page 1, Line 23, Pos (7,10)
+msgid ""
+"って、あまりいじると怒られる。\n"
+"この辺にしておこう。"
+msgstr "话说，乱弄太多会惹人生气的。还是适可而止吧。"
+
+#. ID 49, Page 3, Line 25, Pos (7,10)
+msgid ""
+"エラー表示で画面がおかしなことに……\n"
+"……し、知ーらないっと。"
+msgstr ""
+"因为显示错误，画面变得乱七八糟…………我、\n"
+"我什么都不知道哦。"
+
+#. ID 50, Page 1, Line 25, Pos (1,6)
+msgid ""
+"ッテ、ナニヤラオカシナモノヲ着テイマスネ\n"
+"ソンナ格好ジャ改造ハ出来マセーン\n"
+"出直シテキテクダサーイ"
+msgstr ""
+"我说，你好像穿着什么奇怪的东西呢。\n"
+"那副样子可没法改造——请改天再来吧——"

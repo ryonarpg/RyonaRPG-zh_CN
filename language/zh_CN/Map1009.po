@@ -1,0 +1,51 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 61, Page 2, Line 4, Pos (55,28)
+msgid ""
+"この身体では\n"
+"レバーを動かすことは不可能だ……。"
+msgstr "以这具身体无法扳动拉杆……。"
+
+#. ID 61, Page 2, Line 9, Pos (55,28)
+#. Contains choice at line 2 (2 options)
+#. ID 98, Page 2, Line 3, Pos (79,52)
+#. Contains choice at line 2 (2 options)
+msgid "レバーを見つけた。操作しますか?"
+msgstr "找到了拉杆。要操作吗？"
+
+#. ID 61, Page 2, Line 10, Pos (55,28)
+#. Choice (2 options, embedded in a message)
+#. ID 98, Page 2, Line 4, Pos (79,52)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 61, Page 2, Line 20, Pos (55,28)
+#. ID 98, Page 2, Line 13, Pos (79,52)
+msgid "どこか近くで音がしたようだ……"
+msgstr "附近某处好像发出了声音……"
+
+#. ID 61, Page 3, Line 3, Pos (55,28)
+#. ID 98, Page 3, Line 3, Pos (79,52)
+msgid "固定されて元に戻らないようだ。"
+msgstr "似乎被固定住了，无法复位。"
+
+#. ID 75, Page 2, Line 7, Pos (57,18)
+msgid "たいしたことないものを手に入れた。"
+msgstr "获得了没什么大不了的东西。"

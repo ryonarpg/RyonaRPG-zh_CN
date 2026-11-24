@@ -1,0 +1,232 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 2, Line 257, Pos (2,0)
+#. ID 3, Page 2, Line 104, Pos (3,0)
+#. ID 3, Page 2, Line 197, Pos (3,0)
+#. ID 4, Page 3, Line 142, Pos (4,0)
+#. ID 6, Page 2, Line 104, Pos (6,0)
+#. ID 6, Page 2, Line 197, Pos (6,0)
+#. ID 7, Page 2, Line 257, Pos (2,1)
+#. ID 8, Page 2, Line 104, Pos (3,1)
+#. ID 8, Page 2, Line 197, Pos (3,1)
+#. ID 9, Page 3, Line 142, Pos (4,1)
+#. ID 13, Page 3, Line 8, Pos (10,0)
+msgid "………？"
+msgstr "………？"
+
+#. ID 2, Page 2, Line 258, Pos (2,0)
+#. ID 3, Page 2, Line 105, Pos (3,0)
+#. ID 3, Page 2, Line 198, Pos (3,0)
+#. ID 4, Page 3, Line 143, Pos (4,0)
+#. ID 6, Page 2, Line 105, Pos (6,0)
+#. ID 6, Page 2, Line 198, Pos (6,0)
+#. ID 7, Page 2, Line 258, Pos (2,1)
+#. ID 8, Page 2, Line 105, Pos (3,1)
+#. ID 8, Page 2, Line 198, Pos (3,1)
+#. ID 9, Page 3, Line 143, Pos (4,1)
+#. ID 13, Page 3, Line 9, Pos (10,0)
+#. ID 13, Page 3, Line 36, Pos (10,0)
+msgid ""
+"………\n"
+"\\.\\.………！！"
+msgstr ""
+"………\n"
+"\\.\\.………！！"
+
+#. ID 2, Page 2, Line 272, Pos (2,0)
+#. ID 7, Page 2, Line 272, Pos (2,1)
+msgid ""
+"スライムは\\n[\\v[6]]の腸内に\n"
+"粘菌型寄生虫を送り込んだ！！"
+msgstr ""
+"史莱姆将黏菌型寄生虫送入了\\n[\\v[6]]的肠道内！\n"
+"！"
+
+#. ID 2, Page 2, Line 281, Pos (2,0)
+#. ID 3, Page 2, Line 125, Pos (3,0)
+#. ID 3, Page 2, Line 218, Pos (3,0)
+#. ID 4, Page 3, Line 166, Pos (4,0)
+#. ID 6, Page 2, Line 125, Pos (6,0)
+#. ID 6, Page 2, Line 218, Pos (6,0)
+#. ID 7, Page 2, Line 281, Pos (2,1)
+#. ID 8, Page 2, Line 125, Pos (3,1)
+#. ID 8, Page 2, Line 218, Pos (3,1)
+#. ID 9, Page 3, Line 166, Pos (4,1)
+#. ID 13, Page 3, Line 28, Pos (10,0)
+#. ID 13, Page 3, Line 55, Pos (10,0)
+msgid "\\n[\\v[6]]は寄生されてしまった！"
+msgstr "\\n[\\v[6]]被寄生了！"
+
+#. ID 2, Page 2, Line 289, Pos (2,0)
+#. ID 4, Page 3, Line 174, Pos (4,0)
+#. ID 7, Page 2, Line 289, Pos (2,1)
+#. ID 9, Page 3, Line 174, Pos (4,1)
+msgid "\\n[\\v[6]]は新たな寄生虫を宿してしまった！"
+msgstr "\\n[\\v[6]]寄宿了新的寄生虫！"
+
+#. ID 2, Page 2, Line 322, Pos (2,0)
+#. ID 7, Page 2, Line 322, Pos (2,1)
+msgid "\\n[\\v[6]]は\\N[101]\\N[102]\\N[103]\\N[104]を奪われた！"
+msgstr ""
+"\\n[\\v[6]]被夺走了\\N[101]\\N[102]\\N[103]\\N[104]\n"
+"！"
+
+#. ID 2, Page 2, Line 325, Pos (2,0)
+#. ID 7, Page 2, Line 325, Pos (2,1)
+msgid "\\n[\\v[6]]は\\N[101]\\N[102]\\N[103]\\N[104]を脱がされた！"
+msgstr ""
+"\\n[\\v[6]]被脱去了\\N[101]\\N[102]\\N[103]\\N[104]\n"
+"！"
+
+#. ID 3, Page 2, Line 117, Pos (3,0)
+#. ID 3, Page 2, Line 210, Pos (3,0)
+#. ID 6, Page 2, Line 117, Pos (6,0)
+#. ID 6, Page 2, Line 210, Pos (6,0)
+#. ID 8, Page 2, Line 117, Pos (3,1)
+#. ID 8, Page 2, Line 210, Pos (3,1)
+msgid ""
+"敵の責めに混じり何かが\\n[\\v[6]]の\n"
+"尿道へ侵入した！"
+msgstr ""
+"混在敌人的责弄中，\n"
+"有什么东西侵入了\\n[\\v[6]]的尿道！"
+
+#. ID 4, Page 3, Line 94, Pos (4,0)
+#. ID 9, Page 3, Line 94, Pos (4,1)
+msgid ""
+"\\n[102]こ、これ以上……は、だ…駄目…ッ…！\\n[103]\n"
+"\\n[102]私…っ、初…めて……なの…に…\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]这、再继续下去……不、不…不行…！\n"
+"\\n[103]\\n[102]我…这、还是第一次……明明…\n"
+"\\n[103]\\n[104]\\^"
+
+#. ID 4, Page 3, Line 103, Pos (4,0)
+#. ID 9, Page 3, Line 103, Pos (4,1)
+msgid ""
+"\\n[102]や…あっ……そ、そこは……っ…！\\n[103]\n"
+"\\n[102]お、おしりの…穴…に…入って……\\n[103]\\n[104]\\^"
+msgstr ""
+"\\n[102]呀…啊……那、那里……！\\n[103]\\n[102]进、\n"
+"进到…屁股…洞…里…去了……\\n[103]\\n[104]\\^"
+
+#. ID 4, Page 3, Line 157, Pos (4,0)
+#. ID 9, Page 3, Line 157, Pos (4,1)
+msgid ""
+"注がれる敵の体液に混じり\n"
+"何かが\\n[\\v[6]]の腸へ侵入した！！"
+msgstr ""
+"混在被注入的敌人体液中，\n"
+"有什么东西侵入了\\n[\\v[6]]的肠道！！"
+
+#. ID 12, Page 2, Line 10, Pos (8,0)
+msgid ""
+"敵対象ヲ感知シマシタ。\\!\n"
+"機械兵士ふぁらんくすヲ起動シマス。\\!\n"
+"総員、タダチニ避難シテ下サイ。"
+msgstr ""
+"检测到敌对目标。\\!启动机械士兵方阵。\n"
+"\\!全体人员，请立即避难。"
+
+#. ID 13, Page 3, Line 20, Pos (10,0)
+msgid ""
+"下水の中の何かが\\n[\\v[6]]の肛門に張り付き、\n"
+"腸内に侵入した！"
+msgstr ""
+"下水道中的某物贴在了\\n[\\v[6]]的肛门上，\n"
+"侵入了肠道！"
+
+#. ID 13, Page 3, Line 47, Pos (10,0)
+msgid ""
+"下水の中から新たな寄生虫が\\n[\\v[6]]の\n"
+"腸内へ潜り込む！"
+msgstr "新的寄生虫从下水道中潜入了\\n[\\v[6]]的肠道！"
+
+#. ID 13, Page 3, Line 76, Pos (10,0)
+#. ID 13, Page 3, Line 99, Pos (10,0)
+msgid "………"
+msgstr "………"
+
+#. ID 13, Page 3, Line 77, Pos (10,0)
+msgid ""
+"…気分がすぐれない。\\!\n"
+"どうやらウィルスが傷口から感染してしまったようだ。"
+msgstr "…感觉不舒服。\\!看来病毒从伤口感染了。"
+
+#. ID 13, Page 3, Line 100, Pos (10,0)
+msgid ""
+"…体が熱い。\\!\n"
+"どうやらウィルスが傷口から感染してしまったようだ。"
+msgstr "…身体发热。\\!看来病毒从伤口感染了。"
+
+#. ID 58, Page 3, Line 7, Pos (24,16)
+msgid "………\\.\\^"
+msgstr "………\\.\\^"
+
+#. ID 58, Page 3, Line 8, Pos (24,16)
+msgid "………何も起きない。\\.\\^"
+msgstr "………什么也没发生。\\.\\^"
+
+#. ID 58, Page 3, Line 23, Pos (24,16)
+msgid ""
+"吐きだされた肉蟲が\\n[\\v[6]]の\n"
+"身体にへばり付いた！"
+msgstr "被吐出的肉虫贴在了\\n[\\v[6]]的身体上！"
+
+#. ID 58, Page 3, Line 32, Pos (24,16)
+msgid ""
+"………しかし、\\n[\\v[6]]の身体には既に\n"
+"寄生する余地が無さそうだ。"
+msgstr ""
+"………但是，\n"
+"\\n[\\v[6]]的身体似乎已经没有寄生的余地了。"
+
+#. ID 58, Page 3, Line 34, Pos (24,16)
+msgid "蟲はそのままどこかへと去っていった。"
+msgstr "虫就那样去了某处。"
+
+#. ID 58, Page 3, Line 42, Pos (24,16)
+msgid ""
+"しかし寄生虫は程なくして、ラバースーツに包まれた\n"
+"\\n[\\v[6]]の身体から離れていった。"
+msgstr ""
+"但寄生虫不久便从被橡胶服包裹的\\n[\\v[6]]的身体\n"
+"上离开了。"
+
+#. ID 58, Page 3, Line 50, Pos (24,16)
+msgid "\\n[\\v[6]]は蟲に寄生されてしまった！"
+msgstr "\\n[\\v[6]]被虫寄生了！"
+
+#. ID 74, Page 2, Line 3, Pos (44,29)
+#. Contains choice at line 2 (2 options)
+msgid "ここで釣りができそうだ。"
+msgstr "这里似乎能钓鱼。"
+
+#. ID 74, Page 2, Line 10, Pos (44,29)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"釣りをする\n"
+"な、何を…"
+msgstr ""
+"钓鱼\n"
+"不、什么…"
+
+#. ID 74, Page 2, Line 29, Pos (44,29)
+msgid "釣り竿を装備していない。"
+msgstr "没有装备钓竿。"
+
+#. ID 74, Page 2, Line 39, Pos (44,29)
+msgid "釣りを始めた。"
+msgstr "开始钓鱼了。"

@@ -1,0 +1,29 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 36, Page 3, Line 10, Pos (2,8)
+msgid ""
+"サタナエル様……\\|\n"
+"我々は……\\|最後まで……\\|あなたと共に…\\.…\\.…\\.…。\\|"
+msgstr ""
+"萨塔奈尔大人……\\|我们……\\|直到最后……\n"
+"\\|都与您同在…\\.…\\.…\\.…。\\|"
+
+#. ID 36, Page 3, Line 34, Pos (2,8)
+msgid ""
+"奴をこれ以上先に進ませるな！\\!\n"
+"命に代えても、サタナエル様をお守りするのだ！！"
+msgstr ""
+"别让那家伙再往前了！\\!哪怕以性命为代价，\n"
+"也要保护萨塔奈尔大人！！"

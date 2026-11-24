@@ -1,0 +1,58 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 3, Page 1, Line 3, Pos (15,7)
+#. Contains choice at line 2 (2 options)
+msgid "[魔界都市ウルティマ]に入りますか？"
+msgstr "要进入[魔界都市乌尔蒂玛]吗？"
+
+#. ID 3, Page 1, Line 4, Pos (15,7)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 6, Pos (10,3)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 2, Line 4, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 4, Pos (10,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 4, Page 1, Line 3, Pos (10,3)
+msgid ""
+"[魔王宮]\n"
+"危険度　★★★★★"
+msgstr "[魔王宫]危险度　★★★★★"
+
+#. ID 4, Page 1, Line 5, Pos (10,3)
+#. Contains choice at line 2 (2 options)
+msgid "[魔王宮]に入りますか？"
+msgstr "要进入[魔王宫]吗？"
+
+#. ID 5, Page 1, Line 6, Pos (5,7)
+msgid "不思議な力に阻まれ近づくことができなかった"
+msgstr "被神秘力量阻挡，无法靠近"
+
+#. ID 5, Page 2, Line 3, Pos (5,7)
+#. Contains choice at line 2 (2 options)
+msgid "[古代の石碑]に入りますか？"
+msgstr "要进入[古代石碑]吗？"
+
+#. ID 14, Page 1, Line 3, Pos (10,12)
+#. Contains choice at line 2 (2 options)
+msgid "人間界に戻りますか？"
+msgstr "要返回人间界吗？"

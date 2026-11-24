@@ -1,0 +1,57 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 23, Page 2, Line 3, Pos (27,42)
+msgid "ああ、あなた、こんなところにまで来るなんて！"
+msgstr "啊，你竟然来到这种地方！"
+
+#. ID 23, Page 2, Line 8, Pos (27,42)
+msgid ""
+"あなたならここに住む悪魔を倒せるかもしれません。\n"
+"どうか力をお貸しください。"
+msgstr ""
+"如果是你的话，也许能打倒住在这里的恶魔。\n"
+"请借给我力量吧。"
+
+#. ID 23, Page 2, Line 10, Pos (27,42)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"私はここの主のいる部屋への抜け道を知っています。\n"
+"私についてきてください。"
+msgstr "我知道通往这里主人所在房间的密道。请跟我来。"
+
+#. ID 23, Page 2, Line 12, Pos (27,42)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 23, Page 2, Line 14, Pos (27,42)
+msgid ""
+"ありがとうございます。\n"
+"さあ、こちらです…………"
+msgstr "非常感谢。来，这边请…………"
+
+#. ID 23, Page 2, Line 30, Pos (27,42)
+msgid ""
+"さあお前たち。\n"
+"久しぶりにごちそうだよ！！"
+msgstr "来吧，你们这些家伙。好久没吃到美餐了！！"
+
+#. ID 23, Page 2, Line 36, Pos (27,42)
+msgid "ああ……そんな…………"
+msgstr "啊……怎么会…………"

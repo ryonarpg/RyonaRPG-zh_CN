@@ -1,0 +1,43 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 2, Line 3, Pos (13,29)
+#. Contains choice at line 2 (2 options)
+msgid "このダンジョンから出ますか？"
+msgstr "要离开这个迷宫吗？"
+
+#. ID 13, Page 2, Line 4, Pos (13,29)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 8, Pos (14,4)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 2, Line 8, Pos (15,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 17, Page 2, Line 7, Pos (14,4)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 2, Line 7, Pos (15,4)
+#. Contains choice at line 2 (2 options)
+msgid "10000Ｇ寄付してください。"
+msgstr "请捐赠10000G。"
+
+#. ID 17, Page 2, Line 14, Pos (14,4)
+#. ID 18, Page 2, Line 14, Pos (15,4)
+msgid "ｶｴﾚ！"
+msgstr "滚回去！"

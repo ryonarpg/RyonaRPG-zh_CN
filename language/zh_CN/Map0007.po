@@ -1,0 +1,39 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 12, Page 2, Line 15, Pos (1,0)
+msgid ""
+"\n"
+"\\>　　　　\\<オートヒーラーをOFFにします"
+msgstr "\\>　　　　\\<将自动治疗器设为OFF"
+
+#. ID 21, Page 2, Line 3, Pos (15,4)
+#. Contains choice at line 2 (2 options)
+msgid "＊諦めますか？"
+msgstr "＊要放弃吗？"
+
+#. ID 21, Page 2, Line 4, Pos (15,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"もう…ダメ…\n"
+"まだまだ！"
+msgstr ""
+"已经…不行了…\n"
+"还早着呢！"
+
+#. ID 21, Page 2, Line 6, Pos (15,4)
+msgid ""
+"\n"
+"＊　\\n[\\v[6]]はその場に崩れ落ちた…\n"
+msgstr "＊　\\n[\\v[6]]当场瘫倒下去…"

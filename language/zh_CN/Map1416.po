@@ -1,0 +1,102 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 31, Page 2, Line 3, Pos (17,6)
+#. Contains choice at line 3 (2 options)
+#. ID 32, Page 2, Line 3, Pos (22,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"魔族の記録媒体を見つけた\n"
+"読みますか？"
+msgstr "发现了魔族的记录媒体。要阅读吗？"
+
+#. ID 31, Page 2, Line 5, Pos (17,6)
+#. Choice (2 options, embedded in a message)
+#. ID 32, Page 2, Line 5, Pos (22,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"否\n"
+"是"
+
+#. ID 31, Page 2, Line 14, Pos (17,6)
+msgid ""
+"魔族と人間の総力戦となった\\!\n"
+"だが、人間はまだまだ未熟だ\n"
+"魔族に勝てるわけがない"
+msgstr ""
+"变成了魔族与人类的总力战\\!但是，\n"
+"人类还远远不成熟。不可能战胜魔族"
+
+#. ID 31, Page 2, Line 21, Pos (17,6)
+msgid "せめてエヴァだけは"
+msgstr "至少只有艾娃"
+
+#. ID 31, Page 2, Line 26, Pos (17,6)
+msgid "私は"
+msgstr "我"
+
+#. ID 31, Page 2, Line 27, Pos (17,6)
+msgid "私はエヴァを"
+msgstr "我把艾娃"
+
+#. ID 31, Page 2, Line 28, Pos (17,6)
+#. ID 32, Page 2, Line 34, Pos (22,6)
+msgid "\\S[8]・・・・・・・・\\S[1]"
+msgstr "\\S[8]・・・・・・・・\\S[1]"
+
+#. ID 32, Page 2, Line 14, Pos (22,6)
+msgid "私は失敗した"
+msgstr "我失败了"
+
+#. ID 32, Page 2, Line 15, Pos (22,6)
+msgid "私には資格がない"
+msgstr "我没有资格"
+
+#. ID 32, Page 2, Line 16, Pos (22,6)
+msgid ""
+"全ては私の責任だ\\!\n"
+"自らの使命を見失っていた"
+msgstr "一切都是我的责任\\!我迷失了自己的使命"
+
+#. ID 32, Page 2, Line 22, Pos (22,6)
+msgid ""
+"私は魔王サタナエル\\!\n"
+"人を憎まなければならなかった\\!\n"
+"全てを滅ぼさなければならなかった"
+msgstr ""
+"我是魔王萨塔奈尔\\!我必须憎恨人类\\!我必须毁灭一\n"
+"切"
+
+#. ID 32, Page 2, Line 25, Pos (22,6)
+msgid ""
+"これからは慈悲の心を捨てよう\\!\n"
+"魔王の使命に徹しよう"
+msgstr "从今往后舍弃慈悲之心吧\\!贯彻魔王的使命吧"
+
+#. ID 32, Page 2, Line 27, Pos (22,6)
+msgid "それが死んでいった全ての命への慰めとなるだろう"
+msgstr "那将成为对逝去的一切生命的慰藉吧"
+
+#. ID 32, Page 2, Line 32, Pos (22,6)
+msgid ""
+"償い続けよう\\!\n"
+"永遠に"
+msgstr "继续赎罪吧\\!永远地"
+
+#. ID 33, Page 2, Line 5, Pos (25,6)
+msgid "クリスタルのかけらを手に入れた。"
+msgstr "获得了水晶碎片。"

@@ -1,0 +1,105 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 11, Pos (32,6)
+#. ID 4, Page 2, Line 5, Pos (32,6)
+msgid ""
+"司教の腐敗を糾弾したら……\n"
+"逆に破門され、さらには奴隷の烙印を押されました。"
+msgstr ""
+"我谴责了主教的腐败……却反被破门，\n"
+"甚至被烙上奴隶烙印。"
+
+#. ID 4, Page 1, Line 16, Pos (32,6)
+#. ID 4, Page 2, Line 10, Pos (32,6)
+msgid ""
+"一口に奴隷といっても……\n"
+"……色々な人が此処には住んでいるんです。"
+msgstr "虽统称为奴隶…………但这里住着各种各样的人。"
+
+#. ID 4, Page 1, Line 21, Pos (32,6)
+#. ID 4, Page 2, Line 15, Pos (32,6)
+msgid ""
+"神はあなたのことも見ています。\n"
+"悪い行いのしないよう……。"
+msgstr "神也在看着你。不要做坏事……。"
+
+#. ID 4, Page 1, Line 26, Pos (32,6)
+#. ID 4, Page 2, Line 20, Pos (32,6)
+msgid "神はすべての影もご存知なのです。"
+msgstr "神连所有的阴影都知晓。"
+
+#. ID 4, Page 1, Line 40, Pos (32,6)
+msgid ""
+"あらあら…大変。貴方の体から\n"
+"禍々しいオーラが漂っていますわ。\n"
+"よろしかったら私が\n"
+"お払いしてあげましょうか？"
+msgstr ""
+"哎呀哎呀……真不得了。\n"
+"您的身上散发着不祥的气息呢。如果愿意的话，\n"
+"让我来为您祓除吧？"
+
+#. ID 4, Page 1, Line 44, Pos (32,6)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 4, Page 1, Line 46, Pos (32,6)
+msgid "では、遠慮なくヤらせていただきます"
+msgstr "那么，我就不客气地做了"
+
+#. ID 4, Page 1, Line 68, Pos (32,6)
+msgid ""
+"ダメよぉ我慢しちゃ…\n"
+"ほら、ココなんか\n"
+"もうこんなになっちゃってるくせに…\\c[11]$k"
+msgstr ""
+"不行啦，会忍不住的……你看，\n"
+"这里明明都已经变成这样了……\\c[11]$k"
+
+#. ID 4, Page 1, Line 86, Pos (32,6)
+msgid "と・ど・め・よ\\c[11]$k"
+msgstr "致・命・一・击・哦\\c[11]$k"
+
+#. ID 4, Page 1, Line 121, Pos (32,6)
+msgid ""
+"はい、終わりましたー。\n"
+"また呪われちゃった時は\n"
+"いつでもいらしてくださいね。"
+msgstr "好，结束了——。如果再被诅咒了，请随时来哦。"
+
+#. ID 4, Page 1, Line 141, Pos (32,6)
+msgid "って、あら？"
+msgstr "咦，哎呀？"
+
+#. ID 4, Page 1, Line 149, Pos (32,6)
+#. ID 4, Page 1, Line 156, Pos (32,6)
+#. ID 4, Page 1, Line 163, Pos (32,6)
+#. ID 4, Page 1, Line 170, Pos (32,6)
+#. ID 4, Page 1, Line 177, Pos (32,6)
+msgid ""
+"どうやら\\C[2]\\N[101]\\C[0]は呪いが強すぎて\n"
+"当教会では解除できないようですわ。"
+msgstr ""
+"看来\\C[2]\\N[101]\\C[0]的诅咒太强，\n"
+"本教会似乎无法解除呢。"
+
+#. ID 4, Page 1, Line 183, Pos (32,6)
+msgid "そうですか……"
+msgstr "这样啊……"

@@ -1,0 +1,105 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 3, Pos (8,5)
+msgid "最近、井戸水が枯れてしまったそうなんですよ。"
+msgstr "听说最近井水枯竭了。"
+
+#. ID 4, Page 1, Line 4, Pos (8,5)
+msgid "水路の建設の予定はあるのかしら。"
+msgstr "有建设水渠的计划吗？"
+
+#. ID 5, Page 1, Line 3, Pos (6,8)
+msgid "何か用ですかな？"
+msgstr "有什么事吗？"
+
+#. ID 7, Page 1, Line 3, Pos (38,11)
+msgid "いどのなかにへんなひとがすんでるよー"
+msgstr "井里有奇怪的人住着哦——"
+
+#. ID 8, Page 1, Line 3, Pos (39,6)
+msgid "私と彼は同じ兵舎での職場結婚なんです。"
+msgstr "我和他是在同一座兵营里职场结婚的。"
+
+#. ID 9, Page 1, Line 3, Pos (31,8)
+msgid ""
+"この街のうち半分以上の人は、\n"
+"軍備に何らかの形で関わっているんだ。"
+msgstr "这座城市里一半以上的人，都以某种形式参与军备。"
+
+#. ID 9, Page 1, Line 5, Pos (31,8)
+msgid ""
+"徴兵制というより、\n"
+"国民皆兵と言った方が近いかもね"
+msgstr "与其说是征兵制，不如说更接近全民皆兵呢。"
+
+#. ID 11, Page 1, Line 3, Pos (13,25)
+msgid "お城に勤めているメイドでルームシェアしてるんです"
+msgstr "我是城里工作的女仆，和别人合租。"
+
+#. ID 11, Page 1, Line 4, Pos (13,25)
+msgid "交代で休んでるんです。"
+msgstr "我们轮流休息。"
+
+#. ID 13, Page 1, Line 3, Pos (32,26)
+msgid "今日の夕飯は何にしましょう。"
+msgstr "今天的晚饭吃什么好呢。"
+
+#. ID 14, Page 1, Line 3, Pos (35,29)
+msgid "夜でも警備の兵士が外を巡回しているからね。"
+msgstr "因为即使夜里也有警备士兵在外面巡逻。"
+
+#. ID 14, Page 1, Line 4, Pos (35,29)
+msgid "この街は大分安全だよ。"
+msgstr "这座城市相当安全哦。"
+
+#. ID 14, Page 1, Line 5, Pos (35,29)
+msgid ""
+"「シュライク」という街も\n"
+"兵士が多く詰めていて守りが堅いと聞くけど。"
+msgstr ""
+"听说一个叫「舒莱克」的城市也驻扎了很多士兵，\n"
+"防守很坚固。"
+
+#. ID 16, Page 1, Line 3, Pos (8,48)
+msgid ""
+"旅をずっと続けるのも素敵だけど、\n"
+"どこかで静かに人生を送るのも\n"
+"とても素晴らしいことだと思うわ。"
+msgstr ""
+"一直旅行下去也很棒，\n"
+"但我觉得在某个地方平静地度过人生也是非常美好的\n"
+"事。"
+
+#. ID 17, Page 1, Line 3, Pos (6,48)
+msgid ""
+"僕は旅の剣士だったけど、\n"
+"この街にいついちゃたんだ。"
+msgstr ""
+"我本来是个旅行剑士，\n"
+"却不知不觉定居在这座城市了。"
+
+#. ID 19, Page 1, Line 3, Pos (33,49)
+msgid "ああ、ここは空き屋なんだ。"
+msgstr "啊，这里是空房子。"
+
+#. ID 19, Page 1, Line 4, Pos (33,49)
+msgid ""
+"魔物の襲撃から復興したとはいえ、\n"
+"出て行ってしまった住民もいるからね。"
+msgstr "虽说从魔物袭击中复兴了，但也有搬走的居民。"
+
+#. ID 19, Page 1, Line 6, Pos (33,49)
+msgid "まあ、いつかは埋まるだろうさ。"
+msgstr "嘛，总有一天会住满的吧。"

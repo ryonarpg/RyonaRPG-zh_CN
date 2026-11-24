@@ -1,0 +1,31 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 18, Page 2, Line 3, Pos (5,10)
+msgid ""
+"寒天のような質感の水たまりだ。\n"
+"さわるとボソボソとしている。"
+msgstr "像寒天一样质感的水洼。摸上去沙沙的。"
+
+#. ID 21, Page 2, Line 3, Pos (8,7)
+msgid ""
+"ゲル状の液体だ。\n"
+"固体が溶けかかっている状態のようである。"
+msgstr "是凝胶状液体。看起来像是固体正在融化的状态。"
+
+#. ID 22, Page 2, Line 3, Pos (8,12)
+msgid ""
+"微かに粘性のある液体だ。\n"
+"内部がうごめいているように見える。"
+msgstr "是略带黏性的液体。内部看起来在蠕动。"

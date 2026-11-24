@@ -1,0 +1,160 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 19, Page 2, Line 4, Pos (26,3)
+msgid ""
+"…どうやら下水ポンプのようだが、\n"
+"端末が壊れていて使えない。"
+msgstr "…看来是下水泵，但终端坏了，无法使用。"
+
+#. ID 19, Page 2, Line 6, Pos (26,3)
+msgid "……このまま下水を進むしかないようだ"
+msgstr "……看来只能就这样沿着下水道前进"
+
+#. ID 20, Page 4, Line 12, Pos (20,8)
+#. ID 22, Page 4, Line 16, Pos (27,15)
+msgid "…扉はロックされているようだ"
+msgstr "…门似乎被锁上了"
+
+#. ID 21, Page 2, Line 4, Pos (19,8)
+#. ID 23, Page 2, Line 4, Pos (26,15)
+#. ID 29, Page 2, Line 7, Pos (26,14)
+#. ID 30, Page 2, Line 7, Pos (19,7)
+msgid "施錠 ヲ シマス"
+msgstr "将 上锁"
+
+#. ID 21, Page 2, Line 16, Pos (19,8)
+#. ID 23, Page 2, Line 16, Pos (26,15)
+msgid "トビラ ヲ ヒラキマス"
+msgstr "门 将 打开"
+
+#. ID 21, Page 2, Line 25, Pos (19,8)
+#. ID 23, Page 2, Line 25, Pos (26,15)
+msgid ""
+"カードキー ノ ばーじょん ヲ アゲテクダサイ\n"
+"\n"
+"タダイマノ ばーじょん 　　\\v[1102].00\n"
+"解錠 ニ 必要ナ ばーじょん 1.00"
+msgstr ""
+"请提升卡钥匙的版本当前版本　　\\v[1102].00解锁\n"
+"所需版本 1.00"
+
+#. ID 21, Page 2, Line 37, Pos (19,8)
+#. ID 23, Page 2, Line 37, Pos (26,15)
+msgid "カードキー ヲ イレテクダサイ"
+msgstr "请 插入 卡钥匙"
+
+#. ID 31, Page 3, Line 8, Pos (10,0)
+msgid "………？"
+msgstr "………？"
+
+#. ID 31, Page 3, Line 9, Pos (10,0)
+#. ID 31, Page 3, Line 36, Pos (10,0)
+msgid ""
+"………\n"
+"\\.\\.………！！"
+msgstr ""
+"………\n"
+"\\.\\.………！！"
+
+#. ID 31, Page 3, Line 20, Pos (10,0)
+msgid ""
+"下水の中の何かが\\n[\\v[6]]の肛門に張り付き、\n"
+"腸内に侵入した！"
+msgstr ""
+"下水道里的某个东西\\n[\\v[6]]的肛门上贴附，\n"
+"并侵入了肠道！"
+
+#. ID 31, Page 3, Line 28, Pos (10,0)
+#. ID 31, Page 3, Line 55, Pos (10,0)
+msgid "\\n[\\v[6]]は寄生されてしまった！"
+msgstr "\\n[\\v[6]]被寄生了！"
+
+#. ID 31, Page 3, Line 47, Pos (10,0)
+msgid ""
+"下水の中から新たな寄生虫が\\n[\\v[6]]の\n"
+"腸内へ潜り込む！"
+msgstr "新的寄生虫从下水道中\\n[\\v[6]]的肠道内潜入！"
+
+#. ID 31, Page 3, Line 76, Pos (10,0)
+#. ID 31, Page 3, Line 99, Pos (10,0)
+msgid "………"
+msgstr "………"
+
+#. ID 31, Page 3, Line 77, Pos (10,0)
+msgid ""
+"…気分がすぐれない。\\!\n"
+"どうやらウィルスが傷口から感染してしまったようだ。"
+msgstr "…感觉不舒服。\\!看来病毒从伤口感染了。"
+
+#. ID 31, Page 3, Line 100, Pos (10,0)
+msgid ""
+"…体が熱い。\\!\n"
+"どうやらウィルスが傷口から感染してしまったようだ。"
+msgstr "…身体发热。\\!看来病毒从伤口感染了。"
+
+#. ID 32, Page 2, Line 6, Pos (24,3)
+msgid "ラバースーツを手に入れた。"
+msgstr "获得了橡胶防护服。"
+
+#. ID 33, Page 2, Line 4, Pos (23,2)
+msgid "\\n[\\v[6]]は本棚を調べた"
+msgstr "\\n[\\v[6]]查看了书架"
+
+#. ID 33, Page 2, Line 5, Pos (23,2)
+msgid ""
+"古ぼけた本を見つけた\\!\n"
+"どうやら下水路についての説明書のようだ。"
+msgstr ""
+"发现了一本陈旧的书\\!看来像是关于下水道的说明书\n"
+"。"
+
+#. ID 33, Page 2, Line 7, Pos (23,2)
+#. Contains choice at line 2 (2 options)
+msgid "どうする？"
+msgstr "要怎么做？"
+
+#. ID 33, Page 2, Line 8, Pos (23,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"見てみる\n"
+"やめる"
+msgstr ""
+"查看\n"
+"取消"
+
+#. ID 33, Page 2, Line 12, Pos (23,2)
+msgid ""
+"ここは当工場で発生した廃液を取り扱う施設である。\\!\n"
+"未処理の廃液がまとめて流されているため、生身のまま\n"
+"入るのは大変危険である。\\!\n"
+"したがって、ラバースーツの着用を推奨する。"
+msgstr ""
+"这里是处理本工厂产生的废液的设施。\n"
+"\\!由于未经处理的废液被集中排放，\n"
+"直接以肉身进入非常危险。\\!因此，\n"
+"建议穿着橡胶防护服。"
+
+#. ID 33, Page 2, Line 16, Pos (23,2)
+msgid ""
+"有害物質だけでなく逃げ出した実験生物、廃液により\n"
+"突然変異を起こした生物がいる恐れがあるので、\n"
+"私服や白衣、ましてや動き辛いなどの理由で\n"
+"裸、水着で廃液内を進む事は絶対に避けるべきである。"
+msgstr ""
+"不仅是有害物质，还可能有逃出的实验生物、\n"
+"因废液而发生突变的生物，\n"
+"因此绝对应避免穿便服或白衣，\n"
+"更不用说以行动不便等理由赤裸、\n"
+"穿泳装进入废液中前进。"

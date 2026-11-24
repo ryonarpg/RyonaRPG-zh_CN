@@ -1,0 +1,104 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 4, Page 1, Line 3, Pos (4,9)
+msgid "何かあったら、すぐに駆けつけられる様にしています"
+msgstr "一旦有什么事，我会尽量立刻赶过去"
+
+#. ID 4, Page 2, Line 3, Pos (4,9)
+msgid "Ｚｚｚ.　.　. ..."
+msgstr "Zzz.　.　. ..."
+
+#. ID 4, Page 2, Line 4, Pos (4,9)
+msgid "＊……居眠りしているようだ。"
+msgstr "＊……好像在打瞌睡。"
+
+#. ID 5, Page 1, Line 3, Pos (18,13)
+msgid "Ｚｚｚ......"
+msgstr "Zzz......"
+
+#. ID 6, Page 1, Line 3, Pos (21,13)
+msgid "やっと休憩なんだ……寝かせてくれ"
+msgstr "终于能休息了……让我睡吧"
+
+#. ID 7, Page 1, Line 3, Pos (24,13)
+msgid ""
+"女性兵士の詰めてる兵舎に夜這に行くか……\n"
+"それが問題だ。"
+msgstr "要去女性士兵驻扎的兵营夜袭吗……那才是问题。"
+
+#. ID 8, Page 1, Line 3, Pos (27,13)
+msgid "Ｚｚｚ...."
+msgstr "Zzz...."
+
+#. ID 9, Page 1, Line 3, Pos (18,5)
+msgid "夜勤なんだ……頼むから寝かせてくれ。"
+msgstr "是夜班啊……求你了让我睡吧。"
+
+#. ID 10, Page 1, Line 3, Pos (21,5)
+msgid ""
+"息子に昼寝て夜働く俺が完全に無職だと思われてる…\n"
+"ううう……"
+msgstr ""
+"儿子完全以为白天睡觉晚上工作的我是无业游民……\n"
+"呜呜呜……"
+
+#. ID 11, Page 1, Line 3, Pos (24,5)
+msgid "ぐごー……　ぐごー……"
+msgstr "咕哦……　咕哦……"
+
+#. ID 12, Page 1, Line 3, Pos (27,5)
+msgid "うるせー……　いびきがうるせー……"
+msgstr "吵死了……　鼾声吵死了……"
+
+#. ID 15, Page 1, Line 1, Pos (14,8)
+msgid "＊どうやら、兵士たちの日誌のようだ。"
+msgstr "＊看来是士兵们的日志。"
+
+#. ID 16, Page 1, Line 3, Pos (15,9)
+msgid "さて、今日も一日頑張らないとなあ。"
+msgstr "那么，今天也得努力一整天啊。"
+
+#. ID 17, Page 1, Line 3, Pos (13,11)
+msgid "こちらが男性兵士の詰め所なんだ。"
+msgstr "这里是男性士兵的驻所。"
+
+#. ID 17, Page 1, Line 4, Pos (13,11)
+msgid ""
+"女性兵士の詰め所は宿屋の下にあるよ。\n"
+"あちらは地下に牢獄もあるから、\n"
+"女性兵士が看守も務めているんだ。"
+msgstr ""
+"女性士兵的驻所在旅馆下面哦。那边地下还有牢狱，\n"
+"所以女性士兵也兼任看守。"
+
+#. ID 18, Page 1, Line 3, Pos (11,9)
+msgid "夜勤が増えてから夜食を食べすぎちゃって……"
+msgstr "自从夜班增多之后，夜宵吃得太多了……"
+
+#. ID 18, Page 1, Line 4, Pos (11,9)
+msgid "体重落とさないとなあ。"
+msgstr "得减体重了啊。"
+
+#. ID 19, Page 1, Line 3, Pos (13,7)
+msgid "何か最近、此処を訪れる旅人が増えているんだよ。"
+msgstr "最近不知怎么，来这里的旅人变多了。"
+
+#. ID 19, Page 1, Line 4, Pos (13,7)
+msgid ""
+"特に問題も起こさないし苦情も聞かないが……\n"
+"一体何をやってるんだろうねえ。"
+msgstr ""
+"他们也没特别惹麻烦，也没听到投诉……\n"
+"到底在干什么呢。"

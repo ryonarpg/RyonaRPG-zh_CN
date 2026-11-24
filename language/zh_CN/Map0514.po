@@ -1,0 +1,25 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 13, Page 2, Line 4, Pos (1,0)
+msgid "嘘でしょ…そんな…"
+msgstr "骗人的吧……怎么会……"
+
+#. ID 13, Page 2, Line 13, Pos (1,0)
+msgid "あれ、俺達は何を…"
+msgstr "咦，我们在做什么……"
+
+#. ID 13, Page 2, Line 17, Pos (1,0)
+msgid "七英雄を倒した。"
+msgstr "打倒了七英雄。"

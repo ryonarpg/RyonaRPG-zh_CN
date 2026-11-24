@@ -1,0 +1,359 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2, Page 1, Line 3, Pos (4,17)
+msgid "フフフ、良い見世物だ"
+msgstr "呵呵呵，真是场好戏"
+
+#. ID 3, Page 1, Line 3, Pos (11,15)
+msgid ""
+"ヒヒヒ、美味いの～\n"
+"やはり女体盛がいちばんだな"
+msgstr "嘻嘻嘻，真美味～果然女体盛最棒了啊"
+
+#. ID 4, Page 1, Line 3, Pos (5,17)
+msgid "ほら、もっとヨガらんかい！！"
+msgstr "喂，再多做点瑜伽姿势啊！！"
+
+#. ID 5, Page 1, Line 4, Pos (19,14)
+msgid "おら、しっかり締め付けるんだ"
+msgstr "喂，给我好好夹紧"
+
+#. ID 13, Page 1, Line 3, Pos (17,11)
+msgid "ヒヒヒ…どうだ気持ちいいだろう？"
+msgstr "嘻嘻嘻…怎么样，很舒服吧？"
+
+#. ID 14, Page 1, Line 3, Pos (10,24)
+msgid "はいはいお仕事サボっちゃだめよ"
+msgstr "好啦好啦，可不能偷懒不工作哦"
+
+#. ID 16, Page 1, Line 3, Pos (6,4)
+msgid "たまらんの～"
+msgstr "受不了啦～"
+
+#. ID 17, Page 1, Line 3, Pos (7,4)
+msgid "良い眺めですな～"
+msgstr "真是好景致啊～"
+
+#. ID 18, Page 1, Line 3, Pos (16,11)
+msgid ""
+"ひっ\\!ひゃうっ！！\n"
+"お願い、許して…"
+msgstr "呀\\!咿呀！！求求你，饶了我…"
+
+#. ID 19, Page 1, Line 4, Pos (17,12)
+msgid ""
+"お願いします…\\!止めてください…\n"
+"ああッ"
+msgstr "求求你了…\\!请停下…啊啊"
+
+#. ID 21, Page 1, Line 3, Pos (4,12)
+msgid ""
+"ほら、どうした\n"
+"もっとしっかり奉仕せんか！！"
+msgstr "喂，怎么了，给我更用心地服侍啊！！"
+
+#. ID 22, Page 1, Line 5, Pos (3,12)
+msgid "ぐむッ\\!む～"
+msgstr "唔嗯\\!唔～"
+
+#. ID 23, Page 1, Line 3, Pos (5,12)
+#. ID 28, Page 1, Line 4, Pos (4,15)
+msgid "あ…\\!あう…"
+msgstr "啊…\\!啊呜…"
+
+#. ID 24, Page 1, Line 3, Pos (20,13)
+msgid "ああ…\\!2本も入らないよ～"
+msgstr "啊啊…\\!两根进不去的啦～"
+
+#. ID 25, Page 1, Line 4, Pos (20,14)
+msgid "ぐふふ～やはり2本挿しはよいの～"
+msgstr "咕呵呵～果然两根一起插就是好啊～"
+
+#. ID 26, Page 1, Line 7, Pos (17,4)
+msgid "フフフ、もっといい声で鳴いてくださいね"
+msgstr "呵呵呵，请叫得更好听一些哦"
+
+#. ID 26, Page 1, Line 8, Pos (17,4)
+msgid "おや…？"
+msgstr "哎呀…？"
+
+#. ID 26, Page 1, Line 15, Pos (17,4)
+msgid ""
+"またして欲しいのかね？\n"
+"いいだろう、可愛がってあげよう。"
+msgstr "还想再被做一次吗？好吧，我会好好疼爱你。"
+
+#. ID 26, Page 1, Line 21, Pos (17,4)
+msgid ""
+"ほう、よさそうなのがいるじゃないか\n"
+"どれ、可愛がってあげよう。"
+msgstr ""
+"哦，不是有个看起来不错的吗。来吧，\n"
+"让我好好疼爱你。"
+
+#. ID 26, Page 1, Line 44, Pos (17,4)
+msgid ""
+"待たせたね\n"
+"それじゃあはじめようか"
+msgstr "让你久等了，那么开始吧"
+
+#. ID 26, Page 1, Line 48, Pos (17,4)
+msgid ""
+"さて、それじゃあはじめようか\n"
+"何、次期によくなるさ"
+msgstr "那么，我们开始吧。怎么，会慢慢好起来的。"
+
+#. ID 26, Page 1, Line 85, Pos (17,4)
+msgid ""
+"どうだったかな？またして欲しくなったら…\n"
+"いつでも来たまえ。"
+msgstr "感觉怎么样？要是还想再做的话…随时来吧。"
+
+#. ID 29, Page 1, Line 3, Pos (3,17)
+msgid "もっと結合部をしっかり見せろ"
+msgstr "把结合部给我更清楚地露出来"
+
+#. ID 30, Page 1, Line 4, Pos (5,15)
+msgid "う…あ…"
+msgstr "呜…啊…"
+
+#. ID 31, Page 1, Line 4, Pos (3,15)
+msgid ""
+"ひゃああああん！！\n"
+"\\!も…もうだめ…"
+msgstr "呀啊啊啊啊啊！！\\!已…已经不行了…"
+
+#. ID 32, Page 1, Line 3, Pos (11,6)
+msgid "ほほう……"
+msgstr "哦哦……"
+
+#. ID 33, Page 1, Line 3, Pos (7,10)
+msgid ""
+"おい、知ってるか？\n"
+"この娘はかつてこの国の貴族の娘だったの\n"
+"だがな。\n"
+"親が政争で破れ没落してこのザマだ。"
+msgstr ""
+"喂，你知道吗？\n"
+"这姑娘以前可是这个国家的贵族之女。\n"
+"她父母在政争中落败没落，才落到这副样子。"
+
+#. ID 33, Page 1, Line 7, Pos (7,10)
+msgid ""
+"フフフ、かつて貴族の娘だったものが\n"
+"こうして見下していた下賤の者に犯される\n"
+"…\\!良いモノだな\n"
+"\\!あの時…私を受け入れていればな…"
+msgstr ""
+"呵呵呵，曾经是贵族之女的人，\n"
+"就这样被自己看不起的下贱之人侵犯…\n"
+"\\!真是好东西啊\\!那时候…要是接受我就好了…"
+
+#. ID 33, Page 1, Line 12, Pos (7,10)
+msgid ""
+"おら、かまわん。もっと犯してやれ！\n"
+"今となっては私が相手する価値もない女だ\n"
+"貴様のような賤民がふさわしい相手だ"
+msgstr ""
+"喂，不用管。再多侵犯她！到了现在，\n"
+"她已经是连我都不屑应付的女人了，\n"
+"像你这样的贱民才配当她对手"
+
+#. ID 34, Page 1, Line 4, Pos (7,8)
+msgid ""
+"へへへ、こいつはいい役得だ。\n"
+"しっかし、女に振られたからってここまで\n"
+"やるかね。\n"
+"貴族ってなあ恐ろしいな"
+msgstr ""
+"嘿嘿嘿，这可是个好差事。不过，\n"
+"就因为被女人甩了，居然做到这种地步。\n"
+"贵族真是可怕啊"
+
+#. ID 35, Page 1, Line 4, Pos (14,18)
+msgid ""
+"めんこい娘じゃ。\n"
+"自分から来るとはのう"
+msgstr "真是个可爱的姑娘啊。居然自己送上门来。"
+
+#. ID 35, Page 1, Line 8, Pos (14,18)
+msgid ""
+"おお…めんこい娘じゃ。\n"
+"さ、こちらに来なさい。"
+msgstr "哦哦…真是个可爱的姑娘。来，到这边来。"
+
+#. ID 35, Page 1, Line 24, Pos (14,18)
+#. ID 44, Page 1, Line 23, Pos (8,16)
+msgid "グフフ、それじゃあ脱ぎ脱ぎしましょうね"
+msgstr "咕呵呵，那么就把衣服脱掉吧"
+
+#. ID 35, Page 1, Line 36, Pos (14,18)
+msgid ""
+"ほっほっほっ、良くなった。\n"
+"それじゃあ、ホレ！！"
+msgstr "嚯嚯嚯，变得不错了。那么，来吧！！"
+
+#. ID 35, Page 1, Line 47, Pos (14,18)
+#. ID 40, Page 1, Line 31, Pos (11,7)
+#. ID 40, Page 1, Line 113, Pos (11,7)
+#. ID 44, Page 1, Line 46, Pos (8,16)
+msgid "ううッ！！だ、\\!だすぞ！！"
+msgstr "唔唔！！我、\\!要射了！！"
+
+#. ID 35, Page 1, Line 60, Pos (14,18)
+#. ID 44, Page 1, Line 59, Pos (8,16)
+msgid "ふ～よかったぞい！！"
+msgstr "呼～真舒服啊！！"
+
+#. ID 36, Page 1, Line 3, Pos (7,21)
+msgid "おら！、こっちこいや！！"
+msgstr "喂！、到这边来！！"
+
+#. ID 37, Page 1, Line 38, Pos (6,21)
+msgid ""
+"どうだ？気持ちよかったろう？\n"
+"またいつでも乗せてやるぜ！！"
+msgstr "怎么样？很舒服吧？随时都可以再让你骑上来哦！！"
+
+#. ID 38, Page 1, Line 3, Pos (10,7)
+msgid "グフフ……"
+msgstr "咕呵呵……"
+
+#. ID 39, Page 1, Line 3, Pos (12,7)
+msgid "へへへ……"
+msgstr "嘿嘿嘿……"
+
+#. ID 40, Page 1, Line 3, Pos (11,7)
+msgid "お、わざわざ可愛がられに来たのか？\n"
+msgstr "哦，特意来让我疼爱的吗？"
+
+#. ID 40, Page 1, Line 5, Pos (11,7)
+msgid "いいだろう。思う存分かわいがってやる"
+msgstr "好啊。我会尽情疼爱你"
+
+#. ID 40, Page 1, Line 6, Pos (11,7)
+msgid "せいぜいいい声で鳴いてくれよ！！"
+msgstr "给我尽量叫得好听点！！"
+
+#. ID 40, Page 1, Line 15, Pos (11,7)
+msgid "それじゃあ早速、口の方を使わせてもらうぜ！！"
+msgstr "那么我就马上用你的嘴了！！"
+
+#. ID 40, Page 1, Line 45, Pos (11,7)
+#. ID 40, Page 1, Line 140, Pos (11,7)
+msgid "オラッ！！しっかり飲み干せよ"
+msgstr "喂！！给我好好喝干净"
+
+#. ID 40, Page 1, Line 86, Pos (11,7)
+msgid "おら、しっかりにしろよ"
+msgstr "喂，给我认真点"
+
+#. ID 40, Page 1, Line 87, Pos (11,7)
+msgid "まだまだへばるんじゃねえぞ！！"
+msgstr "还早着呢，别给我瘫下啊！！"
+
+#. ID 40, Page 1, Line 88, Pos (11,7)
+msgid "これからがお楽しみだぜ！！"
+msgstr "接下来才是重头戏呢！！"
+
+#. ID 40, Page 1, Line 94, Pos (11,7)
+msgid "俺は口の方を使わせてもらうぜ！！"
+msgstr "我就用你的嘴了！！"
+
+#. ID 40, Page 1, Line 130, Pos (11,7)
+msgid "こっちもだ！！"
+msgstr "这边也来！！"
+
+#. ID 40, Page 1, Line 157, Pos (11,7)
+msgid "フフ、良かったぜ！！"
+msgstr "呵呵，真爽啊！！"
+
+#. ID 40, Page 1, Line 158, Pos (11,7)
+msgid "また可愛がってやるよ！！"
+msgstr "我还会再疼爱你的！！"
+
+#. ID 40, Page 1, Line 159, Pos (11,7)
+msgid "しっかり働けよ、奴隷ちゃん"
+msgstr "好好干活吧，奴隶酱"
+
+#. ID 41, Page 1, Line 3, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+msgid "飲みますか？"
+msgstr "要喝吗？"
+
+#. ID 41, Page 1, Line 4, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"要\n"
+"不要"
+
+#. ID 41, Page 1, Line 19, Pos (15,9)
+msgid "体力が回復した"
+msgstr "体力恢复了"
+
+#. ID 41, Page 1, Line 28, Pos (15,9)
+msgid "体が無性に熱くなった。"
+msgstr "身体莫名地发热起来。"
+
+#. ID 42, Page 1, Line 3, Pos (13,10)
+msgid ""
+"疲れたならテーブルの上のお酒\n"
+"飲んでもいいわよ…フフフ"
+msgstr "如果累了，可以喝桌上的酒哦…呵呵呵"
+
+#. ID 43, Page 1, Line 3, Pos (0,0)
+msgid "はい、お疲れ様。"
+msgstr "好的，辛苦了。"
+
+#. ID 43, Page 1, Line 13, Pos (0,0)
+msgid "よく働いたな。こいつが報酬だ"
+msgstr "干得不错。这是你的报酬"
+
+#. ID 43, Page 1, Line 15, Pos (0,0)
+msgid "10Ｇの報酬を貰った？"
+msgstr "获得了10G报酬？"
+
+#. ID 43, Page 1, Line 16, Pos (0,0)
+msgid ""
+"なんだ？不満でもあるのか？\n"
+"奴隷にはありがたい金額だろうが！！"
+msgstr ""
+"怎么？有什么不满吗？\n"
+"对奴隶来说这可是值得感激的金额吧！！"
+
+#. ID 43, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ま、次もこいや。\n"
+"いつでも働かせてやるよ。ククク"
+msgstr "嘛，下次也来吧。随时都能让你干活。呵呵呵"
+
+#. ID 44, Page 1, Line 4, Pos (8,16)
+msgid "グヘヘ、そんなに俺が良かったか？"
+msgstr "咕嘿嘿，我有那么棒吗？"
+
+#. ID 44, Page 1, Line 7, Pos (8,16)
+msgid ""
+"お、来たか。\n"
+"それじゃあ早速楽しませてもらうか"
+msgstr "哦，来了啊。那么我就马上享受一下吧"
+
+#. ID 44, Page 1, Line 35, Pos (8,16)
+msgid ""
+"へへへ、いい体つきだな\n"
+"それじゃあ行くぜ！！"
+msgstr "嘿嘿嘿，身材真不错啊。那么，我来了！！"

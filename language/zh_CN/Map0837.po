@@ -1,0 +1,132 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 21, Page 1, Line 24, Pos (19,0)
+msgid ""
+"\\S[2]＊\\n[\\v[6]]は目を覚ますと……\n"
+"　寝台の上に居ることに気がついた"
+msgstr "\\S[2]＊\\n[\\v[6]]醒来后……　发现自己正躺在寝台上"
+
+#. ID 21, Page 1, Line 38, Pos (19,0)
+msgid "\\S[2]＊動けない……体が動かない"
+msgstr "\\S[2]＊无法行动……身体动不了"
+
+#. ID 21, Page 1, Line 50, Pos (19,0)
+msgid "\\S[2]＊拘束されている……動けない"
+msgstr "\\S[2]＊被拘束住了……无法行动"
+
+#. ID 21, Page 1, Line 66, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM　チェック完了・・・▼\n"
+"これより　処刑を　開始します\n"
+"・・・・・・・▼"
+msgstr ""
+"\\S[2]SYSTEM　检查完成・・・▼现在　开始执行　处\n"
+"刑・・・・・・・▼"
+
+#. ID 21, Page 1, Line 80, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"薬物投与を確認・・・心神喪失状態へ移行\n"
+"恐怖を　緩和します"
+msgstr ""
+"\\S[2]SYSTEM・・・确认药物投与・・・转入心神丧\n"
+"失状态　以缓和恐惧"
+
+#. ID 21, Page 1, Line 88, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"これより　処刑を　行います"
+msgstr "\\S[2]SYSTEM・・・现在　执行　处刑"
+
+#. ID 21, Page 1, Line 91, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"ご安心ください\n"
+"従来のような　処刑対象者に　無意味な　\n"
+"苦痛を与える　処刑では　ありません"
+msgstr ""
+"\\S[2]SYSTEM・・・请放心，\n"
+"这并非像以往那样　给处刑对象　造成无意义　痛苦\n"
+"的　处刑"
+
+#. ID 21, Page 1, Line 96, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"処刑方法は　幸福剤の投与"
+msgstr "\\S[2]SYSTEM・・・处刑方式是　投与幸福剂"
+
+#. ID 21, Page 1, Line 99, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"脳内を　幸福物質で　満たし\n"
+"脳の受容体と　機能を破壊することで\n"
+"幸福のまま　脳死状態にさせます"
+msgstr ""
+"\\S[2]SYSTEM・・・用　幸福物质填满脑内，\n"
+"并通过破坏脑内受体与　功能，\n"
+"使其在幸福状态下　进入脑死状态"
+
+#. ID 21, Page 1, Line 103, Pos (19,0)
+msgid ""
+"\\S[2]SYSTEM・・・\n"
+"開始　いたします"
+msgstr "\\S[2]SYSTEM・・・现在　开始"
+
+#. ID 22, Page 1, Line 12, Pos (18,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「んなぁあああッ！？$g　\n"
+"　なにこぉおれえ！？　んぃぁあああッ$g」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「嗯啊啊啊啊！？\n"
+"$g　　这是什啊啊么！？　嗯咿啊啊啊啊！$g」\\.\\^"
+
+#. ID 22, Page 1, Line 25, Pos (18,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「んほぉぉぉおぉっ$g　ほおぉおおっ$g」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]\n"
+"「嗯呵哦哦哦哦～$g　呵哦哦哦～$g」\\.\\^"
+
+#. ID 22, Page 1, Line 37, Pos (18,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「ああああ\"あ\"っ$g　ん\"いううううう\"$g」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]「啊啊啊啊\"啊\"！\n"
+"$g　嗯\"咿呜呜呜呜呜\"$g」\\.\\^"
+
+#. ID 22, Page 1, Line 49, Pos (18,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「らめえええぇっ$g$g　らめぇぇ$g\n"
+"　あ、あへえええええええっ$g」\\.\\^"
+msgstr ""
+"\\S[2]\\n[\\v[6]]\n"
+"「不行了啊啊啊啊～$g$g　不行了～$g　啊、\n"
+"　啊嘿哎哎哎哎哎哎～$g」\\.\\^"
+
+#. ID 22, Page 1, Line 62, Pos (18,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「くぅぁぁ……$g　んひゅぅぅ……$g」\\.\\^"
+msgstr "\\S[2]\\n[\\v[6]]「呜啊啊……$g　嗯咻呜呜……$g」\\.\\^"
+
+#. ID 22, Page 1, Line 74, Pos (18,2)
+msgid ""
+"\\S[2]\\n[\\v[6]]\n"
+"「ふひゃぁぁああぁぁぁ$g$g」\\.\\^"
+msgstr "\\S[2]\\n[\\v[6]]「呼嘿啊啊啊啊啊啊$g$g」\\.\\^"

@@ -1,0 +1,5781 @@
+﻿#
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-CreatedBy: LcfTrans\n"
+
+#. ID 2
+msgid "0001 Opening"
+msgstr "0001 开场"
+
+#. ID 3
+msgid "0002 World Map"
+msgstr "0002 世界地图"
+
+#. ID 4
+msgid "0003 Sky Map"
+msgstr "0003 天空地图"
+
+#. ID 5
+msgid "0004 作者部屋"
+msgstr "0004 作者房间"
+
+#. ID 6
+msgid "0005 RamiaEnd"
+msgstr "0005 拉米亚结局"
+
+#. ID 7
+msgid "0006 岩山の洞窟"
+msgstr "0006 岩山山洞"
+
+#. ID 8
+msgid "0007 無想の森"
+msgstr "0007 无想之森"
+
+#. ID 9
+msgid "0008 海底神殿"
+msgstr "0008 海底神殿"
+
+#. ID 10
+msgid "0009 アリの巣2"
+msgstr "0009 蚁巢2"
+
+#. ID 11
+msgid "0010 フロア１"
+msgstr "0010 楼层一"
+
+#. ID 12
+msgid "0011 フロア３星刻の間"
+msgstr "0011 楼层三星刻之间"
+
+#. ID 13
+msgid "0012 フロア２"
+msgstr "0012 楼层二"
+
+#. ID 14
+msgid "0013 外観"
+msgstr "0013 外观"
+
+#. ID 15
+msgid "0014 海神の棲み処1"
+msgstr "0014 海神栖息地1"
+
+#. ID 16
+msgid "0015 RAYONの村"
+msgstr "0015 RAYON之村"
+
+#. ID 17
+msgid "0016 武器屋"
+msgstr "0016 武器店"
+
+#. ID 18
+msgid "0017 道具屋"
+msgstr "0017 道具店"
+
+#. ID 19
+msgid "0018 宿屋"
+msgstr "0018 旅馆"
+
+#. ID 20
+msgid "0019 酒場"
+msgstr "0019 酒馆"
+
+#. ID 21
+msgid "0020 教会"
+msgstr "0020 教会"
+
+#. ID 22
+msgid "0021 宿屋2F"
+msgstr "0021 旅馆2F"
+
+#. ID 23
+msgid "0022 初心者の館"
+msgstr "0022 初心者之馆"
+
+#. ID 24
+msgid "0023 初心者の館B1F"
+msgstr "0023 初心者之馆B1F"
+
+#. ID 25
+msgid "0024 初心者の館2F"
+msgstr "0024 初心者之馆2F"
+
+#. ID 26
+msgid "0025 フロア3"
+msgstr "0025 楼层三"
+
+#. ID 27
+msgid "0026 フロア3-2A"
+msgstr "0026 楼层三-2A"
+
+#. ID 28
+msgid "0027 ボス部屋"
+msgstr "0027 首领房间"
+
+#. ID 29
+msgid "0028 通路１"
+msgstr "0028 通道1"
+
+#. ID 30
+msgid "0029 通路２"
+msgstr "0029 通道2"
+
+#. ID 31
+msgid "0030 ボス部屋"
+msgstr "0030 首领房间"
+
+#. ID 32
+msgid "0031 海神の棲み処2"
+msgstr "0031 海神栖息地2"
+
+#. ID 33
+msgid "0032 海神の棲み処3"
+msgstr "0032 海神栖息地3"
+
+#. ID 34
+msgid "0033 海神の棲み処4"
+msgstr "0033 海神栖息地4"
+
+#. ID 35
+msgid "0034 拷問部屋"
+msgstr "0034 拷问室"
+
+#. ID 36
+msgid "0035 TestMap"
+msgstr "0035 测试地图"
+
+#. ID 37
+msgid "0036 首都アバロソ"
+msgstr "0036 首都阿巴罗索"
+
+#. ID 38
+msgid "0037 し○むら"
+msgstr "0037 志○村"
+
+#. ID 39
+msgid "0038 ボス戦後"
+msgstr "0038 首领战后"
+
+#. ID 40
+msgid "0039 蛇の森"
+msgstr "0039 蛇之森"
+
+#. ID 41
+msgid "0040 蛇の森2"
+msgstr "0040 蛇之森2"
+
+#. ID 42
+msgid "0041 蛇の森3"
+msgstr "0041 蛇之森3"
+
+#. ID 43
+msgid "0042 蛇の森4"
+msgstr "0042 蛇之森4"
+
+#. ID 44
+msgid "0043 蟲毒の迷宮"
+msgstr "0043 虫毒迷宫"
+
+#. ID 45
+msgid "0044 スウォーム"
+msgstr "0044 虫群"
+
+#. ID 46
+msgid "0045 落下地点"
+msgstr "0045 坠落地点"
+
+#. ID 47
+msgid "0046 ↓"
+msgstr "0046 ↓"
+
+#. ID 48
+msgid "0047 →"
+msgstr "0047 →"
+
+#. ID 49
+msgid "0048 ←"
+msgstr "0048 ←"
+
+#. ID 50
+msgid "0049 ←"
+msgstr "0049 ←"
+
+#. ID 51
+msgid "0050 →"
+msgstr "0050 →"
+
+#. ID 52
+msgid "0051 →"
+msgstr "0051 →"
+
+#. ID 53
+msgid "0052 →"
+msgstr "0052 →"
+
+#. ID 54
+msgid "0053 ↑"
+msgstr "0053 ↑"
+
+#. ID 55
+msgid "0054 ←"
+msgstr "0054 ←"
+
+#. ID 56
+msgid "0055 ↓"
+msgstr "0055 ↓"
+
+#. ID 57
+msgid "0056 ↑"
+msgstr "0056 ↑"
+
+#. ID 58
+msgid "0057 ↓"
+msgstr "0057 ↓"
+
+#. ID 59
+msgid "0058 ↑"
+msgstr "0058 ↑"
+
+#. ID 60
+msgid "0059 ←"
+msgstr "0059 ←"
+
+#. ID 61
+msgid "0060 ↑"
+msgstr "0060 ↑"
+
+#. ID 62
+msgid "0061 ボス部屋手前"
+msgstr "0061 首领房间前"
+
+#. ID 63
+msgid "0062 ボス部屋"
+msgstr "0062 首领房间"
+
+#. ID 64
+msgid "0063 隠し部屋"
+msgstr "0063 隐藏房间"
+
+#. ID 65
+msgid "0064 中ボス部屋"
+msgstr "0064 中级首领房间"
+
+#. ID 66
+msgid "0065 クラゲEND"
+msgstr "0065 水母END"
+
+#. ID 67
+msgid "0066 西塔地下C"
+msgstr "0066 西塔地下C"
+
+#. ID 68
+msgid "0067 処刑塔"
+msgstr "0067 处刑塔"
+
+#. ID 69
+msgid "0068 西塔1F6"
+msgstr "0068 西塔1层6"
+
+#. ID 70
+msgid "0069 西塔地下A"
+msgstr "0069 西塔地下A"
+
+#. ID 71
+msgid "0070 西塔地下B"
+msgstr "0070 西塔地下B"
+
+#. ID 72
+msgid "0071 西塔2F"
+msgstr "0071 西塔2层"
+
+#. ID 73
+msgid "0072 塔の中の塔3-4F"
+msgstr "0072 塔中之塔3-4层"
+
+#. ID 74
+msgid "0073 東塔1F"
+msgstr "0073 东塔1层"
+
+#. ID 75
+msgid "0074 東塔2F"
+msgstr "0074 东塔2层"
+
+#. ID 76
+msgid "0075 西塔4F"
+msgstr "0075 西塔4层"
+
+#. ID 77
+msgid "0076 東塔4F"
+msgstr "0076 东塔4层"
+
+#. ID 78
+msgid "0077 東塔外観6-7F"
+msgstr "0077 东塔外观6-7层"
+
+#. ID 79
+msgid "0078 東塔地下A"
+msgstr "0078 东塔地下A"
+
+#. ID 80
+msgid "0079 東塔地下B"
+msgstr "0079 东塔地下B"
+
+#. ID 81
+msgid "0080 ｱﾊﾞﾛｿ武器防具屋"
+msgstr "0080 阿巴罗索武器防具店"
+
+#. ID 82
+msgid "0081 ｱﾊﾞﾛｿ宿屋"
+msgstr "0081 阿巴罗索旅馆"
+
+#. ID 83
+msgid "0082 東塔地下C"
+msgstr "0082 东塔地下C"
+
+#. ID 84
+msgid "0083 ｱﾊﾞﾛｿ道具屋"
+msgstr "0083 阿巴罗索道具店"
+
+#. ID 85
+msgid "0084 魔法ギルド1-2F"
+msgstr "0084 魔法公会1-2层"
+
+#. ID 86
+msgid "0085 ｱﾊﾞﾛｿ酒場"
+msgstr "0085 阿巴罗索酒馆"
+
+#. ID 87
+msgid "0086 東塔3FA"
+msgstr "0086 东塔3层A"
+
+#. ID 88
+msgid "0087 東塔3FB"
+msgstr "0087 东塔3层B"
+
+#. ID 89
+msgid "0088 東塔3FC"
+msgstr "0088 东塔3层C"
+
+#. ID 90
+msgid "0089 ｱﾊﾞﾛｿ酒場バイト中"
+msgstr "0089 阿巴罗索酒馆兼职中"
+
+#. ID 91
+msgid "0090 東塔5F"
+msgstr "0090 东塔5层"
+
+#. ID 92
+msgid "0091 西塔5F"
+msgstr "0091 西塔5层"
+
+#. ID 93
+msgid "0092 西塔外観6-7F"
+msgstr "0092 西塔外观6-7层"
+
+#. ID 94
+msgid "0093 アビリティ空間"
+msgstr "0093 能力空间"
+
+#. ID 95
+msgid "0094 闘技場"
+msgstr "0094 斗技场"
+
+#. ID 96
+msgid "0095 西塔3F"
+msgstr "0095 西塔3层"
+
+#. ID 97
+msgid "0096 プール"
+msgstr "0096 泳池"
+
+#. ID 98
+msgid "0097 ブラッドプディング"
+msgstr "0097 血布丁"
+
+#. ID 99
+msgid "0098 お立ち台"
+msgstr "0098 高台舞台"
+
+#. ID 100
+msgid "0099 オクトマンモス"
+msgstr "0099 章鱼猛犸"
+
+#. ID 101
+msgid "0100 バリア"
+msgstr "0100 屏障"
+
+#. ID 102
+msgid "0101 モルボルブロス"
+msgstr "0101 魔界花兄弟"
+
+#. ID 103
+msgid "0102 マンティスレディ"
+msgstr "0102 螳螂女士"
+
+#. ID 104
+msgid "0103 地下への通路2"
+msgstr "0103 通往地下的通道2"
+
+#. ID 105
+msgid "0104 アリの巣1"
+msgstr "0104 蚁巢1"
+
+#. ID 106
+msgid "0105 フロア3中ボス"
+msgstr "0105 楼层三中级首领"
+
+#. ID 107
+msgid "0106 フロアチラシ"
+msgstr "0106 楼层传单"
+
+#. ID 108
+msgid "0107 フロア3-2B"
+msgstr "0107 楼层三-2B"
+
+#. ID 109
+msgid "0108 通路３"
+msgstr "0108 通道3"
+
+#. ID 110
+msgid "0109 遺跡前"
+msgstr "0109 遗迹前"
+
+#. ID 111
+msgid "0110 モルボル前"
+msgstr "0110 魔界花前"
+
+#. ID 112
+msgid "0111 メイジ部屋"
+msgstr "0111 法师房间"
+
+#. ID 113
+msgid "0112 通路１－２"
+msgstr "0112 通道1－2"
+
+#. ID 114
+msgid "0113 通路１－３"
+msgstr "0113 通道1－3"
+
+#. ID 115
+msgid "0114 海中"
+msgstr "0114 海中"
+
+#. ID 116
+msgid "0115 ドワーフの大ﾄﾝﾈﾙ"
+msgstr "0115 矮人大隧道"
+
+#. ID 117
+msgid "0116 大ﾄﾝﾈﾙ1-1"
+msgstr "0116 大隧道1-1"
+
+#. ID 118
+msgid "0117 大ﾄﾝﾈﾙ1-3"
+msgstr "0117 大隧道1-3"
+
+#. ID 119
+msgid "0118 ピアス"
+msgstr "0118 环"
+
+#. ID 120
+msgid "0119 フロア１－２"
+msgstr "0119 楼层一－2"
+
+#. ID 121
+msgid "0120 フロア２－２"
+msgstr "0120 楼层二－2"
+
+#. ID 122
+msgid "0121 フロア３－１"
+msgstr "0121 楼层三－1"
+
+#. ID 123
+msgid "0122 フロア３－２"
+msgstr "0122 楼层三－2"
+
+#. ID 124
+msgid "0123 監禁中 (END兼用)"
+msgstr "0123 监禁中 (END兼用)"
+
+#. ID 125
+msgid "0124 フロア２－３"
+msgstr "0124 楼层二－3"
+
+#. ID 126
+msgid "0125 フロア２－４"
+msgstr "0125 楼层二－4"
+
+#. ID 127
+msgid "0126 フロア２－５"
+msgstr "0126 楼层二－5"
+
+#. ID 128
+msgid "0127 フロア３－３"
+msgstr "0127 楼层三－3"
+
+#. ID 129
+msgid "0128 フロア３－２"
+msgstr "0128 楼层三－2"
+
+#. ID 130
+msgid "0129 フロア２－６"
+msgstr "0129 楼层二－6"
+
+#. ID 131
+msgid "0130 フロア３-0"
+msgstr "0130 楼层三-0"
+
+#. ID 132
+msgid "0131 フロア３－００"
+msgstr "0131 楼层三－00"
+
+#. ID 133
+msgid "0132 大ﾄﾝﾈﾙ1-2"
+msgstr "0132 大隧道1-2"
+
+#. ID 134
+msgid "0133 胃袋"
+msgstr "0133 胃袋"
+
+#. ID 135
+msgid "0134 EX_耐久"
+msgstr "0134 EX_耐久"
+
+#. ID 136
+msgid "0135 お立ち台"
+msgstr "0135 高台舞台"
+
+#. ID 137
+msgid "0136 地雷原"
+msgstr "0136 地雷区"
+
+#. ID 138
+msgid "0137 ｼｭﾚﾃﾞｨﾝｶﾞｰのPC"
+msgstr "0137 薛定谔的PC"
+
+#. ID 139
+msgid "0138 クラーケンバイオ"
+msgstr "0138 克拉肯生化体"
+
+#. ID 140
+msgid "0139 青いカンバス"
+msgstr "0139 蓝色画布"
+
+#. ID 141
+msgid "0140 フリーバトル"
+msgstr "0140 自由战斗"
+
+#. ID 142
+msgid "0141 ドッペル"
+msgstr "0141 二重身"
+
+#. ID 143
+msgid "0142 クイルスルグ"
+msgstr "0142 奎尔斯鲁格"
+
+#. ID 144
+msgid "0143 迷宮庭園"
+msgstr "0143 迷宫庭园"
+
+#. ID 145
+msgid "0144 地下への通路1"
+msgstr "0144 通往地下的通道1"
+
+#. ID 146
+msgid "0145 ↑↓"
+msgstr "0145 ↑↓"
+
+#. ID 147
+msgid "0146 イカフロア"
+msgstr "0146 乌贼楼层"
+
+#. ID 148
+msgid "0147 地下への通路1宝"
+msgstr "0147 通往地下的通道1宝物"
+
+#. ID 149
+msgid "0148 悪魔の店"
+msgstr "0148 恶魔商店"
+
+#. ID 150
+msgid "0149 シェルター"
+msgstr "0149 避难所"
+
+#. ID 151
+msgid "0150 落ちている"
+msgstr "0150 掉落着"
+
+#. ID 152
+msgid "0151 つぎへすすむ"
+msgstr "0151 前往下一步"
+
+#. ID 153
+msgid "0152 ↓"
+msgstr "0152 ↓"
+
+#. ID 154
+msgid "0153 つぎへつぎへすすむ"
+msgstr "0153 不断前往下一步"
+
+#. ID 155
+msgid "0154 苗床エンド"
+msgstr "0154 苗床结局"
+
+#. ID 156
+msgid "0155 フロア3-1"
+msgstr "0155 楼层3-1"
+
+#. ID 157
+msgid "0156 フロア３－0２"
+msgstr "0156 楼层3－02"
+
+#. ID 158
+msgid "0157 フロア妖花"
+msgstr "0157 妖花层"
+
+#. ID 159
+msgid "0158 大ﾄﾝﾈﾙ1-3-3"
+msgstr "0158 大隧道1-3-3"
+
+#. ID 160
+msgid "0159 フロア２－１"
+msgstr "0159 楼层2－1"
+
+#. ID 161
+msgid "0160 フロア2部屋"
+msgstr "0160 楼层2房间"
+
+#. ID 162
+msgid "0161 スライムの巣"
+msgstr "0161 史莱姆巢穴"
+
+#. ID 163
+msgid "0162 スライムの巣にて"
+msgstr "0162 在史莱姆巢穴"
+
+#. ID 164
+msgid "0163 地下への通路3"
+msgstr "0163 通往地下的通道3"
+
+#. ID 165
+msgid "0164 地下への通路4"
+msgstr "0164 通往地下的通道4"
+
+#. ID 166
+msgid "0165 妖花川"
+msgstr "0165 妖花川"
+
+#. ID 167
+msgid "0166 ブラッドルート"
+msgstr "0166 血路"
+
+#. ID 168
+msgid "0167 らみあの巣"
+msgstr "0167 拉米亚巢穴"
+
+#. ID 169
+msgid "0168 1F通路"
+msgstr "0168 1F通道"
+
+#. ID 170
+msgid "0169 1F-B1F通路西"
+msgstr "0169 1F-B1F通道西"
+
+#. ID 171
+msgid "0170 部屋"
+msgstr "0170 房间"
+
+#. ID 172
+msgid "0171 焼却炉"
+msgstr "0171 焚烧炉"
+
+#. ID 173
+msgid "0172 3-3ころころ"
+msgstr "0172 3-3滚动"
+
+#. ID 174
+msgid "0173 3-4ころころ2"
+msgstr "0173 3-4滚动2"
+
+#. ID 175
+msgid "0174 ショートカット"
+msgstr "0174 捷径"
+
+#. ID 176
+msgid "0175 ショートカット2"
+msgstr "0175 捷径2"
+
+#. ID 177
+msgid "0176 遺跡"
+msgstr "0176 遗迹"
+
+#. ID 178
+msgid "0177 初心者D受付"
+msgstr "0177 新手D接待处"
+
+#. ID 179
+msgid "0178 初心者D広間"
+msgstr "0178 新手D大厅"
+
+#. ID 180
+msgid "0179 初心者D部屋1"
+msgstr "0179 新手D房间1"
+
+#. ID 181
+msgid "0180 初心者D部屋2"
+msgstr "0180 新手D房间2"
+
+#. ID 182
+msgid "0181 初心者D部屋3"
+msgstr "0181 新手D房间3"
+
+#. ID 183
+msgid "0182 初心者D部屋5"
+msgstr "0182 新手D房间5"
+
+#. ID 184
+msgid "0183 初心者D部屋4"
+msgstr "0183 新手D房间4"
+
+#. ID 185
+msgid "0184 初心者D部屋6"
+msgstr "0184 新手D房间6"
+
+#. ID 186
+msgid "0185 初心者D部屋7"
+msgstr "0185 新手D房间7"
+
+#. ID 187
+msgid "0186 裏通り"
+msgstr "0186 后巷"
+
+#. ID 188
+msgid "0187 B1F通路西"
+msgstr "0187 B1F通道西"
+
+#. ID 189
+msgid "0188 B1F赤水晶"
+msgstr "0188 B1F红水晶"
+
+#. ID 190
+msgid "0189 ろうごくEND"
+msgstr "0189 牢狱结局"
+
+#. ID 191
+msgid "0190 おたから部屋"
+msgstr "0190 宝物房间"
+
+#. ID 192
+msgid "0191 アリの巣1-0"
+msgstr "0191 蚁巢1-0"
+
+#. ID 193
+msgid "0192 共通行き止まり宝"
+msgstr "0192 共用死路宝物"
+
+#. ID 194
+msgid "0193 行き止まり1"
+msgstr "0193 死路1"
+
+#. ID 195
+msgid "0194 アリの巣1-1"
+msgstr "0194 蚁巢1-1"
+
+#. ID 196
+msgid "0195 近くの森"
+msgstr "0195 附近的森林"
+
+#. ID 197
+msgid "0196 近くの森2"
+msgstr "0196 附近的森林2"
+
+#. ID 198
+msgid "0197 近くの森3"
+msgstr "0197 附近的森林3"
+
+#. ID 199
+msgid "0198 近くの森-ゴブリン"
+msgstr "0198 附近的森林-哥布林"
+
+#. ID 200
+msgid "0199 ゴブリンの巣"
+msgstr "0199 哥布林巢穴"
+
+#. ID 201
+msgid "0200 女の子館2F"
+msgstr "0200 少女馆2F"
+
+#. ID 202
+msgid "0201 内部"
+msgstr "0201 内部"
+
+#. ID 203
+msgid "0202 女の子館3F"
+msgstr "0202 少女馆3F"
+
+#. ID 204
+msgid "0203 汎用右通路"
+msgstr "0203 通用右通道"
+
+#. ID 205
+msgid "0204 女の子館部屋"
+msgstr "0204 少女馆房间"
+
+#. ID 206
+msgid "0205 女の子館部屋"
+msgstr "0205 少女馆房间"
+
+#. ID 207
+msgid "0206 女の子館"
+msgstr "0206 少女馆"
+
+#. ID 208
+msgid "0207 汎用左通路"
+msgstr "0207 通用左通道"
+
+#. ID 209
+msgid "0208 1F食堂"
+msgstr "0208 1F食堂"
+
+#. ID 210
+msgid "0209 1F右通路"
+msgstr "0209 1F右通道"
+
+#. ID 211
+msgid "0210 1F部屋"
+msgstr "0210 1F房间"
+
+#. ID 212
+msgid "0211 2F図書室"
+msgstr "0211 2F图书室"
+
+#. ID 213
+msgid "0212 裏通り沼"
+msgstr "0212 后巷沼泽"
+
+#. ID 214
+msgid "0213 下水道"
+msgstr "0213 下水道"
+
+#. ID 215
+msgid "0214 下水道2"
+msgstr "0214 下水道2"
+
+#. ID 216
+msgid "0215 下水道3"
+msgstr "0215 下水道3"
+
+#. ID 217
+msgid "0216 (はぐれ研究員4)"
+msgstr "0216 (流浪研究员4)"
+
+#. ID 218
+msgid "0217 魔法ギルド3-4F"
+msgstr "0217 魔法公会3-4F"
+
+#. ID 219
+msgid "0218 ゴブリンEND"
+msgstr "0218 哥布林结局"
+
+#. ID 220
+msgid "0219 メイデンルーム"
+msgstr "0219 少女房间"
+
+#. ID 221
+msgid "0220 古代の試練場"
+msgstr "0220 古代试炼场"
+
+#. ID 222
+msgid "0221 古試練1"
+msgstr "0221 古试炼1"
+
+#. ID 223
+msgid "0222 古試練中継"
+msgstr "0222 古试炼中继"
+
+#. ID 224
+msgid "0223 古試練2"
+msgstr "0223 古试炼2"
+
+#. ID 225
+msgid "0224 拷問END"
+msgstr "0224 拷问结局"
+
+#. ID 226
+msgid "0225"
+msgstr "0225"
+
+#. ID 227
+msgid "0226"
+msgstr "0226"
+
+#. ID 228
+msgid "0227"
+msgstr "0227"
+
+#. ID 229
+msgid "0228"
+msgstr "0228"
+
+#. ID 230
+msgid "0229"
+msgstr "0229"
+
+#. ID 231
+msgid "0230 忘れられた邸宅"
+msgstr "0230 被遗忘的宅邸"
+
+#. ID 232
+msgid "0231 邸宅への道"
+msgstr "0231 通往宅邸的道路"
+
+#. ID 233
+msgid "0232 滝壺"
+msgstr "0232 瀑布潭"
+
+#. ID 234
+msgid "0233 暗い森"
+msgstr "0233 黑暗森林"
+
+#. ID 235
+msgid "0234 並木道"
+msgstr "0234 林荫道"
+
+#. ID 236
+msgid "0235 邸宅裏側"
+msgstr "0235 宅邸后侧"
+
+#. ID 237
+msgid "0236 邸宅正面"
+msgstr "0236 宅邸正面"
+
+#. ID 238
+msgid "0237 玄関"
+msgstr "0237 玄关"
+
+#. ID 239
+msgid "0238 玄関西廊下"
+msgstr "0238 玄关西走廊"
+
+#. ID 240
+msgid "0239 玄関西部屋1"
+msgstr "0239 玄关西房间1"
+
+#. ID 241
+msgid "0240 玄関西部屋2"
+msgstr "0240 玄关西房间2"
+
+#. ID 242
+msgid "0241 玄関西部屋3"
+msgstr "0241 玄关西房间3"
+
+#. ID 243
+msgid "0242 西廊下"
+msgstr "0242 西走廊"
+
+#. ID 244
+msgid "0243 邸宅西部屋1"
+msgstr "0243 宅邸西房间1"
+
+#. ID 245
+msgid "0244 邸宅西部屋2"
+msgstr "0244 宅邸西房间2"
+
+#. ID 246
+msgid "0245 邸宅西部屋3"
+msgstr "0245 宅邸西房间3"
+
+#. ID 247
+msgid "0246 邸宅西部屋4"
+msgstr "0246 宅邸西房间4"
+
+#. ID 248
+msgid "0247 邸宅西部屋5"
+msgstr "0247 宅邸西房间5"
+
+#. ID 249
+msgid "0248 邸宅西部屋6"
+msgstr "0248 宅邸西房间6"
+
+#. ID 250
+msgid "0249 邸宅西部屋7"
+msgstr "0249 宅邸西房间7"
+
+#. ID 251
+msgid "0250 邸宅西部屋8"
+msgstr "0250 宅邸西房间8"
+
+#. ID 252
+msgid "0251 西出入口"
+msgstr "0251 西出入口"
+
+#. ID 253
+msgid "0252 西待機室"
+msgstr "0252 西待机室"
+
+#. ID 254
+msgid "0253 西倉庫"
+msgstr "0253 西仓库"
+
+#. ID 255
+msgid "0254 西医務室"
+msgstr "0254 西医务室"
+
+#. ID 256
+msgid "0255 西階段"
+msgstr "0255 西楼梯"
+
+#. ID 257
+msgid "0256 西廊下空き部屋"
+msgstr "0256 西走廊空房间"
+
+#. ID 258
+msgid "0257 中央廊下"
+msgstr "0257 中央走廊"
+
+#. ID 259
+msgid "0258 食堂"
+msgstr "0258 食堂"
+
+#. ID 260
+msgid "0259 メイド部屋"
+msgstr "0259 女仆房间"
+
+#. ID 261
+msgid "0260 キッチン"
+msgstr "0260 厨房"
+
+#. ID 262
+msgid "0261 応接間"
+msgstr "0261 会客室"
+
+#. ID 263
+msgid "0262 北廊下"
+msgstr "0262 北走廊"
+
+#. ID 264
+msgid "0263 執務室"
+msgstr "0263 执务室"
+
+#. ID 265
+msgid "0264 邸宅エンド"
+msgstr "0264 宅邸结局"
+
+#. ID 266
+msgid "0265 北西小部屋"
+msgstr "0265 西北小房间"
+
+#. ID 267
+msgid "0266 北東小部屋"
+msgstr "0266 东北小房间"
+
+#. ID 268
+msgid "0267 玄関東廊下"
+msgstr "0267 玄关东走廊"
+
+#. ID 269
+msgid "0268 玄関東部屋1"
+msgstr "0268 玄关东房间1"
+
+#. ID 270
+msgid "0269 玄関東部屋2"
+msgstr "0269 玄关东房间2"
+
+#. ID 271
+msgid "0270 玄関東部屋3"
+msgstr "0270 玄关东房间3"
+
+#. ID 272
+msgid "0271 東廊下"
+msgstr "0271 东走廊"
+
+#. ID 273
+msgid "0272 邸宅東部屋1"
+msgstr "0272 宅邸东房间1"
+
+#. ID 274
+msgid "0273 邸宅東部屋2"
+msgstr "0273 宅邸东房间2"
+
+#. ID 275
+msgid "0274 邸宅東部屋3"
+msgstr "0274 宅邸东房间3"
+
+#. ID 276
+msgid "0275 邸宅東部屋4"
+msgstr "0275 宅邸东房间4"
+
+#. ID 277
+msgid "0276 邸宅東部屋5"
+msgstr "0276 宅邸东房间5"
+
+#. ID 278
+msgid "0277 邸宅東部屋6"
+msgstr "0277 宅邸东房间6"
+
+#. ID 279
+msgid "0278 邸宅東部屋7"
+msgstr "0278 宅邸东房间7"
+
+#. ID 280
+msgid "0279 邸宅東部屋8"
+msgstr "0279 宅邸东房间8"
+
+#. ID 281
+msgid "0280 東出入口"
+msgstr "0280 东出入口"
+
+#. ID 282
+msgid "0281 東待機室"
+msgstr "0281 东待机室"
+
+#. ID 283
+msgid "0282 東倉庫"
+msgstr "0282 东仓库"
+
+#. ID 284
+msgid "0283 東医務室"
+msgstr "0283 东医务室"
+
+#. ID 285
+msgid "0284 東階段"
+msgstr "0284 东楼梯"
+
+#. ID 286
+msgid "0285 東廊下空き部屋"
+msgstr "0285 东走廊空房间"
+
+#. ID 287
+msgid "0286 各種スイッチ設定"
+msgstr "0286 各种开关设置"
+
+#. ID 288
+msgid "0287 奴隷都市シュライク"
+msgstr "0287 奴隶都市施莱克"
+
+#. ID 289
+msgid "0288 生科研入口"
+msgstr "0288 生科研入口"
+
+#. ID 290
+msgid "0289 生命科学研究所"
+msgstr "0289 生命科学研究所"
+
+#. ID 291
+msgid "0290 ダイジョーブ博士"
+msgstr "0290 没问题博士"
+
+#. ID 292
+msgid "0291 遺伝工学研究室"
+msgstr "0291 遗传工程研究室"
+
+#. ID 293
+msgid "0292 植物生理学研究室"
+msgstr "0292 植物生理学研究室"
+
+#. ID 294
+msgid "0293 応用昆虫学研究室"
+msgstr "0293 应用昆虫学研究室"
+
+#. ID 295
+msgid "0294 サンプル保管室"
+msgstr "0294 样本保管室"
+
+#. ID 296
+msgid "0295 生命工学研究室"
+msgstr "0295 生命工学研究室"
+
+#. ID 297
+msgid "0296 ｼｭﾗｲｸ空家"
+msgstr "0296 施莱克空屋"
+
+#. ID 298
+msgid "0297 ｼｭﾗｲｸ宿屋"
+msgstr "0297 什莱克旅馆"
+
+#. ID 299
+msgid "0298 ｼｭﾗｲｸ宿屋2F"
+msgstr "0298 什莱克旅馆2F"
+
+#. ID 300
+msgid "0299 ｼｭﾗｲｸ酒場"
+msgstr "0299 施莱克酒馆"
+
+#. ID 301
+msgid "0300 ｼｭﾗｲｸ民家A"
+msgstr "0300 施莱克民居A"
+
+#. ID 302
+msgid "0301 民家A2"
+msgstr "0301 民居A2"
+
+#. ID 303
+msgid "0302 ｼｭﾗｲｸ民家B"
+msgstr "0302 施莱克民居B"
+
+#. ID 304
+msgid "0303 民家B2"
+msgstr "0303 民居B2"
+
+#. ID 305
+msgid "0304 ｼｭﾗｲｸ民家C"
+msgstr "0304 施莱克民居C"
+
+#. ID 306
+msgid "0305 民家C2"
+msgstr "0305 民居C2"
+
+#. ID 307
+msgid "0306 ｼｭﾗｲｸ兵舎"
+msgstr "0306 施莱克兵营"
+
+#. ID 308
+msgid "0307 ｼｭﾗｲｸ公衆浴場"
+msgstr "0307 施莱克公共浴场"
+
+#. ID 309
+msgid "0308 村はずれの公園"
+msgstr "0308 村郊公园"
+
+#. ID 310
+msgid "0309 シアター1"
+msgstr "0309 剧场1"
+
+#. ID 311
+msgid "0310 シアター2"
+msgstr "0310 剧场2"
+
+#. ID 312
+msgid "0311 裏シアター1"
+msgstr "0311 里剧场1"
+
+#. ID 313
+msgid "0312 廃墟メルベル"
+msgstr "0312 废墟梅尔贝尔"
+
+#. ID 314
+msgid "0313 兵舎"
+msgstr "0313 兵营"
+
+#. ID 315
+msgid "0314 民家A"
+msgstr "0314 民居A"
+
+#. ID 316
+msgid "0315 民家B"
+msgstr "0315 民居B"
+
+#. ID 317
+msgid "0316 魔法ギルド"
+msgstr "0316 魔法公会"
+
+#. ID 318
+msgid "0317 魔法ギルド2階"
+msgstr "0317 魔法公会2楼"
+
+#. ID 319
+msgid "0318 魔法実験所"
+msgstr "0318 魔法实验所"
+
+#. ID 320
+msgid "0319 民家C"
+msgstr "0319 民居C"
+
+#. ID 321
+msgid "0320 民家D"
+msgstr "0320 民居D"
+
+#. ID 322
+msgid "0321 民家E"
+msgstr "0321 民居E"
+
+#. ID 323
+msgid "0322 教会"
+msgstr "0322 教会"
+
+#. ID 324
+msgid "0323 兵舎2"
+msgstr "0323 兵营2"
+
+#. ID 325
+msgid "0324 宿屋"
+msgstr "0324 旅馆"
+
+#. ID 326
+msgid "0325 メイド酒場"
+msgstr "0325 女仆酒馆"
+
+#. ID 327
+msgid "0326 井戸"
+msgstr "0326 水井"
+
+#. ID 328
+msgid "0327 民家F"
+msgstr "0327 民居F"
+
+#. ID 329
+msgid "0328 武具屋"
+msgstr "0328 武具店"
+
+#. ID 330
+msgid "0329 廃墟メルベル-BOSS-"
+msgstr "0329 废墟梅尔贝尔（首领）"
+
+#. ID 331
+msgid "0330 自慰奴隷END"
+msgstr "0330 自慰奴隶结局"
+
+#. ID 332
+msgid "0331 性処理メイドEND"
+msgstr "0331 性处理女仆结局"
+
+#. ID 333
+msgid "0332 生科研D B3F入口"
+msgstr "0332 生科研D B3F入口"
+
+#. ID 334
+msgid "0333 B2F M"
+msgstr "0333 B2F M"
+
+#. ID 335
+msgid "0334 B2F L"
+msgstr "0334 B2F L"
+
+#. ID 336
+msgid "0335 B2F R"
+msgstr "0335 B2F R"
+
+#. ID 337
+msgid "0336 B3F"
+msgstr "0336 B3F"
+
+#. ID 338
+msgid "0337 B4F"
+msgstr "0337 B4F"
+
+#. ID 339
+msgid "0338 B5F"
+msgstr "0338 B5F"
+
+#. ID 340
+msgid "0339 B3F 上"
+msgstr "0339 B3F 上"
+
+#. ID 341
+msgid "0340 B1F"
+msgstr "0340 B1F"
+
+#. ID 342
+msgid "0341 B1F"
+msgstr "0341 B1F"
+
+#. ID 343
+msgid "0342 広場"
+msgstr "0342 广场"
+
+#. ID 344
+msgid "0343 2F L"
+msgstr "0343 2F L"
+
+#. ID 345
+msgid "0344 2F R"
+msgstr "0344 2F R"
+
+#. ID 346
+msgid "0345 3F"
+msgstr "0345 3F"
+
+#. ID 347
+msgid "0346 3F 出口"
+msgstr "0346 3F 出口"
+
+#. ID 348
+msgid "0347 3F Boss"
+msgstr "0347 3F首领"
+
+#. ID 349
+msgid "0348 拷問部屋B1F"
+msgstr "0348 拷问室B1F"
+
+#. ID 350
+msgid "0349 シュバルツメドヘン"
+msgstr "0349 施瓦茨梅登"
+
+#. ID 351
+msgid "0350 表カジノ"
+msgstr "0350 表赌场"
+
+#. ID 352
+msgid "0351 ｼｭﾊﾞﾙﾂ大階段"
+msgstr "0351 施瓦茨大楼梯"
+
+#. ID 353
+msgid "0352 ｼｭﾊﾞﾙﾂ酒場"
+msgstr "0352 施瓦茨酒馆"
+
+#. ID 354
+msgid "0353 ツール屋改め質屋"
+msgstr "0353 工具店改当铺"
+
+#. ID 355
+msgid "0354 ｼｭﾊﾞﾙﾂ1F宿屋"
+msgstr "0354 施瓦茨1F旅馆"
+
+#. ID 356
+msgid "0355 B2F闇カジノ"
+msgstr "0355 B2F暗黑赌场"
+
+#. ID 357
+msgid "0356 ｼｭﾊﾞﾙﾂ管理施設"
+msgstr "0356 施瓦茨管理设施"
+
+#. ID 358
+msgid "0357 ｼｭﾊﾞﾙﾂ小屋"
+msgstr "0357 施瓦茨小屋"
+
+#. ID 359
+msgid "0358 ｼｭﾊﾞﾙﾂ塔"
+msgstr "0358 施瓦茨塔"
+
+#. ID 360
+msgid "0359 ｼｭﾊﾞﾙﾂ水路"
+msgstr "0359 施瓦茨水路"
+
+#. ID 361
+msgid "0360 ｼｭﾊﾞﾙﾂB1F娼館"
+msgstr "0360 施瓦茨B1F娼馆"
+
+#. ID 362
+msgid "0361 B3F監獄"
+msgstr "0361 B3F监狱"
+
+#. ID 363
+msgid "0362 蜂に襲われた村"
+msgstr "0362 被蜂袭击的村庄"
+
+#. ID 364
+msgid "0363 宿屋"
+msgstr "0363 旅馆"
+
+#. ID 365
+msgid "0364 酒場"
+msgstr "0364 酒馆"
+
+#. ID 366
+msgid "0365 教会"
+msgstr "0365 教会"
+
+#. ID 367
+msgid "0366 民家"
+msgstr "0366 民居"
+
+#. ID 368
+msgid "0367 蜂の森"
+msgstr "0367 蜂之森"
+
+#. ID 369
+msgid "0368 蜂の巣"
+msgstr "0368 蜂巢"
+
+#. ID 370
+msgid "0369 蜂の巣END"
+msgstr "0369 蜂巢结局"
+
+#. ID 371
+msgid "0370 蜂に襲われた村(西)"
+msgstr "0370 被蜂袭击的村庄(西)"
+
+#. ID 372
+msgid "0371 洗脳都市メルベル"
+msgstr "0371 洗脑都市梅尔贝尔"
+
+#. ID 373
+msgid "0372 兵舎"
+msgstr "0372 兵营"
+
+#. ID 374
+msgid "0373 民家"
+msgstr "0373 民居"
+
+#. ID 375
+msgid "0374 2F観客席"
+msgstr "0374 2F观众席"
+
+#. ID 376
+msgid "0375 魔法ギルド"
+msgstr "0375 魔法公会"
+
+#. ID 377
+msgid "0376 魔法ギルド2階"
+msgstr "0376 魔法公会2楼"
+
+#. ID 378
+msgid "0377 魔法実験所"
+msgstr "0377 魔法实验所"
+
+#. ID 379
+msgid "0378 (レムリア)"
+msgstr "0378 (雷姆利亚)"
+
+#. ID 380
+msgid "0379 腐海通路1"
+msgstr "0379 腐海通道1"
+
+#. ID 381
+msgid "0380 腐海ノースレイ"
+msgstr "0380 腐海诺斯雷"
+
+#. ID 382
+msgid "0381 教会"
+msgstr "0381 教会"
+
+#. ID 383
+msgid "0382 兵舎2"
+msgstr "0382 兵营2"
+
+#. ID 384
+msgid "0383 宿屋"
+msgstr "0383 旅馆"
+
+#. ID 385
+msgid "0384 メイド酒場"
+msgstr "0384 女仆酒馆"
+
+#. ID 386
+msgid "0385 井戸"
+msgstr "0385 水井"
+
+#. ID 387
+msgid "0386 動物"
+msgstr "0386 动物"
+
+#. ID 388
+msgid "0387 武具屋"
+msgstr "0387 武具店"
+
+#. ID 389
+msgid "0388 王の間"
+msgstr "0388 王之间"
+
+#. ID 390
+msgid "0389 牢屋"
+msgstr "0389 牢房"
+
+#. ID 391
+msgid "0390 宿屋2F"
+msgstr "0390 旅馆2F"
+
+#. ID 392
+msgid "0391 愛の部屋"
+msgstr "0391 爱之房间"
+
+#. ID 393
+msgid "0392 魔城ガッデム"
+msgstr "0392 魔城加德姆"
+
+#. ID 394
+msgid "0393 ガッデム01"
+msgstr "0393 加德姆01"
+
+#. ID 395
+msgid "0394 ガッデム02"
+msgstr "0394 加德姆02"
+
+#. ID 396
+msgid "0395 ガッデム03"
+msgstr "0395 加德姆03"
+
+#. ID 397
+msgid "0396 ガッデム中央"
+msgstr "0396 加德姆中央"
+
+#. ID 398
+msgid "0397 ガッデム通路左02"
+msgstr "0397 加德姆通道左02"
+
+#. ID 399
+msgid "0398 ガッデム倉庫左01"
+msgstr "0398 加德姆仓库左01"
+
+#. ID 400
+msgid "0399 ガッデム倉庫左02"
+msgstr "0399 加德姆仓库左02"
+
+#. ID 401
+msgid "0400 ガッデム通路右02"
+msgstr "0400 加德姆通道右02"
+
+#. ID 402
+msgid "0401 ガッデム倉庫右01"
+msgstr "0401 加德姆仓库右01"
+
+#. ID 403
+msgid "0402 ガッデム倉庫右02"
+msgstr "0402 加德姆仓库右02"
+
+#. ID 404
+msgid "0403 ガッデム04"
+msgstr "0403 加德姆04"
+
+#. ID 405
+msgid "0404 ガッデム通路左03"
+msgstr "0404 加德姆通道左03"
+
+#. ID 406
+msgid "0405 ガッデム倉庫左03"
+msgstr "0405 加德姆仓库左03"
+
+#. ID 407
+msgid "0406 ガッデム通路右03"
+msgstr "0406 加德姆通道右03"
+
+#. ID 408
+msgid "0407 ガッデム倉庫右03"
+msgstr "0407 加德姆仓库右03"
+
+#. ID 409
+msgid "0408 ガッデム05"
+msgstr "0408 加德姆05"
+
+#. ID 410
+msgid "0409 ガッデム倉庫左05"
+msgstr "0409 加德姆仓库左05"
+
+#. ID 411
+msgid "0410 ガッデム倉庫右05"
+msgstr "0410 加德姆仓库右05"
+
+#. ID 412
+msgid "0411 ガッデム06"
+msgstr "0411 加德姆06"
+
+#. ID 413
+msgid "0412 ガッデム07"
+msgstr "0412 加德姆07"
+
+#. ID 414
+msgid "0413 ガッデム08"
+msgstr "0413 加德姆08"
+
+#. ID 415
+msgid "0414 ガッデム部屋01"
+msgstr "0414 加德姆房间01"
+
+#. ID 416
+msgid "0415 ガッデム09"
+msgstr "0415 加德姆09"
+
+#. ID 417
+msgid "0416 ガッデム部屋02"
+msgstr "0416 加德姆房间02"
+
+#. ID 418
+msgid "0417 ガッデム10"
+msgstr "0417 加德姆10"
+
+#. ID 419
+msgid "0418 ガッデム部屋03"
+msgstr "0418 加德姆房间03"
+
+#. ID 420
+msgid "0419 ガッデム11"
+msgstr "0419 加德姆11"
+
+#. ID 421
+msgid "0420 ガッデム部屋04"
+msgstr "0420 加德姆房间04"
+
+#. ID 422
+msgid "0421 ガッデム12"
+msgstr "0421 加德姆12"
+
+#. ID 423
+msgid "0422 ガッデム13"
+msgstr "0422 加德姆13"
+
+#. ID 424
+msgid "0423 ガッデム14"
+msgstr "0423 加德姆14"
+
+#. ID 425
+msgid "0424 あやしい寺院"
+msgstr "0424 可疑寺院"
+
+#. ID 426
+msgid "0425 寺院1"
+msgstr "0425 寺院1"
+
+#. ID 427
+msgid "0426 寺院2"
+msgstr "0426 寺院2"
+
+#. ID 428
+msgid "0427 寺院3"
+msgstr "0427 寺院3"
+
+#. ID 429
+msgid "0428 寺院4"
+msgstr "0428 寺院4"
+
+#. ID 430
+msgid "0429 寺院5"
+msgstr "0429 寺院5"
+
+#. ID 431
+msgid "0430 寺院6"
+msgstr "0430 寺院6"
+
+#. ID 432
+msgid "0431 寺院7"
+msgstr "0431 寺院7"
+
+#. ID 433
+msgid "0432 寺院8"
+msgstr "0432 寺院8"
+
+#. ID 434
+msgid "0433 寺院7-A1"
+msgstr "0433 寺院7-A1"
+
+#. ID 435
+msgid "0434 寺院7-B1"
+msgstr "0434 寺院7-B1"
+
+#. ID 436
+msgid "0435 寺院7-A2"
+msgstr "0435 寺院7-A2"
+
+#. ID 437
+msgid "0436 寺院7-A3"
+msgstr "0436 寺院7-A3"
+
+#. ID 438
+msgid "0437 寺院7-A4"
+msgstr "0437 寺院7-A4"
+
+#. ID 439
+msgid "0438 寺院7-B2"
+msgstr "0438 寺院7-B2"
+
+#. ID 440
+msgid "0439 寺院7-B3"
+msgstr "0439 寺院7-B3"
+
+#. ID 441
+msgid "0440 寺院7-B4"
+msgstr "0440 寺院7-B4"
+
+#. ID 442
+msgid "0441 ｼｭﾊﾞﾙﾂ宿屋隠し地下"
+msgstr "0441 施瓦茨旅馆隐藏地下室"
+
+#. ID 443
+msgid "0442 腐海通路2"
+msgstr "0442 腐海通道2"
+
+#. ID 444
+msgid "0443 レムリア奴隷市場"
+msgstr "0443 雷姆利亚奴隶市场"
+
+#. ID 445
+msgid "0444 (レムリア)"
+msgstr "0444 (雷姆利亚)"
+
+#. ID 446
+msgid "0445 (レムリア)"
+msgstr "0445 (雷姆利亚)"
+
+#. ID 447
+msgid "0446 (レムリア)"
+msgstr "0446 (雷姆利亚)"
+
+#. ID 448
+msgid "0447 (レムリア)"
+msgstr "0447 (雷姆利亚)"
+
+#. ID 449
+msgid "0448 (レムリア)"
+msgstr "0448 (雷姆利亚)"
+
+#. ID 450
+msgid "0449 廃工場"
+msgstr "0449 废弃工厂"
+
+#. ID 451
+msgid "0450 廃工1F倉庫"
+msgstr "0450 废弃工厂一层仓库"
+
+#. ID 452
+msgid "0451 廃工1F通路"
+msgstr "0451 废弃工厂一层通道"
+
+#. ID 453
+msgid "0452 廃工B1F下水A"
+msgstr "0452 废弃工厂地下一层下水A"
+
+#. ID 454
+msgid "0453 廃工B1F下水B"
+msgstr "0453 废弃工厂地下一层下水B"
+
+#. ID 455
+msgid "0454 廃工1F製造ﾌﾟﾗﾝﾄA"
+msgstr "0454 废弃工厂一层制造车间A"
+
+#. ID 456
+msgid "0455 廃工1F製造ﾌﾟﾗﾝﾄB"
+msgstr "0455 废弃工厂一层制造车间B"
+
+#. ID 457
+msgid "0456 廃工1F製造ﾌﾟﾗﾝﾄC"
+msgstr "0456 废弃工厂一层制造车间C"
+
+#. ID 458
+msgid "0457 廃工1F製造ﾌﾟﾗﾝﾄD"
+msgstr "0457 废弃工厂一层制造车间D"
+
+#. ID 459
+msgid "0458 廃工B1F下水C"
+msgstr "0458 废弃工厂地下一层下水C"
+
+#. ID 460
+msgid "0459 廃工B1F通路"
+msgstr "0459 废弃工厂地下一层通道"
+
+#. ID 461
+msgid "0460 廃工通路&ｴﾚﾍﾞｰﾀｰ"
+msgstr "0460 废弃工厂通道&电梯"
+
+#. ID 462
+msgid "0461 廃工B2F"
+msgstr "0461 废弃工厂地下二层"
+
+#. ID 463
+msgid "0462 廃工B2F通路"
+msgstr "0462 废弃工厂地下二层通道"
+
+#. ID 464
+msgid "0463 廃工B2F焼却炉"
+msgstr "0463 废弃工厂地下二层焚烧炉"
+
+#. ID 465
+msgid "0464 廃工B2F小部屋"
+msgstr "0464 废弃工厂地下二层小房间"
+
+#. ID 466
+msgid "0465 廃工場予約"
+msgstr "0465 废弃工厂预约"
+
+#. ID 467
+msgid "0466"
+msgstr "0466"
+
+#. ID 468
+msgid "0467"
+msgstr "0467"
+
+#. ID 469
+msgid "0468"
+msgstr "0468"
+
+#. ID 470
+msgid "0469"
+msgstr "0469"
+
+#. ID 471
+msgid "0470"
+msgstr "0470"
+
+#. ID 472
+msgid "0471 塔中央1F小部屋"
+msgstr "0471 塔中央一层小房间"
+
+#. ID 473
+msgid "0472 塔中央1F"
+msgstr "0472 塔中央一层"
+
+#. ID 474
+msgid "0473 地下連絡通路"
+msgstr "0473 地下联络通道"
+
+#. ID 475
+msgid "0474 蠢く洞窟"
+msgstr "0474 蠕动洞窟"
+
+#. ID 476
+msgid "0475 蠢く洞窟_1F"
+msgstr "0475 蠕动洞窟_一层"
+
+#. ID 477
+msgid "0476 蠢く洞窟_B1F"
+msgstr "0476 蠕动洞窟_地下一层"
+
+#. ID 478
+msgid "0477 蠢く洞窟_1F分岐"
+msgstr "0477 蠕动洞窟_一层岔路"
+
+#. ID 479
+msgid "0478 蠢く洞窟_B2F"
+msgstr "0478 蠕动洞窟_地下二层"
+
+#. ID 480
+msgid "0479 蠢く洞窟_B3F"
+msgstr "0479 蠕动洞窟_地下三层"
+
+#. ID 481
+msgid "0480 蠢く洞窟_ボス"
+msgstr "0480 蠕动洞窟_首领"
+
+#. ID 482
+msgid "0481 蠢く洞窟_消化END"
+msgstr "0481 蠕动洞窟_消化结局"
+
+#. ID 483
+msgid "0482 蠢く洞窟_1F_A1"
+msgstr "0482 蠕动洞窟_一层_A1"
+
+#. ID 484
+msgid "0483 蠢く洞窟_1F_A2"
+msgstr "0483 蠕动洞窟_一层_A2"
+
+#. ID 485
+msgid "0484 蠢く洞窟_1F_A3"
+msgstr "0484 蠕动洞窟_一层_A3"
+
+#. ID 486
+msgid "0485 蠢く洞窟_1F_A4"
+msgstr "0485 蠕动洞窟_一层_A4"
+
+#. ID 487
+msgid "0486 蠢く洞窟_1F_A5"
+msgstr "0486 蠕动洞窟_一层_A5"
+
+#. ID 488
+msgid "0487 大ﾄﾝﾈﾙ1-4"
+msgstr "0487 大隧道1-4"
+
+#. ID 489
+msgid "0488 大ﾄﾝﾈﾙ1-5 没"
+msgstr "0488 大隧道1-5 未采用"
+
+#. ID 490
+msgid "0489 大ﾄﾝﾈﾙ2-1"
+msgstr "0489 大隧道2-1"
+
+#. ID 491
+msgid "0490 大ﾄﾝﾈﾙ2-2"
+msgstr "0490 大隧道2-2"
+
+#. ID 492
+msgid "0491 大ﾄﾝﾈﾙ2-3"
+msgstr "0491 大隧道2-3"
+
+#. ID 493
+msgid "0492 大ﾄﾝﾈﾙ2-4"
+msgstr "0492 大隧道2-4"
+
+#. ID 494
+msgid "0493 ピアスエンド"
+msgstr "0493 穿刺终局"
+
+#. ID 495
+msgid "0494 人間牧場"
+msgstr "0494 人类牧场"
+
+#. ID 496
+msgid "0495 人間牧場厩舎"
+msgstr "0495 人类牧场畜舍"
+
+#. ID 497
+msgid "0496 ミュロンド死霊館"
+msgstr "0496 米隆德死灵馆"
+
+#. ID 498
+msgid "0497 アグ○スハウス"
+msgstr "0497 阿格○斯之馆"
+
+#. ID 499
+msgid "0498 アグ○スハウス2階"
+msgstr "0498 阿格○斯之馆二楼"
+
+#. ID 500
+msgid "0499 アグ○スハウス地下"
+msgstr "0499 阿格○斯之馆地下"
+
+#. ID 501
+msgid "0500 控え室"
+msgstr "0500 等候室"
+
+#. ID 502
+msgid "0501 墓場"
+msgstr "0501 墓地"
+
+#. ID 503
+msgid "0502 アバロソ地下道1"
+msgstr "0502 阿巴罗索地下道1"
+
+#. ID 504
+msgid "0503 アバロソ地下道2"
+msgstr "0503 阿巴罗索地下道2"
+
+#. ID 505
+msgid "0504 誘拐団アジト"
+msgstr "0504 绑架团据点"
+
+#. ID 506
+msgid "0505 誘拐団アジトB"
+msgstr "0505 绑架团据点B"
+
+#. ID 507
+msgid "0506 誘拐団アジトC"
+msgstr "0506 绑架团据点C"
+
+#. ID 508
+msgid "0507 腐海バーガー2"
+msgstr "0507 腐海汉堡2"
+
+#. ID 509
+msgid "0508 城 謁見の間"
+msgstr "0508 城堡谒见之间"
+
+#. ID 510
+msgid "0509 七英雄のアジト"
+msgstr "0509 七英雄的据点"
+
+#. ID 511
+msgid "0510 フロア1"
+msgstr "0510 楼层一"
+
+#. ID 512
+msgid "0511 フロアEX"
+msgstr "0511 楼层EX"
+
+#. ID 513
+msgid "0512 フロア2"
+msgstr "0512 楼层二"
+
+#. ID 514
+msgid "0513 フロア3"
+msgstr "0513 楼层三"
+
+#. ID 515
+msgid "0514 VSレイクバッグ"
+msgstr "0514 VS雷克巴格"
+
+#. ID 516
+msgid "0515 支配の塔"
+msgstr "0515 支配之塔"
+
+#. ID 517
+msgid "0516 七英雄の間"
+msgstr "0516 七英雄之间"
+
+#. ID 518
+msgid "0517 七英雄奥"
+msgstr "0517 七英雄深处"
+
+#. ID 519
+msgid "0518 腐海通路4"
+msgstr "0518 腐海通道4"
+
+#. ID 520
+msgid "0519 VS討伐隊"
+msgstr "0519 VS讨伐队"
+
+#. ID 521
+msgid "0520 アバ戦城下"
+msgstr "0520 阿巴战城下"
+
+#. ID 522
+msgid "0521 世界征服END"
+msgstr "0521 世界征服结局"
+
+#. ID 523
+msgid "0522 アバ戦玉座"
+msgstr "0522 阿巴战王座"
+
+#. ID 524
+msgid "0523 アバ戦城内"
+msgstr "0523 阿巴战城内"
+
+#. ID 525
+msgid "0524 七英雄軍"
+msgstr "0524 七英雄军"
+
+#. ID 526
+msgid "0525 ハッテン場"
+msgstr "0525 猎艳场"
+
+#. ID 527
+msgid "0526 ペットショップ"
+msgstr "0526 宠物店"
+
+#. ID 528
+msgid "0527 ｱﾊﾞﾛｿ自宅"
+msgstr "0527 阿巴罗索自宅"
+
+#. ID 529
+msgid "0528 役場"
+msgstr "0528 镇公所"
+
+#. ID 530
+msgid "0529 牢獄"
+msgstr "0529 牢狱"
+
+#. ID 531
+msgid "0530 教会"
+msgstr "0530 教会"
+
+#. ID 532
+msgid "0531 公爵館"
+msgstr "0531 公爵馆"
+
+#. ID 533
+msgid "0532 (公爵館)"
+msgstr "0532 (公爵馆)"
+
+#. ID 534
+msgid "0533 (公爵館)"
+msgstr "0533 (公爵馆)"
+
+#. ID 535
+msgid "0534 (公爵館)"
+msgstr "0534 (公爵馆)"
+
+#. ID 536
+msgid "0535 天界"
+msgstr "0535 天界"
+
+#. ID 537
+msgid "0536 腐海メイデン場"
+msgstr "0536 腐海少女场"
+
+#. ID 538
+msgid "0537 ペットエンド"
+msgstr "0537 佩特恩德"
+
+#. ID 539
+msgid "0538 新ウネ様ハウス"
+msgstr "0538 新乌涅大人公馆"
+
+#. ID 540
+msgid "0539 出産部屋"
+msgstr "0539 分娩室"
+
+#. ID 541
+msgid "0540 ドリー○クラブ"
+msgstr "0540 多莉○俱乐部"
+
+#. ID 542
+msgid "0541 VIP室"
+msgstr "0541 VIP室"
+
+#. ID 543
+msgid "0542 控え室"
+msgstr "0542 等候室"
+
+#. ID 544
+msgid "0543 HENTAIスクール"
+msgstr "0543 变态学园"
+
+#. ID 545
+msgid "0544 1-2F廊下"
+msgstr "0544 1-2F走廊"
+
+#. ID 546
+msgid "0545 職員室"
+msgstr "0545 职员室"
+
+#. ID 547
+msgid "0546 1F教室"
+msgstr "0546 1F教室"
+
+#. ID 548
+msgid "0547 試験室"
+msgstr "0547 考试室"
+
+#. ID 549
+msgid "0548 校長室"
+msgstr "0548 校长室"
+
+#. ID 550
+msgid "0549 3F廊下"
+msgstr "0549 3F走廊"
+
+#. ID 551
+msgid "0550 2F教室"
+msgstr "0550 2F教室"
+
+#. ID 552
+msgid "0551 教師End"
+msgstr "0551 教师End"
+
+#. ID 553
+msgid "0552 ホームルーム"
+msgstr "0552 班级教室"
+
+#. ID 554
+msgid "0553 学生寮"
+msgstr "0553 学生宿舍"
+
+#. ID 555
+msgid "0554 捕虜室"
+msgstr "0554 俘虏室"
+
+#. ID 556
+msgid "0555"
+msgstr "0555"
+
+#. ID 557
+msgid "0556 トンベリ"
+msgstr "0556 冬贝利"
+
+#. ID 558
+msgid "0557制御室"
+msgstr "0557控制室"
+
+#. ID 559
+msgid "0558 ボスの間"
+msgstr "0558 首领房间"
+
+#. ID 560
+msgid "0559 slimehouse"
+msgstr "0559 史莱姆屋"
+
+#. ID 561
+msgid "0560 ごろつき"
+msgstr "0560 混混"
+
+#. ID 562
+msgid "0561 実験室１"
+msgstr "0561 实验室1"
+
+#. ID 563
+msgid "0562 新マップ・からくり"
+msgstr "0562 新地图·机关"
+
+#. ID 564
+msgid "0563 クローン実験室"
+msgstr "0563 克隆实验室"
+
+#. ID 565
+msgid "0564 バイオ室"
+msgstr "0564 生物室"
+
+#. ID 566
+msgid "0565"
+msgstr "0565"
+
+#. ID 567
+msgid "0566 ナメクジ室"
+msgstr "0566 蛞蝓室"
+
+#. ID 568
+msgid "0567 チャダルヌーク"
+msgstr "0567 查达尔努克"
+
+#. ID 569
+msgid "0568 通路"
+msgstr "0568 通道"
+
+#. ID 570
+msgid "0569 ゾンビ室"
+msgstr "0569 丧尸室"
+
+#. ID 571
+msgid "0570 魔術師の隠れ家"
+msgstr "0570 魔术师藏身处"
+
+#. ID 572
+msgid "0571 フロア1"
+msgstr "0571 楼层一"
+
+#. ID 573
+msgid "0572 隠し部屋"
+msgstr "0572 隐藏房间"
+
+#. ID 574
+msgid "0573"
+msgstr "0573"
+
+#. ID 575
+msgid "0574 フロア2"
+msgstr "0574 楼层二"
+
+#. ID 576
+msgid "0575 被検体置き場"
+msgstr "0575 受试体放置场"
+
+#. ID 577
+msgid "0576 別館へ"
+msgstr "0576 前往别馆"
+
+#. ID 578
+msgid "0577 別館"
+msgstr "0577 别馆"
+
+#. ID 579
+msgid "0578 小部屋"
+msgstr "0578 小房间"
+
+#. ID 580
+msgid "0579 実験室２"
+msgstr "0579 实验室2"
+
+#. ID 581
+msgid "0580スライム焼き殺し突破"
+msgstr "0580烧杀史莱姆突破"
+
+#. ID 582
+msgid "0581 下水路"
+msgstr "0581 下水道"
+
+#. ID 583
+msgid "0582 下水路2"
+msgstr "0582 下水道2"
+
+#. ID 584
+msgid "0583 ボス部屋前"
+msgstr "0583 首领房间前"
+
+#. ID 585
+msgid "0584 娘の部屋"
+msgstr "0584 女儿房间"
+
+#. ID 586
+msgid "0585 魔術師の家"
+msgstr "0585 魔术师的家"
+
+#. ID 587
+msgid "0586 通路"
+msgstr "0586 通道"
+
+#. ID 588
+msgid "0587 ボス娘"
+msgstr "0587 首领女儿"
+
+#. ID 589
+msgid "0588_あや山_5"
+msgstr "0588_绫山_5"
+
+#. ID 590
+msgid "0589 女主人の部屋"
+msgstr "0589 女主人房间"
+
+#. ID 591
+msgid "0590 (はぐれ研究員1)"
+msgstr "0590 (流浪研究员1)"
+
+#. ID 592
+msgid "0591 3F教室"
+msgstr "0591 3F教室"
+
+#. ID 593
+msgid "0592"
+msgstr "0592"
+
+#. ID 594
+msgid "0593 特別講義室"
+msgstr "0593 特别讲义室"
+
+#. ID 595
+msgid "0594 接待室"
+msgstr "0594 接待室"
+
+#. ID 596
+msgid "0595 浮遊大陸ラピュタ"
+msgstr "0595 浮游大陆拉普达"
+
+#. ID 597
+msgid "0596 2"
+msgstr "0596 2"
+
+#. ID 598
+msgid "0597 3"
+msgstr "0597 3"
+
+#. ID 599
+msgid "0598 4"
+msgstr "0598 4"
+
+#. ID 600
+msgid "0599 5"
+msgstr "0599 5"
+
+#. ID 601
+msgid "0600 6"
+msgstr "0600 6"
+
+#. ID 602
+msgid "0601 7"
+msgstr "0601 7"
+
+#. ID 603
+msgid "0602 8"
+msgstr "0602 8"
+
+#. ID 604
+msgid "0603 9"
+msgstr "0603 9"
+
+#. ID 605
+msgid "0604 10"
+msgstr "0604 10"
+
+#. ID 606
+msgid "0605 11"
+msgstr "0605 11"
+
+#. ID 607
+msgid "0606 12"
+msgstr "0606 12"
+
+#. ID 608
+msgid "0607 13"
+msgstr "0607 13"
+
+#. ID 609
+msgid "0608 2階"
+msgstr "0608 2楼"
+
+#. ID 610
+msgid "0609 下水場"
+msgstr "0609 下水场"
+
+#. ID 611
+msgid "0610 玉座とか"
+msgstr "0610 王座之类"
+
+#. ID 612
+msgid "0611 ②"
+msgstr "0611 ②"
+
+#. ID 613
+msgid "0612 各部屋"
+msgstr "0612 各房间"
+
+#. ID 614
+msgid "0613 悪党アジト"
+msgstr "0613 恶党巢穴"
+
+#. ID 615
+msgid "0614 ①"
+msgstr "0614 ①"
+
+#. ID 616
+msgid "0615 砦"
+msgstr "0615 堡垒"
+
+#. ID 617
+msgid "0616 ロビー"
+msgstr "0616 大厅"
+
+#. ID 618
+msgid "0617 1階"
+msgstr "0617 1楼"
+
+#. ID 619
+msgid "0618 悪のアジト"
+msgstr "0618 邪恶总部"
+
+#. ID 620
+msgid "0619"
+msgstr "0619"
+
+#. ID 621
+msgid "0620 乱交会場"
+msgstr "0620 乱交会场"
+
+#. ID 622
+msgid "0621 自室"
+msgstr "0621 自己房间"
+
+#. ID 623
+msgid "0622 レイク王宮"
+msgstr "0622 雷克王宫"
+
+#. ID 624
+msgid "0623 アバロソ陥落"
+msgstr "0623 阿巴罗索陷落"
+
+#. ID 625
+msgid "0624 自室牢獄"
+msgstr "0624 自室牢狱"
+
+#. ID 626
+msgid "0625 酒場陥落"
+msgstr "0625 酒馆陷落"
+
+#. ID 627
+msgid "0626 屋敷"
+msgstr "0626 宅邸"
+
+#. ID 628
+msgid "0627 屋敷2"
+msgstr "0627 宅邸2"
+
+#. ID 629
+msgid "0628 ｼｭﾊﾞﾙﾂ酒場2F"
+msgstr "0628 舒瓦尔茨酒馆2F"
+
+#. ID 630
+msgid "0629 テーマパーク"
+msgstr "0629 主题公园"
+
+#. ID 631
+msgid "0630 地下1階"
+msgstr "0630 地下1楼"
+
+#. ID 632
+msgid "0631 ｼｭﾊﾞﾙﾂ港への通路"
+msgstr "0631 通往舒瓦尔茨港的通道"
+
+#. ID 633
+msgid "0632 ｼｭﾊﾞﾙﾂ港"
+msgstr "0632 舒瓦尔茨港"
+
+#. ID 634
+msgid "0633"
+msgstr "0633"
+
+#. ID 635
+msgid "0634 闇カジノ"
+msgstr "0634 暗黑赌场"
+
+#. ID 636
+msgid "0635 ｼｭﾊﾞﾙﾂ宿屋通路"
+msgstr "0635 舒瓦尔茨旅馆通道"
+
+#. ID 637
+msgid "0636 地下2階(拡張)"
+msgstr "0636 地下2楼(扩展)"
+
+#. ID 638
+msgid "0637 地下3階(奴隷用)"
+msgstr "0637 地下3楼(奴隶用)"
+
+#. ID 639
+msgid "0638 スゴロク場"
+msgstr "0638 双六场"
+
+#. ID 640
+msgid "0639"
+msgstr "0639"
+
+#. ID 641
+msgid "0640 レベル1"
+msgstr "0640 等级1"
+
+#. ID 642
+msgid "0641 迷路アトラクション"
+msgstr "0641 迷宫游乐设施"
+
+#. ID 643
+msgid "0642アトラクション(未定)"
+msgstr "0642游乐设施(未定)"
+
+#. ID 644
+msgid "0643アトラクション(未定)"
+msgstr "0643游乐设施(未定)"
+
+#. ID 645
+msgid "0644アトラクション(未定)"
+msgstr "0644游乐设施(未定)"
+
+#. ID 646
+msgid "0645アトラクション(未定)"
+msgstr "0645游乐设施(未定)"
+
+#. ID 647
+msgid "0646"
+msgstr "0646"
+
+#. ID 648
+msgid "0647 脳改造実験室"
+msgstr "0647 脑改造实验室"
+
+#. ID 649
+msgid "0648 機械化開発室"
+msgstr "0648 机械化开发室"
+
+#. ID 650
+msgid "0649 ｱﾊﾞﾛｿ大人の玩具屋"
+msgstr "0649 阿巴罗索成人玩具店"
+
+#. ID 651
+msgid "0650 テストルーム1"
+msgstr "0650 测试室1"
+
+#. ID 652
+msgid "0651 絵画の間"
+msgstr "0651 绘画室"
+
+#. ID 653
+msgid "0652 広間"
+msgstr "0652 大厅"
+
+#. ID 654
+msgid "0653 処刑場"
+msgstr "0653 刑场"
+
+#. ID 655
+msgid "0654 主の部屋"
+msgstr "0654 主人房间"
+
+#. ID 656
+msgid "0655 牢獄コーナー"
+msgstr "0655 牢狱区"
+
+#. ID 657
+msgid "0656 ボス"
+msgstr "0656 首领"
+
+#. ID 658
+msgid "0657 制作所"
+msgstr "0657 制作所"
+
+#. ID 659
+msgid "0658 中ボス"
+msgstr "0658 中级首领"
+
+#. ID 660
+msgid "0659 人形広場"
+msgstr "0659 人偶广场"
+
+#. ID 661
+msgid "0660 美術館前"
+msgstr "0660 美术馆前"
+
+#. ID 662
+msgid "0661 宝部屋"
+msgstr "0661 宝物房间"
+
+#. ID 663
+msgid "0662 トイレ"
+msgstr "0662 厕所"
+
+#. ID 664
+msgid "0663 テストルーム2"
+msgstr "0663 测试室2"
+
+#. ID 665
+msgid "0664 近道"
+msgstr "0664 捷径"
+
+#. ID 666
+msgid "0665 人工転生研究室"
+msgstr "0665 人工转生研究室"
+
+#. ID 667
+msgid "0666 新エネルギー開発局"
+msgstr "0666 新能源开发局"
+
+#. ID 668
+msgid "0667 テスト破壊用"
+msgstr "0667 测试破坏用"
+
+#. ID 669
+msgid "0668 生科研D_END"
+msgstr "0668 生命科学研究D_END"
+
+#. ID 670
+msgid "0669 ⑳BOSS"
+msgstr "0669 ⑳首领"
+
+#. ID 671
+msgid "0670_パンジャンドラム"
+msgstr "0670_潘詹德拉姆"
+
+#. ID 672
+msgid "0671_ミドガルズオルム"
+msgstr "0671_米德加尔德大蛇"
+
+#. ID 673
+msgid "0672 ローラント地下監獄"
+msgstr "0672 罗兰德地下监狱"
+
+#. ID 674
+msgid "0673 地下拷問室"
+msgstr "0673 地下拷问室"
+
+#. ID 675
+msgid "0674 死刑裁判"
+msgstr "0674 死刑审判"
+
+#. ID 676
+msgid "0675 地下水路"
+msgstr "0675 地下水路"
+
+#. ID 677
+msgid "0676 拷問室"
+msgstr "0676 拷问室"
+
+#. ID 678
+msgid "0677 拘置"
+msgstr "0677 拘留"
+
+#. ID 679
+msgid "0678 階段"
+msgstr "0678 楼梯"
+
+#. ID 680
+msgid "0679 独房"
+msgstr "0679 单人牢房"
+
+#. ID 681
+msgid "0680 騎士団"
+msgstr "0680 骑士团"
+
+#. ID 682
+msgid "0681 公開処刑"
+msgstr "0681 公开处刑"
+
+#. ID 683
+msgid "0682 部屋"
+msgstr "0682 房间"
+
+#. ID 684
+msgid "0683 BOSS"
+msgstr "0683 首领"
+
+#. ID 685
+msgid "0684 ガストラ魔導遺跡"
+msgstr "0684 加斯特拉魔导遗迹"
+
+#. ID 686
+msgid "0685　"
+msgstr "0685　"
+
+#. ID 687
+msgid "0686 渡橋"
+msgstr "0686 渡桥"
+
+#. ID 688
+msgid "0687"
+msgstr "0687"
+
+#. ID 689
+msgid "0688"
+msgstr "0688"
+
+#. ID 690
+msgid "0689"
+msgstr "0689"
+
+#. ID 691
+msgid "0690 魔導遺跡-アラクネ-"
+msgstr "0690 魔导遗迹-阿剌克涅-"
+
+#. ID 692
+msgid "0691 魔導遺跡-真相-"
+msgstr "0691 魔导遗迹-真相-"
+
+#. ID 693
+msgid "0692"
+msgstr "0692"
+
+#. ID 694
+msgid "0693 魔導遺跡-エスラス-"
+msgstr "0693 魔导遗迹-艾斯拉斯-"
+
+#. ID 695
+msgid "0694 異種たちの村"
+msgstr "0694 异种之村"
+
+#. ID 696
+msgid "0695 異種村_民家"
+msgstr "0695 异种村_民宅"
+
+#. ID 697
+msgid "0696 異種村_家"
+msgstr "0696 异种村_家"
+
+#. ID 698
+msgid "0697 異種村_村長宅"
+msgstr "0697 异种村_村长宅"
+
+#. ID 699
+msgid "0698 異種村_宿屋 武器屋"
+msgstr "0698 异种村_旅馆 武器店"
+
+#. ID 700
+msgid "0699 (はぐれ研究員2)"
+msgstr "0699 (流浪研究员2)"
+
+#. ID 701
+msgid "0700 異種村_教会"
+msgstr "0700 异种村_教会"
+
+#. ID 702
+msgid "0701 罠の洞窟入口"
+msgstr "0701 陷阱洞窟入口"
+
+#. ID 703
+msgid "0702 罠の洞窟1"
+msgstr "0702 陷阱洞窟1"
+
+#. ID 704
+msgid "0703 罠の洞窟2"
+msgstr "0703 陷阱洞窟2"
+
+#. ID 705
+msgid "0704 罠の洞窟3A"
+msgstr "0704 陷阱洞窟3A"
+
+#. ID 706
+msgid "0705 罠の洞窟3B"
+msgstr "0705 陷阱洞窟3B"
+
+#. ID 707
+msgid "0706 罠の洞窟3C"
+msgstr "0706 陷阱洞窟3C"
+
+#. ID 708
+msgid "0707 罠の洞窟3D"
+msgstr "0707 陷阱洞窟3D"
+
+#. ID 709
+msgid "0708 アジト"
+msgstr "0708 据点"
+
+#. ID 710
+msgid "0709 アジト 牢獄"
+msgstr "0709 据点 牢狱"
+
+#. ID 711
+msgid "0710 末路その1"
+msgstr "0710 末路其1"
+
+#. ID 712
+msgid "0711 末路その2"
+msgstr "0711 末路其2"
+
+#. ID 713
+msgid "0712 (はぐれ研究員3)"
+msgstr "0712 (流浪研究员3)"
+
+#. ID 714
+msgid "0713"
+msgstr "0713"
+
+#. ID 715
+msgid "0714"
+msgstr "0714"
+
+#. ID 716
+msgid "0715"
+msgstr "0715"
+
+#. ID 717
+msgid "0716"
+msgstr "0716"
+
+#. ID 718
+msgid "0717"
+msgstr "0717"
+
+#. ID 719
+msgid "0718　ラピュタ-深部-"
+msgstr "0718　拉普达-深部-"
+
+#. ID 720
+msgid "0719"
+msgstr "0719"
+
+#. ID 721
+msgid "0720"
+msgstr "0720"
+
+#. ID 722
+msgid "0721"
+msgstr "0721"
+
+#. ID 723
+msgid "0722"
+msgstr "0722"
+
+#. ID 724
+msgid "0723"
+msgstr "0723"
+
+#. ID 725
+msgid "0724"
+msgstr "0724"
+
+#. ID 726
+msgid "0725"
+msgstr "0725"
+
+#. ID 727
+msgid "0726"
+msgstr "0726"
+
+#. ID 728
+msgid "0727"
+msgstr "0727"
+
+#. ID 729
+msgid "0728"
+msgstr "0728"
+
+#. ID 730
+msgid "0729"
+msgstr "0729"
+
+#. ID 731
+msgid "0730"
+msgstr "0730"
+
+#. ID 732
+msgid "0731"
+msgstr "0731"
+
+#. ID 733
+msgid "0732"
+msgstr "0732"
+
+#. ID 734
+msgid "0733"
+msgstr "0733"
+
+#. ID 735
+msgid "0734"
+msgstr "0734"
+
+#. ID 736
+msgid "0735"
+msgstr "0735"
+
+#. ID 737
+msgid "0736"
+msgstr "0736"
+
+#. ID 738
+msgid "0737 ③"
+msgstr "0737 ③"
+
+#. ID 739
+msgid "0738 ④⑯"
+msgstr "0738 ④⑯"
+
+#. ID 740
+msgid "0739 ⑤"
+msgstr "0739 ⑤"
+
+#. ID 741
+msgid "0740 ⑥"
+msgstr "0740 ⑥"
+
+#. ID 742
+msgid "0741 ⑦"
+msgstr "0741 ⑦"
+
+#. ID 743
+msgid "0742 ⑧"
+msgstr "0742 ⑧"
+
+#. ID 744
+msgid "0743 ⑨"
+msgstr "0743 ⑨"
+
+#. ID 745
+msgid "0744 ⑩"
+msgstr "0744 ⑩"
+
+#. ID 746
+msgid "0745 ⑪"
+msgstr "0745 ⑪"
+
+#. ID 747
+msgid "0746 ⑬⑭⑮"
+msgstr "0746 ⑬⑭⑮"
+
+#. ID 748
+msgid "0747 ⑰"
+msgstr "0747 ⑰"
+
+#. ID 749
+msgid "0748 ⑱⑲"
+msgstr "0748 ⑱⑲"
+
+#. ID 750
+msgid "0749 中庭"
+msgstr "0749 中庭"
+
+#. ID 751
+msgid "0750シュレディンガーの命"
+msgstr "0750薛定谔的生命"
+
+#. ID 752
+msgid "0751 カジノルーレット"
+msgstr "0751 赌场轮盘"
+
+#. ID 753
+msgid "0752 モルボル部屋"
+msgstr "0752 摩尔波尔房间"
+
+#. ID 754
+msgid "0753 East Map"
+msgstr "0753 东部地图"
+
+#. ID 755
+msgid "0754 West Map"
+msgstr "0754 西部地图"
+
+#. ID 756
+msgid "0755 Makai map"
+msgstr "0755 魔界地图"
+
+#. ID 757
+msgid "0756 WM追加用"
+msgstr "0756 WM追加用"
+
+#. ID 758
+msgid "0757 国境の霊峰-WM"
+msgstr "0757 国境灵峰-WM"
+
+#. ID 759
+msgid "0758 洞窟1"
+msgstr "0758 洞窟1"
+
+#. ID 760
+msgid "0759 洞窟2"
+msgstr "0759 洞窟2"
+
+#. ID 761
+msgid "0760 霊峰boss"
+msgstr "0760 灵峰首领"
+
+#. ID 762
+msgid "0761 国境の村"
+msgstr "0761 国境之村"
+
+#. ID 763
+msgid "0762 村内装"
+msgstr "0762 村内装饰"
+
+#. ID 764
+msgid "0763 中ボス"
+msgstr "0763 中级首领"
+
+#. ID 765
+msgid "0764 入り口"
+msgstr "0764 入口"
+
+#. ID 766
+msgid "0765 えっきょうの村"
+msgstr "0765 越境之村"
+
+#. ID 767
+msgid "0766 氷2"
+msgstr "0766 冰2"
+
+#. ID 768
+msgid "0767 氷1"
+msgstr "0767 冰1"
+
+#. ID 769
+msgid "0768 遭難"
+msgstr "0768 遇难"
+
+#. ID 770
+msgid "0769 雪女"
+msgstr "0769 雪女"
+
+#. ID 771
+msgid "0770 村～山頂"
+msgstr "0770 村庄～山顶"
+
+#. ID 772
+msgid "0771 山頂"
+msgstr "0771 山顶"
+
+#. ID 773
+msgid "0772 スロットマシン"
+msgstr "0772 老虎机"
+
+#. ID 774
+msgid "0773 スロットマシン2"
+msgstr "0773 老虎机2"
+
+#. ID 775
+msgid "0774"
+msgstr "0774"
+
+#. ID 776
+msgid "0775 通路"
+msgstr "0775 通道"
+
+#. ID 777
+msgid "0776 開発局"
+msgstr "0776 开发局"
+
+#. ID 778
+msgid "0777 局長室"
+msgstr "0777 局长室"
+
+#. ID 779
+msgid "0778 カジノ船"
+msgstr "0778 赌场船"
+
+#. ID 780
+msgid "0779 カジノ船内部"
+msgstr "0779 赌场船内部"
+
+#. ID 781
+msgid "0780 カジノ船船倉"
+msgstr "0780 赌场船船舱"
+
+#. ID 782
+msgid "0781 人喰い魂の洞窟"
+msgstr "0781 食人魂洞窟"
+
+#. ID 783
+msgid "0782 洞窟1～3層"
+msgstr "0782 洞窟1～3层"
+
+#. ID 784
+msgid "0783 洞窟4層_中ボス？"
+msgstr "0783 洞窟4层_中级首领？"
+
+#. ID 785
+msgid "0784 洞窟4層①"
+msgstr "0784 洞窟4层①"
+
+#. ID 786
+msgid "0785 洞窟4層②"
+msgstr "0785 洞窟4层②"
+
+#. ID 787
+msgid "0786 洞窟4層_ボスの間"
+msgstr "0786 洞窟4层_首领房间"
+
+#. ID 788
+msgid "0787 洞窟5層"
+msgstr "0787 洞窟5层"
+
+#. ID 789
+msgid "0788 エミリス湖"
+msgstr "0788 艾米利斯湖"
+
+#. ID 790
+msgid "0789 展望台"
+msgstr "0789 展望台"
+
+#. ID 791
+msgid "0790 B1F ゴーグ機構基地"
+msgstr "0790 地下一层 戈格机构基地"
+
+#. ID 792
+msgid "0791　B2F"
+msgstr "0791　地下二层"
+
+#. ID 793
+msgid "0792　B3F"
+msgstr "0792　地下三层"
+
+#. ID 794
+msgid "0793　B4F"
+msgstr "0793　地下四层"
+
+#. ID 795
+msgid "0794　B5F"
+msgstr "0794　地下五层"
+
+#. ID 796
+msgid "0795　B6F"
+msgstr "0795　地下六层"
+
+#. ID 797
+msgid "0796"
+msgstr "0796"
+
+#. ID 798
+msgid "0797"
+msgstr "0797"
+
+#. ID 799
+msgid "0798"
+msgstr "0798"
+
+#. ID 800
+msgid "0799"
+msgstr "0799"
+
+#. ID 801
+msgid "0800"
+msgstr "0800"
+
+#. ID 802
+msgid "0801 国境の霊峰-EM"
+msgstr "0801 国境灵峰-EM"
+
+#. ID 803
+msgid "0802"
+msgstr "0802"
+
+#. ID 804
+msgid "0803"
+msgstr "0803"
+
+#. ID 805
+msgid "0804"
+msgstr "0804"
+
+#. ID 806
+msgid "0805"
+msgstr "0805"
+
+#. ID 807
+msgid "0806"
+msgstr "0806"
+
+#. ID 808
+msgid "0807"
+msgstr "0807"
+
+#. ID 809
+msgid "0808"
+msgstr "0808"
+
+#. ID 810
+msgid "0809 公衆便所"
+msgstr "0809 公共厕所"
+
+#. ID 811
+msgid "0810 ヒドゥン"
+msgstr "0810 希顿"
+
+#. ID 812
+msgid "0811 ﾋﾄﾞｩﾝ武器防具屋"
+msgstr "0811 希顿武器防具店"
+
+#. ID 813
+msgid "0812 ﾋﾄﾞｩﾝ酒場"
+msgstr "0812 希顿酒馆"
+
+#. ID 814
+msgid "0813 ﾋﾄﾞｩﾝ宿屋"
+msgstr "0813 希顿旅馆"
+
+#. ID 815
+msgid "0814 ﾋﾄﾞｩﾝ孤児院"
+msgstr "0814 希顿孤儿院"
+
+#. ID 816
+msgid "0815 孤児院地下"
+msgstr "0815 孤儿院地下"
+
+#. ID 817
+msgid "0816 ライオネル思想教会"
+msgstr "0816 莱昂内尔思想教会"
+
+#. ID 818
+msgid "0817 ﾋﾄﾞｩﾝ教会"
+msgstr "0817 希顿教会"
+
+#. ID 819
+msgid "0818 民家"
+msgstr "0818 民居"
+
+#. ID 820
+msgid "0819 道具屋"
+msgstr "0819 道具店"
+
+#. ID 821
+msgid "0820 宿屋"
+msgstr "0820 旅馆"
+
+#. ID 822
+msgid "0821 思想教会"
+msgstr "0821 思想教会"
+
+#. ID 823
+msgid "0822 ライオネル執政室"
+msgstr "0822 莱昂内尔执政室"
+
+#. ID 824
+msgid "0823 教育所入口"
+msgstr "0823 教育所入口"
+
+#. ID 825
+msgid "0824 教育所"
+msgstr "0824 教育所"
+
+#. ID 826
+msgid "0825 再教育END"
+msgstr "0825 再教育结局"
+
+#. ID 827
+msgid "0826 収容所入口"
+msgstr "0826 收容所入口"
+
+#. ID 828
+msgid "0827 収容所"
+msgstr "0827 收容所"
+
+#. ID 829
+msgid "0828 通路"
+msgstr "0828 通道"
+
+#. ID 830
+msgid "0829 領主自室"
+msgstr "0829 领主自室"
+
+#. ID 831
+msgid "0830 領主真相"
+msgstr "0830 领主真相"
+
+#. ID 832
+msgid "0831 ﾋﾄﾞｩﾝ銭湯"
+msgstr "0831 希顿澡堂"
+
+#. ID 833
+msgid "0832　B7F"
+msgstr "0832　地下七层"
+
+#. ID 834
+msgid "0833　B8F"
+msgstr "0833　地下八层"
+
+#. ID 835
+msgid "0834　B9F"
+msgstr "0834　地下九层"
+
+#. ID 836
+msgid "0835  B10F"
+msgstr "0835  地下十层"
+
+#. ID 837
+msgid "0836　BOSS"
+msgstr "0836　首领"
+
+#. ID 838
+msgid "0837 幸福処刑END"
+msgstr "0837 幸福处刑结局"
+
+#. ID 839
+msgid "0838 外観"
+msgstr "0838 外观"
+
+#. ID 840
+msgid "0839 1F①"
+msgstr "0839 1F①"
+
+#. ID 841
+msgid "0840 1F②"
+msgstr "0840 1F②"
+
+#. ID 842
+msgid "0841 B1F"
+msgstr "0841 地下一层"
+
+#. ID 843
+msgid "0842 B2F"
+msgstr "0842 地下二层"
+
+#. ID 844
+msgid "0843 腐海通路3"
+msgstr "0843 腐海通道3"
+
+#. ID 845
+msgid "0844 腐海蜂の巣"
+msgstr "0844 腐海蜂巢"
+
+#. ID 846
+msgid "0845 腐海花畑1"
+msgstr "0845 腐海花田1"
+
+#. ID 847
+msgid "0846 腐海バリア"
+msgstr "0846 腐海屏障"
+
+#. ID 848
+msgid "0847 腐海バーガー1"
+msgstr "0847 腐海汉堡1"
+
+#. ID 849
+msgid "0848 腐海花畑2"
+msgstr "0848 腐海花田2"
+
+#. ID 850
+msgid "0849 腐海中間地点"
+msgstr "0849 腐海中间地点"
+
+#. ID 851
+msgid "0850 腐海妖花川"
+msgstr "0850 腐海妖花川"
+
+#. ID 852
+msgid "0851 腐海A-1"
+msgstr "0851 腐海A-1"
+
+#. ID 853
+msgid "0852 腐海B-1"
+msgstr "0852 腐海B-1"
+
+#. ID 854
+msgid "0853 腐海A-2"
+msgstr "0853 腐海A-2"
+
+#. ID 855
+msgid "0854 腐海B-2"
+msgstr "0854 腐海B-2"
+
+#. ID 856
+msgid "0855 腐海A-3"
+msgstr "0855 腐海A-3"
+
+#. ID 857
+msgid "0856 腐海B-3"
+msgstr "0856 腐海B-3"
+
+#. ID 858
+msgid "0857 腐海ゴール"
+msgstr "0857 腐海终点"
+
+#. ID 859
+msgid "0858 幻想空間"
+msgstr "0858 幻想空间"
+
+#. ID 860
+msgid "0859 ドクノーの滝"
+msgstr "0859 多克诺瀑布"
+
+#. ID 861
+msgid "0860 SHOP 崖っぷち"
+msgstr "0860 SHOP 悬崖边"
+
+#. ID 862
+msgid "0861 崖の０"
+msgstr "0861 悬崖0"
+
+#. ID 863
+msgid "0862 崖の１"
+msgstr "0862 悬崖1"
+
+#. ID 864
+msgid "0863 崖の２"
+msgstr "0863 悬崖2"
+
+#. ID 865
+msgid "0864 崖の３"
+msgstr "0864 悬崖3"
+
+#. ID 866
+msgid "0865 崖の４"
+msgstr "0865 悬崖4"
+
+#. ID 867
+msgid "0866 崖の５"
+msgstr "0866 悬崖5"
+
+#. ID 868
+msgid "0867 隠し部屋"
+msgstr "0867 隐藏房间"
+
+#. ID 869
+msgid "0868 湿原の１"
+msgstr "0868 湿原1"
+
+#. ID 870
+msgid "0869 湿原の２"
+msgstr "0869 湿原2"
+
+#. ID 871
+msgid "0870 湿原の３"
+msgstr "0870 湿原3"
+
+#. ID 872
+msgid "0871 湿原の４"
+msgstr "0871 湿原4"
+
+#. ID 873
+msgid "0872 湿原の５"
+msgstr "0872 湿原5"
+
+#. ID 874
+msgid "0873 湿原の６"
+msgstr "0873 湿原6"
+
+#. ID 875
+msgid "0874 湿原の７"
+msgstr "0874 湿原7"
+
+#. ID 876
+msgid "0875 滝の上"
+msgstr "0875 瀑布上方"
+
+#. ID 877
+msgid "0876 滝"
+msgstr "0876 瀑布"
+
+#. ID 878
+msgid "0877 浮島"
+msgstr "0877 浮岛"
+
+#. ID 879
+msgid "0878 おまけ"
+msgstr "0878 附赠"
+
+#. ID 880
+msgid "0879 ヒドゥン地下病棟"
+msgstr "0879 希登地下病栋"
+
+#. ID 881
+msgid "0880 旅賊の森～(空MAP)"
+msgstr "0880 旅贼之森～(空MAP)"
+
+#. ID 882
+msgid "0881 森の１"
+msgstr "0881 森林1"
+
+#. ID 883
+msgid "0882 森の２"
+msgstr "0882 森林2"
+
+#. ID 884
+msgid "0883 森の３"
+msgstr "0883 森林3"
+
+#. ID 885
+msgid "0884 森の４"
+msgstr "0884 森林4"
+
+#. ID 886
+msgid "0885 森の５"
+msgstr "0885 森林5"
+
+#. ID 887
+msgid "0886 森の６Ａ"
+msgstr "0886 森林6A"
+
+#. ID 888
+msgid "0887 森の６Ｂ"
+msgstr "0887 森林6B"
+
+#. ID 889
+msgid "0888"
+msgstr "0888"
+
+#. ID 890
+msgid "0889"
+msgstr "0889"
+
+#. ID 891
+msgid "0890"
+msgstr "0890"
+
+#. ID 892
+msgid "0891"
+msgstr "0891"
+
+#. ID 893
+msgid "0892"
+msgstr "0892"
+
+#. ID 894
+msgid "0893"
+msgstr "0893"
+
+#. ID 895
+msgid "0894"
+msgstr "0894"
+
+#. ID 896
+msgid "0895"
+msgstr "0895"
+
+#. ID 897
+msgid "0896"
+msgstr "0896"
+
+#. ID 898
+msgid "0897"
+msgstr "0897"
+
+#. ID 899
+msgid "0898"
+msgstr "0898"
+
+#. ID 900
+msgid "0899"
+msgstr "0899"
+
+#. ID 901
+msgid "0900"
+msgstr "0900"
+
+#. ID 902
+msgid "0901 ヒドゥン魔法屋"
+msgstr "0901 希登魔法屋"
+
+#. ID 903
+msgid "0902 回想部屋"
+msgstr "0902 回想房间"
+
+#. ID 904
+msgid "0903 裏通り酒場"
+msgstr "0903 后巷酒馆"
+
+#. ID 905
+msgid "MAP0904売春裏通り"
+msgstr "MAP0904卖淫后巷"
+
+#. ID 906
+msgid "MAP0905売春屋内"
+msgstr "MAP0905卖淫屋内"
+
+#. ID 907
+msgid "0906 大ﾄﾝﾈﾙ2-5"
+msgstr "0906 大隧道2-5"
+
+#. ID 908
+msgid "0907 大ﾄﾝﾈﾙ2-6"
+msgstr "0907 大隧道2-6"
+
+#. ID 909
+msgid "0908 大ﾄﾝﾈﾙ2-7"
+msgstr "0908 大隧道2-7"
+
+#. ID 910
+msgid "0909 大ﾄﾝﾈﾙBOSS"
+msgstr "0909 大隧道首领"
+
+#. ID 911
+msgid "0910 大ﾄﾝﾈﾙ1-1-1"
+msgstr "0910 大隧道1-1-1"
+
+#. ID 912
+msgid "0911 大ﾄﾝﾈﾙ2-6-1"
+msgstr "0911 大隧道2-6-1"
+
+#. ID 913
+msgid "0912 大ﾄﾝﾈﾙ1-3-2"
+msgstr "0912 大隧道1-3-2"
+
+#. ID 914
+msgid "0913 大ﾄﾝﾈﾙ1-1-2"
+msgstr "0913 大隧道1-1-2"
+
+#. ID 915
+msgid "0914 大ﾄﾝﾈﾙ2-2-1"
+msgstr "0914 大隧道2-2-1"
+
+#. ID 916
+msgid "0915 大ﾄﾝﾈﾙ1-5-1"
+msgstr "0915 大隧道1-5-1"
+
+#. ID 917
+msgid "0916 大ﾄﾝﾈﾙ1-5-2"
+msgstr "0916 大隧道1-5-2"
+
+#. ID 918
+msgid "0917 大ﾄﾝﾈﾙ2-2-2"
+msgstr "0917 大隧道2-2-2"
+
+#. ID 919
+msgid "0918 大ﾄﾝﾈﾙ2-2-2a"
+msgstr "0918 大隧道2-2-2a"
+
+#. ID 920
+msgid "0919 ゴンドラ1"
+msgstr "0919 贡多拉1"
+
+#. ID 921
+msgid "0920 ゴンドラ2"
+msgstr "0920 贡多拉2"
+
+#. ID 922
+msgid "0921 大ﾄﾝﾈﾙ中BOSS"
+msgstr "0921 大隧道中首领"
+
+#. ID 923
+msgid "0922 大ﾄﾝﾈﾙ中BOSS_2"
+msgstr "0922 大隧道中首领_2"
+
+#. ID 924
+msgid "0923 大ﾄﾝﾈﾙ2-4"
+msgstr "0923 大隧道2-4"
+
+#. ID 925
+msgid "0924 古代の図書館"
+msgstr "0924 古代图书馆"
+
+#. ID 926
+msgid "0925 図書館入口"
+msgstr "0925 图书馆入口"
+
+#. ID 927
+msgid "0926 図書室第1層"
+msgstr "0926 图书室第1层"
+
+#. ID 928
+msgid "0927 図書室第2層"
+msgstr "0927 图书室第2层"
+
+#. ID 929
+msgid "0928 図書室第3層/鏡の間1"
+msgstr "0928 图书室第3层/镜之间1"
+
+#. ID 930
+msgid "0929 図書室第4層/鏡の間2"
+msgstr "0929 图书室第4层/镜之间2"
+
+#. ID 931
+msgid "0930 図書室第4層内部1"
+msgstr "0930 图书室第4层内部1"
+
+#. ID 932
+msgid "0931 図書室第4層内部2"
+msgstr "0931 图书室第4层内部2"
+
+#. ID 933
+msgid "0932 図書室第4層内部3"
+msgstr "0932 图书室第4层内部3"
+
+#. ID 934
+msgid "0933 隠し部屋"
+msgstr "0933 隐藏房间"
+
+#. ID 935
+msgid "0934 図書室第5層"
+msgstr "0934 图书室第5层"
+
+#. ID 936
+msgid "0935 中ボス部屋"
+msgstr "0935 中层首领房间"
+
+#. ID 937
+msgid "0936 中ボス部屋 裏"
+msgstr "0936 中层首领房间 里侧"
+
+#. ID 938
+msgid "0937 本棚"
+msgstr "0937 书架"
+
+#. ID 939
+msgid "0938 本棚の中"
+msgstr "0938 书架中"
+
+#. ID 940
+msgid "0939 本の中"
+msgstr "0939 书中"
+
+#. ID 941
+msgid "0940 触手箱"
+msgstr "0940 触手箱"
+
+#. ID 942
+msgid "0941 悪魔の壺"
+msgstr "0941 恶魔壶"
+
+#. ID 943
+msgid "0942 スライムボックス"
+msgstr "0942 史莱姆箱"
+
+#. ID 944
+msgid "0943 ハンガー置き場"
+msgstr "0943 衣架放置处"
+
+#. ID 945
+msgid "0944 忍び寄る影"
+msgstr "0944 悄悄逼近的影子"
+
+#. ID 946
+msgid "0945 材木置き場"
+msgstr "0945 木材放置处"
+
+#. ID 947
+msgid "0946 本の部屋"
+msgstr "0946 书之房间"
+
+#. ID 948
+msgid "0947 鏡の間3"
+msgstr "0947 镜之间3"
+
+#. ID 949
+msgid "0948 大鏡"
+msgstr "0948 大镜子"
+
+#. ID 950
+msgid "0949 ボスの部屋"
+msgstr "0949 首领房间"
+
+#. ID 951
+msgid "0950 豚小屋"
+msgstr "0950 猪圈"
+
+#. ID 952
+msgid "0951 エステリア"
+msgstr "0951 艾斯特利亚"
+
+#. ID 953
+msgid "0952 酒場"
+msgstr "0952 酒馆"
+
+#. ID 954
+msgid "0953 専門店"
+msgstr "0953 专卖店"
+
+#. ID 955
+msgid "0954 宿屋"
+msgstr "0954 旅馆"
+
+#. ID 956
+msgid "0955 兵舎"
+msgstr "0955 兵营"
+
+#. ID 957
+msgid "0956 魔法ギルド"
+msgstr "0956 魔法公会"
+
+#. ID 958
+msgid "0957 教会"
+msgstr "0957 教会"
+
+#. ID 959
+msgid "0958 セラピー"
+msgstr "0958 治疗"
+
+#. ID 960
+msgid "0959 伯爵邸"
+msgstr "0959 伯爵府邸"
+
+#. ID 961
+msgid "0960 奴隷小屋"
+msgstr "0960 奴隶小屋"
+
+#. ID 962
+msgid "0961 ｱﾊﾞﾛｿ自宅地下室"
+msgstr "0961 阿巴隆自宅地下室"
+
+#. ID 963
+msgid "0962 ピラミッド"
+msgstr "0962 金字塔"
+
+#. ID 964
+msgid "0963 ピラミッド入口"
+msgstr "0963 金字塔入口"
+
+#. ID 965
+msgid "0964 ピラミッド1F"
+msgstr "0964 金字塔1F"
+
+#. ID 966
+msgid "0965 ピラミッド汎用横道"
+msgstr "0965 金字塔通用横道"
+
+#. ID 967
+msgid "0966 ピラミッド1F南部屋"
+msgstr "0966 金字塔1F南部房间"
+
+#. ID 968
+msgid "0967 ピラミッド汎用縦道"
+msgstr "0967 金字塔通用纵道"
+
+#. ID 969
+msgid "0968 ピラミッド1F北部屋"
+msgstr "0968 金字塔1F北部房间"
+
+#. ID 970
+msgid "0969 ピラミッド北広間"
+msgstr "0969 金字塔北大厅"
+
+#. ID 971
+msgid "0970 ピラミッド2F"
+msgstr "0970 金字塔2F"
+
+#. ID 972
+msgid "0971 2F 中央道"
+msgstr "0971 2F 中央通道"
+
+#. ID 973
+msgid "0972 2F 中央小部屋"
+msgstr "0972 2F 中央小房间"
+
+#. ID 974
+msgid "0973 2F 北通路"
+msgstr "0973 2F 北通道"
+
+#. ID 975
+msgid "0974 2F 南小部屋"
+msgstr "0974 2F 南小房间"
+
+#. ID 976
+msgid "0975 2F 北部屋"
+msgstr "0975 2F 北侧房间"
+
+#. ID 977
+msgid "0976 2F 西大部屋"
+msgstr "0976 2F 西侧大房间"
+
+#. ID 978
+msgid "0977 2F 南部屋"
+msgstr "0977 2F 南侧房间"
+
+#. ID 979
+msgid "0978 2F 東大部屋"
+msgstr "0978 2F 东侧大房间"
+
+#. ID 980
+msgid "0979 ピラミッド3F"
+msgstr "0979 金字塔3F"
+
+#. ID 981
+msgid "0980 3F 東/西部屋"
+msgstr "0980 3F 东/西房间"
+
+#. ID 982
+msgid "0981 3F 中央小部屋"
+msgstr "0981 3F 中央小房间"
+
+#. ID 983
+msgid "0982 3F 中央廊下"
+msgstr "0982 3F 中央走廊"
+
+#. ID 984
+msgid "0983 ピラミッド4F 中ボス"
+msgstr "0983 金字塔4F 中层首领"
+
+#. ID 985
+msgid "0984 ピラミッド5F"
+msgstr "0984 金字塔5层"
+
+#. ID 986
+msgid "0985 5F 汎用横道"
+msgstr "0985 5F 通用横道"
+
+#. ID 987
+msgid "0986 5F 西角部屋"
+msgstr "0986 5F 西角房间"
+
+#. ID 988
+msgid "0987 5F 東/西部屋"
+msgstr "0987 5F 东/西房间"
+
+#. ID 989
+msgid "0988 5F 空中庭園"
+msgstr "0988 5F 空中庭园"
+
+#. ID 990
+msgid "0989 ピラミッド6F"
+msgstr "0989 金字塔6F"
+
+#. ID 991
+msgid "0990 6F 外観"
+msgstr "0990 6F 外观"
+
+#. ID 992
+msgid "0991 ピラミッド7F"
+msgstr "0991 金字塔7F"
+
+#. ID 993
+msgid "0992 7F 外観"
+msgstr "0992 7F 外观"
+
+#. ID 994
+msgid "0993　ピラミッド8F BOSS"
+msgstr "0993　金字塔8F 首领"
+
+#. ID 995
+msgid "0994 5F 魔術師団本部"
+msgstr "0994 5F 魔术师团本部"
+
+#. ID 996
+msgid "0995 5F 魔術師団研究室"
+msgstr "0995 5F 魔术师团研究室"
+
+#. ID 997
+msgid "0996 8F 隠し部屋"
+msgstr "0996 8F 隐藏房间"
+
+#. ID 998
+msgid "0997 入り口1"
+msgstr "0997 入口1"
+
+#. ID 999
+msgid "0998 入り口2"
+msgstr "0998 入口2"
+
+#. ID 1000
+msgid "0999 B1F 1"
+msgstr "0999 B1F 1"
+
+#. ID 1001
+msgid "1000 B1F 2"
+msgstr "1000 B1F 2"
+
+#. ID 1002
+msgid "1001 B1F 3"
+msgstr "1001 B1F 3"
+
+#. ID 1003
+msgid "1002 B2F 1"
+msgstr "1002 B2F 1"
+
+#. ID 1004
+msgid "1003 B2F 2"
+msgstr "1003 B2F 2"
+
+#. ID 1005
+msgid "1004 B2F 3"
+msgstr "1004 B2F 3"
+
+#. ID 1006
+msgid "1005 B1F 4"
+msgstr "1005 B1F 4"
+
+#. ID 1007
+msgid "1006 B2F 4"
+msgstr "1006 B2F 4"
+
+#. ID 1008
+msgid "1007 B1F 5"
+msgstr "1007 B1F 5"
+
+#. ID 1009
+msgid "1008 B1F 6"
+msgstr "1008 B1F 6"
+
+#. ID 1010
+msgid "1009 B3F 1"
+msgstr "1009 B3F 1"
+
+#. ID 1011
+msgid "1010 B3F 2"
+msgstr "1010 B3F 2"
+
+#. ID 1012
+msgid "1011 B3F 3"
+msgstr "1011 B3F 3"
+
+#. ID 1013
+msgid "1012 B3F 4"
+msgstr "1012 B3F 4"
+
+#. ID 1014
+msgid "1013 特殊イベント"
+msgstr "1013 特殊事件"
+
+#. ID 1015
+msgid "1014 B4F 中BOSS"
+msgstr "1014 B4F 中层首领"
+
+#. ID 1016
+msgid "1015 B5F 1"
+msgstr "1015 B5F 1"
+
+#. ID 1017
+msgid "1016 B5F 2"
+msgstr "1016 B5F 2"
+
+#. ID 1018
+msgid "1017 B5F 3"
+msgstr "1017 B5F 3"
+
+#. ID 1019
+msgid "1018 B5F 4"
+msgstr "1018 B5F 4"
+
+#. ID 1020
+msgid "1019 B5F 5"
+msgstr "1019 B5F 5"
+
+#. ID 1021
+msgid "1020 B6F 1"
+msgstr "1020 B6F 1"
+
+#. ID 1022
+msgid "1021 B6F 2"
+msgstr "1021 B6F 2"
+
+#. ID 1023
+msgid "1022 B6F 3"
+msgstr "1022 B6F 3"
+
+#. ID 1024
+msgid "1023 B7F 1"
+msgstr "1023 B7F 1"
+
+#. ID 1025
+msgid "1024 B7F 2"
+msgstr "1024 B7F 2"
+
+#. ID 1026
+msgid "1025 B7F 3"
+msgstr "1025 B7F 3"
+
+#. ID 1027
+msgid "1026 最深部 BOSS"
+msgstr "1026 最深处 首领"
+
+#. ID 1028
+msgid "1027 悲しみの向こうへ"
+msgstr "1027 前往悲伤的彼方"
+
+#. ID 1029
+msgid "1028 スレイブEND"
+msgstr "1028 奴隶结局"
+
+#. ID 1030
+msgid "1029 審判"
+msgstr "1029 审判"
+
+#. ID 1031
+msgid "1030 内部1"
+msgstr "1030 内部1"
+
+#. ID 1032
+msgid "1031 内部2"
+msgstr "1031 内部2"
+
+#. ID 1033
+msgid "1032 アラクネの巣"
+msgstr "1032 阿剌克涅之巢"
+
+#. ID 1034
+msgid "1033 アラクネ転生END"
+msgstr "1033 阿剌克涅转生结局"
+
+#. ID 1035
+msgid "1034 通路"
+msgstr "1034 通道"
+
+#. ID 1036
+msgid "1035 ルミナスの研究室"
+msgstr "1035 露米娜丝的研究室"
+
+#. ID 1037
+msgid "1036 ケルヴィの小屋"
+msgstr "1036 凯尔维的小屋"
+
+#. ID 1038
+msgid "1037 ルミナスの実験室"
+msgstr "1037 露米娜丝的实验室"
+
+#. ID 1039
+msgid "1038 ルミナスの資料室"
+msgstr "1038 露米娜丝的资料室"
+
+#. ID 1040
+msgid "MAP1039"
+msgstr "MAP1039"
+
+#. ID 1041
+msgid "1040 Boss"
+msgstr "1040 首领"
+
+#. ID 1042
+msgid "1041 地下迷宮"
+msgstr "1041 地下迷宫"
+
+#. ID 1043
+msgid "1042 第一層"
+msgstr "1042 第一层"
+
+#. ID 1044
+msgid "1043 小屋前"
+msgstr "1043 小屋前"
+
+#. ID 1045
+msgid "1044 地下迷宮"
+msgstr "1044 地下迷宫"
+
+#. ID 1046
+msgid "1045 森前"
+msgstr "1045 森林前"
+
+#. ID 1047
+msgid "1046 階段"
+msgstr "1046 楼梯"
+
+#. ID 1048
+msgid "1047 頂上"
+msgstr "1047 山顶"
+
+#. ID 1049
+msgid "1048 頂上2"
+msgstr "1048 山顶2"
+
+#. ID 1050
+msgid "1049 頂上3"
+msgstr "1049 山顶3"
+
+#. ID 1051
+msgid "1050 小屋"
+msgstr "1050 小屋"
+
+#. ID 1052
+msgid "1051 森"
+msgstr "1051 森林"
+
+#. ID 1053
+msgid "1052 森2"
+msgstr "1052 森林2"
+
+#. ID 1054
+msgid "1053 森3"
+msgstr "1053 森林3"
+
+#. ID 1055
+msgid "1054 森4"
+msgstr "1054 森林4"
+
+#. ID 1056
+msgid "1055 森5"
+msgstr "1055 森林5"
+
+#. ID 1057
+msgid "1056 小屋内部"
+msgstr "1056 小屋内部"
+
+#. ID 1058
+msgid "1057 秘密のラボ"
+msgstr "1057 秘密实验室"
+
+#. ID 1059
+msgid "1058 第三層"
+msgstr "1058 第三层"
+
+#. ID 1060
+msgid "1059 地下迷宮入口"
+msgstr "1059 地下迷宫入口"
+
+#. ID 1061
+msgid "1060 頂上3-1"
+msgstr "1060 山顶3-1"
+
+#. ID 1062
+msgid "1061 頂上3-2"
+msgstr "1061 山顶3-2"
+
+#. ID 1063
+msgid "1062 第二層"
+msgstr "1062 第二层"
+
+#. ID 1064
+msgid "1063 即死"
+msgstr "1063 即死"
+
+#. ID 1065
+msgid "1064 即死通路"
+msgstr "1064 即死通道"
+
+#. ID 1066
+msgid "1065 高台"
+msgstr "1065 高台"
+
+#. ID 1067
+msgid "1066 杖"
+msgstr "1066 杖"
+
+#. ID 1068
+msgid "1067 階段"
+msgstr "1067 楼梯"
+
+#. ID 1069
+msgid "1068 第四層"
+msgstr "1068 第四层"
+
+#. ID 1070
+msgid "1069 上"
+msgstr "1069 上"
+
+#. ID 1071
+msgid "1070 上の続き"
+msgstr "1070 上方延续"
+
+#. ID 1072
+msgid "1071 左"
+msgstr "1071 左"
+
+#. ID 1073
+msgid "1072 第四層ラスト"
+msgstr "1072 第四层最后"
+
+#. ID 1074
+msgid "1073 竜決洞"
+msgstr "1073 龙决洞"
+
+#. ID 1075
+msgid "1074 竜決洞1"
+msgstr "1074 龙决洞1"
+
+#. ID 1076
+msgid "1075 竜決洞2"
+msgstr "1075 龙决洞2"
+
+#. ID 1077
+msgid "1076 竜決洞3"
+msgstr "1076 龙决洞3"
+
+#. ID 1078
+msgid "1077 Boss"
+msgstr "1077 首领"
+
+#. ID 1079
+msgid "MAP1078"
+msgstr "MAP1078"
+
+#. ID 1080
+msgid "1079 ﾋﾄﾞｩﾝ民家1"
+msgstr "1079 希顿民居1"
+
+#. ID 1081
+msgid "1080_射的場"
+msgstr "1080_射击场"
+
+#. ID 1082
+msgid "1081 積雪山脈"
+msgstr "1081 积雪山脉"
+
+#. ID 1083
+msgid "1082 1-3"
+msgstr "1082 1-3"
+
+#. ID 1084
+msgid "1083 2-9"
+msgstr "1083 2-9"
+
+#. ID 1085
+msgid "1084 4"
+msgstr "1084 4"
+
+#. ID 1086
+msgid "1085 7"
+msgstr "1085 7"
+
+#. ID 1087
+msgid "1086 8"
+msgstr "1086 8"
+
+#. ID 1088
+msgid "1087 10-7'"
+msgstr "1087 10-7'"
+
+#. ID 1089
+msgid "1088 11"
+msgstr "1088 11"
+
+#. ID 1090
+msgid "1089 12"
+msgstr "1089 12"
+
+#. ID 1091
+msgid "1090 5"
+msgstr "1090 5"
+
+#. ID 1092
+msgid "1091 6"
+msgstr "1091 6"
+
+#. ID 1093
+msgid "1092 13'"
+msgstr "1092 13'"
+
+#. ID 1094
+msgid "1093 14'"
+msgstr "1093 14'"
+
+#. ID 1095
+msgid "1094 13"
+msgstr "1094 13"
+
+#. ID 1096
+msgid "1095 Boss"
+msgstr "1095 首领"
+
+#. ID 1097
+msgid "1096 5'"
+msgstr "1096 5'"
+
+#. ID 1098
+msgid "1097 6'"
+msgstr "1097 6'"
+
+#. ID 1099
+msgid "1098 End"
+msgstr "1098 结局"
+
+#. ID 1100
+msgid "1099 15'"
+msgstr "1099 15'"
+
+#. ID 1101
+msgid "1100 予備"
+msgstr "1100 预备"
+
+#. ID 1102
+msgid "1101 ???(移民の町)"
+msgstr "1101 ???(移民之镇)"
+
+#. ID 1103
+msgid "1102 移民町建設予定地"
+msgstr "1102 移民镇建设预定地"
+
+#. ID 1104
+msgid "1103 フェリスの家"
+msgstr "1103 菲莉丝之家"
+
+#. ID 1105
+msgid "1104 移民の町(初期)"
+msgstr "1104 移民之镇（初期）"
+
+#. ID 1106
+msgid "1105フェリスの家(初期)"
+msgstr "1105菲莉丝之家（初期）"
+
+#. ID 1107
+msgid "1106 移民の町(第二段階)"
+msgstr "1106 移民之镇（第二阶段）"
+
+#. ID 1108
+msgid "MAP1107"
+msgstr "MAP1107"
+
+#. ID 1109
+msgid "MAP1108"
+msgstr "MAP1108"
+
+#. ID 1110
+msgid "MAP1109"
+msgstr "MAP1109"
+
+#. ID 1111
+msgid "MAP1110"
+msgstr "MAP1110"
+
+#. ID 1112
+msgid "MAP1111"
+msgstr "MAP1111"
+
+#. ID 1113
+msgid "MAP1112"
+msgstr "MAP1112"
+
+#. ID 1114
+msgid "MAP1113"
+msgstr "MAP1113"
+
+#. ID 1115
+msgid "MAP1114"
+msgstr "MAP1114"
+
+#. ID 1116
+msgid "MAP1115"
+msgstr "MAP1115"
+
+#. ID 1117
+msgid "MAP1116"
+msgstr "MAP1116"
+
+#. ID 1118
+msgid "MAP1117"
+msgstr "MAP1117"
+
+#. ID 1119
+msgid "MAP1118"
+msgstr "MAP1118"
+
+#. ID 1120
+msgid "MAP1119"
+msgstr "MAP1119"
+
+#. ID 1121
+msgid "MAP1120"
+msgstr "MAP1120"
+
+#. ID 1122
+msgid "1121 ローメイの迷宮"
+msgstr "1121 罗梅的迷宫"
+
+#. ID 1123
+msgid "1122 D"
+msgstr "1122 D"
+
+#. ID 1124
+msgid "1123 S1"
+msgstr "1123 S1"
+
+#. ID 1125
+msgid "1124 S2"
+msgstr "1124 S2"
+
+#. ID 1126
+msgid "1125 S3"
+msgstr "1125 S3"
+
+#. ID 1127
+msgid "1126 L1"
+msgstr "1126 L1"
+
+#. ID 1128
+msgid "1127 L2"
+msgstr "1127 L2"
+
+#. ID 1129
+msgid "1128 L3"
+msgstr "1128 L3"
+
+#. ID 1130
+msgid "1129 L4"
+msgstr "1129 L4"
+
+#. ID 1131
+msgid "1130 L5"
+msgstr "1130 L5"
+
+#. ID 1132
+msgid "1131 L6"
+msgstr "1131 L6"
+
+#. ID 1133
+msgid "1132 L7"
+msgstr "1132 L7"
+
+#. ID 1134
+msgid "1133 L8"
+msgstr "1133 L8"
+
+#. ID 1135
+msgid "1134 L9"
+msgstr "1134 L9"
+
+#. ID 1136
+msgid "1135 L10"
+msgstr "1135 L10"
+
+#. ID 1137
+msgid "1136 L11"
+msgstr "1136 L11"
+
+#. ID 1138
+msgid "1137 L12"
+msgstr "1137 L12"
+
+#. ID 1139
+msgid "1138 L13"
+msgstr "1138 L13"
+
+#. ID 1140
+msgid "1139 L14"
+msgstr "1139 L14"
+
+#. ID 1141
+msgid "1140 L15"
+msgstr "1140 L15"
+
+#. ID 1142
+msgid "1141 古代文明の堰塔"
+msgstr "1141 古代文明的堰塔"
+
+#. ID 1143
+msgid "1142 吹き抜け"
+msgstr "1142 挑空"
+
+#. ID 1144
+msgid "1143 √A-1"
+msgstr "1143 √A-1"
+
+#. ID 1145
+msgid "1144 √A-2"
+msgstr "1144 √A-2"
+
+#. ID 1146
+msgid "1145 √B-1"
+msgstr "1145 √B-1"
+
+#. ID 1147
+msgid "1146 √B-2"
+msgstr "1146 √B-2"
+
+#. ID 1148
+msgid "1147 √B-3"
+msgstr "1147 √B-3"
+
+#. ID 1149
+msgid "1148 Rooms1"
+msgstr "1148 Rooms1"
+
+#. ID 1150
+msgid "1149 Rooms2"
+msgstr "1149 Rooms2"
+
+#. ID 1151
+msgid "1150 天空の塔"
+msgstr "1150 天空之塔"
+
+#. ID 1152
+msgid "1151 海鳴村"
+msgstr "1151 海鸣村"
+
+#. ID 1153
+msgid "1152 内装"
+msgstr "1152 内饰"
+
+#. ID 1154
+msgid "1153 ホテル"
+msgstr "1153 酒店"
+
+#. ID 1155
+msgid "1154 トラベラーズ１F"
+msgstr "1154 旅行者1F"
+
+#. ID 1156
+msgid "1155 トラベラーズ２F"
+msgstr "1155 旅行者2F"
+
+#. ID 1157
+msgid "1156 クリア工房"
+msgstr "1156 克莱尔工房"
+
+#. ID 1158
+msgid "1157 開発リスト①"
+msgstr "1157 开发列表①"
+
+#. ID 1159
+msgid "1158_パレット_敵"
+msgstr "1158_调色板_敌人"
+
+#. ID 1160
+msgid "1159_天塔_1-13"
+msgstr "1159_天塔_1-13"
+
+#. ID 1161
+msgid "1160_天塔_階層2"
+msgstr "1160_天塔_阶层2"
+
+#. ID 1162
+msgid "1161_天塔_2-9"
+msgstr "1161_天塔_2-9"
+
+#. ID 1163
+msgid "1162_天塔_2-11"
+msgstr "1162_天塔_2-11"
+
+#. ID 1164
+msgid "11xx_天塔_temp"
+msgstr "11xx_天塔_temp"
+
+#. ID 1165
+msgid "1164_パレット_罠小物"
+msgstr "1164_调色板_陷阱小物件"
+
+#. ID 1166
+msgid "1165_天塔_階層1"
+msgstr "1165_天塔_阶层1"
+
+#. ID 1167
+msgid "1166_天塔_1-1"
+msgstr "1166_天塔_1-1"
+
+#. ID 1168
+msgid "1167_天塔_1-2"
+msgstr "1167_天塔_1-2"
+
+#. ID 1169
+msgid "1168_天塔_1-3"
+msgstr "1168_天塔_1-3"
+
+#. ID 1170
+msgid "1169_天塔_1-4"
+msgstr "1169_天塔_1-4"
+
+#. ID 1171
+msgid "1170_天塔_1-5"
+msgstr "1170_天塔_1-5"
+
+#. ID 1172
+msgid "1171_天塔_1-6"
+msgstr "1171_天塔_1-6"
+
+#. ID 1173
+msgid "1172_天塔_1-6-1"
+msgstr "1172_天塔_1-6-1"
+
+#. ID 1174
+msgid "1173_天塔_1-6-2"
+msgstr "1173_天塔_1-6-2"
+
+#. ID 1175
+msgid "1174_天塔_1-7"
+msgstr "1174_天塔_1-7"
+
+#. ID 1176
+msgid "1175_天塔_1-8"
+msgstr "1175_天塔_1-8"
+
+#. ID 1177
+msgid "1176_天塔_1-9"
+msgstr "1176_天塔_1-9"
+
+#. ID 1178
+msgid "1177_天塔_1-10"
+msgstr "1177_天塔_1-10"
+
+#. ID 1179
+msgid "1178_天塔_1-10-1"
+msgstr "1178_天塔_1-10-1"
+
+#. ID 1180
+msgid "1179_天塔_1-10-2"
+msgstr "1179_天塔_1-10-2"
+
+#. ID 1181
+msgid "1180_天塔_1-11"
+msgstr "1180_天塔_1-11"
+
+#. ID 1182
+msgid "1181_天塔_1-12"
+msgstr "1181_天塔_1-12"
+
+#. ID 1183
+msgid "1182_天塔_2-10"
+msgstr "1182_天塔_2-10"
+
+#. ID 1184
+msgid "1183_天塔_2-1"
+msgstr "1183_天塔_2-1"
+
+#. ID 1185
+msgid "1184_天塔_階層3"
+msgstr "1184_天塔_阶层3"
+
+#. ID 1186
+msgid "1185_天塔_2-2"
+msgstr "1185_天塔_2-2"
+
+#. ID 1187
+msgid "1186_天塔_2-3"
+msgstr "1186_天塔_2-3"
+
+#. ID 1188
+msgid "1187_天塔_2-4"
+msgstr "1187_天塔_2-4"
+
+#. ID 1189
+msgid "1188_天塔_2-5"
+msgstr "1188_天塔_2-5"
+
+#. ID 1190
+msgid "1189_天塔_2-6"
+msgstr "1189_天塔_2-6"
+
+#. ID 1191
+msgid "1190_天塔_2-7"
+msgstr "1190_天塔_2-7"
+
+#. ID 1192
+msgid "1191_天塔_2-7-1"
+msgstr "1191_天塔_2-7-1"
+
+#. ID 1193
+msgid "1192_天塔_2-8"
+msgstr "1192_天塔_2-8"
+
+#. ID 1194
+msgid "1193_天塔_2-13"
+msgstr "1193_天塔_2-13"
+
+#. ID 1195
+msgid "1194_天塔_2-14"
+msgstr "1194_天塔_2-14"
+
+#. ID 1196
+msgid "1195_天塔_2-15"
+msgstr "1195_天塔_2-15"
+
+#. ID 1197
+msgid "1196_天塔_2-16"
+msgstr "1196_天塔_2-16"
+
+#. ID 1198
+msgid "1197_天塔_2-17"
+msgstr "1197_天塔_2-17"
+
+#. ID 1199
+msgid "1198_天塔_2-12"
+msgstr "1198_天塔_2-12"
+
+#. ID 1200
+msgid "1199_天塔_2-9-1"
+msgstr "1199_天塔_2-9-1"
+
+#. ID 1201
+msgid "1200 サンクタムガード"
+msgstr "1200 圣所守卫"
+
+#. ID 1202
+msgid "1201_煌めくムーア"
+msgstr "1201_闪耀摩尔"
+
+#. ID 1203
+msgid "1202 あやかし山道"
+msgstr "1202 妖怪山道"
+
+#. ID 1204
+msgid "12xx_あや山_temp"
+msgstr "12xx_妖山_temp"
+
+#. ID 1205
+msgid "1204_パレット_敵"
+msgstr "1204_调色板_敌人"
+
+#. ID 1206
+msgid "1205_パレット_小物"
+msgstr "1205_调色板_小物件"
+
+#. ID 1207
+msgid "1206_あや山_階層1"
+msgstr "1206_妖山_阶层1"
+
+#. ID 1208
+msgid "1207_あや山_1"
+msgstr "1207_妖山_1"
+
+#. ID 1209
+msgid "1208_あや山_2"
+msgstr "1208_妖山_2"
+
+#. ID 1210
+msgid "1209_あや山_1001"
+msgstr "1209_妖山_1001"
+
+#. ID 1211
+msgid "1210_あや山_3"
+msgstr "1210_妖山_3"
+
+#. ID 1212
+msgid "1211_あや山_6"
+msgstr "1211_妖山_6"
+
+#. ID 1213
+msgid "1212_あや山_7"
+msgstr "1212_妖山_7"
+
+#. ID 1214
+msgid "1213_あや山_8"
+msgstr "1213_妖山_8"
+
+#. ID 1215
+msgid "1214_あや山_9"
+msgstr "1214_妖山_9"
+
+#. ID 1216
+msgid "1215_あや山_10"
+msgstr "1215_妖山_10"
+
+#. ID 1217
+msgid "1216_あや山_11"
+msgstr "1216_妖山_11"
+
+#. ID 1218
+msgid "1217_あや山_12"
+msgstr "1217_妖山_12"
+
+#. ID 1219
+msgid "1218_あや山_13"
+msgstr "1218_妖山_13"
+
+#. ID 1220
+msgid "1219_あや山_14"
+msgstr "1219_妖山_14"
+
+#. ID 1221
+msgid "1220_あや山_4"
+msgstr "1220_妖山_4"
+
+#. ID 1222
+msgid "1221_あや山_2001"
+msgstr "1221_妖山_2001"
+
+#. ID 1223
+msgid "1222_あや山_階層2"
+msgstr "1222_妖山_阶层2"
+
+#. ID 1224
+msgid "1223_あや山_15"
+msgstr "1223_妖山_15"
+
+#. ID 1225
+msgid "1224_あや山_16"
+msgstr "1224_妖山_16"
+
+#. ID 1226
+msgid "1225_あや山_17"
+msgstr "1225_妖山_17"
+
+#. ID 1227
+msgid "1226_あや山_18"
+msgstr "1226_妖山_18"
+
+#. ID 1228
+msgid "1227_あや山_19"
+msgstr "1227_妖山_19"
+
+#. ID 1229
+msgid "1228_あや山_20"
+msgstr "1228_妖山_20"
+
+#. ID 1230
+msgid "1229_あや山_21"
+msgstr "1229_妖山_21"
+
+#. ID 1231
+msgid "1230_あや山_22"
+msgstr "1230_妖山_22"
+
+#. ID 1232
+msgid "1231_あや山_23"
+msgstr "1231_妖山_23"
+
+#. ID 1233
+msgid "1232_あや山_24"
+msgstr "1232_妖山_24"
+
+#. ID 1234
+msgid "1233_あや山_25"
+msgstr "1233_妖山_25"
+
+#. ID 1235
+msgid "1234_あや山_26"
+msgstr "1234_妖山_26"
+
+#. ID 1236
+msgid "1235_あや山_27"
+msgstr "1235_妖山_27"
+
+#. ID 1237
+msgid "1236_あや山_28"
+msgstr "1236_妖山_28"
+
+#. ID 1238
+msgid "1237_あや山_29"
+msgstr "1237_妖山_29"
+
+#. ID 1239
+msgid "1238_あや山_30"
+msgstr "1238_妖山_30"
+
+#. ID 1240
+msgid "1239_あや山_階層3"
+msgstr "1239_妖山_阶层3"
+
+#. ID 1241
+msgid "1240_あや山_31"
+msgstr "1240_妖山_31"
+
+#. ID 1242
+msgid "1241_あや山_3001"
+msgstr "1241_妖山_3001"
+
+#. ID 1243
+msgid "1242_あや山_4001"
+msgstr "1242_妖山_4001"
+
+#. ID 1244
+msgid "1243_あや山_5001"
+msgstr "1243_妖山_5001"
+
+#. ID 1245
+msgid "1244_あや山_6001"
+msgstr "1244_妖山_6001"
+
+#. ID 1246
+msgid "1245 悪党の谷"
+msgstr "1245 恶党之谷"
+
+#. ID 1247
+msgid "12xx_悪谷_temp"
+msgstr "12xx_恶谷_temp"
+
+#. ID 1248
+msgid "1247_パレット_敵"
+msgstr "1247_调色板_敌人"
+
+#. ID 1249
+msgid "1248_パレット_小物"
+msgstr "1248_调色板_小物件"
+
+#. ID 1250
+msgid "1249_悪谷_階層1"
+msgstr "1249_恶谷_阶层1"
+
+#. ID 1251
+msgid "1250_悪谷_1"
+msgstr "1250_恶谷_1"
+
+#. ID 1252
+msgid "1251_悪谷_2"
+msgstr "1251_恶谷_2"
+
+#. ID 1253
+msgid "1252_悪谷_3"
+msgstr "1252_恶谷_3"
+
+#. ID 1254
+msgid "1253_悪谷_4"
+msgstr "1253_恶谷_4"
+
+#. ID 1255
+msgid "1254_悪谷_5"
+msgstr "1254_恶谷_5"
+
+#. ID 1256
+msgid "1255_悪谷_6"
+msgstr "1255_恶谷_6"
+
+#. ID 1257
+msgid "1256_悪谷_7"
+msgstr "1256_恶谷_7"
+
+#. ID 1258
+msgid "1257_悪谷_8"
+msgstr "1257_恶谷_8"
+
+#. ID 1259
+msgid "1258_悪谷_9"
+msgstr "1258_恶谷_9"
+
+#. ID 1260
+msgid "1259_悪谷_10"
+msgstr "1259_恶谷_10"
+
+#. ID 1261
+msgid "1260_悪谷_11"
+msgstr "1260_恶谷_11"
+
+#. ID 1262
+msgid "1261_悪谷_12"
+msgstr "1261_恶谷_12"
+
+#. ID 1263
+msgid "1262_悪谷_13"
+msgstr "1262_恶谷_13"
+
+#. ID 1264
+msgid "1263_悪谷_14"
+msgstr "1263_恶谷_14"
+
+#. ID 1265
+msgid "1264_悪谷_15"
+msgstr "1264_恶谷_15"
+
+#. ID 1266
+msgid "1265_悪谷_16"
+msgstr "1265_恶谷_16"
+
+#. ID 1267
+msgid "1266_悪谷_17"
+msgstr "1266_恶谷_17"
+
+#. ID 1268
+msgid "1267_悪谷_階層2"
+msgstr "1267_恶谷_阶层2"
+
+#. ID 1269
+msgid "1268_悪谷_18"
+msgstr "1268_恶谷_18"
+
+#. ID 1270
+msgid "1269_悪谷_19"
+msgstr "1269_恶谷_19"
+
+#. ID 1271
+msgid "1270_悪谷_階層3"
+msgstr "1270_恶谷_阶层3"
+
+#. ID 1272
+msgid "1271_悪谷_20"
+msgstr "1271_恶谷_20"
+
+#. ID 1273
+msgid "1272_悪谷_38"
+msgstr "1272_恶谷_38"
+
+#. ID 1274
+msgid "1273_悪谷_21"
+msgstr "1273_恶谷_21"
+
+#. ID 1275
+msgid "1274_悪谷_22"
+msgstr "1274_恶谷_22"
+
+#. ID 1276
+msgid "1275_悪谷_23"
+msgstr "1275_恶谷_23"
+
+#. ID 1277
+msgid "1276_悪谷_24"
+msgstr "1276_恶谷_24"
+
+#. ID 1278
+msgid "1277_悪谷_25"
+msgstr "1277_恶谷_25"
+
+#. ID 1279
+msgid "1278_悪谷_26"
+msgstr "1278_恶谷_26"
+
+#. ID 1280
+msgid "1279_悪谷_27"
+msgstr "1279_恶谷_27"
+
+#. ID 1281
+msgid "1280_悪谷_28"
+msgstr "1280_恶谷_28"
+
+#. ID 1282
+msgid "1281_悪谷_29"
+msgstr "1281_恶谷_29"
+
+#. ID 1283
+msgid "1282_悪谷_30"
+msgstr "1282_恶谷_30"
+
+#. ID 1284
+msgid "1283_悪谷_31"
+msgstr "1283_恶谷_31"
+
+#. ID 1285
+msgid "1284_悪谷_32"
+msgstr "1284_恶谷_32"
+
+#. ID 1286
+msgid "1285_悪谷_33"
+msgstr "1285_恶谷_33"
+
+#. ID 1287
+msgid "1286_悪谷_34"
+msgstr "1286_恶谷_34"
+
+#. ID 1288
+msgid "1287_悪谷_35"
+msgstr "1287_恶谷_35"
+
+#. ID 1289
+msgid "1288_悪谷_36"
+msgstr "1288_恶谷_36"
+
+#. ID 1290
+msgid "1289_悪谷_階層4"
+msgstr "1289_恶谷_阶层4"
+
+#. ID 1291
+msgid "1290_悪谷_37"
+msgstr "1290_恶谷_37"
+
+#. ID 1292
+msgid "1291_悪谷_39"
+msgstr "1291_恶谷_39"
+
+#. ID 1293
+msgid "1292_悪谷_1001"
+msgstr "1292_恶谷_1001"
+
+#. ID 1294
+msgid "1293_悪谷_1002"
+msgstr "1293_恶谷_1002"
+
+#. ID 1295
+msgid "1294_悪谷_2001"
+msgstr "1294_恶谷_2001"
+
+#. ID 1296
+msgid "1295_悪谷_3001"
+msgstr "1295_恶谷_3001"
+
+#. ID 1297
+msgid "1296_悪谷_5001"
+msgstr "1296_恶谷_5001"
+
+#. ID 1298
+msgid "1297_悪谷_4001"
+msgstr "1297_恶谷_4001"
+
+#. ID 1299
+msgid "1298_悪谷_40"
+msgstr "1298_恶谷_40"
+
+#. ID 1300
+msgid "1299_チルドラゴン"
+msgstr "1299_冰霜龙"
+
+#. ID 1301
+msgid "1300_デーモンヘッド"
+msgstr "1300_恶魔头"
+
+#. ID 1302
+msgid "1301 ジ・アストラル"
+msgstr "1301 星界"
+
+#. ID 1303
+msgid "13xx_月D_temp"
+msgstr "13xx_月D_temp"
+
+#. ID 1304
+msgid "1303_パレット_敵"
+msgstr "1303_调色板_敌人"
+
+#. ID 1305
+msgid "1304_パレット_小物"
+msgstr "1304_调色板_小物件"
+
+#. ID 1306
+msgid "1305_月D_階層1"
+msgstr "1305_月D_阶层1"
+
+#. ID 1307
+msgid "1306_月D_1"
+msgstr "1306_月D_1"
+
+#. ID 1308
+msgid "1307_月D_2"
+msgstr "1307_月D_2"
+
+#. ID 1309
+msgid "1308_月D_3"
+msgstr "1308_月D_3"
+
+#. ID 1310
+msgid "1309_月D_4"
+msgstr "1309_月D_4"
+
+#. ID 1311
+msgid "1310_月D_5"
+msgstr "1310_月D_5"
+
+#. ID 1312
+msgid "1311_月D_6"
+msgstr "1311_月D_6"
+
+#. ID 1313
+msgid "1312_月D_7"
+msgstr "1312_月D_7"
+
+#. ID 1314
+msgid "1313_月D_8"
+msgstr "1313_月D_8"
+
+#. ID 1315
+msgid "1314_月D_9"
+msgstr "1314_月D_9"
+
+#. ID 1316
+msgid "1315_月D_10"
+msgstr "1315_月D_10"
+
+#. ID 1317
+msgid "1316_月D_11"
+msgstr "1316_月D_11"
+
+#. ID 1318
+msgid "1317_月D_12"
+msgstr "1317_月D_12"
+
+#. ID 1319
+msgid "1318_月D_13"
+msgstr "1318_月D_13"
+
+#. ID 1320
+msgid "1319_月D_14"
+msgstr "1319_月D_14"
+
+#. ID 1321
+msgid "1320_月D_15"
+msgstr "1320_月D_15"
+
+#. ID 1322
+msgid "1321_月D_16"
+msgstr "1321_月D_16"
+
+#. ID 1323
+msgid "1322_月D_階層2"
+msgstr "1322_月D_阶层2"
+
+#. ID 1324
+msgid "1323_月D_17"
+msgstr "1323_月D_17"
+
+#. ID 1325
+msgid "1324_月D_18"
+msgstr "1324_月D_18"
+
+#. ID 1326
+msgid "1325_月D_階層3"
+msgstr "1325_月D_阶层3"
+
+#. ID 1327
+msgid "1326_月D_19"
+msgstr "1326_月D_19"
+
+#. ID 1328
+msgid "1327_月D_20"
+msgstr "1327_月D_20"
+
+#. ID 1329
+msgid "1328_月D_21"
+msgstr "1328_月D_21"
+
+#. ID 1330
+msgid "1329_月D_22"
+msgstr "1329_月D_22"
+
+#. ID 1331
+msgid "1330_月D_23"
+msgstr "1330_月D_23"
+
+#. ID 1332
+msgid "1331_月D_24"
+msgstr "1331_月D_24"
+
+#. ID 1333
+msgid "1332_月D_25"
+msgstr "1332_月D_25"
+
+#. ID 1334
+msgid "1333_月D_26"
+msgstr "1333_月D_26"
+
+#. ID 1335
+msgid "1334_月D_27"
+msgstr "1334_月D_27"
+
+#. ID 1336
+msgid "1335_月D_28"
+msgstr "1335_月D_28"
+
+#. ID 1337
+msgid "1336_月D_29"
+msgstr "1336_月D_29"
+
+#. ID 1338
+msgid "1337_月D_30"
+msgstr "1337_月D_30"
+
+#. ID 1339
+msgid "1338_月D_31"
+msgstr "1338_月D_31"
+
+#. ID 1340
+msgid "1339_月D_32"
+msgstr "1339_月D_32"
+
+#. ID 1341
+msgid "1340_月D_33"
+msgstr "1340_月D_33"
+
+#. ID 1342
+msgid "1341_月D_34"
+msgstr "1341_月D_34"
+
+#. ID 1343
+msgid "1342_月D_35"
+msgstr "1342_月D_35"
+
+#. ID 1344
+msgid "1343_月D_36"
+msgstr "1343_月D_36"
+
+#. ID 1345
+msgid "1344_月D_37"
+msgstr "1344_月D_37"
+
+#. ID 1346
+msgid "1345_月D_38"
+msgstr "1345_月D_38"
+
+#. ID 1347
+msgid "1346_月D_階層4"
+msgstr "1346_月D_阶层4"
+
+#. ID 1348
+msgid "1347_月D_39"
+msgstr "1347_月D_39"
+
+#. ID 1349
+msgid "1348_月D_40"
+msgstr "1348_月D_40"
+
+#. ID 1350
+msgid "1349_月D_1001"
+msgstr "1349_月D_1001"
+
+#. ID 1351
+msgid "1350_月D_2001"
+msgstr "1350_月D_2001"
+
+#. ID 1352
+msgid "1351_月D_2002"
+msgstr "1351_月D_2002"
+
+#. ID 1353
+msgid "1352_月D_3001"
+msgstr "1352_月D_3001"
+
+#. ID 1354
+msgid "1353_月D_4001"
+msgstr "1353_月D_4001"
+
+#. ID 1355
+msgid "1354_月D_5001"
+msgstr "1354_月D_5001"
+
+#. ID 1356
+msgid "1355_月D_5002"
+msgstr "1355_月D_5002"
+
+#. ID 1357
+msgid "1356_月D_6001"
+msgstr "1356_月D_6001"
+
+#. ID 1358
+msgid "1357 屋内"
+msgstr "1357 室内"
+
+#. ID 1359
+msgid "1358 門前"
+msgstr "1358 门前"
+
+#. ID 1360
+msgid "1359 外世界への穴"
+msgstr "1359 通往外界之洞"
+
+#. ID 1361
+msgid "1360 魔界都市ウルティマ"
+msgstr "1360 魔界都市乌尔蒂玛"
+
+#. ID 1362
+msgid "1361 外世界への穴-魔界"
+msgstr "1361 通往外界之洞-魔界"
+
+#. ID 1363
+msgid "1362 魔法習得"
+msgstr "1362 魔法习得"
+
+#. ID 1364
+msgid "1363_マザーシップ"
+msgstr "1363_母舰"
+
+#. ID 1365
+msgid "1364_リトルブレイン"
+msgstr "1364_小脑"
+
+#. ID 1366
+msgid "1365 魔王宮"
+msgstr "1365 魔王宫"
+
+#. ID 1367
+msgid "13xx_魔界D_temp"
+msgstr "13xx_魔界D_temp"
+
+#. ID 1368
+msgid "1367_パレット_敵"
+msgstr "1367_调色板_敌人"
+
+#. ID 1369
+msgid "1368_パレット_小物"
+msgstr "1368_调色板_小物件"
+
+#. ID 1370
+msgid "1369_魔界D_階層1"
+msgstr "1369_魔界D_阶层1"
+
+#. ID 1371
+msgid "1370_魔界D_1"
+msgstr "1370_魔界D_1"
+
+#. ID 1372
+msgid "1371_魔界D_2"
+msgstr "1371_魔界D_2"
+
+#. ID 1373
+msgid "1372_魔界D_3"
+msgstr "1372_魔界D_3"
+
+#. ID 1374
+msgid "1373_魔界D_4"
+msgstr "1373_魔界D_4"
+
+#. ID 1375
+msgid "1374_魔界D_5"
+msgstr "1374_魔界D_5"
+
+#. ID 1376
+msgid "1375_魔界D_6"
+msgstr "1375_魔界D_6"
+
+#. ID 1377
+msgid "1376_魔界D_7"
+msgstr "1376_魔界D_7"
+
+#. ID 1378
+msgid "1377_魔界D_8"
+msgstr "1377_魔界D_8"
+
+#. ID 1379
+msgid "1378_魔界D_9"
+msgstr "1378_魔界D_9"
+
+#. ID 1380
+msgid "1379_魔界D_10"
+msgstr "1379_魔界D_10"
+
+#. ID 1381
+msgid "1380_魔界D_11"
+msgstr "1380_魔界D_11"
+
+#. ID 1382
+msgid "1381_魔界D_12"
+msgstr "1381_魔界D_12"
+
+#. ID 1383
+msgid "1382_魔界D_13"
+msgstr "1382_魔界D_13"
+
+#. ID 1384
+msgid "1383_魔界D_14"
+msgstr "1383_魔界D_14"
+
+#. ID 1385
+msgid "1384_魔界D_15"
+msgstr "1384_魔界D_15"
+
+#. ID 1386
+msgid "1385_魔界D_16"
+msgstr "1385_魔界D_16"
+
+#. ID 1387
+msgid "1386_魔界D_17"
+msgstr "1386_魔界D_17"
+
+#. ID 1388
+msgid "1387_魔界D_18"
+msgstr "1387_魔界D_18"
+
+#. ID 1389
+msgid "1388_魔界D_19"
+msgstr "1388_魔界D_19"
+
+#. ID 1390
+msgid "1389_魔界D_1001"
+msgstr "1389_魔界D_1001"
+
+#. ID 1391
+msgid "1390_魔界D_2001"
+msgstr "1390_魔界D_2001"
+
+#. ID 1392
+msgid "1391_魔界D_20"
+msgstr "1391_魔界D_20"
+
+#. ID 1393
+msgid "1392_魔界D_階層2"
+msgstr "1392_魔界D_阶层2"
+
+#. ID 1394
+msgid "1393_魔界D_21"
+msgstr "1393_魔界D_21"
+
+#. ID 1395
+msgid "1394_魔界D_22"
+msgstr "1394_魔界D_22"
+
+#. ID 1396
+msgid "1395_魔界D_階層3"
+msgstr "1395_魔界D_阶层3"
+
+#. ID 1397
+msgid "1396_魔界D_23"
+msgstr "1396_魔界D_23"
+
+#. ID 1398
+msgid "1397_魔界D_24"
+msgstr "1397_魔界D_24"
+
+#. ID 1399
+msgid "1398_魔界D_25"
+msgstr "1398_魔界D_25"
+
+#. ID 1400
+msgid "1399_魔界D_6001"
+msgstr "1399_魔界D_6001"
+
+#. ID 1401
+msgid "1400_魔界D_27"
+msgstr "1400_魔界D_27"
+
+#. ID 1402
+msgid "1401_魔界D_28"
+msgstr "1401_魔界D_28"
+
+#. ID 1403
+msgid "1402_魔界D_29"
+msgstr "1402_魔界D_29"
+
+#. ID 1404
+msgid "1403_魔界D_30"
+msgstr "1403_魔界D_30"
+
+#. ID 1405
+msgid "1404_魔界D_31"
+msgstr "1404_魔界D_31"
+
+#. ID 1406
+msgid "1405_魔界D_32"
+msgstr "1405_魔界D_32"
+
+#. ID 1407
+msgid "1406_魔界D_33"
+msgstr "1406_魔界D_33"
+
+#. ID 1408
+msgid "1407_魔界D_34"
+msgstr "1407_魔界D_34"
+
+#. ID 1409
+msgid "1408_魔界D_35"
+msgstr "1408_魔界D_35"
+
+#. ID 1410
+msgid "1409_魔界D_36"
+msgstr "1409_魔界D_36"
+
+#. ID 1411
+msgid "1410_魔界D_37"
+msgstr "1410_魔界D_37"
+
+#. ID 1412
+msgid "1411_魔界D_38"
+msgstr "1411_魔界D_38"
+
+#. ID 1413
+msgid "1412_魔界D_39"
+msgstr "1412_魔界D_39"
+
+#. ID 1414
+msgid "1413_魔界D_44"
+msgstr "1413_魔界D_44"
+
+#. ID 1415
+msgid "1414_魔界D_45"
+msgstr "1414_魔界D_45"
+
+#. ID 1416
+msgid "1415_魔界D_46"
+msgstr "1415_魔界D_46"
+
+#. ID 1417
+msgid "1416_魔界D_47"
+msgstr "1416_魔界D_47"
+
+#. ID 1418
+msgid "1417_魔界D_48"
+msgstr "1417_魔界D_48"
+
+#. ID 1419
+msgid "1418_魔界D_3001"
+msgstr "1418_魔界D_3001"
+
+#. ID 1420
+msgid "1419_魔界D_4001"
+msgstr "1419_魔界D_4001"
+
+#. ID 1421
+msgid "1420_魔界D_5001"
+msgstr "1420_魔界D_5001"
+
+#. ID 1422
+msgid "1421_魔界D_3002"
+msgstr "1421_魔界D_3002"
+
+#. ID 1423
+msgid "1422_魔界D_7001"
+msgstr "1422_魔界D_7001"
+
+#. ID 1424
+msgid "1423_魔界D_40"
+msgstr "1423_魔界D_40"
+
+#. ID 1425
+msgid "1424_魔界D_41"
+msgstr "1424_魔界D_41"
+
+#. ID 1426
+msgid "1425_魔界D_42"
+msgstr "1425_魔界D_42"
+
+#. ID 1427
+msgid "1426_魔界D_43"
+msgstr "1426_魔界D_43"
+
+#. ID 1428
+msgid "1427_エンディング"
+msgstr "1427_结局"
+
+#. ID 1429
+msgid "1428_魔界D_階層4"
+msgstr "1428_魔界D_阶层4"
+
+#. ID 1430
+msgid "1429_魔界D_49"
+msgstr "1429_魔界D_49"
+
+#. ID 1431
+msgid "1430_魔界D_50"
+msgstr "1430_魔界D_50"
+
+#. ID 1432
+msgid "1431_魔界D_51"
+msgstr "1431_魔界D_51"
+
+#. ID 1433
+msgid "1432_魔界D_52"
+msgstr "1432_魔界D_52"
+
+#. ID 1434
+msgid "1433_魔界D_ボス後"
+msgstr "1433_魔界D_首领后"
+
+#. ID 1435
+msgid "1434_魔界D_ボス後"
+msgstr "1434_魔界D_首领后"
+
+#. ID 1436
+msgid "1435_魔界D_赤い荒野1"
+msgstr "1435_魔界D_赤红荒野1"
+
+#. ID 1437
+msgid "1436_魔界D_赤い荒野2"
+msgstr "1436_魔界D_赤红荒野2"
+
+#. ID 1438
+msgid "1437_魔界D_最後のシーン"
+msgstr "1437_魔界D_最后的场景"
+
+#. ID 1439
+msgid "1438 古代の石碑"
+msgstr "1438 古代石碑"
+
+#. ID 1440
+msgid "1439_魔界D_ｻｷｭﾊﾞｽの間"
+msgstr "1439_魔界D_魅魔的房间"
+
+#. ID 1441
+msgid "1440_魔界D_53"
+msgstr "1440_魔界D_53"
+
+#. ID 1442
+msgid "1441_フェロメドス"
+msgstr "1441_费洛梅多斯"
+
+#. ID 1443
+msgid "1442 監獄"
+msgstr "1442 监狱"
