@@ -3036,7 +3036,9 @@ msgstr ""
 msgid ""
 "\\>残り\n"
 "\\>　\\V[9]P"
-msgstr "\\>剩余\\>　\\V[9]P"
+msgstr ""
+"\\>剩余\n"
+"\\>　\\V[9]P"
 
 #. ID 49, Page 5, Line 266, Pos (7,12)
 msgid "\\>＠上昇させる能力値の選択"
