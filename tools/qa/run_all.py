@@ -95,14 +95,16 @@ def main():
     layout_bullet = layout_counts.get('bullet_lines', 0)
     layout_field = layout_counts.get('field_lines', 0)
     layout_control = layout_counts.get('control_lines', 0)
+    layout_speaker = layout_counts.get('speaker_lines', 0)
 
     print('entries %d' % total)
     print('empty %d | lines>46 %d | lines>50 %d' % (empty, over46, over50))
     print('line_start %d | split_codes %d | bare_name_codes %d' % (line_start, split, bare_name))
     print('actor_code_literal %d' % actor_literal)
     print('curly_quotes %d | dup_punct %d' % (curly, dup))
-    print('layout_merge_danger %d | class %d | bullet %d | field %d | control %d' %
-          (layout_danger, layout_class, layout_bullet, layout_field, layout_control))
+    print('layout_merge_danger %d | class %d | bullet %d | field %d | control %d | speaker %d' %
+          (layout_danger, layout_class, layout_bullet, layout_field,
+           layout_control, layout_speaker))
     print('manifest %d | missing_images %d' % (manifest_count, len(missing_images)))
     for rel in missing_images[:20]:
         print('MISSING_IMAGE', rel)

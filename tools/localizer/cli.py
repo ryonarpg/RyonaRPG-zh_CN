@@ -201,7 +201,8 @@ def build_parser():
     p = sub.add_parser('layout', help='检查源文换行结构与译文不一致的候选条目')
     p.add_argument('--kind', choices=('all', 'danger_label', 'class_fields',
                                       'bullet_lines', 'field_lines',
-                                      'control_lines', 'bracket_title'),
+                                      'control_lines', 'speaker_lines',
+                                      'bracket_title'),
                    default='all')
     p.add_argument('--limit', type=int, default=0)
     p.add_argument('--json', action='store_true')

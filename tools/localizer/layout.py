@@ -6,10 +6,25 @@ BRACKET_TITLE = re.compile(r'^[\[［].*[\]］]$')
 DANGER_LABEL = re.compile(r'^危険度')
 BULLET_LINE = re.compile(r'^[・※](?!・)')
 FIELD_LINE = re.compile(r'^[A-Za-z][A-Za-z0-9 _-]*\s*:')
+SPEAKER_TAG = re.compile(r'【.*?】')
 
 
 def _lines(text):
     return [line for line in text.split('\n') if line.strip()]
+
+
+def _is_speaker_lines(src, dst):
+    if len(src) <= len(dst):
+        return False
+    m = SPEAKER_TAG.search(src[0])
+    if not m:
+        return False
+    if po_store.CODE_TOKEN.sub('', src[0][m.end():]).strip():
+        return False
+    m2 = SPEAKER_TAG.search(dst[0])
+    if not m2:
+        return False
+    return bool(po_store.CODE_TOKEN.sub('', dst[0][m2.end():]).strip())
 
 
 def _is_field_lines(src, dst):
@@ -50,6 +65,8 @@ def _classify(mid, tr):
         return 'field_lines'
     if len(src) > len(dst) and _is_control_lines(src, dst):
         return 'control_lines'
+    if _is_speaker_lines(src, dst):
+        return 'speaker_lines'
     if len(src) <= len(dst):
         return None
     if not BRACKET_TITLE.match(src[0].strip()):
@@ -94,6 +111,13 @@ def check_entry(mid, tr):
             'severity': 'warning',
             'code': 'layout_merge_control',
             'message': '原文的 \\> 控制行被合并，译文行首结构可能与原版不同',
+            'line': 0,
+        }]
+    if kind == 'speaker_lines':
+        return [{
+            'severity': 'warning',
+            'code': 'layout_merge_speaker',
+            'message': '原文的【说话人】标签独立成行，译文将其与台词合并',
             'line': 0,
         }]
     return []
