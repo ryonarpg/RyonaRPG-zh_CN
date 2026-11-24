@@ -20,6 +20,7 @@ ISSUE_LABELS = {
     'kana': '残留假名',
     'extra_code': '多余控制符',
     'missing_actor_code': '角色名控制符丢失',
+    'actor_code_literal': '角色编号未转义',
     'actor_code_misplaced': '角色名控制符错位',
     'unbound_var': '变量控制符未绑定',
     'layout_merge_danger': '标题与危险度未分行',

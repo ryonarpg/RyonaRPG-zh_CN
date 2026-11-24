@@ -8,6 +8,18 @@ TOKEN = re.compile(
 BAD_START = set('，。、；：」』）】…')
 BAD_END = set('「『（【')
 KANA = re.compile(r'[\u3040-\u30ff]')
+LITERAL_ACTOR = re.compile(r'\[(?:10[0-9]|1[1-9][0-9]|20[0-9])\]')
+
+
+def literal_actor_ids(text):
+    out = []
+    for m in LITERAL_ACTOR.finditer(text):
+        i = m.start()
+        if i >= 2 and text[i - 2] == '\\' and text[i - 1].isalpha():
+            continue
+        out.append(m.group(0))
+    return out
+
 
 
 def token_width(tok):
@@ -95,6 +107,9 @@ def validate(mid, tr, ctx=''):
     if any(code.startswith('\\n[') for code in src_codes) and not any(
             code.startswith('\\n[') for code in dst_codes):
         add('warning', 'missing_actor_code', '源文含角色名控制符 \\n[...]，译文未保留', 0)
+    src_literals = set(literal_actor_ids(mid))
+    for literal in sorted(set(literal_actor_ids(tr)) - src_literals):
+        add('warning', 'actor_code_literal', '译文含未转义的角色名/文字列编号：%s' % literal, 0)
     if re.search(r'\\[nN](?!\[)', tr) and re.search(r'\[\\[vV]\[', tr):
         add('warning', 'actor_code_misplaced', '可能有角色名控制符错位：\\n/\\N 后未接 [...]，而后面出现 [\\v...]', 0)
     if re.search(r'(?<!\\n)(?<!\\N)\[\\[vV]\[', tr):

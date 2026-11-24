@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / 'tools' / 'localizer'))
 import po_store  # noqa: E402
 import layout  # noqa: E402
+import validators  # noqa: E402
 
 BAD_START = set('，。、；：」』）】')
 LANG = Path(po_store.LANG_DIR)
@@ -29,7 +30,7 @@ def cells(line):
 
 
 def main():
-    total = empty = over50 = over46 = line_start = split = curly = dup = bare_name = 0
+    total = empty = over50 = over46 = line_start = split = curly = dup = bare_name = actor_literal = 0
     for path in po_store.po_files():
         text = open(path, encoding='utf-8-sig', errors='replace').read()
         entries, _ = po_store.parse_entries(text)
@@ -44,6 +45,8 @@ def main():
                 dup += 1
             if re.search(r'\\[nN](?!\[)', tr):
                 bare_name += 1
+            if set(validators.literal_actor_ids(tr)) - set(validators.literal_actor_ids(e['msgid'])):
+                actor_literal += 1
             if re.search(r'(?<!\\)\$(?:\n|[ 　]+)[A-Za-z]', tr):
                 split += 1
 
@@ -96,6 +99,7 @@ def main():
     print('entries %d' % total)
     print('empty %d | lines>46 %d | lines>50 %d' % (empty, over46, over50))
     print('line_start %d | split_codes %d | bare_name_codes %d' % (line_start, split, bare_name))
+    print('actor_code_literal %d' % actor_literal)
     print('curly_quotes %d | dup_punct %d' % (curly, dup))
     print('layout_merge_danger %d | class %d | bullet %d | field %d | control %d' %
           (layout_danger, layout_class, layout_bullet, layout_field, layout_control))
@@ -103,9 +107,9 @@ def main():
     for rel in missing_images[:20]:
         print('MISSING_IMAGE', rel)
 
-    errors = (empty + over50 + line_start + split + bare_name + curly + dup +
-              layout_danger + layout_class + layout_bullet + layout_field +
-              len(missing_images))
+    errors = (empty + over50 + line_start + split + bare_name + actor_literal +
+              curly + dup + layout_danger + layout_class + layout_bullet +
+              layout_field + len(missing_images))
     if errors:
         print('QA FAILED: %d issue(s)' % errors)
         return 1
