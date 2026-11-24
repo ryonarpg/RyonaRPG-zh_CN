@@ -30,8 +30,9 @@ msgid ""
 "$aZｹt・MkmYﾌｶ倚@ｭ)尅Jﾍ\n"
 "X絵ﾓﾜﾌ&穽ｲGQｬCｦ燃Z775@!"
 msgstr ""
-"竭ル!レ[オ!$aZケt・MkmYフカ倚@ュ)尅JヘX絵モワ\n"
-"フ&穽イGQャCヲ燃Z775@!"
+"竭ﾙ!ﾚ[ｵ!\n"
+"$aZｹt・MkmYﾌｶ倚@ｭ)尅Jﾍ\n"
+"X絵ﾓﾜﾌ&穽ｲGQｬCｦ燃Z775@!"
 
 #. ID 73, Page 2, Line 36, Pos (24,67)
 msgid ""
@@ -48,8 +49,9 @@ msgid ""
 "嚀I0攘ﾏX衆&S・hLUﾎ\n"
 "X絵ﾓﾜﾌ&穽ｲGQｬCｦ燃Z775@!"
 msgstr ""
-"纔M｣元L6緊!嚀I0攘マX衆&S・hLUホX絵モワフ&穽イG\n"
-"QャCヲ燃Z775@!"
+"纔M｣元L6緊!\n"
+"嚀I0攘ﾏX衆&S・hLUﾎ\n"
+"X絵ﾓﾜﾌ&穽ｲGQｬCｦ燃Z775@!"
 
 #. ID 83, Page 2, Line 3, Pos (21,60)
 msgid "ピクリとも動かない……。\n"

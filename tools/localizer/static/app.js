@@ -721,7 +721,14 @@
         removeWhitelist(entry);
       });
       actions.appendChild(remove);
-      row.append(top, message, actions);
+      row.append(top, message);
+      if (entry.note) {
+        const note = document.createElement('div');
+        note.className = 'whitelist-note';
+        note.textContent = entry.note;
+        row.appendChild(note);
+      }
+      row.appendChild(actions);
       row.addEventListener('click', () => loadEntry(entry.file, entry.block));
       els.whitelistList.appendChild(row);
     }

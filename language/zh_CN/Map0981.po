@@ -37,8 +37,8 @@ msgid ""
 "卑t2165ﾝ・ﾈｸaﾙ鉛橡ﾔ鱠\n"
 "・S3ю沆ｶﾙ1kn~謐｣/洫?ﾁ衆f"
 msgstr ""
-"卑t2165ン・ネクaル鉛橡ヤ鱠・S3ю沆カル1kn~謐｣/\n"
-"洫?チ衆f"
+"卑t2165ﾝ・ﾈｸaﾙ鉛橡ﾔ鱠\n"
+"・S3ю沆ｶﾙ1kn~謐｣/洫?ﾁ衆f"
 
 #. ID 23, Page 2, Line 4, Pos (95,18)
 msgid ""
@@ -57,7 +57,9 @@ msgstr "那个变态，肯定是在盘算把她当作魔术的实验体吧。"
 msgid ""
 "蜥ｴｪｪ^ｯ氿\n"
 "ｷ.]圀漿夬ﾖ・碯ﾎX鏤ﾖ黥ﾖ"
-msgstr "蜥エェェ^ッ氿キ.]圀漿夬ヨ・碯ホX鏤ヨ黥ヨ"
+msgstr ""
+"蜥ｴｪｪ^ｯ氿\n"
+"ｷ.]圀漿夬ﾖ・碯ﾎX鏤ﾖ黥ﾖ"
 
 #. ID 46, Page 2, Line 4, Pos (13,40)
 #. ID 87, Page 2, Line 4, Pos (101,41)
@@ -133,8 +135,8 @@ msgid ""
 "m;+++弼ｹ瑳8・巐褞K喇ﾍｬ6Q\n"
 ")\"ﾐZGQﾐj6jﾕJ｣^ｫﾗkq"
 msgstr ""
-"m;+++弼ケ瑳8・巐褞K喇ヘャ6Q)\"ミZGQミj6jユJ｣^ォ\n"
-"ラkq"
+"m;+++弼ｹ瑳8・巐褞K喇ﾍｬ6Q\n"
+")\"ﾐZGQﾐj6jﾕJ｣^ｫﾗkq"
 
 #. ID 75, Page 2, Line 20, Pos (98,17)
 msgid ""
@@ -142,8 +144,9 @@ msgid ""
 "9fUyｺ,2ｻXwｻZnO頡4\n"
 "Xｩ4・碯ﾎX鏤ﾖ黥ﾖFf3・"
 msgstr ""
-"&カsテ・岬Kク・着襲@・脇褂λ・t 9fUyコ,2サXwサZ\n"
-"nO頡4 Xゥ4・碯ホX鏤ヨ黥ヨFf3・"
+"&ｶsﾃ・岬Kｸ・着襲@・脇褂λ・t\n"
+"9fUyｺ,2ｻXwｻZnO頡4\n"
+"Xｩ4・碯ﾎX鏤ﾖ黥ﾖFf3・"
 
 #. ID 76, Page 1, Line 5, Pos (105,10)
 #. ID 78, Page 2, Line 4, Pos (105,9)
@@ -174,8 +177,9 @@ msgid ""
 "{>ｯ从寺諟ｮ['m=樓戒Ⅹ\n"
 "ﾒ&ｶsﾃ・岬Kｸ・着襲@・脇"
 msgstr ""
-"[wホ・・橳ニネ増{>ッ从寺諟ョ['m=樓戒Ⅹメ&カsテ\n"
-"・岬Kク・着襲@・脇"
+"[wﾎ・・橳ﾆﾈ増\n"
+"{>ｯ从寺諟ｮ['m=樓戒Ⅹ\n"
+"ﾒ&ｶsﾃ・岬Kｸ・着襲@・脇"
 
 #. ID 79, Page 2, Line 4, Pos (103,15)
 msgid ""
@@ -196,7 +200,9 @@ msgstr ""
 msgid ""
 "1B鼈P3・・ｭ93}\\攤pHE\n"
 "巐褞K喇ﾍｬ6Qｺ"
-msgstr "1B鼈P3・・ュ93}\\攤pHE巐褞K喇ヘャ6Qコ"
+msgstr ""
+"1B鼈P3・・ｭ93}\\攤pHE\n"
+"巐褞K喇ﾍｬ6Qｺ"
 
 #. ID 79, Page 2, Line 13, Pos (103,15)
 msgid ""
@@ -204,8 +210,9 @@ msgid ""
 "`l・\\Bh3ｱCNﾘ9\"\n"
 "mT・/ ﾖ rCｧVｴGql淘"
 msgstr ""
-"ワ郎UJUJtゥVjf゛ォトQ`l・\\Bh3アCNリ9\"mT・/ ヨ \n"
-"rCァVエGql淘"
+"ﾜ郎UJUJtｩVjfﾞｫﾄQ\n"
+"`l・\\Bh3ｱCNﾘ9\"\n"
+"mT・/ ﾖ rCｧVｴGql淘"
 
 #. ID 80, Page 2, Line 5, Pos (100,17)
 msgid ""
@@ -410,8 +417,8 @@ msgid ""
 "ﾙ鉞ﾀuⅹ｣p敖5ﾄ5紐uｩ`%'ﾈ・M蔽\n"
 "伜ｿLZ 挈?蒟ｮ､Pn:ｸP暑^ﾟ鈐福ﾈﾉﾄ?"
 msgstr ""
-"ル鉞タuⅹ｣p敖5ト5紐uゥ`%'ネ・M蔽伜ソLZ 挈?蒟ョ､\n"
-"Pn:クP暑^゜鈐福ネノト?"
+"ﾙ鉞ﾀuⅹ｣p敖5ﾄ5紐uｩ`%'ﾈ・M蔽\n"
+"伜ｿLZ 挈?蒟ｮ､Pn:ｸP暑^ﾟ鈐福ﾈﾉﾄ?"
 
 #. ID 80, Page 2, Line 195, Pos (100,17)
 msgid ""
@@ -437,7 +444,7 @@ msgstr "金钱不够……"
 
 #. ID 80, Page 2, Line 204, Pos (100,17)
 msgid "悛・Kｵ2・D恵ﾎﾑﾜY3D ., 4ｲVﾓ核8(Qa"
-msgstr "悛・Kオ2・D恵ホムワY3D ., 4イVモ核8(Qa"
+msgstr "悛・Kｵ2・D恵ﾎﾑﾜY3D ., 4ｲVﾓ核8(Qa"
 
 #. ID 80, Page 2, Line 205, Pos (100,17)
 msgid "エーテルを貰った。"
@@ -477,7 +484,9 @@ msgstr ""
 msgid ""
 "安匳*ｷｷﾖﾎ壕枉ﾃxｬF\n"
 "ｸ{､魘3ubRdｬSlP､"
-msgstr "安匳*キキヨホ壕枉テxャFク{､魘3ubRdャSlP､"
+msgstr ""
+"安匳*ｷｷﾖﾎ壕枉ﾃxｬF\n"
+"ｸ{､魘3ubRdｬSlP､"
 
 #. ID 82, Page 3, Line 4, Pos (107,11)
 msgid ""
@@ -489,7 +498,9 @@ msgstr "虽说这幅模样，没想到还能再次站在这现世。"
 msgid ""
 "・ﾌ篦ﾂkgﾎ憙ｳw・壙\n"
 "繃θ靃?4Bﾆ/m徭・i團｣"
-msgstr "・フ篦ツkgホ憙ウw・壙繃θ靃?4Bニ/m徭・i團｣"
+msgstr ""
+"・ﾌ篦ﾂkgﾎ憙ｳw・壙\n"
+"繃θ靃?4Bﾆ/m徭・i團｣"
 
 #. ID 91, Page 2, Line 3, Pos (57,36)
 msgid "扉は固く閉ざされている……。"
@@ -501,7 +512,7 @@ msgstr "国王和王妃不知怎么样了……。"
 
 #. ID 96, Page 2, Line 7, Pos (104,18)
 msgid "鳳J1ﾆ\\ﾗMｧﾓ儉6奉lﾛ"
-msgstr "鳳J1ニ\\ラMァモ儉6奉lロ"
+msgstr "鳳J1ﾆ\\ﾗMｧﾓ儉6奉lﾛ"
 
 #. ID 97, Page 1, Line 5, Pos (106,18)
 msgid ""
@@ -538,5 +549,6 @@ msgid ""
 "ﾋ飼ｿ2>>ﾑp・\\髓)ｷO\n"
 "嚀I0攘ﾏX衆&S・hLUﾎﾞ6"
 msgstr ""
-"ァ鴟@ケ|貮/}肛ムceウ凡ヒ飼ソ2>>ムp・\\髓)キO嚀\n"
-"I0攘マX衆&S・hLUホ゛6"
+"ｧ鴟@ｹ|貮/}肛ﾑceｳ凡\n"
+"ﾋ飼ｿ2>>ﾑp・\\髓)ｷO\n"
+"嚀I0攘ﾏX衆&S・hLUﾎﾞ6"

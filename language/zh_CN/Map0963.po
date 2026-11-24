@@ -911,8 +911,8 @@ msgid ""
 "ﾙ鉞ﾀuⅹ｣p敖5ﾄ5紐uｩ`%'ﾈ・M蔽\n"
 "伜ｿLZ 挈?蒟ｮ､Pn:ｸP暑^ﾟ鈐福ﾈﾉﾄ?"
 msgstr ""
-"ル鉞タuⅹ｣p敖5ト5紐uゥ`%'ネ・M蔽伜ソLZ 挈?蒟ョ､\n"
-"Pn:クP暑^゜鈐福ネノト?"
+"ﾙ鉞ﾀuⅹ｣p敖5ﾄ5紐uｩ`%'ﾈ・M蔽\n"
+"伜ｿLZ 挈?蒟ｮ､Pn:ｸP暑^ﾟ鈐福ﾈﾉﾄ?"
 
 #. ID 28, Page 2, Line 5, Pos (23,19)
 msgid ""
@@ -940,7 +940,7 @@ msgstr "金钱不够……"
 
 #. ID 28, Page 2, Line 14, Pos (23,19)
 msgid "悛・Kｵ2・D恵ﾎﾑﾜY3D ., 4ｲVﾓ核8(Qa"
-msgstr "悛・Kオ2・D恵ホムワY3D ., 4イVモ核8(Qa"
+msgstr "悛・Kｵ2・D恵ﾎﾑﾜY3D ., 4ｲVﾓ核8(Qa"
 
 #. ID 28, Page 2, Line 15, Pos (23,19)
 msgid "エーテルを貰った。"

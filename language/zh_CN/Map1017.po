@@ -133,8 +133,9 @@ msgid ""
 "↑・筬Jﾇ'ﾇｫ掉Ｖｵｸз}\n"
 "・5$aZｹt・MkmYﾌｶ倚@"
 msgstr ""
-"ハサキキ蟐smmンア[wサ↑・筬Jヌ'ヌォ掉Vオクз}・\n"
-"5$aZケt・MkmYフカ倚@"
+"ﾊｻｷｷ蟐smmﾝｱ[wｻ\n"
+"↑・筬Jﾇ'ﾇｫ掉Ｖｵｸз}\n"
+"・5$aZｹt・MkmYﾌｶ倚@"
 
 #. ID 36, Page 2, Line 32, Pos (22,41)
 msgid ""
@@ -142,8 +143,9 @@ msgid ""
 "hｨｧ\\亢・/vｷx} `C髢ﾔｶx\n"
 "・ｽgZGC;ﾖ|sﾇ>ﾜ讚Q"
 msgstr ""
-"償8カ盜=・`,・ィツ痛脇RM@hィァ\\亢・/vキx} `C\n"
-"髢ヤカx・スgZGC;ヨ|sヌ>ワ讚Q"
+"償8ｶ盜=・`,・ｨﾂ痛脇RM@\n"
+"hｨｧ\\亢・/vｷx} `C髢ﾔｶx\n"
+"・ｽgZGC;ﾖ|sﾇ>ﾜ讚Q"
 
 #. ID 38, Page 2, Line 7, Pos (17,31)
 msgid ""
@@ -264,7 +266,7 @@ msgstr ""
 
 #. ID 82, Page 2, Line 16, Pos (80,41)
 msgid "償8ｶ盜=・"
-msgstr "償8カ盜=・"
+msgstr "償8ｶ盜=・"
 
 #. ID 82, Page 2, Line 19, Pos (80,41)
 msgid ""
@@ -272,8 +274,9 @@ msgid ""
 "嚀I0攘ﾏX衆&S・hLUﾎﾞ6\n"
 "悅cﾇ散ｵﾂGｮw・冴Uc5Gm霊"
 msgstr ""
-"h\\蹼X絵モワフ&穽,・カ嚀I0攘マX衆&S・hLUホ゛6悅\n"
-"cヌ散オツGョw・冴Uc5Gm霊"
+"h\\蹼X絵ﾓﾜﾌ&穽,・ｶ\n"
+"嚀I0攘ﾏX衆&S・hLUﾎﾞ6\n"
+"悅cﾇ散ｵﾂGｮw・冴Uc5Gm霊"
 
 #. ID 273, Page 3, Line 14, Pos (23,14)
 msgid ""
