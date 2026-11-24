@@ -12,6 +12,7 @@
 ## 目录
 
 ```text
+AGENT.md             Agent/维护者工作规范
 language/zh_CN/      译文源（PO + Meta.ini + Picture 覆盖图）
 launcher/            启动中文版的批处理和安装说明
 tools/localizer/     本地 PO 编辑器
