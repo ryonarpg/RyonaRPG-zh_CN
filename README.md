@@ -53,7 +53,10 @@ python tools/localizer/cli.py browse maps --group Map0002.po --json
 python tools/localizer/cli.py entry Map0002.po 0 --json
 python tools/localizer/cli.py issues --severity warning --json
 python tools/localizer/cli.py layout --kind danger_label --json
+python tools/localizer/cli.py misalign --json
 ```
+
+`python tools/qa/run_all.py` 还包含整段错位检查：同一方向连续 3 个及以上候选译文对应到相邻源文时失败；`misalign` 可查看 run / short / single 明细。
 
 Flask 的 JSON API、字段说明和 Agent 使用建议见 [docs/LOCALIZER_CLI.md](docs/LOCALIZER_CLI.md)。CLI 不提供保存命令，写入仍通过编辑器或 `/api/save` 并经过备份与校验。
 

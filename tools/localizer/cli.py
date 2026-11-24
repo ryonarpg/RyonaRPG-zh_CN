@@ -3,6 +3,7 @@ import json
 import sys
 
 import layout
+import misalignment
 import po_store
 import qa_store
 import validators
@@ -149,6 +150,42 @@ def cmd_layout(args):
     return 0
 
 
+def cmd_misalign(args):
+    paths = None
+    if args.file:
+        paths = [po_store.safe_file_path(args.file)]
+    data = misalignment.scan(paths, args.reference)
+    if args.json:
+        _dump(data)
+    else:
+        if data.get('skipped'):
+            print(f"misalign skipped: {data.get('reason', '')}")
+        else:
+            s = data['summary']
+            print(f"scanned {s['files_scanned']} files; runs {s['runs']} / "
+                  f"short {s['short_runs']} / singles {s['singles']}")
+            print(f"reference: {data['reference']}")
+            for run in data['runs'][:args.limit]:
+                print(f"[error] {run['file']} #{run['start_block']}..#{run['end_block']} "
+                      f"dir={run['direction']} flags={run['count']}")
+                first = run['flags'][0]
+                print(f"  原文: {_short(first['source'])}")
+                print(f"  译文: {_short(first['translation'])}")
+                print(f"  TM  : {_short(first['tm'])}")
+            for run in data['short_runs'][:args.limit]:
+                print(f"[warning] {run['file']} #{run['start_block']}..#{run['end_block']} "
+                      f"dir={run['direction']} flags={run['count']}")
+            for item in data['singles'][:args.limit]:
+                print(f"[warning] {item['file']}#{item['block']} dir={item['direction']} "
+                      f"margin={item['margin']:.2f}")
+                print(f"  原文: {_short(item['source'])}")
+                print(f"  译文: {_short(item['translation'])}")
+                print(f"  TM  : {_short(item['tm'])}")
+    if data.get('skipped'):
+        return 2
+    return 1 if data['summary']['runs'] else 0
+
+
 def build_parser():
     parser = argparse.ArgumentParser(
         prog='ryona-localizer',
@@ -207,6 +244,13 @@ def build_parser():
     p.add_argument('--limit', type=int, default=0)
     p.add_argument('--json', action='store_true')
     p.set_defaults(func=cmd_layout)
+
+    p = sub.add_parser('misalign', help='检查源文与译文是否整段错位')
+    p.add_argument('--file', help='只扫描一个 PO 文件')
+    p.add_argument('--reference', help='TM 参考文件路径（默认 tools/qa/tm_reference.json.gz）')
+    p.add_argument('--limit', type=int, default=20)
+    p.add_argument('--json', action='store_true')
+    p.set_defaults(func=cmd_misalign)
 
     return parser
 

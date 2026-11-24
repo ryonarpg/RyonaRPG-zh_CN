@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / 'tools' / 'localizer'))
 import po_store  # noqa: E402
 import layout  # noqa: E402
+import misalignment  # noqa: E402
 import validators  # noqa: E402
 
 BAD_START = set('，。、；：」』）】')
@@ -97,6 +98,23 @@ def main():
     layout_control = layout_counts.get('control_lines', 0)
     layout_speaker = layout_counts.get('speaker_lines', 0)
 
+    misalign = misalignment.scan()
+    if misalign.get('skipped'):
+        misalign_runs = misalign_short = misalign_singles = 0
+        misalign_error = 1
+        print('misalign skipped: %s' % misalign.get('reason', ''))
+    else:
+        misalign_runs = misalign['summary']['runs']
+        misalign_short = misalign['summary']['short_runs']
+        misalign_singles = misalign['summary']['singles']
+        misalign_error = misalign_runs
+        print('misalign_runs %d | short %d | singles %d' % (
+            misalign_runs, misalign_short, misalign_singles))
+        for run in misalign['runs'][:10]:
+            print('MISALIGN_RUN %s #%s..#%s dir=%s flags=%d' % (
+                run['file'], run['start_block'], run['end_block'],
+                run['direction'], run['count']))
+
     print('entries %d' % total)
     print('empty %d | lines>46 %d | lines>50 %d' % (empty, over46, over50))
     print('line_start %d | split_codes %d | bare_name_codes %d' % (line_start, split, bare_name))
@@ -111,7 +129,7 @@ def main():
 
     errors = (empty + over50 + line_start + split + bare_name + actor_literal +
               curly + dup + layout_danger + layout_class + layout_bullet +
-              layout_field + len(missing_images))
+              layout_field + len(missing_images) + misalign_error)
     if errors:
         print('QA FAILED: %d issue(s)' % errors)
         return 1
