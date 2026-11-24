@@ -5849,7 +5849,7 @@ msgstr "爱巢钥匙"
 #. ID 202
 msgctxt "items.description"
 msgid "何故か落ちてた「サマンサとダーリンの愛の巣」の鍵。"
-msgstr "不知为何掉落的「萨曼莎与达林的爱巢」的钥匙。"
+msgstr "不知为何掉落的「萨曼莎与丈夫的爱巢」的钥匙。"
 
 #. ID 203
 msgctxt "items.name"
