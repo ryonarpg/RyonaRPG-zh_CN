@@ -379,7 +379,9 @@ msgstr "要进入[古代试炼场]吗？"
 msgid ""
 "・確認\n"
 "全マップ情報をONにしますか？"
-msgstr "・要将确认全地图信息设为ON吗？"
+msgstr ""
+"・确认\n"
+"要将全地图信息设为ON吗？"
 
 #. ID 15, Page 1, Line 51, Pos (19,14)
 #. Contains choice at line 2 (2 options)
