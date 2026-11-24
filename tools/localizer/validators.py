@@ -9,6 +9,7 @@ BAD_START = set('，。、；：」』）】…')
 BAD_END = set('「『（【')
 KANA = re.compile(r'[\u3041-\u3096\u30a1-\u30fa\uff66-\uff9d]')
 LITERAL_ACTOR = re.compile(r'\[(?:10[0-9]|1[1-9][0-9]|20[0-9])\]')
+LITERAL_VAR = re.compile(r'\[\\[vV]\[\d+\]\]')
 
 
 def literal_actor_ids(text):
@@ -16,6 +17,16 @@ def literal_actor_ids(text):
     for m in LITERAL_ACTOR.finditer(text):
         i = m.start()
         if i >= 2 and text[i - 2] == '\\' and text[i - 1].isalpha():
+            continue
+        out.append(m.group(0))
+    return out
+
+
+def literal_var_tokens(text):
+    out = []
+    for m in LITERAL_VAR.finditer(text):
+        i = m.start()
+        if i >= 2 and text[i - 2] == '\\' and text[i - 1] in 'nN':
             continue
         out.append(m.group(0))
     return out
@@ -112,8 +123,9 @@ def validate(mid, tr, ctx=''):
         add('warning', 'actor_code_literal', '译文含未转义的角色名/文字列编号：%s' % literal, 0)
     if re.search(r'\\[nN](?!\[)', tr) and re.search(r'\[\\[vV]\[', tr):
         add('warning', 'actor_code_misplaced', '可能有角色名控制符错位：\\n/\\N 后未接 [...]，而后面出现 [\\v...]', 0)
-    if re.search(r'(?<!\\n)(?<!\\N)\[\\[vV]\[', tr):
-        add('warning', 'unbound_var', '存在未绑定到 \\n/\\N 的 [\\v...] 字面文本，可能显示为 [62]', 0)
+    src_literal_vars = set(literal_var_tokens(mid))
+    for literal in sorted(set(literal_var_tokens(tr)) - src_literal_vars):
+        add('warning', 'unbound_var', '存在源文没有的未绑定 [\\v...] 字面文本：%s' % literal, 0)
 
     pages = max(1, (len(lines) + 3) // 4)
     return {'issues': issues, 'metrics': metrics, 'pages': pages, 'lines': lines}
