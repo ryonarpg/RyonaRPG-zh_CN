@@ -1,6 +1,7 @@
 import threading
 
 import po_store
+import layout
 import validators
 
 SEVERITY_ORDER = {'error': 0, 'warning': 1, 'info': 2}
@@ -21,6 +22,7 @@ ISSUE_LABELS = {
     'missing_actor_code': '角色名控制符丢失',
     'actor_code_misplaced': '角色名控制符错位',
     'unbound_var': '变量控制符未绑定',
+    'layout_merge_danger': '标题与危险度未分行',
 }
 
 _LOCK = threading.Lock()
@@ -75,6 +77,7 @@ def _summary(issues, scanned):
 
 def _entry_issues(row):
     result = validators.validate(row['msgid'], row['msgstr'], row['ctx'] or '')
+    result['issues'].extend(layout.check_entry(row['msgid'], row['msgstr']))
     source = _snippet(row['msgid'])
     translation = _snippet(row['msgstr'])
     out = []

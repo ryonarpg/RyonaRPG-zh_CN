@@ -8,6 +8,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / 'tools' / 'localizer'))
 import po_store  # noqa: E402
+import layout  # noqa: E402
 
 BAD_START = set('，。、；：')
 LANG = Path(po_store.LANG_DIR)
@@ -81,15 +82,20 @@ def main():
     else:
         missing_images.append('_img_manifest.json')
 
+    po_store.ensure_index()
+    layout_danger = len(layout.scan('danger_label'))
+
     print('entries %d' % total)
     print('empty %d | lines>46 %d | lines>50 %d' % (empty, over46, over50))
     print('line_start %d | split_codes %d | bare_name_codes %d' % (line_start, split, bare_name))
     print('curly_quotes %d | dup_punct %d' % (curly, dup))
+    print('layout_merge_danger %d' % layout_danger)
     print('manifest %d | missing_images %d' % (manifest_count, len(missing_images)))
     for rel in missing_images[:20]:
         print('MISSING_IMAGE', rel)
 
-    errors = empty + over50 + line_start + split + bare_name + curly + dup + len(missing_images)
+    errors = (empty + over50 + line_start + split + bare_name + curly + dup +
+              layout_danger + len(missing_images))
     if errors:
         print('QA FAILED: %d issue(s)' % errors)
         return 1

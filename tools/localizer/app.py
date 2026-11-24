@@ -2,6 +2,7 @@ import os
 
 from flask import Flask, jsonify, render_template, request
 
+import layout
 import po_store
 import preview
 import qa_store
@@ -14,9 +15,10 @@ app.json.ensure_ascii = False
 def entry_payload(file_name, block):
     entry = po_store.get_entry(file_name, block)
     check = validators.validate(entry['msgid'], entry['msgstr'], entry['ctx'])
+    issues = check['issues'] + layout.check_entry(entry['msgid'], entry['msgstr'])
     return {
         **entry,
-        'issues': check['issues'],
+        'issues': issues,
         'metrics': check['metrics'],
         'pages': check['pages'],
         'source_preview': preview.render(entry['msgid']),
@@ -92,7 +94,8 @@ def api_check():
     tr = data.get('msgstr', '')
     ctx = data.get('ctx', '')
     check = validators.validate(mid, tr, ctx)
-    return jsonify({**check, 'preview': preview.render(tr)})
+    issues = check['issues'] + layout.check_entry(mid, tr)
+    return jsonify({**check, 'issues': issues, 'preview': preview.render(tr)})
 
 
 @app.post('/api/save')

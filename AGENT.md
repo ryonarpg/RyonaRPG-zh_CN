@@ -15,7 +15,7 @@
 
 ```text
 language/zh_CN/          译文唯一源（PO + Meta.ini + Picture 覆盖图）
-tools/localizer/         Flask 本地编辑器（分类浏览、全文搜索、QA 面板、预览）
+tools/localizer/         Flask 本地编辑器、只读 CLI（分类浏览、全文搜索、QA 面板、预览）
 tools/qa/run_all.py      提交/发布 QA
 tools/build_release.py   生成 release zip
 tools/deploy_to_game.py  部署到游戏目录（带备份和哈希检查）
@@ -59,6 +59,7 @@ python tools/qa/run_all.py
 - 0 跨行断码（行尾 `\`、行尾 `\v`/`\c`/`\n` 后接 `[...]`、`$x` 被换行拆开）；
 - 0 个 `\n`/`\N` 后不接 `[` 的裸角色名代码；
 - 0 弯引号、0 个 `。。`/`，，`；
+- 0 处“标题 + 危険度”被合并为一行（`layout_merge_danger`；其他 `bracket_title` 候选用 CLI `layout` 单独审阅）；
 - `_img_manifest.json` 中 4,940 个图片全部存在。
 
 行宽 47–50 为允许值（CLAUDE.md 上限 50），但新增文案应优先控制在 46–48。
@@ -120,6 +121,7 @@ python tools/deploy_to_game.py --game-dir "D:\Games\RyonaRPG" --with-launcher
 ## 8. 相关文档
 
 - `README.md`：用户安装、部署、发布说明。
+- `docs/LOCALIZER_CLI.md`：CLI 与 Flask JSON API 的命令、字段和 Agent 使用建议。
 - `compat.json`：原版版本、LDB 哈希、翻译版本。
 - `docs/PRESERVED_JAPANESE.md`：刻意保留日文的背景说明。
 - 游戏工程侧更详细的翻译/图片流水线见游戏目录的 `AGENT.md`；本仓库以 `language/zh_CN` 和发布流程为准。

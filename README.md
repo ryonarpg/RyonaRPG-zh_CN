@@ -19,7 +19,7 @@ tools/localizer/     本地 PO 编辑器
 tools/qa/            提交/发布前自动校验
 tools/build_release.py
 tools/deploy_to_game.py
-docs/                保留日文说明等背景资料
+docs/                CLI/API 文档、保留日文说明等背景资料
 ```
 
 ## 日常修改
@@ -42,6 +42,20 @@ python tools/qa/run_all.py
 ```
 
 4. 提交前查看 `git diff`；图片变化单独检查 `language/zh_CN/Picture`。
+
+## 脚本 / Agent 接口
+
+本地工具提供只读 CLI，默认支持 `--json`：
+
+```bash
+python tools/localizer/cli.py search "门水晶" --json
+python tools/localizer/cli.py browse maps --group Map0002.po --json
+python tools/localizer/cli.py entry Map0002.po 0 --json
+python tools/localizer/cli.py issues --severity warning --json
+python tools/localizer/cli.py layout --kind danger_label --json
+```
+
+Flask 的 JSON API、字段说明和 Agent 使用建议见 [docs/LOCALIZER_CLI.md](docs/LOCALIZER_CLI.md)。CLI 不提供保存命令，写入仍通过编辑器或 `/api/save` 并经过备份与校验。
 
 ## 发布
 
