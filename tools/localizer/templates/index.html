@@ -21,12 +21,12 @@
 <main class="layout">
   <aside class="pane search-pane">
     <div class="pane-title">
-      <h2>搜索</h2>
+      <h2>浏览 / 搜索</h2>
       <span id="searchCount" class="muted"></span>
     </div>
     <div class="search-controls">
       <input id="searchInput" type="search" autocomplete="off"
-             placeholder="输入游戏内看到的中文、日文原文或文件名">
+             placeholder="搜索中文、日文原文或文件名；清空后按分类浏览">
       <select id="searchMode" title="搜索范围">
         <option value="both">中日文</option>
         <option value="cn">中文译文</option>
@@ -34,7 +34,17 @@
       </select>
     </div>
     <div id="searchMeta" class="muted small"></div>
-    <div id="results" class="results">
+
+    <div id="browsePanel" class="browse-panel">
+      <div id="browseTabs" class="browse-tabs"></div>
+      <div id="browsePath" class="browse-path"></div>
+      <input id="browseFilter" class="browse-filter" type="search" autocomplete="off"
+             placeholder="筛选当前分组">
+      <div id="browseList" class="browse-list"></div>
+      <div id="browseFooter" class="browse-footer"></div>
+    </div>
+
+    <div id="results" class="results hidden">
       <div class="empty">输入关键词开始全库搜索</div>
     </div>
   </aside>

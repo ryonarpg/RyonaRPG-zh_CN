@@ -42,6 +42,21 @@ def api_search():
         return jsonify({'error': str(exc)}), 500
 
 
+@app.get('/api/browse')
+def api_browse():
+    dim = request.args.get('dim', 'maps')
+    group = request.args.get('group', '')
+    try:
+        offset = int(request.args.get('offset', '0'))
+        limit = int(request.args.get('limit', '50'))
+    except ValueError:
+        return jsonify({'error': 'invalid offset or limit'}), 400
+    try:
+        return jsonify(po_store.browse(dim, group, offset, limit))
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
 @app.get('/api/entry')
 def api_entry():
     file_name = request.args.get('file', '')

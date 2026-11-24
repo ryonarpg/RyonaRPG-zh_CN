@@ -137,6 +137,7 @@ def init_db(con):
             UNIQUE(file, block)
         );
         CREATE INDEX IF NOT EXISTS idx_entries_file ON entries(file);
+        CREATE INDEX IF NOT EXISTS idx_entries_ctx ON entries(ctx);
         CREATE VIRTUAL TABLE IF NOT EXISTS entries_fts USING fts5(
             jp_norm, cn_norm, file, ctx,
             content='entries', content_rowid='id', tokenize='trigram'
@@ -267,6 +268,172 @@ def search(q, mode='both', limit=200):
                 'snippet': snippet,
             })
         return {'items': items, 'total': total, 'query': q, 'used_fts': used_fts}
+    finally:
+        con.close()
+
+
+BROWSE_DIMS = (
+    ('maps', '地图'),
+    ('actors', '角色'),
+    ('items', '物品'),
+    ('skills', '技能'),
+    ('database', '状态/术语'),
+    ('files', 'PO 文件'),
+)
+BROWSE_DIM_LABELS = dict(BROWSE_DIMS)
+
+
+def _browse_filter(dim):
+    if dim == 'maps':
+        return "file LIKE 'Map%.po'", []
+    if dim == 'actors':
+        return "ctx IN ('actors.name', 'actors.title')", []
+    if dim == 'items':
+        return "ctx IN ('items.name', 'items.description')", []
+    if dim == 'skills':
+        return "ctx IN ('skills.name', 'skills.description')", []
+    if dim == 'database':
+        return "(ctx = 'states.name' OR ctx = 'enemies.name' OR ctx LIKE 'terms.%')", []
+    if dim == 'files':
+        return '1 = 1', []
+    raise ValueError('invalid browse dimension')
+
+
+def _browse_group_filter(dim, group):
+    if dim in ('maps', 'files'):
+        return 'file = ?', [group]
+    if dim in ('actors', 'items', 'skills'):
+        return 'ctx = ?', [group]
+    if dim == 'database':
+        if group == 'states':
+            return "ctx = 'states.name'", []
+        if group == 'terms':
+            return "ctx LIKE 'terms.%'", []
+        if group == 'enemies':
+            return "ctx = 'enemies.name'", []
+    raise ValueError('invalid browse group')
+
+
+def _browse_group_label(dim, group):
+    if dim == 'maps':
+        return group[:-3] if group.endswith('.po') else group
+    if dim == 'files':
+        return group
+    if dim == 'actors':
+        return {'actors.name': '角色名', 'actors.title': '角色称号'}.get(group, group)
+    if dim == 'items':
+        return {'items.name': '物品名', 'items.description': '物品说明'}.get(group, group)
+    if dim == 'skills':
+        return {'skills.name': '技能名', 'skills.description': '技能说明'}.get(group, group)
+    if dim == 'database':
+        return {'states': '状态', 'terms': '系统术语', 'enemies': '敌人'}.get(group, group)
+    return group
+
+
+def _browse_group_section(dim, group):
+    if dim == 'maps':
+        return '地图'
+    if dim == 'files':
+        return '地图' if group.startswith('Map') else '数据库与公共事件'
+    return ''
+
+
+def _browse_categories(con):
+    row = con.execute(
+        "SELECT "
+        "COALESCE(SUM(file LIKE 'Map%.po'), 0) AS maps, "
+        "COALESCE(SUM(ctx IN ('actors.name', 'actors.title')), 0) AS actors, "
+        "COALESCE(SUM(ctx IN ('items.name', 'items.description')), 0) AS items, "
+        "COALESCE(SUM(ctx IN ('skills.name', 'skills.description')), 0) AS skills, "
+        "COALESCE(SUM(ctx = 'states.name' OR ctx = 'enemies.name' OR ctx LIKE 'terms.%'), 0) AS database, "
+        "COUNT(*) AS files "
+        "FROM entries"
+    ).fetchone()
+    return [{'id': key, 'label': label, 'count': row[key]} for key, label in BROWSE_DIMS]
+
+
+def _browse_groups(con, dim):
+    where, params = _browse_filter(dim)
+    if dim in ('maps', 'files'):
+        order = ("CASE WHEN file LIKE 'Map%' THEN 1 ELSE 0 END, file"
+                 if dim == 'files' else 'file')
+        rows = con.execute(
+            'SELECT file AS g, COUNT(*) AS n FROM entries WHERE ' + where +
+            ' GROUP BY file ORDER BY ' + order, params
+        ).fetchall()
+    elif dim in ('actors', 'items', 'skills'):
+        rows = con.execute(
+            'SELECT ctx AS g, COUNT(*) AS n FROM entries WHERE ' + where +
+            ' GROUP BY ctx ORDER BY ctx', params
+        ).fetchall()
+    else:
+        rows = con.execute(
+            "SELECT CASE WHEN ctx = 'states.name' THEN 'states' "
+            "WHEN ctx LIKE 'terms.%' THEN 'terms' ELSE 'enemies' END AS g, "
+            "COUNT(*) AS n FROM entries WHERE " + where +
+            " GROUP BY g ORDER BY CASE g WHEN 'states' THEN 0 WHEN 'terms' THEN 1 ELSE 2 END",
+            params
+        ).fetchall()
+    return [{
+        'id': r['g'],
+        'label': _browse_group_label(dim, r['g']),
+        'section': _browse_group_section(dim, r['g']),
+        'count': r['n'],
+    } for r in rows]
+
+
+def _browse_snippet(text, limit=160):
+    text = clean_for_display(text)
+    if len(text) > limit:
+        return text[:limit] + '…'
+    return text
+
+
+def browse(dim='maps', group='', offset=0, limit=50):
+    if dim not in BROWSE_DIM_LABELS:
+        raise ValueError('invalid browse dimension')
+    offset = max(0, int(offset))
+    limit = min(max(1, int(limit)), 200)
+    con = connect()
+    try:
+        init_db(con)
+        categories = _browse_categories(con)
+        if not group:
+            groups = _browse_groups(con, dim)
+            return {
+                'dim': dim,
+                'label': BROWSE_DIM_LABELS[dim],
+                'categories': categories,
+                'groups': groups,
+                'entry_count': sum(g['count'] for g in groups),
+            }
+
+        where, params = _browse_group_filter(dim, group)
+        total = con.execute(
+            'SELECT COUNT(*) AS n FROM entries WHERE ' + where, params
+        ).fetchone()['n']
+        rows = con.execute(
+            'SELECT file, block, ctx, msgid, msgstr FROM entries WHERE ' + where +
+            ' ORDER BY file, block LIMIT ? OFFSET ?', params + [limit, offset]
+        ).fetchall()
+        items = [{
+            'file': r['file'],
+            'block': r['block'],
+            'ctx': r['ctx'] or '',
+            'source': _browse_snippet(r['msgid']),
+            'translation': _browse_snippet(r['msgstr']),
+        } for r in rows]
+        return {
+            'dim': dim,
+            'label': BROWSE_DIM_LABELS[dim],
+            'group': group,
+            'group_label': _browse_group_label(dim, group),
+            'categories': categories,
+            'total': total,
+            'offset': offset,
+            'limit': limit,
+            'items': items,
+        }
     finally:
         con.close()
 

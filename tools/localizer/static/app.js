@@ -6,6 +6,20 @@
     searchTimer: null,
     checkTimer: null,
     searchSeq: 0,
+    browse: {
+      dim: 'maps',
+      label: '地图',
+      group: null,
+      groupLabel: '',
+      categories: [],
+      groups: [],
+      filter: '',
+      items: [],
+      total: 0,
+      limit: 50,
+      loading: false,
+      seq: 0,
+    },
   };
 
   const els = {
@@ -15,6 +29,12 @@
     mode: $('searchMode'),
     searchCount: $('searchCount'),
     searchMeta: $('searchMeta'),
+    browsePanel: $('browsePanel'),
+    browseTabs: $('browseTabs'),
+    browsePath: $('browsePath'),
+    browseFilter: $('browseFilter'),
+    browseList: $('browseList'),
+    browseFooter: $('browseFooter'),
     results: $('results'),
     entryFile: $('entryFile'),
     entryMeta: $('entryMeta'),
@@ -136,12 +156,288 @@
     }
   }
 
+  function renderBrowseTabs() {
+    els.browseTabs.textContent = '';
+    for (const category of state.browse.categories) {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'browse-tab' + (category.id === state.browse.dim ? ' active' : '');
+      const label = document.createElement('span');
+      label.textContent = category.label;
+      const count = document.createElement('span');
+      count.className = 'tab-count';
+      count.textContent = Number(category.count || 0).toLocaleString();
+      btn.append(label, count);
+      btn.addEventListener('click', () => switchBrowseDim(category));
+      els.browseTabs.appendChild(btn);
+    }
+  }
+
+  function switchBrowseDim(category) {
+    const b = state.browse;
+    if (b.dim === category.id && !b.group) return;
+    b.dim = category.id;
+    b.label = category.label;
+    b.group = null;
+    b.groupLabel = '';
+    b.filter = '';
+    b.items = [];
+    b.total = 0;
+    els.browseFilter.value = '';
+    loadBrowseGroups();
+  }
+
+  function renderBrowseGroupPath(data) {
+    els.browsePath.textContent = '';
+    const name = document.createElement('strong');
+    name.textContent = data.label;
+    const meta = document.createElement('span');
+    const groups = data.groups.length;
+    const entries = Number(data.entry_count || 0).toLocaleString();
+    meta.textContent = `${groups.toLocaleString()} 个分组 · ${entries} 条`;
+    els.browsePath.append(name, meta);
+  }
+
+  function renderBrowseGroupList() {
+    els.browseList.textContent = '';
+    const needle = state.browse.filter.trim().toLowerCase();
+    const groups = state.browse.groups.filter((g) => {
+      if (!needle) return true;
+      return `${g.label} ${g.id}`.toLowerCase().includes(needle);
+    });
+    if (!groups.length) {
+      const empty = document.createElement('div');
+      empty.className = 'empty';
+      empty.textContent = state.browse.filter ? '没有匹配的分组' : '这一分类暂无条目';
+      els.browseList.appendChild(empty);
+      return;
+    }
+    let section = null;
+    for (const group of groups) {
+      if (group.section && group.section !== section) {
+        section = group.section;
+        const heading = document.createElement('div');
+        heading.className = 'browse-section';
+        heading.textContent = section;
+        els.browseList.appendChild(heading);
+      }
+      const row = document.createElement('div');
+      row.className = 'browse-group';
+      const label = document.createElement('span');
+      label.className = 'browse-group-label';
+      label.textContent = group.label;
+      const count = document.createElement('span');
+      count.className = 'browse-group-count';
+      count.textContent = `${Number(group.count || 0).toLocaleString()} 条`;
+      row.append(label, count);
+      row.addEventListener('click', () => openBrowseGroup(group));
+      els.browseList.appendChild(row);
+    }
+  }
+
+  function openBrowseGroup(group) {
+    const b = state.browse;
+    b.group = group.id;
+    b.groupLabel = group.label;
+    b.filter = '';
+    b.items = [];
+    b.total = 0;
+    els.browseFilter.value = '';
+    loadBrowseEntries(false);
+  }
+
+  function renderBrowseEntryPath() {
+    const b = state.browse;
+    els.browsePath.textContent = '';
+    const back = document.createElement('button');
+    back.type = 'button';
+    back.className = 'browse-back';
+    back.textContent = '← 分组';
+    back.addEventListener('click', () => {
+      b.group = null;
+      b.groupLabel = '';
+      b.items = [];
+      b.total = 0;
+      loadBrowseGroups();
+    });
+    const name = document.createElement('strong');
+    name.textContent = b.label;
+    const meta = document.createElement('span');
+    meta.textContent = ` / ${b.groupLabel} · ${Number(b.total || 0).toLocaleString()} 条`;
+    els.browsePath.append(back, name, meta);
+  }
+
+  function browseLine(tagText, value, emptyText) {
+    const row = document.createElement('div');
+    row.className = 'browse-text';
+    const tag = document.createElement('span');
+    tag.className = 'lang-tag ' + (tagText === '原文' ? 'jp' : 'cn');
+    tag.textContent = tagText;
+    const text = document.createElement('span');
+    if (value) {
+      text.textContent = value;
+    } else {
+      text.textContent = emptyText;
+      text.className = 'empty-text';
+    }
+    row.append(tag, text);
+    return row;
+  }
+
+  function renderBrowseEntryList() {
+    const b = state.browse;
+    els.browseList.textContent = '';
+    if (!b.items.length) {
+      const empty = document.createElement('div');
+      empty.className = 'empty';
+      empty.textContent = '这个分组没有条目';
+      els.browseList.appendChild(empty);
+      renderBrowseFooter();
+      return;
+    }
+    for (const item of b.items) {
+      const row = document.createElement('div');
+      row.className = 'result browse-entry';
+      row.dataset.file = item.file;
+      row.dataset.block = String(item.block);
+      if (state.current && state.current.file === item.file && state.current.block === item.block) {
+        row.classList.add('active');
+      }
+
+      const top = document.createElement('div');
+      top.className = 'result-top';
+      const file = document.createElement('span');
+      file.className = 'result-file';
+      file.textContent = item.file;
+      const ctx = document.createElement('span');
+      ctx.className = 'result-ctx';
+      ctx.textContent = item.ctx || '事件消息';
+      top.append(file, ctx);
+
+      row.append(
+        top,
+        browseLine('原文', item.source, '（空）'),
+        browseLine('译文', item.translation, '（未翻译）'),
+      );
+      row.addEventListener('click', () => loadEntry(item.file, item.block));
+      els.browseList.appendChild(row);
+    }
+    renderBrowseFooter();
+  }
+
+  function renderBrowseFooter() {
+    const b = state.browse;
+    els.browseFooter.textContent = '';
+    if (!b.total) return;
+    const shown = b.items.length;
+    if (shown >= b.total) {
+      if (b.total > b.limit) {
+        const done = document.createElement('div');
+        done.className = 'muted small';
+        done.textContent = `已显示全部 ${b.total.toLocaleString()} 条`;
+        els.browseFooter.appendChild(done);
+      }
+      return;
+    }
+    const more = document.createElement('button');
+    more.type = 'button';
+    more.className = 'browse-more';
+    more.textContent = `加载更多（已显示 ${shown} / ${b.total.toLocaleString()} 条）`;
+    more.addEventListener('click', () => loadBrowseEntries(true));
+    els.browseFooter.appendChild(more);
+  }
+
+  async function loadBrowseGroups() {
+    const b = state.browse;
+    const seq = ++b.seq;
+    b.loading = true;
+    b.group = null;
+    b.groupLabel = '';
+    b.items = [];
+    b.total = 0;
+    b.groups = [];
+    els.browsePath.textContent = '加载中…';
+    els.browseList.textContent = '';
+    els.browseFooter.textContent = '';
+    try {
+      const data = await jsonFetch(`/api/browse?dim=${encodeURIComponent(b.dim)}`);
+      if (seq !== b.seq) return;
+      b.label = data.label;
+      b.categories = data.categories;
+      b.groups = data.groups;
+      renderBrowseTabs();
+      renderBrowseGroupPath(data);
+      els.browseFilter.classList.toggle('hidden', data.groups.length <= 8);
+      renderBrowseGroupList();
+    } catch (e) {
+      if (seq === b.seq) {
+        toast(e.message, true);
+        els.browsePath.textContent = '浏览加载失败';
+      }
+    } finally {
+      if (seq === b.seq) b.loading = false;
+    }
+  }
+
+  async function loadBrowseEntries(append) {
+    const b = state.browse;
+    if (!b.group) return;
+    const seq = ++b.seq;
+    b.loading = true;
+    const offset = append ? b.items.length : 0;
+    if (!append) {
+      els.browsePath.textContent = '加载中…';
+      els.browseList.textContent = '';
+      els.browseFooter.textContent = '';
+    }
+    try {
+      const data = await jsonFetch(
+        `/api/browse?dim=${encodeURIComponent(b.dim)}` +
+        `&group=${encodeURIComponent(b.group)}` +
+        `&offset=${offset}&limit=${b.limit}`
+      );
+      if (seq !== b.seq) return;
+      b.label = data.label;
+      b.groupLabel = data.group_label;
+      b.total = data.total;
+      b.categories = data.categories;
+      b.items = append ? b.items.concat(data.items) : data.items;
+      renderBrowseTabs();
+      renderBrowseEntryPath();
+      els.browseFilter.classList.add('hidden');
+      renderBrowseEntryList();
+    } catch (e) {
+      if (seq === b.seq) {
+        toast(e.message, true);
+        els.browsePath.textContent = '分组加载失败';
+      }
+    } finally {
+      if (seq === b.seq) b.loading = false;
+    }
+  }
+
+  function loadBrowse() {
+    if (state.browse.group) return loadBrowseEntries(false);
+    return loadBrowseGroups();
+  }
+
+  function setSearchMode(searching) {
+    els.browsePanel.classList.toggle('hidden', searching);
+    els.results.classList.toggle('hidden', !searching);
+    if (!searching) {
+      els.searchCount.textContent = '';
+      els.searchMeta.textContent = '';
+    }
+  }
+
   async function runSearch() {
     const q = els.search.value.trim();
     if (!q) {
-      renderResults({ items: [], total: 0, query: '' });
+      state.searchSeq += 1;
+      setSearchMode(false);
       return;
     }
+    setSearchMode(true);
     const seq = ++state.searchSeq;
     els.searchMeta.textContent = '搜索中…';
     try {
@@ -245,7 +541,7 @@
     setDirty(false);
     history.replaceState(null, '', `#${encodeURIComponent(data.file)}/${data.block}`);
 
-    for (const el of els.results.querySelectorAll('.result')) {
+    for (const el of document.querySelectorAll('.result')) {
       el.classList.toggle('active',
         el.dataset.file === data.file && Number(el.dataset.block) === data.block);
     }
@@ -294,6 +590,14 @@
     }
   }
 
+  function refreshList() {
+    if (els.search.value.trim()) {
+      runSearch();
+    } else {
+      loadBrowse();
+    }
+  }
+
   async function save() {
     if (!state.current) return;
     clearTimeout(state.checkTimer);
@@ -310,7 +614,7 @@
       });
       renderEntry(data);
       toast('已保存，并已更新索引');
-      runSearch();
+      refreshList();
     } catch (e) {
       if (e.data && e.data.issues) {
         renderIssues(e.data.issues);
@@ -331,7 +635,7 @@
       const data = await jsonFetch('/api/reindex', { method: 'POST', body: '{}' });
       toast(`索引已重建：${data.entries.toLocaleString()} 条`);
       await loadStatus();
-      runSearch();
+      refreshList();
     } catch (e) {
       toast(e.message, true);
     } finally {
@@ -339,8 +643,23 @@
     }
   }
 
-  els.search.addEventListener('input', scheduleSearch);
+  els.search.addEventListener('input', () => {
+    const q = els.search.value.trim();
+    clearTimeout(state.searchTimer);
+    setSearchMode(!!q);
+    if (!q) {
+      state.searchSeq += 1;
+      els.searchMeta.textContent = '';
+      if (!state.browse.categories.length) loadBrowse();
+      return;
+    }
+    scheduleSearch();
+  });
   els.mode.addEventListener('change', runSearch);
+  els.browseFilter.addEventListener('input', () => {
+    state.browse.filter = els.browseFilter.value;
+    renderBrowseGroupList();
+  });
   els.translation.addEventListener('input', () => {
     setDirty(true);
     scheduleCheck();
@@ -362,7 +681,9 @@
   });
 
   (async function init() {
+    setSearchMode(false);
     await loadStatus();
+    await loadBrowse();
     const m = location.hash.match(/^#([^/]+)\/(\d+)$/);
     if (m) loadEntry(decodeURIComponent(m[1]), Number(m[2]));
   })();
