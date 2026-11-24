@@ -164,7 +164,9 @@ msgstr ""
 msgid ""
 "「さぁて、おイタをしたペットは\n"
 "　躾なきゃいけないわね……。」"
-msgstr "「那么，做了坏事的宠物　可得好好调教才行呢……。」"
+msgstr ""
+"「那么，做了坏事的宠物\n"
+"　可得好好调教才行呢……。」"
 
 #. ID 41, Page 4, Line 70, Pos (15,20)
 #. Contains choice at line 3 (2 options)

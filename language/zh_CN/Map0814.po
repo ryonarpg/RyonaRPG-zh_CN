@@ -18833,7 +18833,7 @@ msgstr ""
 msgid ""
 "\n"
 "来たわね！聖女くん！"
-msgstr "你来了呢！圣女君！"
+msgstr "你来了呢！圣女！"
 
 #. ID 308, Page 2, Line 43, Pos (90,5)
 msgid ""

@@ -1106,7 +1106,7 @@ msgstr "…狗会说话吗…算了，无所谓"
 
 #. ID 19, Page 1, Line 3, Pos (18,9)
 msgid "Σ（・ω・ﾉ）ﾉ"
-msgstr "Σ（・ω・ノ）ノ"
+msgstr "Σ（・ω・ﾉ）ﾉ"
 
 #. ID 23, Page 1, Line 3, Pos (16,9)
 msgid ""
@@ -1401,7 +1401,11 @@ msgid ""
 "\n"
 "\n"
 "｡･ﾟ･(ﾉД`)"
-msgstr "噗嘻—…｡･゜･(ノД`)"
+msgstr ""
+"噗嘻—…\n"
+"\n"
+"\n"
+"｡･ﾟ･(ﾉД`)"
 
 #. ID 27, Page 3, Line 3, Pos (14,12)
 msgid ""

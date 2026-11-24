@@ -309,7 +309,7 @@ msgstr "嘟嘟囔囔……嘟嘟囔囔……。"
 #. ID 23, Page 2, Line 10, Pos (9,6)
 #. Contains choice at line 2 (2 options)
 msgid "おお、\\N[\\V[6]]くんか。"
-msgstr "哦哦，是\\N[\\V[6]]君啊。"
+msgstr "哦哦，是\\N[\\V[6]]啊。"
 
 #. ID 23, Page 2, Line 11, Pos (9,6)
 #. Choice (2 options, embedded in a message)
@@ -579,7 +579,7 @@ msgid ""
 "君が集めてくれた資料のお陰で、\n"
 "大変な事実がわかったぞ！"
 msgstr ""
-"哦哦，\\N[\\V[6]]君啊！多亏你收集的资料，\n"
+"哦哦，\\N[\\V[6]]啊！多亏你收集的资料，\n"
 "我明白了一个重大事实！"
 
 #. ID 23, Page 8, Line 8, Pos (9,6)
