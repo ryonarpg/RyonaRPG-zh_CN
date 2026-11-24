@@ -14893,7 +14893,7 @@ msgstr "审判钉锤"
 #. ID 1205
 msgctxt "items.description"
 msgid "[槌]邪悪なる者に審判を下す聖なるメイス。 聖,ス死悪"
-msgstr "[槌]对邪恶者下达审判的神圣钉锤。 圣，ス死恶"
+msgstr "[槌]审判邪恶者的神圣钉锤。 圣，灵体/不死/恶鬼"
 
 #. ID 1206
 msgctxt "items.name"
