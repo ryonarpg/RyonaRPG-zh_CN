@@ -29,7 +29,9 @@ msgstr "我切实感受到这个空间已被封印了数万年"
 msgid ""
 "[ジ・アストラル]\n"
 "危険度　★★★★"
-msgstr "[The Astral]危险度　★★★★"
+msgstr ""
+"[The Astral]\n"
+"危险度　★★★★"
 
 #. ID 34, Page 2, Line 8, Pos (14,14)
 #. Contains choice at line 3 (2 options)

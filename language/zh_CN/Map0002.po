@@ -16,7 +16,9 @@ msgstr ""
 msgid ""
 "[岩山の洞窟]\n"
 "危険度　★"
-msgstr "[岩山山洞]危险度　★"
+msgstr ""
+"[岩山山洞]\n"
+"危险度　★"
 
 #. ID 2, Page 1, Line 7, Pos (13,8)
 #. Contains choice at line 2 (3 options)
@@ -121,7 +123,9 @@ msgstr ""
 msgid ""
 "[蟲毒の迷宮]\n"
 "危険度　★★★"
-msgstr "[虫毒迷宫]危险度　★★★"
+msgstr ""
+"[虫毒迷宫]\n"
+"危险度　★★★"
 
 #. ID 3, Page 1, Line 5, Pos (7,2)
 #. Contains choice at line 2 (2 options)
@@ -132,7 +136,9 @@ msgstr "要进入[虫毒迷宫]吗？"
 msgid ""
 "[処刑塔]\n"
 "危険度　★★★★"
-msgstr "[处刑塔]危险度　★★★★"
+msgstr ""
+"[处刑塔]\n"
+"危险度　★★★★"
 
 #. ID 4, Page 1, Line 5, Pos (12,2)
 #. Contains choice at line 2 (2 options)
@@ -166,7 +172,9 @@ msgstr ""
 msgid ""
 "[迷宮庭園]\n"
 "危険度　★☆"
-msgstr "[迷宫庭园]危险度　★☆"
+msgstr ""
+"[迷宫庭园]\n"
+"危险度　★☆"
 
 #. ID 7, Page 1, Line 5, Pos (10,6)
 #. Contains choice at line 2 (2 options)
@@ -177,7 +185,9 @@ msgstr "要进入[迷宫庭园]吗？"
 msgid ""
 "[無想の森]\n"
 "危険度　？？？"
-msgstr "[无想之森]危险度　？？？"
+msgstr ""
+"[无想之森]\n"
+"危险度　？？？"
 
 #. ID 8, Page 1, Line 5, Pos (17,5)
 #. Contains choice at line 2 (3 options)
@@ -282,7 +292,9 @@ msgstr "\\>[\\N[101]]\\>所需击破数:\\V[1]\\>\\C[2][\\N[102]]\\C[0]"
 msgid ""
 "[海底神殿]\n"
 "危険度　★☆"
-msgstr "[海底神殿]危险度　★☆"
+msgstr ""
+"[海底神殿]\n"
+"危险度　★☆"
 
 #. ID 9, Page 1, Line 5, Pos (12,11)
 #. Contains choice at line 2 (2 options)
@@ -298,7 +310,9 @@ msgstr "要进入[传单所在地]吗？"
 msgid ""
 "[近くの森]\n"
 "危険度　☆"
-msgstr "[附近的森林]危险度　☆"
+msgstr ""
+"[附近的森林]\n"
+"危险度　☆"
 
 #. ID 11, Page 1, Line 5, Pos (11,8)
 #. Contains choice at line 2 (2 options)
@@ -309,7 +323,9 @@ msgstr "要进入[附近的森林]吗？"
 msgid ""
 "[ノースレイの腐海]\n"
 "危険度　★★★☆"
-msgstr "[诺斯雷腐海]危险度　★★★☆"
+msgstr ""
+"[诺斯雷腐海]\n"
+"危险度　★★★☆"
 
 #. ID 12, Page 1, Line 5, Pos (6,1)
 #. Contains choice at line 2 (2 options)
@@ -320,7 +336,9 @@ msgstr "要进入[诺斯雷腐海]吗？"
 msgid ""
 "[ドワーフの大トンネル]\n"
 "危険度　★★"
-msgstr "[矮人大隧道]危险度　★★"
+msgstr ""
+"[矮人大隧道]\n"
+"危险度　★★"
 
 #. ID 13, Page 1, Line 5, Pos (19,6)
 #. Contains choice at line 2 (2 options)
@@ -344,7 +362,9 @@ msgstr ""
 msgid ""
 "[古代の試練場]\n"
 "危険度　★"
-msgstr "[古代试炼场]危险度　★"
+msgstr ""
+"[古代试炼场]\n"
+"危险度　★"
 
 #. ID 14, Page 1, Line 5, Pos (7,7)
 #. Contains choice at line 2 (2 options)
@@ -381,7 +401,9 @@ msgstr "要进入[首都阿巴罗索]吗？"
 msgid ""
 "[忘れられた邸宅]\n"
 "危険度　★★★"
-msgstr "[被遗忘的宅邸]危险度　★★★"
+msgstr ""
+"[被遗忘的宅邸]\n"
+"危险度　★★★"
 
 #. ID 17, Page 1, Line 7, Pos (18,8)
 #. Contains choice at line 2 (3 options)
@@ -419,7 +441,9 @@ msgstr "＊逃跑过的事会暴露。　最好不要进去。"
 msgid ""
 "[廃墟メルベル]\n"
 "危険度　★★☆"
-msgstr "[废墟梅尔贝尔]危险度　★★☆"
+msgstr ""
+"[废墟梅尔贝尔]\n"
+"危险度　★★☆"
 
 #. ID 19, Page 1, Line 5, Pos (6,5)
 #. Contains choice at line 2 (2 options)
@@ -440,7 +464,9 @@ msgstr "要进入[海鸣村]吗？"
 msgid ""
 "[蜂に襲われた村]\n"
 "危険度　★"
-msgstr "[被蜜蜂袭击的村庄]危险度　★"
+msgstr ""
+"[被蜜蜂袭击的村庄]\n"
+"危险度　★"
 
 #. ID 21, Page 1, Line 5, Pos (14,5)
 #. Contains choice at line 2 (2 options)
@@ -451,7 +477,9 @@ msgstr "要进入[被蜜蜂袭击的村庄]吗？"
 msgid ""
 "[魔城ガッデム]\n"
 "危険度　★★★★"
-msgstr "[魔城加德姆]危险度　★★★★"
+msgstr ""
+"[魔城加德姆]\n"
+"危险度　★★★★"
 
 #. ID 22, Page 1, Line 5, Pos (1,3)
 #. Contains choice at line 2 (2 options)
@@ -462,7 +490,9 @@ msgstr "要进入[魔城加德姆]吗？"
 msgid ""
 "[あやしい寺院]\n"
 "危険度　★★★"
-msgstr "[可疑寺院]危险度　★★★"
+msgstr ""
+"[可疑寺院]\n"
+"危险度　★★★"
 
 #. ID 23, Page 1, Line 5, Pos (15,1)
 #. Contains choice at line 2 (2 options)
@@ -483,7 +513,9 @@ msgstr "要进入[废弃工厂]吗？"
 msgid ""
 "[蠢く洞窟]\n"
 "危険度　★☆"
-msgstr "[蠕动洞窟]危险度　★☆"
+msgstr ""
+"[蠕动洞窟]\n"
+"危险度　★☆"
 
 #. ID 26, Page 1, Line 5, Pos (4,13)
 #. Contains choice at line 2 (2 options)
@@ -531,7 +563,9 @@ msgstr "要进入[偷猎者巢穴]吗？"
 msgid ""
 "[天空の塔]\n"
 "危険度　★★☆"
-msgstr "[天空之塔]危险度　★★☆"
+msgstr ""
+"[天空之塔]\n"
+"危险度　★★☆"
 
 #. ID 33, Page 1, Line 5, Pos (8,12)
 #. Contains choice at line 2 (2 options)
@@ -547,7 +581,9 @@ msgstr "要进入[秘密实验室]吗？"
 msgid ""
 "[悪党の谷]\n"
 "危険度　★☆"
-msgstr "[恶棍之谷]危险度　★☆"
+msgstr ""
+"[恶棍之谷]\n"
+"危险度　★☆"
 
 #. ID 36, Page 1, Line 5, Pos (16,3)
 #. Contains choice at line 2 (2 options)
