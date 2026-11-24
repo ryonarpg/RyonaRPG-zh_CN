@@ -28,7 +28,7 @@ msgstr "是特别讲义室"
 #. ID 5, Page 3, Line 3, Pos (26,19)
 #. ID 6, Page 3, Line 3, Pos (27,19)
 msgid "○リーパーの特別講義"
-msgstr "○利帕的特别讲义"
+msgstr "○梦貘人的特别讲义"
 
 #. ID 5, Page 3, Line 6, Pos (26,19)
 #. Contains choice at line 2 (2 options)

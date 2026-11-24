@@ -288,7 +288,7 @@ msgstr "落空宝箱怪"
 #. ChangeHeroName (Actor 101)
 msgctxt "actors.name"
 msgid "リーパー"
-msgstr "收割者"
+msgstr "梦貘人"
 
 #. ID 99, Page 4, Line 72, Pos (84,0)
 #. ChangeHeroName (Actor 101)

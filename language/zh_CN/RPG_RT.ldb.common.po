@@ -13339,7 +13339,7 @@ msgstr "落空宝箱怪"
 #. ChangeHeroName (Actor 101)
 msgctxt "actors.name"
 msgid "リーパー"
-msgstr "收割者"
+msgstr "梦貘人"
 
 #. ID 303, Line 733
 #. ChangeHeroName (Actor 101)
@@ -28252,7 +28252,7 @@ msgstr "已死亡的肉体被魔力操控的状态"
 #. ChangeHeroName (Actor 101)
 msgctxt "actors.name"
 msgid "○リーパーへ危害を加えることが出来ない。"
-msgstr "无法对○收割者造成危害。"
+msgstr "无法对○梦貘人造成危害。"
 
 #. ID 521, Line 3305
 #. ChangeHeroName (Actor 101)
@@ -31145,7 +31145,7 @@ msgid ""
 "　おまえはおもらしすることが大好きだから、\n"
 "　それは当り前の事なんだな…"
 msgstr ""
-"○收割者　你这家伙变得不懂厕所的用法了啊…\n"
+"○梦貘人　你这家伙变得不懂厕所的用法了啊…\n"
 "　因为你最喜欢尿裤子，　那是理所当然的事啊…"
 
 #. ID 569, Line 22

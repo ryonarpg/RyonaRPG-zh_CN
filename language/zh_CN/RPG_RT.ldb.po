@@ -3543,7 +3543,7 @@ msgstr "无法攻击的暗示"
 #. ID 606
 msgctxt "skills.description"
 msgid "○リーパーへ危害を加えることが出来ない。"
-msgstr "无法对○收割者造成危害。"
+msgstr "无法对○梦貘人造成危害。"
 
 #. ID 607
 msgctxt "skills.name"
