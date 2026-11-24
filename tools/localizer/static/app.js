@@ -68,6 +68,8 @@
     lineHint: $('lineHint'),
     issues: $('issues'),
     metrics: $('metrics'),
+    sourcePreview: $('sourcePreview'),
+    sourcePageCount: $('sourcePageCount'),
     preview: $('preview'),
     pageCount: $('pageCount'),
     toast: $('toast'),
@@ -753,15 +755,15 @@
     }
   }
 
-  function renderPreview(pages) {
-    els.preview.textContent = '';
+  function renderPreviewPages(container, countEl, pages, emptyText, altPrefix) {
+    container.textContent = '';
     if (!pages || !pages.length) {
-      els.preview.className = 'preview empty';
-      els.preview.textContent = '暂无预览';
-      els.pageCount.textContent = '';
+      container.className = 'preview empty';
+      container.textContent = emptyText;
+      countEl.textContent = '';
       return;
     }
-    els.preview.className = 'preview';
+    container.className = 'preview';
     pages.forEach((src, i) => {
       const wrap = document.createElement('div');
       wrap.className = 'preview-page';
@@ -770,11 +772,19 @@
       label.textContent = `第 ${i + 1} 页`;
       const img = document.createElement('img');
       img.src = src;
-      img.alt = `消息预览第 ${i + 1} 页`;
+      img.alt = `${altPrefix}第 ${i + 1} 页`;
       wrap.append(label, img);
-      els.preview.appendChild(wrap);
+      container.appendChild(wrap);
     });
-    els.pageCount.textContent = `${pages.length} 页`;
+    countEl.textContent = `${pages.length} 页`;
+  }
+
+  function renderSourcePreview(pages) {
+    renderPreviewPages(els.sourcePreview, els.sourcePageCount, pages, '暂无原版预览', '日文原版预览');
+  }
+
+  function renderPreview(pages) {
+    renderPreviewPages(els.preview, els.pageCount, pages, '暂无预览', '中文译文预览');
   }
 
   function renderEntry(data) {
@@ -789,6 +799,7 @@
     els.lineHint.textContent = `${(data.metrics || []).length} 行`;
     renderIssues(data.issues);
     renderMetrics(data.metrics);
+    renderSourcePreview(data.source_preview);
     renderPreview(data.preview);
     setDirty(false);
     history.replaceState(null, '', `#${encodeURIComponent(data.file)}/${data.block}`);

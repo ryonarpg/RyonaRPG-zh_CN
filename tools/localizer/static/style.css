@@ -405,7 +405,19 @@ textarea:disabled { opacity: .6; }
 }
 .preview-page { display: flex; flex-direction: column; gap: 3px; }
 .preview-label { font-size: 11px; color: var(--muted); }
-.preview-note { margin-bottom: 8px; }
+.preview-note { margin-bottom: 12px; }
+.preview-block { margin-bottom: 16px; }
+.preview-block:last-child { margin-bottom: 0; }
+.preview-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+.preview-head h3 { margin: 0; font-size: 12px; font-weight: 600; }
+.preview-head h3.jp { color: #9db7e4; }
+.preview-head h3.cn { color: #9fd4b8; }
 
 .toast {
   position: fixed;

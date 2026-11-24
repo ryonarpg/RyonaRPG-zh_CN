@@ -106,12 +106,26 @@
   <aside class="pane preview-pane">
     <div class="pane-title">
       <h2>消息窗口预览</h2>
-      <span id="pageCount" class="muted small"></span>
     </div>
     <div class="preview-note muted small">
-      320×80，12px 字体，每 4 行一页；控制符已隐藏。
+      320×80，12px 字体，每 4 行一页；控制符已隐藏。上方为日文原版，下方为中文译文。
     </div>
-    <div id="preview" class="preview empty">暂无预览</div>
+
+    <div class="preview-block">
+      <div class="preview-head">
+        <h3 class="jp">日文原版</h3>
+        <span id="sourcePageCount" class="muted small"></span>
+      </div>
+      <div id="sourcePreview" class="preview empty">暂无原版预览</div>
+    </div>
+
+    <div class="preview-block">
+      <div class="preview-head">
+        <h3 class="cn">中文译文</h3>
+        <span id="pageCount" class="muted small"></span>
+      </div>
+      <div id="preview" class="preview empty">暂无预览</div>
+    </div>
   </aside>
 </main>
 
