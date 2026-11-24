@@ -65,6 +65,8 @@ python tools/qa/run_all.py
 
 行宽 47–50 为允许值（CLAUDE.md 上限 50），但新增文案应优先控制在 46–48。
 
+QA 白名单保存在 `tools/localizer/qa_whitelist.json`，应随仓库提交。编辑器或 `/api/whitelist` 加入后，问题会从扫描结果和统计中排除；条目原文或译文改变后白名单 ID 失效，新问题会重新出现。白名单可通过编辑器或 `/api/whitelist/remove` 移除。
+
 ## 4. 控制符与 EasyRPG 事实
 
 - `\n[id]` / `\N[id]`：角色名；`0` = 队伍首位，**通常保留，不要改成 `\N[1]`**。无队伍时 EasyRPG 才警告 `Invalid Actor Id 0`。

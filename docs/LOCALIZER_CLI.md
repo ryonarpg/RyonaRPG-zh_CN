@@ -258,9 +258,51 @@ refresh=1                    强制重新扫描
     "by_code": [{"code": "line_start_punct", "label": "行首标点", "severity": "error", "count": 12}]
   },
   "total": 12,
-  "items": [{"file": "...", "block": 54, "ctx": "", "severity": "error", "code": "...", "message": "...", "source": "...", "translation": "..."}]
+  "items": [{"id": "f440f96b7cf7dffa836eab8d", "file": "...", "block": 54, "ctx": "", "severity": "error", "code": "...", "message": "...", "source": "...", "translation": "..."}]
 }
 ```
+
+`items[].id` 是白名单操作的稳定标识，由文件、block、问题代码、行号、当前原文和译文共同计算。
+
+### `GET /api/whitelist`
+
+返回已确认问题：
+
+```json
+{
+  "total": 1,
+  "entries": [{
+    "id": "f440f96b7cf7dffa836eab8d",
+    "file": "Map0001.po",
+    "block": 77,
+    "code": "kana",
+    "line": 0,
+    "severity": "warning",
+    "label": "残留假名",
+    "message": "...",
+    "note": "",
+    "created_at": "2026-11-24T22:00:00"
+  }]
+}
+```
+
+白名单保存在 `tools/localizer/qa_whitelist.json`，应随仓库提交。
+
+### `POST /api/whitelist`
+
+```json
+{"id": "f440f96b7cf7dffa836eab8d", "note": "可选备注"}
+```
+
+把当前 QA 问题加入白名单；加入后该问题从 `/api/issues` 的结果和统计中排除。
+
+### `POST /api/whitelist/remove`
+
+```json
+{"id": "f440f96b7cf7dffa836eab8d"}
+```
+
+移出白名单；下次 QA 扫描时问题会重新出现。
 
 ### `POST /api/save`
 

@@ -32,6 +32,12 @@
       summary: null,
       seq: 0,
     },
+    whitelist: {
+      loaded: false,
+      loading: false,
+      entries: [],
+      seq: 0,
+    },
   };
 
   const els = {
@@ -44,6 +50,7 @@
     leftModes: $('leftModes'),
     modeBrowse: $('modeBrowse'),
     modeIssues: $('modeIssues'),
+    modeWhitelist: $('modeWhitelist'),
     issueBadge: $('issueBadge'),
     browsePanel: $('browsePanel'),
     browseTabs: $('browseTabs'),
@@ -58,6 +65,10 @@
     issueCode: $('issueCode'),
     issueList: $('issueList'),
     issueFooter: $('issueFooter'),
+    whitelistPanel: $('whitelistPanel'),
+    whitelistSummary: $('whitelistSummary'),
+    whitelistRefresh: $('whitelistRefresh'),
+    whitelistList: $('whitelistList'),
     results: $('results'),
     entryFile: $('entryFile'),
     entryMeta: $('entryMeta'),
@@ -547,6 +558,7 @@
       row.className = 'result issue-result';
       row.dataset.file = item.file;
       row.dataset.block = String(item.block);
+      row.dataset.issueId = item.id || '';
       if (state.current && state.current.file === item.file && state.current.block === item.block) {
         row.classList.add('active');
       }
@@ -577,6 +589,21 @@
         browseLine('原文', item.source, '（空）'),
         browseLine('译文', item.translation, '（未翻译）'),
       );
+      if (item.id) {
+        const actions = document.createElement('div');
+        actions.className = 'issue-actions';
+        const ignore = document.createElement('button');
+        ignore.type = 'button';
+        ignore.className = 'issue-add';
+        ignore.textContent = '加入白名单';
+        ignore.title = '确认此问题不是错误，以后不再报告';
+        ignore.addEventListener('click', (e) => {
+          e.stopPropagation();
+          addWhitelist(item);
+        });
+        actions.appendChild(ignore);
+        row.appendChild(actions);
+      }
       row.addEventListener('click', () => loadEntry(item.file, item.block));
       els.issueList.appendChild(row);
     }
@@ -648,16 +675,151 @@
     }
   }
 
+  function renderWhitelist() {
+    const w = state.whitelist;
+    els.whitelistList.textContent = '';
+    els.whitelistSummary.textContent =
+      `已确认 ${w.entries.length.toLocaleString()} 条`;
+    if (!w.entries.length) {
+      const empty = document.createElement('div');
+      empty.className = 'empty';
+      empty.textContent = '还没有已确认的问题';
+      els.whitelistList.appendChild(empty);
+      return;
+    }
+    for (const entry of w.entries) {
+      const row = document.createElement('div');
+      row.className = 'result whitelist-row';
+      row.dataset.file = entry.file;
+      row.dataset.block = String(entry.block);
+      if (state.current && state.current.file === entry.file &&
+          state.current.block === entry.block) {
+        row.classList.add('active');
+      }
+
+      const top = document.createElement('div');
+      top.className = 'result-top';
+      const file = document.createElement('span');
+      file.className = 'result-file';
+      file.textContent = `${entry.file} · #${entry.block}`;
+      const code = document.createElement('span');
+      code.className = 'result-ctx';
+      code.textContent = entry.label || entry.code || '已确认';
+      top.append(file, code);
+
+      const message = document.createElement('div');
+      message.className = 'issue-message';
+      message.textContent = entry.message || '';
+      const actions = document.createElement('div');
+      actions.className = 'issue-actions';
+      const remove = document.createElement('button');
+      remove.type = 'button';
+      remove.className = 'whitelist-remove';
+      remove.textContent = '移出白名单';
+      remove.addEventListener('click', (e) => {
+        e.stopPropagation();
+        removeWhitelist(entry);
+      });
+      actions.appendChild(remove);
+      row.append(top, message, actions);
+      row.addEventListener('click', () => loadEntry(entry.file, entry.block));
+      els.whitelistList.appendChild(row);
+    }
+  }
+
+  async function loadWhitelist() {
+    const w = state.whitelist;
+    const seq = ++w.seq;
+    w.loading = true;
+    els.whitelistSummary.textContent = '加载中…';
+    try {
+      const data = await jsonFetch('/api/whitelist');
+      if (seq !== w.seq) return;
+      w.entries = data.entries || [];
+      w.loaded = true;
+      renderWhitelist();
+    } catch (e) {
+      if (seq === w.seq) {
+        els.whitelistSummary.textContent = '白名单加载失败';
+        toast(e.message, true);
+      }
+    } finally {
+      if (seq === w.seq) w.loading = false;
+    }
+  }
+
+  async function refreshIssueSummary() {
+    const s = state.issues;
+    try {
+      const data = await jsonFetch(
+        `/api/issues?severity=${encodeURIComponent(s.severity)}` +
+        `&code=${encodeURIComponent(s.code)}&offset=0&limit=0`
+      );
+      s.summary = data.summary;
+      s.total = data.total;
+      renderIssueSummary(s.summary);
+      renderIssueFilters();
+      updateIssueBadge(s.summary);
+      if (!s.items.length) renderIssueList();
+      else renderIssueFooter();
+    } catch (e) {
+      toast(e.message, true);
+    }
+  }
+
+  async function addWhitelist(item) {
+    try {
+      const data = await jsonFetch('/api/whitelist', {
+        method: 'POST',
+        body: JSON.stringify({ id: item.id }),
+      });
+      state.whitelist.entries = data.entries || [];
+      state.whitelist.loaded = true;
+      if (state.mode === 'whitelist') renderWhitelist();
+
+      const s = state.issues;
+      const index = s.items.findIndex((x) => x.id === item.id);
+      if (index >= 0) s.items.splice(index, 1);
+      const row = [...els.issueList.querySelectorAll('.result')]
+        .find((x) => x.dataset.issueId === item.id);
+      if (row) row.remove();
+      s.total = Math.max(0, s.total - 1);
+      await refreshIssueSummary();
+      toast('已加入白名单');
+    } catch (e) {
+      toast(e.message, true);
+    }
+  }
+
+  async function removeWhitelist(entry) {
+    try {
+      const data = await jsonFetch('/api/whitelist/remove', {
+        method: 'POST',
+        body: JSON.stringify({ id: entry.id }),
+      });
+      state.whitelist.entries = data.entries || [];
+      state.whitelist.loaded = true;
+      renderWhitelist();
+      state.issues.loaded = false;
+      toast('已移出白名单');
+    } catch (e) {
+      toast(e.message, true);
+    }
+  }
+
   function setMode(mode) {
-    if (mode !== 'browse' && mode !== 'issues') return;
+    if (mode !== 'browse' && mode !== 'issues' && mode !== 'whitelist') return;
     if (state.mode === mode) return;
     state.mode = mode;
     els.modeBrowse.classList.toggle('active', mode === 'browse');
     els.modeIssues.classList.toggle('active', mode === 'issues');
+    els.modeWhitelist.classList.toggle('active', mode === 'whitelist');
     if (els.search.value.trim()) return;
     setSearchMode(false);
     if (mode === 'issues') {
       loadIssues(false);
+    } else if (mode === 'whitelist') {
+      loadWhitelist();
     } else if (!state.browse.categories.length) {
       loadBrowse();
     }
@@ -670,9 +832,11 @@
     if (search) {
       els.browsePanel.classList.add('hidden');
       els.issuesPanel.classList.add('hidden');
+      els.whitelistPanel.classList.add('hidden');
     } else {
       els.browsePanel.classList.toggle('hidden', state.mode !== 'browse');
       els.issuesPanel.classList.toggle('hidden', state.mode !== 'issues');
+      els.whitelistPanel.classList.toggle('hidden', state.mode !== 'whitelist');
       els.searchCount.textContent = '';
       els.searchMeta.textContent = '';
     }
@@ -940,6 +1104,8 @@
       els.searchMeta.textContent = '';
       if (state.mode === 'issues') {
         loadIssues(false);
+      } else if (state.mode === 'whitelist') {
+        loadWhitelist();
       } else if (!state.browse.categories.length) {
         loadBrowse();
       }
@@ -950,7 +1116,9 @@
   els.mode.addEventListener('change', runSearch);
   els.modeBrowse.addEventListener('click', () => setMode('browse'));
   els.modeIssues.addEventListener('click', () => setMode('issues'));
+  els.modeWhitelist.addEventListener('click', () => setMode('whitelist'));
   els.issueRefresh.addEventListener('click', () => loadIssues(false, true));
+  els.whitelistRefresh.addEventListener('click', loadWhitelist);
   els.issueCode.addEventListener('change', () => {
     state.issues.code = els.issueCode.value;
     loadIssues(false);
@@ -977,10 +1145,6 @@
     if (!state.dirty) return;
     e.preventDefault();
     e.returnValue = '';
-  });
-
-  window.addEventListener('focus', () => {
-    if (state.mode === 'issues' && !els.search.value.trim()) loadIssues(false);
   });
 
   (async function init() {

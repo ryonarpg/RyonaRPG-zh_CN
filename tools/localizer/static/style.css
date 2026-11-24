@@ -207,6 +207,23 @@ button, input, select, textarea { font: inherit; }
 .issue-sev.warning { color: #f4dfb1; background: #2a2415; border-color: #655224; }
 .issue-sev.info { color: #c3d4f5; background: #172033; border-color: #354a72; }
 .issue-message { color: #d9deec; font-size: 12px; word-break: break-all; }
+.issue-actions { display: flex; justify-content: flex-end; margin-top: 6px; }
+.issue-add, .whitelist-remove {
+  border: 1px solid var(--line);
+  background: transparent;
+  color: #aeb9d2;
+  border-radius: 6px;
+  padding: 2px 7px;
+  font-size: 11px;
+  cursor: pointer;
+}
+.issue-add:hover, .whitelist-remove:hover {
+  border-color: var(--accent);
+  color: #fff;
+}
+.whitelist-remove { color: #e6b450; }
+.whitelist-row .issue-message { margin-top: 3px; }
+.whitelist-note { color: var(--muted); font-size: 11px; margin-top: 3px; }
 
 .browse-panel { display: flex; flex-direction: column; gap: 7px; min-height: 0; }
 .browse-tabs { display: flex; flex-wrap: wrap; gap: 4px; }

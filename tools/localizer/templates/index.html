@@ -40,6 +40,7 @@
       <button id="modeIssues" class="mode-btn" type="button">
         QA 问题 <span id="issueBadge" class="mode-badge hidden"></span>
       </button>
+      <button id="modeWhitelist" class="mode-btn" type="button">白名单</button>
     </div>
 
     <div id="browsePanel" class="browse-panel">
@@ -62,6 +63,14 @@
       </select>
       <div id="issueList" class="browse-list"></div>
       <div id="issueFooter" class="browse-footer"></div>
+    </div>
+
+    <div id="whitelistPanel" class="browse-panel hidden">
+      <div class="issue-toolbar">
+        <span id="whitelistSummary" class="muted small">已确认 0 条</span>
+        <button id="whitelistRefresh" class="issue-refresh" type="button">刷新</button>
+      </div>
+      <div id="whitelistList" class="browse-list"></div>
     </div>
 
     <div id="results" class="results hidden">

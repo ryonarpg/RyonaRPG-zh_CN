@@ -3,6 +3,7 @@ import threading
 
 import po_store
 import layout
+import qa_whitelist
 import validators
 
 SEVERITY_ORDER = {'error': 0, 'warning': 1, 'info': 2}
@@ -40,7 +41,7 @@ _CACHE_KEY = None
 def _cache_key():
     try:
         st = os.stat(po_store.DB_PATH)
-        return (st.st_mtime_ns, st.st_size)
+        return (st.st_mtime_ns, st.st_size) + qa_whitelist.cache_key()
     except OSError:
         return None
 
@@ -91,14 +92,20 @@ def _summary(issues, scanned):
     }
 
 
-def _entry_issues(row):
+def _entry_issues(row, whitelist=None):
     result = validators.validate(row['msgid'], row['msgstr'], row['ctx'] or '')
     result['issues'].extend(layout.check_entry(row['msgid'], row['msgstr']))
     source = _snippet(row['msgid'])
     translation = _snippet(row['msgstr'])
     out = []
     for issue in result['issues']:
+        issue_id = qa_whitelist.issue_id(
+            row['file'], row['block'], issue['code'], issue['line'],
+            row['msgid'], row['msgstr'])
+        if whitelist is not None and issue_id in whitelist:
+            continue
         out.append({
+            'id': issue_id,
             'file': row['file'],
             'block': row['block'],
             'ctx': row['ctx'] or '',
@@ -124,8 +131,9 @@ def _build():
         con.close()
 
     issues = []
+    whitelist = qa_whitelist.ids()
     for row in rows:
-        issues.extend(_entry_issues(row))
+        issues.extend(_entry_issues(row, whitelist))
     _sort_issues(issues)
     return {
         'issues': issues,
@@ -172,7 +180,7 @@ def refresh_entry(file_name, block):
             if not (x['file'] == file_name and x['block'] == int(block))
         ]
         if row:
-            issues.extend(_entry_issues(row))
+            issues.extend(_entry_issues(row, qa_whitelist.ids()))
         _sort_issues(issues)
         scanned = _CACHE['summary']['scanned']
         _CACHE = {'issues': issues, 'summary': _summary(issues, scanned)}
@@ -206,3 +214,23 @@ def get_issues(severity='', code='', offset=0, limit=50, force=False):
         'limit': limit,
         'items': items,
     }
+
+
+def whitelist_entries():
+    return qa_whitelist.entries()
+
+
+def add_whitelist(issue_id, note=''):
+    cache = ensure()
+    issue = next((x for x in cache['issues'] if x['id'] == issue_id), None)
+    if issue is None:
+        raise ValueError('issue not found or already whitelisted')
+    qa_whitelist.add(issue, note)
+    invalidate()
+    return qa_whitelist.entries()
+
+
+def remove_whitelist(entry_id):
+    qa_whitelist.remove(entry_id)
+    invalidate()
+    return qa_whitelist.entries()

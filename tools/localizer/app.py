@@ -78,6 +78,38 @@ def api_issues():
         return jsonify({'error': str(exc)}), 400
 
 
+@app.get('/api/whitelist')
+def api_whitelist():
+    try:
+        entries = qa_store.whitelist_entries()
+        return jsonify({'entries': entries, 'total': len(entries)})
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 500
+
+
+@app.post('/api/whitelist')
+def api_whitelist_add():
+    data = request.get_json(force=True)
+    issue_id = data.get('id', '')
+    note = data.get('note', '')
+    try:
+        entries = qa_store.add_whitelist(issue_id, note)
+        return jsonify({'ok': True, 'entries': entries, 'total': len(entries)})
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
+@app.post('/api/whitelist/remove')
+def api_whitelist_remove():
+    data = request.get_json(force=True)
+    entry_id = data.get('id', '')
+    try:
+        entries = qa_store.remove_whitelist(entry_id)
+        return jsonify({'ok': True, 'entries': entries, 'total': len(entries)})
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
 @app.get('/api/entry')
 def api_entry():
     file_name = request.args.get('file', '')
