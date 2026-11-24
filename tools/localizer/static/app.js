@@ -661,7 +661,7 @@
     if (els.search.value.trim()) return;
     setSearchMode(false);
     if (mode === 'issues') {
-      if (!state.issues.loaded) loadIssues(false);
+      loadIssues(false);
     } else if (!state.browse.categories.length) {
       loadBrowse();
     }
@@ -955,6 +955,10 @@
     if (!state.dirty) return;
     e.preventDefault();
     e.returnValue = '';
+  });
+
+  window.addEventListener('focus', () => {
+    if (state.mode === 'issues' && !els.search.value.trim()) loadIssues(false);
   });
 
   (async function init() {

@@ -1,3 +1,4 @@
+import os
 import threading
 
 import po_store
@@ -32,6 +33,15 @@ ISSUE_LABELS = {
 
 _LOCK = threading.Lock()
 _CACHE = None
+_CACHE_KEY = None
+
+
+def _cache_key():
+    try:
+        st = os.stat(po_store.DB_PATH)
+        return (st.st_mtime_ns, st.st_size)
+    except OSError:
+        return None
 
 
 def _snippet(text, limit=150):
@@ -123,17 +133,20 @@ def _build():
 
 
 def ensure(force=False):
-    global _CACHE
+    global _CACHE, _CACHE_KEY
+    key = _cache_key()
     with _LOCK:
-        if force or _CACHE is None:
+        if force or _CACHE is None or _CACHE_KEY != key:
             _CACHE = _build()
+            _CACHE_KEY = key
         return _CACHE
 
 
 def invalidate():
-    global _CACHE
+    global _CACHE, _CACHE_KEY
     with _LOCK:
         _CACHE = None
+        _CACHE_KEY = None
 
 
 def refresh_entry(file_name, block):
@@ -162,6 +175,7 @@ def refresh_entry(file_name, block):
         _sort_issues(issues)
         scanned = _CACHE['summary']['scanned']
         _CACHE = {'issues': issues, 'summary': _summary(issues, scanned)}
+        _CACHE_KEY = _cache_key()
 
 
 def get_issues(severity='', code='', offset=0, limit=50, force=False):
