@@ -59,7 +59,7 @@ python tools/qa/run_all.py
 - 0 跨行断码（行尾 `\`、行尾 `\v`/`\c`/`\n` 后接 `[...]`、`$x` 被换行拆开）；
 - 0 个 `\n`/`\N` 后不接 `[` 的裸角色名代码；
 - 0 弯引号、0 个 `。。`/`，，`；
-- 0 处“标题 + 危険度”、`Name/Class/Type`、`・/※` 列表或字段标签被合并且丢失分行（`layout_merge_*`；`bracket_title` 和 `control_lines` 用 CLI `layout` 单独审阅）；
+- 0 处“标题 + 危険度”、`Name/Class/Type`、`・/※` 列表或字段标签被合并且丢失分行（`layout_merge_*`；`bracket_title` 和 `control_lines` 用 CLI `layout` 单独审阅，后者保留源文 `\>` 行结构）；
 - `_img_manifest.json` 中 4,940 个图片全部存在。
 
 行宽 47–50 为允许值（CLAUDE.md 上限 50），但新增文案应优先控制在 46–48。

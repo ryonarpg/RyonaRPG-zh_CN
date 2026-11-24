@@ -141,6 +141,8 @@ python tools/localizer/cli.py layout --kind bracket_title --limit 20
 
 这是人工审核候选，不自动改写。`layout` 默认不返回非零退出码；CI 可用 `--json` 自行判断。
 
+维护时对 `control_lines` 的安全重排规则是：源文每行以 `\>` 开头、目标 `\>` 数量与源文行数一致、按 `\>` 重建后每行 ≤50 单元；不满足这些条件的条目保留在候选清单中人工处理。`bracket_title` 同样只作为候选。
+
 ## 3. Flask JSON API
 
 启动：

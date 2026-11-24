@@ -34,14 +34,9 @@ def _is_class_fields(src):
 
 
 def _is_control_lines(src, dst):
-    src_lines = [line.strip() for line in src]
-    dst_lines = [line.strip() for line in dst]
-    if not any(line == r'\>' for line in src_lines):
-        return False
-    return (
-        sum(line.startswith(r'\>') for line in src_lines) >
-        sum(line.startswith(r'\>') for line in dst_lines)
-    )
+    src_starts = sum(line.strip().startswith(r'\>') for line in src)
+    dst_starts = sum(line.strip().startswith(r'\>') for line in dst)
+    return src_starts > 0 and dst_starts < src_starts
 
 
 def _classify(mid, tr):
@@ -92,6 +87,13 @@ def check_entry(mid, tr):
             'severity': 'warning',
             'code': 'layout_merge_field',
             'message': '原文的字段标签与说明分行，译文被合并为一行',
+            'line': 0,
+        }]
+    if kind == 'control_lines':
+        return [{
+            'severity': 'warning',
+            'code': 'layout_merge_control',
+            'message': '原文的 \\> 控制行被合并，译文行首结构可能与原版不同',
             'line': 0,
         }]
     return []

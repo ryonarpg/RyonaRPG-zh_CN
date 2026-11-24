@@ -26,6 +26,7 @@ ISSUE_LABELS = {
     'layout_merge_class': '职业字段未分行',
     'layout_merge_bullet': '项目符号分行丢失',
     'layout_merge_field': '字段标签与说明未分行',
+    'layout_merge_control': '控制符行结构不一致',
 }
 
 _LOCK = threading.Lock()
