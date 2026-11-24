@@ -7,7 +7,7 @@ TOKEN = re.compile(
 )
 BAD_START = set('，。、；：」』）】…')
 BAD_END = set('「『（【')
-KANA = re.compile(r'[\u3040-\u30ff]')
+KANA = re.compile(r'[\u3041-\u3096\u30a1-\u30fa\uff66-\uff9d]')
 LITERAL_ACTOR = re.compile(r'\[(?:10[0-9]|1[1-9][0-9]|20[0-9])\]')
 
 
