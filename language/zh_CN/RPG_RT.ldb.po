@@ -7900,9 +7900,7 @@ msgstr "赫卡忒"
 #. ID 413
 msgctxt "items.description"
 msgid "[杖]強い闇の力をまとった木製の杖       付盲,MD20"
-msgstr ""
-"[杖]缠绕着强大暗之力的木制杖       附加失明，MD\n"
-"20"
+msgstr "[杖]缠绕着强大暗之力的木制杖    附加失明，MD20"
 
 #. ID 414
 msgctxt "items.name"
@@ -17182,9 +17180,7 @@ msgstr "烈焰鞭"
 #. ID 1632
 msgctxt "items.description"
 msgid "[鞭]燃え上がる炎の鞭2本セット  火,増火,集魔4,hit+1"
-msgstr ""
-"[鞭]熊熊燃烧的火焰鞭2根套装  火，增火，集魔4,hit\n"
-"+1"
+msgstr "[鞭]熊熊燃烧的火焰鞭2根套装  火，增火，集魔4,hit+1"
 
 #. ID 1650
 msgctxt "items.name"

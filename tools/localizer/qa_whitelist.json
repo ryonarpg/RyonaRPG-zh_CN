@@ -864,6 +864,42 @@
       "message": "译文含日文假名，请确认是否为有意保留",
       "note": "原数据乱码，按原文保留",
       "created_at": "2026-11-24T23:10:07"
+    },
+    {
+      "id": "317a840f0630c29cece30e42",
+      "file": "Map1151.po",
+      "block": 2,
+      "code": "kana",
+      "line": 0,
+      "severity": "warning",
+      "label": "残留假名",
+      "message": "译文含日文假名，请确认是否为有意保留",
+      "note": "",
+      "created_at": "2026-11-24T15:37:36"
+    },
+    {
+      "id": "065036ac4e8e3c305aff61a6",
+      "file": "Map1151.po",
+      "block": 3,
+      "code": "kana",
+      "line": 0,
+      "severity": "warning",
+      "label": "残留假名",
+      "message": "译文含日文假名，请确认是否为有意保留",
+      "note": "",
+      "created_at": "2026-11-24T15:37:28"
+    },
+    {
+      "id": "4e4ec2ca7fa97d0d231f0477",
+      "file": "RPG_RT.ldb.common.po",
+      "block": 2435,
+      "code": "kana",
+      "line": 0,
+      "severity": "warning",
+      "label": "残留假名",
+      "message": "译文含日文假名，请确认是否为有意保留",
+      "note": "",
+      "created_at": "2026-11-24T16:22:27"
     }
   ]
 }
