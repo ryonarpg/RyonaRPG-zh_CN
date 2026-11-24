@@ -75,6 +75,7 @@ def main():
         manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
         manifest_count = len(manifest.get('files', []))
         for rel in manifest.get('files', []):
+            rel = rel.replace('\\', '/')
             if not (LANG / rel).exists():
                 missing_images.append(rel)
     else:
