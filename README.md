@@ -60,6 +60,19 @@ python tools/localizer/cli.py misalign --json
 
 Flask 的 JSON API、字段说明和 Agent 使用建议见 [docs/LOCALIZER_CLI.md](docs/LOCALIZER_CLI.md)。CLI 不提供保存命令，写入仍通过编辑器或 `/api/save` 并经过备份与校验。
 
+## 菜单图片生成
+
+修改物品、技能、ABL/EX/ITM 或菜单文字后，需要重新生成对应图片并提交。脚本在 `tools/images/`，需要原版游戏目录、`lcf2xml` 导出的 `RPG_RT.edb` 和 CJK 字体；仓库不包含这些素材。
+
+```bash
+python -m pip install -r tools/images/requirements.txt
+python tools/images/build.py check --game-dir "D:\Games\RyonaRPG" --edb "D:\dump\RPG_RT.edb" --kind all
+python tools/images/build.py build --game-dir "D:\Games\RyonaRPG" --edb "D:\dump\RPG_RT.edb" --kind all
+python tools/images/build.py validate --game-dir "D:\Games\RyonaRPG"
+```
+
+`check` 只生成到临时目录并报告 `stale`/`missing`/`extra`/`invalid`，不修改仓库；`validate` 检查 P 模式、透明色键、尺寸和 manifest。详细说明见 [tools/images/README.md](tools/images/README.md)。
+
 ## 发布
 
 打 `v*` 标签后，GitHub Actions 会运行 QA 并生成：
