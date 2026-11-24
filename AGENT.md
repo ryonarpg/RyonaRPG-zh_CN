@@ -61,11 +61,16 @@ python tools/qa/run_all.py
 - 0 个未转义的角色编号文本（`actor_code_literal`，例如把 `\n[102]` 写成 `[102]`）；
 - 0 弯引号、0 个 `。。`/`，，`；
 - 0 处“标题 + 危険度”、`Name/Class/Type`、`・/※` 列表、字段标签或 `【说话人】` 标签被合并且丢失分行（`layout_merge_*`；`bracket_title` 和 `control_lines` 用 CLI `layout` 单独审阅，后者保留源文 `\>` 行结构）；
+- 0 个同一方向连续 3 个及以上候选的整段错位（`misalign_runs`，允许间隔 2 条；用 `tools/qa/tm_reference.json.gz` 行级 TM 检测译文是否实际对应相邻源文；2 个连续或单条候选只作警告，不阻塞）；
 - `_img_manifest.json` 中 4,940 个图片全部存在。
+
+警告项（不阻塞）：`hpmp_chinese` 表示译文把源文 `HP`/`MP` 写成了「生命值」「魔法值」等中文，应保留 `HP`/`MP`。
 
 行宽 47–50 为允许值（CLAUDE.md 上限 50），但新增文案应优先控制在 46–48。
 
 QA 白名单保存在 `tools/localizer/qa_whitelist.json`，应随仓库提交。编辑器或 `/api/whitelist` 加入后，问题会从扫描结果和统计中排除；条目原文或译文改变后白名单 ID 失效，新问题会重新出现。白名单可通过编辑器或 `/api/whitelist/remove` 移除。
+
+错位检测的 TM 参考 `tools/qa/tm_reference.json.gz` 由 `tools/qa/build_tm_reference.py` 从游戏目录的 `ManualTransFile_translated.json` 生成；它只保留当前 PO 源文行需要的行级对照。更新大批源文/译文后重新生成并提交该文件。CLI 可用 `python tools/localizer/cli.py misalign --json` 查看 run / short / single 明细。
 
 ## 4. 控制符与 EasyRPG 事实
 
@@ -123,6 +128,7 @@ python tools/deploy_to_game.py --game-dir "D:\Games\RyonaRPG" --with-launcher
 11. 女主人公称呼：`\N[\V[6]]くん/さん` 不译“先生/君”；现代汉语优先省略敬称或用“你”，正式场合用“小姐/女士”。`くん` 也不是“先生”，`聖女くん` 用“圣女”。NPC 的“先生/小姐”等称呼按角色性别和关系单独判断，不做全局替换；史莱姆、猫、马、妖怪、触手、士兵、佣兵、警卫等非人类/职业角色不要默认加“先生”。
 12. `○リーパー` 是对《宝可梦》スリーパー（Hypno，官方中文“引梦貘人”）的规避版权式玩梗；对话中统一译 **`○梦貘人`**，Actor 101 的无 `○` 名称译 **`梦貘人`**，不要译成“收割者/利帕/死神”。
 13. 原数据本身完全乱码的书页/邪神语（`docs/PRESERVED_JAPANESE.md` 中的 53 条）不要机器翻译；译文复制原文，并加入 `qa_whitelist.json`，避免产生更差的乱码。
+14. `HP`、`MP`、`EXP`、`LV`、`G` 等常见游戏缩写保留原文，不译成「生命值」「魔法值」等中文；源文本身的日语实词「魔力」「魔法」仍按原意翻译，不要把「魔力」误改成 MP。
 
 ## 8. 相关文档
 

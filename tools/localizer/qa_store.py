@@ -20,6 +20,7 @@ ISSUE_LABELS = {
     'curly_quote': '弯引号',
     'exfont_split': 'ExFont 拆分',
     'kana': '残留假名',
+    'hpmp_chinese': 'HP/MP 被译成中文',
     'extra_code': '多余控制符',
     'missing_actor_code': '角色名控制符丢失',
     'actor_code_literal': '角色编号未转义',

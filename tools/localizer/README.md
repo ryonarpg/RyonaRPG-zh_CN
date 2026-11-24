@@ -28,7 +28,8 @@ python app.py
 - **原数据乱码页**：源数据本身完全乱码的 53 条已复制原文为译文并加入白名单；不要用机器翻译继续改写这些内容。
 - **全库全文搜索**：中日文、文件名、上下文；输入游戏里看到的中文即可反查 PO 条目。搜索按单条消息匹配；如果一句话跨多条消息/分页，建议搜索其中一段。
 - **安全编辑**：只替换目标条目的 `msgstr`，保留 `msgctxt`、`msgid`、注释和文件其余结构。
-- **保存前校验**：每行 ≤50 半角单元、行首/行尾标点、跨行断码、角色名控制符 `\n[...]`/`\N[...]`、未转义的角色编号、ExFont `$x` 拆分、空译、假名、重复标点、花引号、控制符差异。
+- **保存前校验**：每行 ≤50 半角单元、行首/行尾标点、跨行断码、角色名控制符 `\n[...]`/`\N[...]`、未转义的角色编号、ExFont `$x` 拆分、空译、假名、HP/MP 被译成中文、重复标点、花引号、控制符差异。
+- **整段错位检查**：用行级 TM 参考检测译文是否实际对应上一条/下一条源文；同一方向连续 3 个及以上候选会在 `run_all.py` 中失败，2 个和单条候选只作提示。
 - **消息预览**：右侧同时显示日文原版和中文译文，各为 320×80、12px 字体、每 4 行一页，方便对照换行与分页。
 - **备份**：每次保存前把原 PO 复制到 `backups/`，文件名带时间戳。
 - **索引重建**：保存后自动更新索引；也可点“重建索引”。
@@ -44,6 +45,7 @@ python tools/localizer/cli.py browse maps --group Map0002.po --json
 python tools/localizer/cli.py entry Map0002.po 0 --json
 python tools/localizer/cli.py issues --severity warning --json
 python tools/localizer/cli.py layout --kind danger_label --json
+python tools/localizer/cli.py misalign --json
 ```
 
 CLI 默认只读，不提供保存命令。Flask JSON API、字段说明和 Agent 使用建议见 [docs/LOCALIZER_CLI.md](../../docs/LOCALIZER_CLI.md)。
@@ -61,6 +63,7 @@ CLI 默认只读，不提供保存命令。Flask JSON API、字段说明和 Agen
 - `qa_store.py`：全库 QA 扫描、问题分类与筛选缓存。
 - `qa_whitelist.py` / `qa_whitelist.json`：QA 白名单读写；按条目译文哈希匹配。
 - `layout.py`：源文标题/换行结构与译文差异检查。
+- `misalignment.py`：基于行级 TM 的整段译文错位检测。
 - `validators.py`：行宽、标点、断码、控制符校验。
 - `cli.py`：只读 CLI，支持 `--json`。
 - `preview.py`：消息窗口 PNG 预览。

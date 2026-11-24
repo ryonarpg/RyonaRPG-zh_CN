@@ -8,6 +8,8 @@ TOKEN = re.compile(
 BAD_START = set('，。、；：」』）】…')
 BAD_END = set('「『（【')
 KANA = re.compile(r'[\u3041-\u3096\u30a1-\u30fa\uff66-\uff9d]')
+HPMP = re.compile(r'(?<![A-Za-z0-9\uff10-\uff19])(?:HP|MP|\uff28\uff30|\uff2d\uff30)(?![A-Za-z0-9\uff10-\uff19])', re.I)
+HPMP_CN = re.compile(r'\u9b54\u6cd5\u503c|\u751f\u547d\u503c|\u4f53\u529b\u503c|\u8840\u91cf|\u6cd5\u529b\u503c')
 LITERAL_ACTOR = re.compile(r'\[(?:10[0-9]|1[1-9][0-9]|20[0-9])\]')
 LITERAL_VAR = re.compile(r'\[\\[vV]\[\d+\]\]')
 
@@ -109,6 +111,8 @@ def validate(mid, tr, ctx=''):
         add('error', 'exfont_split', 'ExFont 控制符 $x 被换行/空格拆开', 0)
     if KANA.search(tr):
         add('warning', 'kana', '译文含日文假名，请确认是否为有意保留', 0)
+    if HPMP.search(mid) and HPMP_CN.search(tr):
+        add('warning', 'hpmp_chinese', '译文把 HP/MP 译成了中文，建议保留 HP/MP', 0)
 
     src_codes = code_tokens(mid)
     dst_codes = code_tokens(tr)

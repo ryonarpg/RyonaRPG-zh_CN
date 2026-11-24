@@ -2289,7 +2289,7 @@ msgstr "火焰魔术师"
 #. ID 255
 msgctxt "skills.description"
 msgid "ファイア、メガの威力が上がり、消費MPが減る。"
-msgstr "火焰、Mega的威力提升，消耗魔法值减少。"
+msgstr "火焰、Mega的威力提升，消耗MP减少。"
 
 #. ID 256
 msgctxt "skills.name"
@@ -2555,7 +2555,7 @@ msgstr "$A针"
 #. ID 317
 msgctxt "skills.description"
 msgid "[通]毒針を放つ。(消費MP:7)"
-msgstr "[通]发射毒针。(消耗魔法值:7)"
+msgstr "[通]发射毒针。(消耗MP:7)"
 
 #. ID 318
 msgctxt "skills.name"
@@ -2567,7 +2567,7 @@ msgctxt "skills.description"
 msgid "[通]粘液で敵の攻撃力を下げ、盲目にする。(消費MP:8)"
 msgstr ""
 "[通]用黏液降低敌人的攻击力，并使其失明。\n"
-"(消耗魔法值:8)"
+"(消耗MP:8)"
 
 #. ID 319
 msgctxt "skills.name"
@@ -2577,7 +2577,7 @@ msgstr "$A邪恶之眼"
 #. ID 319
 msgctxt "skills.description"
 msgid "正面にいる敵を麻痺させる。(消費MP:10)"
-msgstr "使正面敌人麻痹。(消耗魔法值:10)"
+msgstr "使正面敌人麻痹。(消耗MP:10)"
 
 #. ID 320
 msgctxt "skills.name"
@@ -2587,7 +2587,7 @@ msgstr "$A催眠"
 #. ID 320
 msgctxt "skills.description"
 msgid "正面にいる敵を混乱させる。(消費MP:10)"
-msgstr "使正面敌人混乱。(消耗魔法值:10)"
+msgstr "使正面敌人混乱。(消耗MP:10)"
 
 #. ID 321
 msgctxt "skills.name"
@@ -2749,7 +2749,7 @@ msgctxt "skills.description"
 msgid "画面上の敵全てに火炎属性ダメージ。（消費MP:40）"
 msgstr ""
 "对画面上所有敌人造成火焰属性伤害。\n"
-"（消耗魔法值:40）"
+"（消耗MP:40）"
 
 #. ID 376
 msgctxt "skills.name"
@@ -2761,7 +2761,7 @@ msgctxt "skills.description"
 msgid "画面上の敵全てに冷気属性ダメージ。（消費MP:40）"
 msgstr ""
 "对画面上所有敌人造成冷气属性伤害。\n"
-"（消耗魔法值:40）"
+"（消耗MP:40）"
 
 #. ID 377
 msgctxt "skills.name"
@@ -2773,7 +2773,7 @@ msgctxt "skills.description"
 msgid "画面上の敵全てにダメージ。使用後疲労（消費MP:40）"
 msgstr ""
 "对画面上所有敌人造成伤害。使用后疲劳\n"
-"（消耗魔法值:40）"
+"（消耗MP:40）"
 
 #. ID 378
 msgctxt "skills.name"
@@ -5487,7 +5487,7 @@ msgstr "吸取"
 #. ID 166
 msgctxt "items.description"
 msgid "[通]敵のHPを吸収する黒魔法。(消費MP:15)"
-msgstr "[通]吸收敌人HP的黑魔法。(消耗魔法值:15)"
+msgstr "[通]吸收敌人HP的黑魔法。(消耗MP:15)"
 
 #. ID 167
 msgctxt "items.name"
@@ -5497,7 +5497,7 @@ msgstr "圣光"
 #. ID 167
 msgctxt "items.description"
 msgid "[通]聖なる力で攻撃する古代魔法。(消費MP:80)"
-msgstr "[通]以神圣之力攻击的古代魔法。(消耗魔法值:80)"
+msgstr "[通]以神圣之力攻击的古代魔法。(消耗MP:80)"
 
 #. ID 168
 msgctxt "items.name"
@@ -5507,7 +5507,7 @@ msgstr "核爆"
 #. ID 168
 msgctxt "items.description"
 msgid "[通]核融合エネルギーで攻撃する古代魔法(消費MP:100)"
-msgstr "[通]以核聚变能量攻击的古代魔法(消耗魔法值:100)"
+msgstr "[通]以核聚变能量攻击的古代魔法(消耗MP:100)"
 
 #. ID 169
 msgctxt "items.name"
@@ -5528,7 +5528,7 @@ msgstr "传送"
 msgctxt "items.description"
 msgid "[通]次元を捻じ曲げ敵を消し去る古代魔法(消費MP:40)"
 msgstr ""
-"[通]扭曲次元将敌人消灭的古代魔法(消耗魔法值:40\n"
+"[通]扭曲次元将敌人消灭的古代魔法(消耗MP:40\n"
 ")"
 
 #. ID 171
@@ -5983,7 +5983,7 @@ msgctxt "items.description"
 msgid "[通]画面上の敵全てに火炎属性ダメージ（消費MP:40）"
 msgstr ""
 "[通]对画面上的所有敌人造成火炎属性伤害\n"
-"（消耗魔法值:40）"
+"（消耗MP:40）"
 
 #. ID 219
 msgctxt "items.name"
@@ -5995,7 +5995,7 @@ msgctxt "items.description"
 msgid "[通]画面上の敵全てに冷気属性ダメージ（消費MP:40）"
 msgstr ""
 "[通]对画面上的所有敌人造成冷气属性伤害\n"
-"（消耗魔法值:40）"
+"（消耗MP:40）"
 
 #. ID 220
 msgctxt "items.name"
@@ -6936,7 +6936,7 @@ msgstr "无敌"
 #. ID 314
 msgctxt "items.description"
 msgid "[通]発動後、１０秒間無敵化する。(消費MP:50%)"
-msgstr "[通]发动后，10秒内无敌化。(消耗魔法值:50%)"
+msgstr "[通]发动后，10秒内无敌化。(消耗MP:50%)"
 
 #. ID 315
 msgctxt "items.name"
@@ -7830,7 +7830,7 @@ msgstr "魔导杖皮奇"
 #. ID 406
 msgctxt "items.description"
 msgid "[杖]魔法のダメージと消費ＭＰが２倍になる杖。"
-msgstr "[杖]使魔法伤害和消耗魔法值变为2倍的法杖。"
+msgstr "[杖]使魔法伤害和消耗MP变为2倍的法杖。"
 
 #. ID 407
 msgctxt "items.name"
@@ -7840,7 +7840,7 @@ msgstr "魔导杖美穗"
 #. ID 407
 msgctxt "items.description"
 msgid "[杖]魔法の消費ＭＰが半分になる杖。"
-msgstr "[杖]使魔法消耗的魔法值减半的法杖。"
+msgstr "[杖]使魔法消耗的MP减半的法杖。"
 
 #. ID 408
 msgctxt "items.name"
@@ -7850,7 +7850,7 @@ msgstr "女神之伞"
 #. ID 408
 msgctxt "items.description"
 msgid "[杖]敵から受けた魔法の一部をMPに変換する魔法の傘"
-msgstr "[杖]能将受到敌人的部分魔法转换为魔法值的魔法伞"
+msgstr "[杖]能将受到敌人的部分魔法转换为MP的魔法伞"
 
 #. ID 409
 msgctxt "items.name"
@@ -7924,7 +7924,7 @@ msgctxt "items.description"
 msgid "[杖]魔法の溜め速度を4倍、消費ＭＰを1/2する短杖"
 msgstr ""
 "[杖]将魔法蓄力速度提升至4倍、\n"
-"消耗魔法值为1/2的短杖"
+"消耗MP为1/2的短杖"
 
 #. ID 416
 msgctxt "items.name"
@@ -11867,7 +11867,7 @@ msgstr "神奇梳子"
 #. ID 817
 msgctxt "items.description"
 msgid "魔法使用時の消費MPが半減する。"
-msgstr "使用魔法时的消耗魔法值减半。"
+msgstr "使用魔法时的消耗MP减半。"
 
 #. ID 818
 msgctxt "items.name"
@@ -15150,7 +15150,7 @@ msgstr "审判者之锡杖"
 #. ID 1260
 msgctxt "items.description"
 msgid "[杖]金細工の錫杖。聖なる光を放つ(消費MP:20)"
-msgstr "[杖]金工艺锡杖。放出神圣之光(消耗魔法值:20)"
+msgstr "[杖]金工艺锡杖。放出神圣之光(消耗MP:20)"
 
 #. ID 1261
 msgctxt "items.name"
@@ -18893,7 +18893,7 @@ msgstr "MP"
 
 msgctxt "terms.sp_cost"
 msgid "消費MP"
-msgstr "消耗魔法值"
+msgstr "消耗MP"
 
 msgctxt "terms.attack"
 msgid "攻撃力"

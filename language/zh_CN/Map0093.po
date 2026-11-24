@@ -147,7 +147,7 @@ msgid ""
 "\n"
 "最大MPアップ\n"
 "　最大MP +10"
-msgstr "最大魔力值提升　最大MP +10"
+msgstr "最大MP提升　最大MP +10"
 
 #. ID 6, Page 1, Line 20, Pos (14,14)
 msgid ""

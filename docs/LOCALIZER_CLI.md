@@ -111,6 +111,7 @@ unclosed_code         控制符未闭合
 split_code            控制符跨行
 exfont_split          ExFont 控制符被拆开
 kana                  残留假名
+hpmp_chinese          HP/MP 被译成中文（建议保留 HP/MP）
 extra_code            多余控制符
 missing_actor_code    角色名控制符丢失
 actor_code_literal    角色编号未转义（如把 \n[102] 写成 [102]）
@@ -145,6 +146,35 @@ python tools/localizer/cli.py layout --kind bracket_title --limit 20
 这是人工审核候选，不自动改写。`layout` 默认不返回非零退出码；CI 可用 `--json` 自行判断。
 
 维护时对 `control_lines` 的安全重排规则是：源文每行以 `\>` 开头、目标 `\>` 数量与源文行数一致、按 `\>` 重建后每行 ≤50 单元；不满足这些条件的条目保留在候选清单中人工处理。`bracket_title` 同样只作为候选。
+
+### `misalign`
+
+```bash
+python tools/localizer/cli.py misalign
+python tools/localizer/cli.py misalign --file Map1156.po --json
+python tools/localizer/cli.py misalign --reference tools/qa/tm_reference.json.gz --json
+```
+
+检查“整段译文错位”：译文实际对应上一条或下一条源文，而不是当前源文。使用旧版行级翻译记忆 `tools/qa/tm_reference.json.gz` 作参照；该文件由 `tools/qa/build_tm_reference.py` 从游戏目录的 `ManualTransFile_translated.json` 生成，只保留当前 PO 源文行需要的条目。
+
+判定规则：
+
+- 当前条目、上一条、下一条分别计算译文与对应 TM 译文的中文字符集合 Dice 相似度；
+- 当前相似度 ≤0.45，且相邻条目相似度 ≥0.45、至少高 0.18，并且 TM 覆盖足够时，记为候选；
+- 连续 3 个及以上、方向一致（都偏向 `prev` 或都偏向 `next`，允许间隔 2 条）的候选记为 **run**，CI 会失败；
+- 2 个连续或单条候选记为 **short / single**，只作为人工复核提示，不阻塞 QA。
+
+输出字段：
+
+```text
+skipped       参考文件缺失时为 true
+reference     TM 参考路径
+summary       files_scanned / files_with_flags / flags / runs / short_runs / singles
+runs[]        file, start_block, end_block, direction, count, flags[]
+singles[]     单条候选，含 margin、self、best、source、translation、tm
+```
+
+`--file` 只扫描一个 PO 文件；`--limit` 控制文本输出的条目数。有 run 时退出码为 `1`，只有 short/single 时为 `0`，参考文件缺失时为 `2`。
 
 ## 3. Flask JSON API
 
@@ -330,7 +360,7 @@ Agent 不应在未展示 diff/未经确认时调用 `/api/save`。
 1. 先用 `search` 或 `browse` 定位条目，记录 `file` 和 `block`。
 2. 用 `entry --json` 读取完整上下文、校验和预览页数。
 3. 修改后先 `check`；有 `error` 不要保存。
-4. 需要批量分析时使用 `issues --json` 和 `layout --json`，不要逐条启动浏览器。
+4. 需要批量分析时使用 `issues --json`、`layout --json` 和 `misalign --json`，不要逐条启动浏览器。
 5. 需要实机效果时再用编辑器或部署脚本；`preview` 只是近似结果。
 
 当前不提供 MCP 服务。对 Agent 来说，CLI 的 `--json` 稳定输出比额外维护 MCP 进程更简单；如果未来出现多客户端统一集成需求，可在这些函数之上增加只读 MCP 包装。
