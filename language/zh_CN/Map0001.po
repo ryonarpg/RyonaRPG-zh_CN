@@ -912,8 +912,8 @@ msgid ""
 "　(寄生虫・機械装置・拘束具除く)"
 msgstr ""
 "天赋　「咒言精通」\n"
-"　可使用咒言・无效化诅咒效果　(寄生虫・机械装\n"
-"　置・拘束具除外)"
+"　可使用咒言・无效化诅咒效果　\n"
+"　(寄生虫・机械装置・拘束具除外)"
 
 #. ID 8, Page 5, Line 3, Pos (9,4)
 msgid ""
@@ -1331,7 +1331,9 @@ msgstr ""
 msgid ""
 "\n"
 "妊娠・出産系イベント"
-msgstr "怀孕・分娩类事件"
+msgstr ""
+"\n"
+"怀孕・分娩类事件"
 
 #. ID 22, Page 1, Line 200, Pos (19,0)
 #. Choice (2 options, embedded in a message)
