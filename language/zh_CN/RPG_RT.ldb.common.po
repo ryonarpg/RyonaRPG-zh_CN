@@ -13459,7 +13459,7 @@ msgstr "拉莉莉姆"
 #. ChangeHeroName (Actor 101)
 msgctxt "actors.name"
 msgid "たからばこさん"
-msgstr "宝箱先生"
+msgstr "宝箱"
 
 #. ID 303, Line 833
 #. ChangeHeroName (Actor 101)
@@ -19310,7 +19310,7 @@ msgstr ""
 msgid ""
 "えーと…ガードさん、とりあえず\n"
 "そこのボロ雑巾を捨ててきてもらえます？"
-msgstr "呃……警卫先生，总之能请你把那里的破抹布扔掉吗？"
+msgstr "呃……警卫，总之能请你把那里的破抹布扔掉吗？"
 
 #. ID 382, Line 261
 msgid ""

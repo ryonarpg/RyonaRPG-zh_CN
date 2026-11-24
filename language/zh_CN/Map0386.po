@@ -49,7 +49,7 @@ msgstr "布噜噜噜！"
 msgid ""
 "\n"
 "　　　　お馬さんの性欲処理をする？"
-msgstr "　　　　要处理马先生的性欲吗？"
+msgstr "　　　　要处理马的性欲吗？"
 
 #. ID 3, Page 2, Line 7, Pos (13,10)
 #. Choice (2 options, embedded in a message)

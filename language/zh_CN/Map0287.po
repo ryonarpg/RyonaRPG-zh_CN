@@ -401,7 +401,7 @@ msgstr ""
 
 #. ID 112, Page 2, Line 3, Pos (44,34)
 msgid "最近、兵士さんの私を見る目が厳しいの。"
-msgstr "最近，士兵先生看我的眼神很严厉。"
+msgstr "最近，士兵看我的眼神很严厉。"
 
 #. ID 112, Page 2, Line 4, Pos (44,34)
 msgid ""
@@ -440,7 +440,7 @@ msgstr ""
 
 #. ID 124, Page 2, Line 4, Pos (35,15)
 msgid "兵士さんがそう言っていたわ。"
-msgstr "士兵先生是这么说的。"
+msgstr "士兵是这么说的。"
 
 #. ID 125, Page 1, Line 3, Pos (19,29)
 msgid "宿屋の前にいつも居るあの人、かっこいいよね。"

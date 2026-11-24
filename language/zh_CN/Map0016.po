@@ -50,8 +50,8 @@ msgid ""
 "\\N[\\V[6]]さんによくお似合いの、\n"
 "はしたない品ばかりですわ♪　ﾌﾌｯ"
 msgstr ""
-"是\\N[\\V[6]]大人吧，我们为您准备了专用商品。\n"
-"都是非常适合\\N[\\V[6]]大人的、\n"
+"是\\N[\\V[6]]吧，我们为您准备了专用商品。\n"
+"都是非常适合\\N[\\V[6]]的、\n"
 "不知羞耻的东西哦♪　呵呵"
 
 #. ID 4, Page 3, Line 3, Pos (12,6)
@@ -170,7 +170,7 @@ msgstr "梅尔库里亚尔·巨剑酱……\\!…………好想要……"
 #. ID 24, Page 1, Line 4, Pos (9,7)
 #. Contains choice at line 2 (2 options)
 msgid "＊「おはよう！傭兵さん vol.01410831」が置いてある。"
-msgstr "＊放着「早上好！佣兵先生 vol.01410831」。"
+msgstr "＊放着「早上好！佣兵 vol.01410831」。"
 
 #. ID 24, Page 1, Line 5, Pos (9,7)
 #. Choice (2 options, embedded in a message)
