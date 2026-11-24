@@ -10,7 +10,7 @@ sys.path.insert(0, str(ROOT / 'tools' / 'localizer'))
 import po_store  # noqa: E402
 import layout  # noqa: E402
 
-BAD_START = set('，。、；：')
+BAD_START = set('，。、；：」』）】')
 LANG = Path(po_store.LANG_DIR)
 
 
@@ -83,19 +83,29 @@ def main():
         missing_images.append('_img_manifest.json')
 
     po_store.ensure_index()
-    layout_danger = len(layout.scan('danger_label'))
+    layout_findings = layout.scan('all')
+    layout_counts = {}
+    for item in layout_findings:
+        layout_counts[item['kind']] = layout_counts.get(item['kind'], 0) + 1
+    layout_danger = layout_counts.get('danger_label', 0)
+    layout_class = layout_counts.get('class_fields', 0)
+    layout_bullet = layout_counts.get('bullet_lines', 0)
+    layout_field = layout_counts.get('field_lines', 0)
+    layout_control = layout_counts.get('control_lines', 0)
 
     print('entries %d' % total)
     print('empty %d | lines>46 %d | lines>50 %d' % (empty, over46, over50))
     print('line_start %d | split_codes %d | bare_name_codes %d' % (line_start, split, bare_name))
     print('curly_quotes %d | dup_punct %d' % (curly, dup))
-    print('layout_merge_danger %d' % layout_danger)
+    print('layout_merge_danger %d | class %d | bullet %d | field %d | control %d' %
+          (layout_danger, layout_class, layout_bullet, layout_field, layout_control))
     print('manifest %d | missing_images %d' % (manifest_count, len(missing_images)))
     for rel in missing_images[:20]:
         print('MISSING_IMAGE', rel)
 
     errors = (empty + over50 + line_start + split + bare_name + curly + dup +
-              layout_danger + len(missing_images))
+              layout_danger + layout_class + layout_bullet + layout_field +
+              len(missing_images))
     if errors:
         print('QA FAILED: %d issue(s)' % errors)
         return 1

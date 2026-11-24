@@ -23,6 +23,9 @@ ISSUE_LABELS = {
     'actor_code_misplaced': '角色名控制符错位',
     'unbound_var': '变量控制符未绑定',
     'layout_merge_danger': '标题与危险度未分行',
+    'layout_merge_class': '职业字段未分行',
+    'layout_merge_bullet': '项目符号分行丢失',
+    'layout_merge_field': '字段标签与说明未分行',
 }
 
 _LOCK = threading.Lock()

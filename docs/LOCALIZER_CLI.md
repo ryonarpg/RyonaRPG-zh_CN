@@ -116,6 +116,9 @@ missing_actor_code    角色名控制符丢失
 actor_code_misplaced  角色名控制符错位
 unbound_var           变量控制符未绑定
 layout_merge_danger   标题与危险度未分行
+layout_merge_class    职业字段未分行
+layout_merge_bullet   项目符号分行丢失
+layout_merge_field    字段标签与说明未分行
 ```
 
 ### `layout`
@@ -123,12 +126,17 @@ layout_merge_danger   标题与危险度未分行
 ```bash
 python tools/localizer/cli.py layout
 python tools/localizer/cli.py layout --kind danger_label --json
+python tools/localizer/cli.py layout --kind class_fields --json
 python tools/localizer/cli.py layout --kind bracket_title --limit 20
 ```
 
 检查源文中的独立标题行在译文里被合并的情况：
 
 - `danger_label`：源文首行是 `[地名]`，第二行是 `危険度 …`，译文变成一行。
+- `class_fields`：源文 `Name :` / `Class:` / `Type :` 分行，译文合并为一行。
+- `bullet_lines`：源文有多条 `・` / `※` 项目符号行，译文合并或丢失项目符号。
+- `field_lines`：源文的 ASCII 字段标签/说明分行，译文被合并为一行。
+- `control_lines`：源文有独立的 `\>` 控制行，译文行首 `\>` 结构被合并。
 - `bracket_title`：其他 `[标题]` / `［标题］` 首行结构，译文行数少于源文。
 
 这是人工审核候选，不自动改写。`layout` 默认不返回非零退出码；CI 可用 `--json` 自行判断。
