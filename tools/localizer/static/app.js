@@ -648,10 +648,6 @@
     }
   }
 
-  function refreshIssuesIfLoaded() {
-    if (state.issues.loaded) loadIssues(false);
-  }
-
   function setMode(mode) {
     if (mode !== 'browse' && mode !== 'issues') return;
     if (state.mode === mode) return;
@@ -854,6 +850,24 @@
     }
   }
 
+  function updateCurrentRow(data) {
+    const display = (data.display_msgstr || data.msgstr || '').slice(0, 160);
+    const shown = display || '（未翻译）';
+    for (const row of document.querySelectorAll('.result')) {
+      if (row.dataset.file !== data.file || Number(row.dataset.block) !== data.block) continue;
+      const lines = row.querySelectorAll('.browse-text');
+      if (lines.length >= 2) {
+        const text = lines[1].querySelector('span:last-child');
+        if (text) {
+          text.textContent = shown;
+          text.classList.toggle('empty-text', !display);
+        }
+      }
+      const snippet = row.querySelector('.result-snippet');
+      if (snippet) snippet.textContent = shown;
+    }
+  }
+
   function refreshList() {
     if (els.search.value.trim()) {
       runSearch();
@@ -865,6 +879,9 @@
   async function save() {
     if (!state.current) return;
     clearTimeout(state.checkTimer);
+    const caretStart = els.translation.selectionStart;
+    const caretEnd = els.translation.selectionEnd;
+    const editorScroll = els.translation.scrollTop;
     els.save.disabled = true;
     try {
       const data = await jsonFetch('/api/save', {
@@ -877,9 +894,14 @@
         }),
       });
       renderEntry(data);
+      const length = els.translation.value.length;
+      if (caretStart !== null && caretStart !== undefined) {
+        els.translation.setSelectionRange(
+          Math.min(caretStart, length), Math.min(caretEnd, length));
+        els.translation.scrollTop = editorScroll;
+      }
+      updateCurrentRow(data);
       toast('已保存，并已更新索引');
-      refreshList();
-      refreshIssuesIfLoaded();
     } catch (e) {
       if (e.data && e.data.issues) {
         renderIssues(e.data.issues);

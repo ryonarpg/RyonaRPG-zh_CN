@@ -21,6 +21,7 @@ def entry_payload(file_name, block):
         'issues': issues,
         'metrics': check['metrics'],
         'pages': check['pages'],
+        'display_msgstr': po_store.clean_for_display(entry['msgstr']),
         'source_preview': preview.render(entry['msgid']),
         'preview': preview.render(entry['msgstr']),
     }
