@@ -6,6 +6,7 @@
     searchTimer: null,
     checkTimer: null,
     searchSeq: 0,
+    mode: 'browse',
     browse: {
       dim: 'maps',
       label: '地图',
@@ -20,6 +21,17 @@
       loading: false,
       seq: 0,
     },
+    issues: {
+      loaded: false,
+      loading: false,
+      severity: '',
+      code: '',
+      items: [],
+      total: 0,
+      limit: 50,
+      summary: null,
+      seq: 0,
+    },
   };
 
   const els = {
@@ -29,12 +41,23 @@
     mode: $('searchMode'),
     searchCount: $('searchCount'),
     searchMeta: $('searchMeta'),
+    leftModes: $('leftModes'),
+    modeBrowse: $('modeBrowse'),
+    modeIssues: $('modeIssues'),
+    issueBadge: $('issueBadge'),
     browsePanel: $('browsePanel'),
     browseTabs: $('browseTabs'),
     browsePath: $('browsePath'),
     browseFilter: $('browseFilter'),
     browseList: $('browseList'),
     browseFooter: $('browseFooter'),
+    issuesPanel: $('issuesPanel'),
+    issueSummary: $('issueSummary'),
+    issueRefresh: $('issueRefresh'),
+    issueSeverity: $('issueSeverity'),
+    issueCode: $('issueCode'),
+    issueList: $('issueList'),
+    issueFooter: $('issueFooter'),
     results: $('results'),
     entryFile: $('entryFile'),
     entryMeta: $('entryMeta'),
@@ -421,10 +444,237 @@
     return loadBrowseGroups();
   }
 
+  function severityLabel(severity) {
+    return { error: '错误', warning: '警告', info: '提示' }[severity] || severity;
+  }
+
+  function updateIssueBadge(summary) {
+    const err = summary ? (summary.by_severity.error || 0) : 0;
+    const warn = summary ? (summary.by_severity.warning || 0) : 0;
+    const info = summary ? (summary.by_severity.info || 0) : 0;
+    const count = err || warn || info;
+    if (!count) {
+      els.issueBadge.classList.add('hidden');
+      els.issueBadge.textContent = '';
+      els.issueBadge.title = '';
+      return;
+    }
+    els.issueBadge.className = 'mode-badge' + (err ? '' : (warn ? ' warn' : ' info'));
+    els.issueBadge.textContent = String(count);
+    els.issueBadge.title = `错误 ${err} · 警告 ${warn} · 提示 ${info}`;
+  }
+
+  function renderIssueSummary(summary) {
+    if (!summary) {
+      els.issueSummary.textContent = '尚未扫描';
+      return;
+    }
+    const sev = summary.by_severity;
+    if (!summary.total) {
+      els.issueSummary.textContent = `扫描 ${summary.scanned.toLocaleString()} 条，未发现问题`;
+      return;
+    }
+    els.issueSummary.textContent =
+      `扫描 ${summary.scanned.toLocaleString()} 条 · ${summary.entries.toLocaleString()} 条有提示` +
+      ` · 错误 ${sev.error} / 警告 ${sev.warning} / 提示 ${sev.info}`;
+  }
+
+  function renderIssueFilters() {
+    const s = state.issues;
+    const summary = s.summary;
+    els.issueSeverity.textContent = '';
+    if (!summary) return;
+    const choices = [
+      ['', '全部', summary.total],
+      ['error', '错误', summary.by_severity.error || 0],
+      ['warning', '警告', summary.by_severity.warning || 0],
+      ['info', '提示', summary.by_severity.info || 0],
+    ];
+    for (const [value, label, count] of choices) {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'issue-chip' +
+        (value ? ' ' + value : '') +
+        (s.severity === value ? ' active' : '');
+      const name = document.createElement('span');
+      name.textContent = label;
+      const num = document.createElement('span');
+      num.className = 'chip-count';
+      num.textContent = Number(count || 0).toLocaleString();
+      btn.append(name, num);
+      btn.addEventListener('click', () => {
+        if (s.severity === value) return;
+        s.severity = value;
+        s.code = '';
+        loadIssues(false);
+      });
+      els.issueSeverity.appendChild(btn);
+    }
+
+    const codes = (summary.by_code || []).filter(
+      (c) => !s.severity || c.severity === s.severity
+    );
+    if (s.code && !codes.some((c) => c.code === s.code)) s.code = '';
+    els.issueCode.textContent = '';
+    const all = document.createElement('option');
+    all.value = '';
+    all.textContent = '全部问题类型';
+    els.issueCode.appendChild(all);
+    for (const item of codes) {
+      const option = document.createElement('option');
+      option.value = item.code;
+      option.textContent = `${item.label}（${item.count.toLocaleString()}）`;
+      els.issueCode.appendChild(option);
+    }
+    els.issueCode.value = s.code;
+  }
+
+  function renderIssueList() {
+    const s = state.issues;
+    els.issueList.textContent = '';
+    if (!s.items.length) {
+      const empty = document.createElement('div');
+      empty.className = 'empty';
+      empty.textContent = s.loaded ? '当前筛选下没有条目' : '正在扫描全库…';
+      els.issueList.appendChild(empty);
+      renderIssueFooter();
+      return;
+    }
+    for (const item of s.items) {
+      const row = document.createElement('div');
+      row.className = 'result issue-result';
+      row.dataset.file = item.file;
+      row.dataset.block = String(item.block);
+      if (state.current && state.current.file === item.file && state.current.block === item.block) {
+        row.classList.add('active');
+      }
+
+      const top = document.createElement('div');
+      top.className = 'result-top';
+      const file = document.createElement('span');
+      file.className = 'result-file';
+      file.textContent = item.file;
+      const ctx = document.createElement('span');
+      ctx.className = 'result-ctx';
+      ctx.textContent = item.ctx || '事件消息';
+      top.append(file, ctx);
+
+      const headline = document.createElement('div');
+      headline.className = 'issue-headline';
+      const sev = document.createElement('span');
+      sev.className = 'issue-sev ' + item.severity;
+      sev.textContent = severityLabel(item.severity);
+      const msg = document.createElement('span');
+      msg.className = 'issue-message';
+      msg.textContent = `${item.label}：${item.message}`;
+      headline.append(sev, msg);
+
+      row.append(
+        top,
+        headline,
+        browseLine('原文', item.source, '（空）'),
+        browseLine('译文', item.translation, '（未翻译）'),
+      );
+      row.addEventListener('click', () => loadEntry(item.file, item.block));
+      els.issueList.appendChild(row);
+    }
+    renderIssueFooter();
+  }
+
+  function renderIssueFooter() {
+    const s = state.issues;
+    els.issueFooter.textContent = '';
+    if (!s.total) return;
+    const shown = s.items.length;
+    if (shown >= s.total) {
+      if (s.total > s.limit) {
+        const done = document.createElement('div');
+        done.className = 'muted small';
+        done.textContent = `已显示全部 ${s.total.toLocaleString()} 条`;
+        els.issueFooter.appendChild(done);
+      }
+      return;
+    }
+    const more = document.createElement('button');
+    more.type = 'button';
+    more.className = 'browse-more';
+    more.textContent = `加载更多（已显示 ${shown} / ${s.total.toLocaleString()} 条）`;
+    more.addEventListener('click', () => loadIssues(true));
+    els.issueFooter.appendChild(more);
+  }
+
+  async function loadIssues(append, force = false) {
+    const s = state.issues;
+    if (els.search.value.trim()) return;
+    const seq = ++s.seq;
+    s.loading = true;
+    els.issueRefresh.disabled = true;
+    const offset = append ? s.items.length : 0;
+    if (!append) {
+      s.items = [];
+      s.total = 0;
+      els.issueList.textContent = '';
+      els.issueFooter.textContent = '';
+      els.issueSummary.textContent = '正在扫描全库…';
+    }
+    try {
+      const data = await jsonFetch(
+        `/api/issues?severity=${encodeURIComponent(s.severity)}` +
+        `&code=${encodeURIComponent(s.code)}` +
+        `&offset=${offset}&limit=${s.limit}` +
+        (force ? '&refresh=1' : '')
+      );
+      if (seq !== s.seq) return;
+      s.summary = data.summary;
+      s.total = data.total;
+      s.items = append ? s.items.concat(data.items) : data.items;
+      s.loaded = true;
+      renderIssueSummary(s.summary);
+      renderIssueFilters();
+      renderIssueList();
+      updateIssueBadge(s.summary);
+    } catch (e) {
+      if (seq === s.seq) {
+        els.issueSummary.textContent = '扫描失败';
+        toast(e.message, true);
+      }
+    } finally {
+      if (seq === s.seq) {
+        s.loading = false;
+        els.issueRefresh.disabled = false;
+      }
+    }
+  }
+
+  function refreshIssuesIfLoaded() {
+    if (state.issues.loaded) loadIssues(false);
+  }
+
+  function setMode(mode) {
+    if (mode !== 'browse' && mode !== 'issues') return;
+    if (state.mode === mode) return;
+    state.mode = mode;
+    els.modeBrowse.classList.toggle('active', mode === 'browse');
+    els.modeIssues.classList.toggle('active', mode === 'issues');
+    if (els.search.value.trim()) return;
+    setSearchMode(false);
+    if (mode === 'issues') {
+      if (!state.issues.loaded) loadIssues(false);
+    } else if (!state.browse.categories.length) {
+      loadBrowse();
+    }
+  }
+
   function setSearchMode(searching) {
-    els.browsePanel.classList.toggle('hidden', searching);
-    els.results.classList.toggle('hidden', !searching);
-    if (!searching) {
+    const search = !!searching;
+    els.results.classList.toggle('hidden', !search);
+    els.leftModes.classList.toggle('hidden', search);
+    if (search) {
+      els.browsePanel.classList.add('hidden');
+      els.issuesPanel.classList.add('hidden');
+    } else {
+      els.browsePanel.classList.toggle('hidden', state.mode !== 'browse');
+      els.issuesPanel.classList.toggle('hidden', state.mode !== 'issues');
       els.searchCount.textContent = '';
       els.searchMeta.textContent = '';
     }
@@ -466,10 +716,12 @@
     }
     for (const issue of issues) {
       const div = document.createElement('div');
-      div.className = 'issue ' + (issue.severity === 'error' ? 'error' : 'warning');
+      div.className = 'issue ' + (issue.severity || 'warning');
       const t = document.createElement('div');
       t.className = 'issue-title';
-      t.textContent = issue.severity === 'error' ? '错误' : '提示';
+      t.textContent = issue.severity === 'error'
+        ? '错误'
+        : (issue.severity === 'info' ? '提示' : '警告');
       div.appendChild(t);
       div.appendChild(document.createTextNode(issue.message));
       els.issues.appendChild(div);
@@ -577,6 +829,7 @@
         body: JSON.stringify({
           msgid: state.current.msgid,
           msgstr: els.translation.value,
+          ctx: state.current.ctx || '',
         }),
       });
       renderIssues(data.issues);
@@ -615,6 +868,7 @@
       renderEntry(data);
       toast('已保存，并已更新索引');
       refreshList();
+      refreshIssuesIfLoaded();
     } catch (e) {
       if (e.data && e.data.issues) {
         renderIssues(e.data.issues);
@@ -636,6 +890,7 @@
       toast(`索引已重建：${data.entries.toLocaleString()} 条`);
       await loadStatus();
       refreshList();
+      if (state.issues.loaded) loadIssues(false, true);
     } catch (e) {
       toast(e.message, true);
     } finally {
@@ -650,12 +905,23 @@
     if (!q) {
       state.searchSeq += 1;
       els.searchMeta.textContent = '';
-      if (!state.browse.categories.length) loadBrowse();
+      if (state.mode === 'issues') {
+        loadIssues(false);
+      } else if (!state.browse.categories.length) {
+        loadBrowse();
+      }
       return;
     }
     scheduleSearch();
   });
   els.mode.addEventListener('change', runSearch);
+  els.modeBrowse.addEventListener('click', () => setMode('browse'));
+  els.modeIssues.addEventListener('click', () => setMode('issues'));
+  els.issueRefresh.addEventListener('click', () => loadIssues(false, true));
+  els.issueCode.addEventListener('change', () => {
+    state.issues.code = els.issueCode.value;
+    loadIssues(false);
+  });
   els.browseFilter.addEventListener('input', () => {
     state.browse.filter = els.browseFilter.value;
     renderBrowseGroupList();
@@ -684,6 +950,7 @@
     setSearchMode(false);
     await loadStatus();
     await loadBrowse();
+    loadIssues(false);
     const m = location.hash.match(/^#([^/]+)\/(\d+)$/);
     if (m) loadEntry(decodeURIComponent(m[1]), Number(m[2]));
   })();

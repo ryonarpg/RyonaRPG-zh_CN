@@ -35,6 +35,13 @@
     </div>
     <div id="searchMeta" class="muted small"></div>
 
+    <div id="leftModes" class="mode-switch">
+      <button id="modeBrowse" class="mode-btn active" type="button">分类浏览</button>
+      <button id="modeIssues" class="mode-btn" type="button">
+        QA 问题 <span id="issueBadge" class="mode-badge hidden"></span>
+      </button>
+    </div>
+
     <div id="browsePanel" class="browse-panel">
       <div id="browseTabs" class="browse-tabs"></div>
       <div id="browsePath" class="browse-path"></div>
@@ -42,6 +49,19 @@
              placeholder="筛选当前分组">
       <div id="browseList" class="browse-list"></div>
       <div id="browseFooter" class="browse-footer"></div>
+    </div>
+
+    <div id="issuesPanel" class="browse-panel hidden">
+      <div class="issue-toolbar">
+        <span id="issueSummary" class="muted small">尚未扫描</span>
+        <button id="issueRefresh" class="issue-refresh" type="button">重新扫描</button>
+      </div>
+      <div id="issueSeverity" class="issue-chips"></div>
+      <select id="issueCode" class="issue-select" title="问题类型">
+        <option value="">全部问题类型</option>
+      </select>
+      <div id="issueList" class="browse-list"></div>
+      <div id="issueFooter" class="browse-footer"></div>
     </div>
 
     <div id="results" class="results hidden">

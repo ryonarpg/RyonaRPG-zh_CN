@@ -32,7 +32,7 @@ python -m pip install -r requirements.txt
 python app.py
 ```
 
-浏览器打开 `http://127.0.0.1:5010/`。默认读取本仓库的 `language/zh_CN`，可通过 `RYONA_LANG_DIR` 指向游戏目录。搜索框为空时，左侧会按地图、角色、物品、技能、状态/术语和 PO 文件分类浏览；分组内同时显示原文与译文。
+浏览器打开 `http://127.0.0.1:5010/`。默认读取本仓库的 `language/zh_CN`，可通过 `RYONA_LANG_DIR` 指向游戏目录。搜索框为空时，左侧会按地图、角色、物品、技能、状态/术语和 PO 文件分类浏览；分组内同时显示原文与译文，也可切换到 QA 问题面板按错误、警告和问题类型筛选。
 
 2. 只修改 `language/zh_CN/*.po` 的 `msgstr`，不要直接改 LDB/LMU/LMT。
 3. 保存后运行校验：

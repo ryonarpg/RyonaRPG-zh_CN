@@ -15,7 +15,7 @@
 
 ```text
 language/zh_CN/          译文唯一源（PO + Meta.ini + Picture 覆盖图）
-tools/localizer/         Flask 本地编辑器（分类浏览、全文搜索、预览）
+tools/localizer/         Flask 本地编辑器（分类浏览、全文搜索、QA 面板、预览）
 tools/qa/run_all.py      提交/发布 QA
 tools/build_release.py   生成 release zip
 tools/deploy_to_game.py  部署到游戏目录（带备份和哈希检查）

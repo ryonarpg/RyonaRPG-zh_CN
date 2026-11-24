@@ -4,6 +4,7 @@ from flask import Flask, jsonify, render_template, request
 
 import po_store
 import preview
+import qa_store
 import validators
 
 app = Flask(__name__)
@@ -12,7 +13,7 @@ app.json.ensure_ascii = False
 
 def entry_payload(file_name, block):
     entry = po_store.get_entry(file_name, block)
-    check = validators.validate(entry['msgid'], entry['msgstr'])
+    check = validators.validate(entry['msgid'], entry['msgstr'], entry['ctx'])
     return {
         **entry,
         'issues': check['issues'],
@@ -57,6 +58,22 @@ def api_browse():
         return jsonify({'error': str(exc)}), 400
 
 
+@app.get('/api/issues')
+def api_issues():
+    severity = request.args.get('severity', '')
+    code = request.args.get('code', '')
+    force = request.args.get('refresh') == '1'
+    try:
+        offset = int(request.args.get('offset', '0'))
+        limit = int(request.args.get('limit', '50'))
+    except ValueError:
+        return jsonify({'error': 'invalid offset or limit'}), 400
+    try:
+        return jsonify(qa_store.get_issues(severity, code, offset, limit, force))
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
 @app.get('/api/entry')
 def api_entry():
     file_name = request.args.get('file', '')
@@ -72,7 +89,8 @@ def api_check():
     data = request.get_json(force=True)
     mid = data.get('msgid', '')
     tr = data.get('msgstr', '')
-    check = validators.validate(mid, tr)
+    ctx = data.get('ctx', '')
+    check = validators.validate(mid, tr, ctx)
     return jsonify({**check, 'preview': preview.render(tr)})
 
 
@@ -83,12 +101,17 @@ def api_save():
     block = int(data.get('block', 0))
     tr = data.get('msgstr', '')
     mid = data.get('msgid', '')
-    check = validators.validate(mid, tr)
+    try:
+        ctx = po_store.get_entry(file_name, block)['ctx']
+    except Exception:
+        ctx = ''
+    check = validators.validate(mid, tr, ctx)
     errors = [x for x in check['issues'] if x['severity'] == 'error']
     if errors:
         return jsonify({'error': '存在错误，未保存', 'issues': check['issues']}), 400
     try:
         po_store.save_entry(file_name, block, tr)
+        qa_store.refresh_entry(file_name, block)
         return jsonify(entry_payload(file_name, block))
     except Exception as exc:
         return jsonify({'error': str(exc)}), 500
@@ -98,6 +121,7 @@ def api_save():
 def api_reindex():
     try:
         n = po_store.rebuild_index()
+        qa_store.invalidate()
         return jsonify({'ok': True, 'entries': n})
     except Exception as exc:
         return jsonify({'error': str(exc)}), 500
