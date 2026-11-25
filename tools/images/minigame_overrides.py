@@ -37,26 +37,33 @@ def font(path, size):
     return ImageFont.load_default()
 
 
+def palette_index(im, rgb):
+    palette = im.getpalette() or []
+    for i in range(256):
+        if tuple(palette[i * 3:i * 3 + 3]) == rgb:
+            return i
+    raise SystemExit("palette color not found: %s" % (rgb,))
+
+
 def render(src, dst, font_path):
-    src_im = Image.open(src).convert("P")
-    rgb = src_im.convert("RGB")
-    header_bg = (230, 230, 230)
-    body_bg = (255, 255, 255)
-    draw = ImageDraw.Draw(rgb)
+    out = Image.open(src).convert("P").copy()
+    header_idx = palette_index(out, (230, 230, 230))
+    body_idx = palette_index(out, (255, 255, 255))
+    text_idx = palette_index(out, (85, 149, 117))
+    draw = ImageDraw.Draw(out)
     fnt = font(font_path, 8)
 
     for (box, text) in zip(HEADER_BOXES, HEADER):
         x0, y0, x1, y1 = box
-        draw.rectangle([x0, y0, x1 - 1, y1 - 1], fill=header_bg)
-        draw.text((x0 + 1, y0 + 1), text, font=fnt, fill=(85, 149, 117))
+        draw.rectangle([x0, y0, x1 - 1, y1 - 1], fill=header_idx)
+        draw.text((x0 + 1, y0 + 1), text, font=fnt, fill=text_idx)
 
     for (y0, y1), (left, right) in zip(ROW_Y, ROWS):
-        draw.rectangle([3, y0, 83, y1 - 1], fill=body_bg)
-        draw.rectangle([86, y0, 279, y1 - 1], fill=body_bg)
-        draw.text((4, y0 + 1), left, font=fnt, fill=(85, 149, 117))
-        draw.text((87, y0 + 1), right, font=fnt, fill=(85, 149, 117))
+        draw.rectangle([3, y0, 83, y1 - 1], fill=body_idx)
+        draw.rectangle([86, y0, 279, y1 - 1], fill=body_idx)
+        draw.text((4, y0 + 1), left, font=fnt, fill=text_idx)
+        draw.text((87, y0 + 1), right, font=fnt, fill=text_idx)
 
-    out = rgb.quantize(palette=src_im, dither=Image.Dither.NONE)
     out.save(dst, optimize=True)
 
 

@@ -1,7 +1,8 @@
 import os
 
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, Response, jsonify, render_template, request
 
+import image_store
 import layout
 import po_store
 import preview
@@ -162,6 +163,105 @@ def api_reindex():
         return jsonify({'ok': True, 'entries': n})
     except Exception as exc:
         return jsonify({'error': str(exc)}), 500
+
+
+@app.get('/images')
+def images_page():
+    return render_template('images.html')
+
+
+@app.get('/api/image/config')
+def api_image_config():
+    try:
+        return jsonify(image_store.get_config())
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 500
+
+
+@app.post('/api/image/config')
+def api_image_config_save():
+    try:
+        return jsonify(image_store.save_config(request.get_json(force=True)))
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
+@app.post('/api/image/pick')
+def api_image_pick():
+    data = request.get_json(force=True)
+    kind = data.get('kind', 'dir')
+    title = data.get('title', '选择路径')
+    try:
+        path = image_store.pick_path(kind, title)
+        return jsonify({'path': path})
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 500
+
+
+@app.get('/api/image/list')
+def api_image_list():
+    try:
+        offset = int(request.args.get('offset', '0'))
+        limit = int(request.args.get('limit', '100'))
+        data = image_store.list_images(
+            request.args.get('family', 'Menu'),
+            request.args.get('q', ''), offset, limit)
+        return jsonify(data)
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
+@app.get('/api/image/preview')
+def api_image_preview():
+    try:
+        alpha = request.args.get('alpha', '1') != '0'
+        data = image_store.preview_bytes(
+            request.args.get('path', ''),
+            request.args.get('side', 'override'), alpha)
+        return Response(data, mimetype='image/png')
+    except FileNotFoundError as exc:
+        return jsonify({'error': str(exc)}), 404
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
+@app.get('/api/image/compare')
+def api_image_compare():
+    try:
+        return jsonify(image_store.compare(request.args.get('path', '')))
+    except FileNotFoundError as exc:
+        return jsonify({'error': str(exc)}), 404
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
+@app.post('/api/image/export-edb')
+def api_image_export_edb():
+    try:
+        return jsonify({'job_id': image_store.start_edb_export()})
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
+@app.post('/api/image/generate')
+def api_image_generate():
+    data = request.get_json(force=True)
+    try:
+        job_id = image_store.start_job(
+            data.get('family', 'Menu'),
+            data.get('mode', 'check'),
+            data.get('kind', 'all'))
+        return jsonify({'job_id': job_id})
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
+@app.get('/api/image/job/<job_id>')
+def api_image_job(job_id):
+    try:
+        return jsonify(image_store.get_job(job_id))
+    except FileNotFoundError as exc:
+        return jsonify({'error': str(exc)}), 404
 
 
 if __name__ == '__main__':
