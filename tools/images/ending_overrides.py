@@ -108,13 +108,22 @@ def render(src, dst, lines, font_path, preview_dir=None):
         draw.text((w // 2, (y0 + y1 + 1) // 2), text, font=fnt,
                   anchor="mm", fill=(247, 247, 247))
     out_im = canvas.quantize(palette=src_im, dither=Image.Dither.NONE)
-    indices = out_im.tobytes()
-    if len(indices) != w * h:
+    out_palette = bytearray((out_im.getpalette() or [])[:768])
+    out_palette[0:3] = bytes(bg)
+    out_indices = bytearray(out_im.tobytes())
+    canvas_bytes = canvas.tobytes()
+    bg_bytes = bytes(bg)
+    for i in range(0, len(canvas_bytes), 3):
+        if canvas_bytes[i:i + 3] == bg_bytes:
+            out_indices[i // 3] = 0
+    if len(out_indices) != w * h:
         raise SystemExit("%s: bad index length" % src.name)
-    encode(dst, w, h, bytes(palette), indices)
+    encode(dst, w, h, bytes(out_palette), bytes(out_indices))
     if preview_dir:
         preview_dir.mkdir(parents=True, exist_ok=True)
-        out_im.convert("RGB").save(preview_dir / (src.name + ".png"))
+        preview = Image.frombytes("P", (w, h), bytes(out_indices))
+        preview.putpalette(bytes(out_palette))
+        preview.convert("RGB").save(preview_dir / (src.name + ".png"))
 
 
 def check(src, dst):
@@ -125,11 +134,11 @@ def check(src, dst):
     except Exception as exc:
         return [str(exc)]
     problems = []
-    sw, sh, spalette, _ = decode(src)
+    sw, sh, _spalette, _ = decode(src)
     if (w, h) != (sw, sh):
         problems.append("size is %sx%s, expected %sx%s" % (w, h, sw, sh))
-    if palette != spalette:
-        problems.append("palette differs from source")
+    if len(palette) != 768:
+        problems.append("palette length %d, expected 768" % len(palette))
     if len(indices) != w * h:
         problems.append("index length %d, expected %d" % (len(indices), w * h))
     return problems
