@@ -48,6 +48,7 @@ python tools/qa/run_all.py
 ```
 
 5. 查看 `git diff`，确认只有预期的 PO/图片/manifest 变化；不要提交编辑器索引、备份或 release 产物。
+6. 本地实机测试可用编辑器条目的“保存并部署”或“自动部署”，接口为 `POST /api/deploy`；部署是增量的，完成后仍需重启 EasyRPG。
 
 ## 3. QA 规则
 

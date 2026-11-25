@@ -82,6 +82,14 @@ button, input, select, textarea { font: inherit; }
 .pane-title h2 { font-size: 14px; margin: 0; font-weight: 600; }
 .entry-title { align-items: flex-start; }
 .entry-actions { display: flex; align-items: center; gap: 8px; }
+.auto-deploy {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--muted);
+  font-size: 12px;
+  white-space: nowrap;
+}
 
 .search-controls { display: flex; gap: 8px; }
 .search-controls input {

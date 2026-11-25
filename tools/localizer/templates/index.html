@@ -88,7 +88,11 @@
       </div>
       <div class="entry-actions">
         <span id="dirtyFlag" class="dirty off">已保存</span>
+        <label class="auto-deploy" title="保存后把仓库 language/zh_CN 增量同步到已选游戏目录">
+          <input id="autoDeploy" type="checkbox"> 自动部署
+        </label>
         <button id="saveBtn" class="btn primary" type="button" disabled>保存</button>
+        <button id="saveDeployBtn" class="btn" type="button" disabled>保存并部署</button>
       </div>
     </div>
 

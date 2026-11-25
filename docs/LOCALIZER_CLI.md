@@ -351,6 +351,28 @@ refresh=1                    强制重新扫描
 
 Agent 不应在未展示 diff/未经确认时调用 `/api/save`。
 
+### `POST /api/deploy`
+
+把仓库 `language/zh_CN` 增量同步到已配置的游戏目录：
+
+```json
+{"game_dir": "D:\\Games\\RyonaRPG"}
+```
+
+`game_dir` 可省略，使用图片工具/更新检查保存的游戏目录。行为：
+
+- 只复制大小或 mtime 变化的文件；图片很多时不会每次全量复制。
+- 只备份即将被覆盖的目标文件到 `backups/deploy_<时间>_zh_CN`。
+- 校验 `RPG_RT.ldb` 哈希，不一致时返回警告。
+- 不会删除游戏目录中仓库没有的额外文件。
+- 部署后需要重启 EasyRPG，PO 不会热加载。
+
+编辑器条目的“保存并部署”和“自动部署”调用此接口；命令行等价于：
+
+```bash
+python tools/deploy_to_game.py --game-dir "D:\Games\RyonaRPG" --incremental
+```
+
 ### `POST /api/reindex`
 
 重建 PO 搜索索引和 QA 缓存，不修改译文。

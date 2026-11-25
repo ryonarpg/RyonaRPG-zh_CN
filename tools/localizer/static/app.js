@@ -3,6 +3,7 @@
   const state = {
     current: null,
     dirty: false,
+    deploying: false,
     searchTimer: null,
     checkTimer: null,
     searchSeq: 0,
@@ -74,6 +75,8 @@
     entryMeta: $('entryMeta'),
     dirty: $('dirtyFlag'),
     save: $('saveBtn'),
+    saveDeploy: $('saveDeployBtn'),
+    autoDeploy: $('autoDeploy'),
     source: $('sourceText'),
     translation: $('translation'),
     lineHint: $('lineHint'),
@@ -963,6 +966,7 @@
     els.translation.disabled = false;
     els.translation.value = data.msgstr || '';
     els.save.disabled = false;
+    els.saveDeploy.disabled = false;
     els.lineHint.textContent = `${(data.metrics || []).length} 行`;
     renderIssues(data.issues);
     renderMetrics(data.metrics);
@@ -981,6 +985,7 @@
     if (state.dirty && !confirm('当前条目有未保存修改，确定切换吗？')) return;
     els.translation.disabled = true;
     els.save.disabled = true;
+    els.saveDeploy.disabled = true;
     els.source.textContent = '加载中…';
     try {
       const data = await jsonFetch(
@@ -1047,13 +1052,59 @@
     }
   }
 
-  async function save() {
+  async function ensureGameDir() {
+    try {
+      const cfg = await jsonFetch('/api/image/config');
+      if (cfg.status && cfg.status.game_exists && cfg.config.game_dir) return true;
+      const picked = await jsonFetch('/api/image/pick', {
+        method: 'POST',
+        body: JSON.stringify({ kind: 'dir', title: '选择 RyonaRPG 游戏目录' }),
+      });
+      if (!picked.path) return false;
+      await jsonFetch('/api/image/config', {
+        method: 'POST',
+        body: JSON.stringify({ game_dir: picked.path }),
+      });
+      return true;
+    } catch (e) {
+      toast(e.message, true);
+      return false;
+    }
+  }
+
+  async function deployToGame() {
+    if (state.deploying) return;
+    if (!(await ensureGameDir())) return;
+    state.deploying = true;
+    els.saveDeploy.disabled = true;
+    try {
+      const data = await jsonFetch('/api/deploy', {
+        method: 'POST',
+        body: '{}',
+      });
+      const copied = Number(data.copied || 0);
+      const suffix = copied ? `（${copied} 个文件）` : '（没有变化）';
+      toast('已部署到游戏' + suffix + '，重启游戏生效');
+      if (data.warnings && data.warnings.length) {
+        toast(data.warnings[0], true);
+      }
+    } catch (e) {
+      toast('部署失败：' + e.message, true);
+    } finally {
+      state.deploying = false;
+      els.saveDeploy.disabled = !state.current;
+    }
+  }
+
+  async function save(deployAfter = false) {
     if (!state.current) return;
     clearTimeout(state.checkTimer);
     const caretStart = els.translation.selectionStart;
     const caretEnd = els.translation.selectionEnd;
     const editorScroll = els.translation.scrollTop;
+    const shouldDeploy = deployAfter || els.autoDeploy.checked;
     els.save.disabled = true;
+    els.saveDeploy.disabled = true;
     try {
       const data = await jsonFetch('/api/save', {
         method: 'POST',
@@ -1073,6 +1124,7 @@
       }
       updateCurrentRow(data);
       toast('已保存，并已更新索引');
+      if (shouldDeploy) await deployToGame();
     } catch (e) {
       if (e.data && e.data.issues) {
         renderIssues(e.data.issues);
@@ -1083,6 +1135,7 @@
       }
     } finally {
       els.save.disabled = false;
+      els.saveDeploy.disabled = false;
     }
   }
 
@@ -1138,7 +1191,12 @@
     setDirty(true);
     scheduleCheck();
   });
-  els.save.addEventListener('click', save);
+  els.autoDeploy.checked = localStorage.getItem('ryona_auto_deploy') === '1';
+  els.autoDeploy.addEventListener('change', () => {
+    localStorage.setItem('ryona_auto_deploy', els.autoDeploy.checked ? '1' : '0');
+  });
+  els.save.addEventListener('click', () => save(false));
+  els.saveDeploy.addEventListener('click', () => save(true));
   els.reindex.addEventListener('click', reindex);
 
   document.addEventListener('keydown', (e) => {

@@ -8,6 +8,7 @@ TOOLS_DIR = Path(__file__).resolve().parent.parent
 if str(TOOLS_DIR) not in sys.path:
     sys.path.insert(0, str(TOOLS_DIR))
 
+import deploy_to_game
 import image_store
 import layout
 import po_store
@@ -274,6 +275,20 @@ def api_image_job(job_id):
 @app.get('/update')
 def update_page():
     return render_template('update.html')
+
+
+@app.post('/api/deploy')
+def api_deploy():
+    data = request.get_json(silent=True) or {}
+    game_dir = (data.get('game_dir') or '').strip()
+    if not game_dir:
+        game_dir = image_store.load_config().get('game_dir', '')
+    if not game_dir:
+        return jsonify({'error': '请先选择游戏目录'}), 400
+    try:
+        return jsonify(deploy_to_game.deploy(game_dir, incremental=True))
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
 
 
 @app.post('/api/update/check')
