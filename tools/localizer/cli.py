@@ -239,7 +239,7 @@ def build_parser():
     p.add_argument('--kind', choices=('all', 'danger_label', 'class_fields',
                                       'bullet_lines', 'field_lines',
                                       'control_lines', 'speaker_lines',
-                                      'bracket_title'),
+                                      'bracket_title', 'talent_width'),
                    default='all')
     p.add_argument('--limit', type=int, default=0)
     p.add_argument('--json', action='store_true')

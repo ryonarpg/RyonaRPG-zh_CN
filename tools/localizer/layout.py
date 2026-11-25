@@ -1,12 +1,14 @@
 import re
 
 import po_store
+import validators
 
 BRACKET_TITLE = re.compile(r'^[\[［].*[\]］]$')
 DANGER_LABEL = re.compile(r'^危険度')
 BULLET_LINE = re.compile(r'^[・※](?!・)')
 FIELD_LINE = re.compile(r'^[A-Za-z][A-Za-z0-9 _-]*\s*:')
 SPEAKER_TAG = re.compile(r'【.*?】')
+TALENT = re.compile(r'タレント\s*「')
 
 
 def _lines(text):
@@ -48,6 +50,12 @@ def _is_class_fields(src):
     )
 
 
+def _talent_overwide(mid, tr):
+    if not TALENT.search(mid):
+        return False
+    return any(validators.cells(line) > 40 for line in _lines(tr))
+
+
 def _is_control_lines(src, dst):
     src_starts = sum(line.strip().startswith(r'\>') for line in src)
     dst_starts = sum(line.strip().startswith(r'\>') for line in dst)
@@ -57,6 +65,8 @@ def _is_control_lines(src, dst):
 def _classify(mid, tr):
     src = _lines(mid)
     dst = _lines(tr)
+    if _talent_overwide(mid, tr):
+        return 'talent_width'
     if len(src) > len(dst) and _is_class_fields(src):
         return 'class_fields'
     if _is_bullet_lines(src, dst):
@@ -111,6 +121,13 @@ def check_entry(mid, tr):
             'severity': 'warning',
             'code': 'layout_merge_control',
             'message': '原文的 \\> 控制行被合并，译文行首结构可能与原版不同',
+            'line': 0,
+        }]
+    if kind == 'talent_width':
+        return [{
+            'severity': 'warning',
+            'code': 'layout_talent_width',
+            'message': '选人天赋说明的译文行超过 40 半角单元，可能在头像旁的消息窗被裁切',
             'line': 0,
         }]
     if kind == 'speaker_lines':
