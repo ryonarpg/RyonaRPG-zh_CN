@@ -355,7 +355,9 @@ if kind == "dir":
 else:
     path = filedialog.askopenfilename(
         parent=root, title=title,
-        filetypes=[("RPG Maker LDB XML", "*.edb"), ("All files", "*.*")])
+        filetypes=[("RPG Maker LDB XML", "*.edb"),
+                   ("Windows executable", "*.exe"),
+                   ("All files", "*.*")])
 print(path or "")
 root.destroy()
 '''
@@ -412,11 +414,7 @@ def _generator_command(family, mode, kind, cfg):
     return cmd
 
 
-def start_job(family, mode='check', kind='all'):
-    if mode not in ('check', 'build'):
-        raise ValueError('invalid mode')
-    cfg = load_config()
-    cmd = _generator_command(family, mode, kind, cfg)
+def _start_process_job(family, mode, kind, cmd, cwd, on_success=None):
     job_id = uuid.uuid4().hex[:10]
     job = {
         'id': job_id,
@@ -428,6 +426,8 @@ def start_job(family, mode='check', kind='all'):
         'finished': None,
         'returncode': None,
         'command': cmd,
+        'cwd': str(cwd),
+        'result_path': None,
         'log': [],
     }
     with JOBS_LOCK:
@@ -437,12 +437,47 @@ def start_job(family, mode='check', kind='all'):
             JOBS.pop(old_id, None)
 
     thread = threading.Thread(
-        target=_run_job, args=(job_id, cmd), daemon=True)
+        target=_run_job, args=(job_id, cmd, cwd, on_success), daemon=True)
     thread.start()
     return job_id
 
 
-def _run_job(job_id, cmd):
+def start_job(family, mode='check', kind='all'):
+    if mode not in ('check', 'build'):
+        raise ValueError('invalid mode')
+    cfg = load_config()
+    cmd = _generator_command(family, mode, kind, cfg)
+    return _start_process_job(family, mode, kind, cmd, REPO_ROOT)
+
+
+def start_edb_export():
+    cfg = load_config()
+    game_dir = cfg.get('game_dir')
+    lcf2xml = cfg.get('lcf2xml')
+    if not game_dir:
+        raise ValueError('请先设置游戏目录')
+    ldb = Path(game_dir) / 'RPG_RT.ldb'
+    if not ldb.is_file():
+        raise ValueError('游戏目录中没有 RPG_RT.ldb')
+    if not lcf2xml:
+        raise ValueError('请先选择 lcf2xml.exe')
+    lcf = Path(lcf2xml)
+    if not lcf.is_file():
+        raise ValueError('lcf2xml.exe 不存在：%s' % lcf2xml)
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    out = DATA_DIR / 'RPG_RT.edb'
+    cmd = [str(lcf), '--2k', '--encoding', '932', str(ldb)]
+
+    def on_success(job):
+        if not out.is_file():
+            raise RuntimeError('lcf2xml 未生成 RPG_RT.edb')
+        save_config({'edb_path': str(out)})
+        job['result_path'] = str(out)
+
+    return _start_process_job('EDB', 'export', 'edb', cmd, DATA_DIR, on_success)
+
+
+def _run_job(job_id, cmd, cwd, on_success=None):
     job = JOBS.get(job_id)
     if not job:
         return
@@ -451,7 +486,7 @@ def _run_job(job_id, cmd):
     env['PYTHONUNBUFFERED'] = '1'
     try:
         proc = subprocess.Popen(
-            cmd, cwd=str(REPO_ROOT), stdout=subprocess.PIPE,
+            cmd, cwd=str(cwd), stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT, text=True, encoding='utf-8',
             errors='replace', env=env, bufsize=1,
         )
@@ -460,6 +495,8 @@ def _run_job(job_id, cmd):
             if len(job['log']) > 4000:
                 del job['log'][:1000]
         job['returncode'] = proc.wait()
+        if job['returncode'] == 0 and on_success:
+            on_success(job)
         job['status'] = 'ok' if job['returncode'] == 0 else 'failed'
     except Exception as exc:
         job['log'].append('ERROR: %s' % exc)

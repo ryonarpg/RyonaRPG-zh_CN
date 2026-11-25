@@ -35,6 +35,15 @@
         <input id="edbPath" type="text" spellcheck="false"
                placeholder="lcf2xml --2k --encoding 932 导出的 XML">
         <button id="pickEdb" class="btn" type="button">选择文件…</button>
+        <button id="exportEdb" class="btn" type="button">从 LDB 导出</button>
+      </div>
+    </div>
+    <div class="config-field grow">
+      <label for="lcf2xmlPath">lcf2xml.exe（用于自动导出 EDB）</label>
+      <div class="config-input">
+        <input id="lcf2xmlPath" type="text" spellcheck="false"
+               placeholder="liblcf 的 lcf2xml.exe 路径">
+        <button id="pickLcf" class="btn" type="button">选择文件…</button>
       </div>
     </div>
     <div class="config-field">

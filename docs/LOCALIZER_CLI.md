@@ -357,11 +357,12 @@ Agent 不应在未展示 diff/未经确认时调用 `/api/save`。
 
 ### 图片工具（`/images` 与 `/api/image/*`）
 
-浏览器打开 `http://127.0.0.1:5010/images`，可选择游戏目录和 `RPG_RT.edb`，按图片组浏览原版/中文覆盖图，查看并排预览、像素差异，或调用生成脚本。游戏目录、EDB 和字体保存在 `tools/localizer/data/image_config.json`（本地文件，不提交）。
+浏览器打开 `http://127.0.0.1:5010/images`，可选择游戏目录、`RPG_RT.edb` 或 `lcf2xml.exe`，按图片组浏览原版/中文覆盖图，查看并排预览、像素差异，或调用生成脚本。游戏目录、EDB、lcf2xml 和字体保存在 `tools/localizer/data/image_config.json`（本地文件，不提交）。
 
 - `GET /api/image/config`：返回配置、路径校验结果、图片组和 Menu 生成范围。
-- `POST /api/image/config`：保存 `{game_dir, edb_path, font}`。
+- `POST /api/image/config`：保存 `{game_dir, edb_path, lcf2xml, font}`。
 - `POST /api/image/pick`：打开系统目录/文件选择器，参数 `{kind: "dir"|"file", title}`。
+- `POST /api/image/export-edb`：用配置的 `lcf2xml` 从游戏 `RPG_RT.ldb` 导出 `tools/localizer/data/RPG_RT.edb`，成功后自动写入 `edb_path`；返回 `job_id`。
 - `GET /api/image/list?family=Menu&q=&offset=0&limit=100`：列出原版/覆盖图；`family` 取 `Menu`、`Pict_op`、`SkillName`、`Interface`、`Ending`、`Mini_game`、`All`。
 - `GET /api/image/preview?path=Picture/...&side=source|override&alpha=1`：返回 PNG；`.xyz` 会即时解码，`alpha=0` 显示原始透明色键。
 - `GET /api/image/compare?path=Picture/...`：返回尺寸、像素差异数和差异范围。

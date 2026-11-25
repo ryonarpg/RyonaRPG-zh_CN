@@ -235,6 +235,14 @@ def api_image_compare():
         return jsonify({'error': str(exc)}), 400
 
 
+@app.post('/api/image/export-edb')
+def api_image_export_edb():
+    try:
+        return jsonify({'job_id': image_store.start_edb_export()})
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
+
+
 @app.post('/api/image/generate')
 def api_image_generate():
     data = request.get_json(force=True)

@@ -18,6 +18,7 @@
 .config-field.grow { flex: 1; }
 .config-field label { color: var(--muted); font-size: 11px; }
 .config-input { display: flex; gap: 7px; }
+.config-input .btn { white-space: nowrap; }
 .config-input input {
   flex: 1;
   min-width: 0;

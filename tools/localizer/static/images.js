@@ -25,10 +25,13 @@
     status: $('imageStatus'),
     gameDir: $('gameDir'),
     edbPath: $('edbPath'),
+    lcf2xmlPath: $('lcf2xmlPath'),
     fontPath: $('fontPath'),
     pickGame: $('pickGame'),
     pickEdb: $('pickEdb'),
+    pickLcf: $('pickLcf'),
     pickFont: $('pickFont'),
+    exportEdb: $('exportEdb'),
     saveConfig: $('saveConfig'),
     configStatus: $('configStatus'),
     familyTabs: $('familyTabs'),
@@ -103,6 +106,9 @@
     if (s.game_exists && !s.edb_exists) {
       parts.push('未配置 EDB：Menu 的 items/skills 生成会失败。');
     }
+    if (!state.config || !state.config.lcf2xml) {
+      parts.push('未设置 lcf2xml.exe，无法从 RPG_RT.ldb 自动导出 EDB。');
+    }
     els.configStatus.textContent = parts.join(' ');
     els.configStatus.classList.toggle('warn-text', parts.length > 0);
   }
@@ -114,6 +120,7 @@
     state.menuKinds = data.menu_kinds || [];
     els.gameDir.value = state.config.game_dir || '';
     els.edbPath.value = state.config.edb_path || '';
+    els.lcf2xmlPath.value = state.config.lcf2xml || '';
     els.fontPath.value = state.config.font || '';
     updateStatus();
     renderFamilies();
@@ -132,14 +139,17 @@
         body: JSON.stringify({
           game_dir: els.gameDir.value.trim(),
           edb_path: els.edbPath.value.trim(),
+          lcf2xml: els.lcf2xmlPath.value.trim(),
           font: els.fontPath.value.trim(),
         }),
       });
       applyConfig(data);
       toast('配置已保存');
       await loadList();
+      return true;
     } catch (e) {
       toast(e.message, true);
+      return false;
     } finally {
       els.saveConfig.disabled = false;
     }
@@ -431,6 +441,38 @@
     }
   }
 
+  async function exportEdb() {
+    if (!els.gameDir.value.trim()) {
+      toast('请先设置游戏目录', true);
+      return;
+    }
+    if (!els.lcf2xmlPath.value.trim()) {
+      toast('请先选择 lcf2xml.exe', true);
+      return;
+    }
+    if (!(await saveConfig())) return;
+    els.exportEdb.disabled = true;
+    els.checkImages.disabled = true;
+    els.buildImages.disabled = true;
+    try {
+      const data = await jsonFetch('/api/image/export-edb', {
+        method: 'POST',
+        body: '{}',
+      });
+      state.jobId = data.job_id;
+      els.jobStatus.className = 'job-status running';
+      els.jobStatus.textContent = '正在从 RPG_RT.ldb 导出 EDB…';
+      els.jobLog.classList.add('show');
+      els.jobLog.textContent = '';
+      pollJob();
+    } catch (e) {
+      els.exportEdb.disabled = false;
+      els.checkImages.disabled = false;
+      els.buildImages.disabled = false;
+      toast(e.message, true);
+    }
+  }
+
   async function startJob(mode) {
     const info = familyInfo(state.family);
     if (!info || !info.generator) return;
@@ -443,6 +485,7 @@
         body: JSON.stringify(body),
       });
       state.jobId = data.job_id;
+      els.exportEdb.disabled = true;
       els.checkImages.disabled = true;
       els.buildImages.disabled = true;
       els.jobStatus.className = 'job-status running';
@@ -455,10 +498,25 @@
     }
   }
 
-  function jobDone(job) {
+  async function jobDone(job) {
     state.jobId = null;
     els.checkImages.disabled = false;
     els.buildImages.disabled = false;
+    els.exportEdb.disabled = false;
+    if (job.family === 'EDB') {
+      if (job.status === 'ok') {
+        els.edbPath.value = job.result_path || els.edbPath.value;
+        els.jobStatus.className = 'job-status ok';
+        els.jobStatus.textContent = 'EDB 导出完成，已更新配置';
+        await loadConfig();
+        toast('EDB 已导出并保存');
+      } else {
+        els.jobStatus.className = 'job-status failed';
+        els.jobStatus.textContent = `EDB 导出失败（退出码 ${job.returncode}）`;
+        toast('EDB 导出失败，查看日志', true);
+      }
+      return;
+    }
     if (job.status === 'ok') {
       els.jobStatus.className = 'job-status ok';
       els.jobStatus.textContent = `任务完成（退出码 ${job.returncode}）`;
@@ -484,7 +542,7 @@
         els.jobStatus.textContent = `任务运行中…（${job.family} / ${job.mode}）`;
         state.jobTimer = setTimeout(pollJob, 900);
       } else {
-        jobDone(job);
+        await jobDone(job);
       }
     } catch (e) {
       toast(e.message, true);
@@ -496,7 +554,9 @@
 
   els.pickGame.addEventListener('click', () => pickPath('dir', els.gameDir, '选择 RyonaRPG 游戏目录'));
   els.pickEdb.addEventListener('click', () => pickPath('file', els.edbPath, '选择 RPG_RT.edb'));
+  els.pickLcf.addEventListener('click', () => pickPath('file', els.lcf2xmlPath, '选择 lcf2xml.exe'));
   els.pickFont.addEventListener('click', () => pickPath('file', els.fontPath, '选择字体文件'));
+  els.exportEdb.addEventListener('click', exportEdb);
   els.saveConfig.addEventListener('click', saveConfig);
   els.prevPage.addEventListener('click', () => {
     state.offset = Math.max(0, state.offset - state.limit);
