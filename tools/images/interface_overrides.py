@@ -2,11 +2,13 @@
 # -*- coding: utf-8 -*-
 """生成 Interface 内状态名与武器名的中文覆盖图。"""
 import argparse
+from collections import Counter
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
 DEFAULT_FONT = r"C:\Windows\Fonts\simhei.ttf"
+PAGE_FONT = r"C:\Windows\Fonts\unifont-all.ttf"
 FALLBACK_FONTS = [
     r"C:\Windows\Fonts\msyh.ttc",
     r"C:\Windows\Fonts\unifont-all.ttf",
@@ -35,6 +37,24 @@ NOTIFY = {
 
 WEAPON = {
     "wep_v0947_0.png": ("素手", "徒手", 16),
+}
+
+PAGES = {
+    "bossbutton_text.png": [
+        "……所住城市的空气，远比想象中污染严重。",
+        "自行渗出的汗水与唾液、无数体液，让莉丝",
+        "射精前的膨胀进一步加剧……感知到这一切的女性器官",
+        "性感被不断增幅，莉丝的娇态愈发狂乱。",
+        "与这个女人的情事，时机绝不会错乱。",
+        "回应我的射精，被调教到极致的她的肉体",
+        "被强制推向绝顶的顶点。",
+        "「呜、啊、啊啊呜呜呜！！」",
+        "在精准算计般的时机，肉壶收缩与蠕动，",
+        "发出法悦的呻吟，我将强忍的白浊尽情释放。",
+        "「唔……要、要去了！……做好觉悟！」",
+        "「啊啊、啊嘻咕噜凛沙嘛啊啊～、哇、哇",
+        "哇啦嘻、咿呀、啊、咿呀呜呜呜」",
+    ],
 }
 
 
@@ -86,6 +106,22 @@ def render_with_icon(src, dst, text, icon_width, font_path):
     out.save(dst, optimize=True)
 
 
+def render_page(src, dst, lines, font_path):
+    src_im = Image.open(src).convert("P")
+    rgb = src_im.convert("RGB")
+    bg = Counter(rgb.getdata()).most_common(1)[0][0]
+    canvas = Image.new("RGB", rgb.size, bg)
+    draw = ImageDraw.Draw(canvas)
+    fnt = font(PAGE_FONT, 12)
+    y = 2
+    for text in lines:
+        draw.text((7, y + 1), text, font=fnt, fill=(4, 6, 36))
+        draw.text((6, y), text, font=fnt, fill=(4, 2, 140))
+        y += 16
+    out = canvas.quantize(palette=src_im, dither=Image.Dither.NONE)
+    out.save(dst, optimize=True)
+
+
 def validate(src_path, dst_path):
     if not dst_path.exists():
         return ["missing output"]
@@ -124,6 +160,8 @@ def main():
         jobs.append((name, "status", lines, None))
     for name, (_source, text, icon_width) in WEAPON.items():
         jobs.append((name, "icon", text, icon_width))
+    for name, lines in PAGES.items():
+        jobs.append((name, "page", lines, None))
 
     failures = []
     for name, kind, data, icon_width in jobs:
@@ -135,8 +173,10 @@ def main():
         if not args.check:
             if kind == "status":
                 render_text_only(src, dst, data, args.font)
-            else:
+            elif kind == "icon":
                 render_with_icon(src, dst, data, icon_width, args.font)
+            else:
+                render_page(src, dst, data, args.font)
         problems = validate(src, dst)
         if problems:
             failures.append("%s: %s" % (name, "; ".join(problems)))

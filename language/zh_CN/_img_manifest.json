@@ -1,5 +1,5 @@
 {
- "created": "2026-11-25T15:22:13",
+ "created": "2026-11-25T15:46:38",
  "files": [
   "Picture/Menu/ABL/MN_ABL_0001.png",
   "Picture/Menu/ABL/MN_ABL_0002.png",
@@ -5298,6 +5298,18 @@
   "Picture/SkillName/SkillNamex95.png",
   "Picture/SkillName/SkillNamex96.png",
   "Picture/SkillName/SkillNamex97.png",
-  "Picture/SkillName/SkillNamex98.png"
+  "Picture/SkillName/SkillNamex98.png",
+  "Picture/Interface/bossbutton_text.png",
+  "Picture/Ending/Ending02.xyz",
+  "Picture/Ending/Ending03.xyz",
+  "Picture/Ending/Ending04.xyz",
+  "Picture/Ending/Ending05.xyz",
+  "Picture/Ending/Ending06.xyz",
+  "Picture/Ending/Ending07.xyz",
+  "Picture/Ending/Ending08.xyz",
+  "Picture/Ending/Ending09.xyz",
+  "Picture/Ending/Ending10.xyz",
+  "Picture/Ending/Ending11.xyz",
+  "Picture/Ending/Ending12.xyz"
  ]
 }
