@@ -110,6 +110,7 @@ python tools/images/build.py check --game-dir "D:\Games\RyonaRPG" --edb "D:\dump
 
 - 修改版本：同时更新 `compat.json` 的 `translation_version` 和 `CHANGELOG.md`。
 - 校验游戏版本：`compat.json` 的 `game_ldb_sha256` 必须与目标 `RPG_RT.ldb` 一致；不一致先警告并 QA。
+- 游戏本体更新：按 `docs/UPDATE_GAME.md` 处理；先用 `python tools/update_check.py --game-dir <新> --old-game-dir <旧>` 或编辑器 `/update` 判断 LDB/LMT/地图/图片变化。
 - 本地构建：
 
 ```bash
@@ -148,6 +149,8 @@ python tools/deploy_to_game.py --game-dir "D:\Games\RyonaRPG" --with-launcher
 ## 8. 相关文档
 
 - `README.md`：用户安装、部署、发布说明。
+- `docs/UPDATE_GAME.md`：游戏本体更新后的重基线流程、自动检查器和检查清单。
+- `tools/update_check.py`：比较新旧游戏目录的 LDB/LMT/地图/图片，输出更新分流建议。
 - `docs/LOCALIZER_CLI.md`：CLI 与 Flask JSON API 的命令、字段和 Agent 使用建议。
 - `tools/images/README.md`：菜单图片生成、check/validate、EDB/字体参数说明。
 - `compat.json`：原版版本、LDB 哈希、翻译版本。

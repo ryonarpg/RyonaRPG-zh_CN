@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RyonaRPG 游戏更新检查</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='update.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <strong>RyonaRPG 游戏更新检查</strong>
+    <span class="muted">对比新旧游戏目录，判断翻译与图片需要重做哪些部分</span>
+  </div>
+  <div class="top-actions">
+    <span id="updateTopStatus" class="status">未检查</span>
+    <a href="/images" class="btn ghost">图片工具</a>
+    <a href="/" class="btn ghost">返回文本编辑器</a>
+  </div>
+</header>
+
+<main class="update-page">
+  <section class="update-config">
+    <div class="config-field grow">
+      <label for="newGameDir">新游戏目录</label>
+      <div class="config-input">
+        <input id="newGameDir" type="text" spellcheck="false"
+               placeholder="更新后的游戏根目录">
+        <button id="pickNewGame" class="btn" type="button">选择目录…</button>
+      </div>
+    </div>
+    <div class="config-field grow">
+      <label for="oldGameDir">旧游戏目录（可选，用于文件级差异）</label>
+      <div class="config-input">
+        <input id="oldGameDir" type="text" spellcheck="false"
+               placeholder="更新前的游戏根目录；留空时只核对 compat.json 哈希">
+        <button id="pickOldGame" class="btn" type="button">选择目录…</button>
+      </div>
+    </div>
+    <div class="config-actions">
+      <button id="runUpdateCheck" class="btn primary" type="button">运行检查</button>
+      <span id="updateHint" class="muted small"></span>
+    </div>
+  </section>
+
+  <section id="updateEmpty" class="update-empty">
+    <h2>检查游戏本体更新</h2>
+    <p>选择更新后的游戏目录；如果还保留旧版本，再选择旧目录，就能列出变化的
+      LDB、LMT、地图和图片，并给出需要重导 PO/重生成图片的建议。</p>
+    <p class="muted small">检查只读，不会修改游戏目录或语言目录。大版本更新会读取地图和图片计算 SHA-256，可能需要几秒。</p>
+  </section>
+
+  <section id="updateResults" class="update-results hidden">
+    <div id="updateSummary" class="update-cards"></div>
+    <div class="update-grid">
+      <article class="update-panel">
+        <h3>更新建议</h3>
+        <ul id="updateRecommendations" class="recommendations"></ul>
+      </article>
+      <article class="update-panel">
+        <h3>变更明细</h3>
+        <div id="updateDetails" class="update-details"></div>
+      </article>
+    </div>
+  </section>
+
+  <div id="updateToast" class="toast"></div>
+</main>
+<script src="{{ url_for('static', filename='update.js') }}"></script>
+</body>
+</html>

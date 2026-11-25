@@ -371,6 +371,14 @@ Agent 不应在未展示 diff/未经确认时调用 `/api/save`。
 
 生成命令只来自固定注册表：Menu 使用 `tools/images/build.py`，其余图片组使用对应的 `tools/images/*_overrides.py`。工具不接受任意命令。
 
+### 游戏更新检查（`/update`）
+
+`http://127.0.0.1:5010/update` 用于比较新旧游戏目录的 `RPG_RT.ldb`、`RPG_RT.lmt`、`Map*.lmu` 和图片组，输出重导 PO/重生成图片的建议。检查只读。
+
+- `POST /api/update/check`：请求 `{game_dir, old_game_dir}`；`old_game_dir` 可省略，此时只核对 compat 哈希。
+- 同一逻辑也可用 CLI：`python tools/update_check.py --game-dir <新目录> --old-game-dir <旧目录>`，支持 `--json`。
+- 完整更新流程见 [UPDATE_GAME.md](UPDATE_GAME.md)。
+
 ## 4. Agent 使用建议
 
 1. 先用 `search` 或 `browse` 定位条目，记录 `file` 和 `block`。
