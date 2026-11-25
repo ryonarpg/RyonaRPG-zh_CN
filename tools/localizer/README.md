@@ -31,6 +31,7 @@ python app.py
 - **保存前校验**：每行 ≤50 半角单元、行首/行尾标点、跨行断码、角色名控制符 `\n[...]`/`\N[...]`、未转义的角色编号、ExFont `$x` 拆分、空译、假名、HP/MP 被译成中文、重复标点、花引号、控制符差异。
 - **整段错位检查**：用行级 TM 参考检测译文是否实际对应上一条/下一条源文；同一方向连续 3 个及以上候选会在 `run_all.py` 中失败，2 个和单条候选只作提示。
 - **消息预览**：右侧同时显示日文原版和中文译文，各为 320×80、12px 字体、每 4 行一页，方便对照换行与分页。
+- **图片工具**：打开 `/images`，用系统目录选择器设置游戏路径和 `RPG_RT.edb`；按 Menu/Pict_op/SkillName/Interface/Ending/Mini_game 浏览原版与中文覆盖图，查看并排预览、透明色键和像素差异，并直接运行 `check`/`build` 生成脚本（后台任务与日志）。配置保存在 `data/image_config.json`。
 - **备份**：每次保存前把原 PO 复制到 `backups/`，文件名带时间戳。
 - **索引重建**：保存后自动更新索引；也可点“重建索引”。
 
@@ -67,6 +68,9 @@ CLI 默认只读，不提供保存命令。Flask JSON API、字段说明和 Agen
 - `validators.py`：行宽、标点、断码、控制符校验。
 - `cli.py`：只读 CLI，支持 `--json`。
 - `preview.py`：消息窗口 PNG 预览。
+- `image_store.py`：图片列表、原版/覆盖图预览、`.xyz` 解码、像素差异和生成任务。
+- `templates/images.html`、`static/images.js`、`static/images.css`：图片工具页面。
 - `app.py`：Flask 路由。
 - `data/index.db`：搜索索引（可删除后重建）。
+- `data/image_config.json`：本地图片工具配置（游戏目录、EDB、字体，不提交）。
 - `backups/`：保存前备份。

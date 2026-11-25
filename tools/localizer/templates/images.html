@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RyonaRPG 图片工具</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='images.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <strong>RyonaRPG 图片工具</strong>
+    <span class="muted">原版/中文覆盖对比 · 菜单与界面图生成</span>
+  </div>
+  <div class="top-actions">
+    <span id="imageStatus" class="status">加载中…</span>
+    <a href="/" class="btn ghost">返回文本编辑器</a>
+  </div>
+</header>
+
+<main class="image-page">
+  <section class="image-config">
+    <div class="config-field grow">
+      <label for="gameDir">游戏目录</label>
+      <div class="config-input">
+        <input id="gameDir" type="text" spellcheck="false"
+               placeholder="包含 RPG_RT.ldb 和 Picture 的目录">
+        <button id="pickGame" class="btn" type="button">选择目录…</button>
+      </div>
+    </div>
+    <div class="config-field grow">
+      <label for="edbPath">RPG_RT.edb（生成 Menu 的 items/skills 时需要）</label>
+      <div class="config-input">
+        <input id="edbPath" type="text" spellcheck="false"
+               placeholder="lcf2xml --2k --encoding 932 导出的 XML">
+        <button id="pickEdb" class="btn" type="button">选择文件…</button>
+      </div>
+    </div>
+    <div class="config-field">
+      <label for="fontPath">字体（可选）</label>
+      <div class="config-input">
+        <input id="fontPath" type="text" spellcheck="false"
+               placeholder="留空使用脚本默认字体">
+        <button id="pickFont" class="btn" type="button">选择…</button>
+      </div>
+    </div>
+    <div class="config-actions">
+      <button id="saveConfig" class="btn primary" type="button">保存配置</button>
+      <span id="configStatus" class="muted small"></span>
+    </div>
+  </section>
+
+  <div class="image-workspace">
+    <aside class="image-sidebar">
+      <div class="pane-title">
+        <h2>图片列表</h2>
+        <span id="imageCount" class="muted small"></span>
+      </div>
+      <div id="familyTabs" class="image-tabs"></div>
+      <input id="imageSearch" class="image-search" type="search"
+             autocomplete="off" placeholder="筛选路径，例如 MN_Main、Noel、Ending">
+      <div id="imageList" class="image-list">
+        <div class="empty">加载中…</div>
+      </div>
+      <div class="image-pager">
+        <button id="prevPage" class="btn ghost" type="button">上一页</button>
+        <span id="pageLabel" class="muted small"></span>
+        <button id="nextPage" class="btn ghost" type="button">下一页</button>
+      </div>
+    </aside>
+
+    <section class="image-main">
+      <div class="image-head">
+        <div>
+          <h2 id="imageTitle">选择一张图片</h2>
+          <div id="imagePath" class="muted small"></div>
+        </div>
+        <div class="image-tools">
+          <label class="check-label">
+            <input id="alphaToggle" type="checkbox" checked> 显示透明
+          </label>
+          <div class="zoom-group" role="group" aria-label="缩放">
+            <button class="zoom-btn active" data-zoom="1" type="button">1x</button>
+            <button class="zoom-btn" data-zoom="2" type="button">2x</button>
+            <button class="zoom-btn" data-zoom="4" type="button">4x</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="diffBar" class="diff-bar hidden"></div>
+
+      <div class="image-compare">
+        <article class="image-card">
+          <div class="image-card-head">
+            <span>原版</span>
+            <span id="sourceBadge" class="badge muted-badge">未选择</span>
+          </div>
+          <div id="sourceCanvas" class="checker image-canvas">
+            <span class="image-empty">没有原版图</span>
+            <img id="sourceImg" alt="原版图片" hidden>
+          </div>
+          <div id="sourceMeta" class="image-meta"></div>
+        </article>
+
+        <article class="image-card">
+          <div class="image-card-head">
+            <span>中文覆盖</span>
+            <span id="overrideBadge" class="badge muted-badge">未选择</span>
+          </div>
+          <div id="overrideCanvas" class="checker image-canvas">
+            <span class="image-empty">没有中文覆盖图</span>
+            <img id="overrideImg" alt="中文覆盖图片" hidden>
+          </div>
+          <div id="overrideMeta" class="image-meta"></div>
+        </article>
+      </div>
+
+      <section class="image-generate">
+        <div class="generate-head">
+          <div>
+            <h3>生成</h3>
+            <div id="generatorHint" class="muted small"></div>
+          </div>
+          <div class="generate-controls">
+            <select id="genKind" title="Menu 生成范围">
+              <option value="all">all</option>
+              <option value="items">items</option>
+              <option value="skills">skills</option>
+              <option value="abl">abl</option>
+              <option value="ex">ex</option>
+              <option value="itm">itm</option>
+              <option value="labels">labels</option>
+              <option value="menu_rest">menu_rest</option>
+              <option value="mn_main">mn_main</option>
+              <option value="br_pages">br_pages</option>
+              <option value="sub_lists">sub_lists</option>
+              <option value="cat_menu">cat_menu</option>
+              <option value="status_panel">status_panel</option>
+              <option value="sub_000200">sub_000200</option>
+            </select>
+            <button id="checkImages" class="btn" type="button">检查是否需要更新</button>
+            <button id="buildImages" class="btn primary" type="button">生成图片</button>
+          </div>
+        </div>
+        <div id="jobStatus" class="job-status muted small">尚未运行生成任务</div>
+        <pre id="jobLog" class="job-log"></pre>
+      </section>
+    </section>
+  </div>
+</main>
+
+<div id="toast" class="toast"></div>
+<script src="{{ url_for('static', filename='images.js') }}"></script>
+</body>
+</html>
