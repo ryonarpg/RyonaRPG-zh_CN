@@ -7,7 +7,7 @@
 - 游戏原版：**Classic Japanese `core0163`**（Japanese maintenance edition based on core0163）。
 - 当前 `RPG_RT.ldb` SHA-256：`5bedbdcf2507632a65d4b2bab4d500d0795982f62c5b02f1345a7ed8a7d4c76a`。
 - 翻译版本：`0.1.0`，已发布 GitHub Release。
-- 文本：46,878 条，0 空译；图片覆盖 4,946 项。
+- 文本：46,878 条，0 空译；图片覆盖 5,298 项。
 - 当前行宽：硬上限 50 半角单元；0 行 >50，54 行处于 47–50。
 - 英文 Classic 参考：`RyonaRPG-classic-en-a8d5ca191a4c.zip`（2026-09-13，Git `a8d5ca191a4c`），**不是本补丁基础版本**。
 
@@ -62,7 +62,7 @@ python tools/qa/run_all.py
 - 0 弯引号、0 个 `。。`/`，，`；
 - 0 处“标题 + 危険度”、`Name/Class/Type`、`・/※` 列表、字段标签或 `【说话人】` 标签被合并且丢失分行（`layout_merge_*`；`bracket_title` 和 `control_lines` 用 CLI `layout` 单独审阅，后者保留源文 `\>` 行结构）；
 - 0 个同一方向连续 3 个及以上候选的整段错位（`misalign_runs`，允许间隔 2 条；用 `tools/qa/tm_reference.json.gz` 行级 TM 检测译文是否实际对应相邻源文；2 个连续或单条候选只作警告，不阻塞）；
-- `_img_manifest.json` 中 4,946 个图片全部存在。
+- `_img_manifest.json` 中 5,298 个图片全部存在。
 
 警告项（不阻塞）：`hpmp_chinese` 表示译文把源文 `HP`/`MP` 写成了「生命值」「魔法值」等中文，应保留 `HP`/`MP`。
 
@@ -91,6 +91,8 @@ QA 白名单保存在 `tools/localizer/qa_whitelist.json`，应随仓库提交�
 - 图片生成脚本依赖游戏素材，默认不随公开仓库分发；生成后必须更新 `_img_manifest.json`。
 - 所有菜单 PNG 为 P 模式，索引 0 为透明色键 `(255,156,0)`；禁止改成 RGBA。
 - 选人界面 `Picture/Pict_op` 由 `tools/images/charselect_overrides.py` 生成：`Type0-3` 的索引 0 是 `(255,0,0)`，`Noel_text_1/2` 的索引 0 是背景色且整图不透明，必须沿用源 PNG 的调色板。生成后用 `--check` 校验 P 模式、尺寸和索引 0；模拟图输出到 `build/charselect_mock/`。
+- 技能名图 `Picture/SkillName` 由 `tools/images/skillname_overrides.py` 按 `tools/images/skillname_zh.tsv` 生成。原图 `SkillName000` 是空模板；`001-006` 对应列表的 `000-005`，列表 `006` 对应 `SkillName006b`，之后编号一致。`--check` 校验全部输出。
+- 状态名与武器名 `Picture/Interface` 由 `tools/images/interface_overrides.py` 生成：`Status_02..13`、`Status_v1320`、`wep_v0947_0`。这些图用索引 0 作为透明色键，生成时保留源调色板。
 - `_img_manifest.json` 路径必须使用 `/`。Windows 的 `Picture\Menu\...` 会让 Linux CI 找不到图片并导致 release 失败。
 
 ## 6. 发布与部署
