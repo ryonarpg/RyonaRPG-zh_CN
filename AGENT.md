@@ -61,6 +61,7 @@ python tools/qa/run_all.py
 - 0 个未转义的角色编号文本（`actor_code_literal`，例如把 `\n[102]` 写成 `[102]`）；
 - 0 弯引号、0 个 `。。`/`，，`；
 - 0 处“标题 + 危険度”、`Name/Class/Type`、`・/※` 列表、字段标签或 `【说话人】` 标签被合并且丢失分行（`layout_merge_*`；`bracket_title` 和 `control_lines` 用 CLI `layout` 单独审阅，后者保留源文 `\>` 行结构）；
+- 0 处选人天赋说明行超过 40 半角单元（`layout_talent_width`；角色选择界面有头像，消息窗可用宽度小于普通对话）；
 - 0 个同一方向连续 3 个及以上候选的整段错位（`misalign_runs`，允许间隔 2 条；用 `tools/qa/tm_reference.json.gz` 行级 TM 检测译文是否实际对应相邻源文；2 个连续或单条候选只作警告，不阻塞）；
 - `_img_manifest.json` 中 5,311 个图片全部存在。
 

@@ -32,6 +32,7 @@ ISSUE_LABELS = {
     'layout_merge_field': '字段标签与说明未分行',
     'layout_merge_control': '控制符行结构不一致',
     'layout_merge_speaker': '说话人标签与台词合并',
+    'layout_talent_width': '选人天赋说明行过宽',
 }
 
 _LOCK = threading.Lock()

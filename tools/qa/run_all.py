@@ -97,6 +97,7 @@ def main():
     layout_field = layout_counts.get('field_lines', 0)
     layout_control = layout_counts.get('control_lines', 0)
     layout_speaker = layout_counts.get('speaker_lines', 0)
+    layout_talent = layout_counts.get('talent_width', 0)
 
     misalign = misalignment.scan()
     if misalign.get('skipped'):
@@ -120,16 +121,16 @@ def main():
     print('line_start %d | split_codes %d | bare_name_codes %d' % (line_start, split, bare_name))
     print('actor_code_literal %d' % actor_literal)
     print('curly_quotes %d | dup_punct %d' % (curly, dup))
-    print('layout_merge_danger %d | class %d | bullet %d | field %d | control %d | speaker %d' %
+    print('layout_merge_danger %d | class %d | bullet %d | field %d | control %d | speaker %d | talent_width %d' %
           (layout_danger, layout_class, layout_bullet, layout_field,
-           layout_control, layout_speaker))
+           layout_control, layout_speaker, layout_talent))
     print('manifest %d | missing_images %d' % (manifest_count, len(missing_images)))
     for rel in missing_images[:20]:
         print('MISSING_IMAGE', rel)
 
     errors = (empty + over50 + line_start + split + bare_name + actor_literal +
               curly + dup + layout_danger + layout_class + layout_bullet +
-              layout_field + len(missing_images) + misalign_error)
+              layout_field + layout_talent + len(missing_images) + misalign_error)
     if errors:
         print('QA FAILED: %d issue(s)' % errors)
         return 1
