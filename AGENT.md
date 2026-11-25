@@ -87,9 +87,18 @@ QA 白名单保存在 `tools/localizer/qa_whitelist.json`，应随仓库提交�
 ## 5. 图片
 
 - 覆盖图已随仓库提交；普通对白修改不需要重新生成图片。
-- 修改物品/技能/ABL/EX 名称或说明时，才需要从原游戏 `Picture/Menu` 模板和 LDB 重新生成。
-- 图片生成脚本依赖游戏素材，默认不随公开仓库分发；生成后必须更新 `_img_manifest.json`。
-- 所有菜单 PNG 为 P 模式，索引 0 为透明色键 `(255,156,0)`；禁止改成 RGBA。
+- 修改物品/技能/ABL/EX/ITM 名称、说明或菜单文字时，需要从原游戏 `Picture/Menu` 模板和 LDB 重新生成。
+- 生成脚本在 `tools/images/`，使用 `tools/images/build.py`；仓库不包含游戏素材、`RPG_RT.edb`、字体或原版 `.exe`。详见 `tools/images/README.md`。
+- 先检查是否需要更新：
+
+```bash
+python tools/images/build.py check --game-dir "D:\Games\RyonaRPG" --edb "D:\dump\RPG_RT.edb" --kind all
+```
+
+`check` 会重新渲染到临时目录并报告 `stale/missing/extra/invalid`；`build` 才会覆盖 `language/zh_CN/Picture/Menu`。`validate` 检查 P 模式、透明色键、尺寸和 manifest。
+
+- 所有菜单 PNG 为 P 模式。透明图索引 0 为透明色键 `(255,156,0)`；全屏不透明图（如 `MN_Main_000000.png`）允许索引 0 为背景色。禁止改成 RGBA。
+- 只有新增/删除图片时才需要更新 `_img_manifest.json`；同名替换不用改。
 - 选人界面 `Picture/Pict_op` 由 `tools/images/charselect_overrides.py` 生成：`Type0-3` 的索引 0 是 `(255,0,0)`，`Noel_text_1/2` 的索引 0 是背景色且整图不透明，必须沿用源 PNG 的调色板。生成后用 `--check` 校验 P 模式、尺寸和索引 0；模拟图输出到 `build/charselect_mock/`。
 - 技能名图 `Picture/SkillName` 由 `tools/images/skillname_overrides.py` 按 `tools/images/skillname_zh.tsv` 生成。原图 `SkillName000` 是空模板；`001-006` 对应列表的 `000-005`，列表 `006` 对应 `SkillName006b`，之后编号一致。`--check` 校验全部输出。
 - 状态名与武器名 `Picture/Interface` 由 `tools/images/interface_overrides.py` 生成：`Status_02..13`、`Status_v1320`、`wep_v0947_0`、`bossbutton_text`。这些图用索引 0 作为透明色键，生成时保留源调色板。`bossbutton_heng` 是刻意保留的调试/状态界面梗图，见 `docs/PRESERVED_JAPANESE.md`。
@@ -134,11 +143,13 @@ python tools/deploy_to_game.py --game-dir "D:\Games\RyonaRPG" --with-launcher
 12. `○リーパー` 是对《宝可梦》スリーパー（Hypno，官方中文“引梦貘人”）的规避版权式玩梗；对话中统一译 **`○梦貘人`**，Actor 101 的无 `○` 名称译 **`梦貘人`**，不要译成“收割者/利帕/死神”。
 13. 原数据本身完全乱码的书页/邪神语（`docs/PRESERVED_JAPANESE.md` 中的 53 条）不要机器翻译；译文复制原文，并加入 `qa_whitelist.json`，避免产生更差的乱码。
 14. `HP`、`MP`、`EXP`、`LV`、`G` 等常见游戏缩写保留原文，不译成「生命值」「魔法值」等中文；源文本身的日语实词「魔力」「魔法」仍按原意翻译，不要把「魔力」误改成 MP。
+15. 只改 PO 不会自动更新菜单图，`run_all.py` 只检查图片存在、不检查内容是否过期；发布前对受影响的 kind 运行 `python tools/images/build.py check ...`，`stale` 为 0 再打 tag。
 
 ## 8. 相关文档
 
 - `README.md`：用户安装、部署、发布说明。
 - `docs/LOCALIZER_CLI.md`：CLI 与 Flask JSON API 的命令、字段和 Agent 使用建议。
+- `tools/images/README.md`：菜单图片生成、check/validate、EDB/字体参数说明。
 - `compat.json`：原版版本、LDB 哈希、翻译版本。
 - `docs/PRESERVED_JAPANESE.md`：刻意保留日文的背景说明。
 - 游戏工程侧更详细的翻译/图片流水线见游戏目录的 `AGENT.md`；本仓库以 `language/zh_CN` 和发布流程为准。
