@@ -106,15 +106,18 @@ def render_with_icon(src, dst, text, icon_width, font_path):
     out.save(dst, optimize=True)
 
 
-def render_page(src, dst, lines, font_path):
+def render_page(src, dst, lines):
     src_im = Image.open(src).convert("P")
     rgb = src_im.convert("RGB")
-    bg = Counter(rgb.getdata()).most_common(1)[0][0]
+    pixels = rgb.get_flattened_data() if hasattr(rgb, "get_flattened_data") else rgb.getdata()
+    bg = Counter(pixels).most_common(1)[0][0]
     canvas = Image.new("RGB", rgb.size, bg)
     draw = ImageDraw.Draw(canvas)
     fnt = font(PAGE_FONT, 12)
     y = 2
     for text in lines:
+        if fnt.getlength(text) > rgb.width - 12:
+            raise SystemExit("text too wide for %s: %s" % (dst.name, text))
         draw.text((7, y + 1), text, font=fnt, fill=(4, 6, 36))
         draw.text((6, y), text, font=fnt, fill=(4, 2, 140))
         y += 16
@@ -176,7 +179,7 @@ def main():
             elif kind == "icon":
                 render_with_icon(src, dst, data, icon_width, args.font)
             else:
-                render_page(src, dst, data, args.font)
+                render_page(src, dst, data)
         problems = validate(src, dst)
         if problems:
             failures.append("%s: %s" % (name, "; ".join(problems)))

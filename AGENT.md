@@ -7,7 +7,7 @@
 - 游戏原版：**Classic Japanese `core0163`**（Japanese maintenance edition based on core0163）。
 - 当前 `RPG_RT.ldb` SHA-256：`5bedbdcf2507632a65d4b2bab4d500d0795982f62c5b02f1345a7ed8a7d4c76a`。
 - 翻译版本：`0.1.0`，已发布 GitHub Release。
-- 文本：46,878 条，0 空译；图片覆盖 5,310 项。
+- 文本：46,878 条，0 空译；图片覆盖 5,311 项。
 - 当前行宽：硬上限 50 半角单元；0 行 >50，54 行处于 47–50。
 - 英文 Classic 参考：`RyonaRPG-classic-en-a8d5ca191a4c.zip`（2026-09-13，Git `a8d5ca191a4c`），**不是本补丁基础版本**。
 
@@ -62,7 +62,7 @@ python tools/qa/run_all.py
 - 0 弯引号、0 个 `。。`/`，，`；
 - 0 处“标题 + 危険度”、`Name/Class/Type`、`・/※` 列表、字段标签或 `【说话人】` 标签被合并且丢失分行（`layout_merge_*`；`bracket_title` 和 `control_lines` 用 CLI `layout` 单独审阅，后者保留源文 `\>` 行结构）；
 - 0 个同一方向连续 3 个及以上候选的整段错位（`misalign_runs`，允许间隔 2 条；用 `tools/qa/tm_reference.json.gz` 行级 TM 检测译文是否实际对应相邻源文；2 个连续或单条候选只作警告，不阻塞）；
-- `_img_manifest.json` 中 5,310 个图片全部存在。
+- `_img_manifest.json` 中 5,311 个图片全部存在。
 
 警告项（不阻塞）：`hpmp_chinese` 表示译文把源文 `HP`/`MP` 写成了「生命值」「魔法值」等中文，应保留 `HP`/`MP`。
 
@@ -94,6 +94,7 @@ QA 白名单保存在 `tools/localizer/qa_whitelist.json`，应随仓库提交�
 - 技能名图 `Picture/SkillName` 由 `tools/images/skillname_overrides.py` 按 `tools/images/skillname_zh.tsv` 生成。原图 `SkillName000` 是空模板；`001-006` 对应列表的 `000-005`，列表 `006` 对应 `SkillName006b`，之后编号一致。`--check` 校验全部输出。
 - 状态名与武器名 `Picture/Interface` 由 `tools/images/interface_overrides.py` 生成：`Status_02..13`、`Status_v1320`、`wep_v0947_0`、`bossbutton_text`。这些图用索引 0 作为透明色键，生成时保留源调色板。`bossbutton_heng` 是刻意保留的调试/状态界面梗图，见 `docs/PRESERVED_JAPANESE.md`。
 - 结局文本 `Picture/Ending/*.xyz` 由 `tools/images/ending_overrides.py` 生成：解码 `XYZ1` + zlib + 768 字节调色板 + 索引像素，只重写 `Ending02-12` 的文字页，保留尺寸与原调色板；插画和日期页不覆盖。
+- `Picture/Mini_game/Baccarat.png` 实际是 BlackJack 策略表（文件名沿用原图），由 `tools/images/minigame_overrides.py` 生成；其余 Mini_game 图是英文规则/牌面，无需覆盖。
 - `_img_manifest.json` 路径必须使用 `/`。Windows 的 `Picture\Menu\...` 会让 Linux CI 找不到图片并导致 release 失败。
 
 ## 6. 发布与部署
