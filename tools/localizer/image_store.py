@@ -358,14 +358,20 @@ else:
         filetypes=[("RPG Maker LDB XML", "*.edb"),
                    ("Windows executable", "*.exe"),
                    ("All files", "*.*")])
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
 print(path or "")
 root.destroy()
 '''
     try:
+        env = os.environ.copy()
+        env['PYTHONIOENCODING'] = 'utf-8'
         proc = subprocess.run(
             [sys.executable, '-c', code, kind, title],
             capture_output=True, text=True, encoding='utf-8',
-            errors='replace', timeout=300,
+            errors='replace', timeout=300, env=env,
         )
     except Exception as exc:
         raise RuntimeError('无法打开文件选择器：%s' % exc)
