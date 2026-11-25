@@ -1,12 +1,19 @@
 import os
+import sys
+from pathlib import Path
 
 from flask import Flask, Response, jsonify, render_template, request
+
+TOOLS_DIR = Path(__file__).resolve().parent.parent
+if str(TOOLS_DIR) not in sys.path:
+    sys.path.insert(0, str(TOOLS_DIR))
 
 import image_store
 import layout
 import po_store
 import preview
 import qa_store
+import update_check
 import validators
 
 app = Flask(__name__)
@@ -262,6 +269,27 @@ def api_image_job(job_id):
         return jsonify(image_store.get_job(job_id))
     except FileNotFoundError as exc:
         return jsonify({'error': str(exc)}), 404
+
+
+@app.get('/update')
+def update_page():
+    return render_template('update.html')
+
+
+@app.post('/api/update/check')
+def api_update_check():
+    data = request.get_json(force=True)
+    game_dir = data.get('game_dir', '').strip()
+    old_game_dir = data.get('old_game_dir', '').strip() or None
+    if not game_dir:
+        game_dir = image_store.load_config().get('game_dir', '')
+    if not game_dir:
+        return jsonify({'error': '请先设置新游戏目录'}), 400
+    try:
+        result = update_check.check(game_dir, old_game_dir)
+        return jsonify(result)
+    except Exception as exc:
+        return jsonify({'error': str(exc)}), 400
 
 
 if __name__ == '__main__':

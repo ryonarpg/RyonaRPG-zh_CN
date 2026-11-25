@@ -33,6 +33,7 @@ python app.py
 - **消息预览**：右侧同时显示日文原版和中文译文，各为 320×80、12px 字体、每 4 行一页，方便对照换行与分页。
 - **图片工具**：打开 `/images`，用系统目录选择器设置游戏路径和 `RPG_RT.edb`；按 Menu/Pict_op/SkillName/Interface/Ending/Mini_game 浏览原版与中文覆盖图，查看并排预览、透明色键和像素差异，并直接运行 `check`/`build` 生成脚本（后台任务与日志）。配置保存在 `data/image_config.json`。
 - **EDB 自动导出**：选择已有的 `lcf2xml.exe` 后点“从 LDB 导出”，编辑器会从 `RPG_RT.ldb` 生成 `data/RPG_RT.edb` 并自动填入配置。liblcf 官方 release 页目前只提供源码包，没有可靠的官方 Windows 预编译包，因此编辑器不自动下载；可使用已有二进制、MSYS2 包（`mingw-w64-liblcf`）或自行构建。官方项目：https://github.com/EasyRPG/liblcf/releases
+- **游戏更新检查**：打开 `/update` 选择新旧游戏目录，比较 LDB、LMT、地图和图片，列出需要重导 PO/重生成图片的部分；同一逻辑可用 `python tools/update_check.py --json`。流程见 `docs/UPDATE_GAME.md`。
 - **备份**：每次保存前把原 PO 复制到 `backups/`，文件名带时间戳。
 - **索引重建**：保存后自动更新索引；也可点“重建索引”。
 

@@ -8,6 +8,7 @@
 - 本补丁使用该版本的 `RPG_RT.ldb`；校验哈希见 `compat.json`。
 - 英文 Classic 仅作参考：`RyonaRPG-classic-en-a8d5ca191a4c.zip`（2026-09-13，Git `a8d5ca191a4c`，SHA-256 `738919261550ac649f6367b7cac7168f68fed04d21f1d4c33426460404774b3c`），**不是本补丁的基础版本**。
 - 当前翻译版本：`0.1.0`。
+- 游戏本体更新后的重基线流程见 [docs/UPDATE_GAME.md](docs/UPDATE_GAME.md)；可先用 `python tools/update_check.py --game-dir <新目录> --old-game-dir <旧目录>` 判断变化范围。
 
 ## 目录
 
@@ -16,6 +17,7 @@ AGENT.md             Agent/维护者工作规范
 language/zh_CN/      译文源（PO + Meta.ini + Picture 覆盖图）
 launcher/            启动中文版的批处理和安装说明
 tools/localizer/     本地 PO 编辑器
+tools/update_check.py 新游戏版本变化检查
 tools/qa/            提交/发布前自动校验
 tools/build_release.py
 tools/deploy_to_game.py
