@@ -37,6 +37,14 @@ def image_name(key):
     return "SkillName%s.png" % key
 
 
+def find_source(src_dir, key):
+    expected = image_name(key).lower()
+    for path in src_dir.iterdir():
+        if path.suffix.lower() == ".png" and path.name.lower() == expected:
+            return path
+    return None
+
+
 def load_table(path):
     rows = []
     for line in path.read_text(encoding="utf-8").splitlines():
@@ -106,7 +114,7 @@ def main():
     missing = []
     failures = []
     for key, _source, translation in rows:
-        src = src_dir / image_name(key)
+        src = find_source(src_dir, key)
         if not src.exists():
             missing.append(str(src))
             continue
