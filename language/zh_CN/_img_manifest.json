@@ -1,5 +1,5 @@
 {
- "created": "2026-11-24T18:31:25",
+ "created": "2026-11-25T15:11:33",
  "files": [
   "Picture/Menu/ABL/MN_ABL_0001.png",
   "Picture/Menu/ABL/MN_ABL_0002.png",
@@ -4940,6 +4940,12 @@
   "Picture/Menu/aptSetX2.png",
   "Picture/Menu/cvSet.png",
   "Picture/Menu/cvSetX0.png",
-  "Picture/Menu/cvSetX1.png"
+  "Picture/Menu/cvSetX1.png",
+  "Picture/Pict_op/Noel_text_1.png",
+  "Picture/Pict_op/Noel_text_2.png",
+  "Picture/Pict_op/Type0.png",
+  "Picture/Pict_op/Type1.png",
+  "Picture/Pict_op/Type2.png",
+  "Picture/Pict_op/Type3.png"
  ]
 }
